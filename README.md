@@ -6,7 +6,7 @@ A PyTorch implementation of Korean NER Tagger based on BERT + CRF (PyTorch v1.2 
 
 ### Examples
 
-![ner_jupyter_notebook](./assets/ner_jupyter_notebook.png)
+![ner_jupyter_notebook](./assets/ner_jupyter_notebook_2.png)
 
 ### Logs
 ```
