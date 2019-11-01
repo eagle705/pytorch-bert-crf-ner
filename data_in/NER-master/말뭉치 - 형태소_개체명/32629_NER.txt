@@ -1,0 +1,641 @@
+## 1
+## 새누리당 이 대표가 접촉한 동교동계 인사는 김대중 정부 문화관광부 장관을 지낸 김성재 김대중아카데미 원장이라고 박 위원장은 밝혔다.
+## <새누리당:ORG> <이:PER> 대표가 접촉한 동교동계 인사는 <김대중:PER> 정부 <문화관광부:ORG> 장관을 지낸 <김성재:PER> <김대중아카데미:ORG> 원장이라고 <박:PER> 위원장은 밝혔다.
+새누리당	새누리당	NNP	B-ORG
+_	_	_	O
+이	이	NNP	B-PER
+_	_	_	O
+대표	대표	NNG	O
+가	가	JKS	O
+_	_	_	O
+접촉한	접촉하+ㄴ	VV+ETM	O
+_	_	_	O
+동교동	동교동	NNP	O
+계	계	XSN	O
+_	_	_	O
+인사	인사	NNG	O
+는	는	JX	O
+_	_	_	O
+김대중	김대중	NNP	B-PER
+_	_	_	O
+정부	정부	NNG	O
+_	_	_	O
+문화	문화	NNG	B-ORG
+관광부	관광부	NNG	I-ORG
+_	_	_	O
+장관	장관	NNG	O
+을	을	JKO	O
+_	_	_	O
+지낸	지내+ㄴ	VV+ETM	O
+_	_	_	O
+김성재	김성재	NNP	B-PER
+_	_	_	O
+김대중	김대중	NNP	B-ORG
+아카데미	아카데미	NNG	I-ORG
+_	_	_	O
+원장	원장	NNG	O
+이	이	VCP	O
+라고	라고	EC	O
+_	_	_	O
+박	박	NNP	B-PER
+_	_	_	O
+위원장	위원장	NNG	O
+은	은	JX	O
+_	_	_	O
+밝	밝히	VV	O
+혔	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 그냥 일베나 이런 쪽에서 만든 거 아닌가 생각했다.
+## 그냥 <일베:POH>나 이런 쪽에서 만든 거 아닌가 생각했다.
+그냥	그냥	MAG	O
+_	_	_	O
+일베	일베	NNG	B-POH
+나	나	JC	O
+_	_	_	O
+이런	이런	MM	O
+_	_	_	O
+쪽	쪽	NNB	O
+에서	에서	JKB	O
+_	_	_	O
+만든	만들+ㄴ	VV+ETM	O
+_	_	_	O
+거	것	NNB	O
+_	_	_	O
+아닌가	아니+ㄴ가	VCN+EC	O
+_	_	_	O
+생각	생각하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## - 헌재의 통진당 해산 결정을 어떻게 보나. “헌재에 의한 최초의 정당해산이 이뤄진 것은 우리 민주주의의 역사적 오점이다.
+## - 헌재의 <통진당 해산:POH> 결정을 어떻게 보나. “헌재에 의한 최초의 정당해산이 이뤄진 것은 우리 민주주의의 역사적 오점이다.
+-	-	SO	O
+_	_	_	O
+헌재	헌재	NNG	O
+의	의	JKG	O
+_	_	_	O
+통진당	통진당	NNP	B-POH
+_	_	_	I-POH
+해산	해산	NNG	I-POH
+_	_	_	O
+결정	결정	NNG	O
+을	을	JKO	O
+_	_	_	O
+어떻	어떻	VA	O
+게	게	EC	O
+_	_	_	O
+보	보	VV	O
+나	나	EF	O
+.	.	SF	O
+_	_	_	O
+“	“	SS	O
+헌재	헌재	NNG	O
+에	에	JKB	O
+_	_	_	O
+의한	의하+ㄴ	VV+ETM	O
+_	_	_	O
+최초	최초	NNG	O
+의	의	JKG	O
+_	_	_	O
+정당	정당	NNG	O
+해산	해산	NNG	O
+이	이	JKS	O
+_	_	_	O
+이뤄진	이루어지+ㄴ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+은	은	JX	O
+_	_	_	O
+우리	우리	NP	O
+_	_	_	O
+민주주의	민주주의	NNG	O
+의	의	JKG	O
+_	_	_	O
+역사	역사	NNG	O
+적	적	XSN	O
+_	_	_	O
+오점	오점	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## '라디오스타' 차예련, 김혜성 디스…"잘생긴 거 모르겠는데?"
+## '<라디오스타:POH>' <차예련:PER>, <김혜성:PER> 디스…"잘생긴 거 모르겠는데?"
+'	'	SS	O
+라디오스타	라디오스타	NNP	B-POH
+'	'	SS	O
+_	_	_	O
+차	차	NNB	B-PER
+예	예+이	NNG+VCP	I-PER
+련	련	EC	I-PER
+,	,	SP	O
+_	_	_	O
+김혜성	김혜성	NNP	B-PER
+_	_	_	O
+디스	디스	NNG	O
+…	…	SE	O
+"	"	SS	O
+잘생긴	잘생기+ㄴ	VA+ETM	O
+_	_	_	O
+거	거	NNB	O
+_	_	_	O
+모르	모르	VV	O
+겠	겠	EP	O
+는데	는데	EF	O
+?	?	SF	O
+"	"	SS	O
+
+## 5
+## 이 때문에 세 부모 체외수정이 아닌 ‘2.001 부모’ 체외수정으로 불러야 한다는 주장도 나온다.
+## 이 때문에 <세 부모:NOH> 체외수정이 아닌 ‘<2.001 부모:POH>’ 체외수정으로 불러야 한다는 주장도 나온다.
+이	이	MM	O
+_	_	_	O
+때문	때문	NNB	O
+에	에	JKB	O
+_	_	_	O
+세	세	MM	B-NOH
+_	_	_	I-NOH
+부모	부모	NNG	I-NOH
+_	_	_	O
+체외	체외	NNG	O
+수정	수정	NNG	O
+이	이	JKC	O
+_	_	_	O
+아닌	아니+ㄴ	VCN+ETM	O
+_	_	_	O
+‘	‘	SS	O
+2.001	2.001	SN	B-POH
+_	_	_	I-POH
+부모	부모	NNG	I-POH
+’	’	SS	O
+_	_	_	O
+체외	체외	NNG	O
+수정	수정	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+불	부르	VV	O
+러야	어야	EC	O
+_	_	_	O
+한다는	하+ㄴ다는	VX+ETM	O
+_	_	_	O
+주장	주장	NNG	O
+도	도	JX	O
+_	_	_	O
+나온다	나오+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 6
+## ②미토콘드리아 돌연변이, 150여 가지 질병 요인 인체의 모든 세포는 핵과 세포질로 구성된다.
+## <②:NOH>미토콘드리아 돌연변이, <150여 가지:NOH> 질병 요인 인체의 모든 세포는 핵과 세포질로 구성된다.
+②	②	SW	B-NOH
+미토콘드리아	미토콘드리아	NNG	O
+_	_	_	O
+돌연변이	돌연변이	NNG	O
+,	,	SP	O
+_	_	_	O
+150	150	SN	B-NOH
+여	여	XSN	I-NOH
+_	_	_	I-NOH
+가지	가지	NNB	I-NOH
+_	_	_	O
+질병	질병	NNG	O
+_	_	_	O
+요인	요인	NNG	O
+_	_	_	O
+인체	인체	NNG	O
+의	의	JKG	O
+_	_	_	O
+모든	모든	MM	O
+_	_	_	O
+세포	세포	NNG	O
+는	는	JX	O
+_	_	_	O
+핵	핵	NNG	O
+과	과	JC	O
+_	_	_	O
+세포질	세포질	NNG	O
+로	로	JKB	O
+_	_	_	O
+구성된다	구성되+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 7
+## LG 류제국, 이르면 5월초 돌아온다
+## <LG:ORG> <류제국:PER>, 이르면 <5월:DAT>초 돌아온다
+LG	LG	SL	B-ORG
+_	_	_	O
+류제국	류제국	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+이르	이르	VV	O
+면	면	EC	O
+_	_	_	O
+5	5	SN	B-DAT
+월	월	NNB	I-DAT
+초	초	NNB	O
+_	_	_	O
+돌아온다	돌아오+ㄴ다	VV+EF	O
+
+## 8
+## 그런 만큼 권 고문이 안 의원에게 우호적인 태도를 보인 건 이례적이다.
+## 그런 만큼 <권:PER> 고문이 <안:PER> 의원에게 우호적인 태도를 보인 건 이례적이다.
+그런	그런	MM	O
+_	_	_	O
+만큼	만큼	NNB	O
+_	_	_	O
+권	권	NNB	B-PER
+_	_	_	O
+고문	고문	NNG	O
+이	이	JKS	O
+_	_	_	O
+안	안	NNP	B-PER
+_	_	_	O
+의원	의원	NNG	O
+에게	에게	JKB	O
+_	_	_	O
+우호적	우호적	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+태도	태도	NNG	O
+를	를	JKO	O
+_	_	_	O
+보인	보이+ㄴ	VV+ETM	O
+_	_	_	O
+건	것+ㄴ	NNB+JX	O
+_	_	_	O
+이례적	이례적	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 이국장은 또 『유망중소기업의 도산을 막기위해 오는 10월말부터 신청을 받아 5천억원을 지원하고 이미 소진된 올해분 외화대출한도를 5천억원 늘려 중소기업에만 지원하겠다』고 말했다.
+## <이:PER>국장은 또 『유망중소기업의 도산을 막기위해 오는 <10월:DAT>말부터 신청을 받아 <5천억원:MNY>을 지원하고 이미 소진된 올해분 외화대출한도를 <5천억원:MNY> 늘려 중소기업에만 지원하겠다』고 말했다.
+이	이	NNP	B-PER
+국장	국장	NNG	O
+은	은	JX	O
+_	_	_	O
+또	또	MAG	O
+_	_	_	O
+『	『	SS	O
+유망	유망	NNG	O
+중소기업	중소기업	NNG	O
+의	의	JKG	O
+_	_	_	O
+도산	도산	NNG	O
+을	을	JKO	O
+_	_	_	O
+막	막	VV	O
+기	기	ETN	O
+위해	위하+여	VV+EC	O
+_	_	_	O
+오	오	VV	O
+는	는	ETM	O
+_	_	_	O
+10	10	SN	B-DAT
+월	월	NNB	I-DAT
+말	말	NNB	O
+부터	부터	JX	O
+_	_	_	O
+신청	신청	NNG	O
+을	을	JKO	O
+_	_	_	O
+받	받	VV	O
+아	아	EC	O
+_	_	_	O
+5	5	SN	B-MNY
+천	천	NR	I-MNY
+억	억	NR	I-MNY
+원	원	NNB	I-MNY
+을	을	JKO	O
+_	_	_	O
+지원하	지원하	VV	O
+고	고	EC	O
+_	_	_	O
+이미	이미	MAG	O
+_	_	_	O
+소진된	소진되+ㄴ	VV+ETM	O
+_	_	_	O
+올해	올해	NNG	O
+분	분	XSN	O
+_	_	_	O
+외화	외화	NNG	O
+대출	대출	NNG	O
+한도	한도	NNG	O
+를	를	JKO	O
+_	_	_	O
+5	5	SN	B-MNY
+천	천	NR	I-MNY
+억	억	NR	I-MNY
+원	원	NNB	I-MNY
+_	_	_	O
+늘려	늘리+어	VV+EC	O
+_	_	_	O
+중소기업	중소기업	NNG	O
+에	에	JKB	O
+만	만	JX	O
+_	_	_	O
+지원하	지원하	VV	O
+겠	겠	EP	O
+다	다	EF	O
+』	』	SS	O
+고	고	JKQ	O
+_	_	_	O
+말	말하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## ‘카페25 아이스컵’에 들어있는 우유공은 50원짜리 동전 크기로 세븐일레븐의 우유구슬보다 훨씬 크다.
+## ‘<카페25 아이스컵:POH>’에 들어있는 우유공은 <50원:MNY>짜리 동전 크기로 <세븐일레븐:ORG>의 우유구슬보다 훨씬 크다.
+‘	‘	SS	O
+카페	카페	NNG	B-POH
+25	25	SN	I-POH
+_	_	_	I-POH
+아이스	아이스	NNG	I-POH
+컵	컵	NNG	I-POH
+’	’	SS	O
+에	에	JKB	O
+_	_	_	O
+들	들	VV	O
+어	어	EC	O
+있	있	VX	O
+는	는	ETM	O
+_	_	_	O
+우유	우유	NNG	O
+공	공	NNG	O
+은	은	JX	O
+_	_	_	O
+50	50	SN	B-MNY
+원	원	NNB	I-MNY
+짜리	짜리	XSN	O
+_	_	_	O
+동전	동전	NNG	O
+_	_	_	O
+크기	크기	NNG	O
+로	로	JKB	O
+_	_	_	O
+세븐일레븐	세븐일레븐	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+우유	우유	NNG	O
+구슬	구슬	NNG	O
+보다	보다	JKB	O
+_	_	_	O
+훨씬	훨씬	MAG	O
+_	_	_	O
+크	크	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 걸스데이 태도논란, 반말에 신경전까지? 진행자 최군 해명했지만…영상 삭제된 상태
+## <걸스데이:ORG> 태도논란, 반말에 신경전까지? 진행자 <최군:PER> 해명했지만…영상 삭제된 상태
+걸스데이	걸스데이	NNP	B-ORG
+_	_	_	O
+태도	태도	NNG	O
+논란	논란	NNG	O
+,	,	SP	O
+_	_	_	O
+반말	반말	NNG	O
+에	에	JKB	O
+_	_	_	O
+신경전	신경전	NNG	O
+까지	까지	JX	O
+?	?	SF	O
+_	_	_	O
+진행자	진행자	NNG	O
+_	_	_	O
+최	최	NNP	B-PER
+군	군	NNB	I-PER
+_	_	_	O
+해명	해명하	VV	O
+했	였	EP	O
+지만	지만	EC	O
+…	…	SE	O
+영상	영상	NNG	O
+_	_	_	O
+삭제된	삭제되+ㄴ	VV+ETM	O
+_	_	_	O
+상태	상태	NNG	O
+
+## 12
+## 그런데 유승준에 대해서는 13년이 지난 지금까지 유독 용서할 기미가 보이지 않는다”고 말했다.
+## 그런데 <유승준:PER>에 대해서는 <13년:NOH>이 지난 지금까지 유독 용서할 기미가 보이지 않는다”고 말했다.
+그런데	그런데	MAJ	O
+_	_	_	O
+유승준	유승준	NNP	B-PER
+에	에	JKB	O
+_	_	_	O
+대해서	대하+여서	VV+EC	O
+는	는	JX	O
+_	_	_	O
+13	13	SN	B-NOH
+년	년	NNB	I-NOH
+이	이	JKS	O
+_	_	_	O
+지난	지나+ㄴ	VV+ETM	O
+_	_	_	O
+지금	지금	NNG	O
+까지	까지	JX	O
+_	_	_	O
+유독	유독	MAG	O
+_	_	_	O
+용서할	용서하+ㄹ	VV+ETM	O
+_	_	_	O
+기미	기미	NNG	O
+가	가	JKS	O
+_	_	_	O
+보이	보이	VV	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+는다	는다	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+말	말하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## 2009년 1억 2192만 달러(1433억원)로 최고점을 찍은 그의 수입은 지난해는 4분의 1토막(3460만 달러)으로 줄었다.
+## <2009년:DAT> <1억 2192만 달러:MNY>(<1433억원:MNY>)로 최고점을 찍은 그의 수입은 지난해는 <4분의 1:PNT>토막(<3460만 달러:MNY>)으로 줄었다.
+2009	2009	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+1	1	SN	B-MNY
+억	억	NR	I-MNY
+_	_	_	I-MNY
+2192	2192	SN	I-MNY
+만	만	NR	I-MNY
+_	_	_	I-MNY
+달러	달러	NNB	I-MNY
+(	(	SS	O
+1433	1433	SN	B-MNY
+억	억	NR	I-MNY
+원	원	NNB	I-MNY
+)	)	SS	O
+로	로	JKB	O
+_	_	_	O
+최고점	최고점	NNG	O
+을	을	JKO	O
+_	_	_	O
+찍	찍	VV	O
+은	은	ETM	O
+_	_	_	O
+그	그	NP	O
+의	의	JKG	O
+_	_	_	O
+수입	수입	NNG	O
+은	은	JX	O
+_	_	_	O
+지난해	지난해	NNG	O
+는	는	JX	O
+_	_	_	O
+4	4	SN	B-PNT
+분	분	XSN	I-PNT
+의	의	JKG	I-PNT
+_	_	_	I-PNT
+1	1	SN	I-PNT
+토막	토막	NNG	O
+(	(	SS	O
+3460	3460	SN	B-MNY
+만	만	NR	I-MNY
+_	_	_	I-MNY
+달러	달러	NNB	I-MNY
+)	)	SS	O
+으로	으로	JKB	O
+_	_	_	O
+줄	줄	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 14
+## 일반적으로 핵탄두의 무게를 1000kg 이하, 지름 90cm 이내 수준으로 줄이게 되면 소형화를 이룬 것으로 평가하지만 500kg 이하로 줄이는 것은 쉽지 않다.
+## 일반적으로 핵탄두의 무게를 <1000kg:NOH> 이하, 지름 <90cm:NOH> 이내 수준으로 줄이게 되면 소형화를 이룬 것으로 평가하지만 <500kg:NOH> 이하로 줄이는 것은 쉽지 않다.
+일반적	일반적	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+핵탄두	핵탄두	NNG	O
+의	의	JKG	O
+_	_	_	O
+무게	무게	NNG	O
+를	를	JKO	O
+_	_	_	O
+1000	1000	SN	B-NOH
+kg	kg	SL	I-NOH
+_	_	_	O
+이하	이하	NNG	O
+,	,	SP	O
+_	_	_	O
+지름	지름	NNG	O
+_	_	_	O
+90	90	SN	B-NOH
+cm	cm	SL	I-NOH
+_	_	_	O
+이내	이내	MAG	O
+_	_	_	O
+수준	수준	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+줄이	줄이	VV	O
+게	게	EC	O
+_	_	_	O
+되	되	VV	O
+면	면	EC	O
+_	_	_	O
+소형화	소형화	NNG	O
+를	를	JKO	O
+_	_	_	O
+이룬	이루+ㄴ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+평가하	평가하	VV	O
+지만	지만	EC	O
+_	_	_	O
+500	500	SN	B-NOH
+kg	kg	SL	I-NOH
+_	_	_	O
+이하	이하	NNG	O
+로	로	JKB	O
+_	_	_	O
+줄이	줄이	VV	O
+는	는	ETM	O
+_	_	_	O
+것	것	NNB	O
+은	은	JX	O
+_	_	_	O
+쉽	쉽	VA	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 15
+## 컴퓨터 모니터에 얼굴을 고정하고 있던 4명의 남자가 우리를 쳐다봤다.
+## 컴퓨터 모니터에 얼굴을 고정하고 있던 <4명:NOH>의 남자가 우리를 쳐다봤다.
+컴퓨터	컴퓨터	NNG	O
+_	_	_	O
+모니터	모니터	NNG	O
+에	에	JKB	O
+_	_	_	O
+얼굴	얼굴	NNG	O
+을	을	JKO	O
+_	_	_	O
+고정하	고정하	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+던	던	ETM	O
+_	_	_	O
+4	4	SN	B-NOH
+명	명	NNB	I-NOH
+의	의	JKG	O
+_	_	_	O
+남자	남자	NNG	O
+가	가	JKS	O
+_	_	_	O
+우리	우리	NP	O
+를	를	JKO	O
+_	_	_	O
+쳐다	쳐다보	VV	O
+봤	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 16
+## 남상태 비자금 창구 의혹…이창하 “사업 특혜 없었다”
+## <남상태:PER> 비자금 창구 의혹…이창하 “사업 특혜 없었다”
+남상태	남상태	NNP	B-PER
+_	_	_	O
+비자금	비자금	NNG	O
+_	_	_	O
+창구	창구	NNG	O
+_	_	_	O
+의혹	의혹	NNG	O
+…	…	SE	O
+이창하	이창하	NNP	O
+_	_	_	O
+“	“	SS	O
+사업	사업	NNG	O
+_	_	_	O
+특혜	특혜	NNG	O
+_	_	_	O
+없	없	VA	O
+었	었	EP	O
+다	다	EF	O
+”	”	SS	O
+

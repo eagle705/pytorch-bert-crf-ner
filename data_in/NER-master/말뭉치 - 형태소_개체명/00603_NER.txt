@@ -1,0 +1,511 @@
+## 1
+## ‘참을 인자 셋이면 살인도 면한다’고 했다.
+## ‘참을 인자 <셋:NOH>이면 살인도 면한다’고 했다.
+‘	‘	SS	O
+참	참	VV	O
+을	을	ETM	O
+_	_	_	O
+인자	인자	NNG	O
+_	_	_	O
+셋	셋	NR	B-NOH
+이	이	VCP	O
+면	면	EC	O
+_	_	_	O
+살인	살인	NNG	O
+도	도	JX	O
+_	_	_	O
+면한다	면하+ㄴ다	VV+EF	O
+’	’	SS	O
+고	고	JKQ	O
+_	_	_	O
+했	+였	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 169개에 달하는 세부목표 이행을 정부에만 맡겨둘 수 없어 시민사회와 민간기업 등 모든 이해관계자가 참여하도록 포용성을 키운 것도 특징이다.
+## <169개:NOH>에 달하는 세부목표 이행을 정부에만 맡겨둘 수 없어 시민사회와 민간기업 등 모든 이해관계자가 참여하도록 포용성을 키운 것도 특징이다.
+169	169	SN	B-NOH
+개	개	NNB	I-NOH
+에	에	JKB	O
+_	_	_	O
+달하	달하	VV	O
+는	는	ETM	O
+_	_	_	O
+세부	세부	NNG	O
+목표	목표	NNG	O
+_	_	_	O
+이행	이행	NNG	O
+을	을	JKO	O
+_	_	_	O
+정부	정부	NNG	O
+에	에	JKB	O
+만	만	JX	O
+_	_	_	O
+맡겨	맡기+어	VV+EC	O
+둘	두+ㄹ	VX+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+없	없	VA	O
+어	어	EC	O
+_	_	_	O
+시민사회	시민사회	NNG	O
+와	와	JC	O
+_	_	_	O
+민간	민간	NNG	O
+기업	기업	NNG	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+모든	모든	MM	O
+_	_	_	O
+이해관계	이해관계	NNG	O
+자	자	XSN	O
+가	가	JKS	O
+_	_	_	O
+참여하	참여하	VV	O
+도록	도록	EC	O
+_	_	_	O
+포용성	포용성	NNG	O
+을	을	JKO	O
+_	_	_	O
+키운	키우+ㄴ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+도	도	JX	O
+_	_	_	O
+특징	특징	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## “박근혜 대통령 사퇴문, 수정해주세요” 충북대 이색 대자보
+## “<박근혜:PER> 대통령 사퇴문, 수정해주세요” <충북대:ORG> 이색 대자보
+“	“	SS	O
+박근혜	박근혜	NNP	B-PER
+_	_	_	O
+대통령	대통령	NNG	O
+_	_	_	O
+사퇴	사퇴	NNG	O
+문	문	NNP	O
+,	,	SP	O
+_	_	_	O
+수정해	수정하+여	VV+EC	O
+주	주	VX	O
+세요	세요	EF	O
+”	”	SS	O
+_	_	_	O
+충북대	충북대	NNP	B-ORG
+_	_	_	O
+이색	이색	NNG	O
+_	_	_	O
+대자보	대자보	NNG	O
+
+## 4
+## 레바인 박사는 미국 최고의 종합병원 메이요 클리닉의 내분비학을 전공한 의사로 애리조나주립대 비만센터의 총책임자를 맡고 있다.
+## <레바인:PER> 박사는 <미국:LOC> 최고의 종합병원 <메이요 클리닉:ORG>의 내분비학을 전공한 의사로 <애리조나주립대 비만센터:ORG>의 총책임자를 맡고 있다.
+레바인	레바인	NNP	B-PER
+_	_	_	O
+박사	박사	NNG	O
+는	는	JX	O
+_	_	_	O
+미국	미국	NNP	B-LOC
+_	_	_	O
+최고	최고	NNG	O
+의	의	JKG	O
+_	_	_	O
+종합	종합	NNG	O
+병원	병원	NNG	O
+_	_	_	O
+메이요	메이요	NNP	B-ORG
+_	_	_	I-ORG
+클리닉	클리닉	NNG	I-ORG
+의	의	JKG	O
+_	_	_	O
+내분비학	내분비학	NNG	O
+을	을	JKO	O
+_	_	_	O
+전공한	전공하+ㄴ	VV+ETM	O
+_	_	_	O
+의사	의사	NNG	O
+로	로	JKB	O
+_	_	_	O
+애리조나주립대	애리조나주립대	NNP	B-ORG
+_	_	_	I-ORG
+비만	비만	NNG	I-ORG
+센터	센터	NNG	I-ORG
+의	의	JKG	O
+_	_	_	O
+총책임자	총책임자	NNG	O
+를	를	JKO	O
+_	_	_	O
+맡	맡	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 17세이하 대표팀을 시작으로 20세, 23세 등 각급 연령별 대표팀을 거치며 유망주로 성장했고 결국 2001년 22살의 나이로 ‘사커루’(호주 축구대표팀 애칭)의 일원이 됐다.
+## <17세:NOH>이하 대표팀을 시작으로 <20세:NOH>, <23세:NOH> 등 각급 연령별 대표팀을 거치며 유망주로 성장했고 결국 <2001년:DAT> <22살:NOH>의 나이로 ‘<사커루:ORG>’(<호주 축구대표팀:ORG> 애칭)의 일원이 됐다.
+17	17	SN	B-NOH
+세	세	NNB	I-NOH
+이하	이하	NNG	O
+_	_	_	O
+대표	대표	NNG	O
+팀	팀	NNG	O
+을	을	JKO	O
+_	_	_	O
+시작	시작	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+20	20	SN	B-NOH
+세	세	NNB	I-NOH
+,	,	SP	O
+_	_	_	O
+23	23	SN	B-NOH
+세	세	NNB	I-NOH
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+각급	각급	NNG	O
+_	_	_	O
+연령	연령	NNG	O
+별	별	XSN	O
+_	_	_	O
+대표	대표	NNG	O
+팀	팀	NNG	O
+을	을	JKO	O
+_	_	_	O
+거치	거치	VV	O
+며	며	EC	O
+_	_	_	O
+유망주	유망주	NNG	O
+로	로	JKB	O
+_	_	_	O
+성장	성장하	VV	O
+했	였	EP	O
+고	고	EC	O
+_	_	_	O
+결국	결국	NNG	O
+_	_	_	O
+2001	2001	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+22	22	SN	B-NOH
+살	살	NNB	I-NOH
+의	의	JKG	O
+_	_	_	O
+나이	나이	NNG	O
+로	로	JKB	O
+_	_	_	O
+‘	‘	SS	O
+사커	사커	NNG	B-ORG
+루	루	JKB	I-ORG
+’	’	SS	O
+(	(	SS	O
+호주	호주	NNP	B-ORG
+_	_	_	I-ORG
+축구	축구	NNG	I-ORG
+대표	대표	NNG	I-ORG
+팀	팀	NNG	I-ORG
+_	_	_	O
+애칭	애칭	NNG	O
+)	)	SS	O
+의	의	JKG	O
+_	_	_	O
+일원	일원	NNG	O
+이	이	JKC	O
+_	_	_	O
+됐	+었	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 많은 중소기업과 스타트업이 연매출의 20%에 달하는 피해를 정보 유출로 인해 입고 있다.
+## 많은 중소기업과 스타트업이 연매출의 <20%:PNT>에 달하는 피해를 정보 유출로 인해 입고 있다.
+많	많	VA	O
+은	은	ETM	O
+_	_	_	O
+중소기업	중소기업	NNG	O
+과	과	JC	O
+_	_	_	O
+스타트	스타트	NNG	O
+업	업	NNG	O
+이	이	JKS	O
+_	_	_	O
+연	연	NNG	O
+매출	매출	NNG	O
+의	의	JKG	O
+_	_	_	O
+20	20	SN	B-PNT
+%	%	SW	I-PNT
+에	에	JKB	O
+_	_	_	O
+달하	달하	VV	O
+는	는	ETM	O
+_	_	_	O
+피해	피해	NNG	O
+를	를	JKO	O
+_	_	_	O
+정보	정보	NNG	O
+_	_	_	O
+유출	유출	NNG	O
+로	로	JKB	O
+_	_	_	O
+인해	인하+여	VV+EC	O
+_	_	_	O
+입	입	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 오피스365는 이러한 정보 유출을 방지할 수 있도록 5가지 핵심 보안 기능을 제공한다.
+## <오피스365:ORG>는 이러한 정보 유출을 방지할 수 있도록 <5가지:NOH> 핵심 보안 기능을 제공한다.
+오피스	오피스	NNG	B-ORG
+365	365	SN	I-ORG
+는	는	JX	O
+_	_	_	O
+이러한	이러하+ㄴ	VA+ETM	O
+_	_	_	O
+정보	정보	NNG	O
+_	_	_	O
+유출	유출	NNG	O
+을	을	JKO	O
+_	_	_	O
+방지할	방지하+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+도록	도록	EC	O
+_	_	_	O
+5	5	SN	B-NOH
+가지	가지	NNB	I-NOH
+_	_	_	O
+핵심	핵심	NNG	O
+_	_	_	O
+보안	보안	NNG	O
+_	_	_	O
+기능	기능	NNG	O
+을	을	JKO	O
+_	_	_	O
+제공한다	제공하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 8
+## 다만 FT 소속 기자들 사이에서는 편집권의 독립성이 훼손되는 것 아니냐는 우려가 확산되고 있다.
+## 다만 <FT:ORG> 소속 기자들 사이에서는 편집권의 독립성이 훼손되는 것 아니냐는 우려가 확산되고 있다.
+다만	다만	MAG	O
+_	_	_	O
+FT	FT	SL	B-ORG
+_	_	_	O
+소속	소속	NNG	O
+_	_	_	O
+기자	기자	NNG	O
+들	들	XSN	O
+_	_	_	O
+사이	사이	NNG	O
+에서	에서	JKB	O
+는	는	JX	O
+_	_	_	O
+편집권	편집권	NNG	O
+의	의	JKG	O
+_	_	_	O
+독립성	독립성	NNG	O
+이	이	JKS	O
+_	_	_	O
+훼손되	훼손되	VV	O
+는	는	ETM	O
+_	_	_	O
+것	것	NNB	O
+_	_	_	O
+아니	아니	VCN	O
+냐는	냐는	ETM	O
+_	_	_	O
+우려	우려	NNG	O
+가	가	JKS	O
+_	_	_	O
+확산되	확산되	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 그러나 개그계 동료들은 윤정수의 등장에 짓궂은 장난을 쳤다.
+## 그러나 개그계 동료들은 <윤정수:PER>의 등장에 짓궂은 장난을 쳤다.
+그러나	그러나	MAJ	O
+_	_	_	O
+개그계	개그계	NNG	O
+_	_	_	O
+동료	동료	NNG	O
+들	들	XSN	O
+은	은	JX	O
+_	_	_	O
+윤정수	윤정수	NNP	B-PER
+의	의	JKG	O
+_	_	_	O
+등장	등장	NNG	O
+에	에	JKB	O
+_	_	_	O
+짓궂	짓궂	VA	O
+은	은	ETM	O
+_	_	_	O
+장난	장난	NNG	O
+을	을	JKO	O
+_	_	_	O
+쳤	+었	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 강예원은 지난해 촬영을 마친 주연 영화 ‘연애의 맛’이 최근 개봉일을 확정하는 ‘행운’을 얻었다.
+## <강예원:PER>은 지난해 촬영을 마친 주연 영화 ‘<연애의 맛:POH>’이 최근 개봉일을 확정하는 ‘행운’을 얻었다.
+강예원	강예원	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+지난해	지난해	NNG	O
+_	_	_	O
+촬영	촬영	NNG	O
+을	을	JKO	O
+_	_	_	O
+마친	마치+ㄴ	VV+ETM	O
+_	_	_	O
+주연	주연	NNG	O
+_	_	_	O
+영화	영화	NNG	O
+_	_	_	O
+‘	‘	SS	O
+연애	연애	NNG	B-POH
+의	의	JKG	I-POH
+_	_	_	I-POH
+맛	맛	NNG	I-POH
+’	’	SS	O
+이	이	JKS	O
+_	_	_	O
+최근	최근	NNG	O
+_	_	_	O
+개봉	개봉	NNG	O
+일	일	XSN	O
+을	을	JKO	O
+_	_	_	O
+확정하	확정하	VV	O
+는	는	ETM	O
+_	_	_	O
+‘	‘	SS	O
+행운	행운	NNG	O
+’	’	SS	O
+을	을	JKO	O
+_	_	_	O
+얻	얻	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 또 다른 주연 이준기가 코뼈 부상을 입은 데 이은 사고다.
+## 또 다른 주연 <이준기:PER>가 코뼈 부상을 입은 데 이은 사고다.
+또	또	MAG	O
+_	_	_	O
+다른	다른	MM	O
+_	_	_	O
+주연	주연	NNG	O
+_	_	_	O
+이준기	이준기	NNP	B-PER
+가	가	JKS	O
+_	_	_	O
+코뼈	코뼈	NNG	O
+_	_	_	O
+부상	부상	NNG	O
+을	을	JKO	O
+_	_	_	O
+입	입	VV	O
+은	은	ETM	O
+_	_	_	O
+데	데	NNB	O
+_	_	_	O
+이	잇	VV	O
+은	은	ETM	O
+_	_	_	O
+사고	사고+이	NNG+VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 한국에 생소한 하이브리드 모델임에도 예상을 깨고 소형 SUV 분야에서 좋은 성적을 거뒀다.
+## <한국:ORG>에 생소한 하이브리드 모델임에도 예상을 깨고 소형 SUV 분야에서 좋은 성적을 거뒀다.
+한국	한국	NNP	B-ORG
+에	에	JKB	O
+_	_	_	O
+생소한	생소하+ㄴ	VA+ETM	O
+_	_	_	O
+하이브리드	하이브리드	NNG	O
+_	_	_	O
+모델	모델	NNG	O
+임에도	이+ㅁ에도	VCP+EC	O
+_	_	_	O
+예상	예상	NNG	O
+을	을	JKO	O
+_	_	_	O
+깨	깨	VV	O
+고	고	EC	O
+_	_	_	O
+소형	소형	NNG	O
+_	_	_	O
+SUV	SUV	SL	O
+_	_	_	O
+분야	분야	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+좋	좋	VA	O
+은	은	ETM	O
+_	_	_	O
+성적	성적	NNG	O
+을	을	JKO	O
+_	_	_	O
+거	거두	VV	O
+뒀	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## '발칙하게 고고' 정은지 이원근, 달콤 살벌한 케미 보여줄까?…벌써부터 기대 만발
+## '<발칙하게 고고:POH>' <정은지:PER> <이원근:PER>, 달콤 살벌한 케미 보여줄까?…벌써부터 기대 만발
+'	'	SS	O
+발칙하	발칙하	VA	B-POH
+게	게	EC	I-POH
+_	_	_	I-POH
+고고	고고	NNG	I-POH
+'	'	SS	O
+_	_	_	O
+정은지	정은지	NNP	B-PER
+_	_	_	O
+이원근	이원근	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+달콤	달콤	NNG	O
+_	_	_	O
+살벌한	살벌하+ㄴ	VA+ETM	O
+_	_	_	O
+케미	케미	NNG	O
+_	_	_	O
+보	보이	VV	O
+여	어	EC	O
+줄까	주+ㄹ까	VX+EF	O
+?	?	SF	O
+…	…	SE	O
+벌써	벌써	MAG	O
+부터	부터	JX	O
+_	_	_	O
+기대	기대	NNG	O
+_	_	_	O
+만발	만발	NNG	O
+

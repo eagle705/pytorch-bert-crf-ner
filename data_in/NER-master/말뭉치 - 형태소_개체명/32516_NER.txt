@@ -1,0 +1,417 @@
+## 1
+## 현주가 왔으니까. 현주를 위해 뭐라도 잡아야겠다”고 화답했다.
+## <현주:PER>가 왔으니까. <현주:PER>를 위해 뭐라도 잡아야겠다”고 화답했다.
+현주	현주	NNP	B-PER
+가	가	JKS	O
+_	_	_	O
+왔	+았	+EP	O
+으니까	으니까	EF	O
+.	.	SF	O
+_	_	_	O
+현주	현주	NNP	B-PER
+를	를	JKO	O
+_	_	_	O
+위해	위하+여	VV+EC	O
+_	_	_	O
+뭐	뭐	NP	O
+라도	라도	JX	O
+_	_	_	O
+잡	잡	VV	O
+아야	아야+하	EC+VX	O
+겠	겠	EP	O
+다	다	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+화답	화답하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 특히 딸이 아버지를 인색하게 평가(4.63점)했다.
+## 특히 딸이 아버지를 인색하게 평가(<4.63점:NOH>)했다.
+특히	특히	MAG	O
+_	_	_	O
+딸	딸	NNG	O
+이	이	JKS	O
+_	_	_	O
+아버지	아버지	NNG	O
+를	를	JKO	O
+_	_	_	O
+인색하	인색하	VA	O
+게	게	EC	O
+_	_	_	O
+평가	평가	NNG	O
+(	(	SS	O
+4.63	4.63	SN	B-NOH
+점	점	NNB	I-NOH
+)	)+하	SS+XSV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 농림부는 올해 재배 면적을 지난해 77만9000ha에서 올해 74만4000㏊로 3만5000ha(4.5%) 줄이기로 했다.
+## <농림부:ORG>는 올해 재배 면적을 지난해 <77만9000ha:NOH>에서 올해 <74만4000㏊:NOH>로 <3만5000ha:NOH>(<4.5%:PNT>) 줄이기로 했다.
+농림부	농림부	NNG	B-ORG
+는	는	JX	O
+_	_	_	O
+올해	올해	NNG	O
+_	_	_	O
+재배	재배	NNG	O
+_	_	_	O
+면적	면적	NNG	O
+을	을	JKO	O
+_	_	_	O
+지난해	지난해	NNG	O
+_	_	_	O
+77	77	SN	B-NOH
+만	만	NR	I-NOH
+9000	9000	SN	I-NOH
+ha	ha	SL	I-NOH
+에서	에서	JKB	O
+_	_	_	O
+올해	올해	NNG	O
+_	_	_	O
+74	74	SN	B-NOH
+만	만	NR	I-NOH
+4000	4000	SN	I-NOH
+㏊	㏊	SW	I-NOH
+로	로	JKB	O
+_	_	_	O
+3	3	SN	B-NOH
+만	만	NR	I-NOH
+5000	5000	SN	I-NOH
+ha	ha	SL	I-NOH
+(	(	SS	O
+4.5	4.5	SN	B-PNT
+%	%	SW	I-PNT
+)	)	SS	O
+_	_	_	O
+줄이	줄이	VV	O
+기	기	ETN	O
+로	로	JKB	O
+_	_	_	O
+했	+였	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 가수 김현지 사망, 과거 ‘보코2’ 도전하며 “무대 서면 공포 올라오지만…노래가 인생의 전부”
+## 가수 <김현지:PER> 사망, 과거 ‘<보코2:POH>’ 도전하며 “무대 서면 공포 올라오지만…노래가 인생의 전부”
+가수	가수	NNG	O
+_	_	_	O
+김현지	김현지	NNP	B-PER
+_	_	_	O
+사망	사망	NNG	O
+,	,	SP	O
+_	_	_	O
+과거	과거	NNG	O
+_	_	_	O
+‘	‘	SS	O
+보코	보코	NNP	B-POH
+2	2	SN	I-POH
+’	’	SS	O
+_	_	_	O
+도전하	도전하	VV	O
+며	며	EC	O
+_	_	_	O
+“	“	SS	O
+무대	무대	NNG	O
+_	_	_	O
+서	서	VV	O
+면	면	EC	O
+_	_	_	O
+공포	공포	NNG	O
+_	_	_	O
+올라오	올라오	VV	O
+지만	지만	EC	O
+…	…	SE	O
+노래	노래	NNG	O
+가	가	JKS	O
+_	_	_	O
+인생	인생	NNG	O
+의	의	JKG	O
+_	_	_	O
+전부	전부	NNG	O
+”	”	SS	O
+
+## 5
+## 원산항 바로 옆의, 일제강점기에 세워진 화학공장도 환경오염이 심각하다.
+## <원산항:LOC> 바로 옆의, <일제강점기:DUR>에 세워진 화학공장도 환경오염이 심각하다.
+원산	원산	NNP	B-LOC
+항	항	NNG	I-LOC
+_	_	_	O
+바로	바로	MAG	O
+_	_	_	O
+옆	옆	NNG	O
+의	의	JKG	O
+,	,	SP	O
+_	_	_	O
+일제	일제	NNG	B-DUR
+강점기	강점기	NNG	I-DUR
+에	에	JKB	O
+_	_	_	O
+세	세우	VV	O
+워	어	EC	O
+진	지+ㄴ	VX+ETM	O
+_	_	_	O
+화학	화학	NNG	O
+공장	공장	NNG	O
+도	도	JX	O
+_	_	_	O
+환경오염	환경오염	NNG	O
+이	이	JKS	O
+_	_	_	O
+심각하	심각하	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 언니들이 매번 나에게 고은 씨 남편이 제일 잘생겼다.
+## 언니들이 매번 나에게 <고은:PER> 씨 남편이 제일 잘생겼다.
+언니	언니	NNG	O
+들	들	XSN	O
+이	이	JKS	O
+_	_	_	O
+매번	매번	MAG	O
+_	_	_	O
+나	나	NP	O
+에게	에게	JKB	O
+_	_	_	O
+고은	고은	NNP	B-PER
+_	_	_	O
+씨	씨	NNB	O
+_	_	_	O
+남편	남편	NNG	O
+이	이	JKS	O
+_	_	_	O
+제일	제일	MAG	O
+_	_	_	O
+잘생	잘생기	VA	O
+겼	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 6000달러가 아닌 6만 달러를 받은 이 씨는 정 씨가 내민 돈 봉투를 가방에 넣고 은행을 나왔다.
+## <6000달러:MNY>가 아닌 <6만 달러:MNY>를 받은 <이:PER> 씨는 <정:PER> 씨가 내민 돈 봉투를 가방에 넣고 은행을 나왔다.
+6000	6000	SN	B-MNY
+달러	달러	NNB	I-MNY
+가	가	JKC	O
+_	_	_	O
+아닌	아니+ㄴ	VCN+ETM	O
+_	_	_	O
+6	6	SN	B-MNY
+만	만	NR	I-MNY
+_	_	_	I-MNY
+달러	달러	NNB	I-MNY
+를	를	JKO	O
+_	_	_	O
+받	받	VV	O
+은	은	ETM	O
+_	_	_	O
+이	이	NNP	B-PER
+_	_	_	O
+씨	씨	NNB	O
+는	는	JX	O
+_	_	_	O
+정	정	NNP	B-PER
+_	_	_	O
+씨	씨	NNB	O
+가	가	JKS	O
+_	_	_	O
+내민	내밀+ㄴ	VV+ETM	O
+_	_	_	O
+돈	돈	NNG	O
+_	_	_	O
+봉투	봉투	NNG	O
+를	를	JKO	O
+_	_	_	O
+가방	가방	NNG	O
+에	에	JKB	O
+_	_	_	O
+넣	넣	VV	O
+고	고	EC	O
+_	_	_	O
+은행	은행	NNG	O
+을	을	JKO	O
+_	_	_	O
+나	나오	VV	O
+왔	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## ‘택시’ 이천희 “전혜진, 23세에 임신… 장모님 앓아누워”
+## ‘<택시:POH>’ <이천희:PER> “<전혜진:PER>, <23세:NOH>에 임신… 장모님 앓아누워”
+‘	‘	SS	O
+택시	택시	NNG	B-POH
+’	’	SS	O
+_	_	_	O
+이천희	이천희	NNP	B-PER
+_	_	_	O
+“	“	SS	O
+전혜진	전혜진	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+23	23	SN	B-NOH
+세	세	NNB	I-NOH
+에	에	JKB	O
+_	_	_	O
+임신	임신	NNG	O
+…	…	SE	O
+_	_	_	O
+장모님	장모님	NNG	O
+_	_	_	O
+앓아누	앓아눕	VV	O
+워	어	EF	O
+”	”	SS	O
+
+## 9
+## 포스트 신치용과 40대 세대교체론 2014∼2015시즌을 끝으로 신치용(60) 삼성 감독이 퇴진하면서 V리그 남자부는 젊어졌다.
+## 포스트 <신치용:PER>과 <40대:NOH> 세대교체론 <2014∼2015:DUR>시즌을 끝으로 <신치용:PER>(<60:NOH>) <삼성:ORG> 감독이 퇴진하면서 <V리그 남자부:POH>는 젊어졌다.
+포스트	포스트	NNG	O
+_	_	_	O
+신치용	신치용	NNP	B-PER
+과	과	JC	O
+_	_	_	O
+40	40	SN	B-NOH
+대	대	NNB	I-NOH
+_	_	_	O
+세대교체	세대교체	NNG	O
+론	론	XSN	O
+_	_	_	O
+2014	2014	SN	B-DUR
+∼	∼	SO	I-DUR
+2015	2015	SN	I-DUR
+시즌	시즌	NNG	O
+을	을	JKO	O
+_	_	_	O
+끝	끝	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+신치용	신치용	NNP	B-PER
+(	(	SS	O
+60	60	SN	B-NOH
+)	)	SS	O
+_	_	_	O
+삼성	삼성	NNP	B-ORG
+_	_	_	O
+감독	감독	NNG	O
+이	이	JKS	O
+_	_	_	O
+퇴진하	퇴진하	VV	O
+면서	면서	EC	O
+_	_	_	O
+V	V	SL	B-POH
+리그	리그	NNG	I-POH
+_	_	_	I-POH
+남자	남자	NNG	I-POH
+부	부	XSN	I-POH
+는	는	JX	O
+_	_	_	O
+젊어	젊어지	VV	O
+졌	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 한 조선 관련 학과 교수는 “소비자들 중에 내일 부도가 날지도 모르는 차를 받아가려는 사람이 있겠느냐”며 “RG콜이 많지 않을 것이란 주장은 지나치게 낙관적”이라고 말했다.
+## <한:NOH> 조선 관련 학과 교수는 “소비자들 중에 내일 부도가 날지도 모르는 차를 받아가려는 사람이 있겠느냐”며 “RG콜이 많지 않을 것이란 주장은 지나치게 낙관적”이라고 말했다.
+한	하+ㄴ	VV+ETM	B-NOH
+_	_	_	O
+조선	조선	NNP	O
+_	_	_	O
+관련	관련	NNG	O
+_	_	_	O
+학과	학과	NNG	O
+_	_	_	O
+교수	교수	NNG	O
+는	는	JX	O
+_	_	_	O
+“	“	SS	O
+소비자	소비자	NNG	O
+들	들	XSN	O
+_	_	_	O
+중	중	NNB	O
+에	에	JKB	O
+_	_	_	O
+내일	내일	NNG	O
+_	_	_	O
+부도	부도	NNG	O
+가	가	JKS	O
+_	_	_	O
+날지	나+ㄹ지	VV+EC	O
+도	도	JX	O
+_	_	_	O
+모르	모르	VV	O
+는	는	ETM	O
+_	_	_	O
+차	차	NNG	O
+를	를	JKO	O
+_	_	_	O
+받	받	VV	O
+아	아	EC	O
+가	가	VV	O
+려는	려는	ETM	O
+_	_	_	O
+사람	사람	NNG	O
+이	이	JKS	O
+_	_	_	O
+있	있	VA	O
+겠	겠	EP	O
+느냐	느냐	EF	O
+”	”	SS	O
+며	며	EC	O
+_	_	_	O
+“	“	SS	O
+RG	RG	SL	O
+콜	콜	NNG	O
+이	이	JKS	O
+_	_	_	O
+많	많	VA	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+을	을	ETM	O
+_	_	_	O
+것	것	NNB	O
+이	이	VCP	O
+란	란	ETM	O
+_	_	_	O
+주장	주장	NNG	O
+은	은	JX	O
+_	_	_	O
+지나치	지나치	VA	O
+게	게	EC	O
+_	_	_	O
+낙관적	낙관적	NNG	O
+”	”	SS	O
+이라고	이라고	JKQ	O
+_	_	_	O
+말	말하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## [2015 국가 소비자중심 브랜드 대상]치약 부문
+## [<2015:DAT> <국가 소비자중심 브랜드 대상:POH>]치약 부문
+[	[	SS	O
+2015	2015	SN	B-DAT
+_	_	_	O
+국가	국가	NNG	B-POH
+_	_	_	I-POH
+소비자	소비자	NNG	I-POH
+중심	중심	NNG	I-POH
+_	_	_	I-POH
+브랜드	브랜드	NNG	I-POH
+_	_	_	I-POH
+대상	대상	NNG	I-POH
+]	]	SS	O
+치약	치약	NNG	O
+_	_	_	O
+부문	부문	NNG	O
+

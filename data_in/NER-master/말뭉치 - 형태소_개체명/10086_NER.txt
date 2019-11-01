@@ -1,0 +1,720 @@
+## 1
+## 잘츠부르크는 남은 6경기 중 1승만 거둬도 자력 우승이 가능하다.
+## <잘츠부르크:ORG>는 남은 <6경기:NOH> 중 <1승:NOH>만 거둬도 자력 우승이 가능하다.
+잘츠부르크	잘츠부르크	NNP	B-ORG
+는	는	JX	O
+_	_	_	O
+남	남	VV	O
+은	은	ETM	O
+_	_	_	O
+6	6	SN	B-NOH
+경기	경기	NNG	I-NOH
+_	_	_	O
+중	중	NNB	O
+_	_	_	O
+1	1	SN	B-NOH
+승	승	NNB	I-NOH
+만	만	JX	O
+_	_	_	O
+거둬	거두+어	VV+EC	O
+도	도	JX	O
+_	_	_	O
+자력	자력	NNG	O
+_	_	_	O
+우승	우승	NNG	O
+이	이	JKS	O
+_	_	_	O
+가능하	가능하	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## (서울=뉴스1)
+## (<서울:LOC>=뉴스1)
+(	(	SS	O
+서울	서울	NNP	B-LOC
+=	=	SW	O
+뉴스	뉴스	NNG	O
+1	1	SN	O
+)	)	SS	O
+
+## 3
+## ‘투수→타자’ 천재성+노력 결합된 걸출한 외야수이형종은 원래 투수였다.
+## ‘투수→타자’ 천재성+노력 결합된 걸출한 외야수<이형종:PER>은 원래 투수였다.
+‘	‘	SS	O
+투수	투수	NNG	O
+→	→	SW	O
+타자	타자	NNG	O
+’	’	SS	O
+_	_	_	O
+천재성+	천재성++	NNG+SW	O
+노력	노력	NNG	O
+_	_	_	O
+결합된	결합되+ㄴ	VV+ETM	O
+_	_	_	O
+걸출한	걸출하+ㄴ	VA+ETM	O
+_	_	_	O
+외야수	외야수	NNG	O
+이형종	이형종	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+원래	원래	NNG	O
+_	_	_	O
+투수	투수+이	NNG+VCP	O
+였	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 이날 유병재는 제작진이 준비한 환영인사 1단계부터 경기를 일으켰다.
+## 이날 <유병재:PER>는 제작진이 준비한 환영인사 <1단계:NOH>부터 경기를 일으켰다.
+이날	이날	NNG	O
+_	_	_	O
+유병재	유병재	NNP	B-PER
+는	는	JX	O
+_	_	_	O
+제작진	제작진	NNG	O
+이	이	JKS	O
+_	_	_	O
+준비한	준비하+ㄴ	VV+ETM	O
+_	_	_	O
+환영	환영	NNG	O
+인사	인사	NNG	O
+_	_	_	O
+1	1	SN	B-NOH
+단계	단계	NNG	I-NOH
+부터	부터	JX	O
+_	_	_	O
+경기	경기	NNG	O
+를	를	JKO	O
+_	_	_	O
+일으	일으키	VV	O
+켰	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 미국은 전술핵을 갖다 놓지 않더라도 기존의 핵전력으로 대한(對韓) 핵우산 공약을 이행하는 데 문제가 없다고 보고 있다.
+## <미국:ORG>은 전술핵을 갖다 놓지 않더라도 기존의 핵전력으로 대한(對韓) 핵우산 공약을 이행하는 데 문제가 없다고 보고 있다.
+미국	미국	NNP	B-ORG
+은	은	JX	O
+_	_	_	O
+전술	전술	NNG	O
+핵	핵	NNG	O
+을	을	JKO	O
+_	_	_	O
+갖다	가지+어다가	VV+EC	O
+_	_	_	O
+놓	놓	VV	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+더라도	더라도	EC	O
+_	_	_	O
+기존	기존	NNG	O
+의	의	JKG	O
+_	_	_	O
+핵전력	핵전력	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+대한	대하+ㄴ	VV+ETM	O
+(	(	SS	O
+對韓	對韓	SH	O
+)	)	SS	O
+_	_	_	O
+핵우산	핵우산	NNG	O
+_	_	_	O
+공약	공약	NNG	O
+을	을	JKO	O
+_	_	_	O
+이행하	이행하	VV	O
+는	는	ETM	O
+_	_	_	O
+데	데	NNB	O
+_	_	_	O
+문제	문제	NNG	O
+가	가	JKS	O
+_	_	_	O
+없	없	VA	O
+다고	다고	EC	O
+_	_	_	O
+보	보	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 기후협약에 뜨거워지는 친환경 ‘그린본드’
+## 기후협약에 뜨거워지는 친환경 ‘<그린본드:POH>’
+기후	기후	NNG	O
+협약	협약	NNG	O
+에	에	JKB	O
+_	_	_	O
+뜨거워지	뜨거워지	VV	O
+는	는	ETM	O
+_	_	_	O
+친환경	친환경	NNG	O
+_	_	_	O
+‘	‘	SS	O
+그린	그린	NNP	B-POH
+본드	본드	NNG	I-POH
+’	’	SS	O
+
+## 7
+## 10명 중 5명, ‘모바일 앱’으로 부동산 정보 수집
+## <10명:NOH> 중 <5명:NOH>, ‘모바일 앱’으로 부동산 정보 수집
+10	10	SN	B-NOH
+명	명	NNB	I-NOH
+_	_	_	O
+중	중	NNB	O
+_	_	_	O
+5	5	SN	B-NOH
+명	명	NNB	I-NOH
+,	,	SP	O
+_	_	_	O
+‘	‘	SS	O
+모바일	모바일	NNG	O
+_	_	_	O
+앱	앱	NNG	O
+’	’	SS	O
+으로	으로	JKB	O
+_	_	_	O
+부동산	부동산	NNG	O
+_	_	_	O
+정보	정보	NNG	O
+_	_	_	O
+수집	수집	NNG	O
+
+## 8
+## 경쟁력을 갖춘 제약공학과 학생들이 졸업과 동시에 100% 진로 목표를 달성한다는 계획이 결코 꿈이나 허언이 아니라는 얘기다.
+## 경쟁력을 갖춘 제약공학과 학생들이 졸업과 동시에 <100%:PNT> 진로 목표를 달성한다는 계획이 결코 꿈이나 허언이 아니라는 얘기다.
+경쟁력	경쟁력	NNG	O
+을	을	JKO	O
+_	_	_	O
+갖춘	갖추+ㄴ	VV+ETM	O
+_	_	_	O
+제약	제약	NNG	O
+공학	공학	NNG	O
+과	과	NNG	O
+_	_	_	O
+학생	학생	NNG	O
+들	들	XSN	O
+이	이	JKS	O
+_	_	_	O
+졸업	졸업	NNG	O
+과	과	JC	O
+_	_	_	O
+동시	동시	NNG	O
+에	에	JKB	O
+_	_	_	O
+100	100	SN	B-PNT
+%	%	SW	I-PNT
+_	_	_	O
+진로	진로	NNG	O
+_	_	_	O
+목표	목표	NNG	O
+를	를	JKO	O
+_	_	_	O
+달성한다는	달성하+ㄴ다는	VV+ETM	O
+_	_	_	O
+계획	계획	NNG	O
+이	이	JKS	O
+_	_	_	O
+결코	결코	MAG	O
+_	_	_	O
+꿈	꿈	NNG	O
+이나	이나	JC	O
+_	_	_	O
+허언	허언	NNG	O
+이	이	JKC	O
+_	_	_	O
+아니	아니	VCN	O
+라는	라는	ETM	O
+_	_	_	O
+얘기	얘기+이	NNG+VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 이들 대행업체는 외국의 인터넷 사이트 등에서 고객이 주문한 물건을 재주문한 뒤 이를 받아 한국 고객에게 배송한다.
+## 이들 대행업체는 외국의 인터넷 사이트 등에서 고객이 주문한 물건을 재주문한 뒤 이를 받아 <한국:ORG> 고객에게 배송한다.
+이	이	NP	O
+들	들	XSN	O
+_	_	_	O
+대행업체	대행업체	NNG	O
+는	는	JX	O
+_	_	_	O
+외국	외국	NNG	O
+의	의	JKG	O
+_	_	_	O
+인터넷	인터넷	NNG	O
+_	_	_	O
+사이트	사이트	NNG	O
+_	_	_	O
+등	등	NNB	O
+에서	에서	JKB	O
+_	_	_	O
+고객	고객	NNG	O
+이	이	JKS	O
+_	_	_	O
+주문한	주문하+ㄴ	VV+ETM	O
+_	_	_	O
+물건	물건	NNG	O
+을	을	JKO	O
+_	_	_	O
+재	재	XPN	O
+주문	주문	NNG	O
+한	한	NNP	O
+_	_	_	O
+뒤	뒤	NNG	O
+_	_	_	O
+이	이	NP	O
+를	를	JKO	O
+_	_	_	O
+받	받	VV	O
+아	아	EC	O
+_	_	_	O
+한국	한국	NNP	B-ORG
+_	_	_	O
+고객	고객	NNG	O
+에게	에게	JKB	O
+_	_	_	O
+배송한다	배송하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 10
+## 또 계좌 추적 과정에서 7억7000만원의 광고비 중 수억원이 현금으로 인출된 사실을 확인하고 이 돈이 정 전 총장에게 건너갔는지를 캐고 있다.
+## 또 계좌 추적 과정에서 <7억7000만원:MNY>의 광고비 중 수억원이 현금으로 인출된 사실을 확인하고 이 돈이 <정:PER> 전 총장에게 건너갔는지를 캐고 있다.
+또	또	MAG	O
+_	_	_	O
+계좌	계좌	NNG	O
+_	_	_	O
+추적	추적	NNG	O
+_	_	_	O
+과정	과정	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+7	7	SN	B-MNY
+억	억	NR	I-MNY
+7000	7000	SN	I-MNY
+만	만	NR	I-MNY
+원	원	NNB	I-MNY
+의	의	JKG	O
+_	_	_	O
+광고비	광고비	NNG	O
+_	_	_	O
+중	중	NNP	O
+_	_	_	O
+수억	수억	NR	O
+원	원	NNB	O
+이	이	JKS	O
+_	_	_	O
+현금	현금	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+인출된	인출되+ㄴ	VV+ETM	O
+_	_	_	O
+사실	사실	NNG	O
+을	을	JKO	O
+_	_	_	O
+확인하	확인하	VV	O
+고	고	EC	O
+_	_	_	O
+이	이	MM	O
+_	_	_	O
+돈	돈	NNG	O
+이	이	JKS	O
+_	_	_	O
+정	정	NNP	B-PER
+_	_	_	O
+전	전	MM	O
+_	_	_	O
+총장	총장	NNG	O
+에게	에게	JKB	O
+_	_	_	O
+건너갔	건너가+았	VV+EP	O
+는지	는지	EC	O
+를	를	JKO	O
+_	_	_	O
+캐	캐	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 여기에 습윤제 ‘우레아(Urea)’ 첨가로 손발톱의 각질을 부드럽게 해주는 각질 연화작용으로 손발톱에 약효성분의 침투를 더욱 빠르게 도와준다.
+## 여기에 습윤제 ‘<우레아:POH>(<Urea:POH>)’ 첨가로 손발톱의 각질을 부드럽게 해주는 각질 연화작용으로 손발톱에 약효성분의 침투를 더욱 빠르게 도와준다.
+여기	여기	NP	O
+에	에	JKB	O
+_	_	_	O
+습윤제	습윤제	NNG	O
+_	_	_	O
+‘	‘	SS	O
+우레	우레	NNG	B-POH
+아	아	XSN	I-POH
+(	(	SS	O
+Urea	Urea	SL	B-POH
+)	)	SS	O
+’	’	SS	O
+_	_	_	O
+첨가	첨가	NNG	O
+로	로	JKB	O
+_	_	_	O
+손발톱	손발톱	NNG	O
+의	의	JKG	O
+_	_	_	O
+각질	각질	NNG	O
+을	을	JKO	O
+_	_	_	O
+부드럽	부드럽	VA	O
+게	게	EC	O
+_	_	_	O
+해	하+여	VX+EC	O
+주	주	VX	O
+는	는	ETM	O
+_	_	_	O
+각질	각질	NNG	O
+_	_	_	O
+연화	연화	NNG	O
+작용	작용	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+손발톱	손발톱	NNG	O
+에	에	JKB	O
+_	_	_	O
+약효	약효	NNG	O
+성분	성분	NNG	O
+의	의	JKG	O
+_	_	_	O
+침투	침투	NNG	O
+를	를	JKO	O
+_	_	_	O
+더욱	더욱	MAG	O
+_	_	_	O
+빠르	빠르	VA	O
+게	게	EC	O
+_	_	_	O
+도와준다	도와주+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 12
+## 그의 할머니는 서울 강남구에서 30년 넘게 콩 음식점인 ‘피양콩할마니’를 운영해온 강산애 씨(87)다.
+## 그의 할머니는 <서울 강남구:LOC>에서 <30년:NOH> 넘게 콩 음식점인 ‘<피양콩할마니:POH>’를 운영해온 <강산애:PER> 씨(<87:NOH>)다.
+그	그	NP	O
+의	의	JKG	O
+_	_	_	O
+할머니	할머니	NNG	O
+는	는	JX	O
+_	_	_	O
+서울	서울	NNP	B-LOC
+_	_	_	I-LOC
+강남구	강남구	NNP	I-LOC
+에서	에서	JKB	O
+_	_	_	O
+30	30	SN	B-NOH
+년	년	NNB	I-NOH
+_	_	_	O
+넘	넘	VV	O
+게	게	EC	O
+_	_	_	O
+콩	콩	NNG	O
+_	_	_	O
+음식점	음식점	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+‘	‘	SS	O
+피양콩할마	피양콩할마	NNG	B-POH
+니	니	JC	I-POH
+’	’	SS	O
+를	를	JKO	O
+_	_	_	O
+운영해	운영하+여	VV+EC	O
+온	오+ㄴ	VX+ETM	O
+_	_	_	O
+강산애	강산애	NNP	B-PER
+_	_	_	O
+씨	씨	NNB	O
+(	(	SS	O
+87	87	SN	B-NOH
+)	)+이	SS+VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## ‘상상고양이’ 조혜정, 유승호 조언에 “저렇게 옳은 말만 쏙쏙 아프게 하냐”배우 유승호와 조혜정이 출연한 드라마 ‘상상고양이’가 첫 전파를 탔다.
+## ‘<상상고양이:POH>’ <조혜정:PER>, <유승호:PER> 조언에 “저렇게 옳은 말만 쏙쏙 아프게 하냐”배우 <유승호:PER>와 <조혜정:PER>이 출연한 드라마 ‘<상상고양이:POH>’가 첫 전파를 탔다.
+‘	‘	SS	O
+상상	상상	NNG	B-POH
+고양이	고양이	NNG	I-POH
+’	’	SS	O
+_	_	_	O
+조혜정	조혜정	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+유승호	유승호	NNP	B-PER
+_	_	_	O
+조언	조언	NNG	O
+에	에	JKB	O
+_	_	_	O
+“	“	SS	O
+저렇	저렇	VA	O
+게	게	EC	O
+_	_	_	O
+옳	옳	VA	O
+은	은	ETM	O
+_	_	_	O
+말	말	NNG	O
+만	만	JX	O
+_	_	_	O
+쏙쏙	쏙쏙	MAG	O
+_	_	_	O
+아프	아프	VA	O
+게	게	EC	O
+_	_	_	O
+하	하	VV	O
+냐	냐	EF	O
+”	”	SS	O
+배우	배우	NNG	O
+_	_	_	O
+유승호	유승호	NNP	B-PER
+와	와	JC	O
+_	_	_	O
+조혜정	조혜정	NNP	B-PER
+이	이	JKS	O
+_	_	_	O
+출연한	출연하+ㄴ	VV+ETM	O
+_	_	_	O
+드라마	드라마	NNG	O
+_	_	_	O
+‘	‘	SS	O
+상상	상상	NNG	B-POH
+고양이	고양이	NNG	I-POH
+’	’	SS	O
+가	가	JKS	O
+_	_	_	O
+첫	첫	MM	O
+_	_	_	O
+전파	전파	NNG	O
+를	를	JKO	O
+_	_	_	O
+탔	타+았	VV+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 14
+## 24일 방송된 MBC 에브리원 ‘상상고양이’에서는 7년째 고양이 복길이와 동거동락하고 있는 유승호(현종현 역)의 모습이 보여 졌다.
+## <24일:DAT> 방송된 <MBC 에브리원:POH> ‘<상상고양이:POH>’에서는 <7년째:DUR> 고양이 <복길이:PER>와 동거동락하고 있는 <유승호:PER>(<현종현:PER> 역)의 모습이 보여 졌다.
+24	24	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+방송된	방송되+ㄴ	VV+ETM	O
+_	_	_	O
+MBC	MBC	SL	B-POH
+_	_	_	I-POH
+에브리원	에브리원	NNG	I-POH
+_	_	_	O
+‘	‘	SS	O
+상상	상상	NNG	B-POH
+고양이	고양이	NNG	I-POH
+’	’	SS	O
+에서	에서	JKB	O
+는	는	JX	O
+_	_	_	O
+7	7	SN	B-DUR
+년	년	NNB	I-DUR
+째	째	XSN	I-DUR
+_	_	_	O
+고양이	고양이	NNG	O
+_	_	_	O
+복길이	복길이	NNP	B-PER
+와	와	JKB	O
+_	_	_	O
+동거	동거	NNG	O
+동락	동락	NNG	O
+하	하	XSV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+는	는	ETM	O
+_	_	_	O
+유승호	유승호	NNP	B-PER
+(	(	SS	O
+현종현	현종현	NNP	B-PER
+_	_	_	O
+역	역	NNG	O
+)	)	SS	O
+의	의	JKG	O
+_	_	_	O
+모습	모습	NNG	O
+이	이	JKS	O
+_	_	_	O
+보	보이	VV	O
+여	어	EC	O
+_	_	_	O
+졌	+었	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 15
+## 고양이 복길이에게 술주정을 하며 하루 일과를 전하는 유승호는 복길이를 가족이자 연인과 같은 모습으로 대한다.
+## 고양이 <복길이:PER>에게 술주정을 하며 하루 일과를 전하는 <유승호:PER>는 <복길이:PER>를 가족이자 연인과 같은 모습으로 대한다.
+고양이	고양이	NNG	O
+_	_	_	O
+복길이	복길이	NNP	B-PER
+에게	에게	JKB	O
+_	_	_	O
+술주정	술주정	NNG	O
+을	을	JKO	O
+_	_	_	O
+하	하	VV	O
+며	며	EC	O
+_	_	_	O
+하루	하루	NNG	O
+_	_	_	O
+일과	일과	NNG	O
+를	를	JKO	O
+_	_	_	O
+전하	전하	VV	O
+는	는	ETM	O
+_	_	_	O
+유승호	유승호	NNP	B-PER
+는	는	JX	O
+_	_	_	O
+복길이	복길이	NNP	B-PER
+를	를	JKO	O
+_	_	_	O
+가족	가족	NNG	O
+이	이	VCP	O
+자	자	EC	O
+_	_	_	O
+연인	연인	NNG	O
+과	과	JKB	O
+_	_	_	O
+같	같	VA	O
+은	은	ETM	O
+_	_	_	O
+모습	모습	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+대한다	대하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 16
+## 이날 방송에서 유승호는 실력은 좋지만 대중성이 부족하다는 평가를 받고 있는 웹툰 작가를 연기했고, 길에서 길고양이에게 사료를 주다
+## 이날 방송에서 <유승호:PER>는 실력은 좋지만 대중성이 부족하다는 평가를 받고 있는 웹툰 작가를 연기했고, 길에서 길고양이에게 사료를 주다
+이날	이날	NNG	O
+_	_	_	O
+방송	방송	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+유승호	유승호	NNP	B-PER
+는	는	JX	O
+_	_	_	O
+실력	실력	NNG	O
+은	은	JX	O
+_	_	_	O
+좋	좋	VA	O
+지만	지만	EC	O
+_	_	_	O
+대중성	대중성	NNG	O
+이	이	JKS	O
+_	_	_	O
+부족하	부족하	VA	O
+다는	다는	ETM	O
+_	_	_	O
+평가	평가	NNG	O
+를	를	JKO	O
+_	_	_	O
+받	받	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+는	는	ETM	O
+_	_	_	O
+웹	웹	NNG	O
+툰	툰	NNP	O
+_	_	_	O
+작가	작가	NNG	O
+를	를	JKO	O
+_	_	_	O
+연기	연기하	VV	O
+했	였	EP	O
+고	고	EC	O
+,	,	SP	O
+_	_	_	O
+길	길	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+길	길	NNG	O
+고양이	고양이	NNG	O
+에게	에게	JKB	O
+_	_	_	O
+사료	사료	NNG	O
+를	를	JKO	O
+_	_	_	O
+주	주	VV	O
+다	다	EF	O
+
+## 17
+## 동아비즈닷컴 웹사이트는 이런 벽을 낮췄다.
+## <동아비즈닷컴:POH> 웹사이트는 이런 벽을 낮췄다.
+동아	동아	NNP	B-POH
+비즈	비즈	NNG	I-POH
+닷컴	닷컴	NNG	I-POH
+_	_	_	O
+웹사이트	웹사이트	NNG	O
+는	는	JX	O
+_	_	_	O
+이런	이런	MM	O
+_	_	_	O
+벽	벽	NNG	O
+을	을	JKO	O
+_	_	_	O
+낮	낮추	VV	O
+췄	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 18
+## 그 바탕에는 ‘호주 와인의 아버지’로 불리는 앤드루 카이야드(55·위 사진)가 있다.
+## 그 바탕에는 ‘<호주 와인의 아버지:PER>’로 불리는 <앤드루 카이야드:PER>(<55:NOH>·위 사진)가 있다.
+그	그	MM	O
+_	_	_	O
+바탕	바탕	NNG	O
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+‘	‘	SS	O
+호주	호주	NNP	B-PER
+_	_	_	I-PER
+와인	와인	NNG	I-PER
+의	의	JKG	I-PER
+_	_	_	I-PER
+아버지	아버지	NNG	I-PER
+’	’	SS	O
+로	로	JKB	O
+_	_	_	O
+불리	불리	VV	O
+는	는	ETM	O
+_	_	_	O
+앤드루	앤드루	NNP	B-PER
+_	_	_	I-PER
+카이	카이	NNG	I-PER
+야드	야드	NNB	I-PER
+(	(	SS	O
+55	55	SN	B-NOH
+·	·	SP	O
+위	위	NNP	O
+_	_	_	O
+사진	사진	NNG	O
+)	)	SS	O
+가	가	JKS	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+.	.	SF	O
+

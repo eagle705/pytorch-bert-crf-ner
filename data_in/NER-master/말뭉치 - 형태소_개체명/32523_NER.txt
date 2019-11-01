@@ -1,0 +1,334 @@
+## 1
+## 지난 20일 방송된 EBS ‘리얼극장’에서는 이파니와 그의 엄마 주미애 씨의 이야기가 공개됐다.
+## 지난 <20일:DAT> 방송된 <EBS:ORG> ‘<리얼극장:POH>’에서는 <이파니:PER>와 그의 엄마 <주미애:PER> 씨의 이야기가 공개됐다.
+지난	지나+ㄴ	VV+ETM	O
+_	_	_	O
+20	20	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+방송된	방송되+ㄴ	VV+ETM	O
+_	_	_	O
+EBS	EBS	SL	B-ORG
+_	_	_	O
+‘	‘	SS	O
+리얼	리얼	NNG	B-POH
+극장	극장	NNG	I-POH
+’	’	SS	O
+에서	에서	JKB	O
+는	는	JX	O
+_	_	_	O
+이파	이파	NNG	B-PER
+니와	니와	NNP	O
+_	_	_	O
+그	그	NP	O
+의	의	JKG	O
+_	_	_	O
+엄마	엄마	NNG	O
+_	_	_	O
+주미애	주미애	NNP	B-PER
+_	_	_	O
+씨	씨	NNB	O
+의	의	JKG	O
+_	_	_	O
+이야기	이야기	NNG	O
+가	가	JKS	O
+_	_	_	O
+공개	공개되	VV	O
+됐	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 태군이 형과 야수들에게 고맙다”고 말했다.
+## <태군이:PER> 형과 야수들에게 고맙다”고 말했다.
+태	태	NNG	B-PER
+군	군	NNG	I-PER
+이	이	JKS	I-PER
+_	_	_	O
+형	형	NNG	O
+과	과	JC	O
+_	_	_	O
+야수	야수	NNG	O
+들	들	XSN	O
+에게	에게	JKB	O
+_	_	_	O
+고맙	고맙	VA	O
+다	다	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+말	말하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 2004년 노무현 전 대통령 탄핵심판 때는 윤영철(80) 당시 헌재소장이 결정문을 낭독했다.
+## <2004년:DAT> <노무현:PER> 전 대통령 탄핵심판 때는 <윤영철:PER>(<80:NOH>) 당시 헌재소장이 결정문을 낭독했다.
+2004	2004	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+노무현	노무현	NNP	B-PER
+_	_	_	O
+전	전	MM	O
+_	_	_	O
+대통령	대통령	NNG	O
+_	_	_	O
+탄핵	탄핵	NNG	O
+심판	심판	NNG	O
+_	_	_	O
+때	때	NNG	O
+는	는	JX	O
+_	_	_	O
+윤영철	윤영철	NNP	B-PER
+(	(	SS	O
+80	80	SN	B-NOH
+)	)	SS	O
+_	_	_	O
+당시	당시	NNG	O
+_	_	_	O
+헌재	헌재	NNG	O
+소장	소장	NNG	O
+이	이	JKS	O
+_	_	_	O
+결정	결정	NNG	O
+문	문	XSN	O
+을	을	JKO	O
+_	_	_	O
+낭독	낭독하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 한편, 박명수는 한수민 씨와 결혼 후 지난 2008년 8월 첫 딸 민서 양을 얻었다.
+## 한편, <박명수:PER>는 <한수민:PER> 씨와 결혼 후 지난 <2008년 8월:DAT> 첫 딸 <민서:PER> 양을 얻었다.
+한편	한편	NNG	O
+,	,	SP	O
+_	_	_	O
+박명수	박명수	NNP	B-PER
+는	는	JX	O
+_	_	_	O
+한수민	한수민	NNP	B-PER
+_	_	_	O
+씨	씨	NNB	O
+와	와	JKB	O
+_	_	_	O
+결혼	결혼	NNG	O
+_	_	_	O
+후	후	NNG	O
+_	_	_	O
+지난	지나+ㄴ	VV+ETM	O
+_	_	_	O
+2008	2008	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	I-DAT
+8	8	SN	I-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+첫	첫	MM	O
+_	_	_	O
+딸	딸	NNG	O
+_	_	_	O
+민서	민서	NNG	B-PER
+_	_	_	O
+양	양	NNG	O
+을	을	JKO	O
+_	_	_	O
+얻	얻	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 1957년 EU 출범 이후 첫 탈퇴 협상으로 EU나 영국 모두 가 보지 못한 여정을 떠나는 셈이다.
+## <1957년:DAT> <EU:ORG> 출범 이후 첫 탈퇴 협상으로 <EU:ORG>나 <영국:ORG> 모두 가 보지 못한 여정을 떠나는 셈이다.
+1957	1957	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+EU	EU	SL	B-ORG
+_	_	_	O
+출범	출범	NNG	O
+_	_	_	O
+이후	이후	NNG	O
+_	_	_	O
+첫	첫	MM	O
+_	_	_	O
+탈퇴	탈퇴	NNG	O
+_	_	_	O
+협상	협상	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+EU	EU	SL	B-ORG
+나	나	JC	O
+_	_	_	O
+영국	영국	NNP	B-ORG
+_	_	_	O
+모두	모두	MAG	O
+_	_	_	O
+가	가+아	VV+EC	O
+_	_	_	O
+보	보	VX	O
+지	지	EC	O
+_	_	_	O
+못한	못하+ㄴ	VX+ETM	O
+_	_	_	O
+여정	여정	NNG	O
+을	을	JKO	O
+_	_	_	O
+떠나	떠나	VV	O
+는	는	ETM	O
+_	_	_	O
+셈	셈	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 그럼에도 정부3.0에 대한 국민적 인지도는 아직 높지 않은 실정이다.
+## 그럼에도 <정부3.0:POH>에 대한 국민적 인지도는 아직 높지 않은 실정이다.
+그럼에도	그렇+ㅁ에도	VA+EC	O
+_	_	_	O
+정부	정부	NNG	B-POH
+3.0	3.0	SN	I-POH
+에	에	JKB	O
+_	_	_	O
+대한	대하+ㄴ	VV+ETM	O
+_	_	_	O
+국민적	국민적	NNG	O
+_	_	_	O
+인지도	인지도	NNG	O
+는	는	JX	O
+_	_	_	O
+아직	아직	MAG	O
+_	_	_	O
+높	높	VA	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+은	은	ETM	O
+_	_	_	O
+실정	실정	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 백 104. 계속 알파고가 참는데요. 이세돌 9단 역시 흑 105로 계속 따라붙습니다.
+## <백 104:NOH>. 계속 <알파고:POH>가 참는데요. <이세돌:PER> <9단:NOH> 역시 <흑 105:NOH>로 계속 따라붙습니다.
+백	백	NR	B-NOH
+_	_	_	I-NOH
+104	104	SN	I-NOH
+.	.	SF	O
+_	_	_	O
+계속	계속	MAG	O
+_	_	_	O
+알	알	NNP	B-POH
+파고	파고	NNG	I-POH
+가	가	JKS	O
+_	_	_	O
+참	참	VV	O
+는데요	는데요	EF	O
+.	.	SF	O
+_	_	_	O
+이세돌	이세돌	NNP	B-PER
+_	_	_	O
+9	9	SN	B-NOH
+단	단	NNG	I-NOH
+_	_	_	O
+역시	역시	MAG	O
+_	_	_	O
+흑	흑	NNG	B-NOH
+_	_	_	I-NOH
+105	105	SN	I-NOH
+로	로	JKB	O
+_	_	_	O
+계속	계속	MAG	O
+_	_	_	O
+따라붙	따라붙	VV	O
+습니다	습니다	EF	O
+.	.	SF	O
+
+## 8
+## 트럼프의 이 같은 주장은 미국 내에서 외교안보 전문가들을 중심으로 강력한 비판을 받아왔다.
+## <트럼프:PER>의 이 같은 주장은 <미국:ORG> 내에서 외교안보 전문가들을 중심으로 강력한 비판을 받아왔다.
+트럼프	트럼프	NNP	B-PER
+의	의	JKG	O
+_	_	_	O
+이	이	NP	O
+_	_	_	O
+같	같	VA	O
+은	은	ETM	O
+_	_	_	O
+주장	주장	NNG	O
+은	은	JX	O
+_	_	_	O
+미국	미국	NNP	B-ORG
+_	_	_	O
+내	내	NNB	O
+에서	에서	JKB	O
+_	_	_	O
+외교	외교	NNG	O
+안보	안보	NNG	O
+_	_	_	O
+전문가	전문가	NNG	O
+들	들	XSN	O
+을	을	JKO	O
+_	_	_	O
+중심	중심	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+강력한	강력하+ㄴ	VA+ETM	O
+_	_	_	O
+비판	비판	NNG	O
+을	을	JKO	O
+_	_	_	O
+받	받	VV	O
+아	아+오	EC+VX	O
+왔	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 자율주행차를 대량 생산할 때가 되면 현대차는 과연 어디서 만들까. 생뚱맞은 질문으로 들릴 수 있다.
+## 자율주행차를 대량 생산할 때가 되면 <현대차:ORG>는 과연 어디서 만들까. 생뚱맞은 질문으로 들릴 수 있다.
+자율	자율	NNG	O
+주행	주행	NNG	O
+차	차	NNG	O
+를	를	JKO	O
+_	_	_	O
+대량	대량	NNG	O
+_	_	_	O
+생산할	생산하+ㄹ	VV+ETM	O
+_	_	_	O
+때	때	NNG	O
+가	가	JKC	O
+_	_	_	O
+되	되	VV	O
+면	면	EC	O
+_	_	_	O
+현대차	현대차	NNP	B-ORG
+는	는	JX	O
+_	_	_	O
+과연	과연	MAG	O
+_	_	_	O
+어디	어디	NP	O
+서	서	JKB	O
+_	_	_	O
+만들까	만들+ㄹ까	VV+EF	O
+.	.	SF	O
+_	_	_	O
+생뚱맞	생뚱맞	VA	O
+은	은	ETM	O
+_	_	_	O
+질문	질문	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+들릴	들리+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+.	.	SF	O
+

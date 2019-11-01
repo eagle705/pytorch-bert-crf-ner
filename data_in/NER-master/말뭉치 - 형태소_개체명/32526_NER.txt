@@ -1,0 +1,465 @@
+## 1
+## 막판에 급부상했던 최재경 전 인천지검장(53·17기)은 최종 후보군에 들지 못했으나 다른 공직을 맡을 것으로 알려졌다.
+## 막판에 급부상했던 <최재경:PER> 전 인천지검장(<53:NOH>·<17기:NOH>)은 최종 후보군에 들지 못했으나 다른 공직을 맡을 것으로 알려졌다.
+막판	막판	NNG	O
+에	에	JKB	O
+_	_	_	O
+급부상	급부상하	VV	O
+했	였	EP	O
+던	던	ETM	O
+_	_	_	O
+최재경	최재경	NNP	B-PER
+_	_	_	O
+전	전	NNG	O
+_	_	_	O
+인천	인천	NNP	O
+지검	지검	NNG	O
+장	장	XSN	O
+(	(	SS	O
+53	53	SN	B-NOH
+·	·	SP	O
+17	17	SN	B-NOH
+기	기	NNG	I-NOH
+)	)	SS	O
+은	은	JX	O
+_	_	_	O
+최종	최종	NNG	O
+_	_	_	O
+후보	후보	NNG	O
+군	군	NNG	O
+에	에	JKB	O
+_	_	_	O
+들	들	VV	O
+지	지	EC	O
+_	_	_	O
+못	못하	VX	O
+했	였	EP	O
+으나	으나	EC	O
+_	_	_	O
+다른	다른	MM	O
+_	_	_	O
+공직	공직	NNG	O
+을	을	JKO	O
+_	_	_	O
+맡	맡	VV	O
+을	을	ETM	O
+_	_	_	O
+것	것	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+알려	알려지	VV	O
+졌	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 조동주 djc@donga.com·장관석 기자
+## <조동주:PER> <djc@donga.com:POH>·<장관석:PER> 기자
+조동주	조동주	NNP	B-PER
+_	_	_	O
+djc	djc	SL	B-POH
+@	@	SW	I-POH
+donga	donga	SL	I-POH
+.	.	SF	I-POH
+com	com	SL	I-POH
+·	·	SP	O
+장관	장관	NNG	B-PER
+석	석	XSN	I-PER
+_	_	_	O
+기자	기자	NNG	O
+
+## 3
+## 강동성심병원 외래 입원 중단, 173번 70대女 확진 전 여러 병원 전전…재확산 막아라!
+## <강동성심병원:ORG> 외래 입원 중단, <173번:NOH> <70대:NOH>女 확진 전 여러 병원 전전…재확산 막아라!
+강동	강동	NNP	B-ORG
+성심	성심	NNP	I-ORG
+병원	병원	NNG	I-ORG
+_	_	_	O
+외래	외래	NNG	O
+_	_	_	O
+입원	입원	NNG	O
+_	_	_	O
+중단	중단	NNG	O
+,	,	SP	O
+_	_	_	O
+173	173	SN	B-NOH
+번	번	NNB	I-NOH
+_	_	_	O
+70	70	SN	B-NOH
+대	대	NNB	I-NOH
+女	女	SH	O
+_	_	_	O
+확진	확진	NNG	O
+_	_	_	O
+전	전	MM	O
+_	_	_	O
+여러	여러	MM	O
+_	_	_	O
+병원	병원	NNG	O
+_	_	_	O
+전전	전전	MM	O
+…	…	SE	O
+재	재	XPN	O
+확산	확산	NNG	O
+_	_	_	O
+막	막	VV	O
+아라	아라	EF	O
+!	!	SF	O
+
+## 4
+## 박칼린, 바다에 "폭발적 가창력" 감동…새로운 시도 뭔가 보니
+## <박칼린:PER>, <바다:PER>에 "폭발적 가창력" 감동…새로운 시도 뭔가 보니
+박칼린	박칼린	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+바다	바다	NNG	B-PER
+에	에	JKB	O
+_	_	_	O
+"	"	SS	O
+폭발적	폭발적	NNG	O
+_	_	_	O
+가창력	가창력	NNG	O
+"	"	SS	O
+_	_	_	O
+감동	감동	NNG	O
+…	…	SE	O
+새로	새롭	VA	O
+운	ㄴ	ETM	O
+_	_	_	O
+시도	시도	NNG	O
+_	_	_	O
+뭔가	뭐+이+ㄴ가	NP+VCP+EC	O
+_	_	_	O
+보	보	VX	O
+니	니	EC	O
+
+## 5
+## 즉, 대치동 등 강남 일대에선 시간당 30만원이 표준 가격인 셈이다.
+## 즉, <대치동:LOC> 등 <강남:LOC> 일대에선 시간당 <30만원:MNY>이 표준 가격인 셈이다.
+즉	즉	MAG	O
+,	,	SP	O
+_	_	_	O
+대치동	대치동	NNP	B-LOC
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+강남	강남	NNP	B-LOC
+_	_	_	O
+일대	일대	NNG	O
+에선	에서+ㄴ	JKB+JX	O
+_	_	_	O
+시간	시간	NNG	O
+당	당	XSN	O
+_	_	_	O
+30	30	SN	B-MNY
+만	만	NR	I-MNY
+원	원	NNB	I-MNY
+이	이	JKS	O
+_	_	_	O
+표준	표준	NNG	O
+_	_	_	O
+가격	가격	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+셈	셈	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 실력파 가수 적우가 KBS 1TV ‘가요무대’ 무대에 처음 나선다.
+## 실력파 가수 <적우:PER>가 <KBS 1TV:POH> ‘<가요무대:POH>’ 무대에 처음 나선다.
+실력파	실력파	NNG	O
+_	_	_	O
+가수	가수	NNG	O
+_	_	_	O
+적우	적우	NNG	B-PER
+가	가	JKS	O
+_	_	_	O
+KBS	KBS	SL	B-POH
+_	_	_	I-POH
+1	1	SN	I-POH
+TV	TV	SL	I-POH
+_	_	_	O
+‘	‘	SS	O
+가요무대	가요무대	NNP	B-POH
+’	’	SS	O
+_	_	_	O
+무대	무대	NNG	O
+에	에	JKB	O
+_	_	_	O
+처음	처음	NNG	O
+_	_	_	O
+나선다	나서+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 7
+## 적우는 18일 방송되는 ‘가요무대’에 첫 출연해 추억의 명곡 ‘그대 그리고 나’를 열창한다.
+## <적우:PER>는 <18일:DAT> 방송되는 ‘<가요무대:POH>’에 첫 출연해 추억의 명곡 ‘<그대 그리고 나:POH>’를 열창한다.
+적우	적우	NNG	B-PER
+는	는	JX	O
+_	_	_	O
+18	18	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+방송되	방송되	VV	O
+는	는	ETM	O
+_	_	_	O
+‘	‘	SS	O
+가요무대	가요무대	NNP	B-POH
+’	’	SS	O
+에	에	JKB	O
+_	_	_	O
+첫	첫	MM	O
+_	_	_	O
+출연해	출연하+여	VV+EC	O
+_	_	_	O
+추억	추억	NNG	O
+의	의	JKG	O
+_	_	_	O
+명곡	명곡	NNG	O
+_	_	_	O
+‘	‘	SS	O
+그대	그대	NP	B-POH
+_	_	_	I-POH
+그리고	그리고	MAJ	I-POH
+_	_	_	I-POH
+나	나	JC	I-POH
+’	’	SS	O
+를	를	JKO	O
+_	_	_	O
+열창한다	열창하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 8
+## 최근 진행된 녹화에서 적우는 소리새가 부른 원곡 ‘그대 그리고 나’를 특유의 호소력 강한 허스키 보이스로 완벽히 소화해 많은 관객들의 박수갈채를 받았다.
+## 최근 진행된 녹화에서 <적우:PER>는 <소리새:ORG>가 부른 원곡 ‘<그대 그리고 나:POH>’를 특유의 호소력 강한 허스키 보이스로 완벽히 소화해 많은 관객들의 박수갈채를 받았다.
+최근	최근	NNG	O
+_	_	_	O
+진행된	진행되+ㄴ	VV+ETM	O
+_	_	_	O
+녹화	녹화	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+적우	적우	NNG	B-PER
+는	는	JX	O
+_	_	_	O
+소리	소리	NNG	B-ORG
+새	새	NNG	I-ORG
+가	가	JKS	O
+_	_	_	O
+부른	부르+ㄴ	VV+ETM	O
+_	_	_	O
+원곡	원곡	NNG	O
+_	_	_	O
+‘	‘	SS	O
+그대	그대	NP	B-POH
+_	_	_	I-POH
+그리고	그리고	MAJ	I-POH
+_	_	_	I-POH
+나	나	JC	I-POH
+’	’	SS	O
+를	를	JKO	O
+_	_	_	O
+특유	특유	NNG	O
+의	의	JKG	O
+_	_	_	O
+호소력	호소력	NNG	O
+_	_	_	O
+강한	강하+ㄴ	VA+ETM	O
+_	_	_	O
+허스키	허스키	NNG	O
+_	_	_	O
+보이스	보이스	NNG	O
+로	로	JKB	O
+_	_	_	O
+완벽히	완벽히	MAG	O
+_	_	_	O
+소화해	소화하+여	VV+EC	O
+_	_	_	O
+많	많	VA	O
+은	은	ETM	O
+_	_	_	O
+관객	관객	NNG	O
+들	들	XSN	O
+의	의	JKG	O
+_	_	_	O
+박수갈채	박수갈채	NNG	O
+를	를	JKO	O
+_	_	_	O
+받	받	VV	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 이에 대해 한미약품 측은 “임상정보사이트에 올라온 글의 정확한 의미는 ‘임상 환자 모집이 일시적으로 유예’됐다는 것이다.
+## 이에 대해 <한미약품:ORG> 측은 “임상정보사이트에 올라온 글의 정확한 의미는 ‘임상 환자 모집이 일시적으로 유예’됐다는 것이다.
+이	이	NP	O
+에	에	JKB	O
+_	_	_	O
+대해	대하+여	VV+EC	O
+_	_	_	O
+한미약품	한미약품	NNP	B-ORG
+_	_	_	O
+측	측	NNB	O
+은	은	JX	O
+_	_	_	O
+“	“	SS	O
+임상	임상	NNG	O
+정보	정보	NNG	O
+사이트	사이트	NNG	O
+에	에	JKB	O
+_	_	_	O
+올라온	올라오+ㄴ	VV+ETM	O
+_	_	_	O
+글	글	NNG	O
+의	의	JKG	O
+_	_	_	O
+정확한	정확하+ㄴ	VA+ETM	O
+_	_	_	O
+의미	의미	NNG	O
+는	는	JX	O
+_	_	_	O
+‘	‘	SS	O
+임상	임상	NNG	O
+_	_	_	O
+환자	환자	NNG	O
+_	_	_	O
+모집	모집	NNG	O
+이	이	JKS	O
+_	_	_	O
+일시적	일시적	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+유예	유예	NNG	O
+’	’	SS	O
+됐	되+었	XSV+EP	O
+다는	다는	ETM	O
+_	_	_	O
+것	것	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 구글은 아이들의 상상력에 날개를 달아주는 도구를 어린이들에게 제공해주면 아이들이 단순한 소비자에 그치지 않고, 테크놀로지를 적극 활용하는 제작자로 성장할 수 있다고 강조했다.
+## <구글:ORG>은 아이들의 상상력에 날개를 달아주는 도구를 어린이들에게 제공해주면 아이들이 단순한 소비자에 그치지 않고, 테크놀로지를 적극 활용하는 제작자로 성장할 수 있다고 강조했다.
+구글	구글	NNG	B-ORG
+은	은	JX	O
+_	_	_	O
+아이	아이	NNG	O
+들	들	XSN	O
+의	의	JKG	O
+_	_	_	O
+상상력	상상력	NNG	O
+에	에	JKB	O
+_	_	_	O
+날개	날개	NNG	O
+를	를	JKO	O
+_	_	_	O
+달	달	VV	O
+아	아	EC	O
+주	주	VX	O
+는	는	ETM	O
+_	_	_	O
+도구	도구	NNG	O
+를	를	JKO	O
+_	_	_	O
+어린이	어린이	NNG	O
+들	들	XSN	O
+에게	에게	JKB	O
+_	_	_	O
+제공해	제공하+여	VV+EC	O
+주	주	VX	O
+면	면	EC	O
+_	_	_	O
+아이	아이	NNG	O
+들	들	XSN	O
+이	이	JKS	O
+_	_	_	O
+단순한	단순하+ㄴ	VA+ETM	O
+_	_	_	O
+소비자	소비자	NNG	O
+에	에	JKB	O
+_	_	_	O
+그치	그치	VV	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+고	고	EC	O
+,	,	SP	O
+_	_	_	O
+테크놀로지	테크놀로지	NNG	O
+를	를	JKO	O
+_	_	_	O
+적극	적극	NNG	O
+_	_	_	O
+활용하	활용하	VV	O
+는	는	ETM	O
+_	_	_	O
+제작자	제작자	NNG	O
+로	로	JKB	O
+_	_	_	O
+성장할	성장하+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+다고	다고	EC	O
+_	_	_	O
+강조	강조하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## “삼성전자 갤럭시S6, 예약하러 가야겠다”,
+## “<삼성전자 갤럭시S6:POH>, 예약하러 가야겠다”,
+“	“	SS	O
+삼성전자	삼성전자	NNP	B-POH
+_	_	_	I-POH
+갤럭시	갤럭시	NNP	I-POH
+S	S	SL	I-POH
+6	6	SN	I-POH
+,	,	SP	O
+_	_	_	O
+예약하	예약하	VV	O
+러	러	EC	O
+_	_	_	O
+가야	가+아야+하	VV+EC+VX	O
+겠	겠	EP	O
+다	다	EF	O
+”	”	SS	O
+,	,	SP	O
+
+## 12
+## 화산섬 제주도의 특징을 포착해 또 하나의 상상나라를 건설하고 있었다.
+## 화산섬 <제주도:LOC>의 특징을 포착해 또 <하나:NOH>의 상상나라를 건설하고 있었다.
+화산섬	화산섬	NNG	O
+_	_	_	O
+제주도	제주도	NNP	B-LOC
+의	의	JKG	O
+_	_	_	O
+특징	특징	NNG	O
+을	을	JKO	O
+_	_	_	O
+포착해	포착하+여	VV+EC	O
+_	_	_	O
+또	또	MAG	O
+_	_	_	O
+하나	하나	NNG	B-NOH
+의	의	JKG	O
+_	_	_	O
+상상	상상	NNG	O
+나라	나라	NNG	O
+를	를	JKO	O
+_	_	_	O
+건설하	건설하	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+

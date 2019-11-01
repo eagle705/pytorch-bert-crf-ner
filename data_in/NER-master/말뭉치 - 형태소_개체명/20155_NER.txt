@@ -1,0 +1,422 @@
+## 1
+## ▲지코는 말한다.
+## ▲<지코:PER>는 말한다.
+▲	▲	SW	O
+지코	지코	NNP	B-PER
+는	는	JX	O
+_	_	_	O
+말한다	말하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 2
+## 고양이를 일시적으로 몰아낸 어느 아파트 단지에서는 1층 베란다와 거실까지 쥐가 들어왔다.
+## 고양이를 일시적으로 몰아낸 어느 아파트 단지에서는 <1층:NOH> 베란다와 거실까지 쥐가 들어왔다.
+고양이	고양이	NNG	O
+를	를	JKO	O
+_	_	_	O
+일시적	일시적	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+몰아낸	몰아내+ㄴ	VV+ETM	O
+_	_	_	O
+어느	어느	MM	O
+_	_	_	O
+아파트	아파트	NNG	O
+_	_	_	O
+단지	단지	NNG	O
+에서	에서	JKB	O
+는	는	JX	O
+_	_	_	O
+1	1	SN	B-NOH
+층	층	NNG	I-NOH
+_	_	_	O
+베란다	베란다	NNG	O
+와	와	JC	O
+_	_	_	O
+거실	거실	NNG	O
+까지	까지	JX	O
+_	_	_	O
+쥐	쥐	NNG	O
+가	가	JKS	O
+_	_	_	O
+들어	들어오	VV	O
+왔	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 터키 교민 유지은 씨 또한 터키남성들이 여성들을 “하룻밤 잠자리 상대로 생각하는 경우가 있다고 하더라”라고 설명했다.
+## <터키:ORG> 교민 <유지은:PER> 씨 또한 터키남성들이 여성들을 “하룻밤 잠자리 상대로 생각하는 경우가 있다고 하더라”라고 설명했다.
+터키	터키	NNP	B-ORG
+_	_	_	O
+교민	교민	NNG	O
+_	_	_	O
+유지은	유지은	NNP	B-PER
+_	_	_	O
+씨	씨	NNB	O
+_	_	_	O
+또한	또한	MAG	O
+_	_	_	O
+터키	터키	NNP	O
+남성	남성	NNG	O
+들	들	XSN	O
+이	이	JKS	O
+_	_	_	O
+여성	여성	NNG	O
+들	들	XSN	O
+을	을	JKO	O
+_	_	_	O
+“	“	SS	O
+하룻밤	하룻밤	NNG	O
+_	_	_	O
+잠자리	잠자리	NNG	O
+_	_	_	O
+상대	상대	NNG	O
+로	로	JKB	O
+_	_	_	O
+생각하	생각하	VV	O
+는	는	ETM	O
+_	_	_	O
+경우	경우	NNG	O
+가	가	JKS	O
+_	_	_	O
+있	있	VA	O
+다고	다고	EC	O
+_	_	_	O
+하	하	VV	O
+더라	더라	EF	O
+”	”	SS	O
+라고	라고	JKQ	O
+_	_	_	O
+설명	설명하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## [뷰티정보] 토니모리, 인기 캐릭터와 만나다! ‘포켓몬 에디션’ 출시 外
+## [뷰티정보] <토니모리:ORG>, 인기 캐릭터와 만나다! ‘<포켓몬:POH> 에디션’ 출시 外
+[	[	SS	O
+뷰티	뷰티	NNG	O
+정보	정보	NNG	O
+]	]	SS	O
+_	_	_	O
+토니모리	토니모리	NNP	B-ORG
+,	,	SP	O
+_	_	_	O
+인기	인기	NNG	O
+_	_	_	O
+캐릭터	캐릭터	NNG	O
+와	와	JKB	O
+_	_	_	O
+만나	만나	VV	O
+다	다	EF	O
+!	!	SF	O
+_	_	_	O
+‘	‘	SS	O
+포켓몬	포켓몬	NNG	B-POH
+_	_	_	O
+에디션	에디션	NNG	O
+’	’	SS	O
+_	_	_	O
+출시	출시	NNG	O
+_	_	_	O
+外	外	SH	O
+
+## 5
+## 사정이 이렇다보니 업계 내부에선 올해 안에 국내 주요 4개 정유사 중 한 곳이 매물로 나올 수 있다는 우울한 전망까지 나돈다.
+## 사정이 이렇다보니 업계 내부에선 올해 안에 국내 주요 <4개:NOH> 정유사 중 <한 곳:NOH>이 매물로 나올 수 있다는 우울한 전망까지 나돈다.
+사정	사정	NNG	O
+이	이	JKS	O
+_	_	_	O
+이렇	이렇	VA	O
+다	다	EC	O
+보	보	VX	O
+니	니	EC	O
+_	_	_	O
+업계	업계	NNG	O
+_	_	_	O
+내부	내부	NNG	O
+에선	에서+ㄴ	JKB+JX	O
+_	_	_	O
+올해	올해	NNG	O
+_	_	_	O
+안	안	NNG	O
+에	에	JKB	O
+_	_	_	O
+국내	국내	NNG	O
+_	_	_	O
+주요	주요	NNG	O
+_	_	_	O
+4	4	SN	B-NOH
+개	개	NNB	I-NOH
+_	_	_	O
+정유	정유	NNG	O
+사	사	XSN	O
+_	_	_	O
+중	중	NNB	O
+_	_	_	O
+한	한	MM	B-NOH
+_	_	_	I-NOH
+곳	곳	NNG	I-NOH
+이	이	JKS	O
+_	_	_	O
+매물	매물	NNG	O
+로	로	JKB	O
+_	_	_	O
+나올	나오+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+다는	다는	ETM	O
+_	_	_	O
+우울한	우울하+ㄴ	VA+ETM	O
+_	_	_	O
+전망	전망	NNG	O
+까지	까지	JX	O
+_	_	_	O
+나돈다	나돌+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 6
+## 롯데월드타워 100층 돌파, 국내 100층 첫 돌파…‘안전 사항은?’
+## <롯데월드타워:POH> <100층:NOH> 돌파, 국내 <100층:NOH> 첫 돌파…‘안전 사항은?’
+롯데월드	롯데월드	NNP	B-POH
+타워	타워	NNG	I-POH
+_	_	_	O
+100	100	SN	B-NOH
+층	층	NNG	I-NOH
+_	_	_	O
+돌파	돌파	NNG	O
+,	,	SP	O
+_	_	_	O
+국내	국내	NNG	O
+_	_	_	O
+100	100	SN	B-NOH
+층	층	NNG	I-NOH
+_	_	_	O
+첫	첫	MM	O
+_	_	_	O
+돌파	돌파	NNG	O
+…	…	SE	O
+‘	‘	SS	O
+안전	안전	NNG	O
+_	_	_	O
+사항	사항	NNG	O
+은	은	JX	O
+?	?	SF	O
+’	’	SS	O
+
+## 7
+## 현아는 “천우희 씨 역할이었다.
+## <현아:PER>는 “<천우희:PER> 씨 역할이었다.
+현아	현아	NNP	B-PER
+는	는	JX	O
+_	_	_	O
+“	“	SS	O
+천우희	천우희	NNP	B-PER
+_	_	_	O
+씨	씨	NNB	O
+_	_	_	O
+역할	역할	NNG	O
+이	이	VCP	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 문재인, 10대 공약서 ‘사드 국회비준’ 제외
+## <문재인:PER>, <10대:NOH> 공약서 ‘사드 국회비준’ 제외
+문재인	문재인	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+10	10	SN	B-NOH
+대	대	NNB	I-NOH
+_	_	_	O
+공약	공약	NNG	O
+서	서	JKB	O
+_	_	_	O
+‘	‘	SS	O
+사드	사드	NNP	O
+_	_	_	O
+국회	국회	NNG	O
+비준	비준	NNG	O
+’	’	SS	O
+_	_	_	O
+제외	제외	NNG	O
+
+## 9
+## 미­일 안보협, 북핵대응 논의/11일 동경서
+## <미:ORG>­<일:ORG> 안보협, 북핵대응 논의/<11일:DAT> 동경서
+미	미	NNP	B-ORG
+­	­	SS	O
+일	이+ㄹ	VCP+ETM	B-ORG
+_	_	_	O
+안보	안보	NNG	O
+협	협	NNG	O
+,	,	SP	O
+_	_	_	O
+북	북	NNP	O
+핵	핵	NNG	O
+대응	대응	NNG	O
+_	_	_	O
+논의	논의	NNG	O
+/	/	SP	O
+11	11	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+동경	동경	NNP	O
+서	서	JKB	O
+
+## 10
+## 국립생물자원관은 이 호랑이가 북한이나 시베리아에 사는 것과 같은 종이지만 지형적 여건으로 덩치, 무늬, 체중에 약간의 차이가 있다고 판단했다.
+## <국립생물자원관:ORG>은 이 호랑이가 <북한:LOC>이나 <시베리아:LOC>에 사는 것과 같은 종이지만 지형적 여건으로 덩치, 무늬, 체중에 약간의 차이가 있다고 판단했다.
+국립	국립	NNG	B-ORG
+생물자원	생물자원	NNG	I-ORG
+관	관	XSN	I-ORG
+은	은	JX	O
+_	_	_	O
+이	이	MM	O
+_	_	_	O
+호랑이	호랑이	NNG	O
+가	가	JKS	O
+_	_	_	O
+북한	북한	NNP	B-LOC
+이나	이나	JC	O
+_	_	_	O
+시베리아	시베리아	NNP	B-LOC
+에	에	JKB	O
+_	_	_	O
+사	살	VV	O
+는	는	ETM	O
+_	_	_	O
+것	것	NNB	O
+과	과	JKB	O
+_	_	_	O
+같	같	VA	O
+은	은	ETM	O
+_	_	_	O
+종	종이	NNG	O
+이	이	VCP	O
+지만	지만	EC	O
+_	_	_	O
+지형	지형	NNG	O
+적	적	XSN	O
+_	_	_	O
+여건	여건	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+덩치	덩치	NNG	O
+,	,	SP	O
+_	_	_	O
+무늬	무늬	NNG	O
+,	,	SP	O
+_	_	_	O
+체중	체중	NNG	O
+에	에	JKB	O
+_	_	_	O
+약간	약간	NNG	O
+의	의	JKG	O
+_	_	_	O
+차이	차이	NNG	O
+가	가	JKS	O
+_	_	_	O
+있	있	VA	O
+다고	다고	EC	O
+_	_	_	O
+판단	판단하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 자유한국당 친박계 의원들은 31일 박근혜 전 대통령이 구속된 데 대해 망연자실한 표정이다.
+## <자유한국당:ORG> 친박계 의원들은 <31일:DAT> <박근혜:PER> 전 대통령이 구속된 데 대해 망연자실한 표정이다.
+자유	자유	NNG	B-ORG
+한국	한국	NNP	I-ORG
+당	당	XSN	I-ORG
+_	_	_	O
+친	친	XPN	O
+박	박	NNP	O
+계	계	XSN	O
+_	_	_	O
+의원	의원	NNG	O
+들	들	XSN	O
+은	은	JX	O
+_	_	_	O
+31	31	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+박근혜	박근혜	NNP	B-PER
+_	_	_	O
+전	전	MM	O
+_	_	_	O
+대통령	대통령	NNG	O
+이	이	JKS	O
+_	_	_	O
+구속된	구속되+ㄴ	VV+ETM	O
+_	_	_	O
+데	데	NNB	O
+_	_	_	O
+대해	대하+여	VV+EC	O
+_	_	_	O
+망연자실한	망연자실하+ㄴ	VV+ETM	O
+_	_	_	O
+표정	표정	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 최초 분양가의 14% 할인 적용된 매매가격으로 계약금 10%는 2016년 1월 28일까지 정액분납제(최초 계약금 2천만원)로 받는다.
+## 최초 분양가의 <14%:PNT> 할인 적용된 매매가격으로 계약금 <10%:PNT>는 <2016년 1월 28일:DAT>까지 정액분납제(최초 계약금 <2천만원:MNY>)로 받는다.
+최초	최초	NNG	O
+_	_	_	O
+분양가	분양가	NNG	O
+의	의	JKG	O
+_	_	_	O
+14	14	SN	B-PNT
+%	%	SW	I-PNT
+_	_	_	O
+할인	할인	NNG	O
+_	_	_	O
+적용된	적용되+ㄴ	VV+ETM	O
+_	_	_	O
+매매가격	매매가격	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+계약금	계약금	NNG	O
+_	_	_	O
+10	10	SN	B-PNT
+%	%	SW	I-PNT
+는	는	JX	O
+_	_	_	O
+2016	2016	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	I-DAT
+1	1	SN	I-DAT
+월	월	NNB	I-DAT
+_	_	_	I-DAT
+28	28	SN	I-DAT
+일	일	NNB	I-DAT
+까지	까지	JX	O
+_	_	_	O
+정액	정액	NNG	O
+분납	분납	NNG	O
+제	제	XSN	O
+(	(	SS	O
+최초	최초	NNG	O
+_	_	_	O
+계약금	계약금	NNG	O
+_	_	_	O
+2	2	SN	B-MNY
+천만	천만	NR	I-MNY
+원	원	NNB	I-MNY
+)	)	SS	O
+로	로	JKB	O
+_	_	_	O
+받	받	VV	O
+는다	는다	EF	O
+.	.	SF	O
+

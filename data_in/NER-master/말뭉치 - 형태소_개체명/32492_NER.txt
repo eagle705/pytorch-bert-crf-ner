@@ -1,0 +1,319 @@
+## 1
+## IMF는 유럽연합(EU)·유럽중앙은행(ECB)과 함께 흔히 트로이카로 불리는 그리스 국제채권단의 일원이다.
+## <IMF:ORG>는 <유럽연합:ORG>(<EU:ORG>)·<유럽중앙은행:ORG>(<ECB:ORG>)과 함께 흔히 트로이카로 불리는 <그리스 국제채권단:ORG>의 일원이다.
+IMF	IMF	SL	B-ORG
+는	는	JX	O
+_	_	_	O
+유럽연합	유럽연합	NNP	B-ORG
+(	(	SS	O
+EU	EU	SL	B-ORG
+)	)	SS	O
+·	·	SP	O
+유럽중앙은행	유럽중앙은행	NNP	B-ORG
+(	(	SS	O
+ECB	ECB	SL	B-ORG
+)	)	SS	O
+과	과	JKB	O
+_	_	_	O
+함께	함께	MAG	O
+_	_	_	O
+흔히	흔히	MAG	O
+_	_	_	O
+트로이카	트로이카	NNG	O
+로	로	JKB	O
+_	_	_	O
+불리	불리	VV	O
+는	는	ETM	O
+_	_	_	O
+그리스	그리스	NNP	B-ORG
+_	_	_	I-ORG
+국제	국제	NNG	I-ORG
+채권	채권	NNG	I-ORG
+단	단	XSN	I-ORG
+의	의	JKG	O
+_	_	_	O
+일원	일원	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 이러한 만족도를 바탕으로 마이컴소프트는 MBN 방송의 스마트 기술 자문을 비롯해 다양한 대외 수상을 통해 인정받았다.
+## 이러한 만족도를 바탕으로 <마이컴소프트:ORG>는 <MBN 방송:POH>의 스마트 기술 자문을 비롯해 다양한 대외 수상을 통해 인정받았다.
+이러한	이러하+ㄴ	VA+ETM	O
+_	_	_	O
+만족도	만족도	NNG	O
+를	를	JKO	O
+_	_	_	O
+바탕	바탕	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+마이컴	마이컴	NNG	B-ORG
+소프트	소프트	NNG	I-ORG
+는	는	JX	O
+_	_	_	O
+MBN	MBN	SL	B-POH
+_	_	_	I-POH
+방송	방송	NNG	I-POH
+의	의	JKG	O
+_	_	_	O
+스마트	스마트	NNG	O
+_	_	_	O
+기술	기술	NNG	O
+_	_	_	O
+자문	자문	NNG	O
+을	을	JKO	O
+_	_	_	O
+비롯해	비롯하+여	VV+EC	O
+_	_	_	O
+다양한	다양하+ㄴ	VA+ETM	O
+_	_	_	O
+대외	대외	NNG	O
+_	_	_	O
+수상	수상	NNG	O
+을	을	JKO	O
+_	_	_	O
+통해	통하+여	VV+EC	O
+_	_	_	O
+인정받	인정받	VV	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 보류선수 명단에서 제외“윤성환·안지만 다년계약 했다”
+## 보류선수 명단에서 제외“<윤성환:PER>·<안지만:PER> 다년계약 했다”
+보류	보류	NNG	O
+선수	선수	NNG	O
+_	_	_	O
+명단	명단	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+제외	제외	NNG	O
+“	“	SS	O
+윤성환	윤성환	NNP	B-PER
+·	·	SP	O
+안지만	안지만	NNP	B-PER
+_	_	_	O
+다년	다년	NNG	O
+계약	계약	NNG	O
+_	_	_	O
+했	+였	+EP	O
+다	다	EF	O
+”	”	SS	O
+
+## 4
+## 이대표는 내년 2, 3월의 조기 전당대회 여부에 대해서는 언급을 피했다.
+## <이:PER>대표는 내년 <2:DAT>, <3월:DAT>의 조기 전당대회 여부에 대해서는 언급을 피했다.
+이	이	NNP	B-PER
+대표	대표	NNG	O
+는	는	JX	O
+_	_	_	O
+내년	내년	NNG	O
+_	_	_	O
+2	2	SN	B-DAT
+,	,	SP	O
+_	_	_	O
+3	3	SN	B-DAT
+월	월	NNB	I-DAT
+의	의	JKG	O
+_	_	_	O
+조기	조기	NNG	O
+_	_	_	O
+전당대회	전당대회	NNG	O
+_	_	_	O
+여부	여부	NNG	O
+에	에	JKB	O
+_	_	_	O
+대해서	대하+여서	VV+EC	O
+는	는	JX	O
+_	_	_	O
+언급	언급	NNG	O
+을	을	JKO	O
+_	_	_	O
+피	피하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 기상청 고위 관계자는 “뿌리 깊은 파벌 간 갈등을 비롯해 기상청 내부에 쌓여 있는 문제들을 하루아침에 해결하기는 쉽지 않다”고 전했다.
+## <기상청:ORG> 고위 관계자는 “뿌리 깊은 파벌 간 갈등을 비롯해 <기상청:ORG> 내부에 쌓여 있는 문제들을 하루아침에 해결하기는 쉽지 않다”고 전했다.
+기상청	기상청	NNG	B-ORG
+_	_	_	O
+고위	고위	NNG	O
+_	_	_	O
+관계자	관계자	NNG	O
+는	는	JX	O
+_	_	_	O
+“	“	SS	O
+뿌리	뿌리	NNG	O
+_	_	_	O
+깊	깊	VA	O
+은	은	ETM	O
+_	_	_	O
+파벌	파벌	NNG	O
+_	_	_	O
+간	간	NNB	O
+_	_	_	O
+갈등	갈등	NNG	O
+을	을	JKO	O
+_	_	_	O
+비롯해	비롯하+여	VV+EC	O
+_	_	_	O
+기상청	기상청	NNG	B-ORG
+_	_	_	O
+내부	내부	NNG	O
+에	에	JKB	O
+_	_	_	O
+쌓	쌓이	VV	O
+여	어	EC	O
+_	_	_	O
+있	있	VX	O
+는	는	ETM	O
+_	_	_	O
+문제	문제	NNG	O
+들	들	XSN	O
+을	을	JKO	O
+_	_	_	O
+하루아침	하루아침	NNG	O
+에	에	JKB	O
+_	_	_	O
+해결하	해결하	VV	O
+기	기	ETN	O
+는	는	JX	O
+_	_	_	O
+쉽	쉽	VA	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+다	다	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+전	전하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 경찰 “강남 화장실 살인, 정신질환자의 묻지마 범죄 결론”
+## 경찰 “<강남:LOC> 화장실 살인, 정신질환자의 묻지마 범죄 결론”
+경찰	경찰	NNG	O
+_	_	_	O
+“	“	SS	O
+강남	강남	NNP	B-LOC
+_	_	_	O
+화장실	화장실	NNG	O
+_	_	_	O
+살인	살인	NNG	O
+,	,	SP	O
+_	_	_	O
+정신	정신	NNG	O
+질환	질환	NNG	O
+자	자	XSN	O
+의	의	JKG	O
+_	_	_	O
+묻	묻	VV	O
+지	지	EC	O
+마	말+아	VX+EC	O
+_	_	_	O
+범죄	범죄	NNG	O
+_	_	_	O
+결론	결론	NNG	O
+”	”	SS	O
+
+## 7
+## 충북 청주흥덕경찰서는 난 농가에 들어가 수십억 원어치의 난을 훔친 혐의(특수절도)로 17일 황모 씨(45)를 구속했다.
+## <충북 청주흥덕경찰서:ORG>는 난 농가에 들어가 <수십억 원:MNY>어치의 난을 훔친 혐의(특수절도)로 <17일:DAT> <황모:PER> 씨(<45:NOH>)를 구속했다.
+충북	충북	NNP	B-ORG
+_	_	_	I-ORG
+청주	청주	NNP	I-ORG
+흥덕	흥덕	NNP	I-ORG
+경찰서	경찰서	NNG	I-ORG
+는	는	JX	O
+_	_	_	O
+난	나+ㄴ	NP+JX	O
+_	_	_	O
+농가	농가	NNG	O
+에	에	JKB	O
+_	_	_	O
+들어가	들어가+아	VV+EC	O
+_	_	_	O
+수십	수십	NR	B-MNY
+억	억	NR	I-MNY
+_	_	_	I-MNY
+원	원	NNB	I-MNY
+어치	어치	XSN	O
+의	의	JKG	O
+_	_	_	O
+난	난	NNG	O
+을	을	JKO	O
+_	_	_	O
+훔친	훔치+ㄴ	VV+ETM	O
+_	_	_	O
+혐의	혐의	NNG	O
+(	(	SS	O
+특수	특수	NNG	O
+절도	절도	NNG	O
+)	)	SS	O
+로	로	JKB	O
+_	_	_	O
+17	17	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+황모	황모	NNG	B-PER
+_	_	_	O
+씨	씨	NNB	O
+(	(	SS	O
+45	45	SN	B-NOH
+)	)	SS	O
+를	를	JKO	O
+_	_	_	O
+구속	구속하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 다현은 3학년에 재학 중이고 채영은 2016년 신입생으로 선발돼 쯔위와 함께 1학년으로 등교하게 된다.
+## <다현:PER>은 <3학년:NOH>에 재학 중이고 <채영:PER>은 <2016년:DAT> 신입생으로 선발돼 <쯔위:PER>와 함께 <1학년:NOH>으로 등교하게 된다.
+다현	다현	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+3	3	SN	B-NOH
+학년	학년	NNG	I-NOH
+에	에	JKB	O
+_	_	_	O
+재학	재학	NNG	O
+_	_	_	O
+중	중	NNB	O
+이	이	VCP	O
+고	고	EC	O
+_	_	_	O
+채영은	채영은	NNP	O
+_	_	_	O
+2016	2016	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+신입생	신입생	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+선발돼	선발되+어	VV+EC	O
+_	_	_	O
+쯔	쯔	NNG	B-PER
+위	위	NNG	I-PER
+와	와	JKB	O
+_	_	_	O
+함께	함께	MAG	O
+_	_	_	O
+1	1	SN	B-NOH
+학년	학년	NNG	I-NOH
+으로	으로	JKB	O
+_	_	_	O
+등교하	등교하	VV	O
+게	게	EC	O
+_	_	_	O
+된다	되+ㄴ다	VV+EF	O
+.	.	SF	O
+

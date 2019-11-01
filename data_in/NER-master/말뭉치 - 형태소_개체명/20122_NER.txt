@@ -1,0 +1,724 @@
+## 1
+## 2014년에는 현금(38.9%)이 신용카드(31.4%)보다 사용 빈도가 높았는데 지난해 처음으로 순서가 바뀌었다.
+## <2014년:DAT>에는 현금(<38.9%:PNT>)이 신용카드(<31.4%:PNT>)보다 사용 빈도가 높았는데 지난해 처음으로 순서가 바뀌었다.
+2014	2014	SN	B-DAT
+년	년	NNB	I-DAT
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+현금	현금	NNG	O
+(	(	SS	O
+38.9	38.9	SN	B-PNT
+%	%	SW	I-PNT
+)	)	SS	O
+이	이	JKS	O
+_	_	_	O
+신용카드	신용카드	NNG	O
+(	(	SS	O
+31.4	31.4	SN	B-PNT
+%	%	SW	I-PNT
+)	)	SS	O
+보다	보다	JKB	O
+_	_	_	O
+사용	사용	NNG	O
+_	_	_	O
+빈도	빈도	NNG	O
+가	가	JKS	O
+_	_	_	O
+높	높	VA	O
+았	았	EP	O
+는데	는데	EC	O
+_	_	_	O
+지난해	지난해	NNG	O
+_	_	_	O
+처음	처음	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+순서	순서	NNG	O
+가	가	JKS	O
+_	_	_	O
+바뀌	바뀌	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 이단장 또한 “시험인양이 본인양의 첫 단계”라며 “선체 수평만 유지되면 인양시간은 단축될 수 있다”고 말했다.
+## <이:PER>단장 또한 “시험인양이 본인양의 첫 단계”라며 “선체 수평만 유지되면 인양시간은 단축될 수 있다”고 말했다.
+이	이	NNP	B-PER
+단장	단장	NNG	O
+_	_	_	O
+또한	또한	MAG	O
+_	_	_	O
+“	“	SS	O
+시험	시험	NNG	O
+인양이	인양이	NNP	O
+_	_	_	O
+본인	본인	NNG	O
+양	양	NNG	O
+의	의	JKG	O
+_	_	_	O
+첫	첫	MM	O
+_	_	_	O
+단계	단계	NNG	O
+”	”+이	SS+VCP	O
+라며	라며	EC	O
+_	_	_	O
+“	“	SS	O
+선체	선체	NNG	O
+_	_	_	O
+수평	수평	NNG	O
+만	만	JX	O
+_	_	_	O
+유지되	유지되	VV	O
+면	면	EC	O
+_	_	_	O
+인양	인양	NNG	O
+시간	시간	NNG	O
+은	은	JX	O
+_	_	_	O
+단축될	단축되+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+말	말하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 앞서 해수부는 지난 19일 보도자료에서 시험인양에 대략 2~3시간이 소요된다고 밝혔었다.
+## 앞서 <해수부:ORG>는 지난 <19일:DAT> 보도자료에서 시험인양에 대략 <2:NOH>~<3시간:NOH>이 소요된다고 밝혔었다.
+앞서	앞서	MAG	O
+_	_	_	O
+해수	해수	NNG	B-ORG
+부	부	XSN	I-ORG
+는	는	JX	O
+_	_	_	O
+지난	지나+ㄴ	VV+ETM	O
+_	_	_	O
+19	19	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+보도	보도	NNG	O
+자료	자료	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+시험	시험	NNG	O
+인양	인양	NNG	O
+에	에	JKB	O
+_	_	_	O
+대략	대략	MAG	O
+_	_	_	O
+2	2	SN	B-NOH
+~	~	SO	O
+3	3	SN	B-NOH
+시간	시간	NNB	I-NOH
+이	이	JKS	O
+_	_	_	O
+소요된다고	소요되+ㄴ다고	VV+EC	O
+_	_	_	O
+밝	밝히	VV	O
+혔었	었었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## (세종=뉴스1)
+## (<세종:LOC>=<뉴스1:POH>)
+(	(	SS	O
+세종	세종	NNP	B-LOC
+=	=	SW	O
+뉴스	뉴스	NNG	B-POH
+1	1	SN	I-POH
+)	)	SS	O
+
+## 5
+## [매거진M] 서울독립영화제, 신임 집행위원장 확정
+## [<매거진M:POH>] <서울독립영화제:POH>, 신임 집행위원장 확정
+[	[	SS	O
+매거진	매거진	NNG	B-POH
+M	M	SL	I-POH
+]	]	SS	O
+_	_	_	O
+서울	서울	NNP	B-POH
+독립	독립	NNG	I-POH
+영화제	영화제	NNG	I-POH
+,	,	SP	O
+_	_	_	O
+신임	신임	NNG	O
+_	_	_	O
+집행	집행	NNG	O
+위원장	위원장	NNG	O
+_	_	_	O
+확정	확정	NNG	O
+
+## 6
+## 두사람의 의사교환이 불가결한 상황이지만, 극비회동이 될지 간접대화 형식이 될지는 속단하기 힘들다.
+## <두사람:NOH>의 의사교환이 불가결한 상황이지만, 극비회동이 될지 간접대화 형식이 될지는 속단하기 힘들다.
+두	두	MM	B-NOH
+사람	사람	NNG	I-NOH
+의	의	JKG	O
+_	_	_	O
+의사	의사	NNG	O
+교환	교환	NNG	O
+이	이	JKS	O
+_	_	_	O
+불가결한	불가결하+ㄴ	VA+ETM	O
+_	_	_	O
+상황	상황	NNG	O
+이	이	VCP	O
+지만	지만	EC	O
+,	,	SP	O
+_	_	_	O
+극비	극비	NNG	O
+회동	회동	NNG	O
+이	이	JKC	O
+_	_	_	O
+될지	되+ㄹ지	VV+EC	O
+_	_	_	O
+간접	간접	NNG	O
+대화	대화	NNG	O
+_	_	_	O
+형식	형식	NNG	O
+이	이	JKC	O
+_	_	_	O
+될지	되+ㄹ지	VV+EC	O
+는	는	JX	O
+_	_	_	O
+속단하	속단하	VV	O
+기	기	ETN	O
+_	_	_	O
+힘들	힘들	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 보고를 받은 김정일이 술을 같이 마시자는 핑계로 류경을 초대소로 불렀고 현장에서 체포했다고 이 신문은 전했다.
+## 보고를 받은 <김정일:PER>이 술을 같이 마시자는 핑계로 <류경:PER>을 초대소로 불렀고 현장에서 체포했다고 이 신문은 전했다.
+보고	보고	NNG	O
+를	를	JKO	O
+_	_	_	O
+받	받	VV	O
+은	은	ETM	O
+_	_	_	O
+김정일	김정일	NNP	B-PER
+이	이	JKS	O
+_	_	_	O
+술	술	NNG	O
+을	을	JKO	O
+_	_	_	O
+같이	같이	MAG	O
+_	_	_	O
+마시	마시	VV	O
+자는	자는	ETM	O
+_	_	_	O
+핑계	핑계	NNG	O
+로	로	JKB	O
+_	_	_	O
+류경	류경	NNG	B-PER
+을	을	JKO	O
+_	_	_	O
+초대소	초대소	NNG	O
+로	로	JKB	O
+_	_	_	O
+불	부르	VV	O
+렀	었	EP	O
+고	고	EC	O
+_	_	_	O
+현장	현장	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+체포	체포하	VV	O
+했	였	EP	O
+다고	다고	EC	O
+_	_	_	O
+이	이	MM	O
+_	_	_	O
+신문	신문	NNG	O
+은	은	JX	O
+_	_	_	O
+전	전하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 영남알프스엔 골짜기와 계곡도 수두룩하지만 유명한 소(沼)도 세 곳이 있다.
+## <영남알프스:LOC>엔 골짜기와 계곡도 수두룩하지만 유명한 소(沼)도 세 곳이 있다.
+영남	영남	NNP	B-LOC
+알프스	알프스	NNP	I-LOC
+엔	에+ㄴ	JKB+JX	O
+_	_	_	O
+골짜기	골짜기	NNG	O
+와	와	JC	O
+_	_	_	O
+계곡	계곡	NNG	O
+도	도	JX	O
+_	_	_	O
+수두룩하	수두룩하	VA	O
+지만	지만	EC	O
+_	_	_	O
+유명한	유명하+ㄴ	VA+ETM	O
+_	_	_	O
+소	소	NNG	O
+(	(	SS	O
+沼	沼	SH	O
+)	)	SS	O
+도	도	JX	O
+_	_	_	O
+세	세	MM	O
+_	_	_	O
+곳	곳	NNG	O
+이	이	JKS	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 이한구는 여야의 대립과 이를 이겨낼 여당인으로서 강인함과 책임감에 초점을 맞췄다.
+## <이한구:PER>는 여야의 대립과 이를 이겨낼 여당인으로서 강인함과 책임감에 초점을 맞췄다.
+이한구	이한구	NNP	B-PER
+는	는	JX	O
+_	_	_	O
+여야	여야	NNG	O
+의	의	JKG	O
+_	_	_	O
+대립	대립	NNG	O
+과	과	JC	O
+_	_	_	O
+이	이	NNG	O
+를	를	JKO	O
+_	_	_	O
+이겨	이기+어	VV+EC	O
+낼	내+ㄹ	VX+ETM	O
+_	_	_	O
+여당	여당	NNG	O
+인	인	XSN	O
+으로서	으로서	JKB	O
+_	_	_	O
+강인함	강인하+ㅁ	VA+ETN	O
+과	과	JC	O
+_	_	_	O
+책임감	책임감	NNG	O
+에	에	JKB	O
+_	_	_	O
+초점	초점	NNG	O
+을	을	JKO	O
+_	_	_	O
+맞	맞추	VV	O
+췄	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 두 사람은 2015년 SBS 연예대상 코미디부문에서 각각 최우수상, 우수상을 수상했다.
+## <두 사람:NOH>은 <2015년:DAT> <SBS 연예대상:POH> 코미디부문에서 각각 최우수상, 우수상을 수상했다.
+두	두	MM	B-NOH
+_	_	_	I-NOH
+사람	사람	NNG	I-NOH
+은	은	JX	O
+_	_	_	O
+2015	2015	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+SBS	SBS	SL	B-POH
+_	_	_	I-POH
+연예	연예	NNG	I-POH
+대상	대상	NNG	I-POH
+_	_	_	O
+코미디	코미디	NNG	O
+부문	부문	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+각각	각각	MAG	O
+_	_	_	O
+최우수	최우수	NNG	O
+상	상	NNG	O
+,	,	SP	O
+_	_	_	O
+우수	우수	NNG	O
+상	상	NNG	O
+을	을	JKO	O
+_	_	_	O
+수상	수상하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 올해 5월까지 선정된 이달의 6차산업인 10명에게 10∼13일 전화로 홍보 효과를 체감하느냐고 물었더니 인지도가 높아진 것을 체감한다는 답변이 9곳, 매출이 늘었다는 답변이 3곳이었다.
+## 올해 <5월:DAT>까지 선정된 이달의 <6차:NOH>산업인 <10명:NOH>에게 <10:NOH>∼<13일:NOH> 전화로 홍보 효과를 체감하느냐고 물었더니 인지도가 높아진 것을 체감한다는 답변이 <9곳:NOH>, 매출이 늘었다는 답변이 <3곳:NOH>이었다.
+올해	올해	NNG	O
+_	_	_	O
+5	5	SN	B-DAT
+월	월	NNB	I-DAT
+까지	까지	JX	O
+_	_	_	O
+선정된	선정되+ㄴ	VV+ETM	O
+_	_	_	O
+이달	이달	NNG	O
+의	의	JKG	O
+_	_	_	O
+6	6	SN	B-NOH
+차	차	NNB	I-NOH
+산업	산업	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+10	10	SN	B-NOH
+명	명	NNB	I-NOH
+에게	에게	JKB	O
+_	_	_	O
+10	10	SN	B-NOH
+∼	∼	SO	O
+13	13	SN	B-NOH
+일	일	NNB	I-NOH
+_	_	_	O
+전화	전화	NNG	O
+로	로	JKB	O
+_	_	_	O
+홍보	홍보	NNG	O
+_	_	_	O
+효과	효과	NNG	O
+를	를	JKO	O
+_	_	_	O
+체감하	체감하	VV	O
+느냐고	느냐고	EC	O
+_	_	_	O
+물	묻	VV	O
+었	었	EP	O
+더니	더니	EC	O
+_	_	_	O
+인지도	인지도	NNG	O
+가	가	JKS	O
+_	_	_	O
+높아진	높아지+ㄴ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+을	을	JKO	O
+_	_	_	O
+체감	체감	NNG	O
+한다는	하+ㄴ다는	XSV+ETM	O
+_	_	_	O
+답변	답변	NNG	O
+이	이	JKS	O
+_	_	_	O
+9	9	SN	B-NOH
+곳	곳	NNG	I-NOH
+,	,	SP	O
+_	_	_	O
+매출	매출	NNG	O
+이	이	JKS	O
+_	_	_	O
+늘	늘	VV	O
+었	었	EP	O
+다는	다는	ETM	O
+_	_	_	O
+답변	답변	NNG	O
+이	이	JKS	O
+_	_	_	O
+3	3	SN	B-NOH
+곳	곳	NNG	I-NOH
+이	이	VCP	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 차오허핑(曹和平) 베이징대 경제학과 교수는 “중국 소비자들의 구매력이 부족한 게 아니다.
+## <차오허핑:PER>(<曹和平:PER>) <베이징대 경제학과:ORG> 교수는 “<중국:ORG> 소비자들의 구매력이 부족한 게 아니다.
+차오허	차오허	NNP	B-PER
+핑	핑	MAG	I-PER
+(	(	SS	O
+曹和平	曹和平	SH	B-PER
+)	)	SS	O
+_	_	_	O
+베이징대	베이징대	NNP	B-ORG
+_	_	_	I-ORG
+경제학	경제학	NNG	I-ORG
+과	과	NNG	I-ORG
+_	_	_	O
+교수	교수	NNG	O
+는	는	JX	O
+_	_	_	O
+“	“	SS	O
+중국	중국	NNP	B-ORG
+_	_	_	O
+소비자	소비자	NNG	O
+들	들	XSN	O
+의	의	JKG	O
+_	_	_	O
+구매력	구매력	NNG	O
+이	이	JKS	O
+_	_	_	O
+부족한	부족하+ㄴ	VA+ETM	O
+_	_	_	O
+게	것+이	NNB+JKC	O
+_	_	_	O
+아니	아니	VCN	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## 박근혜 정부 들어 여성 공무원으로는 처음으로 9급 출신이 1급으로 승진했다.
+## <박근혜 정부:ORG> 들어 여성 공무원으로는 처음으로 <9급:NOH> 출신이 <1급:NOH>으로 승진했다.
+박근혜	박근혜	NNP	B-ORG
+_	_	_	I-ORG
+정부	정부	NNG	I-ORG
+_	_	_	O
+들	들	VV	O
+어	어	EC	O
+_	_	_	O
+여성	여성	NNG	O
+_	_	_	O
+공무원	공무원	NNG	O
+으로	으로	JKB	O
+는	는	JX	O
+_	_	_	O
+처음	처음	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+9	9	SN	B-NOH
+급	급	NNG	I-NOH
+_	_	_	O
+출신	출신	NNG	O
+이	이	JKS	O
+_	_	_	O
+1	1	SN	B-NOH
+급	급	NNG	I-NOH
+으로	으로	JKB	O
+_	_	_	O
+승진	승진하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 14
+## 금나나 근황, 미스코리아 眞 출신…하버드서 박사 학위 받아
+## <금나나:PER> 근황, <미스코리아:LOC> 眞 출신…<하버드:ORG>서 박사 학위 받아
+금나나	금나나	NNP	B-PER
+_	_	_	O
+근황	근황	NNG	O
+,	,	SP	O
+_	_	_	O
+미스코리아	미스코리아	NNG	B-LOC
+_	_	_	O
+眞	眞	SH	O
+_	_	_	O
+출신	출신	NNG	O
+…	…	SE	O
+하버드	하버드	NNP	B-ORG
+서	서	JKB	O
+_	_	_	O
+박사	박사	NNG	O
+_	_	_	O
+학위	학위	NNG	O
+_	_	_	O
+받	받	VV	O
+아	아	EC	O
+
+## 15
+## 포그바 포메이션 변화에 적응 못해… EPL이적 4경기째 공격포인트 없어
+## <포그바:PER> 포메이션 변화에 적응 못해… <EPL:ORG>이적 <4경기째:NOH> 공격포인트 없어
+포그	포그	NNG	B-PER
+바	바	NNB	I-PER
+_	_	_	O
+포메이션	포메이션	NNG	O
+_	_	_	O
+변화	변화	NNG	O
+에	에	JKB	O
+_	_	_	O
+적응	적응	NNG	O
+_	_	_	O
+못해	못하+여	VV+EC	O
+…	…	SE	O
+_	_	_	O
+EPL	EPL	SL	B-ORG
+이적	이적	NNG	O
+_	_	_	O
+4	4	SN	B-NOH
+경기	경기	NNG	I-NOH
+째	째	XSN	I-NOH
+_	_	_	O
+공격	공격	NNG	O
+포인트	포인트	NNG	O
+_	_	_	O
+없	없	VA	O
+어	어	EC	O
+
+## 16
+## 반면 대구는 지난해 8월 군 공항 이전 승인을 받았고, 경북 2, 3개 지자체가 민·군 통합공항 유치를 희망하고 있어 이전 사업이 탄력을 받고 있다.
+## 반면 <대구:ORG>는 지난해 <8월:DAT> 군 공항 이전 승인을 받았고, <경북:ORG> <2:NOH>, <3개:NOH> 지자체가 민·군 통합공항 유치를 희망하고 있어 이전 사업이 탄력을 받고 있다.
+반면	반면	NNG	O
+_	_	_	O
+대구	대구	NNP	B-ORG
+는	는	JX	O
+_	_	_	O
+지난해	지난해	NNG	O
+_	_	_	O
+8	8	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+군	군	NNG	O
+_	_	_	O
+공항	공항	NNG	O
+_	_	_	O
+이전	이전	NNG	O
+_	_	_	O
+승인	승인	NNG	O
+을	을	JKO	O
+_	_	_	O
+받	받	VV	O
+았	았	EP	O
+고	고	EC	O
+,	,	SP	O
+_	_	_	O
+경북	경북	NNP	B-ORG
+_	_	_	O
+2	2	SN	B-NOH
+,	,	SP	O
+_	_	_	O
+3	3	SN	B-NOH
+개	개	NNB	I-NOH
+_	_	_	O
+지자체	지자체	NNG	O
+가	가	JKS	O
+_	_	_	O
+민	민	NNG	O
+·	·	SP	O
+군	군	NNG	O
+_	_	_	O
+통합	통합	NNG	O
+공항	공항	NNG	O
+_	_	_	O
+유치	유치	NNG	O
+를	를	JKO	O
+_	_	_	O
+희망하	희망하	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VA	O
+어	어	EC	O
+_	_	_	O
+이전	이전	NNG	O
+_	_	_	O
+사업	사업	NNG	O
+이	이	JKS	O
+_	_	_	O
+탄력	탄력	NNG	O
+을	을	JKO	O
+_	_	_	O
+받	받	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 17
+## 여러분은 윤봉길 의사에 대해 잘 알고 있나요? 윤봉길 의사는 일제 강점기의 독립운동가로, 1932년 4월 29일 일왕의 생일날 행사장에 폭탄을 던져 일본군을 즉사시킨 거사를 거행한 분입니다.
+## 여러분은 <윤봉길:PER> 의사에 대해 잘 알고 있나요? <윤봉길:PER> 의사는 <일제 강점기:DUR>의 독립운동가로, <1932년 4월 29일:DAT> 일왕의 생일날 행사장에 폭탄을 던져 <일본군:ORG>을 즉사시킨 거사를 거행한 분입니다.
+여러분	여러분	NP	O
+은	은	JX	O
+_	_	_	O
+윤봉길	윤봉길	NNP	B-PER
+_	_	_	O
+의사	의사	NNG	O
+에	에	JKB	O
+_	_	_	O
+대해	대하+여	VV+EC	O
+_	_	_	O
+잘	잘	MAG	O
+_	_	_	O
+알	알	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+나요	나요	EF	O
+?	?	SF	O
+_	_	_	O
+윤봉길	윤봉길	NNP	B-PER
+_	_	_	O
+의사	의사	NNG	O
+는	는	JX	O
+_	_	_	O
+일제	일제	NNG	B-DUR
+_	_	_	I-DUR
+강점기	강점기	NNG	I-DUR
+의	의	JKG	O
+_	_	_	O
+독립	독립	NNG	O
+운동가	운동가	NNG	O
+로	로	JKB	O
+,	,	SP	O
+_	_	_	O
+1932	1932	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	I-DAT
+4	4	SN	I-DAT
+월	월	NNB	I-DAT
+_	_	_	I-DAT
+29	29	SN	I-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+일	일	NNP	O
+왕	왕	NNG	O
+의	의	JKG	O
+_	_	_	O
+생일날	생일날	NNG	O
+_	_	_	O
+행사장	행사장	NNG	O
+에	에	JKB	O
+_	_	_	O
+폭탄	폭탄	NNG	O
+을	을	JKO	O
+_	_	_	O
+던져	던지+어	VV+EC	O
+_	_	_	O
+일본	일본	NNP	B-ORG
+군	군	NNG	I-ORG
+을	을	JKO	O
+_	_	_	O
+즉사	즉사	NNG	O
+시킨	시키+ㄴ	XSV+ETM	O
+_	_	_	O
+거사	거사	NNG	O
+를	를	JKO	O
+_	_	_	O
+거행한	거행하+ㄴ	VV+ETM	O
+_	_	_	O
+분	분	NNB	O
+입니다	이+ㅂ니다	VCP+EF	O
+.	.	SF	O
+
+## 18
+## [콤팩트뉴스] 한화, 31일 창단 30주년 기념 응원가 발표
+## [<콤팩트뉴스:POH>] <한화:ORG>, <31일:DAT> 창단 <30주년:NOH> 기념 응원가 발표
+[	[	SS	O
+콤팩트	콤팩트	NNG	B-POH
+뉴스	뉴스	NNG	I-POH
+]	]	SS	O
+_	_	_	O
+한화	한화	NNP	B-ORG
+,	,	SP	O
+_	_	_	O
+31	31	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+창단	창단	NNG	O
+_	_	_	O
+30	30	SN	B-NOH
+주년	주년	NNB	I-NOH
+_	_	_	O
+기념	기념	NNG	O
+_	_	_	O
+응원가	응원가	NNG	O
+_	_	_	O
+발표	발표	NNG	O
+

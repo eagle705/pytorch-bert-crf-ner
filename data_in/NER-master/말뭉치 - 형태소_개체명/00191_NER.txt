@@ -1,0 +1,352 @@
+## 1
+## 2010년 7월 삼성 양준혁은 구단과 상의 끝에 은퇴를 결정했고 올스타전 직후 발표할 예정이었다.
+## <2010년 7월:DAT> <삼성:ORG> <양준혁:PER>은 구단과 상의 끝에 은퇴를 결정했고 올스타전 직후 발표할 예정이었다.
+2010	2010	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	I-DAT
+7	7	SN	I-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+삼성	삼성	NNP	B-ORG
+_	_	_	O
+양준혁	양준혁	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+구단	구단	NNG	O
+과	과	JC	O
+_	_	_	O
+상	상	NNG	O
+의	의	JKG	O
+_	_	_	O
+끝	끝	NNG	O
+에	에	JKB	O
+_	_	_	O
+은퇴	은퇴	NNG	O
+를	를	JKO	O
+_	_	_	O
+결정	결정하	VV	O
+했	였	EP	O
+고	고	EC	O
+_	_	_	O
+올스타	올스타	NNG	O
+전	전	XSN	O
+_	_	_	O
+직후	직후	NNG	O
+_	_	_	O
+발표할	발표하+ㄹ	VV+ETM	O
+_	_	_	O
+예정	예정	NNG	O
+이	이	VCP	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 비활동기간인 12월에는 자율적으로 몸을 만들도록 허락했다.
+## 비활동기간인 <12월:DAT>에는 자율적으로 몸을 만들도록 허락했다.
+비	비	XPN	O
+활동	활동	NNG	O
+기간	기간	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+12	12	SN	B-DAT
+월	월	NNB	I-DAT
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+자율적	자율적	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+몸	몸	NNG	O
+을	을	JKO	O
+_	_	_	O
+만들	만들	VV	O
+도록	도록	EC	O
+_	_	_	O
+허락	허락하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 지난 3일부터 5박6일 동안 버스만 32시간을 타고 국경지대의 끝에서 끝을 훑은 대장정이었다.
+## 지난 <3일:DAT>부터 <5박:NOH><6일:NOH> 동안 버스만 <32시간:DUR>을 타고 국경지대의 끝에서 끝을 훑은 대장정이었다.
+지난	지나+ㄴ	VV+ETM	O
+_	_	_	O
+3	3	SN	B-DAT
+일	일	NNB	I-DAT
+부터	부터	JX	O
+_	_	_	O
+5	5	SN	B-NOH
+박	박	NNB	I-NOH
+6	6	SN	B-NOH
+일	일	NNB	I-NOH
+_	_	_	O
+동안	동안	NNG	O
+_	_	_	O
+버스	버스	NNG	O
+만	만	JX	O
+_	_	_	O
+32	32	SN	B-DUR
+시간	시간	NNB	I-DUR
+을	을	JKO	O
+_	_	_	O
+타	타	VV	O
+고	고	EC	O
+_	_	_	O
+국경	국경	NNG	O
+지대	지대	NNG	O
+의	의	JKG	O
+_	_	_	O
+끝	끝	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+끝	끝	NNG	O
+을	을	JKO	O
+_	_	_	O
+훑	훑	VV	O
+은	은	ETM	O
+_	_	_	O
+대장정	대장정	NNG	O
+이	이	VCP	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 쯔위 ‘대만 국기’ 논란에 JYP 홈페이지 다운…‘어나니머스’ 대만 해커들 공격 추정그룹 트와이스 쯔위의 대만 국기 논란에 소속사 JYP엔터테인먼트의 홈페이지까지 다운됐다.
+## <쯔위:PER> ‘<대만:ORG> 국기’ 논란에 <JYP:ORG> 홈페이지 다운…‘<어나니머스:ORG>’ <대만:ORG> 해커들 공격 추정그룹 <트와이스:ORG> <쯔위:PER>의 <대만:ORG> 국기 논란에 소속사 <JYP엔터테인먼트:ORG>의 홈페이지까지 다운됐다.
+쯔	쯔	NNG	B-PER
+위	위	NNB	I-PER
+_	_	_	O
+‘	‘	SS	O
+대만	대만	NNP	B-ORG
+_	_	_	O
+국기	국기	NNG	O
+’	’	SS	O
+_	_	_	O
+논란	논란	NNG	O
+에	에	JKB	O
+_	_	_	O
+JYP	JYP	SL	B-ORG
+_	_	_	O
+홈페이지	홈페이지	NNG	O
+_	_	_	O
+다운	다운	NNG	O
+…	…	SE	O
+‘	‘	SS	O
+어나니머스	어나니머스	NNP	B-ORG
+’	’	SS	O
+_	_	_	O
+대만	대만	NNP	B-ORG
+_	_	_	O
+해커	해커	NNG	O
+들	들	XSN	O
+_	_	_	O
+공격	공격	NNG	O
+_	_	_	O
+추정	추정	NNG	O
+그룹	그룹	NNG	O
+_	_	_	O
+트와이스	트와이스	NNG	B-ORG
+_	_	_	O
+쯔	쯔	NNG	B-PER
+위	위	NNG	I-PER
+의	의	JKG	O
+_	_	_	O
+대만	대만	NNP	B-ORG
+_	_	_	O
+국기	국기	NNG	O
+_	_	_	O
+논란	논란	NNG	O
+에	에	JKB	O
+_	_	_	O
+소속	소속	NNG	O
+사	사	XSN	O
+_	_	_	O
+JYP	JYP	SL	B-ORG
+엔터테인먼트	엔터테인먼트	NNG	I-ORG
+의	의	JKG	O
+_	_	_	O
+홈페이지	홈페이지	NNG	O
+까지	까지	JX	O
+_	_	_	O
+다운	다운되	VV	O
+됐	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 바라건대 모리뉴는 내게 연락할 것이다.
+## 바라건대 <모리뉴:PER>는 내게 연락할 것이다.
+바라	바라	VV	O
+건대	건대	EC	O
+_	_	_	O
+모	모	NNB	B-PER
+리뉴	리뉴	NNP	I-PER
+는	는	JX	O
+_	_	_	O
+내게	나+에게	NP+JKB	O
+_	_	_	O
+연락할	연락하+ㄹ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## ‘충청도 출신’ 정준호가 사투리 연구하는 까닭은?
+## ‘<충청도:LOC> 출신’ <정준호:PER>가 사투리 연구하는 까닭은?
+‘	‘	SS	O
+충청도	충청도	NNP	B-LOC
+_	_	_	O
+출신	출신	NNG	O
+’	’	SS	O
+_	_	_	O
+정준호	정준호	NNP	B-PER
+가	가	JKS	O
+_	_	_	O
+사투리	사투리	NNG	O
+_	_	_	O
+연구하	연구하	VV	O
+는	는	ETM	O
+_	_	_	O
+까닭	까닭	NNG	O
+은	은	JX	O
+?	?	SF	O
+
+## 7
+## 5만7000원. 이 외에도 여성들의 다리 보호를 위해 핏감이 좋은 래시가드 우먼 레깅스(핑크, 민트)도 함께 출시하여 세트로 구성할 수 있도록 했다.
+## <5만7000원:MNY>. 이 외에도 여성들의 다리 보호를 위해 핏감이 좋은 래시가드 우먼 레깅스(핑크, 민트)도 함께 출시하여 세트로 구성할 수 있도록 했다.
+5	5	SN	B-MNY
+만	만	NR	I-MNY
+7000	7000	SN	I-MNY
+원	원	NNB	I-MNY
+.	.	SF	O
+_	_	_	O
+이	이	MM	O
+_	_	_	O
+외	외	NNB	O
+에	에	JKB	O
+도	도	JX	O
+_	_	_	O
+여성	여성	NNG	O
+들	들	XSN	O
+의	의	JKG	O
+_	_	_	O
+다리	다리	NNG	O
+_	_	_	O
+보호	보호	NNG	O
+를	를	JKO	O
+_	_	_	O
+위해	위하+여	VV+EC	O
+_	_	_	O
+핏	피	NNG	O
+감	감	XSN	O
+이	이	JKS	O
+_	_	_	O
+좋	좋	VA	O
+은	은	ETM	O
+_	_	_	O
+래시	래시	NNP	O
+가드	가드	NNG	O
+_	_	_	O
+우먼	우먼	NNG	O
+_	_	_	O
+레깅스	레깅스	NNG	O
+(	(	SS	O
+핑크	핑크	NNP	O
+,	,	SP	O
+_	_	_	O
+민트	민트	NNG	O
+)	)	SS	O
+도	도	JX	O
+_	_	_	O
+함께	함께	MAG	O
+_	_	_	O
+출시하	출시하	VV	O
+여	여	EC	O
+_	_	_	O
+세트	세트	NNG	O
+로	로	JKB	O
+_	_	_	O
+구성할	구성하+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+도록	도록	EC	O
+_	_	_	O
+했	+였	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 이날 한 매체는 이종석과 박신혜가 비밀 데이트를 즐기는 사진을 공개 했다.
+## 이날 한 매체는 <이종석:PER>과 <박신혜:PER>가 비밀 데이트를 즐기는 사진을 공개 했다.
+이날	이날	NNG	O
+_	_	_	O
+한	한	MM	O
+_	_	_	O
+매체	매체	NNG	O
+는	는	JX	O
+_	_	_	O
+이종석	이종석	NNP	B-PER
+과	과	JC	O
+_	_	_	O
+박신혜	박신혜	NNP	B-PER
+가	가	JKS	O
+_	_	_	O
+비밀	비밀	NNG	O
+_	_	_	O
+데이트	데이트	NNG	O
+를	를	JKO	O
+_	_	_	O
+즐기	즐기	VV	O
+는	는	ETM	O
+_	_	_	O
+사진	사진	NNG	O
+을	을	JKO	O
+_	_	_	O
+공개	공개	NNG	O
+_	_	_	O
+했	+였	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 하지만 류현진은 5번 타자 이안 햅을 헛스윙 삼진으로 돌려세우며 1이닝을 마쳤다.
+## 하지만 <류현진:PER>은 <5번:NOH> 타자 <이안 햅:PER>을 헛스윙 삼진으로 돌려세우며 <1이닝:NOH>을 마쳤다.
+하지만	하지만	MAJ	O
+_	_	_	O
+류현진	류현진	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+5	5	SN	B-NOH
+번	번	NNB	I-NOH
+_	_	_	O
+타자	타자	NNG	O
+_	_	_	O
+이안	이안	NNP	B-PER
+_	_	_	I-PER
+햅	햅	NNG	I-PER
+을	을	JKO	O
+_	_	_	O
+헛스윙	헛스윙	NNG	O
+_	_	_	O
+삼진	삼진	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+돌려세우	돌려세우	VV	O
+며	며	EC	O
+_	_	_	O
+1	1	SN	B-NOH
+이닝	이닝	NNG	I-NOH
+을	을	JKO	O
+_	_	_	O
+마	마치	VV	O
+쳤	었	EP	O
+다	다	EF	O
+.	.	SF	O
+

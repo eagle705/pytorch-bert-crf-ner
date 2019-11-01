@@ -1,0 +1,575 @@
+## 1
+## “허블우주망원경 25주년, 신기하다” 등의 반응을 보였다.
+## “<허블우주망원경:POH> <25주년:NOH>, 신기하다” 등의 반응을 보였다.
+“	“	SS	O
+허블	허블	NNP	B-POH
+우주	우주	NNG	I-POH
+망원경	망원경	NNG	I-POH
+_	_	_	O
+25	25	SN	B-NOH
+주년	주년	NNB	I-NOH
+,	,	SP	O
+_	_	_	O
+신기하	신기하	VA	O
+다	다	EF	O
+”	”	SS	O
+_	_	_	O
+등	등	NNB	O
+의	의	JKG	O
+_	_	_	O
+반응	반응	NNG	O
+을	을	JKO	O
+_	_	_	O
+보	보이	VV	O
+였	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 동아닷컴 영상뉴스팀
+## <동아닷컴:POH> 영상뉴스팀
+동아닷컴	동아닷컴	NNP	B-POH
+_	_	_	O
+영상	영상	NNG	O
+뉴스	뉴스	NNG	O
+팀	팀	NNG	O
+
+## 3
+## 이 교수는 학생들이 서로 통역 실력을 평가하는 객관적인 기준을 세워 보라고 주문한다.
+## <이:PER> 교수는 학생들이 서로 통역 실력을 평가하는 객관적인 기준을 세워 보라고 주문한다.
+이	이	NNP	B-PER
+_	_	_	O
+교수	교수	NNG	O
+는	는	JX	O
+_	_	_	O
+학생	학생	NNG	O
+들	들	XSN	O
+이	이	JKS	O
+_	_	_	O
+서로	서로	MAG	O
+_	_	_	O
+통역	통역	NNG	O
+_	_	_	O
+실력	실력	NNG	O
+을	을	JKO	O
+_	_	_	O
+평가하	평가하	VV	O
+는	는	ETM	O
+_	_	_	O
+객관적	객관적	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+기준	기준	NNG	O
+을	을	JKO	O
+_	_	_	O
+세	세우	VV	O
+워	어	EC	O
+_	_	_	O
+보	보	VX	O
+라고	라고	EC	O
+_	_	_	O
+주문한다	주문하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 4
+## 소프트 톱 형태의 루프는 시속 30km 이하에서 18초 만에 개폐가 가능하다.
+## 소프트 톱 형태의 루프는 <시속 30km:NOH> 이하에서 <18초:NOH> 만에 개폐가 가능하다.
+소프트	소프트	NNG	O
+_	_	_	O
+톱	톱	NNG	O
+_	_	_	O
+형태	형태	NNG	O
+의	의	JKG	O
+_	_	_	O
+루프	루프	NNP	O
+는	는	JX	O
+_	_	_	O
+시속	시속	NNG	B-NOH
+_	_	_	I-NOH
+30	30	SN	I-NOH
+km	km	SL	I-NOH
+_	_	_	O
+이하	이하	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+18	18	SN	B-NOH
+초	초	NNB	I-NOH
+_	_	_	O
+만	만	NNB	O
+에	에	JKB	O
+_	_	_	O
+개폐	개폐	NNG	O
+가	가	JKS	O
+_	_	_	O
+가능하	가능하	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 오영호 공학한림원 회장은 “이번 미래 도전기술 선정 연구는 공학계 리더들이 바라본 20년 후 한국의 미래 먹거리 기술”이라며 “지속적인 성장을 위해 우리나라가 집중해야 할 기술 개발 방향을 제시하기 위한 것”이라고 설명했다.
+## <오영호:PER> <공학한림원:ORG> 회장은 “이번 미래 도전기술 선정 연구는 공학계 리더들이 바라본 <20년:NOH> 후 <한국:ORG>의 미래 먹거리 기술”이라며 “지속적인 성장을 위해 우리나라가 집중해야 할 기술 개발 방향을 제시하기 위한 것”이라고 설명했다.
+오영호	오영호	NNP	B-PER
+_	_	_	O
+공학	공학	NNG	B-ORG
+한림원	한림원	NNG	I-ORG
+_	_	_	O
+회장	회장	NNG	O
+은	은	JX	O
+_	_	_	O
+“	“	SS	O
+이번	이번	NNG	O
+_	_	_	O
+미래	미래	NNG	O
+_	_	_	O
+도전	도전	NNG	O
+기술	기술	NNG	O
+_	_	_	O
+선정	선정	NNG	O
+_	_	_	O
+연구	연구	NNG	O
+는	는	JX	O
+_	_	_	O
+공학	공학	NNG	O
+계	계	XSN	O
+_	_	_	O
+리더	리더	NNG	O
+들	들	XSN	O
+이	이	JKS	O
+_	_	_	O
+바라본	바라보+ㄴ	VV+ETM	O
+_	_	_	O
+20	20	SN	B-NOH
+년	년	NNB	I-NOH
+_	_	_	O
+후	후	NNG	O
+_	_	_	O
+한국	한국	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+미래	미래	NNG	O
+_	_	_	O
+먹거리	먹거리	NNG	O
+_	_	_	O
+기술	기술	NNG	O
+”	”	SS	O
+이	이	VCP	O
+라며	라며	EC	O
+_	_	_	O
+“	“	SS	O
+지속적	지속적	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+성장	성장	NNG	O
+을	을	JKO	O
+_	_	_	O
+위해	위하+여	VV+EC	O
+_	_	_	O
+우리나라	우리나라	NNG	O
+가	가	JKS	O
+_	_	_	O
+집중해야	집중하+여야	VV+EC	O
+_	_	_	O
+할	하+ㄹ	VX+ETM	O
+_	_	_	O
+기술	기술	NNG	O
+_	_	_	O
+개발	개발	NNG	O
+_	_	_	O
+방향	방향	NNG	O
+을	을	JKO	O
+_	_	_	O
+제시하	제시하	VV	O
+기	기	ETN	O
+_	_	_	O
+위한	위하+ㄴ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+”	”	SS	O
+이라고	이라고	JKQ	O
+_	_	_	O
+설명	설명하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 앞서 탤런트 김성민은 이날 마약 투약 혐의로 체포됐다.
+## 앞서 탤런트 <김성민:PER>은 이날 마약 투약 혐의로 체포됐다.
+앞서	앞서	MAG	O
+_	_	_	O
+탤런트	탤런트	NNG	O
+_	_	_	O
+김성민	김성민	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+이날	이날	NNG	O
+_	_	_	O
+마약	마약	NNG	O
+_	_	_	O
+투약	투약	NNG	O
+_	_	_	O
+혐의	혐의	NNG	O
+로	로	JKB	O
+_	_	_	O
+체포	체포되	VV	O
+됐	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 그동안 원장은 로버트 윌슨(우월순), 엘머 보이어(보이열), 스탠리 토플(도성래) 등이 맡았다.
+## 그동안 원장은 <로버트 윌슨:PER>(<우월순:PER>), <엘머 보이어:PER>(<보이열:PER>), <스탠리 토플:PER>(<도성래:PER>) 등이 맡았다.
+그동안	그동안	NNG	O
+_	_	_	O
+원장	원장	NNG	O
+은	은	JX	O
+_	_	_	O
+로버트	로버트	NNP	B-PER
+_	_	_	I-PER
+윌슨	윌슨	NNP	I-PER
+(	(	SS	O
+우월순	우월순	NNP	B-PER
+)	)	SS	O
+,	,	SP	O
+_	_	_	O
+엘머	엘머	NNP	B-PER
+_	_	_	I-PER
+보이	보이	VV	I-PER
+어	어	EF	I-PER
+(	(	SS	O
+보이	보이	NNG	B-PER
+열	열	NNG	I-PER
+)	)	SS	O
+,	,	SP	O
+_	_	_	O
+스탠리	스탠리	NNP	B-PER
+_	_	_	I-PER
+토플	토플	NNG	I-PER
+(	(	SS	O
+도성래	도성래	NNP	B-PER
+)	)	SS	O
+_	_	_	O
+등	등	NNB	O
+이	이	JKS	O
+_	_	_	O
+맡	맡	VV	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 울리 슈틸리케 축구대표팀 감독이 대표팀 내 기강 확립에 나섰다.
+## <울리 슈틸리케:PER> 축구대표팀 감독이 대표팀 내 기강 확립에 나섰다.
+울리	울리	NNP	B-PER
+_	_	_	I-PER
+슈틸리케	슈틸리케	NNP	I-PER
+_	_	_	O
+축구	축구	NNG	O
+대표	대표	NNG	O
+팀	팀	NNG	O
+_	_	_	O
+감독	감독	NNG	O
+이	이	JKS	O
+_	_	_	O
+대표	대표	NNG	O
+팀	팀	NNG	O
+_	_	_	O
+내	나+의	NP+JKG	O
+_	_	_	O
+기강	기강	NNG	O
+_	_	_	O
+확립	확립	NNG	O
+에	에	JKB	O
+_	_	_	O
+나섰	나서+었	VV+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 추 의원은 전날 광주에서 “대선 승리를 이끌 준비된 정당을 만들어 ‘새로운 10년’을 열겠다”고 했다.
+## <추:PER> 의원은 전날 <광주:LOC>에서 “대선 승리를 이끌 준비된 정당을 만들어 ‘새로운 10년’을 열겠다”고 했다.
+추	추	NNP	B-PER
+_	_	_	O
+의원	의원	NNG	O
+은	은	JX	O
+_	_	_	O
+전날	전날	NNG	O
+_	_	_	O
+광주	광주	NNP	B-LOC
+에서	에서	JKB	O
+_	_	_	O
+“	“	SS	O
+대선	대선	NNG	O
+_	_	_	O
+승리	승리	NNG	O
+를	를	JKO	O
+_	_	_	O
+이끌	이끌+ㄹ	VV+ETM	O
+_	_	_	O
+준비된	준비되+ㄴ	VV+ETM	O
+_	_	_	O
+정당	정당	NNG	O
+을	을	JKO	O
+_	_	_	O
+만들	만들	VV	O
+어	어	EC	O
+_	_	_	O
+‘	‘	SS	O
+새로	새롭	VA	O
+운	ㄴ	ETM	O
+_	_	_	O
+10	10	SN	O
+년	년	NNB	O
+’	’	SS	O
+을	을	JKO	O
+_	_	_	O
+열	열	VV	O
+겠	겠	EP	O
+다	다	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+했	+였	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 올해로 89회째인 피티 우오모는 1972년부터 매년 1월과 6월 두 차례씩 열리는 세계 최대 남성복 전시회다.
+## 올해로 <89회째:NOH>인 <피티 우오모:PER>는 <1972년:DAT>부터 매년 <1월:DAT>과 <6월:DAT> <두 차례:NOH>씩 열리는 세계 최대 남성복 전시회다.
+올해	올해	NNG	O
+로	로	JKB	O
+_	_	_	O
+89	89	SN	B-NOH
+회	회	NNB	I-NOH
+째	째	XSN	I-NOH
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+피티	피티	NNG	B-PER
+_	_	_	I-PER
+우오모	우오모	NNP	I-PER
+는	는	JX	O
+_	_	_	O
+1972	1972	SN	B-DAT
+년	년	NNB	I-DAT
+부터	부터	JX	O
+_	_	_	O
+매년	매년	MAG	O
+_	_	_	O
+1	1	SN	B-DAT
+월	월	NNB	I-DAT
+과	과	JC	O
+_	_	_	O
+6	6	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+두	두	MM	B-NOH
+_	_	_	I-NOH
+차례	차례	NNG	I-NOH
+씩	씩	XSN	O
+_	_	_	O
+열리	열리	VV	O
+는	는	ETM	O
+_	_	_	O
+세계	세계	NNG	O
+_	_	_	O
+최대	최대	NNG	O
+_	_	_	O
+남성복	남성복	NNG	O
+_	_	_	O
+전시회	전시회+이	NNG+VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## [부고]김춘근 모친상
+## [부고]<김춘근:PER> 모친상
+[	[	SS	O
+부고	부고	NNG	O
+]	]	SS	O
+김춘근	김춘근	NNP	B-PER
+_	_	_	O
+모친상	모친상	NNG	O
+
+## 12
+## 지난달 29일 더불어민주당이 여야 원내대표 합의를 깨고 기업활력제고특별법(일명 원샷법)과 북한인권법 처리를 무산시킨 뒤 주말 동안 여야 간 어떤 협상이나 대화도 없었다.
+## 지난달 <29일:DAT> <더불어민주당:ORG>이 여야 원내대표 합의를 깨고 <기업활력제고특별법:POH>(일명 <원샷법:POH>)과 <북한인권법:POH> 처리를 무산시킨 뒤 주말 동안 여야 간 어떤 협상이나 대화도 없었다.
+지난달	지난달	NNG	O
+_	_	_	O
+29	29	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+더불	더불	VV	B-ORG
+어	어	EC	I-ORG
+민주당	민주당	NNP	I-ORG
+이	이	JKS	O
+_	_	_	O
+여야	여야	NNG	O
+_	_	_	O
+원내	원내	NNG	O
+대표	대표	NNG	O
+_	_	_	O
+합의	합의	NNG	O
+를	를	JKO	O
+_	_	_	O
+깨	깨	VV	O
+고	고	EC	O
+_	_	_	O
+기업	기업	NNG	B-POH
+활력	활력	NNG	I-POH
+제고	제고	NNG	I-POH
+특별법	특별법	NNG	I-POH
+(	(	SS	O
+일명	일명	NNG	O
+_	_	_	O
+원샷	원샷	NNG	B-POH
+법	법	NNG	I-POH
+)	)	SS	O
+과	과	JKB	O
+_	_	_	O
+북한	북한	NNP	B-POH
+인권	인권	NNG	I-POH
+법	법	NNG	I-POH
+_	_	_	O
+처리	처리	NNG	O
+를	를	JKO	O
+_	_	_	O
+무산	무산	NNG	O
+시킨	시키+ㄴ	XSV+ETM	O
+_	_	_	O
+뒤	뒤	NNG	O
+_	_	_	O
+주말	주말	NNG	O
+_	_	_	O
+동안	동안	NNG	O
+_	_	_	O
+여야	여야	NNG	O
+_	_	_	O
+간	가+ㄴ	VV+ETM	O
+_	_	_	O
+어떤	어떤	MM	O
+_	_	_	O
+협상	협상	NNG	O
+이나	이나	JC	O
+_	_	_	O
+대화	대화	NNG	O
+도	도	JX	O
+_	_	_	O
+없	없	VA	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## 또 SBS 기상캐스터인 신소연은 1987년생으로 숭실대학교 언론홍보학과를 졸업 후 고려대학교 언론홍보학과 대학원에서 석사 과정을 마쳤다.
+## 또 <SBS:POH> 기상캐스터인 <신소연:PER>은 <1987년생:NOH>으로 <숭실대학교:ORG> 언론홍보학과를 졸업 후 <고려대학교:ORG> 언론홍보학과 대학원에서 석사 과정을 마쳤다.
+또	또	MAG	O
+_	_	_	O
+SBS	SBS	SL	B-POH
+_	_	_	O
+기상	기상	NNG	O
+캐스터	캐스터	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+신소연	신소연	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+1987	1987	SN	B-NOH
+년	년	NNB	I-NOH
+생	생	XSN	I-NOH
+으로	으로	JKB	O
+_	_	_	O
+숭실대학교	숭실대학교	NNP	B-ORG
+_	_	_	O
+언론	언론	NNG	O
+홍보	홍보	NNG	O
+학과	학과	NNG	O
+를	를	JKO	O
+_	_	_	O
+졸업	졸업	NNG	O
+_	_	_	O
+후	후	NNG	O
+_	_	_	O
+고려	고려	NNP	B-ORG
+대학교	대학교	NNG	I-ORG
+_	_	_	O
+언론	언론	NNG	O
+홍보	홍보	NNG	O
+학과	학과	NNG	O
+_	_	_	O
+대학원	대학원	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+석사	석사	NNG	O
+_	_	_	O
+과정	과정	NNG	O
+을	을	JKO	O
+_	_	_	O
+마	마치	VV	O
+쳤	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 14
+## ‘신소연 강민호’ 소식을 접한 네티즌들은 “신소연 강민호, 축하드려요”, “신소연 강민호, 둘이 잘 어울린다”,
+## ‘<신소연:PER> <강민호:PER>’ 소식을 접한 네티즌들은 “<신소연:PER> <강민호:PER>, 축하드려요”, “<신소연:PER> <강민호:PER>, 둘이 잘 어울린다”,
+‘	‘	SS	O
+신소연	신소연	NNP	B-PER
+_	_	_	O
+강민호	강민호	NNP	B-PER
+’	’	SS	O
+_	_	_	O
+소식	소식	NNG	O
+을	을	JKO	O
+_	_	_	O
+접한	접하+ㄴ	VV+ETM	O
+_	_	_	O
+네티즌	네티즌	NNG	O
+들	들	XSN	O
+은	은	JX	O
+_	_	_	O
+“	“	SS	O
+신소연	신소연	NNP	B-PER
+_	_	_	O
+강민호	강민호	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+축하	축하	NNG	O
+드려요	드리+어요	XSV+EF	O
+”	”	SS	O
+,	,	SP	O
+_	_	_	O
+“	“	SS	O
+신소연	신소연	NNP	B-PER
+_	_	_	O
+강민호	강민호	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+둘	둘	NR	O
+이	이	JKS	O
+_	_	_	O
+잘	잘	MAG	O
+_	_	_	O
+어울린다	어울리+ㄴ다	VV+EF	O
+”	”	SS	O
+,	,	SP	O
+
+## 15
+## -미국은 부상하는 중국을 봉쇄하려 하는가.
+## -<미국:ORG>은 부상하는 <중국:ORG>을 봉쇄하려 하는가.
+-	-	SO	O
+미국	미국	NNP	B-ORG
+은	은	JX	O
+_	_	_	O
+부상하	부상하	VV	O
+는	는	ETM	O
+_	_	_	O
+중국	중국	NNP	B-ORG
+을	을	JKO	O
+_	_	_	O
+봉쇄하	봉쇄하	VV	O
+려	려	EC	O
+_	_	_	O
+하	하	VX	O
+는가	는가	EF	O
+.	.	SF	O
+

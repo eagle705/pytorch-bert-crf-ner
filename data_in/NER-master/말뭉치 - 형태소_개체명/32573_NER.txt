@@ -1,0 +1,490 @@
+## 1
+## '하늘이 내린 재능' 인터넷에서 화제인 8살 어린이
+## '하늘이 내린 재능' 인터넷에서 화제인 <8살:NOH> 어린이
+'	'	SS	O
+하늘	하늘	NNG	O
+이	이	JKS	O
+_	_	_	O
+내린	내리+ㄴ	VV+ETM	O
+_	_	_	O
+재능	재능	NNG	O
+'	'	SS	O
+_	_	_	O
+인터넷	인터넷	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+화제	화제	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+8	8	SN	B-NOH
+살	살	NNB	I-NOH
+_	_	_	O
+어린이	어린이	NNG	O
+
+## 2
+## 성난 유치원… 경기도청앞 누리과정 예산 촉구 집회
+## 성난 유치원… <경기도청:LOC>앞 누리과정 예산 촉구 집회
+성난	성나+ㄴ	VV+ETM	O
+_	_	_	O
+유치원	유치원	NNG	O
+…	…	SE	O
+_	_	_	O
+경기도청	경기도청	NNP	B-LOC
+앞	앞	NNG	O
+_	_	_	O
+누리	누리	NNG	O
+과정	과정	NNG	O
+_	_	_	O
+예산	예산	NNG	O
+_	_	_	O
+촉구	촉구	NNG	O
+_	_	_	O
+집회	집회	NNG	O
+
+## 3
+## 아이에스동서는 경기 안양시 동안구 평촌동 160-1번지에 짓는 ‘평촌역 안양벤처밸리 아이에스비즈타워’ 지식산업센터를 분양 중이다.
+## <아이에스동서:ORG>는 <경기:LOC> <안양시:LOC> <동안구:LOC> <평촌동 160-1번지:LOC>에 짓는 ‘<평촌역 안양벤처밸리 아이에스비즈타워:LOC>’ 지식산업센터를 분양 중이다.
+아이	아이	NNG	B-ORG
+에스	에스	NNG	I-ORG
+동서	동서	NNG	I-ORG
+는	는	JX	O
+_	_	_	O
+경기	경기	NNP	B-LOC
+_	_	_	O
+안양시	안양시	NNP	B-LOC
+_	_	_	O
+동안구	동안구	NNP	B-LOC
+_	_	_	O
+평촌동	평촌동	NNP	B-LOC
+_	_	_	I-LOC
+160	160	SN	I-LOC
+-	-	SO	I-LOC
+1	1	SN	I-LOC
+번지	번지	NNG	I-LOC
+에	에	JKB	O
+_	_	_	O
+짓	짓	VV	O
+는	는	ETM	O
+_	_	_	O
+‘	‘	SS	O
+평촌역	평촌역	NNP	B-LOC
+_	_	_	I-LOC
+안양	안양	NNP	I-LOC
+벤처	벤처	NNG	I-LOC
+밸리	밸리	NNG	I-LOC
+_	_	_	I-LOC
+아이에스비	아이에스비	NNG	I-LOC
+즈	즈	NP	I-LOC
+타워	타워	NNG	I-LOC
+’	’	SS	O
+_	_	_	O
+지식	지식	NNG	O
+산업	산업	NNG	O
+센터	센터	NNG	O
+를	를	JKO	O
+_	_	_	O
+분양	분양	NNG	O
+_	_	_	O
+중	중	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## ‘슈가맨’ 리치, ‘이글파이브’ 멤버들 현재는? “한 명은 CIA요원 돼, 일 얘기 안한다”
+## ‘<슈가맨:POH>’ <리치:PER>, ‘<이글파이브:ORG>’ 멤버들 현재는? “<한 명:NOH>은 <CIA요원:ORG> 돼, 일 얘기 안한다”
+‘	‘	SS	O
+슈가맨	슈가맨	NNP	B-POH
+’	’	SS	O
+_	_	_	O
+리치	리치	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+‘	‘	SS	O
+이글	이글	NNG	B-ORG
+파이브	파이브	NNG	I-ORG
+’	’	SS	O
+_	_	_	O
+멤버	멤버	NNG	O
+들	들	XSN	O
+_	_	_	O
+현재	현재	NNG	O
+는	는	JX	O
+?	?	SF	O
+_	_	_	O
+“	“	SS	O
+한	한	MM	B-NOH
+_	_	_	I-NOH
+명	명	NNB	I-NOH
+은	은	JX	O
+_	_	_	O
+CIA	CIA	SL	B-ORG
+요원	요원	NNG	I-ORG
+_	_	_	O
+돼	되+어	VV+EC	O
+,	,	SP	O
+_	_	_	O
+일	일	NNG	O
+_	_	_	O
+얘기	얘기	NNG	O
+_	_	_	O
+안	안	MAG	O
+한다	하+ㄴ다	VV+EF	O
+”	”	SS	O
+
+## 5
+## [라이프 트렌드] 수공예품 장터, 이탈리아 집밥, 8색 상점 …
+## [<라이프 트렌드:POH>] 수공예품 장터, <이탈리아:LOC> 집밥, <8색:NOH> 상점 …
+[	[	SS	O
+라이프	라이프	NNP	B-POH
+_	_	_	I-POH
+트렌드	트렌드	NNG	I-POH
+]	]	SS	O
+_	_	_	O
+수공예품	수공예품	NNG	O
+_	_	_	O
+장터	장터	NNG	O
+,	,	SP	O
+_	_	_	O
+이탈리아	이탈리아	NNP	B-LOC
+_	_	_	O
+집	집	NNG	O
+밥	밥	NNG	O
+,	,	SP	O
+_	_	_	O
+8	8	SN	B-NOH
+색	색	NNG	I-NOH
+_	_	_	O
+상점	상점	NNG	O
+_	_	_	O
+…	…	SE	O
+
+## 6
+## 100% 리넨 소재 커버를 이용한 까사 알렉시스의 클라우드는 워싱처리가 되어 있어 수축률이 낮고, 촉감 또한 매우 부드러워 사용할수록 편안함을 느낄 수 있다.
+## <100%:PNT> 리넨 소재 커버를 이용한 <까사 알렉시스:ORG>의 클라우드는 워싱처리가 되어 있어 수축률이 낮고, 촉감 또한 매우 부드러워 사용할수록 편안함을 느낄 수 있다.
+100	100	SN	B-PNT
+%	%	SW	I-PNT
+_	_	_	O
+리넨	리넨	NNG	O
+_	_	_	O
+소재	소재	NNG	O
+_	_	_	O
+커버	커버	NNG	O
+를	를	JKO	O
+_	_	_	O
+이용한	이용하+ㄴ	VV+ETM	O
+_	_	_	O
+까사	까사	NNP	B-ORG
+_	_	_	I-ORG
+알렉시스	알렉시스	NNP	I-ORG
+의	의	JKG	O
+_	_	_	O
+클라우드	클라우드	NNG	O
+는	는	JX	O
+_	_	_	O
+워	워	NNG	O
+싱	싱	NNG	O
+처리	처리	NNG	O
+가	가	JKC	O
+_	_	_	O
+되	되	VV	O
+어	어	EC	O
+_	_	_	O
+있	있	VX	O
+어	어	EC	O
+_	_	_	O
+수축률	수축률	NNG	O
+이	이	JKS	O
+_	_	_	O
+낮	낮	VA	O
+고	고	EC	O
+,	,	SP	O
+_	_	_	O
+촉감	촉감	NNG	O
+_	_	_	O
+또한	또한	MAG	O
+_	_	_	O
+매우	매우	MAG	O
+_	_	_	O
+부드러	부드럽	VA	O
+워	어	EC	O
+_	_	_	O
+사용할수록	사용하+ㄹ수록	VV+EC	O
+_	_	_	O
+편안함	편안하+ㅁ	VA+ETN	O
+을	을	JKO	O
+_	_	_	O
+느낄	느끼+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## ‘라디오스타’ 강예원, 군대에서 공개된 키와 프로필 키 다른 이유가?
+## ‘<라디오스타:POH>’ <강예원:PER>, 군대에서 공개된 키와 프로필 키 다른 이유가?
+‘	‘	SS	O
+라디오스타	라디오스타	NNP	B-POH
+’	’	SS	O
+_	_	_	O
+강예원	강예원	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+군대	군대	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+공개된	공개되+ㄴ	VV+ETM	O
+_	_	_	O
+키	키	NNG	O
+와	와	JC	O
+_	_	_	O
+프로필	프로필	NNG	O
+_	_	_	O
+키	키	NNG	O
+_	_	_	O
+다른	다른	MM	O
+_	_	_	O
+이유	이유	NNG	O
+가	가	JKS	O
+?	?	SF	O
+
+## 8
+## 요즘 그보다 2시간 전에 다저스타디움 외야에 나와 왕복달리기를 하는 선수가 있다.
+## 요즘 그보다 <2시간:DUR> 전에 <다저스타디움:LOC> 외야에 나와 왕복달리기를 하는 선수가 있다.
+요즘	요즘	NNG	O
+_	_	_	O
+그	그	NP	O
+보다	보다	JKB	O
+_	_	_	O
+2	2	SN	B-DUR
+시간	시간	NNB	I-DUR
+_	_	_	O
+전	전	NNG	O
+에	에	JKB	O
+_	_	_	O
+다저스타디움	다저스타디움	NNP	B-LOC
+_	_	_	O
+외야	외야	NNG	O
+에	에	JKB	O
+_	_	_	O
+나	나	NP	O
+와	와	JC	O
+_	_	_	O
+왕복	왕복	NNG	O
+달리기	달리기	NNG	O
+를	를	JKO	O
+_	_	_	O
+하	하	VV	O
+는	는	ETM	O
+_	_	_	O
+선수	선수	NNG	O
+가	가	JKS	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 부산 스타피부과(부산광역시 부산진구 부전동 503-15호 롯데백화점 지하 1층 서비스라운지)에서는 피코슈어레이저를 통해 위와 같은 피부병변을 효과적으로 치료하고 있다.
+## <부산 스타피부과:ORG>(<부산광역시:LOC> <부산진구:LOC> <부전동 503-15호:LOC> <롯데백화점:ORG> 지하 <1층:NOH> 서비스라운지)에서는 피코슈어레이저를 통해 위와 같은 피부병변을 효과적으로 치료하고 있다.
+부산	부산	NNP	B-ORG
+_	_	_	I-ORG
+스타	스타	NNG	I-ORG
+피부	피부	NNG	I-ORG
+과	과	JC	I-ORG
+(	(	SS	O
+부산광역시	부산광역시	NNP	B-LOC
+_	_	_	O
+부산진구	부산진구	NNP	B-LOC
+_	_	_	O
+부전동	부전동	NNP	B-LOC
+_	_	_	I-LOC
+503	503	SN	I-LOC
+-	-	SO	I-LOC
+15	15	SN	I-LOC
+호	호	NNB	I-LOC
+_	_	_	O
+롯데	롯데	NNP	B-ORG
+백화점	백화점	NNG	I-ORG
+_	_	_	O
+지하	지하	NNG	O
+_	_	_	O
+1	1	SN	B-NOH
+층	층	NNG	I-NOH
+_	_	_	O
+서비스	서비스	NNG	O
+라운지	라운지	NNG	O
+)	)	SS	O
+에서	에서	JKB	O
+는	는	JX	O
+_	_	_	O
+피코	피코	NNP	O
+슈어	슈어	NNG	O
+레이저	레이저	NNG	O
+를	를	JKO	O
+_	_	_	O
+통해	통하+여	VV+EC	O
+_	_	_	O
+위	위	NNG	O
+와	와	JKB	O
+_	_	_	O
+같	같	VA	O
+은	은	ETM	O
+_	_	_	O
+피부	피부	NNG	O
+병변	병변	NNG	O
+을	을	JKO	O
+_	_	_	O
+효과적	효과적	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+치료하	치료하	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 그 어느 때보다 승리가 소중했는데, 선수들이 잘 극복해줬다”며 인천전에서 승리를 일군 선수들을 칭찬했다.
+## 그 어느 때보다 승리가 소중했는데, 선수들이 잘 극복해줬다”며 <인천전:POH>에서 승리를 일군 선수들을 칭찬했다.
+그	그	MM	O
+_	_	_	O
+어느	어느	MM	O
+_	_	_	O
+때	때	NNG	O
+보다	보다	JKB	O
+_	_	_	O
+승리	승리	NNG	O
+가	가	JKS	O
+_	_	_	O
+소중	소중하	VA	O
+했	였	EP	O
+는데	는데	EC	O
+,	,	SP	O
+_	_	_	O
+선수	선수	NNG	O
+들	들	XSN	O
+이	이	JKS	O
+_	_	_	O
+잘	잘	MAG	O
+_	_	_	O
+극복해	극복하+여+주	VV+EC+VX	O
+줬	었	EP	O
+다	다	EF	O
+”	”	SS	O
+며	며	EC	O
+_	_	_	O
+인천	인천	NNP	B-POH
+전	전	XSN	I-POH
+에서	에서	JKB	O
+_	_	_	O
+승리	승리	NNG	O
+를	를	JKO	O
+_	_	_	O
+일군	일구+ㄴ	VV+ETM	O
+_	_	_	O
+선수	선수	NNG	O
+들	들	XSN	O
+을	을	JKO	O
+_	_	_	O
+칭찬	칭찬하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 미정책결정자들은 북한 핵문제를 다루면서 다양한 이익집단으로부터 여러 가지 압력을 받게 된다.
+## <미:ORG>정책결정자들은 <북한:ORG> 핵문제를 다루면서 다양한 이익집단으로부터 여러 가지 압력을 받게 된다.
+미	미	NNP	B-ORG
+정책	정책	NNG	O
+결정자	결정자	NNG	O
+들	들	XSN	O
+은	은	JX	O
+_	_	_	O
+북한	북한	NNP	B-ORG
+_	_	_	O
+핵	핵	NNG	O
+문제	문제	NNG	O
+를	를	JKO	O
+_	_	_	O
+다루	다루	VV	O
+면서	면서	EC	O
+_	_	_	O
+다양한	다양하+ㄴ	VA+ETM	O
+_	_	_	O
+이익	이익	NNG	O
+집단	집단	NNG	O
+으로부터	으로부터	JKB	O
+_	_	_	O
+여러	여러	MM	O
+_	_	_	O
+가지	가지	NNB	O
+_	_	_	O
+압력	압력	NNG	O
+을	을	JKO	O
+_	_	_	O
+받	받	VV	O
+게	게	EC	O
+_	_	_	O
+된다	되+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 12
+## 한효주·천우희와 호흡 유연석, 버릴 데 없는 이 남자…‘반전 취미 공개’
+## <한효주:PER>·<천우희:PER>와 호흡 <유연석:PER>, 버릴 데 없는 이 남자…‘반전 취미 공개’
+한효주	한효주	NNP	B-PER
+·	·	SP	O
+천우희	천우희	NNP	B-PER
+와	와	JKB	O
+_	_	_	O
+호흡	호흡	NNG	O
+_	_	_	O
+유연석	유연석	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+버릴	버리+ㄹ	VV+ETM	O
+_	_	_	O
+데	데	NNB	O
+_	_	_	O
+없	없	VA	O
+는	는	ETM	O
+_	_	_	O
+이	이	MM	O
+_	_	_	O
+남자	남자	NNG	O
+…	…	SE	O
+‘	‘	SS	O
+반전	반전	NNG	O
+_	_	_	O
+취미	취미	NNG	O
+_	_	_	O
+공개	공개	NNG	O
+’	’	SS	O
+
+## 13
+## 데뷔 시즌인 2012년에는 1경기도 나서지 못했다.
+## 데뷔 시즌인 <2012년:DAT>에는 <1경기:NOH>도 나서지 못했다.
+데뷔	데뷔	NNG	O
+_	_	_	O
+시즌	시즌	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+2012	2012	SN	B-DAT
+년	년	NNB	I-DAT
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+1	1	SN	B-NOH
+경기도	경기도	NNP	O
+_	_	_	O
+나서	나서	VV	O
+지	지	EC	O
+_	_	_	O
+못	못하	VX	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+

@@ -1,0 +1,392 @@
+## 1
+## 이 말은 향후 전개될 한·중 경협의 새로운 패러다임을 단적으로 보여준다.
+## 이 말은 향후 전개될 <한:ORG>·<중:ORG> 경협의 새로운 패러다임을 단적으로 보여준다.
+이	이	MM	O
+_	_	_	O
+말	말	NNG	O
+은	은	JX	O
+_	_	_	O
+향후	향후	NNG	O
+_	_	_	O
+전개될	전개되+ㄹ	VV+ETM	O
+_	_	_	O
+한	한	NNP	B-ORG
+·	·	SP	O
+중	중	NNP	B-ORG
+_	_	_	O
+경협	경협	NNG	O
+의	의	JKG	O
+_	_	_	O
+새로	새롭	VA	O
+운	ㄴ	ETM	O
+_	_	_	O
+패러다임	패러다임	NNG	O
+을	을	JKO	O
+_	_	_	O
+단적	단적	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+보	보이	VV	O
+여	어	EC	O
+준다	주+ㄴ다	VX+EF	O
+.	.	SF	O
+
+## 2
+## 인천도시농업네트워크 주최의 이 축제에서는 막걸리 빚기, 흙 속 미생물 관찰, 생태화장실 등을 체험할 수 있다.
+## <인천도시농업네트워크:ORG> 주최의 이 축제에서는 막걸리 빚기, 흙 속 미생물 관찰, 생태화장실 등을 체험할 수 있다.
+인천	인천	NNP	B-ORG
+도시	도시	NNG	I-ORG
+농업	농업	NNG	I-ORG
+네트워크	네트워크	NNG	I-ORG
+_	_	_	O
+주최	주최	NNG	O
+의	의	JKG	O
+_	_	_	O
+이	이	MM	O
+_	_	_	O
+축제	축제	NNG	O
+에서	에서	JKB	O
+는	는	JX	O
+_	_	_	O
+막걸리	막걸리	NNG	O
+_	_	_	O
+빚	빚	VV	O
+기	기	ETN	O
+,	,	SP	O
+_	_	_	O
+흙	흙	NNG	O
+_	_	_	O
+속	속	NNG	O
+_	_	_	O
+미생물	미생물	NNG	O
+_	_	_	O
+관찰	관찰	NNG	O
+,	,	SP	O
+_	_	_	O
+생태	생태	NNG	O
+화장실	화장실	NNG	O
+_	_	_	O
+등	등	NNB	O
+을	을	JKO	O
+_	_	_	O
+체험할	체험하+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 박 PD는 “하지만 15주년 특집에 녹이기엔 시기적 무리가 있었다”고 말했다.
+## <박:PER> PD는 “하지만 <15주년:NOH> 특집에 녹이기엔 시기적 무리가 있었다”고 말했다.
+박	박	NNP	B-PER
+_	_	_	O
+PD	PD	SL	O
+는	는	JX	O
+_	_	_	O
+“	“	SS	O
+하지만	하지만	MAJ	O
+_	_	_	O
+15	15	SN	B-NOH
+주년	주년	NNB	I-NOH
+_	_	_	O
+특집	특집	NNG	O
+에	에	JKB	O
+_	_	_	O
+녹이	녹이	VV	O
+기	기	ETN	O
+엔	에+ㄴ	JKB+JX	O
+_	_	_	O
+시기적	시기적	NNG	O
+_	_	_	O
+무리	무리	NNG	O
+가	가	JKS	O
+_	_	_	O
+있	있	VA	O
+었	었	EP	O
+다	다	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+말	말하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 김 회장은 “지난해 해외매출 비중이 2.5%였는데, 올해 15%까지 끌어올릴 것”이라고 밝혔다.
+## <김:PER> 회장은 “지난해 해외매출 비중이 <2.5%:PNT>였는데, 올해 <15%:PNT>까지 끌어올릴 것”이라고 밝혔다.
+김	김	NNP	B-PER
+_	_	_	O
+회장	회장	NNG	O
+은	은	JX	O
+_	_	_	O
+“	“	SS	O
+지난해	지난해	NNG	O
+_	_	_	O
+해외	해외	NNG	O
+매출	매출	NNG	O
+_	_	_	O
+비중	비중	NNG	O
+이	이	JKS	O
+_	_	_	O
+2.5	2.5	SN	B-PNT
+%	%+이	SW+VCP	I-PNT
+였	었	EP	O
+는데	는데	EC	O
+,	,	SP	O
+_	_	_	O
+올해	올해	NNG	O
+_	_	_	O
+15	15	SN	B-PNT
+%	%	SW	I-PNT
+까지	까지	JX	O
+_	_	_	O
+끌어올릴	끌어올리+ㄹ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+”	”	SS	O
+이라고	이라고	JKQ	O
+_	_	_	O
+밝	밝히	VV	O
+혔	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 89년부터 끌어온 교육부와 보사부간의 지리한 논쟁이 이제 두 부처 담당자들간의 감정싸움으로까지 치닫고 있다.
+## <89년:DAT>부터 끌어온 <교육부:ORG>와 <보사부:ORG>간의 지리한 논쟁이 이제 두 부처 담당자들간의 감정싸움으로까지 치닫고 있다.
+89	89	SN	B-DAT
+년	년	NNB	I-DAT
+부터	부터	JX	O
+_	_	_	O
+끌어온	끌어오+ㄴ	VV+ETM	O
+_	_	_	O
+교육부	교육부	NNG	B-ORG
+와	와	JC	O
+_	_	_	O
+보사부	보사부	NNG	B-ORG
+간	간	NNG	O
+의	의	JKG	O
+_	_	_	O
+지리한	지리하+ㄴ	VA+ETM	O
+_	_	_	O
+논쟁	논쟁	NNG	O
+이	이	JKS	O
+_	_	_	O
+이제	이제	MAG	O
+_	_	_	O
+두	두	MM	O
+_	_	_	O
+부처	부처	NNG	O
+_	_	_	O
+담당자	담당자	NNG	O
+들	들	XSN	O
+간	간	NNB	O
+의	의	JKG	O
+_	_	_	O
+감정	감정	NNG	O
+싸움	싸움	NNG	O
+으로	으로	JKB	O
+까지	까지	JX	O
+_	_	_	O
+치닫	치닫	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 이어 나온 윤지웅~김지용~진해수~정찬헌~임정우가 4.2이닝을 무실점으로 틀어막으면서 1점차 승리를 가져올 수 있었다.
+## 이어 나온 <윤지웅:PER>~<김지용:PER>~<진해수:PER>~<정찬헌:PER>~<임정우:PER>가 <4.2이닝:NOH>을 무실점으로 틀어막으면서 <1점:NOH>차 승리를 가져올 수 있었다.
+이	잇	VV	O
+어	어	EC	O
+_	_	_	O
+나온	나오+ㄴ	VV+ETM	O
+_	_	_	O
+윤지웅	윤지웅	NNP	B-PER
+~	~	SO	O
+김지용	김지용	NNP	B-PER
+~	~	SO	O
+진해수	진해수	NNP	B-PER
+~	~	SO	O
+정찬헌	정찬헌	NNP	B-PER
+~	~	SO	O
+임정우	임정우	NNP	B-PER
+가	가	JKS	O
+_	_	_	O
+4.2	4.2	SN	B-NOH
+이닝	이닝	NNG	I-NOH
+을	을	JKO	O
+_	_	_	O
+무실점	무실점	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+틀어막	틀어막	VV	O
+으면서	으면서	EC	O
+_	_	_	O
+1	1	SN	B-NOH
+점	점	NNB	I-NOH
+차	차	NNG	O
+_	_	_	O
+승리	승리	NNG	O
+를	를	JKO	O
+_	_	_	O
+가져올	가져오+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 2회 실책성 플레이를 한 오지환에 대한 믿음도 굳건했다.
+## <2회:NOH> 실책성 플레이를 한 오지환에 대한 믿음도 굳건했다.
+2	2	SN	B-NOH
+회	회	NNB	I-NOH
+_	_	_	O
+실책	실책	NNG	O
+성	성	XSN	O
+_	_	_	O
+플레이	플레이	NNG	O
+를	를	JKO	O
+_	_	_	O
+한	하+ㄴ	VV+ETM	O
+_	_	_	O
+오지환	오지환	NNP	O
+에	에	JKB	O
+_	_	_	O
+대한	대하+ㄴ	VV+ETM	O
+_	_	_	O
+믿음	믿음	NNG	O
+도	도	JX	O
+_	_	_	O
+굳건	굳건하	VA	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 조선업 장기 침체로 강력한 구조조정이 필요한 현대중에서 처우 개선을 요구하는 배짱이 놀랍다.
+## 조선업 장기 침체로 강력한 구조조정이 필요한 <현대중:ORG>에서 처우 개선을 요구하는 배짱이 놀랍다.
+조선업	조선업	NNG	O
+_	_	_	O
+장기	장기	NNG	O
+_	_	_	O
+침체	침체	NNG	O
+로	로	JKB	O
+_	_	_	O
+강력한	강력하+ㄴ	VA+ETM	O
+_	_	_	O
+구조	구조	NNG	O
+조정	조정	NNG	O
+이	이	JKS	O
+_	_	_	O
+필요한	필요하+ㄴ	VA+ETM	O
+_	_	_	O
+현대	현대	NNG	B-ORG
+중	중	NNG	I-ORG
+에서	에서	JKB	O
+_	_	_	O
+처우	처우	NNG	O
+_	_	_	O
+개선	개선	NNG	O
+을	을	JKO	O
+_	_	_	O
+요구하	요구하	VV	O
+는	는	ETM	O
+_	_	_	O
+배짱	배짱	NNG	O
+이	이	JKS	O
+_	_	_	O
+놀랍	놀랍	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 경찰은 김 씨가 라이터로 가열할 때 전선 피복이 녹아 전기 합선이 일어나면서 불꽃이 발생한 것으로 추정하고 있다.
+## 경찰은 <김:PER> 씨가 라이터로 가열할 때 전선 피복이 녹아 전기 합선이 일어나면서 <불꽃:POH>이 발생한 것으로 추정하고 있다.
+경찰	경찰	NNG	O
+은	은	JX	O
+_	_	_	O
+김	김	NNP	B-PER
+_	_	_	O
+씨	씨	NNB	O
+가	가	JKS	O
+_	_	_	O
+라이터	라이터	NNG	O
+로	로	JKB	O
+_	_	_	O
+가열할	가열하+ㄹ	VV+ETM	O
+_	_	_	O
+때	때	NNG	O
+_	_	_	O
+전선	전선	NNG	O
+_	_	_	O
+피복	피복	NNG	O
+이	이	JKS	O
+_	_	_	O
+녹	녹	VV	O
+아	아	EC	O
+_	_	_	O
+전기	전기	NNG	O
+_	_	_	O
+합선	합선	NNG	O
+이	이	JKS	O
+_	_	_	O
+일어나	일어나	VV	O
+면서	면서	EC	O
+_	_	_	O
+불꽃	불꽃	NNG	B-POH
+이	이	JKS	O
+_	_	_	O
+발생한	발생하+ㄴ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+추정하	추정하	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## '우리는 형제입니다 하니''우리는 형제입니다' 하니의 먹방에 남동생도 놀랐다.
+## '<우리는 형제입니다:POH> <하니:PER>''<우리는 형제입니다:POH>' <하니:PER>의 먹방에 남동생도 놀랐다.
+'	'	SS	O
+우리	우리	NP	B-POH
+는	는	JX	I-POH
+_	_	_	I-POH
+형제	형제	NNG	I-POH
+입니다	이+ㅂ니다	VCP+EC	I-POH
+_	_	_	O
+하	하	VV	B-PER
+니	니	EF	I-PER
+'	'	SS	O
+'	'	SS	O
+우리	우리	NP	B-POH
+는	는	JX	I-POH
+_	_	_	I-POH
+형제	형제	NNG	I-POH
+입니다	이+ㅂ니다	VCP+EF	I-POH
+'	'	SS	O
+_	_	_	O
+하니	하니	NNP	B-PER
+의	의	JKG	O
+_	_	_	O
+먹방	먹방	NNP	O
+에	에	JKB	O
+_	_	_	O
+남동생	남동생	NNG	O
+도	도	JX	O
+_	_	_	O
+놀랐	놀라+았	VV+EP	O
+다	다	EF	O
+.	.	SF	O
+

@@ -1,0 +1,366 @@
+## 1
+## 18세기 중반 증기기관의 발명이 1차 산업혁명을 이끌었다면 2차 산업혁명은 전기의 발견과 대량생산 체제 구축이다.
+## <18세기:DUR> 중반 증기기관의 발명이 <1차 산업혁명:POH>을 이끌었다면 <2차 산업혁명:POH>은 전기의 발견과 대량생산 체제 구축이다.
+18	18	SN	B-DUR
+세기	세기	NNG	I-DUR
+_	_	_	O
+중반	중반	NNG	O
+_	_	_	O
+증기	증기	NNG	O
+기관	기관	NNG	O
+의	의	JKG	O
+_	_	_	O
+발명	발명	NNG	O
+이	이	JKS	O
+_	_	_	O
+1	1	SN	B-POH
+차	차	NNB	I-POH
+_	_	_	I-POH
+산업	산업	NNG	I-POH
+혁명	혁명	NNG	I-POH
+을	을	JKO	O
+_	_	_	O
+이끌	이끌	VV	O
+었	었	EP	O
+다면	다면	EC	O
+_	_	_	O
+2	2	SN	B-POH
+차	차	NNB	I-POH
+_	_	_	I-POH
+산업	산업	NNG	I-POH
+혁명	혁명	NNG	I-POH
+은	은	JX	O
+_	_	_	O
+전기	전기	NNG	O
+의	의	JKG	O
+_	_	_	O
+발견	발견	NNG	O
+과	과	JC	O
+_	_	_	O
+대량	대량	NNG	O
+생산	생산	NNG	O
+_	_	_	O
+체제	체제	NNG	O
+_	_	_	O
+구축	구축	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 올 상반기에는 569건을 적발해 과태료 8000만원을 부과했다.
+## 올 상반기에는 <569건:NOH>을 적발해 과태료 <8000만원:MNY>을 부과했다.
+올	올	NNG	O
+_	_	_	O
+상반기	상반기	NNG	O
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+569	569	SN	B-NOH
+건	건	NNB	I-NOH
+을	을	JKO	O
+_	_	_	O
+적발해	적발하+여	VV+EC	O
+_	_	_	O
+과태료	과태료	NNG	O
+_	_	_	O
+8000	8000	SN	B-MNY
+만	만	NR	I-MNY
+원	원	NNB	I-MNY
+을	을	JKO	O
+_	_	_	O
+부과	부과하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 김태희(35)가 촬영보다 사전 홍보에 열을 올리고 있다.
+## <김태희:PER>(<35:NOH>)가 촬영보다 사전 홍보에 열을 올리고 있다.
+김태희	김태희	NNP	B-PER
+(	(	SS	O
+35	35	SN	B-NOH
+)	)	SS	O
+가	가	JKS	O
+_	_	_	O
+촬영	촬영	NNG	O
+보다	보다	JKB	O
+_	_	_	O
+사전	사전	NNG	O
+_	_	_	O
+홍보	홍보	NNG	O
+에	에	JKB	O
+_	_	_	O
+열	열	NNG	O
+을	을	JKO	O
+_	_	_	O
+올리	올리	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 대조적인 인물설정은 다윗과 골리앗을 보는 듯해 좋은 캐스팅이란 느낌.
+## 대조적인 인물설정은 <다윗:PER>과 <골리앗:PER>을 보는 듯해 좋은 캐스팅이란 느낌.
+대조적	대조적	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+인물	인물	NNG	O
+설정	설정	NNG	O
+은	은	JX	O
+_	_	_	O
+다윗	다윗	NNP	B-PER
+과	과	JC	O
+_	_	_	O
+골리앗	골리앗	NNP	B-PER
+을	을	JKO	O
+_	_	_	O
+보	보	VV	O
+는	는	ETM	O
+_	_	_	O
+듯해	듯하+여	VX+EC	O
+_	_	_	O
+좋	좋	VA	O
+은	은	ETM	O
+_	_	_	O
+캐스팅	캐스팅	NNG	O
+이	이	VCP	O
+란	란	ETM	O
+_	_	_	O
+느낌	느낌	NNG	O
+.	.	SF	O
+
+## 5
+## 효성의 브라질 진출은 지역 경제 활성화에도 도움을 주고 있다.
+## <효성:ORG>의 <브라질:ORG> 진출은 지역 경제 활성화에도 도움을 주고 있다.
+효성	효성	NNG	B-ORG
+의	의	JKG	O
+_	_	_	O
+브라질	브라질	NNP	B-ORG
+_	_	_	O
+진출	진출	NNG	O
+은	은	JX	O
+_	_	_	O
+지역	지역	NNG	O
+_	_	_	O
+경제	경제	NNG	O
+_	_	_	O
+활성화	활성화	NNG	O
+에	에	JKB	O
+도	도	JX	O
+_	_	_	O
+도움	도움	NNG	O
+을	을	JKO	O
+_	_	_	O
+주	주	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## [비즈스토리] 소백산맥 청정지역서 키운 가을천마 … 고혈압·편두통 등 개선에 효과
+## [<비즈스토리:POH>] <소백산맥:LOC> 청정지역서 키운 가을천마 … 고혈압·편두통 등 개선에 효과
+[	[	SS	O
+비즈	비즈	NNG	B-POH
+스토리	스토리	NNG	I-POH
+]	]	SS	O
+_	_	_	O
+소백산맥	소백산맥	NNP	B-LOC
+_	_	_	O
+청정	청정	NNG	O
+지역	지역	NNG	O
+서	서	JKB	O
+_	_	_	O
+키운	키우+ㄴ	VV+ETM	O
+_	_	_	O
+가을	가을	NNG	O
+천마	천마	NNG	O
+_	_	_	O
+…	…	SE	O
+_	_	_	O
+고혈압	고혈압	NNG	O
+·	·	SP	O
+편두통	편두통	NNG	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+개선	개선	NNG	O
+에	에	JKB	O
+_	_	_	O
+효과	효과	NNG	O
+
+## 7
+## ㈜뽀로로파크 관계자는 “애니메이션 속에 나온 공간을 테마파크에서 충실히 재현해 만족도를 높였다”며 “해외도 같은 전략으로 애니메이션을 통해 먼저 인지도를 높인 뒤 소규모 테마파크로 접근하는 것을 원칙으로 했다”고 말했다.
+## <㈜뽀로로파크:ORG> 관계자는 “애니메이션 속에 나온 공간을 테마파크에서 충실히 재현해 만족도를 높였다”며 “해외도 같은 전략으로 애니메이션을 통해 먼저 인지도를 높인 뒤 소규모 테마파크로 접근하는 것을 원칙으로 했다”고 말했다.
+㈜	㈜	SW	B-ORG
+뽀로로	뽀로로	NNP	I-ORG
+파크	파크	NNG	I-ORG
+_	_	_	O
+관계자	관계자	NNG	O
+는	는	JX	O
+_	_	_	O
+“	“	SS	O
+애니메이션	애니메이션	NNG	O
+_	_	_	O
+속	속	NNG	O
+에	에	JKB	O
+_	_	_	O
+나온	나오+ㄴ	VV+ETM	O
+_	_	_	O
+공간	공간	NNG	O
+을	을	JKO	O
+_	_	_	O
+테마파크	테마파크	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+충실히	충실히	MAG	O
+_	_	_	O
+재현해	재현하+여	VV+EC	O
+_	_	_	O
+만족도	만족도	NNG	O
+를	를	JKO	O
+_	_	_	O
+높	높이	VV	O
+였	었	EP	O
+다	다	EF	O
+”	”	SS	O
+며	며	EC	O
+_	_	_	O
+“	“	SS	O
+해외	해외	NNG	O
+도	도	JX	O
+_	_	_	O
+같	같	VA	O
+은	은	ETM	O
+_	_	_	O
+전략	전략	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+애니메이션	애니메이션	NNG	O
+을	을	JKO	O
+_	_	_	O
+통해	통하+여	VV+EC	O
+_	_	_	O
+먼저	먼저	MAG	O
+_	_	_	O
+인지도	인지도	NNG	O
+를	를	JKO	O
+_	_	_	O
+높인	높이+ㄴ	VV+ETM	O
+_	_	_	O
+뒤	뒤	NNG	O
+_	_	_	O
+소규모	소규모	NNG	O
+_	_	_	O
+테마파크	테마파크	NNP	O
+로	로	JKB	O
+_	_	_	O
+접근하	접근하	VV	O
+는	는	ETM	O
+_	_	_	O
+것	것	NNB	O
+을	을	JKO	O
+_	_	_	O
+원칙	원칙	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+했	+였	+EP	O
+다	다	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+말	말하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 바스프는 코오롱플라스틱이 POM 생산 경험과 노하우를 갖추고 있다는 점을 고려해 합작을 결정했다.
+## <바스프:PER>는 <코오롱플라스틱:ORG>이 POM 생산 경험과 노하우를 갖추고 있다는 점을 고려해 합작을 결정했다.
+바스프	바스프	NNP	B-PER
+는	는	JX	O
+_	_	_	O
+코오롱	코오롱	NNP	B-ORG
+플라스틱	플라스틱	NNG	I-ORG
+이	이	VCP	O
+_	_	_	O
+POM	POM	SL	O
+_	_	_	O
+생산	생산	NNG	O
+_	_	_	O
+경험	경험	NNG	O
+과	과	JC	O
+_	_	_	O
+노하우	노하우	NNG	O
+를	를	JKO	O
+_	_	_	O
+갖추	갖추	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다는	다는	ETM	O
+_	_	_	O
+점	점	NNG	O
+을	을	JKO	O
+_	_	_	O
+고려해	고려하+여	VV+EC	O
+_	_	_	O
+합작	합작	NNG	O
+을	을	JKO	O
+_	_	_	O
+결정	결정하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 이 역시 프랑스의 25세 이하 실업률이 2008년(18%)보다 더 높아진 25%에 달하는 점이 주 요인이다.
+## 이 역시 <프랑스:ORG>의 <25세:NOH> 이하 실업률이 <2008년:DAT>(<18%:PNT>)보다 더 높아진 <25%:PNT>에 달하는 점이 주 요인이다.
+이	이	NP	O
+_	_	_	O
+역시	역시	MAG	O
+_	_	_	O
+프랑스	프랑스	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+25	25	SN	B-NOH
+세	세	NNB	I-NOH
+_	_	_	O
+이하	이하	NNG	O
+_	_	_	O
+실업률	실업률	NNG	O
+이	이	JKS	O
+_	_	_	O
+2008	2008	SN	B-DAT
+년	년	NNB	I-DAT
+(	(	SS	O
+18	18	SN	B-PNT
+%	%	SW	I-PNT
+)	)	SS	O
+보다	보다	JKB	O
+_	_	_	O
+더	더	MAG	O
+_	_	_	O
+높아진	높아지+ㄴ	VV+ETM	O
+_	_	_	O
+25	25	SN	B-PNT
+%	%	SW	I-PNT
+에	에	JKB	O
+_	_	_	O
+달하	달하	VV	O
+는	는	ETM	O
+_	_	_	O
+점	점	NNG	O
+이	이	JKS	O
+_	_	_	O
+주	주	MM	O
+_	_	_	O
+요인	요인	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+

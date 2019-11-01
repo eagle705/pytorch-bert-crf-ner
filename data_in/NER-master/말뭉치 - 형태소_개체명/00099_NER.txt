@@ -1,0 +1,463 @@
+## 1
+## 대당 제작비가 4억5000만 원인 2층 광역버스는 연말까지 124대를 추가로 도입해 경기 성남, 용인 등 12개 지역에서 운행한다.
+## 대당 제작비가 <4억5000만 원:MNY>인 <2층:NOH> 광역버스는 연말까지 <124대:NOH>를 추가로 도입해 <경기 성남:LOC>, <용인:LOC> 등 <12개:NOH> 지역에서 운행한다.
+대	대	NNG	O
+당	당	XSN	O
+_	_	_	O
+제작비	제작비	NNG	O
+가	가	JKS	O
+_	_	_	O
+4	4	SN	B-MNY
+억	억	NR	I-MNY
+5000	5000	SN	I-MNY
+만	만	NR	I-MNY
+_	_	_	I-MNY
+원	원	NNB	I-MNY
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+2	2	SN	B-NOH
+층	층	NNG	I-NOH
+_	_	_	O
+광역	광역	NNG	O
+버스	버스	NNG	O
+는	는	JX	O
+_	_	_	O
+연말	연말	NNG	O
+까지	까지	JX	O
+_	_	_	O
+124	124	SN	B-NOH
+대	대	NNB	I-NOH
+를	를	JKO	O
+_	_	_	O
+추가	추가	NNG	O
+로	로	JKB	O
+_	_	_	O
+도입해	도입하+여	VV+EC	O
+_	_	_	O
+경기	경기	NNP	B-LOC
+_	_	_	I-LOC
+성남	성남	NNP	I-LOC
+,	,	SP	O
+_	_	_	O
+용인	용인	NNP	B-LOC
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+12	12	SN	B-NOH
+개	개	NNB	I-NOH
+_	_	_	O
+지역	지역	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+운행한다	운행하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 2
+## 하이페츠의 기교와 크라이슬러의 감성….
+## <하이페츠:PER>의 기교와 <크라이슬러:PER>의 감성….
+하이페츠	하이페츠	NNP	B-PER
+의	의	JKG	O
+_	_	_	O
+기교	기교	NNG	O
+와	와	JC	O
+_	_	_	O
+크라이슬러	크라이슬러	NNP	B-PER
+의	의	JKG	O
+_	_	_	O
+감성	감성	NNG	O
+…	…	SE	O
+.	.	SF	O
+
+## 3
+## 토막난 40대 여성 변사체 경남 통영서 발견
+## 토막난 <40대:NOH> 여성 변사체 <경남 통영:LOC>서 발견
+토막	토막	NNG	O
+난	나+ㄴ	VV+ETM	O
+_	_	_	O
+40	40	SN	B-NOH
+대	대	NNB	I-NOH
+_	_	_	O
+여성	여성	NNG	O
+_	_	_	O
+변사체	변사체	NNG	O
+_	_	_	O
+경남	경남	NNP	B-LOC
+_	_	_	I-LOC
+통영	통영	NNP	I-LOC
+서	서	JKB	O
+_	_	_	O
+발견	발견	NNG	O
+
+## 4
+## kt 담당 이경호 기자가 이재국 차장과 김영준· 홍재현· 이명노· 강산· 고봉준 기자를 대화창에 초청했다.
+## <kt:ORG> 담당 <이경호:PER> 기자가 <이재국:PER> 차장과 <김영준:PER>· <홍재현:PER>· <이명노:PER>· <강산:PER>· <고봉준:PER> 기자를 대화창에 초청했다.
+kt	kt	SL	B-ORG
+_	_	_	O
+담당	담당	NNG	O
+_	_	_	O
+이경호	이경호	NNP	B-PER
+_	_	_	O
+기자	기자	NNG	O
+가	가	JKS	O
+_	_	_	O
+이재국	이재국	NNP	B-PER
+_	_	_	O
+차장	차장	NNG	O
+과	과	JC	O
+_	_	_	O
+김영준	김영준	NNP	B-PER
+·	·	SP	O
+_	_	_	O
+홍재현	홍재현	NNP	B-PER
+·	·	SP	O
+_	_	_	O
+이명노	이명노	NNP	B-PER
+·	·	SP	O
+_	_	_	O
+강산	강산	NNG	B-PER
+·	·	SP	O
+_	_	_	O
+고봉준	고봉준	NNP	B-PER
+_	_	_	O
+기자	기자	NNG	O
+를	를	JKO	O
+_	_	_	O
+대화	대화	NNG	O
+창	창	NNG	O
+에	에	JKB	O
+_	_	_	O
+초청	초청하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 아시안컵, 한국-우즈벡 하이라이트는 '차두리 손흥민의 찰떡호흡'대한민국 축구대표팀이 우즈베키스탄(이하 우즈벡)과의 2015 AFC 호주 아시안컵 8강전에서 2-0으로 승리를 거뒀다.
+## <아시안컵:POH>, <한국:LOC>-<우즈벡:LOC> 하이라이트는 '<차두리:PER> <손흥민:PER>의 찰떡호흡'<대한민국 축구대표팀:ORG>이 <우즈베키스탄:LOC>(이하 <우즈벡:LOC>)과의 <2015 AFC 호주 아시안컵:POH> <8강:NOH>전에서 <2-0:NOH>으로 승리를 거뒀다.
+아시안	아시안	NNG	B-POH
+컵	컵	NNG	I-POH
+,	,	SP	O
+_	_	_	O
+한국	한국	NNP	B-LOC
+-	-	SO	O
+우즈벡	우즈벡	NNP	B-LOC
+_	_	_	O
+하이라이트	하이라이트	NNG	O
+는	는	JX	O
+_	_	_	O
+'	'	SS	O
+차두리	차두리	NNP	B-PER
+_	_	_	O
+손흥민	손흥민	NNP	B-PER
+의	의	JKG	O
+_	_	_	O
+찰떡	찰떡	NNG	O
+호흡	호흡	NNG	O
+'	'	SS	O
+대한민국	대한민국	NNP	B-ORG
+_	_	_	I-ORG
+축구	축구	NNG	I-ORG
+대표	대표	NNG	I-ORG
+팀	팀	NNG	I-ORG
+이	이	JKS	O
+_	_	_	O
+우즈베키스탄	우즈베키스탄	NNP	B-LOC
+(	(	SS	O
+이하	이하	NNG	O
+_	_	_	O
+우즈벡	우즈벡	NNP	B-LOC
+)	)	SS	O
+과	과	JKB	O
+의	의	JKG	O
+_	_	_	O
+2015	2015	SN	B-POH
+_	_	_	I-POH
+AFC	AFC	SL	I-POH
+_	_	_	I-POH
+호주	호주	NNP	I-POH
+_	_	_	I-POH
+아시안	아시안	NNG	I-POH
+컵	컵	NNG	I-POH
+_	_	_	O
+8	8	SN	B-NOH
+강	강	NNG	I-NOH
+전	전	XSN	O
+에서	에서	JKB	O
+_	_	_	O
+2	2	SN	B-NOH
+-	-	SO	I-NOH
+0	0	SN	I-NOH
+으로	으로	JKB	O
+_	_	_	O
+승리	승리	NNG	O
+를	를	JKO	O
+_	_	_	O
+거	거두	VV	O
+뒀	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 1992년 처음 방문한 그 집안엔 지치고 피곤한 표정의 사람들이 좁고 낮은 공간을 오가며 개미처럼 일하고 있었다.
+## <1992년:DAT> 처음 방문한 그 집안엔 지치고 피곤한 표정의 사람들이 좁고 낮은 공간을 오가며 개미처럼 일하고 있었다.
+1992	1992	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+처음	처음	NNG	O
+_	_	_	O
+방문한	방문하+ㄴ	VV+ETM	O
+_	_	_	O
+그	그	MM	O
+_	_	_	O
+집안	집안	NNG	O
+엔	에+ㄴ	JKB+JX	O
+_	_	_	O
+지치	지치	VV	O
+고	고	EC	O
+_	_	_	O
+피곤한	피곤하+ㄴ	VA+ETM	O
+_	_	_	O
+표정	표정	NNG	O
+의	의	JKG	O
+_	_	_	O
+사람	사람	NNG	O
+들	들	XSN	O
+이	이	JKS	O
+_	_	_	O
+좁	좁	VA	O
+고	고	EC	O
+_	_	_	O
+낮	낮	VA	O
+은	은	ETM	O
+_	_	_	O
+공간	공간	NNG	O
+을	을	JKO	O
+_	_	_	O
+오가	오가	VV	O
+며	며	EC	O
+_	_	_	O
+개미	개미	NNG	O
+처럼	처럼	JKB	O
+_	_	_	O
+일하	일하	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 김 감독은 "경기장에서 벌어지는 실수나 실책은 나무라지 않겠다.
+## <김:PER> 감독은 "경기장에서 벌어지는 실수나 실책은 나무라지 않겠다.
+김	김	NNP	B-PER
+_	_	_	O
+감독	감독	NNG	O
+은	은	JX	O
+_	_	_	O
+"	"	SS	O
+경기장	경기장	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+벌어지	벌어지	VV	O
+는	는	ETM	O
+_	_	_	O
+실수	실수	NNG	O
+나	나	JC	O
+_	_	_	O
+실책	실책	NNG	O
+은	은	JX	O
+_	_	_	O
+나무라	나무라	VV	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+겠	겠	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 정용화와 양동근은 만화적 상상력이 돋보이는 티저에서 능청스러운 연기를 선보였다.
+## <정용화:PER>와 <양동근:PER>은 만화적 상상력이 돋보이는 티저에서 능청스러운 연기를 선보였다.
+정용화	정용화	NNP	B-PER
+와	와	JC	O
+_	_	_	O
+양동근	양동근	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+만화	만화	NNG	O
+적	적	XSN	O
+_	_	_	O
+상상력	상상력	NNG	O
+이	이	JKS	O
+_	_	_	O
+돋보이	돋보이	VV	O
+는	는	ETM	O
+_	_	_	O
+티저	티저	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+능청스러	능청스럽	VA	O
+운	ㄴ	ETM	O
+_	_	_	O
+연기	연기	NNG	O
+를	를	JKO	O
+_	_	_	O
+선보	선보이	VV	O
+였	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 전력예비율 3.2%/올들어 최악… 「수급조정제」 검토
+## 전력예비율 <3.2%:PNT>/올들어 최악… 「수급조정제」 검토
+전력	전력	NNG	O
+예비	예비	NNG	O
+율	율	XSN	O
+_	_	_	O
+3.2	3.2	SN	B-PNT
+%	%	SW	I-PNT
+/	/	SP	O
+올	올	NNG	O
+들	들	VV	O
+어	어	EC	O
+_	_	_	O
+최악	최악	NNG	O
+…	…	SE	O
+_	_	_	O
+「	「	SS	O
+수급	수급	NNG	O
+조정	조정	NNG	O
+제	제	XPN	O
+」	」	SS	O
+_	_	_	O
+검토	검토	NNG	O
+
+## 10
+## 직원파견도 일본 대신 미국쪽으로 선회하고있다.
+## 직원파견도 <일본:LOC> 대신 <미국:LOC>쪽으로 선회하고있다.
+직원	직원	NNG	O
+파견	파견	NNG	O
+도	도	JX	O
+_	_	_	O
+일본	일본	NNP	B-LOC
+_	_	_	O
+대신	대신	NNG	O
+_	_	_	O
+미국	미국	NNP	B-LOC
+쪽	쪽	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+선회하	선회하	VV	O
+고	고	EC	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 미나는 40대라는 나이가 믿기지 않는 명품 비율과 건강미 넘치는 구릿빛 피부로 눈길을 모았다.
+## <미나:PER>는 <40대:NOH>라는 나이가 믿기지 않는 명품 비율과 건강미 넘치는 구릿빛 피부로 눈길을 모았다.
+미나	미나	NNP	B-PER
+는	는	JX	O
+_	_	_	O
+40	40	SN	B-NOH
+대	대+이	NNB+VCP	I-NOH
+라는	라는	ETM	O
+_	_	_	O
+나이	나이	NNG	O
+가	가	JKS	O
+_	_	_	O
+믿기	믿기	VV	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+는	는	ETM	O
+_	_	_	O
+명품	명품	NNG	O
+_	_	_	O
+비율	비율	NNG	O
+과	과	JC	O
+_	_	_	O
+건강미	건강미	NNG	O
+_	_	_	O
+넘치	넘치	VV	O
+는	는	ETM	O
+_	_	_	O
+구릿빛	구릿빛	NNG	O
+_	_	_	O
+피부	피부	NNG	O
+로	로	JKB	O
+_	_	_	O
+눈길	눈길	NNG	O
+을	을	JKO	O
+_	_	_	O
+모	모으	VV	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 앞서 미나와 류필립은 6월부터 교제를 시작했다며, 8월 열애를 공식적으로 인정했다.
+## 앞서 <미나:PER>와 <류필립:PER>은 <6월:DAT>부터 교제를 시작했다며, <8월:DAT> 열애를 공식적으로 인정했다.
+앞서	앞서	MAG	O
+_	_	_	O
+미나	미나	NNP	B-PER
+와	와	JC	O
+_	_	_	O
+류	류	XSN	B-PER
+필립	필립	NNP	I-PER
+은	은	JX	O
+_	_	_	O
+6	6	SN	B-DAT
+월	월	NNB	I-DAT
+부터	부터	JX	O
+_	_	_	O
+교제	교제	NNG	O
+를	를	JKO	O
+_	_	_	O
+시작	시작하	VV	O
+했	였	EP	O
+다며	다며	EC	O
+,	,	SP	O
+_	_	_	O
+8	8	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+열애	열애	NNG	O
+를	를	JKO	O
+_	_	_	O
+공식적	공식적	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+인정	인정하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## [통신원 수첩] 보라스+26세…3년 후 하퍼가 기다려지는 이유
+## [통신원 수첩] <보라스:PER>+<26세:NOH>…<3년:DUR> 후 <하퍼:PER>가 기다려지는 이유
+[	[	SS	O
+통신원	통신원	NNG	O
+_	_	_	O
+수첩	수첩	NNG	O
+]	]	SS	O
+_	_	_	O
+보라스+	보라스++	NNP+SW	O
+26	26	SN	B-NOH
+세	세	NNB	I-NOH
+…	…	SE	O
+3	3	SN	B-DUR
+년	년	NNB	I-DUR
+_	_	_	O
+후	후	NNG	O
+_	_	_	O
+하퍼	하퍼	NNP	B-PER
+가	가	JKS	O
+_	_	_	O
+기다려	기다리+어	VV+EC	O
+지	지	VX	O
+는	는	ETM	O
+_	_	_	O
+이유	이유	NNG	O
+

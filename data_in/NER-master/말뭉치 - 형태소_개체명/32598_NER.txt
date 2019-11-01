@@ -1,0 +1,577 @@
+## 1
+## 현재 사망자는 발생하지 않은 것으로 파악되고 있으며, 부상자는 10여 명인 것으로 추정된다.
+## 현재 사망자는 발생하지 않은 것으로 파악되고 있으며, 부상자는 <10여 명:NOH>인 것으로 추정된다.
+현재	현재	MAG	O
+_	_	_	O
+사망자	사망자	NNG	O
+는	는	JX	O
+_	_	_	O
+발생하	발생하	VV	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+은	은	ETM	O
+_	_	_	O
+것	것	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+파악되	파악되	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+으며	으며	EC	O
+,	,	SP	O
+_	_	_	O
+부상자	부상자	NNG	O
+는	는	JX	O
+_	_	_	O
+10	10	SN	B-NOH
+여	여	XSN	I-NOH
+_	_	_	I-NOH
+명	명	NNB	I-NOH
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+것	것	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+추정된다	추정되+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 2
+## 삼성은 7연패의 수렁에서 탈출했다.
+## <삼성:ORG>은 <7연패:NOH>의 수렁에서 탈출했다.
+삼성	삼성	NNP	B-ORG
+은	은	JX	O
+_	_	_	O
+7	7	SN	B-NOH
+연패	연패	NNG	I-NOH
+의	의	JKG	O
+_	_	_	O
+수렁	수렁	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+탈출	탈출하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## [인사]한국수자원공사(K-water)
+## [인사]<한국수자원공사:ORG>(<K-water:ORG>)
+[	[	SS	O
+인사	인사	NNG	O
+]	]	SS	O
+한국수자원공사	한국수자원공사	NNP	B-ORG
+(	(	SS	O
+K	K	SL	B-ORG
+-	-	SO	I-ORG
+water	water	SL	I-ORG
+)	)	SS	O
+
+## 4
+## 정부는 무슨 자격으로 일본과 협상을 맺었는가?”며 “법률적으로 무효다”라고 주장했다.
+## 정부는 무슨 자격으로 <일본:ORG>과 협상을 맺었는가?”며 “법률적으로 무효다”라고 주장했다.
+정부	정부	NNG	O
+는	는	JX	O
+_	_	_	O
+무슨	무슨	MM	O
+_	_	_	O
+자격	자격	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+일본	일본	NNP	B-ORG
+과	과	JKB	O
+_	_	_	O
+협상	협상	NNG	O
+을	을	JKO	O
+_	_	_	O
+맺	맺	VV	O
+었	었	EP	O
+는가	는가	EF	O
+?	?	SF	O
+”	”	SS	O
+며	며	EC	O
+_	_	_	O
+“	“	SS	O
+법률적	법률적	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+무효	무효+이	NNG+VCP	O
+다	다	EF	O
+”	”	SS	O
+라고	라고	JKQ	O
+_	_	_	O
+주장	주장하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## “둘 다 행복해질 수 있는 판결을 내리기란 어렵습니다.
+## “<둘:NOH> 다 행복해질 수 있는 판결을 내리기란 어렵습니다.
+“	“	SS	O
+둘	둘	NR	B-NOH
+_	_	_	O
+다	다	MAG	O
+_	_	_	O
+행복해	행복하+여	VA+EC	O
+질	지+ㄹ	VX+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+는	는	ETM	O
+_	_	_	O
+판결	판결	NNG	O
+을	을	JKO	O
+_	_	_	O
+내리	내리	VV	O
+기	기	ETN	O
+란	란	JX	O
+_	_	_	O
+어렵	어렵	VA	O
+습니다	습니다	EF	O
+.	.	SF	O
+
+## 6
+## 이런 열악한 상황 속에서도 VR관련 소프트웨어 기술 하나만으로 정상을 향해 돌진하고 있는 토종기업이 있어 주목받고 있다.
+## 이런 열악한 상황 속에서도 VR관련 소프트웨어 기술 <하나:NOH>만으로 정상을 향해 돌진하고 있는 토종기업이 있어 주목받고 있다.
+이런	이런	MM	O
+_	_	_	O
+열악한	열악하+ㄴ	VA+ETM	O
+_	_	_	O
+상황	상황	NNG	O
+_	_	_	O
+속	속	NNG	O
+에서	에서	JKB	O
+도	도	JX	O
+_	_	_	O
+VR	VR	SL	O
+관련	관련	NNG	O
+_	_	_	O
+소프트웨어	소프트웨어	NNG	O
+_	_	_	O
+기술	기술	NNG	O
+_	_	_	O
+하나	하나	NR	B-NOH
+만	만	JX	O
+으로	으로	JKB	O
+_	_	_	O
+정상	정상	NNG	O
+을	을	JKO	O
+_	_	_	O
+향해	향하+여	VV+EC	O
+_	_	_	O
+돌진하	돌진하	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+는	는	ETM	O
+_	_	_	O
+토종	토종	NNG	O
+기업	기업	NNG	O
+이	이	JKS	O
+_	_	_	O
+있	있	VA	O
+어	어	EC	O
+_	_	_	O
+주목	주목	NNG	O
+받	받	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 1%대 저금리 기조로 전세 품귀 현상이 빚어지고 집값도 감당할 수 없는 수준으로 올랐기 때문이다.
+## <1%:PNT>대 저금리 기조로 전세 품귀 현상이 빚어지고 집값도 감당할 수 없는 수준으로 올랐기 때문이다.
+1	1	SN	B-PNT
+%	%	SW	I-PNT
+대	대	XSN	O
+_	_	_	O
+저금리	저금리	NNG	O
+_	_	_	O
+기조	기조	NNG	O
+로	로	JKB	O
+_	_	_	O
+전세	전세	NNG	O
+_	_	_	O
+품귀	품귀	NNG	O
+_	_	_	O
+현상	현상	NNG	O
+이	이	JKS	O
+_	_	_	O
+빚어지	빚어지	VV	O
+고	고	EC	O
+_	_	_	O
+집값	집값	NNG	O
+도	도	JX	O
+_	_	_	O
+감당할	감당하+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+없	없	VA	O
+는	는	ETM	O
+_	_	_	O
+수준	수준	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+올	오르	VV	O
+랐	았	EP	O
+기	기	ETN	O
+_	_	_	O
+때문	때문	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 여자 -67kg급의 오혜리(27·춘천시청)도 여자선수 중에선 리우올림픽에 가장 근접해 있다.
+## 여자 <-67kg급:NOH>의 <오혜리:PER>(<27:NOH>·<춘천시청:ORG>)도 여자선수 중에선 <리우올림픽:POH>에 가장 근접해 있다.
+여자	여자	NNG	O
+_	_	_	O
+-	-	SO	B-NOH
+67	67	SN	I-NOH
+kg	kg	SL	I-NOH
+급	급	NNG	I-NOH
+의	의	JKG	O
+_	_	_	O
+오혜리	오혜리	NNP	B-PER
+(	(	SS	O
+27	27	SN	B-NOH
+·	·	SP	O
+춘천시청	춘천시청	NNP	B-ORG
+)	)	SS	O
+도	도	JX	O
+_	_	_	O
+여자	여자	NNG	O
+선수	선수	NNG	O
+_	_	_	O
+중	중	NNB	O
+에선	에서+ㄴ	JKB+JX	O
+_	_	_	O
+리우	리우	NNP	B-POH
+올림픽	올림픽	NNG	I-POH
+에	에	JKB	O
+_	_	_	O
+가장	가장	MAG	O
+_	_	_	O
+근접해	근접하+여	VV+EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 현대중공업의 과장급 이상 직원은 1만여 명이다.
+## <현대중공업:ORG>의 과장급 이상 직원은 <1만여 명:NOH>이다.
+현대중공업	현대중공업	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+과장	과장	NNG	O
+급	급	NNG	O
+_	_	_	O
+이상	이상	NNG	O
+_	_	_	O
+직원	직원	NNG	O
+은	은	JX	O
+_	_	_	O
+1	1	SN	B-NOH
+만	만	NR	I-NOH
+여	여	XSN	I-NOH
+_	_	_	I-NOH
+명	명	NNB	I-NOH
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 한상공은 지난 9일 조합 소속 8개 공제계약사(신용평가, 재무사항 등 일정 기준 고려해 위탁한 상조회사)와 함께 기존 납입금의 50%를 보상받는 방식과 별도로 ‘안심서비스’란 보상 방식을 마련했다.
+## <한상공:NOH>은 지난 <9일:DAT> 조합 소속 <8개:NOH> 공제계약사(신용평가, 재무사항 등 일정 기준 고려해 위탁한 상조회사)와 함께 기존 납입금의 <50%:PNT>를 보상받는 방식과 별도로 ‘안심서비스’란 보상 방식을 마련했다.
+한	한	NNP	B-NOH
+상공	상공	NNG	I-NOH
+은	은	JX	O
+_	_	_	O
+지난	지나+ㄴ	VV+ETM	O
+_	_	_	O
+9	9	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+조합	조합	NNG	O
+_	_	_	O
+소속	소속	NNG	O
+_	_	_	O
+8	8	SN	B-NOH
+개	개	NNB	I-NOH
+_	_	_	O
+공제	공제	NNG	O
+계약	계약	NNG	O
+사	사	XSN	O
+(	(	SS	O
+신용	신용	NNG	O
+평가	평가	NNG	O
+,	,	SP	O
+_	_	_	O
+재무	재무	NNG	O
+사항	사항	NNG	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+일정	일정	NNG	O
+_	_	_	O
+기준	기준	NNG	O
+_	_	_	O
+고려해	고려하+여	VV+EC	O
+_	_	_	O
+위탁한	위탁하+ㄴ	VV+ETM	O
+_	_	_	O
+상조	상조	NNG	O
+회사	회사	NNG	O
+)	)	SS	O
+와	와	JKB	O
+_	_	_	O
+함께	함께	MAG	O
+_	_	_	O
+기존	기존	NNG	O
+_	_	_	O
+납입금	납입금	NNG	O
+의	의	JKG	O
+_	_	_	O
+50	50	SN	B-PNT
+%	%	SW	I-PNT
+를	를	JKO	O
+_	_	_	O
+보상	보상	NNG	O
+받	받	VV	O
+는	는	ETM	O
+_	_	_	O
+방식	방식	NNG	O
+과	과	JC	O
+_	_	_	O
+별도	별도	NNG	O
+로	로	JKB	O
+_	_	_	O
+‘	‘	SS	O
+안심	안심	NNG	O
+서비스	서비스	NNG	O
+’	’+이	SS+VCP	O
+란	란	ETM	O
+_	_	_	O
+보상	보상	NNG	O
+_	_	_	O
+방식	방식	NNG	O
+을	을	JKO	O
+_	_	_	O
+마련	마련하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 송호창 “문재인 안철수 담판, 상당히 큰 성과가 있었다”
+## <송호창:PER> “<문재인:PER> <안철수:PER> 담판, 상당히 큰 성과가 있었다”
+송호창	송호창	NNP	B-PER
+_	_	_	O
+“	“	SS	O
+문재인	문재인	NNP	B-PER
+_	_	_	O
+안철수	안철수	NNP	B-PER
+_	_	_	O
+담판	담판	NNG	O
+,	,	SP	O
+_	_	_	O
+상당히	상당히	MAG	O
+_	_	_	O
+큰	크+ㄴ	VA+ETM	O
+_	_	_	O
+성과	성과	NNG	O
+가	가	JKS	O
+_	_	_	O
+있	있	VA	O
+었	었	EP	O
+다	다	EF	O
+”	”	SS	O
+
+## 12
+## 中과 다양한 채널로 협의… 美-日과도 ‘통일외교’ 착수
+## <中:ORG>과 다양한 채널로 협의… <美-日:ORG>과도 ‘통일외교’ 착수
+中	中	SH	B-ORG
+과	과	JC	O
+_	_	_	O
+다양한	다양하+ㄴ	VA+ETM	O
+_	_	_	O
+채널	채널	NNG	O
+로	로	JKB	O
+_	_	_	O
+협의	협의	NNG	O
+…	…	SE	O
+_	_	_	O
+美	美	SH	B-ORG
+-	-	SO	I-ORG
+日	日	SH	I-ORG
+과	과	JKB	O
+도	도	JX	O
+_	_	_	O
+‘	‘	SS	O
+통일	통일	NNG	O
+외교	외교	NNG	O
+’	’	SS	O
+_	_	_	O
+착수	착수	NNG	O
+
+## 13
+## 이번 이벤트는 금호타이어의 최고급 프리미엄 타이어인 마제스티 솔루스의 페이스리프트 신제품 및 엑스타 4X II 신제품 출시를 기념해 마련됐다.
+## 이번 이벤트는 금호타이어의 최고급 프리미엄 타이어인 마제스티 솔루스의 페이스리프트 신제품 및 <엑스타 4X II:POH> 신제품 출시를 기념해 마련됐다.
+이번	이번	NNG	O
+_	_	_	O
+이벤트	이벤트	NNG	O
+는	는	JX	O
+_	_	_	O
+금호타이어	금호타이어	NNP	O
+의	의	JKG	O
+_	_	_	O
+최고급	최고급	NNG	O
+_	_	_	O
+프리미엄	프리미엄	NNG	O
+_	_	_	O
+타이어	타이어	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+마제스티	마제스티	NNG	O
+_	_	_	O
+솔	솔	NNG	O
+루스	루스	NNP	O
+의	의	JKG	O
+_	_	_	O
+페이스리프트	페이스리프트	NNP	O
+_	_	_	O
+신제품	신제품	NNG	O
+_	_	_	O
+및	및	MAG	O
+_	_	_	O
+엑스	엑스	NNG	B-POH
+타	타	NNG	I-POH
+_	_	_	I-POH
+4	4	SN	I-POH
+X	X	SL	I-POH
+_	_	_	I-POH
+II	II	SL	I-POH
+_	_	_	O
+신제품	신제품	NNG	O
+_	_	_	O
+출시	출시	NNG	O
+를	를	JKO	O
+_	_	_	O
+기념해	기념하+여	VV+EC	O
+_	_	_	O
+마련	마련되	VV	O
+됐	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 14
+## 지난해까지 청소년 교사 기업인 공무원 군인 등 15만5000여 명이 연수에 참여했다.
+## 지난해까지 청소년 교사 기업인 공무원 군인 등 <15만5000여 명:NOH>이 연수에 참여했다.
+지난해	지난해	NNG	O
+까지	까지	JX	O
+_	_	_	O
+청소년	청소년	NNG	O
+_	_	_	O
+교사	교사	NNG	O
+_	_	_	O
+기업인	기업인	NNG	O
+_	_	_	O
+공무원	공무원	NNG	O
+_	_	_	O
+군인	군인	NNG	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+15	15	SN	B-NOH
+만	만	NR	I-NOH
+5000	5000	SN	I-NOH
+여	여	XSN	I-NOH
+_	_	_	I-NOH
+명	명	NNB	I-NOH
+이	이	JKS	O
+_	_	_	O
+연수	연수	NNG	O
+에	에	JKB	O
+_	_	_	O
+참여	참여하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 15
+## 950만 대폴크스바겐이 내년 전 세계에서 리콜할 디젤 차량 대수. 미국 환경보호청(EPA)은 9월 폴크스바겐의 디젤 차량에 배출가스 저감장치를 조작하는 소프트웨어가 설치돼 있다고 발표했다.
+## <950만 대:NOH><폴크스바겐:ORG>이 내년 전 세계에서 리콜할 디젤 차량 대수. <미국 환경보호청:ORG>(<EPA:ORG>)은 <9월:DAT> <폴크스바겐:ORG>의 디젤 차량에 배출가스 저감장치를 조작하는 소프트웨어가 설치돼 있다고 발표했다.
+950	950	SN	B-NOH
+만	만	NR	I-NOH
+_	_	_	I-NOH
+대	대	NNG	I-NOH
+폴크스바겐	폴크스바겐	NNP	B-ORG
+이	이	JKS	O
+_	_	_	O
+내년	내년	NNG	O
+_	_	_	O
+전	전	MM	O
+_	_	_	O
+세계	세계	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+리콜	리콜	NNG	O
+할	할	NNB	O
+_	_	_	O
+디젤	디젤	NNG	O
+_	_	_	O
+차량	차량	NNG	O
+_	_	_	O
+대수	대수	NNG	O
+.	.	SF	O
+_	_	_	O
+미국	미국	NNP	B-ORG
+_	_	_	I-ORG
+환경보호	환경보호	NNG	I-ORG
+청	청	XSN	I-ORG
+(	(	SS	O
+EPA	EPA	SL	B-ORG
+)	)	SS	O
+은	은	JX	O
+_	_	_	O
+9	9	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+폴크스바겐	폴크스바겐	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+디젤	디젤	NNG	O
+_	_	_	O
+차량	차량	NNG	O
+에	에	JKB	O
+_	_	_	O
+배출	배출	NNG	O
+가스	가스	NNG	O
+_	_	_	O
+저감	저감	NNG	O
+장치	장치	NNG	O
+를	를	JKO	O
+_	_	_	O
+조작하	조작하	VV	O
+는	는	ETM	O
+_	_	_	O
+소프트웨어	소프트웨어	NNG	O
+가	가	JKS	O
+_	_	_	O
+설치돼	설치되+어	VV+EC	O
+_	_	_	O
+있	있	VX	O
+다고	다고	EC	O
+_	_	_	O
+발표	발표하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+

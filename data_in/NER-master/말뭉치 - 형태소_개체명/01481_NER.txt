@@ -1,0 +1,504 @@
+## 1
+## 이어 시노트란스CSC(10.9%), MSC(7.6%), 홍콩계 선사 KLN(7.5%), 싱가포르 해운업체 APL(7.2%), 머스크(7.1%) 등이 상위권을 차지했다.
+## 이어 <시노트란스CSC:ORG>(<10.9%:PNT>), <MSC:ORG>(<7.6%:PNT>), <홍콩계 선사 KLN:ORG>(<7.5%:PNT>), <싱가포르 해운업체 APL:ORG>(<7.2%:PNT>), <머스크:ORG>(<7.1%:PNT>) 등이 상위권을 차지했다.
+이어	이어	MAG	O
+_	_	_	O
+시	시	NNG	B-ORG
+노트	노트	NNG	I-ORG
+란스	란스	NNP	I-ORG
+CSC	CSC	SL	I-ORG
+(	(	SS	O
+10.9	10.9	SN	B-PNT
+%	%	SW	I-PNT
+)	)	SS	O
+,	,	SP	O
+_	_	_	O
+MSC	MSC	SL	B-ORG
+(	(	SS	O
+7.6	7.6	SN	B-PNT
+%	%	SW	I-PNT
+)	)	SS	O
+,	,	SP	O
+_	_	_	O
+홍콩	홍콩	NNP	B-ORG
+계	계	XSN	I-ORG
+_	_	_	I-ORG
+선사	선사	NNG	I-ORG
+_	_	_	I-ORG
+KLN	KLN	SL	I-ORG
+(	(	SS	O
+7.5	7.5	SN	B-PNT
+%	%	SW	I-PNT
+)	)	SS	O
+,	,	SP	O
+_	_	_	O
+싱가포르	싱가포르	NNP	B-ORG
+_	_	_	I-ORG
+해운	해운	NNG	I-ORG
+업체	업체	NNG	I-ORG
+_	_	_	I-ORG
+APL	APL	SL	I-ORG
+(	(	SS	O
+7.2	7.2	SN	B-PNT
+%	%	SW	I-PNT
+)	)	SS	O
+,	,	SP	O
+_	_	_	O
+머스크	머스크	NNP	B-ORG
+(	(	SS	O
+7.1	7.1	SN	B-PNT
+%	%	SW	I-PNT
+)	)	SS	O
+_	_	_	O
+등	등	NNB	O
+이	이	JKS	O
+_	_	_	O
+상위권	상위권	NNG	O
+을	을	JKO	O
+_	_	_	O
+차지	차지하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 그러나 뒷좌석은 독일과 영국 프랑스 미국(이상 73∼98%)에 뒤떨어진다.
+## 그러나 뒷좌석은 <독일:ORG>과 <영국:ORG> <프랑스:ORG> <미국:ORG>(이상 <73:PNT>∼<98%:PNT>)에 뒤떨어진다.
+그러나	그러나	MAJ	O
+_	_	_	O
+뒷좌석	뒷좌석	NNG	O
+은	은	JX	O
+_	_	_	O
+독일	독일	NNP	B-ORG
+과	과	JC	O
+_	_	_	O
+영국	영국	NNP	B-ORG
+_	_	_	O
+프랑스	프랑스	NNP	B-ORG
+_	_	_	O
+미국	미국	NNP	B-ORG
+(	(	SS	O
+이상	이상	NNG	O
+_	_	_	O
+73	73	SN	B-PNT
+∼	∼	SO	O
+98	98	SN	B-PNT
+%	%	SW	I-PNT
+)	)	SS	O
+에	에	JKB	O
+_	_	_	O
+뒤떨어진다	뒤떨어지+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 3
+## 영하 9도에 풍랑주의보와 대설경보가 발효 중이다.광주와 전남 지역에도 최대 25㎝의 폭설내렸다.
+## <영하 9도:NOH>에 풍랑주의보와 대설경보가 발효 중이다.<광주:LOC>와 <전남:LOC> 지역에도 최대 <25㎝:NOH>의 폭설내렸다.
+영하	영하	NNG	B-NOH
+_	_	_	I-NOH
+9	9	SN	I-NOH
+도	도	NNB	I-NOH
+에	에	JKB	O
+_	_	_	O
+풍랑	풍랑	NNG	O
+주의보	주의보	NNG	O
+와	와	JC	O
+_	_	_	O
+대설	대설	NNG	O
+경보	경보	NNG	O
+가	가	JKS	O
+_	_	_	O
+발효	발효	NNG	O
+_	_	_	O
+중	중	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+광주	광주	NNP	B-LOC
+와	와	JC	O
+_	_	_	O
+전남	전남	NNP	B-LOC
+_	_	_	O
+지역	지역	NNG	O
+에	에	JKB	O
+도	도	JX	O
+_	_	_	O
+최대	최대	NNG	O
+_	_	_	O
+25	25	SN	B-NOH
+㎝	㎝	SW	I-NOH
+의	의	JKG	O
+_	_	_	O
+폭설	폭설	NNG	O
+내	내리	VV	O
+렸	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 승리도 같은날 지하철 사진을 SNS에 공개했다.
+## <승리:PER>도 같은날 지하철 사진을 SNS에 공개했다.
+승리	승리	NNG	B-PER
+도	도	JX	O
+_	_	_	O
+같	같	VA	O
+은	은	ETM	O
+날	날	NNG	O
+_	_	_	O
+지하철	지하철	NNG	O
+_	_	_	O
+사진	사진	NNG	O
+을	을	JKO	O
+_	_	_	O
+SNS	SNS	SL	O
+에	에	JKB	O
+_	_	_	O
+공개	공개하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 지인을 살해해 암매장하고 명의를 도용해 대출까지 받은 일당 11명이 경찰에 검거됐다.
+## 지인을 살해해 암매장하고 명의를 도용해 대출까지 받은 일당 <11명:NOH>이 경찰에 검거됐다.
+지인	지인	NNG	O
+을	을	JKO	O
+_	_	_	O
+살해해	살해하+여	VV+EC	O
+_	_	_	O
+암매장하	암매장하	VV	O
+고	고	EC	O
+_	_	_	O
+명의	명의	NNG	O
+를	를	JKO	O
+_	_	_	O
+도용해	도용하+여	VV+EC	O
+_	_	_	O
+대출	대출	NNG	O
+까지	까지	JX	O
+_	_	_	O
+받	받	VV	O
+은	은	ETM	O
+_	_	_	O
+일	일	NNG	O
+당	당	XSN	O
+_	_	_	O
+11	11	SN	B-NOH
+명	명	NNB	I-NOH
+이	이	JKS	O
+_	_	_	O
+경찰	경찰	NNG	O
+에	에	JKB	O
+_	_	_	O
+검거	검거되	VV	O
+됐	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 이번에 ‘아시아 베스트 레스토랑 50’에 이름을 올린 세 식당은 서울에서 모던 한식 트렌드를 주도하는 대표적인 곳들이다.
+## 이번에 ‘<아시아 베스트 레스토랑 50:POH>’에 이름을 올린 세 식당은 <서울:LOC>에서 모던 한식 트렌드를 주도하는 대표적인 곳들이다.
+이번	이번	NNG	O
+에	에	JKB	O
+_	_	_	O
+‘	‘	SS	O
+아시아	아시아	NNP	B-POH
+_	_	_	I-POH
+베스트	베스트	NNG	I-POH
+_	_	_	I-POH
+레스토랑	레스토랑	NNG	I-POH
+_	_	_	I-POH
+50	50	SN	I-POH
+’	’	SS	O
+에	에	JKB	O
+_	_	_	O
+이름	이름	NNG	O
+을	을	JKO	O
+_	_	_	O
+올린	올리+ㄴ	VV+ETM	O
+_	_	_	O
+세	세	NNB	O
+_	_	_	O
+식당	식당	NNG	O
+은	은	JX	O
+_	_	_	O
+서울	서울	NNP	B-LOC
+에서	에서	JKB	O
+_	_	_	O
+모던	모던	NNG	O
+_	_	_	O
+한식	한식	NNG	O
+_	_	_	O
+트렌드	트렌드	NNG	O
+를	를	JKO	O
+_	_	_	O
+주도하	주도하	VV	O
+는	는	ETM	O
+_	_	_	O
+대표적	대표적	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+곳	곳	NNG	O
+들	들	XSN	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 가수 등 전전 자수성가… 유럽 제2언론재벌/베를루스코니는 누구
+## 가수 등 전전 자수성가… <유럽:LOC> <제2:NOH>언론재벌/<베를루스코니:PER>는 누구
+가수	가수	NNG	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+전전	전전	MM	O
+_	_	_	O
+자수성가	자수성가	NNG	O
+…	…	SE	O
+_	_	_	O
+유럽	유럽	NNP	B-LOC
+_	_	_	O
+제	제	XPN	B-NOH
+2	2	SN	I-NOH
+언론	언론	NNG	O
+재벌	재벌	NNG	O
+/	/	SP	O
+베를루스코니	베를루스코니	NNP	B-PER
+는	는	JX	O
+_	_	_	O
+누구	누구	NP	O
+
+## 8
+## 민효린, '글래머러스한 몸매' 공개… 몽환적인 고혹미
+## <민효린:PER>, '글래머러스한 몸매' 공개… 몽환적인 고혹미
+민효	민효	NNP	B-PER
+린	린	NNP	I-PER
+,	,	SP	O
+_	_	_	O
+'	'	SS	O
+글래머러스	글래머러스	NNG	O
+한	한	NNP	O
+_	_	_	O
+몸매	몸매	NNG	O
+'	'	SS	O
+_	_	_	O
+공개	공개	NNG	O
+…	…	SE	O
+_	_	_	O
+몽환적	몽환적	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+고혹	고혹	NNG	O
+미	미	NNP	O
+
+## 9
+## 3∼4월 LPGA 경기는 이동거리가 많지 않았고 시차가 없는 지역에서만 경기했다.
+## <3∼4월:DUR> <LPGA:POH> 경기는 이동거리가 많지 않았고 시차가 없는 지역에서만 경기했다.
+3	3	SN	B-DUR
+∼	∼	SO	I-DUR
+4	4	SN	I-DUR
+월	월	NNB	I-DUR
+_	_	_	O
+LPGA	LPGA	SL	B-POH
+_	_	_	O
+경기	경기	NNG	O
+는	는	JX	O
+_	_	_	O
+이동	이동	NNG	O
+거리	거리	NNG	O
+가	가	JKS	O
+_	_	_	O
+많	많	VA	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+았	았	EP	O
+고	고	EC	O
+_	_	_	O
+시차	시차	NNG	O
+가	가	JKS	O
+_	_	_	O
+없	없	VA	O
+는	는	ETM	O
+_	_	_	O
+지역	지역	NNG	O
+에서	에서	JKB	O
+만	만	JX	O
+_	_	_	O
+경기	경기하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## ‘힐스테이트 평택 2차’ 차별화된 조경 환경으로 ‘각광’
+## ‘<힐스테이트 평택:LOC> <2차:NOH>’ 차별화된 조경 환경으로 ‘각광’
+‘	‘	SS	O
+힐스테이트	힐스테이트	NNP	B-LOC
+_	_	_	I-LOC
+평택	평택	NNP	I-LOC
+_	_	_	O
+2	2	SN	B-NOH
+차	차	NNB	I-NOH
+’	’	SS	O
+_	_	_	O
+차별화된	차별화되+ㄴ	VV+ETM	O
+_	_	_	O
+조경	조경	NNG	O
+_	_	_	O
+환경	환경	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+‘	‘	SS	O
+각광	각광	NNG	O
+’	’	SS	O
+
+## 11
+## 기장의 연봉은 1억7000만~1억8000만원에 달한다.
+## 기장의 연봉은 <1억7000만:MNY>~<1억8000만원:MNY>에 달한다.
+기장	기장	NNG	O
+의	의	JKG	O
+_	_	_	O
+연봉	연봉	NNG	O
+은	은	JX	O
+_	_	_	O
+1	1	SN	B-MNY
+억	억	NR	I-MNY
+7000	7000	SN	I-MNY
+만	만	NR	I-MNY
+~	~	SO	O
+1	1	SN	B-MNY
+억	억	NR	I-MNY
+8000	8000	SN	I-MNY
+만	만	NR	I-MNY
+원	원	NNB	I-MNY
+에	에	JKB	O
+_	_	_	O
+달한다	달하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 12
+## 북한 정권이 주민들의 인권 개선과 민생을 위해 써야 할 자원을 핵ㆍ미사일 개발에 전용하고 있기 때문이다.
+## <북한 정권:ORG>이 주민들의 인권 개선과 민생을 위해 써야 할 자원을 핵ㆍ미사일 개발에 전용하고 있기 때문이다.
+북한	북한	NNP	B-ORG
+_	_	_	I-ORG
+정권	정권	NNG	I-ORG
+이	이	JKS	O
+_	_	_	O
+주민	주민	NNG	O
+들	들	XSN	O
+의	의	JKG	O
+_	_	_	O
+인권	인권	NNG	O
+_	_	_	O
+개선	개선	NNG	O
+과	과	JC	O
+_	_	_	O
+민생	민생	NNG	O
+을	을	JKO	O
+_	_	_	O
+위해	위하+여	VV+EC	O
+_	_	_	O
+써야	+어야	+EC	O
+_	_	_	O
+할	하+ㄹ	VX+ETM	O
+_	_	_	O
+자원	자원	NNG	O
+을	을	JKO	O
+_	_	_	O
+핵	핵	NNG	O
+ㆍ	ㆍ	SP	O
+미사일	미사일	NNG	O
+_	_	_	O
+개발	개발	NNG	O
+에	에	JKB	O
+_	_	_	O
+전용하	전용하	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+기	기	ETN	O
+_	_	_	O
+때문	때문	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## 김 전 대통령의 운구 행렬은 26일 오후 4시 40분경 국립서울현충원 입구에 도착했다.
+## <김:PER> 전 대통령의 운구 행렬은 <26일:DAT> <오후 4시 40분:TIM>경 <국립서울현충원:LOC> 입구에 도착했다.
+김	김	NNP	B-PER
+_	_	_	O
+전	전	MM	O
+_	_	_	O
+대통령	대통령	NNG	O
+의	의	JKG	O
+_	_	_	O
+운구	운구	NNG	O
+_	_	_	O
+행렬	행렬	NNG	O
+은	은	JX	O
+_	_	_	O
+26	26	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+오후	오후	NNG	B-TIM
+_	_	_	I-TIM
+4	4	SN	I-TIM
+시	시	NNB	I-TIM
+_	_	_	I-TIM
+40	40	SN	I-TIM
+분	분	NNB	I-TIM
+경	경	XSN	O
+_	_	_	O
+국립서울현충원	국립서울현충원	NNP	B-LOC
+_	_	_	O
+입구	입구	NNG	O
+에	에	JKB	O
+_	_	_	O
+도착	도착하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 14
+## 박 내정자는 23일 오전 열리는 대우건설 주총에서 사내이사로 선임된 후 이사회에서 대표이사로 임명될 예정이다.
+## <박:PER> 내정자는 <23일:DAT> 오전 열리는 <대우건설 주총:ORG>에서 사내이사로 선임된 후 이사회에서 대표이사로 임명될 예정이다.
+박	박	NNP	B-PER
+_	_	_	O
+내정자	내정자	NNG	O
+는	는	JX	O
+_	_	_	O
+23	23	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+오전	오전	NNG	O
+_	_	_	O
+열리	열리	VV	O
+는	는	ETM	O
+_	_	_	O
+대우건설	대우건설	NNP	B-ORG
+_	_	_	I-ORG
+주총	주총	NNG	I-ORG
+에서	에서	JKB	O
+_	_	_	O
+사내	사내	NNG	O
+이사	이사	NNG	O
+로	로	JKB	O
+_	_	_	O
+선임된	선임되+ㄴ	VV+ETM	O
+_	_	_	O
+후	후	NNG	O
+_	_	_	O
+이사회	이사회	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+대표이사	대표이사	NNG	O
+로	로	JKB	O
+_	_	_	O
+임명될	임명되+ㄹ	VV+ETM	O
+_	_	_	O
+예정	예정	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+

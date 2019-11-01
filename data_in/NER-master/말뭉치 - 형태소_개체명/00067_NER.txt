@@ -1,0 +1,564 @@
+## 1
+## 최고액 건보료를 내는 직장인은 모두 3403명이었다.
+## 최고액 건보료를 내는 직장인은 모두 <3403명:NOH>이었다.
+최고액	최고액	NNG	O
+_	_	_	O
+건보	건보	NNG	O
+료	료	XSN	O
+를	를	JKO	O
+_	_	_	O
+내	내	VV	O
+는	는	ETM	O
+_	_	_	O
+직장인	직장인	NNG	O
+은	은	JX	O
+_	_	_	O
+모두	모두	MAG	O
+_	_	_	O
+3403	3403	SN	B-NOH
+명	명	NNB	I-NOH
+이	이	VCP	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 이중 삼성전자 소속 직장인이 151명으로 가장 많았고, 로펌 업계 1위인 김앤장 법률사무소 소속이 119명으로 2위를 기록했다.
+## 이중 <삼성전자:ORG> 소속 직장인이 <151명:NOH>으로 가장 많았고, 로펌 업계 <1위:NOH>인 <김앤장 법률사무소:ORG> 소속이 <119명:NOH>으로 <2위:NOH>를 기록했다.
+이	이	MM	O
+중	중	NNB	O
+_	_	_	O
+삼성전자	삼성전자	NNP	B-ORG
+_	_	_	O
+소속	소속	NNG	O
+_	_	_	O
+직장인	직장인	NNG	O
+이	이	JKS	O
+_	_	_	O
+151	151	SN	B-NOH
+명	명	NNB	I-NOH
+으로	으로	JKB	O
+_	_	_	O
+가장	가장	MAG	O
+_	_	_	O
+많	많	VA	O
+았	았	EP	O
+고	고	EC	O
+,	,	SP	O
+_	_	_	O
+로펌	로펌	NNG	O
+_	_	_	O
+업계	업계	NNG	O
+_	_	_	O
+1	1	SN	B-NOH
+위	위	NNB	I-NOH
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+김	김	NNP	B-ORG
+앤	앤	NNG	I-ORG
+장	장	XSN	I-ORG
+_	_	_	I-ORG
+법률	법률	NNG	I-ORG
+사무소	사무소	NNG	I-ORG
+_	_	_	O
+소속	소속	NNG	O
+이	이	JKS	O
+_	_	_	O
+119	119	SN	B-NOH
+명	명	NNB	I-NOH
+으로	으로	JKB	O
+_	_	_	O
+2	2	SN	B-NOH
+위	위	NNB	I-NOH
+를	를	JKO	O
+_	_	_	O
+기록	기록하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 안 장교는 “대위 시절 학비를 지원 받아 경영대학원 과정을 마쳤다”며 “배운 지식을 조직에 활용할 수도 있기 때문에 다들 권장하는 분위기”라고 말했다.
+## <안:PER> 장교는 “대위 시절 학비를 지원 받아 경영대학원 과정을 마쳤다”며 “배운 지식을 조직에 활용할 수도 있기 때문에 다들 권장하는 분위기”라고 말했다.
+안	안	NNP	B-PER
+_	_	_	O
+장교	장교	NNG	O
+는	는	JX	O
+_	_	_	O
+“	“	SS	O
+대위	대위	NNG	O
+_	_	_	O
+시절	시절	NNG	O
+_	_	_	O
+학비	학비	NNG	O
+를	를	JKO	O
+_	_	_	O
+지원	지원	NNG	O
+_	_	_	O
+받	받	VV	O
+아	아	EC	O
+_	_	_	O
+경영	경영	NNG	O
+대학원	대학원	NNG	O
+_	_	_	O
+과정	과정	NNG	O
+을	을	JKO	O
+_	_	_	O
+마	마치	VV	O
+쳤	었	EP	O
+다	다	EF	O
+”	”	SS	O
+며	며	EC	O
+_	_	_	O
+“	“	SS	O
+배운	배우+ㄴ	VV+ETM	O
+_	_	_	O
+지식	지식	NNG	O
+을	을	JKO	O
+_	_	_	O
+조직	조직	NNG	O
+에	에	JKB	O
+_	_	_	O
+활용할	활용하+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+도	도	JX	O
+_	_	_	O
+있	있	VA	O
+기	기	ETN	O
+_	_	_	O
+때문	때문	NNB	O
+에	에	JKB	O
+_	_	_	O
+다	다	NNG	O
+들	들	JX	O
+_	_	_	O
+권장하	권장하	VV	O
+는	는	ETM	O
+_	_	_	O
+분위기	분위기	NNG	O
+”	”	SS	O
+라고	라고	JKQ	O
+_	_	_	O
+말	말하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 오늘 날씨예보, 전국 흐리고 곳곳 소나기… 서울·인천 구름 많고 비
+## 오늘 날씨예보, 전국 흐리고 곳곳 소나기… <서울:LOC>·<인천:LOC> 구름 많고 비
+오늘	오늘	MAG	O
+_	_	_	O
+날씨	날씨	NNG	O
+예보	예보	NNG	O
+,	,	SP	O
+_	_	_	O
+전국	전국	NNG	O
+_	_	_	O
+흐리	흐리	VA	O
+고	고	EC	O
+_	_	_	O
+곳곳	곳곳	NNG	O
+_	_	_	O
+소나기	소나기	NNG	O
+…	…	SE	O
+_	_	_	O
+서울	서울	NNP	B-LOC
+·	·	SP	O
+인천	인천	NNP	B-LOC
+_	_	_	O
+구름	구름	NNG	O
+_	_	_	O
+많	많	VA	O
+고	고	EC	O
+_	_	_	O
+비	비	NNG	O
+
+## 5
+## ‘용팔이’는 현란한 액션 장면으로 초반부터 시청자의 시선을 모았다.
+## ‘<용팔이:POH>’는 현란한 액션 장면으로 초반부터 시청자의 시선을 모았다.
+‘	‘	SS	O
+용팔이	용팔이	NNP	B-POH
+’	’	SS	O
+는	는	JX	O
+_	_	_	O
+현란한	현란하+ㄴ	VA+ETM	O
+_	_	_	O
+액션	액션	NNG	O
+_	_	_	O
+장면	장면	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+초반	초반	NNG	O
+부터	부터	JX	O
+_	_	_	O
+시청자	시청자	NNG	O
+의	의	JKG	O
+_	_	_	O
+시선	시선	NNG	O
+을	을	JKO	O
+_	_	_	O
+모	모으	VV	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 견본주택은 인천 서구 경서동 950-22번지에 있다.
+## 견본주택은 <인천:LOC> <서구:LOC> <경서동 950-22번지:NOH>에 있다.
+견본	견본	NNG	O
+주택	주택	NNG	O
+은	은	JX	O
+_	_	_	O
+인천	인천	NNP	B-LOC
+_	_	_	O
+서	서	NNG	B-LOC
+구	구	NNG	I-LOC
+_	_	_	O
+경서동	경서동	NNP	B-NOH
+_	_	_	I-NOH
+950	950	SN	I-NOH
+-	-	SO	I-NOH
+22	22	SN	I-NOH
+번지	번지	NNG	I-NOH
+에	에	JKB	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 80kg, 187cm …‘세계의 대통령’ 오바마의 검진 기록보니
+## <80kg:NOH>, <187cm:NOH> …‘세계의 대통령’ <오바마:PER>의 검진 기록보니
+80	80	SN	B-NOH
+kg	kg	SL	I-NOH
+,	,	SP	O
+_	_	_	O
+187	187	SN	B-NOH
+cm	cm	SL	I-NOH
+_	_	_	O
+…	…	SE	O
+‘	‘	SS	O
+세계	세계	NNG	O
+의	의	JKG	O
+_	_	_	O
+대통령	대통령	NNG	O
+’	’	SS	O
+_	_	_	O
+오바마	오바마	NNP	B-PER
+의	의	JKG	O
+_	_	_	O
+검진	검진	NNG	O
+_	_	_	O
+기록	기록	NNG	O
+보	보	VV	O
+니	니	EC	O
+
+## 8
+## ‘택시 신주아 남편’ 소식을 접한 누리꾼들은 “택시 신주아 남편, 신주아 정말 복 받았다”,
+## ‘<택시:POH> <신주아:PER> 남편’ 소식을 접한 누리꾼들은 “<택시:POH> <신주아:PER> 남편, <신주아:PER> 정말 복 받았다”,
+‘	‘	SS	O
+택시	택시	NNG	B-POH
+_	_	_	O
+신주	신주	NNG	B-PER
+아	아	XSN	I-PER
+_	_	_	O
+남편	남편	NNG	O
+’	’	SS	O
+_	_	_	O
+소식	소식	NNG	O
+을	을	JKO	O
+_	_	_	O
+접한	접하+ㄴ	VV+ETM	O
+_	_	_	O
+누리	누리	NNG	O
+꾼	꾼	XSN	O
+들	들	XSN	O
+은	은	JX	O
+_	_	_	O
+“	“	SS	O
+택시	택시	NNG	B-POH
+_	_	_	O
+신주	신주	NNG	B-PER
+아	아	XSN	I-PER
+_	_	_	O
+남편	남편	NNG	O
+,	,	SP	O
+_	_	_	O
+신주	신주	NNG	B-PER
+아	아	XSN	I-PER
+_	_	_	O
+정말	정말	MAG	O
+_	_	_	O
+복	복	NNG	O
+_	_	_	O
+받	받	VV	O
+았	았	EP	O
+다	다	EF	O
+”	”	SS	O
+,	,	SP	O
+
+## 9
+## 메르스는 지난달 20일 중동을 여행하고 돌아온 60대 남성에서 첫 국내 발병이 확인됐다.
+## <메르스:POH>는 지난달 <20일:DAT> <중동:LOC>을 여행하고 돌아온 <60대:NOH> 남성에서 첫 국내 발병이 확인됐다.
+메르스	메르스	NNG	B-POH
+는	는	JX	O
+_	_	_	O
+지난달	지난달	NNG	O
+_	_	_	O
+20	20	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+중동	중동	NNP	B-LOC
+을	을	JKO	O
+_	_	_	O
+여행하	여행하	VV	O
+고	고	EC	O
+_	_	_	O
+돌아온	돌아오+ㄴ	VV+ETM	O
+_	_	_	O
+60	60	SN	B-NOH
+대	대	NNB	I-NOH
+_	_	_	O
+남성	남성	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+첫	첫	MM	O
+_	_	_	O
+국내	국내	NNG	O
+_	_	_	O
+발병	발병	NNG	O
+이	이	JKS	O
+_	_	_	O
+확인	확인되	VV	O
+됐	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 이들 공간은 현대카드 회원과 동반 2인까지 무료입장이 가능하다.
+## 이들 공간은 <현대카드:ORG> 회원과 동반 <2인:NOH>까지 무료입장이 가능하다.
+이	이	NP	O
+들	들	XSN	O
+_	_	_	O
+공간	공간	NNG	O
+은	은	JX	O
+_	_	_	O
+현대카드	현대카드	NNP	B-ORG
+_	_	_	O
+회원	회원	NNG	O
+과	과	JKB	O
+_	_	_	O
+동반	동반	NNG	O
+_	_	_	O
+2	2	SN	B-NOH
+인	인	NNG	I-NOH
+까지	까지	JX	O
+_	_	_	O
+무료입장	무료입장	NNG	O
+이	이	JKS	O
+_	_	_	O
+가능하	가능하	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 지린 성은 올해 북한, 러시아와 접경한 두만강 하류의 훈춘 시 팡촨(防川)에 ‘북-중-러 무비자 관광구설치를 추진하고 있다.
+## 지린 성은 올해 <북한:ORG>, <러시아:ORG>와 접경한 <두만강:LOC> 하류의 <훈춘 시:LOC> <팡촨:LOC>(<防川:LOC>)에 ‘<북-중-러 무비자 관광구:LOC>설치를 추진하고 있다.
+지린	지린	NNP	O
+_	_	_	O
+성	성	NNG	O
+은	은	JX	O
+_	_	_	O
+올해	올해	NNG	O
+_	_	_	O
+북한	북한	NNP	B-ORG
+,	,	SP	O
+_	_	_	O
+러시아	러시아	NNP	B-ORG
+와	와	JKB	O
+_	_	_	O
+접경한	접경하+ㄴ	VV+ETM	O
+_	_	_	O
+두만강	두만강	NNP	B-LOC
+_	_	_	O
+하류	하류	NNG	O
+의	의	JKG	O
+_	_	_	O
+훈춘	훈춘	NNP	B-LOC
+_	_	_	I-LOC
+시	시	NNG	I-LOC
+_	_	_	O
+팡촨	팡촨	NNG	B-LOC
+(	(	SS	O
+防川	防川	SH	B-LOC
+)	)	SS	O
+에	에	JKB	O
+_	_	_	O
+‘	‘	SS	O
+북	북	NNP	B-LOC
+-	-	SO	I-LOC
+중	중	NNP	I-LOC
+-	-	SO	I-LOC
+러	러	NNP	I-LOC
+_	_	_	I-LOC
+무	무	XPN	I-LOC
+비자	비자	NNG	I-LOC
+_	_	_	I-LOC
+관광	관광	NNG	I-LOC
+구	구	NNG	I-LOC
+설치	설치	NNG	O
+를	를	JKO	O
+_	_	_	O
+추진하	추진하	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 단지 가까이 SRT·GTX 복합환승역인 동탄역(예정)이 위치해 있다.
+## 단지 가까이 <SRT:POH>·<GTX:POH> 복합환승역인 <동탄역:LOC>(예정)이 위치해 있다.
+단지	단지	NNG	O
+_	_	_	O
+가까이	가까이	MAG	O
+_	_	_	O
+SRT	SRT	SL	B-POH
+·	·	SP	O
+GTX	GTX	SL	B-POH
+_	_	_	O
+복합	복합	NNG	O
+환승역	환승역	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+동탄역	동탄역	NNP	B-LOC
+(	(	SS	O
+예정	예정	NNG	O
+)	)	SS	O
+이	이	JKS	O
+_	_	_	O
+위치해	위치하+여	VV+EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## 청주시의 대표 농산물 브랜드인 ‘청원생명쌀’이 10년 연속 로하스(LOHAS) 인증을 받는다.
+## <청주시:LOC>의 대표 농산물 브랜드인 ‘<청원생명쌀:POH>’이 <10년:DUR> 연속 <로하스:POH>(<LOHAS:POH>) 인증을 받는다.
+청주시	청주시	NNP	B-LOC
+의	의	JKG	O
+_	_	_	O
+대표	대표	NNG	O
+_	_	_	O
+농산물	농산물	NNG	O
+_	_	_	O
+브랜드	브랜드	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+‘	‘	SS	O
+청원	청원	NNG	B-POH
+생명	생명	NNG	I-POH
+쌀	쌀	NNG	I-POH
+’	’	SS	O
+이	이	JKS	O
+_	_	_	O
+10	10	SN	B-DUR
+년	년	NNB	I-DUR
+_	_	_	O
+연속	연속	NNG	O
+_	_	_	O
+로하스	로하스	NNP	B-POH
+(	(	SS	O
+LOHAS	LOHAS	SL	B-POH
+)	)	SS	O
+_	_	_	O
+인증	인증	NNG	O
+을	을	JKO	O
+_	_	_	O
+받	받	VV	O
+는다	는다	EF	O
+.	.	SF	O
+
+## 14
+## 당락은 대개 0.5~1점 차이로 갈린다.
+## 당락은 대개 <0.5:NOH>~<1점:NOH> 차이로 갈린다.
+당락	당락	NNG	O
+은	은	JX	O
+_	_	_	O
+대개	대개	MAG	O
+_	_	_	O
+0.5	0.5	SN	B-NOH
+~	~	SO	O
+1	1	SN	B-NOH
+점	점	NNB	I-NOH
+_	_	_	O
+차이	차이	NNG	O
+로	로	JKB	O
+_	_	_	O
+갈린다	갈리+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 15
+## NC는 3승3무1패, 한화는 2승2무3패를 각각 마크했다.
+## <NC:ORG>는 <3승:NOH><3무:NOH><1패:NOH>, <한화:ORG>는 <2승:NOH><2무:NOH><3패:NOH>를 각각 마크했다.
+NC	NC	SL	B-ORG
+는	는	JX	O
+_	_	_	O
+3	3	SN	B-NOH
+승	승	NNB	I-NOH
+3	3	SN	B-NOH
+무	무	NNG	I-NOH
+1	1	SN	B-NOH
+패	패	NNB	I-NOH
+,	,	SP	O
+_	_	_	O
+한화	한화	NNP	B-ORG
+는	는	JX	O
+_	_	_	O
+2	2	SN	B-NOH
+승	승	NNB	I-NOH
+2	2	SN	B-NOH
+무	무	NNG	I-NOH
+3	3	SN	B-NOH
+패	패	NNB	I-NOH
+를	를	JKO	O
+_	_	_	O
+각각	각각	MAG	O
+_	_	_	O
+마크	마크하	VV	O
+했	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 16
+## NC는 경기 초반 상대 선발 이태양을 공략하며 크게 앞서나갔다.
+## <NC:ORG>는 경기 초반 상대 선발 <이태양:PER>을 공략하며 크게 앞서나갔다.
+NC	NC	SL	B-ORG
+는	는	JX	O
+_	_	_	O
+경기	경기	NNG	O
+_	_	_	O
+초반	초반	NNG	O
+_	_	_	O
+상대	상대	NNG	O
+_	_	_	O
+선발	선발	NNG	O
+_	_	_	O
+이태양	이태양	NNP	B-PER
+을	을	JKO	O
+_	_	_	O
+공략하	공략하	VV	O
+며	며	EC	O
+_	_	_	O
+크	크	VA	O
+게	게	EC	O
+_	_	_	O
+앞서	앞서+어	VV+EC	O
+나	나가	VX	O
+갔	았	EP	O
+다	다	EF	O
+.	.	SF	O
+

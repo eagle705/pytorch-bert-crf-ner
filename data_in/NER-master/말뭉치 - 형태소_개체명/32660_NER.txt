@@ -1,0 +1,550 @@
+## 1
+## 8월 전월세 거래량 12만5228건…전년比 6.8%↑
+## <8월:DAT> 전월세 거래량 <12만5228건:NOH>…전년比 <6.8%:PNT>↑
+8	8	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+전	전	NNG	O
+월세	월세	NNG	O
+_	_	_	O
+거래량	거래량	NNG	O
+_	_	_	O
+12	12	SN	B-NOH
+만	만	NR	I-NOH
+5228	5228	SN	I-NOH
+건	건	NNB	I-NOH
+…	…	SE	O
+전년	전년	NNG	O
+比	比	SH	O
+_	_	_	O
+6.8	6.8	SN	B-PNT
+%	%	SW	I-PNT
+↑	↑	SW	O
+
+## 2
+## 음악중심 씨스타, '애처럼 굴지마', '쉐이크 잇' 어떤 곡들인지 자세히 보면?
+## 음악중심 <씨스타:ORG>, '<애처럼 굴지마:POH>', '<쉐이크 잇:POH>' 어떤 곡들인지 자세히 보면?
+음악	음악	NNG	O
+중심	중심	NNG	O
+_	_	_	O
+씨스타	씨스타	NNP	B-ORG
+,	,	SP	O
+_	_	_	O
+'	'	SS	O
+애	애	NNG	B-POH
+처럼	처럼	JKB	I-POH
+_	_	_	I-POH
+굴	굴	VV	I-POH
+지	지	EC	I-POH
+마	말	VX	I-POH
+'	'	SS	O
+,	,	SP	O
+_	_	_	O
+'	'	SS	O
+쉐이크	쉐이크	NNG	B-POH
+_	_	_	I-POH
+잇	잇	NNG	I-POH
+'	'	SS	O
+_	_	_	O
+어떤	어떤	MM	O
+_	_	_	O
+곡	곡	NNG	O
+들	들	XSN	O
+인지	이+ㄴ지	VCP+EC	O
+_	_	_	O
+자세히	자세히	MAG	O
+_	_	_	O
+보	보	VV	O
+면	면	EF	O
+?	?	SF	O
+
+## 3
+## 중국, 유명 관광지 셀카봉 사용 금지… “금지된 곳, 또 어디 있나?”
+## <중국:ORG>, 유명 관광지 셀카봉 사용 금지… “금지된 곳, 또 어디 있나?”
+중국	중국	NNP	B-ORG
+,	,	SP	O
+_	_	_	O
+유명	유명	NNG	O
+_	_	_	O
+관광지	관광지	NNG	O
+_	_	_	O
+셀카봉	셀카봉	NNG	O
+_	_	_	O
+사용	사용	NNG	O
+_	_	_	O
+금지	금지	NNG	O
+…	…	SE	O
+_	_	_	O
+“	“	SS	O
+금지된	금지되+ㄴ	VV+ETM	O
+_	_	_	O
+곳	곳	NNG	O
+,	,	SP	O
+_	_	_	O
+또	또	MAG	O
+_	_	_	O
+어디	어디	NP	O
+_	_	_	O
+있	있	VA	O
+나	나	EF	O
+?	?	SF	O
+”	”	SS	O
+
+## 4
+## ‘MBC 연기대상’ 4관왕 박서준, 취중 수상소감 SNS에 올려… “자축하는 의미에서”
+## ‘<MBC 연기대상:POH>’ <4관왕:NOH> <박서준:PER>, 취중 수상소감 SNS에 올려… “자축하는 의미에서”
+‘	‘	SS	O
+MBC	MBC	SL	B-POH
+_	_	_	I-POH
+연기	연기	NNG	I-POH
+대상	대상	NNG	I-POH
+’	’	SS	O
+_	_	_	O
+4	4	SN	B-NOH
+관	관	NNG	I-NOH
+왕	왕	NNG	I-NOH
+_	_	_	O
+박서준	박서준	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+취중	취중	NNG	O
+_	_	_	O
+수상	수상	NNG	O
+소감	소감	NNG	O
+_	_	_	O
+SNS	SNS	SL	O
+에	에	JKB	O
+_	_	_	O
+올려	올리+어	VV+EC	O
+…	…	SE	O
+_	_	_	O
+“	“	SS	O
+자축하	자축하	VV	O
+는	는	ETM	O
+_	_	_	O
+의미	의미	NNG	O
+에서	에서	JKB	O
+”	”	SS	O
+
+## 5
+## 고산문화재단 이사장 영담 스님은 “조계종 수행 가풍을 선양하기 위해 ‘육조단경’으로 쌍계총림신서 발간을 시작했다”며 “계율정신으로 돌아가자는 취지에서 ‘범망경’을 음력 3월 쌍계사 보살계 법회에 맞춰 발간하고, 조계종 소의경전인 ‘금강경’을 풀이한 ‘금강경오가해’를 차례로 펴낼 것”이라고 했다.
+## <고산문화재단:ORG> 이사장 <영담:PER> 스님은 “<조계종:ORG> 수행 가풍을 선양하기 위해 ‘<육조단경:POH>’으로 <쌍계총림신서:POH> 발간을 시작했다”며 “계율정신으로 돌아가자는 취지에서 ‘<범망경:POH>’을 <음력 3월:DAT> <쌍계사 보살계 법회:POH>에 맞춰 발간하고, <조계종:ORG> 소의경전인 ‘<금강경:POH>’을 풀이한 ‘<금강경오가해:POH>’를 차례로 펴낼 것”이라고 했다.
+고산	고산	NNG	B-ORG
+문화	문화	NNG	I-ORG
+재단	재단	NNG	I-ORG
+_	_	_	O
+이사장	이사장	NNG	O
+_	_	_	O
+영담	영담	NNP	B-PER
+_	_	_	O
+스님	스님	NNG	O
+은	은	JX	O
+_	_	_	O
+“	“	SS	O
+조계종	조계종	NNG	B-ORG
+_	_	_	O
+수행	수행	NNG	O
+_	_	_	O
+가풍	가풍	NNG	O
+을	을	JKO	O
+_	_	_	O
+선양하	선양하	VV	O
+기	기	ETN	O
+_	_	_	O
+위해	위하+여	VV+EC	O
+_	_	_	O
+‘	‘	SS	O
+육조단경	육조단경	NNP	B-POH
+’	’	SS	O
+으로	으로	JKB	O
+_	_	_	O
+쌍계총림신	쌍계총림신	NNG	B-POH
+서	서	JKB	I-POH
+_	_	_	O
+발간	발간	NNG	O
+을	을	JKO	O
+_	_	_	O
+시작	시작하	VV	O
+했	였	EP	O
+다	다	EF	O
+”	”	SS	O
+며	며	EC	O
+_	_	_	O
+“	“	SS	O
+계율	계율	NNG	O
+정신	정신	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+돌아가	돌아가	VV	O
+자는	자는	ETM	O
+_	_	_	O
+취지	취지	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+‘	‘	SS	O
+범망경	범망경	NNG	B-POH
+’	’	SS	O
+을	을	JKO	O
+_	_	_	O
+음력	음력	NNG	B-DAT
+_	_	_	I-DAT
+3	3	SN	I-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+쌍계사	쌍계사	NNP	B-POH
+_	_	_	I-POH
+보살계	보살계	NNG	I-POH
+_	_	_	I-POH
+법회	법회	NNG	I-POH
+에	에	JKB	O
+_	_	_	O
+맞춰	맞추+어	VV+EC	O
+_	_	_	O
+발간하	발간하	VV	O
+고	고	EC	O
+,	,	SP	O
+_	_	_	O
+조계종	조계종	NNG	B-ORG
+_	_	_	O
+소의	소의	NNG	O
+경전	경전	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+‘	‘	SS	O
+금강경	금강경	NNP	B-POH
+’	’	SS	O
+을	을	JKO	O
+_	_	_	O
+풀이한	풀이하+ㄴ	VV+ETM	O
+_	_	_	O
+‘	‘	SS	O
+금강경오가해	금강경오가해	NNP	B-POH
+’	’	SS	O
+를	를	JKO	O
+_	_	_	O
+차례	차례	NNG	O
+로	로	JKB	O
+_	_	_	O
+펴낼	펴내+ㄹ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+”	”	SS	O
+이라고	이라고	JKQ	O
+_	_	_	O
+했	+였	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 싼타페 더 프라임 출시, 수 많은 힘든 첨단 기능…가격은 얼마?
+## <싼타페 더 프라임:POH> 출시, 수 많은 힘든 첨단 기능…가격은 얼마?
+싼타페	싼타페	NNG	B-POH
+_	_	_	I-POH
+더	더	MAG	I-POH
+_	_	_	I-POH
+프라임	프라임	NNG	I-POH
+_	_	_	O
+출시	출시	NNG	O
+,	,	SP	O
+_	_	_	O
+수	수	NNG	O
+_	_	_	O
+많	많	VA	O
+은	은	ETM	O
+_	_	_	O
+힘든	힘들+ㄴ	VA+ETM	O
+_	_	_	O
+첨단	첨단	NNG	O
+_	_	_	O
+기능	기능	NNG	O
+…	…	SE	O
+가격	가격	NNG	O
+은	은	JX	O
+_	_	_	O
+얼마	얼마	NNG	O
+?	?	SF	O
+
+## 7
+## 임종룡 금융위원장이 금융위원회가 2015년 이후 삼성그룹의 계열사 합병과 상장 등 지배구조 개편 과정에서 특혜를 줬다는 의혹을 전면 부인했다.
+## <임종룡:PER> 금융위원장이 <금융위원회:ORG>가 <2015년:DAT> 이후 <삼성그룹:ORG>의 계열사 합병과 상장 등 지배구조 개편 과정에서 특혜를 줬다는 의혹을 전면 부인했다.
+임종룡	임종룡	NNP	B-PER
+_	_	_	O
+금융	금융	NNG	O
+위원장	위원장	NNG	O
+이	이	JKS	O
+_	_	_	O
+금융	금융	NNG	B-ORG
+위원회	위원회	NNG	I-ORG
+가	가	JKS	O
+_	_	_	O
+2015	2015	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+이후	이후	NNG	O
+_	_	_	O
+삼성그룹	삼성그룹	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+계열사	계열사	NNG	O
+_	_	_	O
+합병	합병	NNG	O
+과	과	JC	O
+_	_	_	O
+상장	상장	NNG	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+지배	지배	NNG	O
+구조	구조	NNG	O
+_	_	_	O
+개편	개편	NNG	O
+_	_	_	O
+과정	과정	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+특혜	특혜	NNG	O
+를	를	JKO	O
+_	_	_	O
+줬	+었	+EP	O
+다는	다는	ETM	O
+_	_	_	O
+의혹	의혹	NNG	O
+을	을	JKO	O
+_	_	_	O
+전면	전면	NNG	O
+_	_	_	O
+부인	부인하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 서울시, ‘시민 문화캐스터’ 모집해 공연·전시 소개…역할 보니
+## <서울시:LOC>, ‘시민 문화캐스터’ 모집해 공연·전시 소개…역할 보니
+서울시	서울시	NNP	B-LOC
+,	,	SP	O
+_	_	_	O
+‘	‘	SS	O
+시민	시민	NNG	O
+_	_	_	O
+문화	문화	NNG	O
+캐스터	캐스터	NNG	O
+’	’	SS	O
+_	_	_	O
+모집해	모집하+여	VV+EC	O
+_	_	_	O
+공연	공연	NNG	O
+·	·	SP	O
+전시	전시	NNG	O
+_	_	_	O
+소개	소개	NNG	O
+…	…	SE	O
+역할	역할	NNG	O
+_	_	_	O
+보	보	VV	O
+니	니	EC	O
+
+## 9
+## 본계약은 7월경 맺을 예정이다.
+## 본계약은 <7월:DAT>경 맺을 예정이다.
+본계약	본계약	NNG	O
+은	은	JX	O
+_	_	_	O
+7	7	SN	B-DAT
+월	월	NNB	I-DAT
+경	경	XSN	O
+_	_	_	O
+맺	맺	VV	O
+을	을	ETM	O
+_	_	_	O
+예정	예정	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 서민갑부 (10일 오후 9시 50분)
+## <서민갑부:ORG> (<10일:DAT> <오후 9시 50분:TIM>)
+서민	서민	NNG	B-ORG
+갑부	갑부	NNG	I-ORG
+_	_	_	O
+(	(	SS	O
+10	10	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+오후	오후	NNG	B-TIM
+_	_	_	I-TIM
+9	9	SN	I-TIM
+시	시	NNB	I-TIM
+_	_	_	I-TIM
+50	50	SN	I-TIM
+분	분	NNB	I-TIM
+)	)	SS	O
+
+## 11
+## ‘마리텔’이 타예능과 다른 이유
+## ‘<마리텔:POH>’이 타예능과 다른 이유
+‘	‘	SS	O
+마리	마리	NNB	B-POH
+텔	텔	NNG	I-POH
+’	’	SS	O
+이	이	JKS	O
+_	_	_	O
+타	타	NNG	O
+예능	예능	NNG	O
+과	과	JC	O
+_	_	_	O
+다른	다른	MM	O
+_	_	_	O
+이유	이유	NNG	O
+
+## 12
+## 류승룡은 우연히 염력을 얻게 된 아버지 ‘석헌’ 역을, 심은경은 예상하지 못한 사건에 휘말리게 된 딸 ‘루미’ 역을 맡았다.
+## <류승룡:PER>은 우연히 염력을 얻게 된 아버지 ‘<석헌:PER>’ 역을, <심은경:PER>은 예상하지 못한 사건에 휘말리게 된 딸 ‘<루미:PER>’ 역을 맡았다.
+류승룡	류승룡	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+우연히	우연히	MAG	O
+_	_	_	O
+염력	염력	NNG	O
+을	을	JKO	O
+_	_	_	O
+얻	얻	VV	O
+게	게	EC	O
+_	_	_	O
+된	되+ㄴ	VV+ETM	O
+_	_	_	O
+아버지	아버지	NNG	O
+_	_	_	O
+‘	‘	SS	O
+석헌	석헌	NNP	B-PER
+’	’	SS	O
+_	_	_	O
+역	역	NNG	O
+을	을	JKO	O
+,	,	SP	O
+_	_	_	O
+심은경	심은경	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+예상하	예상하	VV	O
+지	지	EC	O
+_	_	_	O
+못한	못하+ㄴ	VX+ETM	O
+_	_	_	O
+사건	사건	NNG	O
+에	에	JKB	O
+_	_	_	O
+휘말리	휘말리	VV	O
+게	게	EC	O
+_	_	_	O
+된	되+ㄴ	VV+ETM	O
+_	_	_	O
+딸	딸	NNG	O
+_	_	_	O
+‘	‘	SS	O
+루미	루미	NNP	B-PER
+’	’	SS	O
+_	_	_	O
+역	역	NNG	O
+을	을	JKO	O
+_	_	_	O
+맡	맡	VV	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## 한편 이날 한은이 경제 전망을 또다시 크게 수정하면서 기존 전망치의 오류에 대한 비판도 커지고 있다.
+## 한편 이날 <한은:ORG>이 경제 전망을 또다시 크게 수정하면서 기존 전망치의 오류에 대한 비판도 커지고 있다.
+한편	한편	MAG	O
+_	_	_	O
+이날	이날	NNG	O
+_	_	_	O
+한은	한은	NNP	B-ORG
+이	이	JKS	O
+_	_	_	O
+경제	경제	NNG	O
+_	_	_	O
+전망	전망	NNG	O
+을	을	JKO	O
+_	_	_	O
+또다시	또다시	MAG	O
+_	_	_	O
+크	크	VA	O
+게	게	EC	O
+_	_	_	O
+수정하	수정하	VV	O
+면서	면서	EC	O
+_	_	_	O
+기존	기존	NNG	O
+_	_	_	O
+전망	전망	NNG	O
+치	치	XSN	O
+의	의	JKG	O
+_	_	_	O
+오류	오류	NNG	O
+에	에	JKB	O
+_	_	_	O
+대한	대하+ㄴ	VV+ETM	O
+_	_	_	O
+비판	비판	NNG	O
+도	도	JX	O
+_	_	_	O
+커지	커지	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 14
+## 3일 토론회의 최대 관심사는 ‘빅2’로 꼽히는 나경원(오른쪽 사진) 의원과 정진석(왼쪽) 당선자의 불꽃 튈 설전이다.
+## <3일:DAT> 토론회의 최대 관심사는 ‘<빅2:NOH>’로 꼽히는 <나경원:PER>(오른쪽 사진) 의원과 <정진석:PER>(왼쪽) 당선자의 불꽃 튈 설전이다.
+3	3	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+토론회	토론회	NNG	O
+의	의	JKG	O
+_	_	_	O
+최대	최대	NNG	O
+_	_	_	O
+관심사	관심사	NNG	O
+는	는	JX	O
+_	_	_	O
+‘	‘	SS	O
+빅	빅	NNG	B-NOH
+2	2	SN	I-NOH
+’	’	SS	O
+로	로	JKB	O
+_	_	_	O
+꼽히	꼽히	VV	O
+는	는	ETM	O
+_	_	_	O
+나경원	나경원	NNP	B-PER
+(	(	SS	O
+오른쪽	오른쪽	NNG	O
+_	_	_	O
+사진	사진	NNG	O
+)	)	SS	O
+_	_	_	O
+의원	의원	NNG	O
+과	과	JC	O
+_	_	_	O
+정진석	정진석	NNP	B-PER
+(	(	SS	O
+왼쪽	왼쪽	NNG	O
+)	)	SS	O
+_	_	_	O
+당선자	당선자	NNG	O
+의	의	JKG	O
+_	_	_	O
+불꽃	불꽃	NNG	O
+_	_	_	O
+튈	튀+ㄹ	VV+ETM	O
+_	_	_	O
+설전	설전	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+

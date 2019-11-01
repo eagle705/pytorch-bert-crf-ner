@@ -1,0 +1,514 @@
+## 1
+## 가희가 명품 복근을 공개했다.
+## <가희:PER>가 명품 복근을 공개했다.
+가희	가희	NNP	B-PER
+가	가	JKS	O
+_	_	_	O
+명품	명품	NNG	O
+_	_	_	O
+복근	복근	NNG	O
+을	을	JKO	O
+_	_	_	O
+공개	공개하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 26일 가희는 JTBC ‘냉장고를 부탁해’에 게스트로 출연해 입담을 자랑했다.
+## <26일:DAT> <가희:PER>는 <JTBC:POH> ‘<냉장고를 부탁해:POH>’에 게스트로 출연해 입담을 자랑했다.
+26	26	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+가희	가희	NNP	B-PER
+는	는	JX	O
+_	_	_	O
+JTBC	JTBC	SL	B-POH
+_	_	_	O
+‘	‘	SS	O
+냉장고	냉장고	NNG	B-POH
+를	를	JKO	I-POH
+_	_	_	I-POH
+부탁해	부탁하+여	VV+EF	I-POH
+’	’	SS	O
+에	에	JKB	O
+_	_	_	O
+게스트	게스트	NNG	O
+로	로	JKB	O
+_	_	_	O
+출연해	출연하+여	VV+EC	O
+_	_	_	O
+입담	입담	NNG	O
+을	을	JKO	O
+_	_	_	O
+자랑	자랑하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 이날 가희는 냉장고를 부탁한 이유에 대해 “싱글녀가 시크하게 먹을 수 있는 브런치가 있을까 싶어 부탁드렸다.
+## 이날 <가희:PER>는 냉장고를 부탁한 이유에 대해 “싱글녀가 시크하게 먹을 수 있는 브런치가 있을까 싶어 부탁드렸다.
+이날	이날	NNG	O
+_	_	_	O
+가희	가희	NNP	B-PER
+는	는	JX	O
+_	_	_	O
+냉장고	냉장고	NNG	O
+를	를	JKO	O
+_	_	_	O
+부탁한	부탁하+ㄴ	VV+ETM	O
+_	_	_	O
+이유	이유	NNG	O
+에	에	JKB	O
+_	_	_	O
+대해	대하+여	VV+EC	O
+_	_	_	O
+“	“	SS	O
+싱글	싱글	NNG	O
+녀	녀	XSN	O
+가	가	JKC	O
+_	_	_	O
+시크	시크	NNG	O
+하	하	XSV	O
+게	게	EC	O
+_	_	_	O
+먹	먹	VV	O
+을	을	ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+는	는	ETM	O
+_	_	_	O
+브런치	브런치	NNG	O
+가	가	JKS	O
+_	_	_	O
+있	있	VA	O
+을까	을까	EC	O
+_	_	_	O
+싶	싶	VX	O
+어	어	EC	O
+_	_	_	O
+부탁	부탁	NNG	O
+드	드리	XSV	O
+렸	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 강남 일반 의원서 지방이식 20대女 수술 이틀만에 ‘패혈성 쇼크’로 숨져
+## <강남:LOC> 일반 의원서 지방이식 <20대:NOH>女 수술 이틀만에 ‘패혈성 쇼크’로 숨져
+강남	강남	NNP	B-LOC
+_	_	_	O
+일반	일반	NNG	O
+_	_	_	O
+의원	의원	NNG	O
+서	서	NNP	O
+_	_	_	O
+지방	지방	NNG	O
+이식	이식	NNG	O
+_	_	_	O
+20	20	SN	B-NOH
+대	대	NNB	I-NOH
+女	女	SH	O
+_	_	_	O
+수술	수술	NNG	O
+_	_	_	O
+이틀	이틀	NNG	O
+만	만	NNB	O
+에	에	JKB	O
+_	_	_	O
+‘	‘	SS	O
+패혈성	패혈성	NNG	O
+_	_	_	O
+쇼크	쇼크	NNG	O
+’	’	SS	O
+로	로	JKB	O
+_	_	_	O
+숨져	숨지+어	VV+EC	O
+
+## 5
+## 블링컨 부장관은 19일 서울로 와 추가 논의를 한 뒤 20일 베이징을 방문해 미중 협의를 갖는다.
+## <블링컨:PER> 부장관은 <19일:DAT> <서울:LOC>로 와 추가 논의를 한 뒤 <20일:DAT> <베이징:LOC>을 방문해 미중 협의를 갖는다.
+블	블	NNG	B-PER
+링컨	링컨	NNP	I-PER
+_	_	_	O
+부	부	NNG	O
+장관	장관	NNG	O
+은	은	JX	O
+_	_	_	O
+19	19	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+서울	서울	NNP	B-LOC
+로	로	JKB	O
+_	_	_	O
+와	와	JC	O
+_	_	_	O
+추가	추가	NNG	O
+_	_	_	O
+논의	논의	NNG	O
+를	를	JKO	O
+_	_	_	O
+한	하+ㄴ	VV+ETM	O
+_	_	_	O
+뒤	뒤	NNG	O
+_	_	_	O
+20	20	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+베이징	베이징	NNP	B-LOC
+을	을	JKO	O
+_	_	_	O
+방문해	방문하+여	VV+EC	O
+_	_	_	O
+미	미	NNP	O
+중	중	NNP	O
+_	_	_	O
+협의	협의	NNG	O
+를	를	JKO	O
+_	_	_	O
+갖	갖	VV	O
+는다	는다	EF	O
+.	.	SF	O
+
+## 6
+## 고등학교 때부터 지도해주고 계시는 조범수 프로님이 오셨다.
+## 고등학교 때부터 지도해주고 계시는 <조범수:PER> 프로님이 오셨다.
+고등학교	고등학교	NNG	O
+_	_	_	O
+때	때	NNG	O
+부터	부터	JX	O
+_	_	_	O
+지도해	지도하+여	VV+EC	O
+주	주	VX	O
+고	고	EC	O
+_	_	_	O
+계시	계시	VX	O
+는	는	ETM	O
+_	_	_	O
+조범수	조범수	NNP	B-PER
+_	_	_	O
+프로	프로	NNG	O
+님	님	XSN	O
+이	이	JKS	O
+_	_	_	O
+오	오+시	VV+EP	O
+셨	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## LG 양상문 감독은 “도핑테스트 횟수를 늘려야한다”고 주장했다.
+## <LG:ORG> <양상문:PER> 감독은 “도핑테스트 횟수를 늘려야한다”고 주장했다.
+LG	LG	SL	B-ORG
+_	_	_	O
+양상문	양상문	NNP	B-PER
+_	_	_	O
+감독	감독	NNG	O
+은	은	JX	O
+_	_	_	O
+“	“	SS	O
+도핑	도핑	NNG	O
+테스트	테스트	NNG	O
+_	_	_	O
+횟수	횟수	NNG	O
+를	를	JKO	O
+_	_	_	O
+늘려야	늘리+어야	VV+EC	O
+한다	하+ㄴ다	VX+EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+주장	주장하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 오방낭은 음양오행의 원리를 담은 전통 주머니로 우주와 인간을 이어주며 복을 기원하는 의미를 담고 있다고 한다.
+## <오방낭:POH>은 음양오행의 원리를 담은 전통 주머니로 우주와 인간을 이어주며 복을 기원하는 의미를 담고 있다고 한다.
+오방낭	오방낭	NNG	B-POH
+은	은	JX	O
+_	_	_	O
+음양오행	음양오행	NNG	O
+의	의	JKG	O
+_	_	_	O
+원리	원리	NNG	O
+를	를	JKO	O
+_	_	_	O
+담	담	VV	O
+은	은	ETM	O
+_	_	_	O
+전통	전통	NNG	O
+_	_	_	O
+주머니	주머니	NNG	O
+로	로	JKB	O
+_	_	_	O
+우주	우주	NNG	O
+와	와	JC	O
+_	_	_	O
+인간	인간	NNG	O
+을	을	JKO	O
+_	_	_	O
+이	잇	VV	O
+어	어	EC	O
+주	주	VX	O
+며	며	EC	O
+_	_	_	O
+복	복	NNG	O
+을	을	JKO	O
+_	_	_	O
+기원하	기원하	VV	O
+는	는	ETM	O
+_	_	_	O
+의미	의미	NNG	O
+를	를	JKO	O
+_	_	_	O
+담	담	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다고	다고	EC	O
+_	_	_	O
+한다	하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 9
+## [최순실 7차 청문회] 우병우·조윤선 등 빠진 마지막 ‘맹탕’ 청문회 시작
+## [<최순실:PER> <7차:NOH> 청문회] <우병우:PER>·<조윤선:PER> 등 빠진 마지막 ‘맹탕’ 청문회 시작
+[	[	SS	O
+최순실	최순실	NNP	B-PER
+_	_	_	O
+7	7	SN	B-NOH
+차	차	NNB	I-NOH
+_	_	_	O
+청문회	청문회	NNG	O
+]	]	SS	O
+_	_	_	O
+우병우	우병우	NNP	B-PER
+·	·	SP	O
+조윤선	조윤선	NNP	B-PER
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+빠진	빠지+ㄴ	VV+ETM	O
+_	_	_	O
+마지막	마지막	NNG	O
+_	_	_	O
+‘	‘	SS	O
+맹탕	맹탕	NNG	O
+’	’	SS	O
+_	_	_	O
+청문회	청문회	NNG	O
+_	_	_	O
+시작	시작	NNG	O
+
+## 10
+## 북한의 핵과 미사일 위협이 갈수록 고조되고 있다.
+## <북한:ORG>의 핵과 미사일 위협이 갈수록 고조되고 있다.
+북한	북한	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+핵	핵	NNG	O
+과	과	JC	O
+_	_	_	O
+미사일	미사일	NNG	O
+_	_	_	O
+위협	위협	NNG	O
+이	이	JKS	O
+_	_	_	O
+갈수록	갈수록	MAG	O
+_	_	_	O
+고조되	고조되	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 고든은 올 시즌 처음 한국무대에 발을 들여놓은 선수다.
+## <고든:PER>은 올 시즌 처음 <한국:LOC>무대에 발을 들여놓은 선수다.
+고든은	고든은	NNP	O
+_	_	_	O
+올	올	NNG	O
+_	_	_	O
+시즌	시즌	NNG	O
+_	_	_	O
+처음	처음	NNG	O
+_	_	_	O
+한국	한국	NNP	B-LOC
+무대	무대	NNG	O
+에	에	JKB	O
+_	_	_	O
+발	발	NNG	O
+을	을	JKO	O
+_	_	_	O
+들여놓	들여놓	VV	O
+은	은	ETM	O
+_	_	_	O
+선수	선수+이	NNG+VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 그동안 남자프로농구에선 시즌 개막 이전 감독의 신뢰를 받지 못한 채 기량을 제대로 발휘해보지도 못하고 짐을 싼 선수들이 수두룩했다.
+## 그동안 <남자프로농구:ORG>에선 시즌 개막 이전 감독의 신뢰를 받지 못한 채 기량을 제대로 발휘해보지도 못하고 짐을 싼 선수들이 수두룩했다.
+그동안	그동안	NNG	O
+_	_	_	O
+남자	남자	NNG	B-ORG
+프로	프로	NNG	I-ORG
+농구	농구	NNG	I-ORG
+에선	에서+ㄴ	JKB+JX	O
+_	_	_	O
+시즌	시즌	NNG	O
+_	_	_	O
+개막	개막	NNG	O
+_	_	_	O
+이전	이전	NNG	O
+_	_	_	O
+감독	감독	NNG	O
+의	의	JKG	O
+_	_	_	O
+신뢰	신뢰	NNG	O
+를	를	JKO	O
+_	_	_	O
+받	받	VV	O
+지	지	EC	O
+_	_	_	O
+못한	못하+ㄴ	VX+ETM	O
+_	_	_	O
+채	채	NNB	O
+_	_	_	O
+기량	기량	NNG	O
+을	을	JKO	O
+_	_	_	O
+제대로	제대로	MAG	O
+_	_	_	O
+발휘해	발휘하+여	VV+EC	O
+보	보	VX	O
+지	지	EC	O
+도	도	JX	O
+_	_	_	O
+못하	못하	VX	O
+고	고	EC	O
+_	_	_	O
+짐	짐	NNG	O
+을	을	JKO	O
+_	_	_	O
+싼	싸+ㄴ	VV+ETM	O
+_	_	_	O
+선수	선수	NNG	O
+들	들	XSN	O
+이	이	JKS	O
+_	_	_	O
+수두룩	수두룩하	VA	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## 월출산 바람폭포길은 천황사에서 통천문으로 이어지는 바람계곡의 중심에 있어 마치 이 폭포를 중심으로 좌우 능선인 장군봉·사자봉 등이 성채를 이룬 듯하다.
+## <월출산 바람폭포길:LOC>은 <천황사:LOC>에서 <통천문:LOC>으로 이어지는 바람계곡의 중심에 있어 마치 이 폭포를 중심으로 좌우 능선인 <장군봉:LOC>·<사자봉:LOC> 등이 성채를 이룬 듯하다.
+월출산	월출산	NNP	B-LOC
+_	_	_	I-LOC
+바람폭포	바람폭포	NNP	I-LOC
+길	길	NNG	I-LOC
+은	은	JX	O
+_	_	_	O
+천황사	천황사	NNP	B-LOC
+에서	에서	JKB	O
+_	_	_	O
+통	통	NNG	B-LOC
+천문	천문	NNG	I-LOC
+으로	으로	JKB	O
+_	_	_	O
+이어지	이어지	VV	O
+는	는	ETM	O
+_	_	_	O
+바람계곡	바람계곡	NNP	O
+의	의	JKG	O
+_	_	_	O
+중심	중심	NNG	O
+에	에	JKB	O
+_	_	_	O
+있	있	VA	O
+어	어	EC	O
+_	_	_	O
+마치	마치	MAG	O
+_	_	_	O
+이	이	MM	O
+_	_	_	O
+폭포	폭포	NNG	O
+를	를	JKO	O
+_	_	_	O
+중심	중심	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+좌우	좌우	NNG	O
+_	_	_	O
+능선	능선	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+장군봉	장군봉	NNP	B-LOC
+·	·	SP	O
+사자봉	사자봉	NNP	B-LOC
+_	_	_	O
+등	등	NNB	O
+이	이	JKS	O
+_	_	_	O
+성채	성채	NNG	O
+를	를	JKO	O
+_	_	_	O
+이룬	이루+ㄴ	VV+ETM	O
+_	_	_	O
+듯하	듯하	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 14
+## 한편 도심에서 가족과 함께 연휴를 즐길 수 있는 탐방로로는 ▶북한산 우이령길 ▶계룡산 갑사길이 있다.
+## 한편 도심에서 가족과 함께 연휴를 즐길 수 있는 탐방로로는 ▶<북한산 우이령길:LOC> ▶<계룡산 갑사길:LOC>이 있다.
+한편	한편	MAG	O
+_	_	_	O
+도심	도심	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+가족	가족	NNG	O
+과	과	JKB	O
+_	_	_	O
+함께	함께	MAG	O
+_	_	_	O
+연휴	연휴	NNG	O
+를	를	JKO	O
+_	_	_	O
+즐길	즐기+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+는	는	ETM	O
+_	_	_	O
+탐방	탐방	NNG	O
+로	로	XSN	O
+로	로	JKB	O
+는	는	JX	O
+_	_	_	O
+▶	▶	SW	O
+북한산	북한산	NNP	B-LOC
+_	_	_	I-LOC
+우이령	우이령	NNP	I-LOC
+길	길	NNG	I-LOC
+_	_	_	O
+▶	▶	SW	O
+계룡산	계룡산	NNP	B-LOC
+_	_	_	I-LOC
+갑사	갑사	NNP	I-LOC
+길이	길이	NNG	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+.	.	SF	O
+

@@ -1,0 +1,464 @@
+## 1
+## 미국 FDA는 일반적으로 품목허가 신청서 접수 후 60일간의 예비심사를 거쳐 제출된 자료 수용 여부를 평가한다.
+## <미국 FDA:ORG>는 일반적으로 품목허가 신청서 접수 후 <60일간:DUR>의 예비심사를 거쳐 제출된 자료 수용 여부를 평가한다.
+미국	미국	NNP	B-ORG
+_	_	_	I-ORG
+FDA	FDA	SL	I-ORG
+는	는	JX	O
+_	_	_	O
+일반적	일반적	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+품목	품목	NNG	O
+허가	허가	NNG	O
+_	_	_	O
+신청서	신청서	NNG	O
+_	_	_	O
+접수	접수	NNG	O
+_	_	_	O
+후	후	NNG	O
+_	_	_	O
+60	60	SN	B-DUR
+일	일	NNB	I-DUR
+간	간	XSN	I-DUR
+의	의	JKG	O
+_	_	_	O
+예비	예비	NNG	O
+심사	심사	NNG	O
+를	를	JKO	O
+_	_	_	O
+거쳐	거치+어	VV+EC	O
+_	_	_	O
+제출된	제출되+ㄴ	VV+ETM	O
+_	_	_	O
+자료	자료	NNG	O
+_	_	_	O
+수용	수용	NNG	O
+_	_	_	O
+여부	여부	NNG	O
+를	를	JKO	O
+_	_	_	O
+평가한다	평가하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 2
+## 검찰은 11월26일 자본시장법 유사수신행위법 위반, 사기 등의 혐의로 이 회사 대표이사 이모(50)씨와 경영지원 부사장 범모(45)씨를 구속 기소하고 영업부문 부사장 박모(48)씨를 불구속 기소했다.
+## 검찰은 <11월26일:DAT> 자본시장법 유사수신행위법 위반, 사기 등의 혐의로 이 회사 대표이사 <이모:PER>(<50:NOH>)씨와 경영지원 부사장 <범모:PER>(<45:NOH>)씨를 구속 기소하고 영업부문 부사장 <박모:PER>(<48:NOH>)씨를 불구속 기소했다.
+검찰	검찰	NNG	O
+은	은	JX	O
+_	_	_	O
+11	11	SN	B-DAT
+월	월	NNB	I-DAT
+26	26	SN	I-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+자본시장	자본시장	NNG	O
+법	법	NNG	O
+_	_	_	O
+유사	유사	NNG	O
+수신	수신	NNG	O
+행위법	행위법	NNG	O
+_	_	_	O
+위반	위반	NNG	O
+,	,	SP	O
+_	_	_	O
+사기	사기	NNG	O
+_	_	_	O
+등	등	NNB	O
+의	의	JKG	O
+_	_	_	O
+혐의	혐의	NNG	O
+로	로	JKB	O
+_	_	_	O
+이	이	MM	O
+_	_	_	O
+회사	회사	NNG	O
+_	_	_	O
+대표	대표	NNG	O
+이사	이사	NNG	O
+_	_	_	O
+이모	이모	NNG	B-PER
+(	(	SS	O
+50	50	SN	B-NOH
+)	)	SS	O
+씨	씨	NNB	O
+와	와	JC	O
+_	_	_	O
+경영	경영	NNG	O
+지원	지원	NNG	O
+_	_	_	O
+부사장	부사장	NNG	O
+_	_	_	O
+범	범	XPN	B-PER
+모	모	NNB	I-PER
+(	(	SS	O
+45	45	SN	B-NOH
+)	)	SS	O
+씨	씨	NNB	O
+를	를	JKO	O
+_	_	_	O
+구속	구속	NNG	O
+_	_	_	O
+기소하	기소하	VV	O
+고	고	EC	O
+_	_	_	O
+영업	영업	NNG	O
+부문	부문	NNG	O
+_	_	_	O
+부사장	부사장	NNG	O
+_	_	_	O
+박	박	NNP	B-PER
+모	모	NP	I-PER
+(	(	SS	O
+48	48	SN	B-NOH
+)	)	SS	O
+씨	씨	NNB	O
+를	를	JKO	O
+_	_	_	O
+불구속	불구속	NNG	O
+_	_	_	O
+기소	기소하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## Pilgrim Stakes-Gr.3 출전마 가운데서도 가장 낮은 축에 들었다.
+## <Pilgrim Stakes-Gr.3:POH> 출전마 가운데서도 가장 낮은 축에 들었다.
+Pilgrim	Pilgrim	SL	B-POH
+_	_	_	I-POH
+Stakes	Stakes	SL	I-POH
+-	-	SO	I-POH
+Gr	Gr	SL	I-POH
+.3	.3	SN	I-POH
+_	_	_	O
+출전마	출전마	NNG	O
+_	_	_	O
+가운데	가운데	NNG	O
+서	서	JKB	O
+도	도	JX	O
+_	_	_	O
+가장	가장	MAG	O
+_	_	_	O
+낮	낮	VA	O
+은	은	ETM	O
+_	_	_	O
+축	축	NNB	O
+에	에	JKB	O
+_	_	_	O
+들	들	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 1일 방송된 KBS2 '해피투게더3'는 '연예계 오누이' 특집으로 꾸며졌다.
+## <1일:DAT> 방송된 <KBS2:ORG> '<해피투게더3:POH>'는 '연예계 오누이' 특집으로 꾸며졌다.
+1	1	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+방송된	방송되+ㄴ	VV+ETM	O
+_	_	_	O
+KBS	KBS	SL	B-ORG
+2	2	SN	I-ORG
+_	_	_	O
+'	'	SS	O
+해피투게더	해피투게더	NNP	B-POH
+3	3	SN	I-POH
+'	'	SS	O
+는	는	JX	O
+_	_	_	O
+'	'	SS	O
+연예계	연예계	NNG	O
+_	_	_	O
+오누이	오누이	NNG	O
+'	'	SS	O
+_	_	_	O
+특집	특집	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+꾸며	꾸미+어+지	VV+EC+VX	O
+졌	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 이 밖에도 포화지방산, 단순불포화지방산, 다중불포화지방산 등 다양한 지방산 30여 종을 함유하고 있어 건강한 식생활에 필요한 모든 영양소를 함유하고 있는 것이나 마찬가지다.
+## 이 밖에도 포화지방산, 단순불포화지방산, 다중불포화지방산 등 다양한 지방산 <30여:NOH> 종을 함유하고 있어 건강한 식생활에 필요한 모든 영양소를 함유하고 있는 것이나 마찬가지다.
+이	이	MM	O
+_	_	_	O
+밖	밖	NNG	O
+에	에	JKB	O
+도	도	JX	O
+_	_	_	O
+포화지방산	포화지방산	NNG	O
+,	,	SP	O
+_	_	_	O
+단순	단순	NNG	O
+불포화	불포화	NNG	O
+지방산	지방산	NNG	O
+,	,	SP	O
+_	_	_	O
+다중	다중	NNG	O
+불포화	불포화	NNG	O
+지방산	지방산	NNG	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+다양한	다양하+ㄴ	VA+ETM	O
+_	_	_	O
+지방산	지방산	NNG	O
+_	_	_	O
+30	30	SN	B-NOH
+여	여	XSN	I-NOH
+_	_	_	O
+종	종	NNG	O
+을	을	JKO	O
+_	_	_	O
+함유하	함유하	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+어	어	EC	O
+_	_	_	O
+건강한	건강하+ㄴ	VA+ETM	O
+_	_	_	O
+식생활	식생활	NNG	O
+에	에	JKB	O
+_	_	_	O
+필요한	필요하+ㄴ	VA+ETM	O
+_	_	_	O
+모든	모든	MM	O
+_	_	_	O
+영양소	영양소	NNG	O
+를	를	JKO	O
+_	_	_	O
+함유하	함유하	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+는	는	ETM	O
+_	_	_	O
+것	것	NNB	O
+이나	이나	JC	O
+_	_	_	O
+마찬가지	마찬가지+이	NNG+VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 정준일 ‘플라스틱’ , SBS서 ‘엽세적’이라는 사유로 방송 불가 판정
+## <정준일:PER> ‘<플라스틱:POH>’ , <SBS:ORG>서 ‘엽세적’이라는 사유로 방송 불가 판정
+정준일	정준일	NNP	B-PER
+_	_	_	O
+‘	‘	SS	O
+플라스틱	플라스틱	NNG	B-POH
+’	’	SS	O
+_	_	_	O
+,	,	SP	O
+_	_	_	O
+SBS	SBS	SL	B-ORG
+서	서	JKB	O
+_	_	_	O
+‘	‘	SS	O
+엽	엽	NNG	O
+세적	세적	NNG	O
+’	’	SS	O
+이	이	VCP	O
+라는	라는	ETM	O
+_	_	_	O
+사유	사유	NNG	O
+로	로	JKB	O
+_	_	_	O
+방송	방송	NNG	O
+_	_	_	O
+불가	불가	NNG	O
+_	_	_	O
+판정	판정	NNG	O
+
+## 7
+## 분량이 많지 않지만 좀 중량감 있는 믿음직스러운 배우가 해주길 바랐다.
+## 분량이 많지 않지만 좀 중량감 있는 믿음직스러운 배우가 <해주:LOC>길 바랐다.
+분량	분량	NNG	O
+이	이	JKS	O
+_	_	_	O
+많	많	VA	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+지만	지만	EC	O
+_	_	_	O
+좀	좀	MAG	O
+_	_	_	O
+중량감	중량감	NNG	O
+_	_	_	O
+있	있	VA	O
+는	는	ETM	O
+_	_	_	O
+믿음직스러	믿음직스럽	VA	O
+운	ㄴ	ETM	O
+_	_	_	O
+배우	배우	NNG	O
+가	가	JKS	O
+_	_	_	O
+해	하+여	VV+EC	B-LOC
+주	주	VX	I-LOC
+길	기+ㄹ	ETN+JKO	O
+_	_	_	O
+바랐	바라+았	VV+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 22일(현지시간) 중국 안후이(安徽)성 허페이에서 제5회 국제가슴모델대회가 개최됐다.
+## <22일:DAT>(현지시간) <중국:LOC> <안후이:LOC>(<安徽:LOC>)성 <허페이:LOC>에서 <제5회:NOH> <국제가슴모델대회:POH>가 개최됐다.
+22	22	SN	B-DAT
+일	일	NNB	I-DAT
+(	(	SS	O
+현지	현지	NNG	O
+시간	시간	NNG	O
+)	)	SS	O
+_	_	_	O
+중국	중국	NNP	B-LOC
+_	_	_	O
+안후이	안후이	NNP	B-LOC
+(	(	SS	O
+安徽	安徽	SH	B-LOC
+)	)	SS	O
+성	성	NNG	O
+_	_	_	O
+허페이	허페이	NNP	B-LOC
+에서	에서	JKB	O
+_	_	_	O
+제	제	XPN	B-NOH
+5	5	SN	I-NOH
+회	회	NNB	I-NOH
+_	_	_	O
+국제	국제	NNG	B-POH
+가슴	가슴	NNG	I-POH
+모델	모델	NNG	I-POH
+대회	대회	NNG	I-POH
+가	가	JKS	O
+_	_	_	O
+개최	개최되	VV	O
+됐	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## [단독] 대우조선, 고재호 사장 때 분식회계로 4900억 성과급 잔치
+## [단독] <대우조선:ORG>, <고재호:PER> 사장 때 분식회계로 <4900억:MNY> 성과급 잔치
+[	[	SS	O
+단독	단독	NNG	O
+]	]	SS	O
+_	_	_	O
+대우조선	대우조선	NNP	B-ORG
+,	,	SP	O
+_	_	_	O
+고재호	고재호	NNP	B-PER
+_	_	_	O
+사장	사장	NNG	O
+_	_	_	O
+때	때	NNG	O
+_	_	_	O
+분식	분식	NNG	O
+회계	회계	NNG	O
+로	로	JKB	O
+_	_	_	O
+4900	4900	SN	B-MNY
+억	억	NR	I-MNY
+_	_	_	O
+성과급	성과급	NNG	O
+_	_	_	O
+잔치	잔치	NNG	O
+
+## 10
+## 버벌진트, 노래 가사에 “내가 다신 음주운전 안 하는 것처럼”
+## <버벌진트:PER>, 노래 가사에 “내가 다신 음주운전 안 하는 것처럼”
+버벌진트	버벌진트	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+노래	노래	NNG	O
+_	_	_	O
+가사	가사	NNG	O
+에	에	JKB	O
+_	_	_	O
+“	“	SS	O
+내	내	NP	O
+가	가	JKS	O
+_	_	_	O
+다신	다시+ㄴ	MAG+JX	O
+_	_	_	O
+음주	음주	NNG	O
+운전	운전	NNG	O
+_	_	_	O
+안	안	MAG	O
+_	_	_	O
+하	하	VV	O
+는	는	ETM	O
+_	_	_	O
+것	것	NNB	O
+처럼	처럼	JKB	O
+”	”	SS	O
+
+## 11
+## 안 의원의 꼼꼼함이 방송 시작부터 확인된 셈이다.
+## <안:PER> 의원의 꼼꼼함이 방송 시작부터 확인된 셈이다.
+안	안	NNP	B-PER
+_	_	_	O
+의원	의원	NNG	O
+의	의	JKG	O
+_	_	_	O
+꼼꼼함	꼼꼼하+ㅁ	VA+ETN	O
+이	이	JKS	O
+_	_	_	O
+방송	방송	NNG	O
+_	_	_	O
+시작	시작	NNG	O
+부터	부터	JX	O
+_	_	_	O
+확인된	확인되+ㄴ	VV+ETM	O
+_	_	_	O
+셈	셈	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 또한 안철수 의원은 예상치 못한 ‘안철수 표 아재 개그’를 연발하며 녹화장을 초토화 시킨다.
+## 또한 <안철수:PER> 의원은 예상치 못한 ‘<안철수:PER> 표 아재 개그’를 연발하며 녹화장을 초토화 시킨다.
+또한	또한	MAG	O
+_	_	_	O
+안철수	안철수	NNP	B-PER
+_	_	_	O
+의원	의원	NNG	O
+은	은	JX	O
+_	_	_	O
+예상	예상하	VV	O
+치	지	EC	O
+_	_	_	O
+못한	못하+ㄴ	VX+ETM	O
+_	_	_	O
+‘	‘	SS	O
+안철수	안철수	NNP	B-PER
+_	_	_	O
+표	표	NNG	O
+_	_	_	O
+아재	아재	NNG	O
+_	_	_	O
+개그	개그	NNG	O
+’	’	SS	O
+를	를	JKO	O
+_	_	_	O
+연발하	연발하	VV	O
+며	며	EC	O
+_	_	_	O
+녹화	녹화	NNG	O
+장	장	XSN	O
+을	을	JKO	O
+_	_	_	O
+초토화	초토화	NNG	O
+_	_	_	O
+시킨다	시키+ㄴ다	VV+EF	O
+.	.	SF	O
+

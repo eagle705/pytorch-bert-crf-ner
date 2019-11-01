@@ -1,0 +1,601 @@
+## 1
+## 메이저리그 동양인 최다승(124승)에 빛나는 박찬호의 경험을 듣는 것만 해도 어린 선수들에게는 엄청난 간접체험이다.
+## <메이저리그:POH> 동양인 최다승(<124승:NOH>)에 빛나는 <박찬호:PER>의 경험을 듣는 것만 해도 어린 선수들에게는 엄청난 간접체험이다.
+메이저리그	메이저리그	NNG	B-POH
+_	_	_	O
+동양인	동양인	NNG	O
+_	_	_	O
+최	최	XPN	O
+다승	다승	NNG	O
+(	(	SS	O
+124	124	SN	B-NOH
+승	승	NNB	I-NOH
+)	)	SS	O
+에	에	JKB	O
+_	_	_	O
+빛나	빛나	VV	O
+는	는	ETM	O
+_	_	_	O
+박찬호	박찬호	NNP	B-PER
+의	의	JKG	O
+_	_	_	O
+경험	경험	NNG	O
+을	을	JKO	O
+_	_	_	O
+듣	듣	VV	O
+는	는	ETM	O
+_	_	_	O
+것	것	NNB	O
+만	만	JX	O
+_	_	_	O
+해도	하+여도	VV+EC	O
+_	_	_	O
+어린	어리+ㄴ	VA+ETM	O
+_	_	_	O
+선수	선수	NNG	O
+들	들	XSN	O
+에게	에게	JKB	O
+는	는	JX	O
+_	_	_	O
+엄청난	엄청나+ㄴ	VA+ETM	O
+_	_	_	O
+간접	간접	NNG	O
+체험	체험	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 그는 19세기 유럽과 미국 역사의 동인을 '자유'와 '조직'으로 설명한다.
+## 그는 <19세기:DUR> <유럽:ORG>과 <미국:ORG> 역사의 동인을 '자유'와 '조직'으로 설명한다.
+그	그	NP	O
+는	는	JX	O
+_	_	_	O
+19	19	SN	B-DUR
+세기	세기	NNG	I-DUR
+_	_	_	O
+유럽	유럽	NNP	B-ORG
+과	과	JC	O
+_	_	_	O
+미국	미국	NNP	B-ORG
+_	_	_	O
+역사	역사	NNG	O
+의	의	JKG	O
+_	_	_	O
+동인	동인	NNG	O
+을	을	JKO	O
+_	_	_	O
+'	'	SS	O
+자유	자유	NNG	O
+'	'	SS	O
+와	와	JKB	O
+_	_	_	O
+'	'	SS	O
+조직	조직	NNG	O
+'	'	SS	O
+으로	으로	JKB	O
+_	_	_	O
+설명한다	설명하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 3
+## 한국소비자원에서 추천한 일반인을 심사위원단에 포함하고, 추가 인력이 필요할 경우 과거 호텔 근무 경력 여부를 일반인 심사위원의 자격 요건으로 삼겠다는 것이다.
+## <한국소비자원:ORG>에서 추천한 일반인을 심사위원단에 포함하고, 추가 인력이 필요할 경우 과거 호텔 근무 경력 여부를 일반인 심사위원의 자격 요건으로 삼겠다는 것이다.
+한국소비자원	한국소비자원	NNP	B-ORG
+에서	에서	JKB	O
+_	_	_	O
+추천한	추천하+ㄴ	VV+ETM	O
+_	_	_	O
+일반인	일반인	NNG	O
+을	을	JKO	O
+_	_	_	O
+심사	심사	NNG	O
+위원단	위원단	NNG	O
+에	에	JKB	O
+_	_	_	O
+포함하	포함하	VV	O
+고	고	EC	O
+,	,	SP	O
+_	_	_	O
+추가	추가	NNG	O
+_	_	_	O
+인력	인력	NNG	O
+이	이	JKS	O
+_	_	_	O
+필요할	필요하+ㄹ	VA+ETM	O
+_	_	_	O
+경우	경우	NNG	O
+_	_	_	O
+과거	과거	NNG	O
+_	_	_	O
+호텔	호텔	NNG	O
+_	_	_	O
+근무	근무	NNG	O
+_	_	_	O
+경력	경력	NNG	O
+_	_	_	O
+여부	여부	NNG	O
+를	를	JKO	O
+_	_	_	O
+일반인	일반인	NNG	O
+_	_	_	O
+심사	심사	NNG	O
+위원	위원	NNG	O
+의	의	JKG	O
+_	_	_	O
+자격	자격	NNG	O
+_	_	_	O
+요건	요건	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+삼	삼	VV	O
+겠	겠	EP	O
+다는	다는	ETM	O
+_	_	_	O
+것	것	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 당시 이명박 후보의 독주 체제 속에 보수 진영은 이명박 이회창 후보로, 진보 진영은 정동영 문국현 권영길 후보로 표심이 갈렸다.
+## 당시 <이명박:PER> 후보의 독주 체제 속에 보수 진영은 <이명박:PER> <이회창:PER> 후보로, 진보 진영은 <정동영:PER> <문국현:PER> <권영길:PER> 후보로 표심이 갈렸다.
+당시	당시	NNG	O
+_	_	_	O
+이명박	이명박	NNP	B-PER
+_	_	_	O
+후보	후보	NNG	O
+의	의	JKG	O
+_	_	_	O
+독주	독주	NNG	O
+_	_	_	O
+체제	체제	NNG	O
+_	_	_	O
+속	속	NNG	O
+에	에	JKB	O
+_	_	_	O
+보수	보수	NNG	O
+_	_	_	O
+진영	진영	NNG	O
+은	은	JX	O
+_	_	_	O
+이명박	이명박	NNP	B-PER
+_	_	_	O
+이회창	이회창	NNP	B-PER
+_	_	_	O
+후보	후보	NNG	O
+로	로	JKB	O
+,	,	SP	O
+_	_	_	O
+진보	진보	NNG	O
+_	_	_	O
+진영	진영	NNG	O
+은	은	JX	O
+_	_	_	O
+정동영	정동영	NNP	B-PER
+_	_	_	O
+문국현	문국현	NNP	B-PER
+_	_	_	O
+권영길	권영길	NNP	B-PER
+_	_	_	O
+후보	후보	NNG	O
+로	로	JKB	O
+_	_	_	O
+표	표	NNG	O
+심	심	XSN	O
+이	이	JKS	O
+_	_	_	O
+갈	갈리	VV	O
+렸	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 포지션은 2루수. 주전 유격수는 올해 초 뉴욕 양키스에 입단한 1년 후배 박효준에게 넘겼다.
+## 포지션은 <2루수:NOH>. 주전 유격수는 올해 초 <뉴욕 양키스:ORG>에 입단한 <1년:NOH> 후배 <박효준:PER>에게 넘겼다.
+포지션	포지션	NNG	O
+은	은	JX	O
+_	_	_	O
+2	2	SN	B-NOH
+루수	루수	NNG	I-NOH
+.	.	SF	O
+_	_	_	O
+주전	주전	NNG	O
+_	_	_	O
+유격수	유격수	NNG	O
+는	는	JX	O
+_	_	_	O
+올해	올해	NNG	O
+_	_	_	O
+초	초	NNB	O
+_	_	_	O
+뉴욕	뉴욕	NNP	B-ORG
+_	_	_	I-ORG
+양키스	양키스	NNP	I-ORG
+에	에	JKB	O
+_	_	_	O
+입단한	입단하+ㄴ	VV+ETM	O
+_	_	_	O
+1	1	SN	B-NOH
+년	년	NNB	I-NOH
+_	_	_	O
+후배	후배	NNG	O
+_	_	_	O
+박효준	박효준	NNP	B-PER
+에게	에게	JKB	O
+_	_	_	O
+넘	넘기	VV	O
+겼	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 하지만 1973~2011년에는 생산성은 94% 증가했는데 시간당 임금은 9%만 올랐다.
+## 하지만 <1973~2011년:DUR>에는 생산성은 <94%:PNT> 증가했는데 시간당 임금은 <9%:PNT>만 올랐다.
+하지만	하지만	MAJ	O
+_	_	_	O
+1973	1973	SN	B-DUR
+~	~	SO	I-DUR
+2011	2011	SN	I-DUR
+년	년	NNB	I-DUR
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+생산성	생산성	NNG	O
+은	은	JX	O
+_	_	_	O
+94	94	SN	B-PNT
+%	%	SW	I-PNT
+_	_	_	O
+증가	증가하	VV	O
+했	였	EP	O
+는데	는데	EC	O
+_	_	_	O
+시간	시간	NNG	O
+당	당	XSN	O
+_	_	_	O
+임금	임금	NNG	O
+은	은	JX	O
+_	_	_	O
+9	9	SN	B-PNT
+%	%	SW	I-PNT
+만	만	JX	O
+_	_	_	O
+올	오르	VV	O
+랐	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 친구들과 함께 전주 관광을 왔다는 이현정(39·서울) 씨는 "갖가지 나물 향이 은은해서 좋다.
+## 친구들과 함께 <전주:LOC> 관광을 왔다는 <이현정:PER>(<39:NOH>·<서울:LOC>) 씨는 "갖가지 나물 향이 은은해서 좋다.
+친구	친구	NNG	O
+들	들	XSN	O
+과	과	JKB	O
+_	_	_	O
+함께	함께	MAG	O
+_	_	_	O
+전주	전주	NNP	B-LOC
+_	_	_	O
+관광	관광	NNG	O
+을	을	JKO	O
+_	_	_	O
+왔	+았	+EP	O
+다는	다는	ETM	O
+_	_	_	O
+이현정	이현정	NNP	B-PER
+(	(	SS	O
+39	39	SN	B-NOH
+·	·	SP	O
+서울	서울	NNP	B-LOC
+)	)	SS	O
+_	_	_	O
+씨	씨	NNB	O
+는	는	JX	O
+_	_	_	O
+"	"	SS	O
+갖가지	갖가지	NNG	O
+_	_	_	O
+나물	나물	NNG	O
+_	_	_	O
+향	향	NNG	O
+이	이	JKS	O
+_	_	_	O
+은은해서	은은하+여서	VA+EC	O
+_	_	_	O
+좋	좋	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## [2016 한국산업대상/글로벌 부문]신기술 레이저 용접법, 선진국에 수출
+## [<2016 한국산업대상:POH>/글로벌 부문]신기술 레이저 용접법, 선진국에 수출
+[	[	SS	O
+2016	2016	SN	B-POH
+_	_	_	I-POH
+한국	한국	NNP	I-POH
+산업	산업	NNG	I-POH
+대상	대상	NNG	I-POH
+/	/	SP	O
+글로벌	글로벌	NNG	O
+_	_	_	O
+부문	부문	NNG	O
+]	]	SS	O
+신기술	신기술	NNG	O
+_	_	_	O
+레이저	레이저	NNG	O
+_	_	_	O
+용접	용접	NNG	O
+법	법	XSN	O
+,	,	SP	O
+_	_	_	O
+선진국	선진국	NNG	O
+에	에	JKB	O
+_	_	_	O
+수출	수출	NNG	O
+
+## 9
+## 세터 이효희와 염혜선은 안정적인 토스로 상대 블로킹 벽을 허물었다.
+## 세터 <이효희:PER>와 <염혜선:PER>은 안정적인 토스로 상대 블로킹 벽을 허물었다.
+세터	세터	NNG	O
+_	_	_	O
+이효희	이효희	NNP	B-PER
+와	와	JC	O
+_	_	_	O
+염혜선	염혜선	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+안정적	안정적	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+토스	토스	NNG	O
+로	로	JKB	O
+_	_	_	O
+상대	상대	NNG	O
+_	_	_	O
+블로킹	블로킹	NNG	O
+_	_	_	O
+벽	벽	NNG	O
+을	을	JKO	O
+_	_	_	O
+허물	허물	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 가구 소득에 따른 사교육비 양극화는 2015년보다 심화한 것으로 나타났다.
+## 가구 소득에 따른 사교육비 양극화는 <2015년:DAT>보다 심화한 것으로 나타났다.
+가구	가구	NNG	O
+_	_	_	O
+소득	소득	NNG	O
+에	에	JKB	O
+_	_	_	O
+따른	따르+ㄴ	VV+ETM	O
+_	_	_	O
+사교육비	사교육비	NNG	O
+_	_	_	O
+양극화	양극화	NNG	O
+는	는	JX	O
+_	_	_	O
+2015	2015	SN	B-DAT
+년	년	NNB	I-DAT
+보다	보다	JKB	O
+_	_	_	O
+심화	심화	NNG	O
+한	한	NNG	O
+_	_	_	O
+것	것	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+나타났	나타나+았	VV+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 교육부와 통계청은 이 같은 내용을 담은 ‘2016년 초·중·고 사교육비 조사’를 14일 발표했다.
+## <교육부:ORG>와 <통계청:ORG>은 이 같은 내용을 담은 ‘<2016년 초·중·고 사교육비 조사:POH>’를 <14일:DAT> 발표했다.
+교육부	교육부	NNG	B-ORG
+와	와	JC	O
+_	_	_	O
+통계청	통계청	NNG	B-ORG
+은	은	JX	O
+_	_	_	O
+이	이	NP	O
+_	_	_	O
+같	같	VA	O
+은	은	ETM	O
+_	_	_	O
+내용	내용	NNG	O
+을	을	JKO	O
+_	_	_	O
+담	담	VV	O
+은	은	ETM	O
+_	_	_	O
+‘	‘	SS	O
+2016	2016	SN	B-POH
+년	년	NNB	I-POH
+_	_	_	I-POH
+초	초	NNB	I-POH
+·	·	SP	I-POH
+중	중	NNP	I-POH
+·	·	SP	I-POH
+고	고	NNG	I-POH
+_	_	_	I-POH
+사교육비	사교육비	NNG	I-POH
+_	_	_	I-POH
+조사	조사	NNG	I-POH
+’	’	SS	O
+를	를	JKO	O
+_	_	_	O
+14	14	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+발표	발표하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 우리나라의 경우 연평균 3300명의 자궁경부암 환자가 발생하고 900여 명이 사망한다.
+## 우리나라의 경우 연평균 <3300명:NOH>의 자궁경부암 환자가 발생하고 <900여 명:NOH>이 사망한다.
+우리나라	우리나라	NNG	O
+의	의	JKG	O
+_	_	_	O
+경우	경우	NNG	O
+_	_	_	O
+연평균	연평균	NNG	O
+_	_	_	O
+3300	3300	SN	B-NOH
+명	명	NNB	I-NOH
+의	의	JKG	O
+_	_	_	O
+자궁	자궁	NNG	O
+경부	경부	NNG	O
+암	암	NNG	O
+_	_	_	O
+환자	환자	NNG	O
+가	가	JKS	O
+_	_	_	O
+발생하	발생하	VV	O
+고	고	EC	O
+_	_	_	O
+900	900	SN	B-NOH
+여	여	XSN	I-NOH
+_	_	_	I-NOH
+명	명	NNB	I-NOH
+이	이	JKS	O
+_	_	_	O
+사망한다	사망하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 13
+## 에셋플러스자산운용은 2013년부터 경기 성남시 분당구로, 메리츠자산운용은 2014년 서울 종로구 북촌로로 자리를 옮겼다.
+## <에셋플러스자산운용:ORG>은 <2013년:DAT>부터 <경기 성남시:LOC> <분당구:LOC>로, <메리츠자산운용:ORG>은 <2014년:DAT> <서울:LOC> <종로구:LOC> <북촌:LOC>로로 자리를 옮겼다.
+에셋	에셋	NNG	B-ORG
+플러스	플러스	NNG	I-ORG
+자산	자산	NNG	I-ORG
+운용	운용	NNG	I-ORG
+은	은	JX	O
+_	_	_	O
+2013	2013	SN	B-DAT
+년	년	NNB	I-DAT
+부터	부터	JX	O
+_	_	_	O
+경기	경기	NNP	B-LOC
+_	_	_	I-LOC
+성남시	성남시	NNP	I-LOC
+_	_	_	O
+분당구	분당구	NNP	B-LOC
+로	로	JKB	O
+,	,	SP	O
+_	_	_	O
+메리츠	메리츠	NNP	B-ORG
+자산	자산	NNG	I-ORG
+운용	운용	NNG	I-ORG
+은	은	JX	O
+_	_	_	O
+2014	2014	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+서울	서울	NNP	B-LOC
+_	_	_	O
+종로구	종로구	NNP	B-LOC
+_	_	_	O
+북촌	북촌	NNP	B-LOC
+로로	로로	NNP	O
+_	_	_	O
+자리	자리	NNG	O
+를	를	JKO	O
+_	_	_	O
+옮	옮기	VV	O
+겼	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 14
+## 이틀 전인 27일 트럼프 대통령의 반(反)이민 행정명령으로 분노한 시민들은 ＇환하게 웃고 있는 이 둘＇을 맹비난했다고 미 언론들이 전했다.
+## 이틀 전인 <27일:DAT> <트럼프:PER> 대통령의 반(反)이민 행정명령으로 분노한 시민들은 ＇환하게 웃고 있는 이 둘＇을 맹비난했다고 미 언론들이 전했다.
+이틀	이틀	NNG	O
+_	_	_	O
+전	전	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+27	27	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+트럼프	트럼프	NNP	B-PER
+_	_	_	O
+대통령	대통령	NNG	O
+의	의	JKG	O
+_	_	_	O
+반	반	NNG	O
+(	(	SS	O
+反	反	SH	O
+)	)	SS	O
+이민	이민	NNG	O
+_	_	_	O
+행정	행정	NNG	O
+명령	명령	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+분노한	분노하+ㄴ	VV+ETM	O
+_	_	_	O
+시민	시민	NNG	O
+들	들	XSN	O
+은	은	JX	O
+_	_	_	O
+＇	＇	SS	O
+환하	환하	VA	O
+게	게	EC	O
+_	_	_	O
+웃	웃	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+는	는	ETM	O
+_	_	_	O
+이	이	MM	O
+_	_	_	O
+둘	둘	NR	O
+＇	＇	SS	O
+을	을	JKO	O
+_	_	_	O
+맹	맹	XPN	O
+비난	비난하	VV	O
+했	였	EP	O
+다고	다고	EC	O
+_	_	_	O
+미	미	NNP	O
+_	_	_	O
+언론	언론	NNG	O
+들	들	XSN	O
+이	이	JKS	O
+_	_	_	O
+전	전하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 15
+## 이수근 ‘냉장고를 부탁해’ 정형돈 대체 객원 MC 발탁
+## <이수근:PER> ‘<냉장고를 부탁해:POH>’ <정형돈:PER> 대체 객원 MC 발탁
+이수근	이수근	NNP	B-PER
+_	_	_	O
+‘	‘	SS	O
+냉장고	냉장고	NNG	B-POH
+를	를	JKO	I-POH
+_	_	_	I-POH
+부탁해	부탁하+여	VV+EF	I-POH
+’	’	SS	O
+_	_	_	O
+정형돈	정형돈	NNP	B-PER
+_	_	_	O
+대체	대체	NNG	O
+_	_	_	O
+객원	객원	NNG	O
+_	_	_	O
+MC	MC	SL	O
+_	_	_	O
+발탁	발탁	NNG	O
+

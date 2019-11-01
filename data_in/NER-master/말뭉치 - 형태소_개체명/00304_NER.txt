@@ -1,0 +1,406 @@
+## 1
+## ‘사내유보금 중 실제 현금성 자산은 15%도 안 된다’고 반발하면서도 투자와 배당을 늘리겠다며 한 발 물러섰죠. 물론 기업이 투자와 배당을 늘리면 경제활성화에 도움이 될 겁니다.
+## ‘사내유보금 중 실제 현금성 자산은 <15%:PNT>도 안 된다’고 반발하면서도 투자와 배당을 늘리겠다며 한 발 물러섰죠. 물론 기업이 투자와 배당을 늘리면 경제활성화에 도움이 될 겁니다.
+‘	‘	SS	O
+사내	사내	NNG	O
+유보	유보	NNG	O
+금	금	XSN	O
+_	_	_	O
+중	중	NNB	O
+_	_	_	O
+실제	실제	NNG	O
+_	_	_	O
+현금성	현금성	NNP	O
+_	_	_	O
+자산	자산	NNG	O
+은	은	JX	O
+_	_	_	O
+15	15	SN	B-PNT
+%	%	SW	I-PNT
+도	도	JX	O
+_	_	_	O
+안	안	MAG	O
+_	_	_	O
+된다	되+ㄴ다	VV+EF	O
+’	’	SS	O
+고	고	JKQ	O
+_	_	_	O
+반발하	반발하	VV	O
+면서	면서	EC	O
+도	도	JX	O
+_	_	_	O
+투자	투자	NNG	O
+와	와	JC	O
+_	_	_	O
+배당	배당	NNG	O
+을	을	JKO	O
+_	_	_	O
+늘리	늘리	VV	O
+겠	겠	EP	O
+다며	다며	EC	O
+_	_	_	O
+한	한	MM	O
+_	_	_	O
+발	발	NNG	O
+_	_	_	O
+물러섰	물러서+었	VV+EP	O
+죠	죠	EF	O
+.	.	SF	O
+_	_	_	O
+물론	물론	MAG	O
+_	_	_	O
+기업	기업	NNG	O
+이	이	JKS	O
+_	_	_	O
+투자	투자	NNG	O
+와	와	JC	O
+_	_	_	O
+배당	배당	NNG	O
+을	을	JKO	O
+_	_	_	O
+늘리	늘리	VV	O
+면	면	EC	O
+_	_	_	O
+경제	경제	NNG	O
+활성화	활성화	NNG	O
+에	에	JKB	O
+_	_	_	O
+도움	도움	NNG	O
+이	이	JKC	O
+_	_	_	O
+될	되+ㄹ	VV+ETM	O
+_	_	_	O
+겁니다	것+이+ㅂ니다	NNB+VCP+EF	O
+.	.	SF	O
+
+## 2
+## 황정음은 자신도 모르는 사이 세상을 떠난 아들의 존재를 알고는 오열하는 연기로 많은 시청자들을 놀라게 했다.
+## <황정음:PER>은 자신도 모르는 사이 세상을 떠난 아들의 존재를 알고는 오열하는 연기로 많은 시청자들을 놀라게 했다.
+황정	황정	NNG	B-PER
+음	음	NNG	I-PER
+은	은	JX	O
+_	_	_	O
+자신	자신	NNG	O
+도	도	JX	O
+_	_	_	O
+모르	모르	VV	O
+는	는	ETM	O
+_	_	_	O
+사이	사이	NNG	O
+_	_	_	O
+세상	세상	NNG	O
+을	을	JKO	O
+_	_	_	O
+떠난	떠나+ㄹ	VV+ETM	O
+_	_	_	O
+아들	아들	NNG	O
+의	의	JKG	O
+_	_	_	O
+존재	존재	NNG	O
+를	를	JKO	O
+_	_	_	O
+알	알	VV	O
+고는	고는	EC	O
+_	_	_	O
+오열하	오열하	VV	O
+는	는	ETM	O
+_	_	_	O
+연기	연기	NNG	O
+로	로	JKB	O
+_	_	_	O
+많	많	VA	O
+은	은	ETM	O
+_	_	_	O
+시청자	시청자	NNG	O
+들	들	XSN	O
+을	을	JKO	O
+_	_	_	O
+놀라	놀라	VV	O
+게	게	EC	O
+_	_	_	O
+했	+였	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 성신양회와 삼성SDI 청주사업장의 ‘에너지혁신’ 성공 이면에는 든든한 에너지관리 지원군이 있었다.
+## <성신양회:ORG>와 <삼성SDI:ORG> 청주사업장의 ‘에너지혁신’ 성공 이면에는 든든한 에너지관리 지원군이 있었다.
+성신양회	성신양회	NNP	B-ORG
+와	와	JC	O
+_	_	_	O
+삼성	삼성	NNP	B-ORG
+SDI	SDI	SL	I-ORG
+_	_	_	O
+청주	청주	NNP	O
+사업장	사업장	NNG	O
+의	의	JKG	O
+_	_	_	O
+‘	‘	SS	O
+에너지	에너지	NNG	O
+혁신	혁신	NNG	O
+’	’	SS	O
+_	_	_	O
+성공	성공	NNG	O
+_	_	_	O
+이면	이면	NNG	O
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+든든한	든든하+ㄴ	VA+ETM	O
+_	_	_	O
+에너지	에너지	NNG	O
+관리	관리	NNG	O
+_	_	_	O
+지원군	지원군	NNG	O
+이	이	JKS	O
+_	_	_	O
+있	있	VA	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## NHL도 큰 기대를 걸고 있다”고 말했다.
+## <NHL:POH>도 큰 기대를 걸고 있다”고 말했다.
+NHL	NHL	SL	B-POH
+도	도	JX	O
+_	_	_	O
+큰	크+ㄴ	VA+ETM	O
+_	_	_	O
+기대	기대	NNG	O
+를	를	JKO	O
+_	_	_	O
+걸	걸	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+말	말하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 혼자 먹는 것은 쉽지 않고 2명은 너무 적다.
+## 혼자 먹는 것은 쉽지 않고 <2명:NOH>은 너무 적다.
+혼자	혼자	NNG	O
+_	_	_	O
+먹	먹	VV	O
+는	는	ETM	O
+_	_	_	O
+것	것	NNB	O
+은	은	JX	O
+_	_	_	O
+쉽	쉽	VA	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+고	고	EC	O
+_	_	_	O
+2	2	SN	B-NOH
+명	명	NNB	I-NOH
+은	은	JX	O
+_	_	_	O
+너무	너무	MAG	O
+_	_	_	O
+적	적	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 8인제 경주의 주목할 만한 특징 두 가지 첫째, 7명의 경주에 익숙한 선수들에게 약 2미터 더 길어진 대열이 심리적으로 영향을 준다.
+## <8인제:NOH> 경주의 주목할 만한 특징 <두 가지:NOH> 첫째, <7명:NOH>의 경주에 익숙한 선수들에게 약 <2미터:NOH> 더 길어진 대열이 심리적으로 영향을 준다.
+8	8	SN	B-NOH
+인	인	NNG	I-NOH
+제	제	XSN	I-NOH
+_	_	_	O
+경주	경주	NNP	O
+의	의	JKG	O
+_	_	_	O
+주목할	주목하+ㄹ	VV+ETM	O
+_	_	_	O
+만한	만하+ㄴ	VX+ETM	O
+_	_	_	O
+특징	특징	NNG	O
+_	_	_	O
+두	두	MM	B-NOH
+_	_	_	I-NOH
+가지	가지	NNB	I-NOH
+_	_	_	O
+첫째	첫째	NR	O
+,	,	SP	O
+_	_	_	O
+7	7	SN	B-NOH
+명	명	NNB	I-NOH
+의	의	JKG	O
+_	_	_	O
+경주	경주	NNP	O
+에	에	JKB	O
+_	_	_	O
+익숙한	익숙하+ㄴ	VA+ETM	O
+_	_	_	O
+선수	선수	NNG	O
+들	들	XSN	O
+에게	에게	JKB	O
+_	_	_	O
+약	약	MM	O
+_	_	_	O
+2	2	SN	B-NOH
+미터	미터	NNB	I-NOH
+_	_	_	O
+더	더	MAG	O
+_	_	_	O
+길	길	VA	O
+어	어	EC	O
+진	지+ㄴ	VX+ETM	O
+_	_	_	O
+대열	대열	NNG	O
+이	이	JKS	O
+_	_	_	O
+심리적	심리적	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+영향	영향	NNG	O
+을	을	JKO	O
+_	_	_	O
+준다	주+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 7
+## 9조 원 중 6조 원은 국산 장비, 3조 원은 해외 장비 도입 비용으로 쓰일 예정이다.
+## <9조 원:MNY> 중 <6조 원:MNY>은 국산 장비, <3조 원:MNY>은 해외 장비 도입 비용으로 쓰일 예정이다.
+9	9	SN	B-MNY
+조	조	NNB	I-MNY
+_	_	_	I-MNY
+원	원	NNB	I-MNY
+_	_	_	O
+중	중	NNB	O
+_	_	_	O
+6	6	SN	B-MNY
+조	조	NR	I-MNY
+_	_	_	I-MNY
+원	원	NNB	I-MNY
+은	은	JX	O
+_	_	_	O
+국산	국산	NNG	O
+_	_	_	O
+장비	장비	NNG	O
+,	,	SP	O
+_	_	_	O
+3	3	SN	B-MNY
+조	조	NR	I-MNY
+_	_	_	I-MNY
+원	원	NNB	I-MNY
+은	은	JX	O
+_	_	_	O
+해외	해외	NNG	O
+_	_	_	O
+장비	장비	NNG	O
+_	_	_	O
+도입	도입	NNG	O
+_	_	_	O
+비용	비용	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+쓰일	쓰이+ㄹ	VV+ETM	O
+_	_	_	O
+예정	예정	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 배우 황정음의 과거 사진이 새삼 화제다.
+## 배우 <황정음:PER>의 과거 사진이 새삼 화제다.
+배우	배우	NNG	O
+_	_	_	O
+황정	황정	NNG	B-PER
+음	음	NNG	I-PER
+의	의	JKG	O
+_	_	_	O
+과거	과거	NNG	O
+_	_	_	O
+사진	사진	NNG	O
+이	이	JKS	O
+_	_	_	O
+새삼	새삼	MAG	O
+_	_	_	O
+화제	화제+이	NNG+VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 공개된 사진에는 화장기 없는 민낯으로 거실에 엎드려 있는 황정음의 모습이 담겨 있다.
+## 공개된 사진에는 화장기 없는 민낯으로 거실에 엎드려 있는 <황정음:PER>의 모습이 담겨 있다.
+공개된	공개되+ㄴ	VV+ETM	O
+_	_	_	O
+사진	사진	NNG	O
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+화장기	화장기	NNG	O
+_	_	_	O
+없	없	VA	O
+는	는	ETM	O
+_	_	_	O
+민낯	민낯	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+거실	거실	NNG	O
+에	에	JKB	O
+_	_	_	O
+엎드려	엎드리+어	VV+EC	O
+_	_	_	O
+있	있	VX	O
+는	는	ETM	O
+_	_	_	O
+황정	황정	NNG	B-PER
+음	음	NNG	I-PER
+의	의	JKG	O
+_	_	_	O
+모습	모습	NNG	O
+이	이	JKS	O
+_	_	_	O
+담겨	담기+어	VV+EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## ‘몸매 종결자’ 유승옥, “어릴 때부터 통통…안 해 본 운동이 없다”
+## ‘몸매 종결자’ <유승옥:PER>, “어릴 때부터 통통…안 해 본 운동이 없다”
+‘	‘	SS	O
+몸매	몸매	NNG	O
+_	_	_	O
+종결	종결	NNG	O
+자	자	XSN	O
+’	’	SS	O
+_	_	_	O
+유승옥	유승옥	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+“	“	SS	O
+어릴	어리+ㄹ	VA+ETM	O
+_	_	_	O
+때	때	NNG	O
+부터	부터	JX	O
+_	_	_	O
+통통	통통	MAG	O
+…	…	SE	O
+안	안	MAG	O
+_	_	_	O
+해	하+여	VV+EC	O
+_	_	_	O
+본	보+ㄴ	VX+ETM	O
+_	_	_	O
+운동	운동	NNG	O
+이	이	JKS	O
+_	_	_	O
+없	없	VA	O
+다	다	EF	O
+”	”	SS	O
+

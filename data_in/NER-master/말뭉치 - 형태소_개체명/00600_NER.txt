@@ -1,0 +1,558 @@
+## 1
+## 결승전은 31일 열릴 예정이다.
+## 결승전은 <31일:DAT> 열릴 예정이다.
+결승전	결승전	NNG	O
+은	은	JX	O
+_	_	_	O
+31	31	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+열릴	열리+ㄹ	VV+ETM	O
+_	_	_	O
+예정	예정	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 전라북도교육청은 1심 판결 결과가 나온 만큼 박씨를 징계위원회에 회부할 방침이다.
+## <전라북도교육청:ORG>은 <1심:NOH> 판결 결과가 나온 만큼 <박:PER>씨를 징계위원회에 회부할 방침이다.
+전라북도교육청	전라북도교육청	NNP	B-ORG
+은	은	JX	O
+_	_	_	O
+1	1	SN	B-NOH
+심	심	NNG	I-NOH
+_	_	_	O
+판결	판결	NNG	O
+_	_	_	O
+결과	결과	NNG	O
+가	가	JKS	O
+_	_	_	O
+나온	나오+ㄴ	VV+ETM	O
+_	_	_	O
+만큼	만큼	NNB	O
+_	_	_	O
+박	박	NNP	B-PER
+씨	씨	NNB	O
+를	를	JKO	O
+_	_	_	O
+징계	징계	NNG	O
+위원회	위원회	NNG	O
+에	에	JKB	O
+_	_	_	O
+회부할	회부하+ㄹ	VV+ETM	O
+_	_	_	O
+방침	방침	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## (전주=뉴스1)
+## (<전주:LOC>=<뉴스1:POH>)
+(	(	SS	O
+전주	전주	NNP	B-LOC
+=	=	SW	O
+뉴스	뉴스	NNG	B-POH
+1	1	SN	I-POH
+)	)	SS	O
+
+## 4
+## 20년 전부터 인구 노령화가 국민연금 같은 공적연금의 지출을 늘려 재정 부담이 커질 것을 경계했다.
+## <20년:NOH> 전부터 인구 노령화가 <국민연금:POH> 같은 공적연금의 지출을 늘려 재정 부담이 커질 것을 경계했다.
+20	20	SN	B-NOH
+년	년	NNB	I-NOH
+_	_	_	O
+전	전	NNG	O
+부터	부터	JX	O
+_	_	_	O
+인구	인구	NNG	O
+_	_	_	O
+노령	노령	NNG	O
+화	화	XSN	O
+가	가	JKS	O
+_	_	_	O
+국민	국민	NNG	B-POH
+연금	연금	NNG	I-POH
+_	_	_	O
+같	같	VA	O
+은	은	ETM	O
+_	_	_	O
+공적	공적	NNG	O
+연금	연금	NNG	O
+의	의	JKG	O
+_	_	_	O
+지출	지출	NNG	O
+을	을	JKO	O
+_	_	_	O
+늘려	늘리+어	VV+EC	O
+_	_	_	O
+재정	재정	NNG	O
+_	_	_	O
+부담	부담	NNG	O
+이	이	JKS	O
+_	_	_	O
+커질	커지+ㄹ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+을	을	JKO	O
+_	_	_	O
+경계	경계하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 이뿐만 아니라 메이저리그 투수코치와 스포츠 에이전트로도 활약한 다양한 경력의 소유자다.
+## 이뿐만 아니라 <메이저리그:POH> 투수코치와 스포츠 에이전트로도 활약한 다양한 경력의 소유자다.
+이	이	NP	O
+뿐	뿐	JX	O
+만	만	JX	O
+_	_	_	O
+아니	아니	VCN	O
+라	라	EC	O
+_	_	_	O
+메이저리그	메이저리그	NNG	B-POH
+_	_	_	O
+투수	투수	NNG	O
+코치	코치	NNG	O
+와	와	JC	O
+_	_	_	O
+스포츠	스포츠	NNG	O
+_	_	_	O
+에이전트	에이전트	NNG	O
+로	로	JKB	O
+도	도	JX	O
+_	_	_	O
+활약한	활약하+ㄴ	VV+ETM	O
+_	_	_	O
+다양한	다양하+ㄴ	VA+ETM	O
+_	_	_	O
+경력	경력	NNG	O
+의	의	JKG	O
+_	_	_	O
+소유자	소유자+이	NNG+VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## “본업이던 불교용구 제작은 60세인 직원 한 사람이 전담합니다.
+## “본업이던 불교용구 제작은 <60세:NOH>인 직원 <한 사람:NOH>이 전담합니다.
+“	“	SS	O
+본업	본업	NNG	O
+이	이	VCP	O
+던	던	ETM	O
+_	_	_	O
+불교	불교	NNG	O
+용구	용구	NNG	O
+_	_	_	O
+제작	제작	NNG	O
+은	은	JX	O
+_	_	_	O
+60	60	SN	B-NOH
+세	세	NNB	I-NOH
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+직원	직원	NNG	O
+_	_	_	O
+한	한	MM	B-NOH
+_	_	_	I-NOH
+사람	사람	NNG	I-NOH
+이	이	JKS	O
+_	_	_	O
+전담합니다	전담하+ㅂ니다	VV+EF	O
+.	.	SF	O
+
+## 7
+## 잦은 사고로 ‘불안철’ ‘고장철’로 불리던 서울 지하철의 안전이 대폭 강화된다.
+## 잦은 사고로 ‘<불안철:POH>’ ‘<고장철:POH>’로 불리던 <서울:LOC> 지하철의 안전이 대폭 강화된다.
+잦	잦	VA	O
+은	은	ETM	O
+_	_	_	O
+사고	사고	NNG	O
+로	로	JKB	O
+_	_	_	O
+‘	‘	SS	O
+불안	불안	NNG	B-POH
+철	철	NNG	I-POH
+’	’	SS	O
+_	_	_	O
+‘	‘	SS	O
+고장철	고장철	NNP	B-POH
+’	’	SS	O
+로	로	JKB	O
+_	_	_	O
+불리	불리	VV	O
+던	던	ETM	O
+_	_	_	O
+서울	서울	NNP	B-LOC
+_	_	_	O
+지하철	지하철	NNG	O
+의	의	JKG	O
+_	_	_	O
+안전	안전	NNG	O
+이	이	JKS	O
+_	_	_	O
+대폭	대폭	MAG	O
+_	_	_	O
+강화된다	강화되+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 8
+## 자라면 1m 가까운 크기
+## 자라면 <1m:NOH> 가까운 크기
+자라	자라	VV	O
+면	면	EC	O
+_	_	_	O
+1	1	SN	B-NOH
+m	m	SL	I-NOH
+_	_	_	O
+가까	가깝	VA	O
+운	ㄴ	ETM	O
+_	_	_	O
+크기	크기	NNG	O
+
+## 9
+## 그는 “아무래도 경험은 손시헌 선배님이 더 풍부하지만 자신감은 내가 한 수 위”라며 자신만만한 모습을 펼쳐보였다.
+## 그는 “아무래도 경험은 <손시헌:PER> 선배님이 더 풍부하지만 자신감은 내가 <한 수:NOH> 위”라며 자신만만한 모습을 펼쳐보였다.
+그	그	NP	O
+는	는	JX	O
+_	_	_	O
+“	“	SS	O
+아무래도	아무래도	MAG	O
+_	_	_	O
+경험	경험	NNG	O
+은	은	JX	O
+_	_	_	O
+손시헌	손시헌	NNP	B-PER
+_	_	_	O
+선배	선배	NNG	O
+님	님	XSN	O
+이	이	JKS	O
+_	_	_	O
+더	더	MAG	O
+_	_	_	O
+풍부하	풍부하	VA	O
+지만	지만	EC	O
+_	_	_	O
+자신감	자신감	NNG	O
+은	은	JX	O
+_	_	_	O
+내	내	NP	O
+가	가	JKS	O
+_	_	_	O
+한	한	MM	B-NOH
+_	_	_	I-NOH
+수	수	NNG	I-NOH
+_	_	_	O
+위	위	NNB	O
+”	”+이	SS+VCP	O
+라며	라며	EC	O
+_	_	_	O
+자신만만한	자신만만하+ㄴ	VA+ETM	O
+_	_	_	O
+모습	모습	NNG	O
+을	을	JKO	O
+_	_	_	O
+펼쳐	펼치+어	VV+EC	O
+보	보이	VV	O
+였	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## ‘복면가왕’ 휘발유 정체는 씨야 김연지? 누리꾼 수사대 “역시 명불허전”
+## ‘<복면가왕:POH>’ <휘발유:PER> 정체는 <씨야:ORG> <김연지:PER>? 누리꾼 수사대 “역시 명불허전”
+‘	‘	SS	O
+복면	복면	NNG	B-POH
+가왕	가왕	NNG	I-POH
+’	’	SS	O
+_	_	_	O
+휘발유	휘발유	NNG	B-PER
+_	_	_	O
+정체	정체	NNG	O
+는	는	JX	O
+_	_	_	O
+씨야	씨야	NNP	B-ORG
+_	_	_	O
+김연지	김연지	NNP	B-PER
+?	?	SF	O
+_	_	_	O
+누리	누리	NNG	O
+꾼	꾼	XSN	O
+_	_	_	O
+수사대	수사대	NNG	O
+_	_	_	O
+“	“	SS	O
+역시	역시	MAG	O
+_	_	_	O
+명불허전	명불허전	NNG	O
+”	”	SS	O
+
+## 11
+## 한국가스공사는 3330만원에서 3746만원으로 12.5%, 한국조폐공사는 3047만원에서 3397만원으로 11.5% 증가했다.
+## <한국가스공사:ORG>는 <3330만원:MNY>에서 <3746만원:MNY>으로 <12.5%:PNT>, <한국조폐공사:ORG>는 <3047만원:MNY>에서 <3397만원:MNY>으로 <11.5%:PNT> 증가했다.
+한국가스공사	한국가스공사	NNP	B-ORG
+는	는	JX	O
+_	_	_	O
+3330	3330	SN	B-MNY
+만	만	NR	I-MNY
+원	원	NNB	I-MNY
+에서	에서	JKB	O
+_	_	_	O
+3746	3746	SN	B-MNY
+만	만	NR	I-MNY
+원	원	NNB	I-MNY
+으로	으로	JKB	O
+_	_	_	O
+12.5	12.5	SN	B-PNT
+%	%	SW	I-PNT
+,	,	SP	O
+_	_	_	O
+한국조폐공사	한국조폐공사	NNP	B-ORG
+는	는	JX	O
+_	_	_	O
+3047	3047	SN	B-MNY
+만	만	NR	I-MNY
+원	원	NNB	I-MNY
+에서	에서	JKB	O
+_	_	_	O
+3397	3397	SN	B-MNY
+만	만	NR	I-MNY
+원	원	NNB	I-MNY
+으로	으로	JKB	O
+_	_	_	O
+11.5	11.5	SN	B-PNT
+%	%	SW	I-PNT
+_	_	_	O
+증가	증가하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 하창직 한국알뜰통신사업자협회 사무국장은 “10% 점유율은 고무적인 숫자”라고 했지만 “아직 자생력을 갖기에는 정부와 시장의 도움이 필요하다”고 말했다.
+## <하창직:PER> <한국알뜰통신사업자협회:ORG> 사무국장은 “<10%:PNT> 점유율은 고무적인 숫자”라고 했지만 “아직 자생력을 갖기에는 정부와 시장의 도움이 필요하다”고 말했다.
+하창직	하창직	NNP	B-PER
+_	_	_	O
+한국	한국	NNP	B-ORG
+알뜰	알뜰	NNG	I-ORG
+통신	통신	NNG	I-ORG
+사업자	사업자	NNG	I-ORG
+협회	협회	NNG	I-ORG
+_	_	_	O
+사무국	사무국	NNG	O
+장	장	XSN	O
+은	은	JX	O
+_	_	_	O
+“	“	SS	O
+10	10	SN	B-PNT
+%	%	SW	I-PNT
+_	_	_	O
+점유율	점유율	NNG	O
+은	은	JX	O
+_	_	_	O
+고무적	고무적	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+숫자	숫자	NNG	O
+”	”	SS	O
+라고	라고	JKQ	O
+_	_	_	O
+했	+였	+EP	O
+지만	지만	EC	O
+_	_	_	O
+“	“	SS	O
+아직	아직	MAG	O
+_	_	_	O
+자생력	자생력	NNG	O
+을	을	JKO	O
+_	_	_	O
+갖	갖	VV	O
+기	기	ETN	O
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+정부	정부	NNG	O
+와	와	JC	O
+_	_	_	O
+시장	시장	NNG	O
+의	의	JKG	O
+_	_	_	O
+도움	도움	NNG	O
+이	이	JKS	O
+_	_	_	O
+필요하	필요하	VA	O
+다	다	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+말	말하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## 1950년 8월 경찰과 군인은 경남 양산의 국민보도연맹원을 구금한 뒤 같은 해 8월9~22일 희생자들을 집단 사살했다.
+## <1950년 8월:DAT> 경찰과 군인은 <경남 양산:LOC>의 국민보도연맹원을 구금한 뒤 같은 해 <8월9~22일:DUR> 희생자들을 집단 사살했다.
+1950	1950	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	I-DAT
+8	8	SN	I-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+경찰	경찰	NNG	O
+과	과	JC	O
+_	_	_	O
+군인	군인	NNG	O
+은	은	JX	O
+_	_	_	O
+경남	경남	NNP	B-LOC
+_	_	_	I-LOC
+양산	양산	NNP	I-LOC
+의	의	JKG	O
+_	_	_	O
+국민	국민	NNG	O
+보도	보도	NNG	O
+연맹	연맹	NNG	O
+원	원	NNB	O
+을	을	JKO	O
+_	_	_	O
+구금한	구금하+ㄴ	VV+ETM	O
+_	_	_	O
+뒤	뒤	NNG	O
+_	_	_	O
+같	같	VA	O
+은	은	ETM	O
+_	_	_	O
+해	해	NNG	O
+_	_	_	O
+8	8	SN	B-DUR
+월	월	NNB	I-DUR
+9	9	SN	I-DUR
+~	~	SO	I-DUR
+22	22	SN	I-DUR
+일	일	NNB	I-DUR
+_	_	_	O
+희생자	희생자	NNG	O
+들	들	XSN	O
+을	을	JKO	O
+_	_	_	O
+집단	집단	NNG	O
+_	_	_	O
+사살	사살하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 14
+## 치어리더 박기량에 관해 악성 루머를 퍼트린 A 씨가 결국 사과글을 게재한 가운데 박기량 소속사 관련자가 이에 댓글을 기재했다.
+## 치어리더 <박기량:PER>에 관해 악성 루머를 퍼트린 <A:PER> 씨가 결국 사과글을 게재한 가운데 <박기량:PER> 소속사 관련자가 이에 댓글을 기재했다.
+치어리더	치어리더	NNG	O
+_	_	_	O
+박기량	박기량	NNP	B-PER
+에	에	JKB	O
+_	_	_	O
+관해	관하+여	VV+EC	O
+_	_	_	O
+악성	악성	NNG	O
+_	_	_	O
+루머	루머	NNG	O
+를	를	JKO	O
+_	_	_	O
+퍼트린	퍼트리+ㄴ	VV+ETM	O
+_	_	_	O
+A	A	SL	B-PER
+_	_	_	O
+씨	씨	NNB	O
+가	가	JKS	O
+_	_	_	O
+결국	결국	NNG	O
+_	_	_	O
+사과	사과	NNG	O
+글	글	NNG	O
+을	을	JKO	O
+_	_	_	O
+게재한	게재하+ㄴ	VV+ETM	O
+_	_	_	O
+가운데	가운데	NNG	O
+_	_	_	O
+박기량	박기량	NNP	B-PER
+_	_	_	O
+소속	소속	NNG	O
+사	사	XSN	O
+_	_	_	O
+관련자	관련자	NNG	O
+가	가	JKS	O
+_	_	_	O
+이	이	NP	O
+에	에	JKB	O
+_	_	_	O
+댓글	댓글	NNG	O
+을	을	JKO	O
+_	_	_	O
+기재	기재하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 15
+## A씨는 13일 오후 자신의 인스타그램을 통해 “지난 글들은 사귀던 선수에 대한 충격과 속상함으로 인해 작성한 글들이다”라는 글을 적었다.
+## <A:PER>씨는 <13일:DAT> 오후 자신의 <인스타그램:POH>을 통해 “지난 글들은 사귀던 선수에 대한 충격과 속상함으로 인해 작성한 글들이다”라는 글을 적었다.
+A	A	SL	B-PER
+씨	씨	NNB	O
+는	는	JX	O
+_	_	_	O
+13	13	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+오후	오후	NNG	O
+_	_	_	O
+자신	자신	NNG	O
+의	의	JKG	O
+_	_	_	O
+인스타그램	인스타그램	NNP	B-POH
+을	을	JKO	O
+_	_	_	O
+통해	통하+여	VV+EC	O
+_	_	_	O
+“	“	SS	O
+지난	지나+ㄴ	VV+ETM	O
+_	_	_	O
+글	글	NNG	O
+들	들	XSN	O
+은	은	JX	O
+_	_	_	O
+사귀	사귀	VV	O
+던	던	ETM	O
+_	_	_	O
+선수	선수	NNG	O
+에	에	JKB	O
+_	_	_	O
+대한	대하+ㄴ	VV+ETM	O
+_	_	_	O
+충격	충격	NNG	O
+과	과	JC	O
+_	_	_	O
+속상함	속상하+ㅁ	VA+ETN	O
+으로	으로	JKB	O
+_	_	_	O
+인해	인하+여	VV+EC	O
+_	_	_	O
+작성한	작성하+ㄴ	VV+ETM	O
+_	_	_	O
+글	글	NNG	O
+들	들	XSN	O
+이	이	VCP	O
+다	다	EF	O
+”	”+이	SS+VCP	O
+라는	라는	ETM	O
+_	_	_	O
+글	글	NNG	O
+을	을	JKO	O
+_	_	_	O
+적	적	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+

@@ -1,0 +1,354 @@
+## 1
+## 가장 외로웠던 경찰, 황량한 사막에서 10년간 홀로…4년 前 만난 사람이 끝?올해 말 제복을 벗는 40년 경력의 호주 경찰관 닐 맥셰인(60)이 언론에 소개 돼며 눈길을 끌고 있다.
+## 가장 외로웠던 경찰, 황량한 사막에서 <10년간:DUR> 홀로…<4년:NOH> 前 만난 사람이 끝?올해 말 제복을 벗는 <40년:NOH> 경력의 <호주:ORG> 경찰관 <닐 맥셰인:PER>(<60:NOH>)이 언론에 소개 돼며 눈길을 끌고 있다.
+가장	가장	MAG	O
+_	_	_	O
+외로	외롭	VA	O
+웠	었	EP	O
+던	던	ETM	O
+_	_	_	O
+경찰	경찰	NNG	O
+,	,	SP	O
+_	_	_	O
+황량한	황량하+ㄴ	VA+ETM	O
+_	_	_	O
+사막	사막	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+10	10	SN	B-DUR
+년	년	NNB	I-DUR
+간	간	XSN	I-DUR
+_	_	_	O
+홀로	홀로	MAG	O
+…	…	SE	O
+4	4	SN	B-NOH
+년	년	NNB	I-NOH
+_	_	_	O
+前	前	SH	O
+_	_	_	O
+만난	만나+ㄴ	VV+ETM	O
+_	_	_	O
+사람	사람	NNG	O
+이	이	JKS	O
+_	_	_	O
+끝	끝	NNG	O
+?	?	SF	O
+올해	올해	NNG	O
+_	_	_	O
+말	말	NNB	O
+_	_	_	O
+제복	제복	NNG	O
+을	을	JKO	O
+_	_	_	O
+벗	벗	VV	O
+는	는	ETM	O
+_	_	_	O
+40	40	SN	B-NOH
+년	년	NNB	I-NOH
+_	_	_	O
+경력	경력	NNG	O
+의	의	JKG	O
+_	_	_	O
+호주	호주	NNP	B-ORG
+_	_	_	O
+경찰관	경찰관	NNG	O
+_	_	_	O
+닐	닐	NNP	B-PER
+_	_	_	I-PER
+맥	맥	NNG	I-PER
+셰인	셰인	NNP	I-PER
+(	(	SS	O
+60	60	SN	B-NOH
+)	)	SS	O
+이	이	JKS	O
+_	_	_	O
+언론	언론	NNG	O
+에	에	JKB	O
+_	_	_	O
+소개	소개	NNG	O
+_	_	_	O
+돼	되+어	VV+EC	O
+며	며	EC	O
+_	_	_	O
+눈길	눈길	NNG	O
+을	을	JKO	O
+_	_	_	O
+끌	끌	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 그린 유목민 왕정훈, ‘진주 왕자’로
+## 그린 유목민 <왕정훈:PER>, ‘<진주 왕자:POH>’로
+그린	그린	NNG	O
+_	_	_	O
+유목민	유목민	NNG	O
+_	_	_	O
+왕정훈	왕정훈	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+‘	‘	SS	O
+진주	진주	NNP	B-POH
+_	_	_	I-POH
+왕자	왕자	NNG	I-POH
+’	’	SS	O
+로	로	JKB	O
+
+## 3
+## 3월 10일 또는 13일 탄핵심판 선고
+## <3월 10일:DAT> 또는 <13일:DAT> 탄핵심판 선고
+3	3	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	I-DAT
+10	10	SN	I-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+또는	또는	MAG	O
+_	_	_	O
+13	13	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+탄핵	탄핵	NNG	O
+심판	심판	NNG	O
+_	_	_	O
+선고	선고	NNG	O
+
+## 4
+## [부고]정철수 아들상
+## [부고]<정철수:PER> 아들상
+[	[	SS	O
+부고	부고	NNG	O
+]	]	SS	O
+정철수	정철수	NNP	B-PER
+_	_	_	O
+아들	아들	NNG	O
+상	상	NNG	O
+
+## 5
+## 에디의 생사 여부는 아직 파악되지 않고 있다.
+## <에디:PER>의 생사 여부는 아직 파악되지 않고 있다.
+에디	에디	NNP	B-PER
+의	의	JKG	O
+_	_	_	O
+생사	생사	NNG	O
+_	_	_	O
+여부	여부	NNG	O
+는	는	JX	O
+_	_	_	O
+아직	아직	MAG	O
+_	_	_	O
+파악되	파악되	VV	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 2박3일에 60만원… 사회문제 불러
+## <2박:NOH><3일:NOH>에 <60만원:MNY>… 사회문제 불러
+2	2	SN	B-NOH
+박	박	NNB	I-NOH
+3	3	SN	B-NOH
+일	일	NNB	I-NOH
+에	에	JKB	O
+_	_	_	O
+60	60	SN	B-MNY
+만	만	NR	I-MNY
+원	원	NNB	I-MNY
+…	…	SE	O
+_	_	_	O
+사회	사회	NNG	O
+문제	문제	NNG	O
+_	_	_	O
+불	부르	VV	O
+러	어	EC	O
+
+## 7
+## LCD핵심 광학필름 업계 ‘샛별’ 창업 첫해부터 100만달러 수출
+## LCD핵심 광학필름 업계 ‘샛별’ 창업 첫해부터 <100만달러:MNY> 수출
+LCD	LCD	SL	O
+핵심	핵심	NNG	O
+_	_	_	O
+광학	광학	NNG	O
+필름	필름	NNG	O
+_	_	_	O
+업계	업계	NNG	O
+_	_	_	O
+‘	‘	SS	O
+샛별	샛별	NNG	O
+’	’	SS	O
+_	_	_	O
+창업	창업	NNG	O
+_	_	_	O
+첫해	첫해	NNG	O
+부터	부터	JX	O
+_	_	_	O
+100	100	SN	B-MNY
+만	만	NR	I-MNY
+달러	달러	NNB	I-MNY
+_	_	_	O
+수출	수출	NNG	O
+
+## 8
+## ‘사랑도 통역이 되나요?’(2003년)로 베니스 영화제 감독상과 아카데미 각본상을 수상했고 ‘썸웨어’(2010년)로 같은 영화제 황금사자상을 받았다.
+## ‘<사랑도 통역이 되나요:POH>?’(<2003년:DAT>)로 <베니스:LOC> 영화제 감독상과 <아카데미:ORG> 각본상을 수상했고 ‘<썸웨어:POH>’(<2010년:DAT>)로 같은 영화제 <황금사자상:POH>을 받았다.
+‘	‘	SS	O
+사랑	사랑	NNG	B-POH
+도	도	JX	I-POH
+_	_	_	I-POH
+통역	통역	NNG	I-POH
+이	이	JKC	I-POH
+_	_	_	I-POH
+되	되	VV	I-POH
+나요	나요	EF	I-POH
+?	?	SF	O
+’	’	SS	O
+(	(	SS	O
+2003	2003	SN	B-DAT
+년	년	NNB	I-DAT
+)	)	SS	O
+로	로	JKB	O
+_	_	_	O
+베니스	베니스	NNP	B-LOC
+_	_	_	O
+영화제	영화제	NNG	O
+_	_	_	O
+감독	감독	NNG	O
+상	상	NNG	O
+과	과	JC	O
+_	_	_	O
+아카데미	아카데미	NNG	B-ORG
+_	_	_	O
+각본	각본	NNG	O
+상	상	NNG	O
+을	을	JKO	O
+_	_	_	O
+수상	수상하	VV	O
+했	였	EP	O
+고	고	EC	O
+_	_	_	O
+‘	‘	SS	O
+썸	썸	NNG	B-POH
+웨어	웨어	NNG	I-POH
+’	’	SS	O
+(	(	SS	O
+2010	2010	SN	B-DAT
+년	년	NNB	I-DAT
+)	)	SS	O
+로	로	JKB	O
+_	_	_	O
+같	같	VA	O
+은	은	ETM	O
+_	_	_	O
+영화제	영화제	NNG	O
+_	_	_	O
+황금	황금	NNG	B-POH
+사자	사자	NNG	I-POH
+상	상	NNG	I-POH
+을	을	JKO	O
+_	_	_	O
+받	받	VV	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 레임덕의 금융개혁은 불가능했나: 김영삼 정부가 추진한 금융개혁은 기아사태 해결 지연으로 인해 저하된 대외신인도를 회복할 마지막 기회가 됐다.
+## 레임덕의 금융개혁은 불가능했나: <김영삼:PER> 정부가 추진한 금융개혁은 기아사태 해결 지연으로 인해 저하된 대외신인도를 회복할 마지막 기회가 됐다.
+레임덕	레임덕	NNG	O
+의	의	JKG	O
+_	_	_	O
+금융	금융	NNG	O
+개혁	개혁	NNG	O
+은	은	JX	O
+_	_	_	O
+불가능	불가능하	VA	O
+했	였	EP	O
+나	나	EC	O
+:	:	SP	O
+_	_	_	O
+김영삼	김영삼	NNP	B-PER
+_	_	_	O
+정부	정부	NNG	O
+가	가	JKS	O
+_	_	_	O
+추진한	추진하+ㄴ	VV+ETM	O
+_	_	_	O
+금융	금융	NNG	O
+개혁	개혁	NNG	O
+은	은	JX	O
+_	_	_	O
+기아	기아	NNP	O
+사태	사태	NNG	O
+_	_	_	O
+해결	해결	NNG	O
+_	_	_	O
+지연	지연	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+인해	인하+여	VV+EC	O
+_	_	_	O
+저하된	저하되+ㄴ	VV+ETM	O
+_	_	_	O
+대외	대외	NNG	O
+신인	신인	NNG	O
+도	도	NNG	O
+를	를	JKO	O
+_	_	_	O
+회복할	회복하+ㄹ	VV+ETM	O
+_	_	_	O
+마지막	마지막	NNG	O
+_	_	_	O
+기회	기회	NNG	O
+가	가	JKC	O
+_	_	_	O
+됐	+었	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 당시 존슨은 호주 북부 다윈에서 비행을 마쳤으며 11년 후 영국에서 비행사고로 숨졌다.
+## 당시 <존슨:PER>은 <호주 북부 다윈:LOC>에서 비행을 마쳤으며 <11년:DAT> 후 <영국:LOC>에서 비행사고로 숨졌다.
+당시	당시	NNG	O
+_	_	_	O
+존슨	존슨	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+호주	호주	NNP	B-LOC
+_	_	_	I-LOC
+북부	북부	NNG	I-LOC
+_	_	_	I-LOC
+다윈	다윈	NNP	I-LOC
+에서	에서	JKB	O
+_	_	_	O
+비행	비행	NNG	O
+을	을	JKO	O
+_	_	_	O
+마	마치	VV	O
+쳤	었	EP	O
+으며	으며	EC	O
+_	_	_	O
+11	11	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+후	후	NNG	O
+_	_	_	O
+영국	영국	NNP	B-LOC
+에서	에서	JKB	O
+_	_	_	O
+비행	비행	NNG	O
+사고	사고	NNG	O
+로	로	JKB	O
+_	_	_	O
+숨	숨지	VV	O
+졌	었	EP	O
+다	다	EF	O
+.	.	SF	O
+

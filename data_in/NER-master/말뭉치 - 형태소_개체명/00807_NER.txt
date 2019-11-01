@@ -1,0 +1,611 @@
+## 1
+## 이씨는 2014년 12월부터 지난해 11월까지 불법 도박 사이트 3개를 차려놓고 회원 5000여 명으로부터 550억원 상당을 입금받아 28억여원의 부당 이득을 챙긴 혐의다.
+## <이:PER>씨는 <2014년 12월:DAT>부터 지난해 <11월:DAT>까지 불법 도박 사이트 <3개:NOH>를 차려놓고 회원 <5000여 명:NOH>으로부터 <550억원:MNY> 상당을 입금받아 <28억여원:MNY>의 부당 이득을 챙긴 혐의다.
+이	이	NNP	B-PER
+씨	씨	NNB	O
+는	는	JX	O
+_	_	_	O
+2014	2014	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	I-DAT
+12	12	SN	I-DAT
+월	월	NNB	I-DAT
+부터	부터	JX	O
+_	_	_	O
+지난해	지난해	NNG	O
+_	_	_	O
+11	11	SN	B-DAT
+월	월	NNB	I-DAT
+까지	까지	JX	O
+_	_	_	O
+불법	불법	NNG	O
+_	_	_	O
+도박	도박	NNG	O
+_	_	_	O
+사이트	사이트	NNG	O
+_	_	_	O
+3	3	SN	B-NOH
+개	개	NNB	I-NOH
+를	를	JKO	O
+_	_	_	O
+차려	차리+어	VV+EC	O
+놓	놓	VX	O
+고	고	EC	O
+_	_	_	O
+회원	회원	NNG	O
+_	_	_	O
+5000	5000	SN	B-NOH
+여	여	XSN	I-NOH
+_	_	_	I-NOH
+명	명	NNB	I-NOH
+으로부터	으로부터	JKB	O
+_	_	_	O
+550	550	SN	B-MNY
+억	억	NR	I-MNY
+원	원	NNB	I-MNY
+_	_	_	O
+상당	상당	NNG	O
+을	을	JKO	O
+_	_	_	O
+입금	입금	NNG	O
+받	받	XSV	O
+아	아	EC	O
+_	_	_	O
+28	28	SN	B-MNY
+억	억	NR	I-MNY
+여	여	XSN	I-MNY
+원	원	NNB	I-MNY
+의	의	JKG	O
+_	_	_	O
+부당	부당	NNG	O
+_	_	_	O
+이득	이득	NNG	O
+을	을	JKO	O
+_	_	_	O
+챙긴	챙기+ㄴ	VV+ETM	O
+_	_	_	O
+혐의	혐의+이	NNG+VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 4 케이크 시트를 냉동실에 넣어 둔다.
+## <4:NOH> 케이크 시트를 냉동실에 넣어 둔다.
+4	4	SN	B-NOH
+_	_	_	O
+케이크	케이크	NNG	O
+_	_	_	O
+시트	시트	NNG	O
+를	를	JKO	O
+_	_	_	O
+냉동실	냉동실	NNG	O
+에	에	JKB	O
+_	_	_	O
+넣	넣	VV	O
+어	어	EC	O
+_	_	_	O
+둔다	두+ㄴ다	VX+EF	O
+.	.	SF	O
+
+## 3
+## 안철수 캠프, ‘5일 후보 선출’ 경선룰에 항의…참모진 총사퇴
+## <안철수:PER> 캠프, ‘<5일:DAT> 후보 선출’ 경선룰에 항의…참모진 총사퇴
+안철수	안철수	NNP	B-PER
+_	_	_	O
+캠프	캠프	NNG	O
+,	,	SP	O
+_	_	_	O
+‘	‘	SS	O
+5	5	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+후보	후보	NNG	O
+_	_	_	O
+선출	선출	NNG	O
+’	’	SS	O
+_	_	_	O
+경선	경선	NNG	O
+룰	룰	NNG	O
+에	에	JKB	O
+_	_	_	O
+항	항	NNG	O
+의	의	JKG	O
+…	…	SE	O
+참모	참모	NNG	O
+진	진	XSN	O
+_	_	_	O
+총사퇴	총사퇴	NNG	O
+
+## 4
+## 파리잡는 파리넬리가 최종 결정전 무대에 올랐고 캣츠걸과 맞붙었다.
+## <파리잡는 파리넬리:POH>가 최종 결정전 무대에 올랐고 <캣츠걸:POH>과 맞붙었다.
+파리	파리	NNP	B-POH
+잡	잡	VV	I-POH
+는	는	ETM	I-POH
+_	_	_	I-POH
+파리	파리	NNP	I-POH
+넬리	넬리	NNP	I-POH
+가	가	JKS	O
+_	_	_	O
+최종	최종	NNG	O
+_	_	_	O
+결정	결정	NNG	O
+전	전	XSN	O
+_	_	_	O
+무대	무대	NNG	O
+에	에	JKB	O
+_	_	_	O
+올	오르	VV	O
+랐	았	EP	O
+고	고	EC	O
+_	_	_	O
+캣츠	캣츠	NNP	B-POH
+걸	걸	NNG	I-POH
+과	과	JKB	O
+_	_	_	O
+맞붙	맞붙	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 씨스타 SHAKE IT 컴백, 하와이 해변 점령한 몸짱女들…‘애플힙+꿀벅지’ 자랑
+## <씨스타:ORG> <SHAKE IT:POH> 컴백, <하와이:LOC> 해변 점령한 몸짱女들…‘애플힙+꿀벅지’ 자랑
+씨스타	씨스타	NNP	B-ORG
+_	_	_	O
+SHAKE	SHAKE	SL	B-POH
+_	_	_	I-POH
+IT	IT	SL	I-POH
+_	_	_	O
+컴백	컴백	NNG	O
+,	,	SP	O
+_	_	_	O
+하와이	하와이	NNP	B-LOC
+_	_	_	O
+해변	해변	NNG	O
+_	_	_	O
+점령한	점령하+ㄴ	VV+ETM	O
+_	_	_	O
+몸	몸	NNG	O
+짱	짱	NNG	O
+女	女	SH	O
+들	들	XSN	O
+…	…	SE	O
+‘	‘	SS	O
+애플	애플	NNP	O
+힙+	힙++	NNG+SW	O
+꿀벅	꿀벅+하	NNG+XSV	O
+지	지	EF	O
+’	’	SS	O
+_	_	_	O
+자랑	자랑	NNG	O
+
+## 6
+## 성완종 전 회장 숨진 채 발견, 북한산 입구 300m 지점..."어머니 곁에 묻어달라"
+## <성완종:PER> 전 회장 숨진 채 발견, <북한산:LOC> 입구 <300m:POH> 지점..."어머니 곁에 묻어달라"
+성완종	성완종	NNP	B-PER
+_	_	_	O
+전	전	MM	O
+_	_	_	O
+회장	회장	NNG	O
+_	_	_	O
+숨진	숨지+ㄴ	VV+ETM	O
+_	_	_	O
+채	채	NNB	O
+_	_	_	O
+발견	발견	NNG	O
+,	,	SP	O
+_	_	_	O
+북한산	북한산	NNP	B-LOC
+_	_	_	O
+입구	입구	NNG	O
+_	_	_	O
+300	300	SN	B-POH
+m	m	SL	I-POH
+_	_	_	O
+지점	지점	NNG	O
+.	.	SF	O
+.	.	SF	O
+.	.	SF	O
+"	"	SS	O
+어머니	어머니	NNG	O
+_	_	_	O
+곁	곁	NNG	O
+에	에	JKB	O
+_	_	_	O
+묻	묻	VV	O
+어	어	EC	O
+달	달	VX	O
+라	라	EF	O
+"	"	SS	O
+
+## 7
+## “정치 X나게 해봐야 부모 잘 만난 것 못 쫓아가. 북한은 김정은이 최고. 왕후장상 영유종호”라고 밝혀 파문이 일어난 바 있다.
+## “정치 X나게 해봐야 부모 잘 만난 것 못 쫓아가. <북한:ORG>은 <김정은:PER>이 최고. 왕후장상 영유종호”라고 밝혀 파문이 일어난 바 있다.
+“	“	SS	O
+정치	정치	NNG	O
+_	_	_	O
+X	X	SL	O
+나	나	VV	O
+게	게	EC	O
+_	_	_	O
+해	하+여	VV+EC	O
+봐야	보+아야	VX+EC	O
+_	_	_	O
+부모	부모	NNG	O
+_	_	_	O
+잘	잘	MAG	O
+_	_	_	O
+만난	만나+ㄴ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+_	_	_	O
+못	못	MAG	O
+_	_	_	O
+쫓아가	쫓아가+아	VV+EF	O
+.	.	SF	O
+_	_	_	O
+북한	북한	NNP	B-ORG
+은	은	JX	O
+_	_	_	O
+김정은	김정은	NNP	B-PER
+이	이	JKS	O
+_	_	_	O
+최고	최고	NNG	O
+.	.	SF	O
+_	_	_	O
+왕후장상	왕후장상	NNG	O
+_	_	_	O
+영	영	NNG	O
+유종호	유종호	NNP	O
+”	”	SS	O
+라고	라고	JKQ	O
+_	_	_	O
+밝혀	밝히+어	VV+EC	O
+_	_	_	O
+파문	파문	NNG	O
+이	이	JKS	O
+_	_	_	O
+일어난	일어나+ㄴ	VV+ETM	O
+_	_	_	O
+바	바	NNB	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 우리나라에서는 아직도 쌍둥이나 세쌍둥이가 축복인 양 생각하는 사람이 적지 않지만 의학적으로는 비정상적인 임신으로 분류된다.
+## 우리나라에서는 아직도 <쌍둥이:NOH>나 <세쌍둥이:NOH>가 축복인 양 생각하는 사람이 적지 않지만 의학적으로는 비정상적인 임신으로 분류된다.
+우리나라	우리나라	NNG	O
+에서	에서	JKB	O
+는	는	JX	O
+_	_	_	O
+아직	아직	MAG	O
+도	도	JX	O
+_	_	_	O
+쌍둥이	쌍둥이	NNG	B-NOH
+나	나	JC	O
+_	_	_	O
+세쌍둥이	세쌍둥이	NNG	B-NOH
+가	가	JKS	O
+_	_	_	O
+축복	축복	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+양	양	NNB	O
+_	_	_	O
+생각하	생각하	VV	O
+는	는	ETM	O
+_	_	_	O
+사람	사람	NNG	O
+이	이	JKS	O
+_	_	_	O
+적	적	VA	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+지만	지만	EC	O
+_	_	_	O
+의학적	의학적	NNG	O
+으로	으로	JKB	O
+는	는	JX	O
+_	_	_	O
+비정상적	비정상적	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+임신	임신	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+분류된다	분류되+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 9
+## 그의 트위터 외교는 훌륭하다.
+## 그의 <트위터:POH> 외교는 훌륭하다.
+그	그	NP	O
+의	의	JKG	O
+_	_	_	O
+트위터	트위터	NNP	B-POH
+_	_	_	O
+외교	외교	NNG	O
+는	는	JX	O
+_	_	_	O
+훌륭하	훌륭하	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 중국인민은행도 지난달 28일 7년 만에 기준금리와 지급준비율을 동시에 내리며 돈을 풀고 있다.
+## <중국인민은행:ORG>도 지난달 <28일:DAT> <7년:DUR> 만에 기준금리와 지급준비율을 동시에 내리며 돈을 풀고 있다.
+중국인민은행	중국인민은행	NNP	B-ORG
+도	도	JX	O
+_	_	_	O
+지난달	지난달	NNG	O
+_	_	_	O
+28	28	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+7	7	SN	B-DUR
+년	년	NNB	I-DUR
+_	_	_	O
+만	만	NNB	O
+에	에	JKB	O
+_	_	_	O
+기준	기준	NNG	O
+금리	금리	NNG	O
+와	와	JC	O
+_	_	_	O
+지급	지급	NNG	O
+준비	준비	NNG	O
+율	율	XSN	O
+을	을	JKO	O
+_	_	_	O
+동시	동시	NNG	O
+에	에	JKB	O
+_	_	_	O
+내리	내리	VV	O
+며	며	EC	O
+_	_	_	O
+돈	돈	NNG	O
+을	을	JKO	O
+_	_	_	O
+풀	풀	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 바둑기사 이세돌 9단이 인공지능 바둑 프로그램 ‘알파고’에 3연패 뒤 귀중한 첫승을 거뒀다.
+## 바둑기사 <이세돌:PER> <9단:NOH>이 인공지능 바둑 프로그램 ‘<알파고:POH>’에 <3연패:NOH> 뒤 귀중한 <첫승:NOH>을 거뒀다.
+바둑	바둑	NNG	O
+기사	기사	NNG	O
+_	_	_	O
+이세돌	이세돌	NNP	B-PER
+_	_	_	O
+9	9	SN	B-NOH
+단	단	NNG	I-NOH
+이	이	JKS	O
+_	_	_	O
+인공	인공	NNG	O
+지능	지능	NNG	O
+_	_	_	O
+바둑	바둑	NNG	O
+_	_	_	O
+프로그램	프로그램	NNG	O
+_	_	_	O
+‘	‘	SS	O
+알파	알파	NNP	B-POH
+고	고	JKQ	I-POH
+’	’	SS	O
+에	에	JKB	O
+_	_	_	O
+3	3	SN	B-NOH
+연패	연패	NNG	I-NOH
+_	_	_	O
+뒤	뒤	NNG	O
+_	_	_	O
+귀중한	귀중하+ㄴ	VA+ETM	O
+_	_	_	O
+첫	첫	MM	B-NOH
+승	승	NNG	I-NOH
+을	을	JKO	O
+_	_	_	O
+거	거두	VV	O
+뒀	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 13일 오후 1시 서울 포시즌스 호텔에서 진행된 ‘구글 딥마인드 챌린지 매치’ 5번기 제4국에서 이세돌 9단은 알파고에 180수 불계승을 거뒀다.
+## <13일:DAT> <오후 1시:TIM> <서울:LOC> <포시즌스 호텔:LOC>에서 진행된 ‘<구글 딥마인드 챌린지 매치:POH>’ <5번:NOH>기 <제4국:NOH>에서 <이세돌:PER> <9단:NOH>은 <알파고:POH>에 <180수:NOH> 불계승을 거뒀다.
+13	13	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+오후	오후	NNG	B-TIM
+_	_	_	I-TIM
+1	1	SN	I-TIM
+시	시	NNB	I-TIM
+_	_	_	O
+서울	서울	NNP	B-LOC
+_	_	_	O
+포시즌스	포시즌스	NNP	B-LOC
+_	_	_	I-LOC
+호텔	호텔	NNG	I-LOC
+에서	에서	JKB	O
+_	_	_	O
+진행된	진행되+ㄴ	VV+ETM	O
+_	_	_	O
+‘	‘	SS	O
+구글	구글	NNP	B-POH
+_	_	_	I-POH
+딥	딥	NNG	I-POH
+마인드	마인드	NNG	I-POH
+_	_	_	I-POH
+챌린지	챌린지	NNG	I-POH
+_	_	_	I-POH
+매치	매치	NNG	I-POH
+’	’	SS	O
+_	_	_	O
+5	5	SN	B-NOH
+번	번	NNB	I-NOH
+기	기	NNG	O
+_	_	_	O
+제	제	XPN	B-NOH
+4	4	SN	I-NOH
+국	국	NNB	I-NOH
+에서	에서	JKB	O
+_	_	_	O
+이세돌	이세돌	NNP	B-PER
+_	_	_	O
+9	9	SN	B-NOH
+단	단	NNG	I-NOH
+은	은	JX	O
+_	_	_	O
+알	알	NNP	B-POH
+파고	파고	NNG	I-POH
+에	에	JKB	O
+_	_	_	O
+180	180	SN	B-NOH
+수	수	NNB	I-NOH
+_	_	_	O
+불계승	불계승	NNG	O
+을	을	JKO	O
+_	_	_	O
+거	거두	VV	O
+뒀	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## 앞서 이세돌 9단은 1~3국에서 내리 패하면서 매치 패배를 확정지었다.
+## 앞서 <이세돌:PER> <9단:NOH>은 <1:NOH>~<3국:NOH>에서 내리 패하면서 매치 패배를 확정지었다.
+앞서	앞서	MAG	O
+_	_	_	O
+이세돌	이세돌	NNP	B-PER
+_	_	_	O
+9	9	SN	B-NOH
+단	단	NNG	I-NOH
+은	은	JX	O
+_	_	_	O
+1	1	SN	B-NOH
+~	~	SO	O
+3	3	SN	B-NOH
+국	국	NNB	I-NOH
+에서	에서	JKB	O
+_	_	_	O
+내리	내리	MAG	O
+_	_	_	O
+패하	패하	VV	O
+면서	면서	EC	O
+_	_	_	O
+매치	매치	NNG	O
+_	_	_	O
+패배	패배	NNG	O
+를	를	JKO	O
+_	_	_	O
+확정	확정	NNG	O
+지	짓	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 14
+## 청 의원은 징역 1개월 이상 유죄 판결을 받으면 입법회 출석 의원 3분의 2 찬성으로 의원 자격을 박탈당할 수 있다.
+## <청:PER> 의원은 징역 <1개월:NOH> 이상 유죄 판결을 받으면 입법회 출석 의원 <3분의 2:PNT> 찬성으로 의원 자격을 박탈당할 수 있다.
+청	청	NNG	B-PER
+_	_	_	O
+의원	의원	NNG	O
+은	은	JX	O
+_	_	_	O
+징역	징역	NNG	O
+_	_	_	O
+1	1	SN	B-NOH
+개월	개월	NNB	I-NOH
+_	_	_	O
+이상	이상	NNG	O
+_	_	_	O
+유죄	유죄	NNG	O
+_	_	_	O
+판결	판결	NNG	O
+을	을	JKO	O
+_	_	_	O
+받	받	VV	O
+으면	으면	EC	O
+_	_	_	O
+입법	입법	NNG	O
+회	회	XSN	O
+_	_	_	O
+출석	출석	NNG	O
+_	_	_	O
+의원	의원	NNG	O
+_	_	_	O
+3	3	SN	B-PNT
+분	분	XSN	I-PNT
+의	의	JKG	I-PNT
+_	_	_	I-PNT
+2	2	SN	I-PNT
+_	_	_	O
+찬성	찬성	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+의원	의원	NNG	O
+_	_	_	O
+자격	자격	NNG	O
+을	을	JKO	O
+_	_	_	O
+박탈	박탈	NNG	O
+당할	당하+ㄹ	XSV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 15
+## 박병호 “내 폼 그대로 간다”
+## <박병호:PER> “내 폼 그대로 간다”
+박병호	박병호	NNP	B-PER
+_	_	_	O
+“	“	SS	O
+내	나+의	NP+JKG	O
+_	_	_	O
+폼	폼	NNG	O
+_	_	_	O
+그대로	그대로	MAG	O
+_	_	_	O
+간다	가+ㄴ다	VV+EF	O
+”	”	SS	O
+
+## 16
+## 이세돌은 생각하기 어려운 창의적인 수법으로 경쟁자들을 제압하곤 했다.
+## <이세돌:PER>은 생각하기 어려운 창의적인 수법으로 경쟁자들을 제압하곤 했다.
+이세돌	이세돌	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+생각하	생각하	VV	O
+기	기	ETN	O
+_	_	_	O
+어려	어렵	VA	O
+운	ㄴ	ETM	O
+_	_	_	O
+창의적	창의적	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+수법	수법	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+경쟁자	경쟁자	NNG	O
+들	들	XSN	O
+을	을	JKO	O
+_	_	_	O
+제압하	제압하	VV	O
+곤	곤	EC	O
+_	_	_	O
+했	+였	+EP	O
+다	다	EF	O
+.	.	SF	O
+

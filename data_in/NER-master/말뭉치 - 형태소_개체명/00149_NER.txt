@@ -1,0 +1,488 @@
+## 1
+## 최희섭은 20일 “지난주 KIA 구단과 얘기가 됐다.
+## <최희섭:PER>은 <20일:DAT> “지난주 <KIA 구단:ORG>과 얘기가 됐다.
+최희섭	최희섭	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+20	20	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+“	“	SS	O
+지난주	지난주	NNG	O
+_	_	_	O
+KIA	KIA	SL	B-ORG
+_	_	_	I-ORG
+구단	구단	NNG	I-ORG
+과	과	JKB	O
+_	_	_	O
+얘기	얘기	NNG	O
+가	가	JKC	O
+_	_	_	O
+됐	+었	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 안재욱♥최현주, 5월 결혼… 네티즌 반응이…
+## <안재욱:PER>♥<최현주:PER>, <5월:DAT> 결혼… 네티즌 반응이…
+안재욱	안재욱	NNP	B-PER
+♥	♥	SW	O
+최현주	최현주	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+5	5	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+결혼	결혼	NNG	O
+…	…	SE	O
+_	_	_	O
+네티즌	네티즌	NNG	O
+_	_	_	O
+반응	반응	NNG	O
+이	이	JKS	O
+…	…	SE	O
+
+## 3
+## 김호섭 경북도 창조경제과학과장은 “사업이 본궤도에 오르면 10여 년간 1조9000억 원의 재난피해 감소와 5100억 원의 시장 창출 효과를 낼 것으로 분석됐다”고 말했다.
+## <김호섭:PER> <경북도:ORG> 창조경제과학과장은 “사업이 본궤도에 오르면 <10여 년간:DUR> <1조9000억 원:MNY>의 재난피해 감소와 <5100억 원:MNY>의 시장 창출 효과를 낼 것으로 분석됐다”고 말했다.
+김호섭	김호섭	NNP	B-PER
+_	_	_	O
+경북도	경북도	NNP	B-ORG
+_	_	_	O
+창조	창조	NNG	O
+경제	경제	NNG	O
+과	과	XSN	O
+학과	학과	NNG	O
+장	장	XSN	O
+은	은	JX	O
+_	_	_	O
+“	“	SS	O
+사업	사업	NNG	O
+이	이	JKS	O
+_	_	_	O
+본궤도	본궤도	NNG	O
+에	에	JKB	O
+_	_	_	O
+오르	오르	VV	O
+면	면	EC	O
+_	_	_	O
+10	10	SN	B-DUR
+여	여	XSN	I-DUR
+_	_	_	I-DUR
+년	년	NNB	I-DUR
+간	간	XSN	I-DUR
+_	_	_	O
+1	1	SN	B-MNY
+조	조	NNG	I-MNY
+9000	9000	SN	I-MNY
+억	억	NR	I-MNY
+_	_	_	I-MNY
+원	원	NNB	I-MNY
+의	의	JKG	O
+_	_	_	O
+재난	재난	NNG	O
+피해	피해	NNG	O
+_	_	_	O
+감소	감소	NNG	O
+와	와	JC	O
+_	_	_	O
+5100	5100	SN	B-MNY
+억	억	NR	I-MNY
+_	_	_	I-MNY
+원	원	NNB	I-MNY
+의	의	JKG	O
+_	_	_	O
+시장	시장	NNG	O
+_	_	_	O
+창출	창출	NNG	O
+_	_	_	O
+효과	효과	NNG	O
+를	를	JKO	O
+_	_	_	O
+낼	내+ㄹ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+분석	분석되	VV	O
+됐	었	EP	O
+다	다	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+말	말하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## ‘대통령 방미 연기’박근혜 대통령이 방미 일정을 연기했다.
+## ‘대통령 방미 연기’<박근혜:PER> 대통령이 방미 일정을 연기했다.
+‘	‘	SS	O
+대통령	대통령	NNG	O
+_	_	_	O
+방	방	NNG	O
+미	미	NNP	O
+_	_	_	O
+연기	연기	NNG	O
+’	’	SS	O
+박근혜	박근혜	NNP	B-PER
+_	_	_	O
+대통령	대통령	NNG	O
+이	이	JKS	O
+_	_	_	O
+방	방	NNG	O
+미	미	NNP	O
+_	_	_	O
+일정	일정	NNG	O
+을	을	JKO	O
+_	_	_	O
+연기	연기하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 송일국, 아내 정승연 판사에 백허그+입맞춤… ‘여전히 신혼’
+## <송일국:PER>, 아내 <정승연:PER> 판사에 백허그+입맞춤… ‘여전히 신혼’
+송일국	송일국	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+아내	아내	NNG	O
+_	_	_	O
+정승연	정승연	NNP	B-PER
+_	_	_	O
+판사	판사	NNG	O
+에	에	JKB	O
+_	_	_	O
+백	백	NNG	O
+허그+	허그++	NNP+SW	O
+입맞춤	입맞춤	NNG	O
+…	…	SE	O
+_	_	_	O
+‘	‘	SS	O
+여전히	여전히	MAG	O
+_	_	_	O
+신혼	신혼	NNG	O
+’	’	SS	O
+
+## 6
+## 1라운드에서 3오버파(75타)를 치며 공동 81위에 그치면서 컷 통과가 불안했다.
+## <1라운드:NOH>에서 <3오버파:NOH>(<75타:NOH>)를 치며 공동 <81위:NOH>에 그치면서 컷 통과가 불안했다.
+1	1	SN	B-NOH
+라운드	라운드	NNG	I-NOH
+에서	에서	JKB	O
+_	_	_	O
+3	3	SN	B-NOH
+오버파	오버파	NNG	I-NOH
+(	(	SS	O
+75	75	SN	B-NOH
+타	타	NNG	I-NOH
+)	)	SS	O
+를	를	JKO	O
+_	_	_	O
+치	치	VV	O
+며	며	EC	O
+_	_	_	O
+공동	공동	NNG	O
+_	_	_	O
+81	81	SN	B-NOH
+위	위	NNB	I-NOH
+에	에	JKB	O
+_	_	_	O
+그치	그치	VV	O
+면서	면서	EC	O
+_	_	_	O
+컷	컷	NNG	O
+_	_	_	O
+통과	통과	NNG	O
+가	가	JKS	O
+_	_	_	O
+불안	불안하	VA	O
+했	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 진정 국면으로 들어가던 서울 지역 유치원 누리과정 예산 파동이 하루 만에 원점으로 돌아왔다.
+## 진정 국면으로 들어가던 <서울:LOC> 지역 유치원 누리과정 예산 파동이 <하루:NOH> 만에 원점으로 돌아왔다.
+진정	진정	NNG	O
+_	_	_	O
+국면	국면	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+들어가	들어가	VV	O
+던	던	ETM	O
+_	_	_	O
+서울	서울	NNP	B-LOC
+_	_	_	O
+지역	지역	NNG	O
+_	_	_	O
+유치원	유치원	NNG	O
+_	_	_	O
+누리	누리	NNG	O
+과정	과정	NNG	O
+_	_	_	O
+예산	예산	NNG	O
+_	_	_	O
+파동	파동	NNG	O
+이	이	JKS	O
+_	_	_	O
+하루	하루	NNG	B-NOH
+_	_	_	O
+만	만	NNB	O
+에	에	JKB	O
+_	_	_	O
+원점	원점	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+돌아	돌아오	VV	O
+왔	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 이어 비밀병기 그녀 취재를 온 취재진이 젝스키스 재결합에 관해 묻자 장수원은 "올해가 가장 긍정적인 이야기를 하는 해가 아닌가 싶다.
+## 이어 비밀병기 그녀 취재를 온 취재진이 <젝스키스:ORG> 재결합에 관해 묻자 <장수원:PER>은 "올해가 가장 긍정적인 이야기를 하는 해가 아닌가 싶다.
+이어	이어	MAG	O
+_	_	_	O
+비밀	비밀	NNG	O
+병기	병기	NNG	O
+_	_	_	O
+그녀	그녀	NP	O
+_	_	_	O
+취재	취재	NNG	O
+를	를	JKO	O
+_	_	_	O
+온	온	NNG	O
+_	_	_	O
+취재진	취재진	NNG	O
+이	이	JKS	O
+_	_	_	O
+젝스키스	젝스키스	NNP	B-ORG
+_	_	_	O
+재결합	재결합	NNG	O
+에	에	JKB	O
+_	_	_	O
+관해	관하+여	VV+EC	O
+_	_	_	O
+묻	묻	VV	O
+자	자	EC	O
+_	_	_	O
+장수원	장수원	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+"	"	SS	O
+올해	올해	NNG	O
+가	가	JKS	O
+_	_	_	O
+가장	가장	MAG	O
+_	_	_	O
+긍정적	긍정적	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+이야기	이야기	NNG	O
+를	를	JKO	O
+_	_	_	O
+하	하	VV	O
+는	는	ETM	O
+_	_	_	O
+해	해	NNG	O
+가	가	JKC	O
+_	_	_	O
+아닌가	아니+ㄴ가	VCN+EC	O
+_	_	_	O
+싶	싶	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## "라며 "은지원은 내가 바빠졌다고 하지만 지난해에 은지원이 협조적이지 않았다.
+## "라며 "<은지원:PER>은 내가 바빠졌다고 하지만 지난해에 <은지원:PER>이 협조적이지 않았다.
+"	"+이	SS+VCP	O
+라며	라며	EC	O
+_	_	_	O
+"	"	SS	O
+은지원	은지원	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+내	내	NP	O
+가	가	JKS	O
+_	_	_	O
+바	바쁘	VA	O
+빠	아+지	EC+VX	O
+졌	었	EP	O
+다고	다고	EC	O
+_	_	_	O
+하	하	VV	O
+지만	지만	EC	O
+_	_	_	O
+지난해	지난해	NNG	O
+에	에	JKB	O
+_	_	_	O
+은지원	은지원	NNP	B-PER
+이	이	JKS	O
+_	_	_	O
+협조적	협조적	NNG	O
+이	이	VCP	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 하지만 작황이 부진함에 따라 수확량을 5~10% 낮춰 잡았다.
+## 하지만 작황이 부진함에 따라 수확량을 <5:PNT>~<10%:PNT> 낮춰 잡았다.
+하지만	하지만	MAJ	O
+_	_	_	O
+작황	작황	NNG	O
+이	이	JKS	O
+_	_	_	O
+부진함	부진하+ㅁ	VA+ETN	O
+에	에	JKB	O
+_	_	_	O
+따	따르	VV	O
+라	아	EC	O
+_	_	_	O
+수확량	수확량	NNG	O
+을	을	JKO	O
+_	_	_	O
+5	5	SN	B-PNT
+~	~	SO	O
+10	10	SN	B-PNT
+%	%	SW	I-PNT
+_	_	_	O
+낮춰	낮추+어	VV+EC	O
+_	_	_	O
+잡	잡	VV	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 시즌 막판 1군 승격 가능성이나 포스트시즌 무대 등록 가능성을 열어두고 있다면, 앞으로 훈련 과정에서도 부상을 키울 수 있기 때문이다.
+## 시즌 막판 <1군:NOH> 승격 가능성이나 포스트시즌 무대 등록 가능성을 열어두고 있다면, 앞으로 훈련 과정에서도 부상을 키울 수 있기 때문이다.
+시즌	시즌	NNG	O
+_	_	_	O
+막판	막판	NNG	O
+_	_	_	O
+1	1	SN	B-NOH
+군	군	NNG	I-NOH
+_	_	_	O
+승격	승격	NNG	O
+_	_	_	O
+가능성	가능성	NNG	O
+이나	이나	JC	O
+_	_	_	O
+포스트	포스트	NNG	O
+시즌	시즌	NNG	O
+_	_	_	O
+무대	무대	NNG	O
+_	_	_	O
+등록	등록	NNG	O
+_	_	_	O
+가능성	가능성	NNG	O
+을	을	JKO	O
+_	_	_	O
+열	열	VV	O
+어	어	EC	O
+두	두	VX	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다면	다면	EC	O
+,	,	SP	O
+_	_	_	O
+앞	앞	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+훈련	훈련	NNG	O
+_	_	_	O
+과정	과정	NNG	O
+에서	에서	JKB	O
+도	도	JX	O
+_	_	_	O
+부상	부상	NNG	O
+을	을	JKO	O
+_	_	_	O
+키울	키우+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+기	기	ETN	O
+_	_	_	O
+때문	때문	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 그러나 독일은 통일의 주체가 분명하기때문에 사회적 혼란을 극소화 시킬수 있었다.
+## 그러나 <독일:ORG>은 통일의 주체가 분명하기때문에 사회적 혼란을 극소화 시킬수 있었다.
+그러나	그러나	MAJ	O
+_	_	_	O
+독일	독일	NNP	B-ORG
+은	은	JX	O
+_	_	_	O
+통일	통일	NNG	O
+의	의	JKG	O
+_	_	_	O
+주체	주체	NNG	O
+가	가	JKS	O
+_	_	_	O
+분명하	분명하	VA	O
+기	기	ETN	O
+때문	때문	NNB	O
+에	에	JKB	O
+_	_	_	O
+사회적	사회적	NNG	O
+_	_	_	O
+혼란	혼란	NNG	O
+을	을	JKO	O
+_	_	_	O
+극소화	극소화	NNG	O
+_	_	_	O
+시킬	시키+ㄹ	VV+ETM	O
+수	수	NNB	O
+_	_	_	O
+있	있	VX	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## [Health&Beauty]2025년엔 치매인구 100만… “숨기지 말고 선제적 관리하세요”
+## [Health&Beauty]<2025년:DAT>엔 치매인구 <100만:NOH>… “숨기지 말고 선제적 관리하세요”
+[	[	SS	O
+Health	Health	SL	O
+&	&	SW	O
+Beauty	Beauty	SL	O
+]	]	SS	O
+2025	2025	SN	B-DAT
+년	년	NNB	I-DAT
+엔	에+ㄴ	JKB+JX	O
+_	_	_	O
+치매	치매	NNG	O
+인구	이+ㄴ구	VCP+EC	O
+_	_	_	O
+100	100	SN	B-NOH
+만	만	NR	I-NOH
+…	…	SE	O
+_	_	_	O
+“	“	SS	O
+숨기	숨기	VV	O
+지	지	EC	O
+_	_	_	O
+말	말	VX	O
+고	고	EC	O
+_	_	_	O
+선제	선제	NNG	O
+적	적	XSN	O
+_	_	_	O
+관리하	관리하	VV	O
+세요	시+어요	EP+EF	O
+”	”	SS	O
+

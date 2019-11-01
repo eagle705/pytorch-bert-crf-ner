@@ -1,0 +1,553 @@
+## 1
+## 한 수험생은 “학교에서 EBS 교재를 쓰고 학원도 지문 300개를 뽑아 외우라고 한다”고 말했다.
+## 한 수험생은 “학교에서 <EBS:ORG> 교재를 쓰고 학원도 지문 <300개:NOH>를 뽑아 외우라고 한다”고 말했다.
+한	한	MM	O
+_	_	_	O
+수험생	수험생	NNG	O
+은	은	JX	O
+_	_	_	O
+“	“	SS	O
+학교	학교	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+EBS	EBS	SL	B-ORG
+_	_	_	O
+교재	교재	NNG	O
+를	를	JKO	O
+_	_	_	O
+쓰	쓰	VV	O
+고	고	EC	O
+_	_	_	O
+학원	학원	NNG	O
+도	도	JX	O
+_	_	_	O
+지문	지문	NNG	O
+_	_	_	O
+300	300	SN	B-NOH
+개	개	NNB	I-NOH
+를	를	JKO	O
+_	_	_	O
+뽑	뽑	VV	O
+아	아	EC	O
+_	_	_	O
+외우	외우	VV	O
+라고	라고	EC	O
+_	_	_	O
+한다	하+ㄴ다	VV+EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+말	말하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 또한 만성지구는 개발 사업 완료 시 전북혁신도시와 함께 전주권역 내 가장 큰 규모의 택지지구로 주목받고 있다.
+## 또한 <만성지구:LOC>는 개발 사업 완료 시 <전북혁신도시:LOC>와 함께 <전주:LOC>권역 내 가장 큰 규모의 택지지구로 주목받고 있다.
+또한	또한	MAG	O
+_	_	_	O
+만성	만성	NNG	B-LOC
+지구	지구	NNG	I-LOC
+는	는	JX	O
+_	_	_	O
+개발	개발	NNG	O
+_	_	_	O
+사업	사업	NNG	O
+_	_	_	O
+완료	완료	NNG	O
+_	_	_	O
+시	시	NNG	O
+_	_	_	O
+전북	전북	NNP	B-LOC
+혁신	혁신	NNG	I-LOC
+도시	도시	NNG	I-LOC
+와	와	JKB	O
+_	_	_	O
+함께	함께	MAG	O
+_	_	_	O
+전주	전주	NNP	B-LOC
+권역	권역	NNG	O
+_	_	_	O
+내	나+의	NP+JKG	O
+_	_	_	O
+가장	가장	MAG	O
+_	_	_	O
+큰	크+ㄴ	VA+ETM	O
+_	_	_	O
+규모	규모	NNG	O
+의	의	JKG	O
+_	_	_	O
+택지	택지	NNG	O
+지구	지구	NNG	O
+로	로	JKB	O
+_	_	_	O
+주목	주목	NNG	O
+받	받	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## ‘삼시세끼 벌이’‘삼시세끼’ 새식구 벌이 등장부터 큰 관심을 받았다.
+## ‘<삼시세끼:POH> <벌이:PER>’‘<삼시세끼:POH>’ 새식구 <벌이:PER> 등장부터 큰 관심을 받았다.
+‘	‘	SS	O
+삼시세끼	삼시세끼	NNP	B-POH
+_	_	_	O
+벌	벌	NNG	B-PER
+이	이	JKS	I-PER
+’	’	SS	O
+‘	‘	SS	O
+삼시세끼	삼시세끼	NNP	B-POH
+’	’	SS	O
+_	_	_	O
+새	새	MM	O
+식구	식구	NNG	O
+_	_	_	O
+벌	벌	NNG	B-PER
+이	이	JKS	I-PER
+_	_	_	O
+등장	등장	NNG	O
+부터	부터	JX	O
+_	_	_	O
+큰	크+ㄴ	VA+ETM	O
+_	_	_	O
+관심	관심	NNG	O
+을	을	JKO	O
+_	_	_	O
+받	받	VV	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 지난 13일 방송된 케이블채널 tvN ‘삼시세끼-어촌편’에서는 강아지 산체와 함께 고양이 한 마리가 차승원, 유해진, 손호준을 기다렸다.
+## 지난 <13일:DAT> 방송된 케이블채널 <tvN:ORG> ‘<삼시세끼-어촌편:POH>’에서는 강아지 <산체:PER>와 함께 고양이 한 마리가 <차승원:PER>, <유해진:PER>, <손호준:PER>을 기다렸다.
+지난	지나+ㄴ	VV+ETM	O
+_	_	_	O
+13	13	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+방송된	방송되+ㄴ	VV+ETM	O
+_	_	_	O
+케이블	케이블	NNG	O
+채널	채널	NNG	O
+_	_	_	O
+tvN	tvN	SL	B-ORG
+_	_	_	O
+‘	‘	SS	O
+삼시세끼	삼시세끼	NNP	B-POH
+-	-	SO	I-POH
+어촌	어촌	NNG	I-POH
+편	편	NNG	I-POH
+’	’	SS	O
+에서	에서	JKB	O
+는	는	JX	O
+_	_	_	O
+강아지	강아지	NNG	O
+_	_	_	O
+산체	산체	NNG	B-PER
+와	와	JKB	O
+_	_	_	O
+함께	함께	MAG	O
+_	_	_	O
+고양이	고양이	NNG	O
+_	_	_	O
+한	한	MM	O
+_	_	_	O
+마리	마리	NNB	O
+가	가	JKS	O
+_	_	_	O
+차승원	차승원	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+유해진	유해진	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+손호준	손호준	NNP	B-PER
+을	을	JKO	O
+_	_	_	O
+기다	기다리	VV	O
+렸	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 5일자 A10면의 난모쿠 촌 관련 기사는 충격적이었다.
+## <5일:DAT>자 <A10면:NOH>의 <난모쿠 촌:LOC> 관련 기사는 충격적이었다.
+5	5	SN	B-DAT
+일자	일자	NNG	O
+_	_	_	O
+A	A	SL	B-NOH
+10	10	SN	I-NOH
+면	면	NNG	I-NOH
+의	의	JKG	O
+_	_	_	O
+난모	난모	NNG	B-LOC
+쿠	쿠	NNP	I-LOC
+_	_	_	I-LOC
+촌	촌	NNB	I-LOC
+_	_	_	O
+관련	관련	NNG	O
+_	_	_	O
+기사	기사	NNG	O
+는	는	JX	O
+_	_	_	O
+충격적	충격적	NNG	O
+이	이	VCP	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 총상금은 3억2000만 원이며 대회마다 1000만 원의 상금(우승 300만 원)이 걸려 있다.
+## 총상금은 <3억2000만 원:MNY>이며 대회마다 <1000만:NOH> 원의 상금(우승 <300만 원:MNY>)이 걸려 있다.
+총	총	XPN	O
+상금	상금	NNG	O
+은	은	JX	O
+_	_	_	O
+3	3	SN	B-MNY
+억	억	NR	I-MNY
+2000	2000	SN	I-MNY
+만	만	NR	I-MNY
+_	_	_	I-MNY
+원	원	NNB	I-MNY
+이	이	VCP	O
+며	며	EC	O
+_	_	_	O
+대회	대회	NNG	O
+마다	마다	JX	O
+_	_	_	O
+1000	1000	SN	B-NOH
+만	만	NR	I-NOH
+_	_	_	O
+원	원	NNB	O
+의	의	JKG	O
+_	_	_	O
+상금	상금	NNG	O
+(	(	SS	O
+우승	우승	NNG	O
+_	_	_	O
+300	300	SN	B-MNY
+만	만	NR	I-MNY
+_	_	_	I-MNY
+원	원	NNB	I-MNY
+)	)	SS	O
+이	이	JKS	O
+_	_	_	O
+걸려	걸리+어	VV+EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## ○영국에 본사를 둔 글로벌 스포츠마케팅 에이전시인 ISM 아시아 지사가 내년 1월 출범한다.
+## ○<영국:LOC>에 본사를 둔 글로벌 스포츠마케팅 에이전시인 <ISM:ORG> <아시아:LOC> 지사가 내년 <1월:DAT> 출범한다.
+○	○	SW	O
+영국	영국	NNP	B-LOC
+에	에	JKB	O
+_	_	_	O
+본사	본사	NNG	O
+를	를	JKO	O
+_	_	_	O
+둔	두+ㄴ	VV+ETM	O
+_	_	_	O
+글로벌	글로벌	NNG	O
+_	_	_	O
+스포츠	스포츠	NNG	O
+마케팅	마케팅	NNG	O
+_	_	_	O
+에이전시	에이전시	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+ISM	ISM	SL	B-ORG
+_	_	_	O
+아시아	아시아	NNP	B-LOC
+_	_	_	O
+지사	지사	NNG	O
+가	가	JKS	O
+_	_	_	O
+내년	내년	NNG	O
+_	_	_	O
+1	1	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+출범한다	출범하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 8
+## 근현대사학회-中 푸단대 공동… 국제 독립운동사 학술회의 개최
+## 근현대사학회-<中 푸단대:ORG> 공동… 국제 독립운동사 학술회의 개최
+근	근	NNG	O
+현대사	현대사	NNG	O
+학회	학회	NNG	O
+-	-	SO	O
+中	中	SH	B-ORG
+_	_	_	I-ORG
+푸단대	푸단대	NNP	I-ORG
+_	_	_	O
+공동	공동	NNG	O
+…	…	SE	O
+_	_	_	O
+국제	국제	NNG	O
+_	_	_	O
+독립	독립	NNG	O
+운동사	운동사	NNG	O
+_	_	_	O
+학술	학술	NNG	O
+회의	회의	NNG	O
+_	_	_	O
+개최	개최	NNG	O
+
+## 9
+## 남경필 경기지사의 ‘트레이드마크’인 연정(聯政)마저 심각한 위기를 맞았다.
+## <남경필:PER> 경기지사의 ‘트레이드마크’인 연정(聯政)마저 심각한 위기를 맞았다.
+남경필	남경필	NNP	B-PER
+_	_	_	O
+경기	경기	NNP	O
+지사	지사	NNG	O
+의	의	JKG	O
+_	_	_	O
+‘	‘	SS	O
+트레이드마크	트레이드마크	NNG	O
+’	’	SS	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+연정	연정	NNG	O
+(	(	SS	O
+聯政	聯政	SH	O
+)	)	SS	O
+마저	마저	JX	O
+_	_	_	O
+심각한	심각하+ㄴ	VA+ETM	O
+_	_	_	O
+위기	위기	NNG	O
+를	를	JKO	O
+_	_	_	O
+맞	맞	VV	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 3월 행사는 더욱 화끈하다.
+## <3월:DAT> 행사는 더욱 화끈하다.
+3	3	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+행사	행사	NNG	O
+는	는	JX	O
+_	_	_	O
+더욱	더욱	MAG	O
+_	_	_	O
+화끈하	화끈하	VV	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 그는 “2013년 1월에 훈장 서훈 기준 개정안과 관련해 토론회를 개최했다.
+## 그는 “<2013년 1월:DAT>에 훈장 서훈 기준 개정안과 관련해 토론회를 개최했다.
+그	그	NP	O
+는	는	JX	O
+_	_	_	O
+“	“	SS	O
+2013	2013	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	I-DAT
+1	1	SN	I-DAT
+월	월	NNB	I-DAT
+에	에	JKB	O
+_	_	_	O
+훈장	훈장	NNG	O
+_	_	_	O
+서훈	서훈	NNG	O
+_	_	_	O
+기준	기준	NNG	O
+_	_	_	O
+개정안	개정안	NNG	O
+과	과	JKB	O
+_	_	_	O
+관련해	관련하+여	VV+EC	O
+_	_	_	O
+토론회	토론회	NNG	O
+를	를	JKO	O
+_	_	_	O
+개최	개최하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 분양홍보관은 서울 송파구 문정동 620 송파 푸르지오시티 1층에 있다.
+## 분양홍보관은 <서울:LOC> <송파구:LOC> <문정동 620:LOC> <송파 푸르지오시티 1층:LOC>에 있다.
+분양	분양	NNG	O
+홍보	홍보	NNG	O
+관	관	XSN	O
+은	은	JX	O
+_	_	_	O
+서울	서울	NNP	B-LOC
+_	_	_	O
+송파구	송파구	NNP	B-LOC
+_	_	_	O
+문정동	문정동	NNP	B-LOC
+_	_	_	I-LOC
+620	620	SN	I-LOC
+_	_	_	O
+송파	송파	NNP	B-LOC
+_	_	_	I-LOC
+푸르지오	푸르지오	NNP	I-LOC
+시티	시티	NNG	I-LOC
+_	_	_	I-LOC
+1	1	SN	I-LOC
+층	층	NNG	I-LOC
+에	에	JKB	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## 예를들면 문화체육부를 문체부로, 보건사회부를 보사부로 부르는 것은 의미나 어감에서 편한 느낌을 준다.
+## 예를들면 <문화체육부:ORG>를 <문체부:ORG>로, <보건사회부:ORG>를 <보사부:ORG>로 부르는 것은 의미나 어감에서 편한 느낌을 준다.
+예를	예를	NNP	O
+들	들	VV	O
+면	면	EC	O
+_	_	_	O
+문화	문화	NNG	B-ORG
+체육부	체육부	NNG	I-ORG
+를	를	JKO	O
+_	_	_	O
+문체부	문체부	NNG	B-ORG
+로	로	JKB	O
+,	,	SP	O
+_	_	_	O
+보건	보건	NNG	B-ORG
+사회부	사회부	NNG	I-ORG
+를	를	JKO	O
+_	_	_	O
+보사부	보사부	NNG	B-ORG
+로	로	JKB	O
+_	_	_	O
+부르	부르	VV	O
+는	는	ETM	O
+_	_	_	O
+것	것	NNB	O
+은	은	JX	O
+_	_	_	O
+의미	의미	NNG	O
+나	나	JC	O
+_	_	_	O
+어감	어감	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+편한	편하+ㄴ	VA+ETM	O
+_	_	_	O
+느낌	느낌	NNG	O
+을	을	JKO	O
+_	_	_	O
+준다	주+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 14
+## 지도학습, 강화학습 등을 공부하면서 게임이나 주식 자동거래 프로그램도 만들었죠.” 2003년 서울과학고를 조기졸업한 뒤 미국 매사추세츠공대(MIT)에 진학한 그는 4년 만에 MIT 학부와 석사과정을 모두 5.0 만점으로 졸업했다.
+## 지도학습, 강화학습 등을 공부하면서 게임이나 주식 자동거래 프로그램도 만들었죠.” <2003년:DAT> <서울과학고:ORG>를 조기졸업한 뒤 <미국 매사추세츠공대:ORG>(<MIT:ORG>)에 진학한 그는 <4년:NOH> 만에 <MIT:ORG> 학부와 석사과정을 모두 <5.0:NOH> 만점으로 졸업했다.
+지도	지도	NNG	O
+학습	학습	NNG	O
+,	,	SP	O
+_	_	_	O
+강화	강화	NNG	O
+학습	학습	NNG	O
+_	_	_	O
+등	등	NNB	O
+을	을	JKO	O
+_	_	_	O
+공부하	공부하	VV	O
+면서	면서	EC	O
+_	_	_	O
+게임	게임	NNG	O
+이나	이나	JC	O
+_	_	_	O
+주식	주식	NNG	O
+_	_	_	O
+자동	자동	NNG	O
+거래	거래	NNG	O
+_	_	_	O
+프로그램	프로그램	NNG	O
+도	도	JX	O
+_	_	_	O
+만들	만들	VV	O
+었	었	EP	O
+죠	죠	EF	O
+.	.	SF	O
+”	”	SS	O
+_	_	_	O
+2003	2003	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+서울	서울	NNP	B-ORG
+과학고	과학고	NNP	I-ORG
+를	를	JKO	O
+_	_	_	O
+조기	조기	NNG	O
+졸업한	졸업하+ㄴ	VV+ETM	O
+_	_	_	O
+뒤	뒤	NNG	O
+_	_	_	O
+미국	미국	NNP	B-ORG
+_	_	_	I-ORG
+매사추세츠	매사추세츠	NNP	I-ORG
+공대	공대	NNG	I-ORG
+(	(	SS	O
+MIT	MIT	SL	B-ORG
+)	)	SS	O
+에	에	JKB	O
+_	_	_	O
+진학한	진학하+ㄴ	VV+ETM	O
+_	_	_	O
+그	그	NP	O
+는	는	JX	O
+_	_	_	O
+4	4	SN	B-NOH
+년	년	NNB	I-NOH
+_	_	_	O
+만	만	NNB	O
+에	에	JKB	O
+_	_	_	O
+MIT	MIT	SL	B-ORG
+_	_	_	O
+학부	학부	NNG	O
+와	와	JC	O
+_	_	_	O
+석사	석사	NNG	O
+과정	과정	NNG	O
+을	을	JKO	O
+_	_	_	O
+모두	모두	MAG	O
+_	_	_	O
+5.0	5.0	SN	B-NOH
+_	_	_	O
+만점	만점	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+졸업	졸업하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 15
+## 생산량 기준 세계 17위다.
+## 생산량 기준 세계 <17위:NOH>다.
+생산량	생산량	NNG	O
+_	_	_	O
+기준	기준	NNG	O
+_	_	_	O
+세계	세계	NNG	O
+_	_	_	O
+17	17	SN	B-NOH
+위	위+이	NNB+VCP	I-NOH
+다	다	EF	O
+.	.	SF	O
+

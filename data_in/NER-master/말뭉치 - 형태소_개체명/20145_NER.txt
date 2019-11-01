@@ -1,0 +1,435 @@
+## 1
+## 스포츠 브랜드 뉴발란스가 미국 프로야구 미네소타 트윈스의 박병호(30·사진)를 후원한다.
+## 스포츠 브랜드 <뉴발란스:ORG>가 <미국:ORG> 프로야구 <미네소타 트윈스:ORG>의 <박병호:PER>(<30:NOH>·사진)를 후원한다.
+스포츠	스포츠	NNG	O
+_	_	_	O
+브랜드	브랜드	NNG	O
+_	_	_	O
+뉴발란스	뉴발란스	NNP	B-ORG
+가	가	JKS	O
+_	_	_	O
+미국	미국	NNP	B-ORG
+_	_	_	O
+프로	프로	NNG	O
+야구	야구	NNG	O
+_	_	_	O
+미네소타	미네소타	NNP	B-ORG
+_	_	_	I-ORG
+트윈스	트윈스	NNP	I-ORG
+의	의	JKG	O
+_	_	_	O
+박병호	박병호	NNP	B-PER
+(	(	SS	O
+30	30	SN	B-NOH
+·	·	SP	O
+사진	사진	NNG	O
+)	)	SS	O
+를	를	JKO	O
+_	_	_	O
+후원한다	후원하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 2
+## 1995년 롯데 지휘봉을 잡았을 때는 KBO 리그 사상 처음으로 200도루를 돌파하기도 했다.
+## <1995년:DAT> <롯데:ORG> 지휘봉을 잡았을 때는 <KBO 리그:ORG> 사상 처음으로 <200도루:NOH>를 돌파하기도 했다.
+1995	1995	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+롯데	롯데	NNP	B-ORG
+_	_	_	O
+지휘봉	지휘봉	NNG	O
+을	을	JKO	O
+_	_	_	O
+잡	잡	VV	O
+았	았	EP	O
+을	을	ETM	O
+_	_	_	O
+때	때	NNG	O
+는	는	JX	O
+_	_	_	O
+KBO	KBO	SL	B-ORG
+_	_	_	I-ORG
+리그	리그	NNG	I-ORG
+_	_	_	O
+사상	사상	NNG	O
+_	_	_	O
+처음	처음	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+200	200	SN	B-NOH
+도루	도루	NNG	I-NOH
+를	를	JKO	O
+_	_	_	O
+돌파하	돌파하	VV	O
+기	기	ETN	O
+도	도	JX	O
+_	_	_	O
+했	+였	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 홍기택(64) KDB산업은행 회장이 ‘중국판 세계은행’인 아시아인프라투자은행(AIIB) 부총재를 맡는다.
+## <홍기택:PER>(<64:NOH>) <KDB산업은행:ORG> 회장이 ‘<중국:ORG>판 세계은행’인 <아시아인프라투자은행:ORG>(<AIIB:ORG>) 부총재를 맡는다.
+홍기택	홍기택	NNP	B-PER
+(	(	SS	O
+64	64	SN	B-NOH
+)	)	SS	O
+_	_	_	O
+KDB	KDB	SL	B-ORG
+산업은행	산업은행	NNP	I-ORG
+_	_	_	O
+회장	회장	NNG	O
+이	이	JKS	O
+_	_	_	O
+‘	‘	SS	O
+중국	중국	NNP	B-ORG
+판	판	XSN	O
+_	_	_	O
+세계은행	세계은행	NNP	O
+’	’	SS	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+아시아인프라투자은행	아시아인프라투자은행	NNP	B-ORG
+(	(	SS	O
+AIIB	AIIB	SL	B-ORG
+)	)	SS	O
+_	_	_	O
+부총재	부총재	NNG	O
+를	를	JKO	O
+_	_	_	O
+맡	맡	VV	O
+는다	는다	EF	O
+.	.	SF	O
+
+## 4
+## 동아에스티(대표이사 사장 박찬일)는 올해 글로벌 마케팅 강화를 통해 박카스의 해외 매출 확대에 나서겠다고 21일 밝혔다.
+## <동아에스티:ORG>(대표이사 사장 <박찬일:PER>)는 올해 글로벌 마케팅 강화를 통해 <박카스:POH>의 해외 매출 확대에 나서겠다고 <21일:DAT> 밝혔다.
+동아	동아	NNP	B-ORG
+에스티	에스티	NNP	I-ORG
+(	(	SS	O
+대표	대표	NNG	O
+이사	이사	NNG	O
+_	_	_	O
+사장	사장	NNG	O
+_	_	_	O
+박찬일	박찬일	NNP	B-PER
+)	)	SS	O
+는	는	JX	O
+_	_	_	O
+올해	올해	NNG	O
+_	_	_	O
+글로벌	글로벌	NNG	O
+_	_	_	O
+마케팅	마케팅	NNG	O
+_	_	_	O
+강화	강화	NNG	O
+를	를	JKO	O
+_	_	_	O
+통해	통하+여	VV+EC	O
+_	_	_	O
+박카스	박카스	NNG	B-POH
+의	의	JKG	O
+_	_	_	O
+해외	해외	NNG	O
+_	_	_	O
+매출	매출	NNG	O
+_	_	_	O
+확대	확대	NNG	O
+에	에	JKB	O
+_	_	_	O
+나서	나서	VV	O
+겠	겠	EP	O
+다고	다고	EC	O
+_	_	_	O
+21	21	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+밝	밝히	VV	O
+혔	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 평소 린썬은 장제스가 무슨 말을 하건 듣기만 했다.
+## 평소 <린썬:PER>은 <장제스:PER>가 무슨 말을 하건 듣기만 했다.
+평소	평소	NNG	O
+_	_	_	O
+린썬	린썬	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+장제스	장제스	NNP	B-PER
+가	가	JKS	O
+_	_	_	O
+무슨	무슨	MM	O
+_	_	_	O
+말	말	NNG	O
+을	을	JKO	O
+_	_	_	O
+하	하	VV	O
+건	건	EC	O
+_	_	_	O
+듣	듣	VV	O
+기	기	ETN	O
+만	만	JX	O
+_	_	_	O
+했	+였	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 강원 선수단은 3월 1일 재소집 돼 2일부터 강릉에서 챌린지 개막을 준비한다.
+## <강원 선수단:ORG>은 <3월 1일:DAT> 재소집 돼 <2일:DAT>부터 <강릉:LOC>에서 챌린지 개막을 준비한다.
+강원	강원	NNP	B-ORG
+_	_	_	I-ORG
+선수단	선수단	NNG	I-ORG
+은	은	JX	O
+_	_	_	O
+3	3	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	I-DAT
+1	1	SN	I-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+재	재	XPN	O
+소집	소집	NNG	O
+_	_	_	O
+돼	되+어	VV+EC	O
+_	_	_	O
+2	2	SN	B-DAT
+일	일	NNB	I-DAT
+부터	부터	JX	O
+_	_	_	O
+강릉	강릉	NNP	B-LOC
+에서	에서	JKB	O
+_	_	_	O
+챌린지	챌린지	NNG	O
+_	_	_	O
+개막	개막	NNG	O
+을	을	JKO	O
+_	_	_	O
+준비한다	준비하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 7
+## 새로 문을 연 매장의 매니저들에게 100달러 정도를 회사에 투자하라고 요청한 것이다.
+## 새로 문을 연 매장의 매니저들에게 <100달러:MNY> 정도를 회사에 투자하라고 요청한 것이다.
+새로	새로	MAG	O
+_	_	_	O
+문	문	NNG	O
+을	을	JKO	O
+_	_	_	O
+연	열+ㄴ	VV+ETM	O
+_	_	_	O
+매장	매장	NNG	O
+의	의	JKG	O
+_	_	_	O
+매니저	매니저	NNG	O
+들	들	XSN	O
+에게	에게	JKB	O
+_	_	_	O
+100	100	SN	B-MNY
+달러	달러	NNB	I-MNY
+_	_	_	O
+정도	정도	NNG	O
+를	를	JKO	O
+_	_	_	O
+회사	회사	NNG	O
+에	에	JKB	O
+_	_	_	O
+투자하	투자하	VV	O
+라고	라고	EC	O
+_	_	_	O
+요청한	요청하+ㄴ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 정몽구 회장이 가족 대표로 인사한다.
+## <정몽구:PER> 회장이 가족 대표로 인사한다.
+정몽구	정몽구	NNP	B-PER
+_	_	_	O
+회장	회장	NNG	O
+이	이	JKS	O
+_	_	_	O
+가족	가족	NNG	O
+_	_	_	O
+대표	대표	NNG	O
+로	로	JKB	O
+_	_	_	O
+인사한다	인사하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 9
+## 씨앤엘뮤직 측은 “베니타의 신작 대표곡 제목이 ‘River Silver’인 데다
+## <씨앤엘뮤직:ORG> 측은 “<베니타:PER>의 신작 대표곡 제목이 ‘<River Silver:POH>’인 데다
+씨앤엘	씨앤엘	NNP	B-ORG
+뮤직	뮤직	NNG	I-ORG
+_	_	_	O
+측	측	NNB	O
+은	은	JX	O
+_	_	_	O
+“	“	SS	O
+베니타	베니타	NNP	B-PER
+의	의	JKG	O
+_	_	_	O
+신작	신작	NNG	O
+_	_	_	O
+대표	대표	NNG	O
+곡	곡	XSN	O
+_	_	_	O
+제목	제목	NNG	O
+이	이	JKS	O
+_	_	_	O
+‘	‘	SS	O
+River	River	SL	B-POH
+_	_	_	I-POH
+Silver	Silver	SL	I-POH
+’	’	SS	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+데	데	NNB	O
+다	다	JX	O
+
+## 10
+## 또한 박인비-유소연 선수와 1개 홀을 함께 라운딩을 할 수 있는 기회를 제공한다.
+## 또한 <박인비:PER>-<유소연:PER> 선수와 <1개:NOH> 홀을 함께 라운딩을 할 수 있는 기회를 제공한다.
+또한	또한	MAG	O
+_	_	_	O
+박인비	박인비	NNP	B-PER
+-	-	SO	O
+유소연	유소연	NNP	B-PER
+_	_	_	O
+선수	선수	NNG	O
+와	와	JC	O
+_	_	_	O
+1	1	SN	B-NOH
+개	개	NNB	I-NOH
+_	_	_	O
+홀	홀	NNG	O
+을	을	JKO	O
+_	_	_	O
+함께	함께	MAG	O
+_	_	_	O
+라운딩	라운딩	NNG	O
+을	을	JKO	O
+_	_	_	O
+할	하+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+는	는	ETM	O
+_	_	_	O
+기회	기회	NNG	O
+를	를	JKO	O
+_	_	_	O
+제공한다	제공하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 11
+## 본격적인 대회에 앞서 박인비-유소연 선수에게 원포인트 골프 레슨을 받는 시간을 마련했으며, 시타식은 고객 대표와 함께 박인비-유소연 선수, 파나소닉코리아 노운하 대표가 진행한다.
+## 본격적인 대회에 앞서 <박인비:PER>-<유소연:PER> 선수에게 원포인트 골프 레슨을 받는 시간을 마련했으며, 시타식은 고객 대표와 함께 <박인비:PER>-<유소연:PER> 선수, <파나소닉코리아:ORG> <노운하:PER> 대표가 진행한다.
+본격적	본격적	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+대회	대회	NNG	O
+에	에	JKB	O
+_	_	_	O
+앞서	앞서+어	VV+EC	O
+_	_	_	O
+박인비	박인비	NNP	B-PER
+-	-	SO	O
+유소연	유소연	NNP	B-PER
+_	_	_	O
+선수	선수	NNG	O
+에게	에게	JKB	O
+_	_	_	O
+원	원	NNG	O
+포인트	포인트	NNG	O
+_	_	_	O
+골프	골프	NNG	O
+_	_	_	O
+레슨	레슨	NNG	O
+을	을	JKO	O
+_	_	_	O
+받	받	VV	O
+는	는	ETM	O
+_	_	_	O
+시간	시간	NNG	O
+을	을	JKO	O
+_	_	_	O
+마련	마련하	VV	O
+했	였	EP	O
+으며	으며	EC	O
+,	,	SP	O
+_	_	_	O
+시타	시타	NNP	O
+식	식	XSN	O
+은	은	JX	O
+_	_	_	O
+고객	고객	NNG	O
+_	_	_	O
+대표	대표	NNG	O
+와	와	JKB	O
+_	_	_	O
+함께	함께	MAG	O
+_	_	_	O
+박인비	박인비	NNP	B-PER
+-	-	SO	O
+유소연	유소연	NNP	B-PER
+_	_	_	O
+선수	선수	NNG	O
+,	,	SP	O
+_	_	_	O
+파나소닉	파나소닉	NNP	B-ORG
+코리아	코리아	NNP	I-ORG
+_	_	_	O
+노운하	노운하	NNP	B-PER
+_	_	_	O
+대표	대표	NNG	O
+가	가	JKS	O
+_	_	_	O
+진행한다	진행하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 12
+## 골프대회를 마친 뒤에는 만찬과 총 11개 분야 수상자 24명에 대한 시상식을 진행한다.
+## 골프대회를 마친 뒤에는 만찬과 총 <11개:NOH> 분야 수상자 <24명:NOH>에 대한 시상식을 진행한다.
+골프	골프	NNG	O
+대회	대회	NNG	O
+를	를	JKO	O
+_	_	_	O
+마친	마치+ㄴ	VV+ETM	O
+_	_	_	O
+뒤	뒤	NNG	O
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+만찬	만찬	NNG	O
+과	과	JC	O
+_	_	_	O
+총	총	MM	O
+_	_	_	O
+11	11	SN	B-NOH
+개	개	NNB	I-NOH
+_	_	_	O
+분야	분야	NNG	O
+_	_	_	O
+수상자	수상자	NNG	O
+_	_	_	O
+24	24	SN	B-NOH
+명	명	NNB	I-NOH
+에	에	JKB	O
+_	_	_	O
+대한	대하+ㄴ	VV+ETM	O
+_	_	_	O
+시상식	시상식	NNG	O
+을	을	JKO	O
+_	_	_	O
+진행한다	진행하+ㄴ다	VV+EF	O
+.	.	SF	O
+

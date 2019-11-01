@@ -1,0 +1,564 @@
+## 1
+## 레이디스코드 '아파도 웃을래', 7일 정오 공개..
+## <레이디스코드:ORG> '<아파도 웃을래:POH>', <7일:DAT> 정오 공개..
+레이디스	레이디스	NNG	B-ORG
+코드	코드	NNG	I-ORG
+_	_	_	O
+'	'	SS	O
+아	아프	VA	B-POH
+파도	아도	EC	I-POH
+_	_	_	I-POH
+웃	웃	VV	I-POH
+을래	을래	EF	I-POH
+'	'	SS	O
+,	,	SP	O
+_	_	_	O
+7	7	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+정오	정오	NNG	O
+_	_	_	O
+공개	공개	NNG	O
+.	.	SF	O
+.	.	SF	O
+
+## 2
+## 국민생활체육회에서는 통합관련 규정개정에 관해 안내한다.
+## <국민생활체육회:ORG>에서는 통합관련 규정개정에 관해 안내한다.
+국민	국민	NNG	B-ORG
+생활	생활	NNG	I-ORG
+체육	체육	NNG	I-ORG
+회	회	XSN	I-ORG
+에서	에서	JKB	O
+는	는	JX	O
+_	_	_	O
+통합	통합	NNG	O
+관련	관련	NNG	O
+_	_	_	O
+규정	규정	NNG	O
+개정	개정	NNG	O
+에	에	JKB	O
+_	_	_	O
+관해	관하+여	VV+EC	O
+_	_	_	O
+안내한다	안내하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 3
+## 한편, 항공사는 지오바니 가족이 다음 비행기를 탈 수 있도록 조치했지만, 이미 모든 비행기가 만석이어서 이틀 뒤에나 집으로 돌아올 수 있었다.
+## 한편, 항공사는 <지오바니 가족:ORG>이 다음 비행기를 탈 수 있도록 조치했지만, 이미 모든 비행기가 만석이어서 이틀 뒤에나 집으로 돌아올 수 있었다.
+한편	한편	NNG	O
+,	,	SP	O
+_	_	_	O
+항공사	항공사	NNG	O
+는	는	JX	O
+_	_	_	O
+지오바니	지오바니	NNP	B-ORG
+_	_	_	I-ORG
+가족	가족	NNG	I-ORG
+이	이	JKS	O
+_	_	_	O
+다음	다음	NNG	O
+_	_	_	O
+비행기	비행기	NNG	O
+를	를	JKO	O
+_	_	_	O
+탈	타+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+도록	도록	EC	O
+_	_	_	O
+조치	조치하	VV	O
+했	였	EP	O
+지만	지만	EC	O
+,	,	SP	O
+_	_	_	O
+이미	이미	MAG	O
+_	_	_	O
+모든	모든	MM	O
+_	_	_	O
+비행기	비행기	NNG	O
+가	가	JKS	O
+_	_	_	O
+만석	만석	NNP	O
+이	이	VCP	O
+어서	어서	EC	O
+_	_	_	O
+이틀	이틀	NNG	O
+_	_	_	O
+뒤	뒤	NNG	O
+에	에	JKB	O
+나	나	JX	O
+_	_	_	O
+집	집	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+돌아올	돌아오+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## [주말의 채널A]아동학대 실태와 예방책
+## [<주말의 채널A:ORG>]아동학대 실태와 예방책
+[	[	SS	O
+주말	주말	NNG	B-ORG
+의	의	JKG	I-ORG
+_	_	_	I-ORG
+채널	채널	NNG	I-ORG
+A	A	SL	I-ORG
+]	]	SS	O
+아동	아동	NNG	O
+학대	학대	NNG	O
+_	_	_	O
+실태	실태	NNG	O
+와	와	JC	O
+_	_	_	O
+예방책	예방책	NNG	O
+
+## 5
+## 이 경기에 신소연 캐스터가 시구자로 등장했고, 이후 두 사람은 자연스럽게 만남을 가지며 가까워졌다고 한다.
+## 이 경기에 <신소연:PER> 캐스터가 시구자로 등장했고, 이후 <두 사람:NOH>은 자연스럽게 만남을 가지며 가까워졌다고 한다.
+이	이	MM	O
+_	_	_	O
+경기	경기	NNG	O
+에	에	JKB	O
+_	_	_	O
+신소연	신소연	NNP	B-PER
+_	_	_	O
+캐스터	캐스터	NNG	O
+가	가	JKS	O
+_	_	_	O
+시구	시구	NNG	O
+자	자	XSN	O
+로	로	JKB	O
+_	_	_	O
+등장	등장하	VV	O
+했	였	EP	O
+고	고	EC	O
+,	,	SP	O
+_	_	_	O
+이후	이후	NNG	O
+_	_	_	O
+두	두	MM	B-NOH
+_	_	_	I-NOH
+사람	사람	NNG	I-NOH
+은	은	JX	O
+_	_	_	O
+자연스럽	자연스럽	VA	O
+게	게	EC	O
+_	_	_	O
+만남	만남	NNG	O
+을	을	JKO	O
+_	_	_	O
+가지	가지	VV	O
+며	며	EC	O
+_	_	_	O
+가까	가깝	VA	O
+워	어+지	EC+VX	O
+졌	었	EP	O
+다고	다고	EC	O
+_	_	_	O
+한다	하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 6
+## ‘연말정산 폭탄’ 논란은 2012년 간이세액표 변경과 2013년 소득공제의 세액공제 전환의 효과가 같이 발효돼서다.
+## ‘연말정산 폭탄’ 논란은 <2012년:DAT> 간이세액표 변경과 <2013년:DAT> 소득공제의 세액공제 전환의 효과가 같이 발효돼서다.
+‘	‘	SS	O
+연말	연말	NNG	O
+정산	정산	NNG	O
+_	_	_	O
+폭탄	폭탄	NNG	O
+’	’	SS	O
+_	_	_	O
+논란	논란	NNG	O
+은	은	JX	O
+_	_	_	O
+2012	2012	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+간이	간이	NNG	O
+세액	세액	NNG	O
+표	표	NNG	O
+_	_	_	O
+변경	변경	NNG	O
+과	과	JC	O
+_	_	_	O
+2013	2013	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+소득공제	소득공제	NNG	O
+의	의	JKG	O
+_	_	_	O
+세액	세액	NNG	O
+공제	공제	NNG	O
+_	_	_	O
+전환	전환	NNG	O
+의	의	JKG	O
+_	_	_	O
+효과	효과	NNG	O
+가	가	JKS	O
+_	_	_	O
+같이	같이	MAG	O
+_	_	_	O
+발효돼서	발효되+어서+이	VV+EC+VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 서울대병원은 그가 치매로 인해 판단력이나 사고력 등이 떨어졌는지 여부를 판단해 서울가정법원 재판부에 검사 결과를 보내게 된다.
+## <서울대병원:ORG>은 그가 치매로 인해 판단력이나 사고력 등이 떨어졌는지 여부를 판단해 <서울가정법원 재판부:ORG>에 검사 결과를 보내게 된다.
+서울대병원	서울대병원	NNP	B-ORG
+은	은	JX	O
+_	_	_	O
+그	그	NP	O
+가	가	JKS	O
+_	_	_	O
+치매	치매	NNG	O
+로	로	JKB	O
+_	_	_	O
+인해	인하+여	VV+EC	O
+_	_	_	O
+판단력	판단력	NNG	O
+이나	이나	JC	O
+_	_	_	O
+사고력	사고력	NNG	O
+_	_	_	O
+등	등	NNG	O
+이	이	JKS	O
+_	_	_	O
+떨어	떨어지	VV	O
+졌	었	EP	O
+는지	는지	EC	O
+_	_	_	O
+여부	여부	NNG	O
+를	를	JKO	O
+_	_	_	O
+판단해	판단하+여	VV+EC	O
+_	_	_	O
+서울	서울	NNP	B-ORG
+가정	가정	NNG	I-ORG
+법원	법원	NNG	I-ORG
+_	_	_	I-ORG
+재판부	재판부	NNG	I-ORG
+에	에	JKB	O
+_	_	_	O
+검사	검사	NNG	O
+_	_	_	O
+결과	결과	NNG	O
+를	를	JKO	O
+_	_	_	O
+보내	보내	VV	O
+게	게	EC	O
+_	_	_	O
+된다	되+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 8
+## 中, 反독점법 개정 착수… 한국 車-반도체 겨누나
+## <中:ORG>, 反독점법 개정 착수… <한국:ORG> 車-반도체 겨누나
+中	中	SH	B-ORG
+,	,	SP	O
+_	_	_	O
+反	反	SH	O
+독점	독점	NNG	O
+법	법	NNG	O
+_	_	_	O
+개정	개정	NNG	O
+_	_	_	O
+착수	착수	NNG	O
+…	…	SE	O
+_	_	_	O
+한국	한국	NNP	B-ORG
+_	_	_	O
+車	車	SH	O
+-	-	SO	O
+반도체	반도체	NNG	O
+_	_	_	O
+겨	겹	VA	O
+누나	누나	EF	O
+
+## 9
+## 온라인 중앙일보 ‘신동엽과 총각파티 김종민’ [사진 방송화면 캡처]
+## <온라인 중앙일보:POH> ‘<신동엽:PER>과 총각파티 <김종민:PER>’ [사진 방송화면 캡처]
+온라인	온라인	NNG	B-POH
+_	_	_	I-POH
+중앙일보	중앙일보	NNP	I-POH
+_	_	_	O
+‘	‘	SS	O
+신동엽	신동엽	NNP	B-PER
+과	과	JC	O
+_	_	_	O
+총각	총각	NNG	O
+파티	파티	NNG	O
+_	_	_	O
+김종민	김종민	NNP	B-PER
+’	’	SS	O
+_	_	_	O
+[	[	SS	O
+사진	사진	NNG	O
+_	_	_	O
+방송	방송	NNG	O
+화면	화면	NNG	O
+_	_	_	O
+캡처	캡처	NNG	O
+]	]	SS	O
+
+## 10
+## 한편 소유진은 지난 2013년 백종원과 결혼해 이듬해 아들을 낳았다.
+## 한편 <소유진:PER>은 지난 <2013년:DAT> <백종원:PER>과 결혼해 이듬해 아들을 낳았다.
+한편	한편	MAG	O
+_	_	_	O
+소유진	소유진	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+지난	지나+ㄴ	VV+ETM	O
+_	_	_	O
+2013	2013	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+백종원	백종원	NNP	B-PER
+과	과	JKB	O
+_	_	_	O
+결혼해	결혼하+여	VV+EC	O
+_	_	_	O
+이듬해	이듬해	NNG	O
+_	_	_	O
+아들	아들	NNG	O
+을	을	JKO	O
+_	_	_	O
+낳	낳	VV	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 단지 앞에 망월천 수변공원이 조성되고 있어 공원을 감상하며 쇼핑을 즐길 수 있다.
+## 단지 앞에 <망월천 수변공원:LOC>이 조성되고 있어 공원을 감상하며 쇼핑을 즐길 수 있다.
+단지	단지	NNG	O
+_	_	_	O
+앞	앞	NNG	O
+에	에	JKB	O
+_	_	_	O
+망월	망월	NNP	B-LOC
+천	천	NR	I-LOC
+_	_	_	I-LOC
+수변	수변	NNG	I-LOC
+공원	공원	NNG	I-LOC
+이	이	JKS	O
+_	_	_	O
+조성되	조성되	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+어	어	EC	O
+_	_	_	O
+공원	공원	NNG	O
+을	을	JKO	O
+_	_	_	O
+감상하	감상하	VV	O
+며	며	EC	O
+_	_	_	O
+쇼핑	쇼핑	NNG	O
+을	을	JKO	O
+_	_	_	O
+즐길	즐기+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## ‘출판·영상·방송통신 및 정보서비스업’과 ‘운수업’도 각각 여성 비율이 35.9%, 30.3%로 높은 편이었다.
+## ‘출판·영상·방송통신 및 정보서비스업’과 ‘운수업’도 각각 여성 비율이 <35.9%:PNT>, <30.3%:PNT>로 높은 편이었다.
+‘	‘	SS	O
+출판	출판	NNG	O
+·	·	SP	O
+영상	영상	NNG	O
+·	·	SP	O
+방송	방송	NNG	O
+통신	통신	NNG	O
+_	_	_	O
+및	및	MAG	O
+_	_	_	O
+정보	정보	NNG	O
+서비스업	서비스업	NNG	O
+’	’	SS	O
+과	과	JC	O
+_	_	_	O
+‘	‘	SS	O
+운수업	운수업	NNG	O
+’	’	SS	O
+도	도	JX	O
+_	_	_	O
+각각	각각	MAG	O
+_	_	_	O
+여성	여성	NNG	O
+_	_	_	O
+비율	비율	NNG	O
+이	이	JKS	O
+_	_	_	O
+35.9	35.9	SN	B-PNT
+%	%	SW	I-PNT
+,	,	SP	O
+_	_	_	O
+30.3	30.3	SN	B-PNT
+%	%	SW	I-PNT
+로	로	JKB	O
+_	_	_	O
+높	높	VA	O
+은	은	ETM	O
+_	_	_	O
+편	편	NNB	O
+이	이	VCP	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## 절체절명의 위기 속에서 대전은 생존의 몸부림을 치고 있다.
+## 절체절명의 위기 속에서 <대전:ORG>은 생존의 몸부림을 치고 있다.
+절체절명	절체절명	NNG	O
+의	의	JKG	O
+_	_	_	O
+위기	위기	NNG	O
+_	_	_	O
+속	속	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+대전	대전	NNP	B-ORG
+은	은	JX	O
+_	_	_	O
+생존	생존	NNG	O
+의	의	JKG	O
+_	_	_	O
+몸부림	몸부림	NNG	O
+을	을	JKO	O
+_	_	_	O
+치	치	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 14
+## MC몽 6년만의 단독 콘서트 '몽스터', 녹슬지 않은 랩 실력과 무대매너… MC몽이 6년만의 첫 콘서트를 성공적으로 마쳤다.
+## <MC몽:PER> <6년만:NOH>의 단독 콘서트 '<몽스터:POH>', 녹슬지 않은 랩 실력과 무대매너… <MC몽:PER>이 <6년만:NOH>의 첫 콘서트를 성공적으로 마쳤다.
+MC	MC	SL	B-PER
+몽	몽	NNP	I-PER
+_	_	_	O
+6	6	SN	B-NOH
+년	년	NNB	I-NOH
+만	만	NNB	I-NOH
+의	의	JKG	O
+_	_	_	O
+단독	단독	NNG	O
+_	_	_	O
+콘서트	콘서트	NNG	O
+_	_	_	O
+'	'	SS	O
+몽스	몽스	NNP	B-POH
+터	터	NNB	I-POH
+'	'	SS	O
+,	,	SP	O
+_	_	_	O
+녹슬	녹슬	VV	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+은	은	ETM	O
+_	_	_	O
+랩	랩	NNG	O
+_	_	_	O
+실력	실력	NNG	O
+과	과	JC	O
+_	_	_	O
+무대	무대	NNG	O
+매너	매너	NNG	O
+…	…	SE	O
+_	_	_	O
+MC	MC	SL	B-PER
+몽이	몽이	NNG	O
+_	_	_	O
+6	6	SN	B-NOH
+년	년	NNB	I-NOH
+만	만	NNB	I-NOH
+의	의	JKG	O
+_	_	_	O
+첫	첫	MM	O
+_	_	_	O
+콘서트	콘서트	NNG	O
+를	를	JKO	O
+_	_	_	O
+성공적	성공적	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+마	마치	VV	O
+쳤	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 15
+## 스타키그룹이 전 임직원 및 가족들을 초청해 1박 2일 일정의 ‘스타키그룹 패밀리 데이(Starkey Group Family Day)’를 개최한 것이다.
+## <스타키그룹:ORG>이 전 임직원 및 가족들을 초청해 <1박:NOH> <2일:NOH> 일정의 ‘<스타키그룹 패밀리 데이:POH>(<Starkey Group Family Day:POH>)’를 개최한 것이다.
+스타키	스타키	NNP	B-ORG
+그룹	그룹	NNG	I-ORG
+이	이	JKS	O
+_	_	_	O
+전	전	MM	O
+_	_	_	O
+임직원	임직원	NNG	O
+_	_	_	O
+및	및	MAG	O
+_	_	_	O
+가족	가족	NNG	O
+들	들	XSN	O
+을	을	JKO	O
+_	_	_	O
+초청해	초청하+여	VV+EC	O
+_	_	_	O
+1	1	SN	B-NOH
+박	박	NNB	I-NOH
+_	_	_	O
+2	2	SN	B-NOH
+일	일	NNB	I-NOH
+_	_	_	O
+일정	일정	NNG	O
+의	의	JKG	O
+_	_	_	O
+‘	‘	SS	O
+스타키	스타키	NNP	B-POH
+그룹	그룹	NNG	I-POH
+_	_	_	I-POH
+패밀리	패밀리	NNG	I-POH
+_	_	_	I-POH
+데이	데이	NNG	I-POH
+(	(	SS	O
+Starkey	Starkey	SL	B-POH
+_	_	_	I-POH
+Group	Group	SL	I-POH
+_	_	_	I-POH
+Family	Family	SL	I-POH
+_	_	_	I-POH
+Day	Day	SL	I-POH
+)	)	SS	O
+’	’	SS	O
+를	를	JKO	O
+_	_	_	O
+개최한	개최하+ㄴ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+

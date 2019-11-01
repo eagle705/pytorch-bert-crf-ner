@@ -1,0 +1,431 @@
+## 1
+## 예컨대 유대치는 이동인의 소개를 받아 직접 오촌의 원산 포교당으로 찾아갔다.
+## 예컨대 <유대치:PER>는 <이동인:PER>의 소개를 받아 직접 <오촌:LOC>의 <원산 포교당:LOC>으로 찾아갔다.
+예컨대	예컨데	MAG	O
+_	_	_	O
+유대치	유대치	NNP	B-PER
+는	는	JX	O
+_	_	_	O
+이동인	이동인	NNP	B-PER
+의	의	JKG	O
+_	_	_	O
+소개	소개	NNG	O
+를	를	JKO	O
+_	_	_	O
+받	받	VV	O
+아	아	EC	O
+_	_	_	O
+직접	직접	MAG	O
+_	_	_	O
+오촌	오촌	NNG	B-LOC
+의	의	JKG	O
+_	_	_	O
+원산	원산	NNP	B-LOC
+_	_	_	I-LOC
+포교당	포교당	NNG	I-LOC
+으로	으로	JKB	O
+_	_	_	O
+찾아갔	찾아가+았	VV+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 시진핑(習近平) 중국 국가주석이 3일 전승절 70주년 열병식에서 병력을 230만 명에서 30만 명 감축하겠다고 선언했으나 국방 예산은 크게 늘어날 것이라는 전망이 나왔다.
+## <시진핑:PER>(<習近平:PER>) <중국:ORG> 국가주석이 <3일 전승절 :DAT><70주년:NOH> 열병식에서 병력을 <230만 명:NOH>에서 <30만 명:NOH> 감축하겠다고 선언했으나 국방 예산은 크게 늘어날 것이라는 전망이 나왔다.
+시진핑	시진핑	NNP	B-PER
+(	(	SS	O
+習近平	習近平	SH	B-PER
+)	)	SS	O
+_	_	_	O
+중국	중국	NNP	B-ORG
+_	_	_	O
+국가주석	국가주석	NNG	O
+이	이	JKS	O
+_	_	_	O
+3	3	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	I-DAT
+전승	전승	NNG	I-DAT
+절	절	NNG	I-DAT
+_	_	_	I-DAT
+70	70	SN	B-NOH
+주년	주년	NNB	I-NOH
+_	_	_	O
+열병식	열병식	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+병력	병력	NNG	O
+을	을	JKO	O
+_	_	_	O
+230	230	SN	B-NOH
+만	만	NR	I-NOH
+_	_	_	I-NOH
+명	명	NNB	I-NOH
+에서	에서	JKB	O
+_	_	_	O
+30	30	SN	B-NOH
+만	만	NR	I-NOH
+_	_	_	I-NOH
+명	명	NNB	I-NOH
+_	_	_	O
+감축하	감축하	VV	O
+겠	겠	EP	O
+다고	다고	EC	O
+_	_	_	O
+선언	선언하	VV	O
+했	였	EP	O
+으나	으나	EC	O
+_	_	_	O
+국방	국방	NNG	O
+_	_	_	O
+예산	예산	NNG	O
+은	은	JX	O
+_	_	_	O
+크	크	VA	O
+게	게	EC	O
+_	_	_	O
+늘어날	늘어나+ㄹ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+이	이	VCP	O
+라는	라는	ETM	O
+_	_	_	O
+전망	전망	NNG	O
+이	이	JKS	O
+_	_	_	O
+나	나오	VV	O
+왔	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 이 센터장은 침술치료에 있어 차세대 명의로 꼽힌다.
+## <이:PER> 센터장은 침술치료에 있어 차세대 명의로 꼽힌다.
+이	이	MM	B-PER
+_	_	_	O
+센터	센터	NNG	O
+장	장	XSN	O
+은	은	JX	O
+_	_	_	O
+침술	침술	NNG	O
+치료	치료	NNG	O
+에	에	JKB	O
+_	_	_	O
+있	있	VA	O
+어	어	EC	O
+_	_	_	O
+차세대	차세대	NNG	O
+_	_	_	O
+명의	명의	NNG	O
+로	로	JKB	O
+_	_	_	O
+꼽힌다	꼽히+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 4
+## ‘해피투게더’ 타이거 JK “아버지, 나보다 윤미래 먼저 봤다”…사연 들어보니?
+## ‘<해피투게더:POH>’ <타이거 JK:PER> “아버지, 나보다 <윤미래:PER> 먼저 봤다”…사연 들어보니?
+‘	‘	SS	O
+해피투게더	해피투게더	NNP	B-POH
+’	’	SS	O
+_	_	_	O
+타이거	타이거	NNP	B-PER
+_	_	_	I-PER
+JK	JK	SL	I-PER
+_	_	_	O
+“	“	SS	O
+아버지	아버지	NNG	O
+,	,	SP	O
+_	_	_	O
+나	나	NP	O
+보다	보다	JKB	O
+_	_	_	O
+윤미래	윤미래	NNP	B-PER
+_	_	_	O
+먼저	먼저	MAG	O
+_	_	_	O
+봤	+았	+EP	O
+다	다	EF	O
+”	”	SS	O
+…	…	SE	O
+사연	사연	NNG	O
+_	_	_	O
+들	듣	VV	O
+어	어	EC	O
+보	보	VX	O
+니	니	EF	O
+?	?	SF	O
+
+## 5
+## 위경련·인두염 앓는 朴대통령 “오늘 공식 일정은 없다”
+## 위경련·인두염 앓는 <朴:PER>대통령 “오늘 공식 일정은 없다”
+위경련	위경련	NNG	O
+·	·	SP	O
+인두염	인두염	NNG	O
+_	_	_	O
+앓	앓	VV	O
+는	는	ETM	O
+_	_	_	O
+朴	朴	SH	B-PER
+대통령	대통령	NNG	O
+_	_	_	O
+“	“	SS	O
+오늘	오늘	MAG	O
+_	_	_	O
+공식	공식	NNG	O
+_	_	_	O
+일정	일정	NNG	O
+은	은	JX	O
+_	_	_	O
+없	없	VA	O
+다	다	EF	O
+”	”	SS	O
+
+## 6
+## 이에 MC들은 “샤이니가 딱 붙는 무대 의상을 많이 입던데 오늘도 바지가 딱 맞는 것 같다”라고 말했다.
+## 이에 MC들은 “<샤이니:ORG>가 딱 붙는 무대 의상을 많이 입던데 오늘도 바지가 딱 맞는 것 같다”라고 말했다.
+이	이	NP	O
+에	에	JKB	O
+_	_	_	O
+MC	MC	SL	O
+들	들	XSN	O
+은	은	JX	O
+_	_	_	O
+“	“	SS	O
+샤이니	샤이니	NNP	B-ORG
+가	가	JKS	O
+_	_	_	O
+딱	딱	MAG	O
+_	_	_	O
+붙	붙	VV	O
+는	는	ETM	O
+_	_	_	O
+무대	무대	NNG	O
+_	_	_	O
+의상	의상	NNG	O
+을	을	JKO	O
+_	_	_	O
+많이	많이	MAG	O
+_	_	_	O
+입	입	VV	O
+던데	던데	EC	O
+_	_	_	O
+오늘	오늘	NNG	O
+도	도	JX	O
+_	_	_	O
+바지	바지	NNG	O
+가	가	JKS	O
+_	_	_	O
+딱	딱	MAG	O
+_	_	_	O
+맞	맞	VV	O
+는	는	ETM	O
+_	_	_	O
+것	것	NNB	O
+_	_	_	O
+같	같	VA	O
+다	다	EF	O
+”	”	SS	O
+라고	라고	JKQ	O
+_	_	_	O
+말	말하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 평소 물을 적게 마시는 최씨였지만 하루에 물 2L를 마시면서 짠 음식과 고단백 식품을 피하는 식단을 실천했다.
+## 평소 물을 적게 마시는 <최:PER>씨였지만 하루에 물 <2L:NOH>를 마시면서 짠 음식과 고단백 식품을 피하는 식단을 실천했다.
+평소	평소	NNG	O
+_	_	_	O
+물	물	NNG	O
+을	을	JKO	O
+_	_	_	O
+적	적	VA	O
+게	게	EC	O
+_	_	_	O
+마시	마시	VV	O
+는	는	ETM	O
+_	_	_	O
+최	최	NNP	B-PER
+씨	씨+이	NNB+VCP	O
+였	었	EP	O
+지만	지만	EC	O
+_	_	_	O
+하루	하루	NNG	O
+에	에	JKB	O
+_	_	_	O
+물	물	NNG	O
+_	_	_	O
+2	2	SN	B-NOH
+L	L	SL	I-NOH
+를	를	JKO	O
+_	_	_	O
+마시	마시	VV	O
+면서	면서	EC	O
+_	_	_	O
+짠	짜+ㄴ	VA+ETM	O
+_	_	_	O
+음식	음식	NNG	O
+과	과	JC	O
+_	_	_	O
+고	고	XPN	O
+단백	단백	NNG	O
+_	_	_	O
+식품	식품	NNG	O
+을	을	JKO	O
+_	_	_	O
+피하	피하	VV	O
+는	는	ETM	O
+_	_	_	O
+식단	식단	NNG	O
+을	을	JKO	O
+_	_	_	O
+실천	실천하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 요추 1번과 흉추 12번이 곪아 터졌다.
+## 요추 <1번:NOH>과 흉추 <12번:NOH>이 곪아 터졌다.
+요추	요추	NNG	O
+_	_	_	O
+1	1	SN	B-NOH
+번	번	NNB	I-NOH
+과	과	JC	O
+_	_	_	O
+흉추	흉추	NNG	O
+_	_	_	O
+12	12	SN	B-NOH
+번	번	NNB	I-NOH
+이	이	JKS	O
+_	_	_	O
+곪	곪	VV	O
+아	아	EC	O
+_	_	_	O
+터	터지	VV	O
+졌	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 이후 냉장고에서 땅콩잼이 발견되자, 제시는 "땅콩잼을 숟가락으로 퍼먹는다.
+## 이후 냉장고에서 땅콩잼이 발견되자, <제시:PER>는 "땅콩잼을 숟가락으로 퍼먹는다.
+이후	이후	NNG	O
+_	_	_	O
+냉장고	냉장고	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+땅콩	땅콩	NNG	O
+잼	잼	NNG	O
+이	이	JKS	O
+_	_	_	O
+발견되	발견되	VV	O
+자	자	EC	O
+,	,	SP	O
+_	_	_	O
+제시	제시	NNP	B-PER
+는	는	JX	O
+_	_	_	O
+"	"	SS	O
+땅콩	땅콩	NNG	O
+잼	잼	NNG	O
+을	을	JKO	O
+_	_	_	O
+숟가락	숟가락	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+퍼먹	퍼먹	VV	O
+는다	는다	EF	O
+.	.	SF	O
+
+## 10
+## ‘녹아’(Melting) ‘I Caught Ya’ ‘Stuck’ 총 6곡이 수록됐다.
+## ‘<녹아:POH>’(<Melting:POH>) ‘<I Caught Ya:POH>’ ‘<Stuck:POH>’ 총 <6곡:NOH>이 수록됐다.
+‘	‘	SS	O
+녹	녹	VV	B-POH
+아	아	EF	I-POH
+’	’	SS	O
+(	(	SS	O
+Melting	Melting	SL	B-POH
+)	)	SS	O
+_	_	_	O
+‘	‘	SS	O
+I	I	SL	B-POH
+_	_	_	I-POH
+Caught	Caught	SL	I-POH
+_	_	_	I-POH
+Ya	Ya	SL	I-POH
+’	’	SS	O
+_	_	_	O
+‘	‘	SS	O
+Stuck	Stuck	SL	B-POH
+’	’	SS	O
+_	_	_	O
+총	총	MM	O
+_	_	_	O
+6	6	SN	B-NOH
+곡	곡	NNG	I-NOH
+이	이	JKS	O
+_	_	_	O
+수록	수록되	VV	O
+됐	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 한국 요식업의 발전이 여기에 달려 있다.
+## <한국:LOC> 요식업의 발전이 여기에 달려 있다.
+한국	한국	NNP	B-LOC
+_	_	_	O
+요식업	요식업	NNG	O
+의	의	JKG	O
+_	_	_	O
+발전	발전	NNG	O
+이	이	JKS	O
+_	_	_	O
+여기	여기	NP	O
+에	에	JKB	O
+_	_	_	O
+달려	달리+어	VV+EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## ※필자(44)는 싱가포르 요리학교 샤텍 유학 뒤 그곳 리츠칼턴호텔에서 일했다.
+## ※필자(<44:NOH>)는 <싱가포르:LOC> 요리학교 <샤텍:ORG> 유학 뒤 그곳 <리츠칼턴호텔:ORG>에서 일했다.
+※	※	SW	O
+필자	필자	NNG	O
+(	(	SS	O
+44	44	SN	B-NOH
+)	)	SS	O
+는	는	JX	O
+_	_	_	O
+싱가포르	싱가포르	NNP	B-LOC
+_	_	_	O
+요리	요리	NNG	O
+학교	학교	NNG	O
+_	_	_	O
+샤	샤	NNP	B-ORG
+텍	텍	NNG	I-ORG
+_	_	_	O
+유학	유학	NNG	O
+_	_	_	O
+뒤	뒤	NNG	O
+_	_	_	O
+그곳	그곳	NP	O
+_	_	_	O
+리츠	리츠	NNP	B-ORG
+칼	칼	NNG	I-ORG
+턴	턴	NNG	I-ORG
+호텔	호텔	NNG	I-ORG
+에서	에서	JKB	O
+_	_	_	O
+일	일하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+

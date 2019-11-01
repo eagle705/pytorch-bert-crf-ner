@@ -1,0 +1,411 @@
+## 1
+## 부가부 비5, ‘현대 프리미엄 베이비 페어’첫선…예약판매 실시
+## <부가부 비5:POH>, ‘<현대 프리미엄 베이비 페어:POH>’첫선…예약판매 실시
+부가	부가	NNG	B-POH
+부	부	NNG	I-POH
+_	_	_	I-POH
+비	비	NNG	I-POH
+5	5	SN	I-POH
+,	,	SP	O
+_	_	_	O
+‘	‘	SS	O
+현대	현대	NNP	B-POH
+_	_	_	I-POH
+프리미엄	프리미엄	NNG	I-POH
+_	_	_	I-POH
+베이비	베이비	NNG	I-POH
+_	_	_	I-POH
+페어	페어	NNG	I-POH
+’	’	SS	O
+첫선	첫선	NNG	O
+…	…	SE	O
+예약판매	예약판매	NNG	O
+_	_	_	O
+실시	실시	NNG	O
+
+## 2
+## 빼돌린 혐의로 사전 구속영장이 청구돼 9일 오전 10시 서울중앙지법에서 영장실질심사를 받을 예정이었다.
+## 빼돌린 혐의로 사전 구속영장이 청구돼 <9일:DAT> <오전 10시:TIM> <서울중앙지법:ORG>에서 영장실질심사를 받을 예정이었다.
+빼돌린	빼돌리+ㄴ	VV+ETM	O
+_	_	_	O
+혐의	혐의	NNG	O
+로	로	JKB	O
+_	_	_	O
+사전	사전	NNG	O
+_	_	_	O
+구속	구속	NNG	O
+영장	영장	NNG	O
+이	이	JKS	O
+_	_	_	O
+청구	청구	NNG	O
+돼	되+어	XSV+EC	O
+_	_	_	O
+9	9	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+오전	오전	NNG	B-TIM
+_	_	_	I-TIM
+10	10	SN	I-TIM
+시	시	NNB	I-TIM
+_	_	_	O
+서울중앙지법	서울중앙지법	NNP	B-ORG
+에서	에서	JKB	O
+_	_	_	O
+영장	영장	NNG	O
+실질	실질	NNG	O
+심사	심사	NNG	O
+를	를	JKO	O
+_	_	_	O
+받	받	VV	O
+을	을	ETM	O
+_	_	_	O
+예정	예정	NNG	O
+이	이	VCP	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 행사 사전 참여 신청은 애플리케이션(앱) ‘캔고루’의 전시 코너에서 하면 된다.
+## 행사 사전 참여 신청은 애플리케이션(앱) ‘<캔고루:POH>’의 전시 코너에서 하면 된다.
+행사	행사	NNG	O
+_	_	_	O
+사전	사전	NNG	O
+_	_	_	O
+참여	참여	NNG	O
+_	_	_	O
+신청	신청	NNG	O
+은	은	JX	O
+_	_	_	O
+애플리케이션	애플리케이션	NNG	O
+(	(	SS	O
+앱	앱	NNG	O
+)	)	SS	O
+_	_	_	O
+‘	‘	SS	O
+캔	캔	NNG	B-POH
+고루	고루	MAG	I-POH
+’	’	SS	O
+의	의	JKG	O
+_	_	_	O
+전시	전시	NNG	O
+_	_	_	O
+코너	코너	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+하	하	VV	O
+면	면	EC	O
+_	_	_	O
+된다	되+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 4
+## 지카바이러스 공포 확산, 콜롬비아 임신부 2000여명 감염…중남미 여행자제 권고
+## <지카바이러스:POH> 공포 확산, <콜롬비아:LOC> 임신부 <2000여명:NOH> 감염…<중남미:LOC> 여행자제 권고
+지카	지카	NNP	B-POH
+바이러스	바이러스	NNG	I-POH
+_	_	_	O
+공포	공포	NNG	O
+_	_	_	O
+확산	확산	NNG	O
+,	,	SP	O
+_	_	_	O
+콜롬비아	콜롬비아	NNP	B-LOC
+_	_	_	O
+임신부	임신부	NNG	O
+_	_	_	O
+2000	2000	SN	B-NOH
+여	여	XSN	I-NOH
+명	명	NNB	I-NOH
+_	_	_	O
+감염	감염	NNG	O
+…	…	SE	O
+중남미	중남미	NNP	B-LOC
+_	_	_	O
+여행	여행	NNG	O
+자제	자제	NNG	O
+_	_	_	O
+권고	권고	NNG	O
+
+## 5
+## ‘택시’ 유병재, 이상형 발언… 장도연 “미친X 아냐” 독설
+## ‘<택시:POH>’ <유병재:PER>, 이상형 발언… <장도연:PER> “미친X 아냐” 독설
+‘	‘	SS	O
+택시	택시	NNG	B-POH
+’	’	SS	O
+_	_	_	O
+유병재	유병재	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+이상형	이상형	NNG	O
+_	_	_	O
+발언	발언	NNG	O
+…	…	SE	O
+_	_	_	O
+장도연	장도연	NNP	B-PER
+_	_	_	O
+“	“	SS	O
+미친	미치+ㄴ	VV+ETM	O
+X	X	SL	O
+_	_	_	O
+아	아니	VCN	O
+냐	야	EF	O
+”	”	SS	O
+_	_	_	O
+독설	독설	NNG	O
+
+## 6
+## 감독의 발언으로 격앙된 현장 취재진의 마음을 주장 기성용이 풀어줬다.
+## 감독의 발언으로 격앙된 현장 취재진의 마음을 주장 <기성용:PER>이 풀어줬다.
+감독	감독	NNG	O
+의	의	JKG	O
+_	_	_	O
+발언	발언	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+격앙된	격앙되+ㄴ	VV+ETM	O
+_	_	_	O
+현장	현장	NNG	O
+_	_	_	O
+취재진	취재진	NNG	O
+의	의	JKG	O
+_	_	_	O
+마음	마음	NNG	O
+을	을	JKO	O
+_	_	_	O
+주장	주장	NNG	O
+_	_	_	O
+기성용	기성용	NNP	B-PER
+이	이	JKS	O
+_	_	_	O
+풀	풀	VV	O
+어	어	EC	O
+줬	주+었	VX+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 법안을 부결시키면, ‘오바마케어’를 그대로 유지하겠다는 것이다.
+## 법안을 부결시키면, ‘<오바마케어:POH>’를 그대로 유지하겠다는 것이다.
+법안	법안	NNG	O
+을	을	JKO	O
+_	_	_	O
+부결	부결	NNG	O
+시키	시키	XSV	O
+면	면	EC	O
+,	,	SP	O
+_	_	_	O
+‘	‘	SS	O
+오바마	오바마	NNP	B-POH
+케어	케어	NNG	I-POH
+’	’	SS	O
+를	를	JKO	O
+_	_	_	O
+그대로	그대로	MAG	O
+_	_	_	O
+유지하	유지하	VV	O
+겠	겠	EP	O
+다는	다는	ETM	O
+_	_	_	O
+것	것	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 각 정부 및 관련 부처의 적극적인 지원 아래 청소년 인성·기술 교육을 실시하고 있는 국제청소년연합(International Youth Fellowship)이 그 주인공이다.
+## 각 정부 및 관련 부처의 적극적인 지원 아래 청소년 인성·기술 교육을 실시하고 있는 <국제청소년연합:ORG>(<International Youth Fellowship:ORG>)이 그 주인공이다.
+각	각	MM	O
+_	_	_	O
+정부	정부	NNG	O
+_	_	_	O
+및	및	MAG	O
+_	_	_	O
+관련	관련	NNG	O
+_	_	_	O
+부처	부처	NNG	O
+의	의	JKG	O
+_	_	_	O
+적극적	적극적	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+지원	지원	NNG	O
+_	_	_	O
+아래	아래	NNG	O
+_	_	_	O
+청소년	청소년	NNG	O
+_	_	_	O
+인성	인성	NNG	O
+·	·	SP	O
+기술	기술	NNG	O
+_	_	_	O
+교육	교육	NNG	O
+을	을	JKO	O
+_	_	_	O
+실시하	실시하	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+는	는	ETM	O
+_	_	_	O
+국제	국제	NNG	B-ORG
+청소년	청소년	NNG	I-ORG
+연합	연합	NNG	I-ORG
+(	(	SS	O
+International	International	SL	B-ORG
+_	_	_	I-ORG
+Youth	Youth	SL	I-ORG
+_	_	_	I-ORG
+Fellowship	Fellowship	SL	I-ORG
+)	)	SS	O
+이	이	JKS	O
+_	_	_	O
+그	그	MM	O
+_	_	_	O
+주인공	주인공	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 당 총서기가 군사위 주석을 겸직하며 군의 모든 사안에 책임을 지고 지휘한다는 의미다.
+## 당 총서기가 <군사위:ORG> 주석을 겸직하며 군의 모든 사안에 책임을 지고 지휘한다는 의미다.
+당	당	NNG	O
+_	_	_	O
+총서기	총서기	NNG	O
+가	가	JKS	O
+_	_	_	O
+군사	군사	NNG	B-ORG
+위	위	NNG	I-ORG
+_	_	_	O
+주석	주석	NNG	O
+을	을	JKO	O
+_	_	_	O
+겸직하	겸직하	VV	O
+며	며	EC	O
+_	_	_	O
+군	군	NNG	O
+의	의	JKG	O
+_	_	_	O
+모든	모든	MM	O
+_	_	_	O
+사안	사안	NNG	O
+에	에	JKB	O
+_	_	_	O
+책임	책임	NNG	O
+을	을	JKO	O
+_	_	_	O
+지	지	VV	O
+고	고	EC	O
+_	_	_	O
+지휘한다는	지휘하+ㄴ다는	VV+ETM	O
+_	_	_	O
+의미	의미+이	NNG+VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 종량제 실시전 하루 쓰레기배출량은 18t이었으나, 지난달엔 하루 평균 11t으로 38%가 적게 나왔다.
+## 종량제 실시전 하루 쓰레기배출량은 <18t:NOH>이었으나, 지난달엔 하루 평균 <11t:NOH>으로 <38%:PNT>가 적게 나왔다.
+종량제	종량제	NNG	O
+_	_	_	O
+실시	실시	NNG	O
+전	전	NNG	O
+_	_	_	O
+하루	하루	NNG	O
+_	_	_	O
+쓰레기	쓰레기	NNG	O
+배출	배출	NNG	O
+량	량	NNG	O
+은	은	JX	O
+_	_	_	O
+18	18	SN	B-NOH
+t	t	SL	I-NOH
+이	이	VCP	O
+었	었	EP	O
+으나	으나	EC	O
+,	,	SP	O
+_	_	_	O
+지난달	지난달	NNG	O
+엔	에+ㄴ	JKB+JX	O
+_	_	_	O
+하루	하루	NNG	O
+_	_	_	O
+평균	평균	NNG	O
+_	_	_	O
+11	11	SN	B-NOH
+t	t	SL	I-NOH
+으로	으로	JKB	O
+_	_	_	O
+38	38	SN	B-PNT
+%	%	SW	I-PNT
+가	가	JKS	O
+_	_	_	O
+적	적	VA	O
+게	게	EC	O
+_	_	_	O
+나	나오	VV	O
+왔	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 그 경우 이용자 수와 결제 실적이란 두 마리 토끼를 모두 잡을 가능성이 크다.
+## 그 경우 이용자 수와 결제 실적이란 <두 마리:NOH> 토끼를 모두 잡을 가능성이 크다.
+그	그	MM	O
+_	_	_	O
+경우	경우	NNG	O
+_	_	_	O
+이용자	이용자	NNG	O
+_	_	_	O
+수	수	NNG	O
+와	와	JC	O
+_	_	_	O
+결제	결제	NNG	O
+_	_	_	O
+실적	실적	NNG	O
+이란	이란	NNP	O
+_	_	_	O
+두	두	MM	B-NOH
+_	_	_	I-NOH
+마리	마리	NNB	I-NOH
+_	_	_	O
+토끼	토끼	NNG	O
+를	를	JKO	O
+_	_	_	O
+모두	모두	MAG	O
+_	_	_	O
+잡	잡	VV	O
+을	을	ETM	O
+_	_	_	O
+가능성	가능성	NNG	O
+이	이	JKS	O
+_	_	_	O
+크	크	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 돈은 노화도에서 쓰고 쓰레기만 내려놓는다는 거였다.
+## 돈은 <노화도:LOC>에서 쓰고 쓰레기만 내려놓는다는 거였다.
+돈	돈	NNG	O
+은	은	JX	O
+_	_	_	O
+노화도	노화도	NNP	B-LOC
+에서	에서	JKB	O
+_	_	_	O
+쓰	쓰	VV	O
+고	고	EC	O
+_	_	_	O
+쓰레기	쓰레기	NNG	O
+만	만	JX	O
+_	_	_	O
+내려놓	내려놓	VV	O
+는다	는다	EC	O
+는	는	JX	O
+_	_	_	O
+거	것+이	NNB+VCP	O
+였	었	EP	O
+다	다	EF	O
+.	.	SF	O
+

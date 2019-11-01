@@ -1,0 +1,523 @@
+## 1
+## 불과 한 달 전만 해도 버니 샌더스 상원의원(버몬트)과 최고 48%포인트(에머슨 조사)까지 벌어졌던 뉴욕주 지지율 격차가 일부 조사에서 6%포인트(그래비스 조사)까지 좁혀진 것으로 나왔기 때문이다.
+## 불과 <한 달:NOH> 전만 해도 <버니 샌더스:PER> 상원의원(<버몬트:LOC>)과 최고 <48%포인트:PNT>(<에머슨:ORG> 조사)까지 벌어졌던 <뉴욕주:LOC> 지지율 격차가 일부 조사에서 <6%포인트:PNT>(<그래비스:ORG> 조사)까지 좁혀진 것으로 나왔기 때문이다.
+불과	불과	MAG	O
+_	_	_	O
+한	한	MM	B-NOH
+_	_	_	I-NOH
+달	달	NNB	I-NOH
+_	_	_	O
+전	전	NNG	O
+만	만	JX	O
+_	_	_	O
+해도	하+여도	VV+EC	O
+_	_	_	O
+버니	버니	NNP	B-PER
+_	_	_	I-PER
+샌더스	샌더스	NNP	I-PER
+_	_	_	O
+상원	상원	NNG	O
+의원	의원	NNG	O
+(	(	SS	O
+버몬트	버몬트	NNP	B-LOC
+)	)	SS	O
+과	과	JKB	O
+_	_	_	O
+최고	최고	NNG	O
+_	_	_	O
+48	48	SN	B-PNT
+%	%	SW	I-PNT
+포인트	포인트	NNG	I-PNT
+(	(	SS	O
+에머슨	에머슨	NNP	B-ORG
+_	_	_	O
+조사	조사	NNG	O
+)	)	SS	O
+까지	까지	JX	O
+_	_	_	O
+벌어	벌어지	VV	O
+졌	었	EP	O
+던	던	ETM	O
+_	_	_	O
+뉴욕주	뉴욕주	NNP	B-LOC
+_	_	_	O
+지지율	지지율	NNG	O
+_	_	_	O
+격차	격차	NNG	O
+가	가	JKS	O
+_	_	_	O
+일부	일부	NNG	O
+_	_	_	O
+조사	조사	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+6	6	SN	B-PNT
+%	%	SW	I-PNT
+포인트	포인트	NNG	I-PNT
+(	(	SS	O
+그래	그래	IC	B-ORG
+비스	비스	NNG	I-ORG
+_	_	_	O
+조사	조사	NNG	O
+)	)	SS	O
+까지	까지	JX	O
+_	_	_	O
+좁혀	좁히+어	VV+EC	O
+진	지+ㄴ	VX+ETM	O
+_	_	_	O
+것	것	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+나	나오	VV	O
+왔	았	EP	O
+기	기	ETN	O
+_	_	_	O
+때문	때문	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 앞선 회담에서 일본이 제의한 내용, 이에 대한 상대국의 반응 등을 면밀히 검토­분석하는 것이 필수적이다.
+## 앞선 회담에서 <일본:ORG>이 제의한 내용, 이에 대한 상대국의 반응 등을 면밀히 검토­분석하는 것이 필수적이다.
+앞선	앞서+ㄴ	VV+ETM	O
+_	_	_	O
+회담	회담	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+일본	일본	NNP	B-ORG
+이	이	JKS	O
+_	_	_	O
+제의한	제의하+ㄴ	VV+ETM	O
+_	_	_	O
+내용	내용	NNG	O
+,	,	SP	O
+_	_	_	O
+이	이	NP	O
+에	에	JKB	O
+_	_	_	O
+대한	대하+ㄴ	VV+ETM	O
+_	_	_	O
+상대국	상대국	NNG	O
+의	의	JKG	O
+_	_	_	O
+반응	반응	NNG	O
+_	_	_	O
+등	등	NNB	O
+을	을	JKO	O
+_	_	_	O
+면밀히	면밀히	MAG	O
+_	_	_	O
+검토	검토	NNG	O
+­	­	SS	O
+분석하	분석하	VV	O
+는	는	ETM	O
+_	_	_	O
+것	것	NNB	O
+이	이	JKS	O
+_	_	_	O
+필수적	필수적	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 14일 인사혁신처에 따르면 신임 민 위원장은 경기 여주 출신으로 경복고와 서울대 법학과를 졸업했고 사법시험(20회) 합격 뒤 사법연수원 교수, 서울고등법원 부장판사 등을 역임했다.
+## <14일:DAT> <인사혁신처:ORG>에 따르면 신임 <민:PER> 위원장은 <경기:LOC> <여주:LOC> 출신으로 <경복고:ORG>와 <서울대 법학과:ORG>를 졸업했고 사법시험(<20회:NOH>) 합격 뒤 <사법연수원:ORG> 교수, <서울고등법원:ORG> 부장판사 등을 역임했다.
+14	14	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+인사	인사	NNG	B-ORG
+혁신	혁신	NNG	I-ORG
+처	처	XSN	I-ORG
+에	에	JKB	O
+_	_	_	O
+따르	따르	VV	O
+면	면	EC	O
+_	_	_	O
+신임	신임	NNG	O
+_	_	_	O
+민	민	NNP	B-PER
+_	_	_	O
+위원장	위원장	NNG	O
+은	은	JX	O
+_	_	_	O
+경기	경기	NNP	B-LOC
+_	_	_	O
+여주	여주	NNP	B-LOC
+_	_	_	O
+출신	출신	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+경복고	경복고	NNP	B-ORG
+와	와	JC	O
+_	_	_	O
+서울대	서울대	NNP	B-ORG
+_	_	_	I-ORG
+법학	법학	NNG	I-ORG
+과	과	NNG	I-ORG
+를	를	JKO	O
+_	_	_	O
+졸업	졸업하	VV	O
+했	였	EP	O
+고	고	EC	O
+_	_	_	O
+사법	사법	NNG	O
+시험	시험	NNG	O
+(	(	SS	O
+20	20	SN	B-NOH
+회	회	NNB	I-NOH
+)	)	SS	O
+_	_	_	O
+합격	합격	NNG	O
+_	_	_	O
+뒤	뒤	NNG	O
+_	_	_	O
+사법	사법	NNG	B-ORG
+연수원	연수원	NNG	I-ORG
+_	_	_	O
+교수	교수	NNG	O
+,	,	SP	O
+_	_	_	O
+서울고등법원	서울고등법원	NNP	B-ORG
+_	_	_	O
+부장	부장	NNG	O
+판사	판사	NNG	O
+_	_	_	O
+등	등	NNB	O
+을	을	JKO	O
+_	_	_	O
+역임	역임하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 수수한 차림의 세 사람은 어딘가를 응시하면서 박수를 치고 있다.
+## 수수한 차림의 <세 사람:NOH>은 어딘가를 응시하면서 박수를 치고 있다.
+수수한	수수하+ㄴ	VA+ETM	O
+_	_	_	O
+차림	차림	NNG	O
+의	의	JKG	O
+_	_	_	O
+세	세	MM	B-NOH
+_	_	_	I-NOH
+사람	사람	NNG	I-NOH
+은	은	JX	O
+_	_	_	O
+어딘가	어디+이+ㄴ가	NP+VCP+EC	O
+를	를	JKO	O
+_	_	_	O
+응시하	응시하	VV	O
+면서	면서	EC	O
+_	_	_	O
+박수	박수	NNG	O
+를	를	JKO	O
+_	_	_	O
+치	치	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## <46> 창극 연출가 정도연 감독
+## <<46:NOH>> 창극 연출가 <정도연:PER> 감독
+<	<	SS	O
+46	46	SN	B-NOH
+>	>	SS	O
+_	_	_	O
+창극	창극	NNG	O
+_	_	_	O
+연출가	연출가	NNG	O
+_	_	_	O
+정도	정도	NNG	B-PER
+연	연	XSN	I-PER
+_	_	_	O
+감독	감독	NNG	O
+
+## 6
+## ‘세종 태양빌딩’ 입주자 모집… 세종시 3-1 생활권 근접
+## ‘<세종:LOC> <태양빌딩:LOC>’ 입주자 모집… <세종시:LOC> <3-1:NOH> 생활권 근접
+‘	‘	SS	O
+세종	세종	NNP	B-LOC
+_	_	_	O
+태양빌딩	태양빌딩	NNP	B-LOC
+’	’	SS	O
+_	_	_	O
+입주자	입주자	NNG	O
+_	_	_	O
+모집	모집	NNG	O
+…	…	SE	O
+_	_	_	O
+세종시	세종시	NNP	B-LOC
+_	_	_	O
+3	3	SN	B-NOH
+-	-	SO	I-NOH
+1	1	SN	I-NOH
+_	_	_	O
+생활권	생활권	NNG	O
+_	_	_	O
+근접	근접	NNG	O
+
+## 7
+## 최근 화제가 된 이승만 전 대통령의 영어 저서 <일본 내막기(Japan Inside Out)>가 세상에 나온 것은 1941년 진주만 공격 직전이다.
+## 최근 화제가 된 <이승만:PER> 전 대통령의 영어 저서 <<일본 내막기:POH>(<Japan Inside Out:POH>)>가 세상에 나온 것은 <1941년:DAT> <진주만:LOC> 공격 직전이다.
+최근	최근	NNG	O
+_	_	_	O
+화제	화제	NNG	O
+가	가	JKC	O
+_	_	_	O
+된	되+ㄴ	VV+ETM	O
+_	_	_	O
+이승만	이승만	NNP	B-PER
+_	_	_	O
+전	전	MM	O
+_	_	_	O
+대통령	대통령	NNG	O
+의	의	JKG	O
+_	_	_	O
+영어	영어	NNP	O
+_	_	_	O
+저서	저서	NNG	O
+_	_	_	O
+<	<	SS	O
+일본	일본	NNP	B-POH
+_	_	_	I-POH
+내막	내막	VV	I-POH
+기	기	ETN	I-POH
+(	(	SS	O
+Japan	Japan	SL	B-POH
+_	_	_	I-POH
+Inside	Inside	SL	I-POH
+_	_	_	I-POH
+Out	Out	SL	I-POH
+)	)	SS	O
+>	>	SS	O
+가	가	JKS	O
+_	_	_	O
+세상	세상	NNG	O
+에	에	JKB	O
+_	_	_	O
+나온	나오+ㄴ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+은	은	JX	O
+_	_	_	O
+1941	1941	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+진주만	진주만	NNP	B-LOC
+_	_	_	O
+공격	공격	NNG	O
+_	_	_	O
+직전	직전	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## “가슴 미어져…노동개혁 법안 처리해 달라” 울먹인 이기권 장관
+## “가슴 미어져…노동개혁 법안 처리해 달라” 울먹인 <이기권:PER> 장관
+“	“	SS	O
+가슴	가슴	NNG	O
+_	_	_	O
+미어져	미어지+어	VV+EC	O
+…	…	SE	O
+노동	노동	NNG	O
+개혁	개혁	NNG	O
+_	_	_	O
+법안	법안	NNG	O
+_	_	_	O
+처리해	처리하+여	VV+EC	O
+_	_	_	O
+달	달	VX	O
+라	라	EF	O
+”	”	SS	O
+_	_	_	O
+울먹인	울먹이+ㄴ	VV+ETM	O
+_	_	_	O
+이기권	이기권	NNP	B-PER
+_	_	_	O
+장관	장관	NNG	O
+
+## 9
+## 갤럭시노트7 교환 시작, 우려한 혼잡 없었다
+## <갤럭시노트7:POH> 교환 시작, 우려한 혼잡 없었다
+갤럭시	갤럭시	NNP	B-POH
+노트	노트	NNG	I-POH
+7	7	SN	I-POH
+_	_	_	O
+교환	교환	NNG	O
+_	_	_	O
+시작	시작	NNG	O
+,	,	SP	O
+_	_	_	O
+우려한	우려하+ㄴ	VV+ETM	O
+_	_	_	O
+혼잡	혼잡	NNG	O
+_	_	_	O
+없	없	VA	O
+었	었	EP	O
+다	다	EF	O
+
+## 10
+## 지난 1일 전지현이 모델로 활동 중인 화장품 브랜드 '헤라' 유튜브 공식 계정에는 신제품 홍보 영상이 게재됐다.
+## 지난 <1일:DAT> <전지현:PER>이 모델로 활동 중인 화장품 브랜드 '<헤라:ORG>' <유튜브:POH> 공식 계정에는 신제품 홍보 영상이 게재됐다.
+지난	지나+ㄴ	VV+ETM	O
+_	_	_	O
+1	1	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+전지현	전지현	NNP	B-PER
+이	이	JKS	O
+_	_	_	O
+모델	모델	NNG	O
+로	로	JKB	O
+_	_	_	O
+활동	활동	NNG	O
+_	_	_	O
+중	중	NNB	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+화장품	화장품	NNG	O
+_	_	_	O
+브랜드	브랜드	NNG	O
+_	_	_	O
+'	'	SS	O
+헤라	헤라	NNP	B-ORG
+'	'	SS	O
+_	_	_	O
+유튜브	유튜브	NNP	B-POH
+_	_	_	O
+공식	공식	NNG	O
+_	_	_	O
+계정	계정	NNG	O
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+신제품	신제품	NNG	O
+_	_	_	O
+홍보	홍보	NNG	O
+_	_	_	O
+영상	영상	NNG	O
+이	이	JKS	O
+_	_	_	O
+게재	게재되	VV	O
+됐	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 청약자 규모는 올해 서울에서 분양한 아파트 가운데 가장 많았다.
+## 청약자 규모는 올해 <서울:LOC>에서 분양한 아파트 가운데 가장 많았다.
+청약	청약	NNG	O
+자	자	XSN	O
+_	_	_	O
+규모	규모	NNG	O
+는	는	JX	O
+_	_	_	O
+올해	올해	NNG	O
+_	_	_	O
+서울	서울	NNP	B-LOC
+에서	에서	JKB	O
+_	_	_	O
+분양한	분양하+ㄴ	VV+ETM	O
+_	_	_	O
+아파트	아파트	NNG	O
+_	_	_	O
+가운데	가운데	NNG	O
+_	_	_	O
+가장	가장	MAG	O
+_	_	_	O
+많	많	VA	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 오뚜기, 바비큐소스-냉장찌개 등 캠핑족 즉석식품 인기몰이
+## <오뚜기:ORG>, 바비큐소스-냉장찌개 등 캠핑족 즉석식품 인기몰이
+오뚜기	오뚜기	NNG	B-ORG
+,	,	SP	O
+_	_	_	O
+바비큐	바비큐	NNG	O
+소스	소스	NNG	O
+-	-	SO	O
+냉장	냉장	NNG	O
+찌개	찌개	NNG	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+캠핑	캠핑	NNG	O
+족	족	XSN	O
+_	_	_	O
+즉석식품	즉석식품	NNG	O
+_	_	_	O
+인기	인기	NNG	O
+몰이	몰이	NNG	O
+
+## 13
+## ‘찌질의 역사’ 작가 김풍 인터뷰
+## ‘찌질의 역사’ 작가 <김풍:PER> 인터뷰
+‘	‘	SS	O
+찌	찌	NNG	O
+질의	질의	NNG	O
+_	_	_	O
+역사	역사	NNG	O
+’	’	SS	O
+_	_	_	O
+작가	작가	NNG	O
+_	_	_	O
+김풍	김풍	NNP	B-PER
+_	_	_	O
+인터뷰	인터뷰	NNG	O
+
+## 14
+## 대형 트레이드, 알짜는 따로 있다?2011년 7월 31일 트레이드 마감시한에 KBO리그 ‘역대급’ 트레이드가 터졌다.
+## 대형 트레이드, 알짜는 따로 있다?<2011년 7월 31일:DAT> 트레이드 마감시한에 <KBO리그:ORG> ‘역대급’ 트레이드가 터졌다.
+대형	대형	NNG	O
+_	_	_	O
+트레이드	트레이드	NNG	O
+,	,	SP	O
+_	_	_	O
+알짜	알짜	NNG	O
+는	는	JX	O
+_	_	_	O
+따로	따로	MAG	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+?	?	SF	O
+2011	2011	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	I-DAT
+7	7	SN	I-DAT
+월	월	NNB	I-DAT
+_	_	_	I-DAT
+31	31	SN	I-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+트레이드	트레이드	NNG	O
+_	_	_	O
+마감	마감	NNG	O
+시한	시한	NNG	O
+에	에	JKB	O
+_	_	_	O
+KBO	KBO	SL	B-ORG
+리그	리그	NNG	I-ORG
+_	_	_	O
+‘	‘	SS	O
+역대	역대	NNG	O
+급	급	NNG	O
+’	’	SS	O
+_	_	_	O
+트레이드	트레이드	NNG	O
+가	가	JKS	O
+_	_	_	O
+터	터지	VV	O
+졌	었	EP	O
+다	다	EF	O
+.	.	SF	O
+

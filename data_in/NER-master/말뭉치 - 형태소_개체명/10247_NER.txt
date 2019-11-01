@@ -1,0 +1,383 @@
+## 1
+## 열혈강호 온라인과 나이트 온라인이 좀 더 시간을 벌어준 것은 사실이나, 엠게임에 새로운 성장동력이 필요하다는 것은 올해도 변함없는 사실이다.
+## <열혈강호 온라인:POH>과 <나이트 온라인:POH>이 좀 더 시간을 벌어준 것은 사실이나, <엠게임:ORG>에 새로운 성장동력이 필요하다는 것은 올해도 변함없는 사실이다.
+열혈	열혈	NNG	B-POH
+강호	강호	NNG	I-POH
+_	_	_	I-POH
+온라인	온라인	NNG	I-POH
+과	과	JC	O
+_	_	_	O
+나이트	나이트	NNG	B-POH
+_	_	_	I-POH
+온라인	온라인	NNG	I-POH
+이	이	JKS	O
+_	_	_	O
+좀	좀	MAG	O
+_	_	_	O
+더	더	MAG	O
+_	_	_	O
+시간	시간	NNG	O
+을	을	JKO	O
+_	_	_	O
+벌	벌	VV	O
+어	어	EC	O
+준	주+ㄴ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+은	은	JX	O
+_	_	_	O
+사실	사실	NNG	O
+이나	이나	JC	O
+,	,	SP	O
+_	_	_	O
+엠게임	엠게임	NNP	B-ORG
+에	에	JKB	O
+_	_	_	O
+새로	새롭	VA	O
+운	ㄴ	ETM	O
+_	_	_	O
+성장	성장	NNG	O
+동력	동력	NNG	O
+이	이	JKC	O
+_	_	_	O
+필요하	필요하	VA	O
+다는	다는	ETM	O
+_	_	_	O
+것	것	NNB	O
+은	은	JX	O
+_	_	_	O
+올해	올해	NNG	O
+도	도	JX	O
+_	_	_	O
+변함없	변함없	VA	O
+는	는	ETM	O
+_	_	_	O
+사실	사실	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 유희열은 “볼수록 (유제이가) 케이티김과 닮았다.
+## <유희열:PER>은 “볼수록 (<유제이:PER>가) <케이티김:PER>과 닮았다.
+유희열	유희열	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+“	“	SS	O
+볼수록	보+ㄹ수록	VV+EC	O
+_	_	_	O
+(	(	SS	O
+유제이	유제이	NNP	B-PER
+가	가	JKS	O
+)	)	SS	O
+_	_	_	O
+케이티	케이티	NNP	B-PER
+김	김	NNP	I-PER
+과	과	JKB	O
+_	_	_	O
+닮	닮	VV	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 지난해에는 각종 행사에서 6차례 만났다.
+## 지난해에는 각종 행사에서 <6차례:NOH> 만났다.
+지난해	지난해	NNG	O
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+각종	각종	NNG	O
+_	_	_	O
+행사	행사	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+6	6	SN	B-NOH
+차례	차례	NNG	I-NOH
+_	_	_	O
+만났	만나+았	VV+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## - 졸업 후 아크네 스튜디오에 합류한 계기는. “나도 골드먼삭스나 매킨지 같은 큰 회사에 가고 싶었다.
+## - 졸업 후 <아크네 스튜디오:ORG>에 합류한 계기는. “나도 <골드먼삭스:ORG>나 <매킨지:ORG> 같은 큰 회사에 가고 싶었다.
+-	-	SO	O
+_	_	_	O
+졸업	졸업	NNG	O
+_	_	_	O
+후	후	NNG	O
+_	_	_	O
+아크	아크	NNG	B-ORG
+네	네	XSN	I-ORG
+_	_	_	I-ORG
+스튜디오	스튜디오	NNG	I-ORG
+에	에	JKB	O
+_	_	_	O
+합류한	합류하+ㄴ	VV+ETM	O
+_	_	_	O
+계기	계기	NNG	O
+는	는	JX	O
+.	.	SF	O
+_	_	_	O
+“	“	SS	O
+나	나	NP	O
+도	도	JX	O
+_	_	_	O
+골드먼삭스	골드먼삭스	NNP	B-ORG
+나	나	JC	O
+_	_	_	O
+매킨지	매킨지	NNP	B-ORG
+_	_	_	O
+같	같	VA	O
+은	은	ETM	O
+_	_	_	O
+큰	크+ㄴ	VA+ETM	O
+_	_	_	O
+회사	회사	NNG	O
+에	에	JKB	O
+_	_	_	O
+가	가	VV	O
+고	고	EC	O
+_	_	_	O
+싶	싶	VX	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 코스트코는 가장 많은 11개를 운영하고 있다.
+## <코스트코:ORG>는 가장 많은 <11개:NOH>를 운영하고 있다.
+코스트코	코스트코	NNP	B-ORG
+는	는	JX	O
+_	_	_	O
+가장	가장	MAG	O
+_	_	_	O
+많	많	VA	O
+은	은	ETM	O
+_	_	_	O
+11	11	SN	B-NOH
+개	개	NNB	I-NOH
+를	를	JKO	O
+_	_	_	O
+운영하	운영하	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 박 회장은 현지 동포들이 여의도 트럼프월드를 1300만 달러(약 150억 원)어치를 구입하면서 외환위기 당시 외화 유입에도 기여했다고 했다.
+## <박:PER> 회장은 현지 동포들이 <여의도:LOC> <트럼프월드:LOC>를 <1300만 달러:MNY>(약 <150억 원:MNY>)어치를 구입하면서 외환위기 당시 외화 유입에도 기여했다고 했다.
+박	박	NNP	B-PER
+_	_	_	O
+회장	회장	NNG	O
+은	은	JX	O
+_	_	_	O
+현지	현지	NNG	O
+_	_	_	O
+동포	동포	NNG	O
+들	들	XSN	O
+이	이	JKS	O
+_	_	_	O
+여의도	여의도	NNP	B-LOC
+_	_	_	O
+트럼프월드	트럼프월드	NNP	B-LOC
+를	를	JKO	O
+_	_	_	O
+1300	1300	SN	B-MNY
+만	만	NR	I-MNY
+_	_	_	I-MNY
+달러	달러	NNB	I-MNY
+(	(	SS	O
+약	약	MM	O
+_	_	_	O
+150	150	SN	B-MNY
+억	억	NR	I-MNY
+_	_	_	I-MNY
+원	원	NNB	I-MNY
+)	)	SS	O
+어치	어치	XSN	O
+를	를	JKO	O
+_	_	_	O
+구입하	구입하	VV	O
+면서	면서	EC	O
+_	_	_	O
+외환	외환	NNG	O
+위기	위기	NNG	O
+_	_	_	O
+당시	당시	NNG	O
+_	_	_	O
+외화	외화	NNG	O
+_	_	_	O
+유입	유입	NNG	O
+에	에	JKB	O
+도	도	JX	O
+_	_	_	O
+기여	기여하	VV	O
+했	였	EP	O
+다고	다고	EC	O
+_	_	_	O
+했	+였	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 이 캐릭터보다 더 셀 순 없다”라고 다른 악역과의 비교를 거부한 만큼 충무로 최강의 악역 캐릭터가 탄생할 수 있을지에 대한 기대감도 뜨겁다.
+## 이 캐릭터보다 더 셀 순 없다”라고 다른 악역과의 비교를 거부한 만큼 <충무로:POH> 최강의 악역 캐릭터가 탄생할 수 있을지에 대한 기대감도 뜨겁다.
+이	이	MM	O
+_	_	_	O
+캐릭터	캐릭터	NNG	O
+보다	보다	JKB	O
+_	_	_	O
+더	더	MAG	O
+_	_	_	O
+셀	세+ㄹ	VV+ETM	O
+_	_	_	O
+순	수+ㄴ	NNB+JX	O
+_	_	_	O
+없	없	VA	O
+다	다	EF	O
+”	”	SS	O
+라고	라고	JKQ	O
+_	_	_	O
+다른	다른	MM	O
+_	_	_	O
+악역	악역	NNG	O
+과	과	JKB	O
+의	의	JKG	O
+_	_	_	O
+비교	비교	NNG	O
+를	를	JKO	O
+_	_	_	O
+거부한	거부하+ㄴ	VV+ETM	O
+_	_	_	O
+만큼	만큼	NNB	O
+_	_	_	O
+충무로	충무로	NNP	B-POH
+_	_	_	O
+최강	최강	NNG	O
+의	의	JKG	O
+_	_	_	O
+악역	악역	NNG	O
+_	_	_	O
+캐릭터	캐릭터	NNG	O
+가	가	JKS	O
+_	_	_	O
+탄생할	탄생하+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+을지	을지	EC	O
+에	에	JKB	O
+_	_	_	O
+대한	대하+ㄴ	VV+ETM	O
+_	_	_	O
+기대감	기대감	NNG	O
+도	도	JX	O
+_	_	_	O
+뜨겁	뜨겁	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 한편 ‘살인의뢰’는 3월 12일 개봉할 예정이다.
+## 한편 ‘<살인의뢰:POH>’는 <3월 12일:DAT> 개봉할 예정이다.
+한편	한편	MAG	O
+_	_	_	O
+‘	‘	SS	O
+살인	살인	NNG	B-POH
+의뢰	의뢰	NNG	I-POH
+’	’	SS	O
+는	는	JX	O
+_	_	_	O
+3	3	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	I-DAT
+12	12	SN	I-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+개봉할	개봉하+ㄹ	VV+ETM	O
+_	_	_	O
+예정	예정	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 2박 3일간의 호남 일정을 이어가고 있는 안 지사는 전날 전북 전주에 이어 이날 광주지역 민심을 훑을 예정이었다.
+## <2박:NOH> <3일:NOH>간의 <호남:LOC> 일정을 이어가고 있는 <안:PER> 지사는 전날 <전북 전주:LOC>에 이어 이날 <광주:LOC>지역 민심을 훑을 예정이었다.
+2	2	SN	B-NOH
+박	박	NNB	I-NOH
+_	_	_	O
+3	3	SN	B-NOH
+일	일	NNB	I-NOH
+간	간	XSN	O
+의	의	JKG	O
+_	_	_	O
+호남	호남	NNP	B-LOC
+_	_	_	O
+일정	일정	NNG	O
+을	을	JKO	O
+_	_	_	O
+이	잇	VV	O
+어	어	EC	O
+가	가	VX	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+는	는	ETM	O
+_	_	_	O
+안	안	NNP	B-PER
+_	_	_	O
+지사	지사	NNG	O
+는	는	JX	O
+_	_	_	O
+전날	전날	NNG	O
+_	_	_	O
+전북	전북	NNP	B-LOC
+_	_	_	I-LOC
+전주	전주	NNP	I-LOC
+에	에	JKB	O
+_	_	_	O
+이	잇	VV	O
+어	어	EC	O
+_	_	_	O
+이날	이날	NNG	O
+_	_	_	O
+광주	광주	NNP	B-LOC
+지역	지역	NNG	O
+_	_	_	O
+민심	민심	NNG	O
+을	을	JKO	O
+_	_	_	O
+훑	훑	VV	O
+을	을	ETM	O
+_	_	_	O
+예정	예정	NNG	O
+이	이	VCP	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 이에 메르스 환자는 35명이 됐다.
+## 이에 <메르스:POH> 환자는 <35명:NOH>이 됐다.
+이	이	NP	O
+에	에	JKB	O
+_	_	_	O
+메르스	메르스	NNG	B-POH
+_	_	_	O
+환자	환자	NNG	O
+는	는	JX	O
+_	_	_	O
+35	35	SN	B-NOH
+명	명	NNB	I-NOH
+이	이	JKC	O
+_	_	_	O
+됐	+었	+EP	O
+다	다	EF	O
+.	.	SF	O
+

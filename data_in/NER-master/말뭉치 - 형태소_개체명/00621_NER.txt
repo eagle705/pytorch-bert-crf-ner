@@ -1,0 +1,633 @@
+## 1
+## ”박근혜 대통령이 16일 오전 서울 강남구 대모초등학교를 방문해 초등학생들에게 이같이 밝혔다.
+## ”<박근혜:PER> 대통령이 <16일:DAT> 오전 <서울:LOC> <강남구:LOC> <대모초등학교:ORG>를 방문해 초등학생들에게 이같이 밝혔다.
+”	”	SS	O
+박근혜	박근혜	NNP	B-PER
+_	_	_	O
+대통령	대통령	NNG	O
+이	이	JKS	O
+_	_	_	O
+16	16	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+오전	오전	NNG	O
+_	_	_	O
+서울	서울	NNP	B-LOC
+_	_	_	O
+강남구	강남구	NNP	B-LOC
+_	_	_	O
+대모	대모	NNG	B-ORG
+초등학교	초등학교	NNG	I-ORG
+를	를	JKO	O
+_	_	_	O
+방문해	방문하+여	VV+EC	O
+_	_	_	O
+초등학생	초등학생	NNG	O
+들	들	XSN	O
+에게	에게	JKB	O
+_	_	_	O
+이같이	이같이	MAG	O
+_	_	_	O
+밝	밝히	VV	O
+혔	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 이 조합은 이달 중 법인 설립을 완료한 뒤 6월 항공 화물운송사업 신청과 12월 항공여객운송사업 인허가 신청 등을 거쳐 항공기를 띄울 계획이다.
+## 이 조합은 이달 중 법인 설립을 완료한 뒤 <6월:DAT> 항공 화물운송사업 신청과 <12월:DAT> 항공여객운송사업 인허가 신청 등을 거쳐 항공기를 띄울 계획이다.
+이	이	MM	O
+_	_	_	O
+조합	조합	NNG	O
+은	은	JX	O
+_	_	_	O
+이달	이달	NNG	O
+_	_	_	O
+중	중	NNB	O
+_	_	_	O
+법인	법인	NNG	O
+_	_	_	O
+설립	설립	NNG	O
+을	을	JKO	O
+_	_	_	O
+완료한	완료하+ㄴ	VV+ETM	O
+_	_	_	O
+뒤	뒤	NNG	O
+_	_	_	O
+6	6	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+항공	항공	NNG	O
+_	_	_	O
+화물	화물	NNG	O
+운송	운송	NNG	O
+사업	사업	NNG	O
+_	_	_	O
+신청	신청	NNG	O
+과	과	JC	O
+_	_	_	O
+12	12	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+항공	항공	NNG	O
+여객	여객	NNG	O
+운송	운송	NNG	O
+사업	사업	NNG	O
+_	_	_	O
+인	인	NNG	O
+허가	허가	NNG	O
+_	_	_	O
+신청	신청	NNG	O
+_	_	_	O
+등	등	NNB	O
+을	을	JKO	O
+_	_	_	O
+거쳐	거치+어	VV+EC	O
+_	_	_	O
+항공기	항공기	NNG	O
+를	를	JKO	O
+_	_	_	O
+띄울	띄우+ㄹ	VV+ETM	O
+_	_	_	O
+계획	계획	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 전문가도 알기 힘든 부분을 김 강사는 꿰고 있었다.
+## 전문가도 알기 힘든 부분을 <김:PER> 강사는 꿰고 있었다.
+전문가	전문가	NNG	O
+도	도	JX	O
+_	_	_	O
+알	알	VV	O
+기	기	ETN	O
+_	_	_	O
+힘든	힘들+ㄴ	VA+ETM	O
+_	_	_	O
+부분	부분	NNG	O
+을	을	JKO	O
+_	_	_	O
+김	김	NNP	B-PER
+_	_	_	O
+강사	강사	NNG	O
+는	는	JX	O
+_	_	_	O
+꿰	꿰	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## NHL에서 뛴 경험이 있는 골리 후쿠후지 유타카 등을 보강해 최강팀을 구성했다.
+## <NHL:ORG>에서 뛴 경험이 있는 골리 <후쿠후지 유타카:PER> 등을 보강해 최강팀을 구성했다.
+NHL	NHL	SL	B-ORG
+에서	에서	JKB	O
+_	_	_	O
+뛴	뛰+ㄴ	VV+ETM	O
+_	_	_	O
+경험	경험	NNG	O
+이	이	JKS	O
+_	_	_	O
+있	있	VA	O
+는	는	ETM	O
+_	_	_	O
+골리	골리	NNG	O
+_	_	_	O
+후쿠후	후쿠후+하	NNG+XSV	B-PER
+지	지	EC	I-PER
+_	_	_	I-PER
+유타카	유타카	NNP	I-PER
+_	_	_	O
+등	등	NNB	O
+을	을	JKO	O
+_	_	_	O
+보강해	보강하+여	VV+EC	O
+_	_	_	O
+최강	최강	NNG	O
+팀	팀	NNG	O
+을	을	JKO	O
+_	_	_	O
+구성	구성하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 웨딩업체 아이패밀리SC 측은 26일 “신랑, 신부는 약 3개월 전부터 결혼준비를 시작했다.
+## 웨딩업체 <아이패밀리SC:ORG> 측은 <26일:DAT> “신랑, 신부는 약 <3개월:NOH> 전부터 결혼준비를 시작했다.
+웨딩	웨딩	NNG	O
+업체	업체	NNG	O
+_	_	_	O
+아이	아이	NNG	B-ORG
+패밀리	패밀리	NNG	I-ORG
+SC	SC	SL	I-ORG
+_	_	_	O
+측	측	NNB	O
+은	은	JX	O
+_	_	_	O
+26	26	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+“	“	SS	O
+신랑	신랑	NNG	O
+,	,	SP	O
+_	_	_	O
+신부	신부	NNG	O
+는	는	JX	O
+_	_	_	O
+약	약	MM	O
+_	_	_	O
+3	3	SN	B-NOH
+개월	개월	NNB	I-NOH
+_	_	_	O
+전	전	NNG	O
+부터	부터	JX	O
+_	_	_	O
+결혼	결혼	NNG	O
+준비	준비	NNG	O
+를	를	JKO	O
+_	_	_	O
+시작	시작하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 4승2무1패(승점 14)가 된 홍콩은 6전승의 카타르에 이어 조 2위를 지켰고, 중국은 3승2무1패(승점 11)로 3위에 머물렀다.
+## <4승2무1패:NOH>(승점 <14:DAT>)가 된 <홍콩:ORG>은 <6전승:NOH>의 <카타르:ORG>에 이어 조 <2위:NOH>를 지켰고, <중국:ORG>은 <3승:NOH><2무:NOH><1패:NOH>(승점 <11:DAT>)로 <3위:NOH>에 머물렀다.
+4	4	SN	B-NOH
+승	승	NNB	I-NOH
+2	2	SN	I-NOH
+무	무	NNG	I-NOH
+1	1	SN	I-NOH
+패	패	NNB	I-NOH
+(	(	SS	O
+승점	승점	NNG	O
+_	_	_	O
+14	14	SN	B-DAT
+)	)	SS	O
+가	가	JKC	O
+_	_	_	O
+된	되+ㄴ	VV+ETM	O
+_	_	_	O
+홍콩	홍콩	NNP	B-ORG
+은	은	JX	O
+_	_	_	O
+6	6	SN	B-NOH
+전승	전승	NNG	I-NOH
+의	의	JKG	O
+_	_	_	O
+카타르	카타르	NNP	B-ORG
+에	에	JKB	O
+_	_	_	O
+이	잇	VV	O
+어	어	EC	O
+_	_	_	O
+조	조	NNG	O
+_	_	_	O
+2	2	SN	B-NOH
+위	위	NNB	I-NOH
+를	를	JKO	O
+_	_	_	O
+지	지키	VV	O
+켰	었	EP	O
+고	고	EC	O
+,	,	SP	O
+_	_	_	O
+중국	중국	NNP	B-ORG
+은	은	JX	O
+_	_	_	O
+3	3	SN	B-NOH
+승	승	NNB	I-NOH
+2	2	SN	B-NOH
+무	무	NNG	I-NOH
+1	1	SN	B-NOH
+패	패	NNB	I-NOH
+(	(	SS	O
+승점	승점	NNG	O
+_	_	_	O
+11	11	SN	B-DAT
+)	)	SS	O
+로	로	JKB	O
+_	_	_	O
+3	3	SN	B-NOH
+위	위	NNB	I-NOH
+에	에	JKB	O
+_	_	_	O
+머물	머무르	VV	O
+렀	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## LED 헤드램프와 9개의 크리스탈을 형상화한 방향지시등, 핫스탬핑 공법이 적용된 라디에이터 그릴은 스팅어만의 매력을 강조한다.
+## LED 헤드램프와 <9개:NOH>의 크리스탈을 형상화한 방향지시등, 핫스탬핑 공법이 적용된 라디에이터 그릴은 스팅어만의 매력을 강조한다.
+LED	LED	SL	O
+_	_	_	O
+헤드램프	헤드램프	NNG	O
+와	와	JC	O
+_	_	_	O
+9	9	SN	B-NOH
+개	개	NNB	I-NOH
+의	의	JKG	O
+_	_	_	O
+크리스탈	크리스탈	NNG	O
+을	을	JKO	O
+_	_	_	O
+형상화한	형상화하+ㄴ	VV+ETM	O
+_	_	_	O
+방향	방향	NNG	O
+지시등	지시등	NNG	O
+,	,	SP	O
+_	_	_	O
+핫스탬핑	핫스탬핑	NNG	O
+_	_	_	O
+공법	공법	NNG	O
+이	이	JKS	O
+_	_	_	O
+적용된	적용되+ㄴ	VV+ETM	O
+_	_	_	O
+라디에이터	라디에이터	NNG	O
+_	_	_	O
+그릴	그릴	NNG	O
+은	은	JX	O
+_	_	_	O
+스팅	스팅	NNG	O
+어	어	NNG	O
+만	만	JX	O
+의	의	JKG	O
+_	_	_	O
+매력	매력	NNG	O
+을	을	JKO	O
+_	_	_	O
+강조한다	강조하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 8
+## 둘째 사비에르(12)와 제레미아(6) 역시 파머를 만난 후 행복한 시간을 보내고 있다.
+## 둘째 <사비에르:PER>(<12:DAT>)와 <제레미아:PER>(<6:NOH>) 역시 파머를 만난 후 행복한 시간을 보내고 있다.
+둘째	둘째	NR	O
+_	_	_	O
+사비에르	사비에르	NNP	B-PER
+(	(	SS	O
+12	12	SN	B-DAT
+)	)	SS	O
+와	와	JKB	O
+_	_	_	O
+제레미	제레미	NNP	B-PER
+아	아	XSN	I-PER
+(	(	SS	O
+6	6	SN	B-NOH
+)	)	SS	O
+_	_	_	O
+역시	역시	MAG	O
+_	_	_	O
+파머	파머	NNP	O
+를	를	JKO	O
+_	_	_	O
+만난	만나+ㄴ	VV+ETM	O
+_	_	_	O
+후	후	NNG	O
+_	_	_	O
+행복한	행복하+ㄴ	VA+ETM	O
+_	_	_	O
+시간	시간	NNG	O
+을	을	JKO	O
+_	_	_	O
+보내	보내	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 파머는 말한다.
+## <파머:PER>는 말한다.
+파머	파머	NNP	B-PER
+는	는	JX	O
+_	_	_	O
+말한다	말하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 10
+## 15년생 아이돌 그룹처럼 같은 해 데뷔한 이들이 나란히 주목받는 일은 가요계로서도 힘을 얻을 만한 현상으로 받아들여진다.
+## <15년:DAT>생 아이돌 그룹처럼 같은 해 데뷔한 이들이 나란히 주목받는 일은 가요계로서도 힘을 얻을 만한 현상으로 받아들여진다.
+15	15	SN	B-DAT
+년	년	NNB	I-DAT
+생	생	XSN	O
+_	_	_	O
+아이돌	아이돌	NNG	O
+_	_	_	O
+그룹	그룹	NNG	O
+처럼	처럼	JKB	O
+_	_	_	O
+같	같	VA	O
+은	은	ETM	O
+_	_	_	O
+해	해	NNG	O
+_	_	_	O
+데뷔한	데뷔하+ㄴ	VV+ETM	O
+_	_	_	O
+이	이	NP	O
+들	들	XSN	O
+이	이	JKS	O
+_	_	_	O
+나란히	나란히	MAG	O
+_	_	_	O
+주목	주목	NNG	O
+받	받	VV	O
+는	는	ETM	O
+_	_	_	O
+일	일	NNG	O
+은	은	JX	O
+_	_	_	O
+가요계	가요계	NNG	O
+로서	로서	JKB	O
+도	도	JX	O
+_	_	_	O
+힘	힘	NNG	O
+을	을	JKO	O
+_	_	_	O
+얻	얻	VV	O
+을	을	ETM	O
+_	_	_	O
+만한	만하+ㄴ	VX+ETM	O
+_	_	_	O
+현상	현상	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+받아들	받아들이	VV	O
+여	어	EC	O
+진다	지+ㄴ다	VX+EF	O
+.	.	SF	O
+
+## 11
+## 영화 ‘미녀와 야수’가 명불허전의 진가를 발휘할지 시선이 집중되고 있다.
+## 영화 ‘<미녀와 야수:POH>’가 명불허전의 진가를 발휘할지 시선이 집중되고 있다.
+영화	영화	NNG	O
+_	_	_	O
+‘	‘	SS	O
+미녀	미녀	NNG	B-POH
+와	와	JC	I-POH
+_	_	_	I-POH
+야수	야수	NNG	I-POH
+’	’	SS	O
+가	가	JKS	O
+_	_	_	O
+명불허전	명불허전	NNG	O
+의	의	JKG	O
+_	_	_	O
+진가	진가	NNG	O
+를	를	JKO	O
+_	_	_	O
+발휘할지	발휘하+ㄹ지	VV+EC	O
+_	_	_	O
+시선	시선	NNG	O
+이	이	JKS	O
+_	_	_	O
+집중되	집중되	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 237만명에 대해서는 소득 변동이 없어 정산보험료가 발생하지 않았다.
+## <237만명:NOH>에 대해서는 소득 변동이 없어 정산보험료가 발생하지 않았다.
+237	237	SN	B-NOH
+만	만	NR	I-NOH
+명	명	NNB	I-NOH
+에	에	JKB	O
+_	_	_	O
+대해서	대하+여서	VV+EC	O
+는	는	JX	O
+_	_	_	O
+소득	소득	NNG	O
+_	_	_	O
+변동	변동	NNG	O
+이	이	JKS	O
+_	_	_	O
+없	없	VA	O
+어	어	EC	O
+_	_	_	O
+정산	정산	NNG	O
+보험료	보험료	NNG	O
+가	가	JKS	O
+_	_	_	O
+발생하	발생하	VV	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## 영업이익은 지난해 같은 기간에 비해 12% 늘었지만 2분기(4∼6월) 1조1195억 원보다는 63% 줄었다.
+## 영업이익은 지난해 같은 기간에 비해 <12%:PNT> 늘었지만 <2분기:NOH>(<4∼6월:DUR>) <1조1195억 원:MNY>보다는 <63%:PNT> 줄었다.
+영업	영업	NNG	O
+이익	이익	NNG	O
+은	은	JX	O
+_	_	_	O
+지난해	지난해	NNG	O
+_	_	_	O
+같	같	VA	O
+은	은	ETM	O
+_	_	_	O
+기간	기간	NNG	O
+에	에	JKB	O
+_	_	_	O
+비해	비하+여	VV+EC	O
+_	_	_	O
+12	12	SN	B-PNT
+%	%	SW	I-PNT
+_	_	_	O
+늘	늘	VV	O
+었	었	EP	O
+지만	지만	EC	O
+_	_	_	O
+2	2	SN	B-NOH
+분기	분기	NNG	I-NOH
+(	(	SS	O
+4	4	SN	B-DUR
+∼	∼	SO	I-DUR
+6	6	SN	I-DUR
+월	월	NNB	I-DUR
+)	)	SS	O
+_	_	_	O
+1	1	SN	B-MNY
+조	조	NNG	I-MNY
+1195	1195	SN	I-MNY
+억	억	NR	I-MNY
+_	_	_	I-MNY
+원	원	NNB	I-MNY
+보다	보다	JKB	O
+는	는	JX	O
+_	_	_	O
+63	63	SN	B-PNT
+%	%	SW	I-PNT
+_	_	_	O
+줄	줄	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 14
+## [제69회 황금사자기] 선린인터넷고, 35년 만에 황금사자기 우승
+## [<제69회:NOH> <황금사자기:POH>] <선린인터넷고:ORG>, <35년:NOH> 만에 <황금사자기:POH> 우승
+[	[	SS	O
+제	제	XPN	B-NOH
+69	69	SN	I-NOH
+회	회	NNB	I-NOH
+_	_	_	O
+황금	황금	NNG	B-POH
+사자	사자	NNG	I-POH
+기	기	NNG	I-POH
+]	]	SS	O
+_	_	_	O
+선린인터넷고	선린인터넷고	NNP	B-ORG
+,	,	SP	O
+_	_	_	O
+35	35	SN	B-NOH
+년	년	NNB	I-NOH
+_	_	_	O
+만	만	NNB	O
+에	에	JKB	O
+_	_	_	O
+황금	황금	NNG	B-POH
+사자	사자	NNG	I-POH
+기	기	NNG	I-POH
+_	_	_	O
+우승	우승	NNG	O
+
+## 15
+## 나는 지금껏 디자이너연합회 소속 디자이너 ‘선생님’들의 옷을 즐겨 입어왔다.
+## 나는 지금껏 <디자이너연합회:ORG> 소속 디자이너 ‘선생님’들의 옷을 즐겨 입어왔다.
+나	나	NP	O
+는	는	JX	O
+_	_	_	O
+지금껏	지금껏	MAG	O
+_	_	_	O
+디자이너	디자이너	NNG	B-ORG
+연합회	연합회	NNG	I-ORG
+_	_	_	O
+소속	소속	NNG	O
+_	_	_	O
+디자이너	디자이너	NNG	O
+_	_	_	O
+‘	‘	SS	O
+선생님	선생님	NNG	O
+’	’	SS	O
+들	들	XSN	O
+의	의	JKG	O
+_	_	_	O
+옷	옷	NNG	O
+을	을	JKO	O
+_	_	_	O
+즐겨	즐기+어	VV+EC	O
+_	_	_	O
+입	입	VV	O
+어	어+오	EC+VX	O
+왔	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 16
+## 일선 GS25 근무자들은 해당 제품을 찾는 소비자들에게 “요즘 인기가 높아 오전에 와야 구입할 수 있다”고 설명할 정도다.
+## 일선 <GS25:ORG> 근무자들은 해당 제품을 찾는 소비자들에게 “요즘 인기가 높아 오전에 와야 구입할 수 있다”고 설명할 정도다.
+일선	일선	NNG	O
+_	_	_	O
+GS	GS	SL	B-ORG
+25	25	SN	I-ORG
+_	_	_	O
+근무자	근무자	NNG	O
+들	들	XSN	O
+은	은	JX	O
+_	_	_	O
+해당	해당	NNG	O
+_	_	_	O
+제품	제품	NNG	O
+을	을	JKO	O
+_	_	_	O
+찾	찾	VV	O
+는	는	ETM	O
+_	_	_	O
+소비자	소비자	NNG	O
+들	들	XSN	O
+에게	에게	JKB	O
+_	_	_	O
+“	“	SS	O
+요즘	요즘	NNG	O
+_	_	_	O
+인기	인기	NNG	O
+가	가	JKS	O
+_	_	_	O
+높	높	VA	O
+아	아	EC	O
+_	_	_	O
+오전	오전	NNG	O
+에	에	JKB	O
+_	_	_	O
+와야	+아야	+EC	O
+_	_	_	O
+구입할	구입하+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+설명할	설명하+ㄹ	VV+ETM	O
+_	_	_	O
+정도	정도+이	NNG+VCP	O
+다	다	EF	O
+.	.	SF	O
+

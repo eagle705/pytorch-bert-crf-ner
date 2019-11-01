@@ -1,0 +1,336 @@
+## 1
+## 동강대 사회복지과 김철-조경희씨… 손주 돌보며 2년간 결석 한번 안해
+## <동강대 사회복지과:ORG> <김철:PER>-<조경희:PER>씨… 손주 돌보며 <2년간:DUR> 결석 <한번:NOH> 안해
+동강대	동강대	NNP	B-ORG
+_	_	_	I-ORG
+사회	사회	NNG	I-ORG
+복지	복지	NNG	I-ORG
+과	과	XSN	I-ORG
+_	_	_	O
+김철	김철	NNP	B-PER
+-	-	SO	O
+조경희	조경희	NNP	B-PER
+씨	씨	NNB	O
+…	…	SE	O
+_	_	_	O
+손주	손주	NNG	O
+_	_	_	O
+돌보	돌보	VV	O
+며	며	EC	O
+_	_	_	O
+2	2	SN	B-DUR
+년	년	NNB	I-DUR
+간	간	XSN	I-DUR
+_	_	_	O
+결석	결석	NNG	O
+_	_	_	O
+한	한	MM	B-NOH
+번	번	NNB	I-NOH
+_	_	_	O
+안	안	MAG	O
+해	하+여	VV+EC	O
+
+## 2
+## 1988년에 관한 고증과 관련해 “맞다”,
+## <1988년:DAT>에 관한 고증과 관련해 “맞다”,
+1988	1988	SN	B-DAT
+년	년	NNB	I-DAT
+에	에	JKB	O
+_	_	_	O
+관한	관하+ㄴ	VV+ETM	O
+_	_	_	O
+고증	고증	NNG	O
+과	과	JC	O
+_	_	_	O
+관련해	관련하+여	VV+EC	O
+_	_	_	O
+“	“	SS	O
+맞	맞	VV	O
+다	다	EF	O
+”	”	SS	O
+,	,	SP	O
+
+## 3
+## 취재팀과 함께 논문을 검토한 서울 사립대 A 교수는 “학계의 암묵적 관행을 고려해 봐도 죄질이 나쁘다”고 전했다.
+## 취재팀과 함께 논문을 검토한 <서울 사립대 A:ORG> 교수는 “학계의 암묵적 관행을 고려해 봐도 죄질이 나쁘다”고 전했다.
+취재	취재	NNG	O
+팀	팀	NNG	O
+과	과	JKB	O
+_	_	_	O
+함께	함께	MAG	O
+_	_	_	O
+논문	논문	NNG	O
+을	을	JKO	O
+_	_	_	O
+검토한	검토하+ㄴ	VV+ETM	O
+_	_	_	O
+서울	서울	NNP	B-ORG
+_	_	_	I-ORG
+사립대	사립대	NNG	I-ORG
+_	_	_	I-ORG
+A	A	SL	I-ORG
+_	_	_	O
+교수	교수	NNG	O
+는	는	JX	O
+_	_	_	O
+“	“	SS	O
+학계	학계	NNG	O
+의	의	JKG	O
+_	_	_	O
+암묵	암묵	NNG	O
+적	적	XSN	O
+_	_	_	O
+관행	관행	NNG	O
+을	을	JKO	O
+_	_	_	O
+고려해	고려하+여	VV+EC	O
+_	_	_	O
+봐도	보+아도	VX+EC	O
+_	_	_	O
+죄질	죄질	NNG	O
+이	이	JKS	O
+_	_	_	O
+나쁘	나쁘	VA	O
+다	다	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+전	전하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 영동고속도로 신갈∼이천간 37.8㎞의 4차선 임시개방도 15일까지 2주간 연장키로 했다.
+## <영동고속도로:LOC> <신갈∼이천:LOC>간 <37.8㎞:NOH>의 <4차:NOH>선 임시개방도 <15일:DAT>까지 <2주간:DUR> 연장키로 했다.
+영동	영동	NNP	B-LOC
+고속도로	고속도로	NNG	I-LOC
+_	_	_	O
+신갈	신갈	NNP	B-LOC
+∼	∼	SO	I-LOC
+이천	이천	NNP	I-LOC
+간	간	NNB	O
+_	_	_	O
+37.8	37.8	SN	B-NOH
+㎞	㎞	SW	I-NOH
+의	의	JKG	O
+_	_	_	O
+4	4	SN	B-NOH
+차선	차선	NNG	O
+_	_	_	O
+임시	임시	NNG	O
+개방	개방	NNG	O
+도	도	JX	O
+_	_	_	O
+15	15	SN	B-DAT
+일	일	NNB	I-DAT
+까지	까지	JX	O
+_	_	_	O
+2	2	SN	B-DUR
+주간	주간	NNB	I-DUR
+_	_	_	O
+연장	연장하	VV	O
+키	기	ETN	O
+로	로	JKB	O
+_	_	_	O
+했	+였	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 정씨, 변호사 교체… 이의소송 준비
+## <정:PER>씨, 변호사 교체… 이의소송 준비
+정	정	NNP	B-PER
+씨	씨	NNB	O
+,	,	SP	O
+_	_	_	O
+변호사	변호사	NNG	O
+_	_	_	O
+교체	교체	NNG	O
+…	…	SE	O
+_	_	_	O
+이의	이의	NNG	O
+소송	소송	NNG	O
+_	_	_	O
+준비	준비	NNG	O
+
+## 6
+## “중증 대권병 걸린 야권” 이날 새누리당 긴급 의원총회에서 이정현 대표는 “정세균 국회의장의 근본 목적은 내년 대선이다.
+## “중증 대권병 걸린 야권” 이날 <새누리당 긴급 의원총회:ORG>에서 <이정현:PER> 대표는 “<정세균:PER> 국회의장의 근본 목적은 내년 대선이다.
+“	“	SS	O
+중증	중증	NNG	O
+_	_	_	O
+대권	대권	NNG	O
+병	병	NNG	O
+_	_	_	O
+걸린	걸리+ㄴ	VV+ETM	O
+_	_	_	O
+야권	야권	NNG	O
+”	”	SS	O
+_	_	_	O
+이날	이날	NNG	O
+_	_	_	O
+새누리당	새누리당	NNP	B-ORG
+_	_	_	I-ORG
+긴급	긴급	NNG	I-ORG
+_	_	_	I-ORG
+의원총회	의원총회	NNG	I-ORG
+에서	에서	JKB	O
+_	_	_	O
+이정현	이정현	NNP	B-PER
+_	_	_	O
+대표	대표	NNG	O
+는	는	JX	O
+_	_	_	O
+“	“	SS	O
+정세균	정세균	NNP	B-PER
+_	_	_	O
+국회	국회	NNG	O
+의장	의장	NNG	O
+의	의	JKG	O
+_	_	_	O
+근본	근본	NNG	O
+_	_	_	O
+목적	목적	NNG	O
+은	은	JX	O
+_	_	_	O
+내년	내년	NNG	O
+_	_	_	O
+대선	대선	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 1인당 해외 경비의 55.8%를 쇼핑으로 사용한다.
+## <1인:NOH>당 해외 경비의 <55.8%:PNT>를 쇼핑으로 사용한다.
+1	1	SN	B-NOH
+인	인	NNG	I-NOH
+당	당	XSN	O
+_	_	_	O
+해외	해외	NNG	O
+_	_	_	O
+경비	경비	NNG	O
+의	의	JKG	O
+_	_	_	O
+55.8	55.8	SN	B-PNT
+%	%	SW	I-PNT
+를	를	JKO	O
+_	_	_	O
+쇼핑	쇼핑	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+사용한다	사용하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 8
+## 2015년 한국을 방문한 중국인은 약 600만 명으로 추산된다.
+## <2015년:DAT> <한국:LOC>을 방문한 중국인은 약 <600만 명:NOH>으로 추산된다.
+2015	2015	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+한국	한국	NNP	B-LOC
+을	을	JKO	O
+_	_	_	O
+방문한	방문하+ㄴ	VV+ETM	O
+_	_	_	O
+중국인	중국인	NNG	O
+은	은	JX	O
+_	_	_	O
+약	약	MM	O
+_	_	_	O
+600	600	SN	B-NOH
+만	만	NR	I-NOH
+_	_	_	I-NOH
+명	명	NNB	I-NOH
+으로	으로	JKB	O
+_	_	_	O
+추산된다	추산되+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 9
+## 기둥만 있고 사방이 트인 구조(필로티 구조)의 주차장 오토바이에서 오전 9시15분 불이 붙은 뒤 바람을 타고 옆 드림타운Ⅱ로 번졌다.
+## 기둥만 있고 사방이 트인 구조(필로티 구조)의 주차장 오토바이에서 <오전 9시15분:TIM> 불이 붙은 뒤 바람을 타고 옆 <드림타운Ⅱ:LOC>로 번졌다.
+기둥	기둥	NNG	O
+만	만	JX	O
+_	_	_	O
+있	있	VA	O
+고	고	EC	O
+_	_	_	O
+사방	사방	NNG	O
+이	이	JKS	O
+_	_	_	O
+트인	트이+ㄴ	VV+ETM	O
+_	_	_	O
+구조	구조	NNG	O
+(	(	SS	O
+필로티	필로티	NNG	O
+_	_	_	O
+구조	구조	NNG	O
+)	)	SS	O
+의	의	JKG	O
+_	_	_	O
+주차장	주차장	NNG	O
+_	_	_	O
+오토바이	오토바이	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+오전	오전	NNG	B-TIM
+_	_	_	I-TIM
+9	9	SN	I-TIM
+시	시	NNB	I-TIM
+15	15	SN	I-TIM
+분	분	NNB	I-TIM
+_	_	_	O
+불	불	NNG	O
+이	이	JKS	O
+_	_	_	O
+붙	붙	VV	O
+은	은	ETM	O
+_	_	_	O
+뒤	뒤	NNG	O
+_	_	_	O
+바람	바람	NNG	O
+을	을	JKO	O
+_	_	_	O
+타	타	VV	O
+고	고	EC	O
+_	_	_	O
+옆	옆	NNG	O
+_	_	_	O
+드림	드림	NNG	B-LOC
+타운	타운	NNG	I-LOC
+Ⅱ	Ⅱ	SW	I-LOC
+로	로	JKB	O
+_	_	_	O
+번	번지	VV	O
+졌	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 그는 덴마크와 이스라엘의 집단농업체제를 공부한 유일한 전문가였다.
+## 그는 <덴마크:ORG>와 <이스라엘:ORG>의 집단농업체제를 공부한 유일한 전문가였다.
+그	그	NP	O
+는	는	JX	O
+_	_	_	O
+덴마크	덴마크	NNP	B-ORG
+와	와	JC	O
+_	_	_	O
+이스라엘	이스라엘	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+집단	집단	NNG	O
+농업	농업	NNG	O
+체제	체제	NNG	O
+를	를	JKO	O
+_	_	_	O
+공부한	공부하+ㄴ	VV+ETM	O
+_	_	_	O
+유일한	유일하+ㄴ	VA+ETM	O
+_	_	_	O
+전문가	전문가+이	NNG+VCP	O
+였	었	EP	O
+다	다	EF	O
+.	.	SF	O
+

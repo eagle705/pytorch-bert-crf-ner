@@ -1,0 +1,474 @@
+## 1
+## 수시 선발이 증가하면서 정시모집 인원은 지난해와 비교해 98명이 줄었다.
+## 수시 선발이 증가하면서 정시모집 인원은 지난해와 비교해 <98명:NOH>이 줄었다.
+수시	수시	NNG	O
+_	_	_	O
+선발	선발	NNG	O
+이	이	JKS	O
+_	_	_	O
+증가하	증가하	VV	O
+면서	면서	EC	O
+_	_	_	O
+정시	정시	NNG	O
+모집	모집	NNG	O
+_	_	_	O
+인원	인원	NNG	O
+은	은	JX	O
+_	_	_	O
+지난해	지난해	NNG	O
+와	와	JKB	O
+_	_	_	O
+비교해	비교하+여	VV+EC	O
+_	_	_	O
+98	98	SN	B-NOH
+명	명	NNB	I-NOH
+이	이	JKS	O
+_	_	_	O
+줄	줄	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 한국은 탈북자 등 인적정보(HUMINT)와 군사분계선 일대에서 포착한 대북 감청정보를 일본에 제공할 수 있다.
+## <한국:ORG>은 탈북자 등 인적정보(HUMINT)와 군사분계선 일대에서 포착한 대북 감청정보를 <일본:ORG>에 제공할 수 있다.
+한국	한국	NNP	B-ORG
+은	은	JX	O
+_	_	_	O
+탈북자	탈북자	NNG	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+인적	인적	NNG	O
+정보	정보	NNG	O
+(	(	SS	O
+HUMINT	HUMINT	SL	O
+)	)	SS	O
+와	와	JKB	O
+_	_	_	O
+군사	군사	NNG	O
+분계선	분계선	NNG	O
+_	_	_	O
+일대	일대	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+포착한	포착하+ㄴ	VV+ETM	O
+_	_	_	O
+대북	대북	NNG	O
+_	_	_	O
+감청	감청	NNG	O
+정보	정보	NNG	O
+를	를	JKO	O
+_	_	_	O
+일본	일본	NNP	B-ORG
+에	에	JKB	O
+_	_	_	O
+제공할	제공하+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 지난 시즌 첼시를 이끌다가 선수들과의 불화로 중도 사퇴한 모리뉴 감독은 치욕적인 패배를 당하면서 복수에 실패했다.
+## 지난 시즌 <첼시:ORG>를 이끌다가 선수들과의 불화로 중도 사퇴한 <모리뉴:PER> 감독은 치욕적인 패배를 당하면서 복수에 실패했다.
+지난	지나+ㄴ	VV+ETM	O
+_	_	_	O
+시즌	시즌	NNG	O
+_	_	_	O
+첼시	첼시	NNP	B-ORG
+를	를	JKO	O
+_	_	_	O
+이끌	이끌	VV	O
+다가	다가	EC	O
+_	_	_	O
+선수	선수	NNG	O
+들	들	XSN	O
+과	과	JKB	O
+의	의	JKG	O
+_	_	_	O
+불화	불화	NNG	O
+로	로	JKB	O
+_	_	_	O
+중도	중도	NNG	O
+_	_	_	O
+사퇴한	사퇴하+ㄴ	VV+ETM	O
+_	_	_	O
+모	모	NNB	B-PER
+리뉴	리뉴	NNP	I-PER
+_	_	_	O
+감독	감독	NNG	O
+은	은	JX	O
+_	_	_	O
+치욕적	치욕적	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+패배	패배	NNG	O
+를	를	JKO	O
+_	_	_	O
+당하	당하	VV	O
+면서	면서	EC	O
+_	_	_	O
+복수	복수	NNG	O
+에	에	JKB	O
+_	_	_	O
+실패	실패하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 상반기 중국내 12만대 팔려 세계1위… 구매자-제조사에 대규모 보조금
+## 상반기 <중국:ORG>내 <12만대:NOH> 팔려 세계<1위:NOH>… 구매자-제조사에 대규모 보조금
+상반기	상반기	NNG	O
+_	_	_	O
+중국	중국	NNP	B-ORG
+내	내	NNB	O
+_	_	_	O
+12	12	SN	B-NOH
+만	만	NR	I-NOH
+대	대	NNB	I-NOH
+_	_	_	O
+팔려	팔리+어	VV+EC	O
+_	_	_	O
+세계	세계	NNG	O
+1	1	SN	B-NOH
+위	위	NNB	I-NOH
+…	…	SE	O
+_	_	_	O
+구매자	구매자	NNG	O
+-	-	SO	O
+제조사	제조사	NNG	O
+에	에	JKB	O
+_	_	_	O
+대규모	대규모	NNG	O
+_	_	_	O
+보조금	보조금	NNG	O
+
+## 5
+## 대리기사 폭행 혐의 김현 의원 기소
+## 대리기사 폭행 혐의 <김현:PER> 의원 기소
+대리	대리	NNG	O
+기사	기사	NNG	O
+_	_	_	O
+폭행	폭행	NNG	O
+_	_	_	O
+혐의	혐의	NNG	O
+_	_	_	O
+김현	김현	NNP	B-PER
+_	_	_	O
+의원	의원	NNG	O
+_	_	_	O
+기소	기소	NNG	O
+
+## 6
+## ▲강=『북한핵은 서방에서 보듯이 협상카드용이 아니다.
+## ▲<강:PER>=『<북한:ORG>핵은 서방에서 보듯이 협상카드용이 아니다.
+▲	▲	SW	O
+강	강	NNG	B-PER
+=	=	SW	O
+『	『	SS	O
+북한	북한	NNP	B-ORG
+핵	핵	NNG	O
+은	은	JX	O
+_	_	_	O
+서방	서방	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+보	보	VV	O
+듯이	듯이	EC	O
+_	_	_	O
+협상	협상	NNG	O
+카드	카드	NNG	O
+용이	용이	NNG	O
+_	_	_	O
+아니	아니	VCN	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 차량에는 오션 멤버들과 매니저 등 5명이 탑승해 있었다.
+## 차량에는 <오션:ORG> 멤버들과 매니저 등 <5명:NOH>이 탑승해 있었다.
+차량	차량	NNG	O
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+오션	오션	NNG	B-ORG
+_	_	_	O
+멤버	멤버	NNG	O
+들	들	XSN	O
+과	과	JKB	O
+_	_	_	O
+매니저	매니저	NNG	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+5	5	SN	B-NOH
+명	명	NNB	I-NOH
+이	이	JKS	O
+_	_	_	O
+탑승해	탑승하+여	VV+EC	O
+_	_	_	O
+있	있	VX	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## “서울메트로 임직원 30명, 은성PSD서 억대 상품권 받아”
+## “<서울메트로:ORG> 임직원 <30명:NOH>, <은성PSD:ORG>서 억대 상품권 받아”
+“	“	SS	O
+서울메트로	서울메트로	NNP	B-ORG
+_	_	_	O
+임직원	임직원	NNG	O
+_	_	_	O
+30	30	SN	B-NOH
+명	명	NNB	I-NOH
+,	,	SP	O
+_	_	_	O
+은성	은성	NNP	B-ORG
+PSD	PSD	SL	I-ORG
+서	서	JKB	O
+_	_	_	O
+억	억	NR	O
+대	대	XSN	O
+_	_	_	O
+상품권	상품권	NNG	O
+_	_	_	O
+받	받	VV	O
+아	아	EF	O
+”	”	SS	O
+
+## 9
+## kt가 자랑하는 불펜 투수들은 각각 다른 공을 던지는 것처럼 사연도 제각각이다.
+## <kt:ORG>가 자랑하는 불펜 투수들은 각각 다른 공을 던지는 것처럼 사연도 제각각이다.
+kt	kt	SL	B-ORG
+가	가	JKS	O
+_	_	_	O
+자랑하	자랑하	VV	O
+는	는	ETM	O
+_	_	_	O
+불펜	불펜	NNG	O
+_	_	_	O
+투수	투수	NNG	O
+들	들	XSN	O
+은	은	JX	O
+_	_	_	O
+각각	각각	MAG	O
+_	_	_	O
+다른	다른	MM	O
+_	_	_	O
+공	공	NNG	O
+을	을	JKO	O
+_	_	_	O
+던지	던지	VV	O
+는	는	ETM	O
+_	_	_	O
+것	것	NNB	O
+처럼	처럼	JKB	O
+_	_	_	O
+사연	사연	NNG	O
+도	도	JX	O
+_	_	_	O
+제각각	제각각	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## ○…국회노동위 「돈봉투」 사건과 관련, 서울 서대문구 미근동에 사는 시민 김수영씨(48)가 29일 관련의원들과 (주)한국자동차보험 간부들을 뇌물수수 등 혐의로 서울지검에 고발했다.
+## ○…<국회노동위:ORG> 「돈봉투」 사건과 관련, <서울:LOC> <서대문구:LOC> <미근동:LOC>에 사는 시민 <김수영:PER>씨(<48:NOH>)가 <29일:DAT> 관련의원들과 <(주)한국자동차보험:ORG> 간부들을 뇌물수수 등 혐의로 <서울지검:ORG>에 고발했다.
+○	○	SW	O
+…	…	SE	O
+국회	국회	NNG	B-ORG
+노동	노동	NNG	I-ORG
+위	위	NNG	I-ORG
+_	_	_	O
+「	「	SS	O
+돈	돈	NNG	O
+봉투	봉투	NNG	O
+」	」	SS	O
+_	_	_	O
+사건	사건	NNG	O
+과	과	JKB	O
+_	_	_	O
+관련	관련	NNG	O
+,	,	SP	O
+_	_	_	O
+서울	서울	NNP	B-LOC
+_	_	_	O
+서대문구	서대문구	NNP	B-LOC
+_	_	_	O
+미근동	미근동	NNP	B-LOC
+에	에	JKB	O
+_	_	_	O
+사	살	VV	O
+는	는	ETM	O
+_	_	_	O
+시민	시민	NNG	O
+_	_	_	O
+김수영	김수영	NNP	B-PER
+씨	씨	NNB	O
+(	(	SS	O
+48	48	SN	B-NOH
+)	)	SS	O
+가	가	JKS	O
+_	_	_	O
+29	29	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+관련	관련	NNG	O
+의원	의원	NNG	O
+들	들	XSN	O
+과	과	JKB	O
+_	_	_	O
+(	(	SS	B-ORG
+주	주	NNG	I-ORG
+)	)	SS	I-ORG
+한국자동차보험	한국자동차보험	NNP	I-ORG
+_	_	_	O
+간부	간부	NNG	O
+들	들	XSN	O
+을	을	JKO	O
+_	_	_	O
+뇌물	뇌물	NNG	O
+수수	수수	NNG	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+혐의	혐의	NNG	O
+로	로	JKB	O
+_	_	_	O
+서울	서울	NNP	B-ORG
+지검	지검	NNG	I-ORG
+에	에	JKB	O
+_	_	_	O
+고발	고발하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 왼손 투수 상대 타율(0.294)보다 오른손 투수를 상대한 기록이 오히려 좋지 않다.
+## 왼손 투수 상대 타율(<0.294:PNT>)보다 오른손 투수를 상대한 기록이 오히려 좋지 않다.
+왼손	왼손	NNG	O
+_	_	_	O
+투수	투수	NNG	O
+_	_	_	O
+상대	상대	NNG	O
+_	_	_	O
+타율	타율	NNG	O
+(	(	SS	O
+0.294	0.294	SN	B-PNT
+)	)	SS	O
+보다	보다	JKB	O
+_	_	_	O
+오른손	오른손	NNG	O
+_	_	_	O
+투수	투수	NNG	O
+를	를	JKO	O
+_	_	_	O
+상대한	상대하+ㄴ	VV+ETM	O
+_	_	_	O
+기록	기록	NNG	O
+이	이	JKS	O
+_	_	_	O
+오히려	오히려	MAG	O
+_	_	_	O
+좋	좋	VA	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 같은 기간 중국인의 소득 상승 폭을 살펴보자. 중국 국가통계국에 따르면, 중국 도시 지역의 평균 연봉은 2001년 10834위안에서 2015년 62029위안으로 늘었다.
+## 같은 기간 중국인의 소득 상승 폭을 살펴보자. <중국 국가통계국:ORG>에 따르면, <중국:LOC> 도시 지역의 평균 연봉은 <2001년:DAT> <10834위안:MNY>에서 <2015년:DAT> <62029위안:MNY>으로 늘었다.
+같	같	VA	O
+은	은	ETM	O
+_	_	_	O
+기간	기간	NNG	O
+_	_	_	O
+중국인	중국인	NNG	O
+의	의	JKG	O
+_	_	_	O
+소득	소득	NNG	O
+_	_	_	O
+상승	상승	NNG	O
+_	_	_	O
+폭	폭	NNG	O
+을	을	JKO	O
+_	_	_	O
+살펴보	살펴보	VV	O
+자	자	EF	O
+.	.	SF	O
+_	_	_	O
+중국	중국	NNP	B-ORG
+_	_	_	I-ORG
+국가	국가	NNG	I-ORG
+통계	통계	NNG	I-ORG
+국	국	XSN	I-ORG
+에	에	JKB	O
+_	_	_	O
+따르	따르	VV	O
+면	면	EC	O
+,	,	SP	O
+_	_	_	O
+중국	중국	NNP	B-LOC
+_	_	_	O
+도시	도시	NNG	O
+_	_	_	O
+지역	지역	NNG	O
+의	의	JKG	O
+_	_	_	O
+평균	평균	NNG	O
+_	_	_	O
+연봉	연봉	NNG	O
+은	은	JX	O
+_	_	_	O
+2001	2001	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+10834	10834	SN	B-MNY
+위안	위안	NNB	I-MNY
+에서	에서	JKB	O
+_	_	_	O
+2015	2015	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+62029	62029	SN	B-MNY
+위안	위안	NNB	I-MNY
+으로	으로	JKB	O
+_	_	_	O
+늘	늘	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## 야생진드기, 의료진 2차 감염 확진… 심폐소생술 중에
+## 야생진드기, 의료진 <2차:NOH> 감염 확진… 심폐소생술 중에
+야생	야생	NNG	O
+진드기	진드기	NNG	O
+,	,	SP	O
+_	_	_	O
+의료진	의료진	NNG	O
+_	_	_	O
+2	2	SN	B-NOH
+차	차	NNB	I-NOH
+_	_	_	O
+감염	감염	NNG	O
+_	_	_	O
+확진	확진	NNG	O
+…	…	SE	O
+_	_	_	O
+심폐	심폐	NNG	O
+소생	소생	NNG	O
+술	술	XSN	O
+_	_	_	O
+중	중	NNB	O
+에	에	JKB	O
+

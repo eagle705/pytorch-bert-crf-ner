@@ -1,0 +1,337 @@
+## 1
+## 부산 기장군 ‘야구 도시’로 발돋움한다
+## <부산 기장군:LOC> ‘야구 도시’로 발돋움한다
+부산	부산	NNP	B-LOC
+_	_	_	I-LOC
+기장군	기장군	NNP	I-LOC
+_	_	_	O
+‘	‘	SS	O
+야구	야구	NNG	O
+_	_	_	O
+도시	도시	NNG	O
+’	’	SS	O
+로	로	JKB	O
+_	_	_	O
+발돋움한다	발돋움하+ㄴ다	VV+EF	O
+
+## 2
+## 프레샤인이 2016년 국가브랜드대상 특작농산물 사과 부문에 선정되며 6년 연속 정상을 지켰다.
+## <프레샤인:ORG>이 <2016년:DAT> <국가브랜드대상:POH> 특작농산물 사과 부문에 선정되며 <6년:DUR> 연속 정상을 지켰다.
+프레	프레	NNP	B-ORG
+샤인	샤인	NNP	I-ORG
+이	이	JKS	O
+_	_	_	O
+2016	2016	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+국가	국가	NNG	B-POH
+브랜드	브랜드	NNG	I-POH
+대상	대상	NNG	I-POH
+_	_	_	O
+특작	특작	NNG	O
+농산물	농산물	NNG	O
+_	_	_	O
+사과	사과	NNG	O
+_	_	_	O
+부문	부문	NNG	O
+에	에	JKB	O
+_	_	_	O
+선정되	선정되	VV	O
+며	며	EC	O
+_	_	_	O
+6	6	SN	B-DUR
+년	년	NNB	I-DUR
+_	_	_	O
+연속	연속	NNG	O
+_	_	_	O
+정상	정상	NNG	O
+을	을	JKO	O
+_	_	_	O
+지	지키	VV	O
+켰	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## ■ 채널A 밤 11시 ‘개밥 주는 남자’슈퍼주니어 강인이 강아지 입양 준비를 하며 만감이 교차한다.
+## ■ <채널A:ORG> <밤 11시:TIM> ‘<개밥 주는 남자:POH>’<슈퍼주니어:ORG> <강인:PER>이 강아지 입양 준비를 하며 만감이 교차한다.
+■	■	SW	O
+_	_	_	O
+채널	채널	NNG	B-ORG
+A	A	SL	I-ORG
+_	_	_	O
+밤	밤	NNG	B-TIM
+_	_	_	I-TIM
+11	11	SN	I-TIM
+시	시	NNB	I-TIM
+_	_	_	O
+‘	‘	SS	O
+개밥	개밥	NNG	B-POH
+_	_	_	I-POH
+주	주	VV	I-POH
+는	는	ETM	I-POH
+_	_	_	I-POH
+남자	남자	NNG	I-POH
+’	’	SS	O
+슈퍼	슈퍼	NNG	B-ORG
+주니어	주니어	NNG	I-ORG
+_	_	_	O
+강인이	강인이	NNP	O
+_	_	_	O
+강아지	강아지	NNG	O
+_	_	_	O
+입양	입양	NNG	O
+_	_	_	O
+준비	준비	NNG	O
+를	를	JKO	O
+_	_	_	O
+하	하	VV	O
+며	며	EC	O
+_	_	_	O
+만감	만감	NNG	O
+이	이	JKS	O
+_	_	_	O
+교차한다	교차하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 4
+## 이게 이태원 맛집들의 매력이다.
+## 이게 <이태원:LOC> 맛집들의 매력이다.
+이게	이것+이	NP+JKS	O
+_	_	_	O
+이태원	이태원	NNP	B-LOC
+_	_	_	O
+맛집	맛집	NNG	O
+들	들	XSN	O
+의	의	JKG	O
+_	_	_	O
+매력	매력	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 서울 이태원 경리단길에서 살짝 벗어난 길이라고 소개하고 싶은 꼬부라진 골목 안, 낡은 소리를 내는 철 대문 위로 예쁜 간판이 걸려 있는데 여기가 바로 ‘살롱 프라이드’다.
+## <서울 이태원 경리단길:LOC>에서 살짝 벗어난 길이라고 소개하고 싶은 꼬부라진 골목 안, 낡은 소리를 내는 철 대문 위로 예쁜 간판이 걸려 있는데 여기가 바로 ‘살<롱 프라이드:ORG>’다.
+서울	서울	NNP	B-LOC
+_	_	_	I-LOC
+이태원	이태원	NNP	I-LOC
+_	_	_	I-LOC
+경리단길	경리단길	NNP	I-LOC
+에서	에서	JKB	O
+_	_	_	O
+살짝	살짝	MAG	O
+_	_	_	O
+벗어난	벗어나+ㄴ	VV+ETM	O
+_	_	_	O
+길	길	NNG	O
+이	이	VCP	O
+라고	라고	EC	O
+_	_	_	O
+소개하	소개하	VV	O
+고	고	EC	O
+_	_	_	O
+싶	싶	VX	O
+은	은	ETM	O
+_	_	_	O
+꼬부라진	꼬부라지+ㄴ	VV+ETM	O
+_	_	_	O
+골목	골목	NNG	O
+_	_	_	O
+안	안	NNP	O
+,	,	SP	O
+_	_	_	O
+낡	낡	VA	O
+은	은	ETM	O
+_	_	_	O
+소리	소리	NNG	O
+를	를	JKO	O
+_	_	_	O
+내	내	VV	O
+는	는	ETM	O
+_	_	_	O
+철	철	NNG	O
+_	_	_	O
+대문	대문	NNG	O
+_	_	_	O
+위	위	NNG	O
+로	로	JKB	O
+_	_	_	O
+예쁜	예쁘+ㄴ	VA+ETM	O
+_	_	_	O
+간판	간판	NNG	O
+이	이	JKS	O
+_	_	_	O
+걸려	걸리+어	VV+EC	O
+_	_	_	O
+있	있	VX	O
+는데	는데	EC	O
+_	_	_	O
+여기	여기	NP	O
+가	가	JKS	O
+_	_	_	O
+바로	바로	MAG	O
+_	_	_	O
+‘	‘	SS	O
+살롱	살롱	NNG	B-ORG
+_	_	_	I-ORG
+프라이드	프라이드	NNG	I-ORG
+’	’+이	SS+VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 계산이 서는 선발투수는 이태양이 유일하다.
+## 계산이 서는 선발투수는 <이태양:PER>이 유일하다.
+계산	계산	NNG	O
+이	이	JKS	O
+_	_	_	O
+서	서	VV	O
+는	는	ETM	O
+_	_	_	O
+선발	선발	NNG	O
+투수	투수	NNG	O
+는	는	JX	O
+_	_	_	O
+이태양	이태양	NNP	B-PER
+이	이	JKS	O
+_	_	_	O
+유일하	유일하	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 김 감독은 선발이 어느 정도 막아주면 계투진을 쏟아붓는 야구를 하는데, 불펜의 핵심인 권혁이 팔꿈치 통증으로 1군 엔트리에서 말소됐다.
+## <김:PER> 감독은 선발이 어느 정도 막아주면 계투진을 쏟아붓는 야구를 하는데, 불펜의 핵심인 <권혁이:PER> 팔꿈치 통증으로 <1군:ORG> 엔트리에서 말소됐다.
+김	김	NNP	B-PER
+_	_	_	O
+감독	감독	NNG	O
+은	은	JX	O
+_	_	_	O
+선발	선발	NNG	O
+이	이	JKS	O
+_	_	_	O
+어느	어느	MM	O
+_	_	_	O
+정도	정도	NNG	O
+_	_	_	O
+막	막	VV	O
+아	아	EC	O
+주	주	VX	O
+면	면	EC	O
+_	_	_	O
+계투	계투	NNG	O
+진	진	XSN	O
+을	을	JKO	O
+_	_	_	O
+쏟	쏟	VV	O
+아	아	EC	O
+붓	붓	VV	O
+는	는	ETM	O
+_	_	_	O
+야구	야구	NNG	O
+를	를	JKO	O
+_	_	_	O
+하	하	VV	O
+는데	는데	EC	O
+,	,	SP	O
+_	_	_	O
+불펜	불펜	NNG	O
+의	의	JKG	O
+_	_	_	O
+핵심	핵심	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+권혁	권혁	NNP	B-PER
+이	이	JKS	I-PER
+_	_	_	O
+팔꿈치	팔꿈치	NNG	O
+_	_	_	O
+통증	통증	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+1	1	SN	B-ORG
+군	군	NNG	I-ORG
+_	_	_	O
+엔트리	엔트리	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+말소	말소되	VV	O
+됐	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 세종=손영일 scud2007@donga.com / 용인=천호성 기자
+## <세종:LOC>=<손영일:PER> <scud2007@donga.com:POH> / <용인:LOC>=<천호성:PER> 기자
+세종	세종	NNP	B-LOC
+=	=	SW	O
+손영일	손영일	NNP	B-PER
+_	_	_	O
+scud	scud	SL	B-POH
+2007	2007	SN	I-POH
+@	@	SW	I-POH
+donga	donga	SL	I-POH
+.	.	SF	I-POH
+com	com	SL	I-POH
+_	_	_	O
+/	/	SP	O
+_	_	_	O
+용인	용인	NNP	B-LOC
+=	=	SW	O
+천호성	천호성	NNP	B-PER
+_	_	_	O
+기자	기자	NNG	O
+
+## 9
+## MBC 아나운서 출신인 차 씨는 대통령 문화관광비서관, 통합민주당 대변인 등을 지냈으며, 2012년 19대 총선에 출마했다가 낙선했다.
+## <MBC:ORG> 아나운서 출신인 <차:PER> 씨는 대통령 문화관광비서관, <통합민주당:ORG> 대변인 등을 지냈으며, <2012년:DAT> <19대:NOH> 총선에 출마했다가 낙선했다.
+MBC	MBC	SL	B-ORG
+_	_	_	O
+아나운서	아나운서	NNG	O
+_	_	_	O
+출신	출신	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+차	차	NNP	B-PER
+_	_	_	O
+씨	씨	NNB	O
+는	는	JX	O
+_	_	_	O
+대통령	대통령	NNG	O
+_	_	_	O
+문화	문화	NNG	O
+관광	관광	NNG	O
+비서관	비서관	NNG	O
+,	,	SP	O
+_	_	_	O
+통합	통합	NNG	B-ORG
+민주당	민주당	NNP	I-ORG
+_	_	_	O
+대변인	대변인	NNG	O
+_	_	_	O
+등	등	NNB	O
+을	을	JKO	O
+_	_	_	O
+지냈	지내+었	VV+EP	O
+으며	으며	EC	O
+,	,	SP	O
+_	_	_	O
+2012	2012	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+19	19	SN	B-NOH
+대	대	NNB	I-NOH
+_	_	_	O
+총선	총선	NNG	O
+에	에	JKB	O
+_	_	_	O
+출마	출마하	VV	O
+했	였	EP	O
+다가	다가	EC	O
+_	_	_	O
+낙선	낙선하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+

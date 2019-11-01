@@ -1,0 +1,496 @@
+## 1
+## ‘모든 길은 인천으로 통한다’는 뜻으로 ‘올 웨이즈 인천(all ways Incheon)’으로 결정했다.
+## ‘모든 길은 <인천:LOC>으로 통한다’는 뜻으로 ‘<올 웨이즈 인천:POH>(<all ways Incheon:POH>)’으로 결정했다.
+‘	‘	SS	O
+모든	모든	MM	O
+_	_	_	O
+길	길	NNG	O
+은	은	JX	O
+_	_	_	O
+인천	인천	NNP	B-LOC
+으로	으로	JKB	O
+_	_	_	O
+통한다	통하+ㄴ다	VV+EF	O
+’	’	SS	O
+는	는	JX	O
+_	_	_	O
+뜻	뜻	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+‘	‘	SS	O
+올	올	NNG	B-POH
+_	_	_	I-POH
+웨이즈	웨이즈	NNP	I-POH
+_	_	_	I-POH
+인천	인천	NNP	I-POH
+(	(	SS	O
+all	all	SL	B-POH
+_	_	_	I-POH
+ways	ways	SL	I-POH
+_	_	_	I-POH
+Incheon	Incheon	SL	I-POH
+)	)	SS	O
+’	’	SS	O
+으로	으로	JKB	O
+_	_	_	O
+결정	결정하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 엑소 정규 2집 100만장 돌파, 'Love Me Right'으로 밀리언셀러…역시 대세돌
+## <엑소:ORG> 정규 <2집:NOH> <100만장:NOH> 돌파, '<Love Me Right:POH>'으로 밀리언셀러…역시 대세돌
+엑소	엑소	NNP	B-ORG
+_	_	_	O
+정규	정규	NNG	O
+_	_	_	O
+2	2	SN	B-NOH
+집	집	NNB	I-NOH
+_	_	_	O
+100	100	SN	B-NOH
+만	만	NR	I-NOH
+장	장	NNB	I-NOH
+_	_	_	O
+돌파	돌파	NNG	O
+,	,	SP	O
+_	_	_	O
+'	'	SS	O
+Love	Love	SL	B-POH
+_	_	_	I-POH
+Me	Me	SL	I-POH
+_	_	_	I-POH
+Right	Right	SL	I-POH
+'	'	SS	O
+으로	으로	JKB	O
+_	_	_	O
+밀리언	밀리언	NNG	O
+셀러	셀러	NNG	O
+…	…	SE	O
+역시	역시	MAG	O
+_	_	_	O
+대	대	NNG	O
+세돌	세돌	NNP	O
+
+## 3
+## 또 김태환 펭구리엔터테인먼트 대표 등 겸임교수 9명은 게임 트렌드와 현장 이슈를 학생 눈높이에 맞춰 가르친다.
+## 또 <김태환:PER> <펭구리엔터테인먼트:ORG> 대표 등 겸임교수 <9명:NOH>은 게임 트렌드와 현장 이슈를 학생 눈높이에 맞춰 가르친다.
+또	또	MAG	O
+_	_	_	O
+김태환	김태환	NNP	B-PER
+_	_	_	O
+펭	펭	NNP	B-ORG
+구리	구리	NNG	I-ORG
+엔터테인먼트	엔터테인먼트	NNG	I-ORG
+_	_	_	O
+대표	대표	NNG	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+겸임	겸임	NNG	O
+교수	교수	NNG	O
+_	_	_	O
+9	9	SN	B-NOH
+명	명	NNB	I-NOH
+은	은	JX	O
+_	_	_	O
+게임	게임	NNG	O
+_	_	_	O
+트렌드	트렌드	NNG	O
+와	와	JC	O
+_	_	_	O
+현장	현장	NNG	O
+_	_	_	O
+이슈	이슈	NNG	O
+를	를	JKO	O
+_	_	_	O
+학생	학생	NNG	O
+_	_	_	O
+눈높이	눈높이	NNG	O
+에	에	JKB	O
+_	_	_	O
+맞춰	맞추+어	VV+EC	O
+_	_	_	O
+가르친다	가르치+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 4
+## 또 그는 북한 학생들이 굉장히 청교도적이라고 전했다.
+## 또 그는 <북한:ORG> 학생들이 굉장히 청교도적이라고 전했다.
+또	또	MAG	O
+_	_	_	O
+그	그	NP	O
+는	는	JX	O
+_	_	_	O
+북한	북한	NNP	B-ORG
+_	_	_	O
+학생	학생	NNG	O
+들	들	XSN	O
+이	이	JKS	O
+_	_	_	O
+굉장히	굉장히	MAG	O
+_	_	_	O
+청교도적	청교도적	NNG	O
+이	이	VCP	O
+라고	라고	EC	O
+_	_	_	O
+전	전하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## ‘슈퍼스타K7’ 천단비가 생방송 경연에서 1위를 차지했다.
+## ‘<슈퍼스타K7:POH>’ 천단비가 생방송 경연에서 <1위:NOH>를 차지했다.
+‘	‘	SS	O
+슈퍼스타	슈퍼스타	NNG	B-POH
+K	K	SL	I-POH
+7	7	SN	I-POH
+’	’	SS	O
+_	_	_	O
+천	천	NR	O
+단비	단비	NNG	O
+가	가	JKS	O
+_	_	_	O
+생방송	생방송	NNG	O
+_	_	_	O
+경연	경연	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+1	1	SN	B-NOH
+위	위	NNB	I-NOH
+를	를	JKO	O
+_	_	_	O
+차지	차지하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 비상시국회의는 바른정당 소속 의원들이 새누리당(현 한국당)에서 탈당하기 직전 탄핵 정국과 진로를 고민하기 위해 운용하던 회의체다.
+## 비상시국회의는 <바른정당:ORG> 소속 의원들이 새누리당(현 <한국당:ORG>)에서 탈당하기 직전 탄핵 정국과 진로를 고민하기 위해 운용하던 회의체다.
+비상시국	비상시국	NNG	O
+회의	회의	NNG	O
+는	는	JX	O
+_	_	_	O
+바른	바른	MM	B-ORG
+정당	정당	NNG	I-ORG
+_	_	_	O
+소속	소속	NNG	O
+_	_	_	O
+의원	의원	NNG	O
+들	들	XSN	O
+이	이	JKS	O
+_	_	_	O
+새누리당	새누리당	NNP	O
+(	(	SS	O
+현	현	MM	O
+_	_	_	O
+한국당	한국당	NNP	B-ORG
+)	)	SS	O
+에서	에서	JKB	O
+_	_	_	O
+탈당하	탈당하	VV	O
+기	기	ETN	O
+_	_	_	O
+직전	직전	NNG	O
+_	_	_	O
+탄핵	탄핵	NNG	O
+_	_	_	O
+정국	정국	NNG	O
+과	과	JC	O
+_	_	_	O
+진로	진로	NNG	O
+를	를	JKO	O
+_	_	_	O
+고민하	고민하	VV	O
+기	기	ETN	O
+_	_	_	O
+위해	위하+여	VV+EC	O
+_	_	_	O
+운용하	운용하	VV	O
+던	던	ETM	O
+_	_	_	O
+회의	회의	NNG	O
+체	체	XSN	O
+다	다	NNG	O
+.	.	SF	O
+
+## 7
+## 일본 축구대표팀 하비에르 아기레 감독이 해임됐다.
+## <일본:ORG> 축구대표팀 <하비에르 아기레:PER> 감독이 해임됐다.
+일본	일본	NNP	B-ORG
+_	_	_	O
+축구	축구	NNG	O
+대표	대표	NNG	O
+팀	팀	NNG	O
+_	_	_	O
+하비에르	하비에르	NNP	B-PER
+_	_	_	I-PER
+아기레	아기레	NNP	I-PER
+_	_	_	O
+감독	감독	NNG	O
+이	이	JKS	O
+_	_	_	O
+해임	해임되	VV	O
+됐	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 전용 39~130㎡, 9510가구로 재건축으로는 국내 최대규모가 될 단지다.
+## 전용 <39:NOH>~<130㎡:NOH>, <9510가구:NOH>로 재건축으로는 국내 최대규모가 될 단지다.
+전용	전용	NNG	O
+_	_	_	O
+39	39	SN	B-NOH
+~	~	SO	O
+130	130	SN	B-NOH
+㎡	㎡	SW	I-NOH
+,	,	SP	O
+_	_	_	O
+9510	9510	SN	B-NOH
+가구	가구	NNG	I-NOH
+로	로	JKB	O
+_	_	_	O
+재건축	재건축	NNG	O
+으로	으로	JKB	O
+는	는	JX	O
+_	_	_	O
+국내	국내	NNG	O
+_	_	_	O
+최대	최대	NNG	O
+규모	규모	NNG	O
+가	가	JKC	O
+_	_	_	O
+될	되+ㄹ	VV+ETM	O
+_	_	_	O
+단지	단지+이	NNG+VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 총 14개동, 885세대가 입주했고 공급면적 109~335㎡로 구성됐다.
+## 총 <14개:NOH>동, <885세대:NOH>가 입주했고 공급면적 <109:NOH>~<335㎡:NOH>로 구성됐다.
+총	총	MM	O
+_	_	_	O
+14	14	SN	B-NOH
+개	개	NNB	I-NOH
+동	동	NNG	O
+,	,	SP	O
+_	_	_	O
+885	885	SN	B-NOH
+세대	세대	NNG	I-NOH
+가	가	JKS	O
+_	_	_	O
+입주	입주하	VV	O
+했	였	EP	O
+고	고	EC	O
+_	_	_	O
+공급	공급	NNG	O
+면적	면적	NNG	O
+_	_	_	O
+109	109	SN	B-NOH
+~	~	SO	O
+335	335	SN	B-NOH
+㎡	㎡	SW	I-NOH
+로	로	JKB	O
+_	_	_	O
+구성	구성되	VV	O
+됐	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 에어부산, 초특가 프로모션 ‘플라이 앤 세일(FLY&SALE)’
+## <에어부산:ORG>, 초특가 프로모션 ‘<플라이 앤 세일:POH>(<FLY&SALE:POH>)’
+에어	에어	NNG	B-ORG
+부산	부산	NNP	I-ORG
+,	,	SP	O
+_	_	_	O
+초	초	XPN	O
+특가	특가	NNG	O
+_	_	_	O
+프로모션	프로모션	NNG	O
+_	_	_	O
+‘	‘	SS	O
+플라이	플라이	NNG	B-POH
+_	_	_	I-POH
+앤	앤	NNP	I-POH
+_	_	_	I-POH
+세일	세일	NNG	I-POH
+(	(	SS	O
+FLY	FLY	SL	B-POH
+&	&	SW	I-POH
+SALE	SALE	SL	I-POH
+)	)	SS	O
+’	’	SS	O
+
+## 11
+## 세종문화회관은 27, 28일 이틀간 대극장 무대에 ‘5대륙, 5인의 오르가니스트’(사진)를 올린다.
+## <세종문화회관:ORG>은 <27:DAT>, <28일:DAT> <이틀간:DUR> 대극장 무대에 ‘<5대륙:NOH>, <5인:NOH>의 오르가니스트’(사진)를 올린다.
+세종문화회관	세종문화회관	NNP	B-ORG
+은	은	JX	O
+_	_	_	O
+27	27	SN	B-DAT
+,	,	SP	O
+_	_	_	O
+28	28	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+이틀	이틀	NNG	B-DUR
+간	간	XSN	I-DUR
+_	_	_	O
+대	대	XPN	O
+극장	극장	NNG	O
+_	_	_	O
+무대	무대	NNG	O
+에	에	JKB	O
+_	_	_	O
+‘	‘	SS	O
+5	5	SN	B-NOH
+대륙	대륙	NNG	I-NOH
+,	,	SP	O
+_	_	_	O
+5	5	SN	B-NOH
+인	인	NNG	I-NOH
+의	의	JKG	O
+_	_	_	O
+오르가니스트	오르가니스트	NNG	O
+’	’	SS	O
+(	(	SS	O
+사진	사진	NNG	O
+)	)	SS	O
+를	를	JKO	O
+_	_	_	O
+올린다	올리+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 12
+## 나비와 장동민은 두 사람이 사귀게 된 계기를 밝혔다.
+## <나비:PER>와 <장동민:PER>은 <두 사람:NOH>이 사귀게 된 계기를 밝혔다.
+나비	나비	NNG	B-PER
+와	와	JC	O
+_	_	_	O
+장동민	장동민	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+두	두	MM	B-NOH
+_	_	_	I-NOH
+사람	사람	NNG	I-NOH
+이	이	JKS	O
+_	_	_	O
+사귀	사귀	VV	O
+게	게	EC	O
+_	_	_	O
+된	되+ㄴ	VV+ETM	O
+_	_	_	O
+계기	계기	NNG	O
+를	를	JKO	O
+_	_	_	O
+밝	밝히	VV	O
+혔	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## 한편 7일 서울 마포구 상암동 DMS빌딩에서 열린 tvN ‘삼시세끼-어촌편2’ 공동인터뷰에는 나영석 PD를 비롯해 신효정 PD, 김대주 작가가 자리했다.
+## 한편 <7일:DAT> <서울:LOC> <마포구:LOC> <상암동 DMS빌딩:LOC>에서 열린 <tvN:POH> ‘<삼시세끼-어촌편2:POH>’ 공동인터뷰에는 <나영석:PER> PD를 비롯해 <신효정:PER> PD, <김대주:PER> 작가가 자리했다.
+한편	한편	MAG	O
+_	_	_	O
+7	7	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+서울	서울	NNP	B-LOC
+_	_	_	O
+마포구	마포구	NNP	B-LOC
+_	_	_	O
+상암동	상암동	NNP	B-LOC
+_	_	_	I-LOC
+DMS	DMS	SL	I-LOC
+빌딩	빌딩	NNG	I-LOC
+에서	에서	JKB	O
+_	_	_	O
+열린	열리+ㄴ	VV+ETM	O
+_	_	_	O
+tvN	tvN	SL	B-POH
+_	_	_	O
+‘	‘	SS	O
+삼시세끼	삼시세끼	NNP	B-POH
+-	-	SO	I-POH
+어촌	어촌	NNG	I-POH
+편	편	NNG	I-POH
+2	2	SN	I-POH
+’	’	SS	O
+_	_	_	O
+공동	공동	NNG	O
+인터뷰	인터뷰	NNG	O
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+나영석	나영석	NNP	B-PER
+_	_	_	O
+PD	PD	SL	O
+를	를	JKO	O
+_	_	_	O
+비롯해	비롯하+여	VV+EC	O
+_	_	_	O
+신효정	신효정	NNP	B-PER
+_	_	_	O
+PD	PD	SL	O
+,	,	SP	O
+_	_	_	O
+김대주	김대주	NNP	B-PER
+_	_	_	O
+작가	작가	NNG	O
+가	가	JKS	O
+_	_	_	O
+자리	자리하	VV	O
+했	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 14
+## 이어 불편한 신발 때문에 발 아파하는 김소연을 위해 커플 운동화를 건네 여성 시청자들의 부러움을 이끌어 냈다.
+## 이어 불편한 신발 때문에 발 아파하는 <김소연:PER>을 위해 커플 운동화를 건네 여성 시청자들의 부러움을 이끌어 냈다.
+이어	이어	MAG	O
+_	_	_	O
+불편한	불편하+ㄴ	VA+ETM	O
+_	_	_	O
+신발	신발	NNG	O
+_	_	_	O
+때문	때문	NNB	O
+에	에	JKB	O
+_	_	_	O
+발	발	NNG	O
+_	_	_	O
+아파하	아파하	VV	O
+는	는	ETM	O
+_	_	_	O
+김소연	김소연	NNP	B-PER
+을	을	JKO	O
+_	_	_	O
+위해	위하+여	VV+EC	O
+_	_	_	O
+커플	커플	NNG	O
+_	_	_	O
+운동화	운동화	NNG	O
+를	를	JKO	O
+_	_	_	O
+건네	건네+어	VV+EC	O
+_	_	_	O
+여성	여성	NNG	O
+_	_	_	O
+시청자	시청자	NNG	O
+들	들	XSN	O
+의	의	JKG	O
+_	_	_	O
+부러움	부럽+ㅁ	VA+ETN	O
+을	을	JKO	O
+_	_	_	O
+이끌	이끌	VV	O
+어	어	EC	O
+_	_	_	O
+냈	내+었	VX+EP	O
+다	다	EF	O
+.	.	SF	O
+

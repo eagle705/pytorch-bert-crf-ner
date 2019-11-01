@@ -1,0 +1,560 @@
+## 1
+## 신세계 센텀시티점 3일 확장 오픈
+## <신세계 센텀시티점:LOC> <3일:DAT> 확장 오픈
+신세계	신세계	NNP	B-LOC
+_	_	_	I-LOC
+센텀시티	센텀시티	NNP	I-LOC
+점	점	NNB	I-LOC
+_	_	_	O
+3	3	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+확장	확장	NNG	O
+_	_	_	O
+오픈	오픈	NNG	O
+
+## 2
+## 동산병원 암연구소장 박건욱 교수(혈액종양내과)는 “왓슨은 지역의 암 환자들이 수도권 대형병원으로 가는 번거로움을 줄일 수 있을 것으로 본다”고 말했다.
+## <동산병원:ORG> 암연구소장 <박건욱:PER> 교수(혈액종양내과)는 “<왓슨:POH>은 지역의 암 환자들이 수도권 대형병원으로 가는 번거로움을 줄일 수 있을 것으로 본다”고 말했다.
+동산	동산	NNP	B-ORG
+병원	병원	NNG	I-ORG
+_	_	_	O
+암	암	NNG	O
+연구소	연구소	NNG	O
+장	장	XPN	O
+_	_	_	O
+박건욱	박건욱	NNP	B-PER
+_	_	_	O
+교수	교수	NNG	O
+(	(	SS	O
+혈액	혈액	NNG	O
+종양	종양	NNG	O
+내과	내과	NNG	O
+)	)	SS	O
+는	는	JX	O
+_	_	_	O
+“	“	SS	O
+왓슨	왓슨	NNP	B-POH
+은	은	JX	O
+_	_	_	O
+지역	지역	NNG	O
+의	의	JKG	O
+_	_	_	O
+암	암	NNG	O
+_	_	_	O
+환자	환자	NNG	O
+들	들	XSN	O
+이	이	JKS	O
+_	_	_	O
+수도권	수도권	NNG	O
+_	_	_	O
+대형	대형	NNG	O
+병원	병원	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+가	가	VV	O
+는	는	ETM	O
+_	_	_	O
+번거로움	번거롭+ㅁ	VA+ETN	O
+을	을	JKO	O
+_	_	_	O
+줄일	줄이+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+을	을	ETM	O
+_	_	_	O
+것	것	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+본다	보+ㄴ다	VV+EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+말	말하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## [단독] 이재명 성남시장 누구길래? '형제 갈등'은 왜?
+## [단독] <이재명:PER> 성남시장 누구길래? '형제 갈등'은 왜?
+[	[	SS	O
+단독	단독	NNG	O
+]	]	SS	O
+_	_	_	O
+이재명	이재명	NNP	B-PER
+_	_	_	O
+성남	성남	NNP	O
+시장	시장	NNG	O
+_	_	_	O
+누구	누구+이	NP+VCP	O
+길래	길래	EF	O
+?	?	SF	O
+_	_	_	O
+'	'	SS	O
+형제	형제	NNG	O
+_	_	_	O
+갈등	갈등	NNG	O
+'	'	SS	O
+은	은	JX	O
+_	_	_	O
+왜	왜	MAG	O
+?	?	SF	O
+
+## 4
+## 조사 대상기간은 2010년~2014년이다.
+## 조사 대상기간은 <2010년~2014년:DUR>이다.
+조사	조사	NNG	O
+_	_	_	O
+대상	대상	NNG	O
+기간	기간	NNG	O
+은	은	JX	O
+_	_	_	O
+2010	2010	SN	B-DUR
+년	년	NNB	I-DUR
+~	~	SO	I-DUR
+2014	2014	SN	I-DUR
+년	년	NNB	I-DUR
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 이달 초 서울시를 비롯한 유관기관들은 송파 문정지구에 특허기술 상용화 플랫폼을 만들기로 협의했다.
+## 이달 초 <서울시:ORG>를 비롯한 유관기관들은 <송파 문정지구:LOC>에 특허기술 상용화 플랫폼을 만들기로 협의했다.
+이달	이달	NNG	O
+_	_	_	O
+초	초	NNB	O
+_	_	_	O
+서울시	서울시	NNP	B-ORG
+를	를	JKO	O
+_	_	_	O
+비롯한	비롯하+ㄴ	VV+ETM	O
+_	_	_	O
+유관	유관	NNG	O
+기관	기관	NNG	O
+들	들	XSN	O
+은	은	JX	O
+_	_	_	O
+송파	송파	NNP	B-LOC
+_	_	_	I-LOC
+문정	문정	NNP	I-LOC
+지구	지구	NNG	I-LOC
+에	에	JKB	O
+_	_	_	O
+특허	특허	NNG	O
+기술	기술	NNG	O
+_	_	_	O
+상용	상용	NNG	O
+화	화	XSN	O
+_	_	_	O
+플랫폼	플랫폼	NNG	O
+을	을	JKO	O
+_	_	_	O
+만들	만들	VV	O
+기	기	ETN	O
+로	로	JKB	O
+_	_	_	O
+협의	협의하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 박 시장은 1주일 전만해도 1위에 오른 지역이나 연령대가 하나도 없었으나, 이번에는 서울과 광주·전라, 20대와 30대에서 1위를 차지한 것으로 나타났다.
+## <박:PER> 시장은 <1주일:NOH> 전만해도 <1위:NOH>에 오른 지역이나 연령대가 <하나:NOH>도 없었으나, 이번에는 <서울:LOC>과 <광주:LOC>·<전라:LOC>, <20대:NOH>와 <30대:NOH>에서 <1위:NOH>를 차지한 것으로 나타났다.
+박	박	NNP	B-PER
+_	_	_	O
+시장	시장	NNG	O
+은	은	JX	O
+_	_	_	O
+1	1	SN	B-NOH
+주일	주일	NNB	I-NOH
+_	_	_	O
+전	전	NNG	O
+만	만	JX	O
+해도	하+여도	VV+EC	O
+_	_	_	O
+1	1	SN	B-NOH
+위	위	NNB	I-NOH
+에	에	JKB	O
+_	_	_	O
+오른	오르+ㄴ	VV+ETM	O
+_	_	_	O
+지역	지역	NNG	O
+이나	이나	JC	O
+_	_	_	O
+연령	연령	NNG	O
+대	대	XSN	O
+가	가	JKS	O
+_	_	_	O
+하나	하나	NNG	B-NOH
+도	도	JX	O
+_	_	_	O
+없	없	VA	O
+었	었	EP	O
+으나	으나	EC	O
+,	,	SP	O
+_	_	_	O
+이번	이번	NNG	O
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+서울	서울	NNP	B-LOC
+과	과	JC	O
+_	_	_	O
+광주	광주	NNP	B-LOC
+·	·	SP	O
+전라	전라	NNP	B-LOC
+,	,	SP	O
+_	_	_	O
+20	20	SN	B-NOH
+대	대	NNB	I-NOH
+와	와	JC	O
+_	_	_	O
+30	30	SN	B-NOH
+대	대	NNB	I-NOH
+에서	에서	JKB	O
+_	_	_	O
+1	1	SN	B-NOH
+위	위	NNB	I-NOH
+를	를	JKO	O
+_	_	_	O
+차지한	차지하+ㄴ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+나타났	나타나+았	VV+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## “국군포로로 북한에 잡혀 있던 47년 가운데 37년을 광산에서 노예처럼 살았습니다.
+## “국군포로로 <북한:ORG>에 잡혀 있던 <47년:NOH> 가운데 <37년:NOH>을 광산에서 노예처럼 살았습니다.
+“	“	SS	O
+국군	국군	NNG	O
+포로	포로	NNG	O
+로	로	JKB	O
+_	_	_	O
+북한	북한	NNP	B-ORG
+에	에	JKB	O
+_	_	_	O
+잡혀	잡히+어	VV+EC	O
+_	_	_	O
+있	있	VX	O
+던	던	ETM	O
+_	_	_	O
+47	47	SN	B-NOH
+년	년	NNB	I-NOH
+_	_	_	O
+가운데	가운데	NNG	O
+_	_	_	O
+37	37	SN	B-NOH
+년	년	NNB	I-NOH
+을	을	JKO	O
+_	_	_	O
+광산	광산	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+노예	노예	NNG	O
+처럼	처럼	JKB	O
+_	_	_	O
+살	살	VV	O
+았	았	EP	O
+습니다	습니다	EF	O
+.	.	SF	O
+
+## 8
+## 일제의 학병 징집 직후인 44년 4월 경성제대 예과에 입학해 해방 후 서울대 문리대 사학과에 진학, 졸업 후 6·25전쟁 발발 전까지 약 1년간 사학과 조수로 있었다.
+## <일제:ORG>의 학병 징집 직후인 <44년 4월:DAT> <경성제대:ORG> 예과에 입학해 해방 후 <서울대 문리대:ORG> 사학과에 진학, 졸업 후 <6·25전쟁:POH> 발발 전까지 약 <1년간:DUR> 사학과 조수로 있었다.
+일제	일제	NNG	B-ORG
+의	의	JKG	O
+_	_	_	O
+학병	학병	NNG	O
+_	_	_	O
+징집	징집	NNG	O
+_	_	_	O
+직후	직후	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+44	44	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	I-DAT
+4	4	SN	I-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+경성제대	경성제대	NNP	B-ORG
+_	_	_	O
+예과	예과	NNG	O
+에	에	JKB	O
+_	_	_	O
+입학해	입학하+여	VV+EC	O
+_	_	_	O
+해방	해방	NNG	O
+_	_	_	O
+후	후	NNG	O
+_	_	_	O
+서울	서울	NNP	B-ORG
+대	대	NNG	I-ORG
+_	_	_	I-ORG
+문리대	문리대	NNG	I-ORG
+_	_	_	O
+사학	사학	NNG	O
+과	과	NNG	O
+에	에	JKB	O
+_	_	_	O
+진학	진학	NNG	O
+,	,	SP	O
+_	_	_	O
+졸업	졸업	NNG	O
+_	_	_	O
+후	후	NNG	O
+_	_	_	O
+6	6	SN	B-POH
+·	·	SP	I-POH
+25	25	SN	I-POH
+전쟁	전쟁	NNG	I-POH
+_	_	_	O
+발발	발발	NNG	O
+_	_	_	O
+전	전	NNG	O
+까지	까지	JX	O
+_	_	_	O
+약	약	MM	O
+_	_	_	O
+1	1	SN	B-DUR
+년	년	NNB	I-DUR
+간	간	XSN	I-DUR
+_	_	_	O
+사학	사학	NNG	O
+과	과	NNG	O
+_	_	_	O
+조수	조수	NNG	O
+로	로	JKB	O
+_	_	_	O
+있	있	VA	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## ‘어머니가 이번 기회에 조금이나마 힘을 내실 수 있기를’ 하고 말이죠. 마우나리조트 참사는 사실 2014년의 비극을 알리는 서막이었습니다.
+## ‘어머니가 이번 기회에 조금이나마 힘을 내실 수 있기를’ 하고 말이죠. <마우나리조트 참사:POH>는 사실 <2014년:DAT>의 비극을 알리는 서막이었습니다.
+‘	‘	SS	O
+어머니	어머니	NNG	O
+가	가	JKS	O
+_	_	_	O
+이번	이번	NNG	O
+_	_	_	O
+기회	기회	NNG	O
+에	에	JKB	O
+_	_	_	O
+조금	조금	NNG	O
+이나마	이나마	JX	O
+_	_	_	O
+힘	힘	NNG	O
+을	을	JKO	O
+_	_	_	O
+내	내	VV	O
+실	시+ㄹ	EP+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+기	기	ETN	O
+를	를	JKO	O
+’	’	SS	O
+_	_	_	O
+하	하	VV	O
+고	고	EC	O
+_	_	_	O
+말	말	NNG	O
+이	이	VCP	O
+죠	죠	EF	O
+.	.	SF	O
+_	_	_	O
+마우나리조트	마우나리조트	NNP	B-POH
+_	_	_	I-POH
+참사	참사	NNG	I-POH
+는	는	JX	O
+_	_	_	O
+사실	사실	MAG	O
+_	_	_	O
+2014	2014	SN	B-DAT
+년	년	NNB	I-DAT
+의	의	JKG	O
+_	_	_	O
+비극	비극	NNG	O
+을	을	JKO	O
+_	_	_	O
+알리	알리	VV	O
+는	는	ETM	O
+_	_	_	O
+서막	서막	NNG	O
+이	이	VCP	O
+었	었	EP	O
+습니다	습니다	EF	O
+.	.	SF	O
+
+## 10
+## 태권도 4단이라는 이색 경력이 눈길을 끈다.
+## 태권도 <4단:NOH>이라는 이색 경력이 눈길을 끈다.
+태권도	태권도	NNG	O
+_	_	_	O
+4	4	SN	B-NOH
+단	단	NNB	I-NOH
+이	이	VCP	O
+라는	라는	ETM	O
+_	_	_	O
+이색	이색	NNG	O
+_	_	_	O
+경력	경력	NNG	O
+이	이	JKS	O
+_	_	_	O
+눈길	눈길	NNG	O
+을	을	JKO	O
+_	_	_	O
+끈다	끌+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 11
+## ‘동탄 파케이드 스타·스텔라’ 분양
+## ‘<동탄 파케이드 스타·스텔라:POH>’ 분양
+‘	‘	SS	O
+동탄	동탄	NNP	B-POH
+_	_	_	I-POH
+파케	파케	NNP	I-POH
+이드	이드	NNG	I-POH
+_	_	_	I-POH
+스타	스타	NNG	I-POH
+·	·	SP	I-POH
+스텔라	스텔라	NNP	I-POH
+’	’	SS	O
+_	_	_	O
+분양	분양	NNG	O
+
+## 12
+## LG 팬들께 감사하다.
+## <LG:ORG> 팬들께 감사하다.
+LG	LG	SL	B-ORG
+_	_	_	O
+팬	팬	NNG	O
+들	들	XSN	O
+께	께	JKB	O
+_	_	_	O
+감사하	감사하	VV	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## 지난 7년간 잘 지냈던 선배들, 후배들도 고맙다.
+## 지난 <7년간:DUR> 잘 지냈던 선배들, 후배들도 고맙다.
+지난	지나+ㄴ	VV+ETM	O
+_	_	_	O
+7	7	SN	B-DUR
+년	년	NNB	I-DUR
+간	간	XSN	I-DUR
+_	_	_	O
+잘	잘	MAG	O
+_	_	_	O
+지냈	지내+었	VV+EP	O
+던	던	ETM	O
+_	_	_	O
+선배	선배	NNG	O
+들	들	XSN	O
+,	,	SP	O
+_	_	_	O
+후배	후배	NNG	O
+들	들	XSN	O
+도	도	JX	O
+_	_	_	O
+고맙	고맙	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 14
+## 김수용, 얼떨결에 결혼식 발표?…“부모님 허락 받았어요”
+## <김수용:PER>, 얼떨결에 결혼식 발표?…“부모님 허락 받았어요”
+김수용	김수용	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+얼떨결	얼떨결	NNG	O
+에	에	JKB	O
+_	_	_	O
+결혼식	결혼식	NNG	O
+_	_	_	O
+발표	발표	NNG	O
+?	?	SF	O
+…	…	SE	O
+“	“	SS	O
+부모님	부모님	NNG	O
+_	_	_	O
+허락	허락	NNG	O
+_	_	_	O
+받	받	VV	O
+았	았	EP	O
+어요	어요	EF	O
+”	”	SS	O
+
+## 15
+## 그런데도 사흘 전 유승민 원내대표는 “법인세 인상 문제에 대해 토론이 필요하다”고 밝혀 새정치연합에 법인세 연계의 빌미를 제공한 측면이 없지 않다.
+## 그런데도 사흘 전 <유승민:PER> 원내대표는 “법인세 인상 문제에 대해 토론이 필요하다”고 밝혀 새정치연합에 법인세 연계의 빌미를 제공한 측면이 없지 않다.
+그런데	그런데	MAJ	O
+도	도	JX	O
+_	_	_	O
+사흘	사흘	NNG	O
+_	_	_	O
+전	전	NNG	O
+_	_	_	O
+유승민	유승민	NNP	B-PER
+_	_	_	O
+원내	원내	NNG	O
+대표	대표	NNG	O
+는	는	JX	O
+_	_	_	O
+“	“	SS	O
+법인세	법인세	NNG	O
+_	_	_	O
+인상	인상	NNG	O
+_	_	_	O
+문제	문제	NNG	O
+에	에	JKB	O
+_	_	_	O
+대해	대하+여	VV+EC	O
+_	_	_	O
+토론	토론	NNG	O
+이	이	JKS	O
+_	_	_	O
+필요하	필요하	VA	O
+다	다	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+밝혀	밝히+어	VV+EC	O
+_	_	_	O
+새정치연합	새정치연합	NNP	O
+에	에	JKB	O
+_	_	_	O
+법인세	법인세	NNG	O
+_	_	_	O
+연계	연계	NNG	O
+의	의	JKG	O
+_	_	_	O
+빌미	빌미	NNG	O
+를	를	JKO	O
+_	_	_	O
+제공한	제공하+ㄴ	VV+ETM	O
+_	_	_	O
+측면	측면	NNG	O
+이	이	JKS	O
+_	_	_	O
+없	없	VA	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+다	다	EF	O
+.	.	SF	O
+

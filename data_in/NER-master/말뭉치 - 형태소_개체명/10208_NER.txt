@@ -1,0 +1,522 @@
+## 1
+## 한자는 세 나라의 지적·문화적 소통을 가능케 하는 연결고리다.
+## 한자는 <세 나라:NOH>의 지적·문화적 소통을 가능케 하는 연결고리다.
+한자	한자	NNG	O
+는	는	JX	O
+_	_	_	O
+세	세	MM	B-NOH
+_	_	_	I-NOH
+나라	나라	NNG	I-NOH
+의	의	JKG	O
+_	_	_	O
+지적	지적	NNG	O
+·	·	SP	O
+문화적	문화적	NNG	O
+_	_	_	O
+소통	소통	NNG	O
+을	을	JKO	O
+_	_	_	O
+가능	가능하	VA	O
+케	게	EC	O
+_	_	_	O
+하	하	VX	O
+는	는	ETM	O
+_	_	_	O
+연결	연결	NNG	O
+고리	고리	NNG	O
+다	다	NNG	O
+.	.	SF	O
+
+## 2
+## 이 승리로 유희관은 4월 22일 목동 넥센전 이후 4연승을 달리며 시즌 5승(1패)을 수확해 SK 김광현과 함께 다승 공동선두로 올라섰다.
+## 이 승리로 <유희관:PER>은 <4월 22일:DAT> <목동:LOC> <넥센:ORG>전 이후 <4연승:NOH>을 달리며 시즌 <5승:NOH>(<1패:NOH>)을 수확해 <SK:ORG> <김광현:PER>과 함께 다승 공동선두로 올라섰다.
+이	이	MM	O
+_	_	_	O
+승리	승리	NNG	O
+로	로	JKB	O
+_	_	_	O
+유희관	유희관	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+4	4	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	I-DAT
+22	22	SN	I-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+목동	목동	NNP	B-LOC
+_	_	_	O
+넥센	넥센	NNP	B-ORG
+전	전	XSN	O
+_	_	_	O
+이후	이후	NNG	O
+_	_	_	O
+4	4	SN	B-NOH
+연승	연승	NNG	I-NOH
+을	을	JKO	O
+_	_	_	O
+달리	달리	VV	O
+며	며	EC	O
+_	_	_	O
+시즌	시즌	NNG	O
+_	_	_	O
+5	5	SN	B-NOH
+승	승	NNB	I-NOH
+(	(	SS	O
+1	1	SN	B-NOH
+패	패	NNB	I-NOH
+)	)	SS	O
+을	을	JKO	O
+_	_	_	O
+수확해	수확하+여	VV+EC	O
+_	_	_	O
+SK	SK	SL	B-ORG
+_	_	_	O
+김광현	김광현	NNP	B-PER
+과	과	JKB	O
+_	_	_	O
+함께	함께	MAG	O
+_	_	_	O
+다승	다승	NNG	O
+_	_	_	O
+공동	공동	NNG	O
+선두	선두	NNG	O
+로	로	JKB	O
+_	_	_	O
+올라섰	올라서+었	VV+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 지드래곤 키코, ‘다시 만나는 일 없을 것’…두 사람 SNS에는 ‘심경 고백?’
+## <지드래곤:PER> <키코:PER>, ‘다시 만나는 일 없을 것’…<두 사람:NOH> SNS에는 ‘심경 고백?’
+지드래곤	지드래곤	NNP	B-PER
+_	_	_	O
+키코	키코	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+‘	‘	SS	O
+다시	다시	MAG	O
+_	_	_	O
+만나	만나	VV	O
+는	는	ETM	O
+_	_	_	O
+일	일	NNG	O
+_	_	_	O
+없	없	VA	O
+을	을	ETM	O
+_	_	_	O
+것	것	NNB	O
+’	’	SS	O
+…	…	SE	O
+두	두	MM	B-NOH
+_	_	_	I-NOH
+사람	사람	NNG	I-NOH
+_	_	_	O
+SNS	SNS	SL	O
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+‘	‘	SS	O
+심경	심경	NNP	O
+_	_	_	O
+고백	고백	NNG	O
+?	?	SF	O
+’	’	SS	O
+
+## 4
+## 추석 연휴 전후를 포함해 이 기간 교통사고가 가장 많이 발생하는 날은 ‘연휴 시작 전날’인 것으로 조사됐다.
+## <추석:DAT> 연휴 전후를 포함해 이 기간 교통사고가 가장 많이 발생하는 날은 ‘연휴 시작 전날’인 것으로 조사됐다.
+추석	추석	NNG	B-DAT
+_	_	_	O
+연휴	연휴	NNG	O
+_	_	_	O
+전후	전후	NNG	O
+를	를	JKO	O
+_	_	_	O
+포함해	포함하+여	VV+EC	O
+_	_	_	O
+이	이	MM	O
+_	_	_	O
+기간	기간	NNG	O
+_	_	_	O
+교통사고	교통사고	NNG	O
+가	가	JKS	O
+_	_	_	O
+가장	가장	MAG	O
+_	_	_	O
+많이	많이	MAG	O
+_	_	_	O
+발생하	발생하	VV	O
+는	는	ETM	O
+_	_	_	O
+날	날	NNG	O
+은	은	JX	O
+_	_	_	O
+‘	‘	SS	O
+연휴	연휴	NNG	O
+_	_	_	O
+시작	시작	NNG	O
+_	_	_	O
+전날	전날	NNG	O
+’	’	SS	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+것	것	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+조사	조사되	VV	O
+됐	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 최근 5년 추석 연휴기간 발생한 교통사고 분석 결과에 따르면, 귀성차량이 늘기 시작하는 연휴 시작 전날에 교통사고가 가장 많았다.
+## 최근 <5년:NOH> <추석:DAT> 연휴기간 발생한 교통사고 분석 결과에 따르면, 귀성차량이 늘기 시작하는 연휴 시작 전날에 교통사고가 가장 많았다.
+최근	최근	NNG	O
+_	_	_	O
+5	5	SN	B-NOH
+년	년	NNB	I-NOH
+_	_	_	O
+추석	추석	NNG	B-DAT
+_	_	_	O
+연휴	연휴	NNG	O
+기간	기간	NNG	O
+_	_	_	O
+발생한	발생하+ㄴ	VV+ETM	O
+_	_	_	O
+교통	교통	NNG	O
+사고	사고	NNG	O
+_	_	_	O
+분석	분석	NNG	O
+_	_	_	O
+결과	결과	NNG	O
+에	에	JKB	O
+_	_	_	O
+따르	따르	VV	O
+면	면	EC	O
+,	,	SP	O
+_	_	_	O
+귀성	귀성	NNG	O
+차량	차량	NNG	O
+이	이	JKS	O
+_	_	_	O
+늘	늘	VV	O
+기	기	ETN	O
+_	_	_	O
+시작하	시작하	VV	O
+는	는	ETM	O
+_	_	_	O
+연휴	연휴	NNG	O
+_	_	_	O
+시작	시작	NNG	O
+_	_	_	O
+전날	전날	NNG	O
+에	에	JKB	O
+_	_	_	O
+교통사고	교통사고	NNG	O
+가	가	JKS	O
+_	_	_	O
+가장	가장	MAG	O
+_	_	_	O
+많	많	VA	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 연휴 전날은 5년 간 교통사고가 평균 815건으로 가장 많았다.
+## 연휴 전날은 <5년 간:DUR> 교통사고가 평균 <815건:NOH>으로 가장 많았다.
+연휴	연휴	NNG	O
+_	_	_	O
+전날	전날	NNG	O
+은	은	JX	O
+_	_	_	O
+5	5	SN	B-DUR
+년	년	NNB	I-DUR
+_	_	_	I-DUR
+간	간	XSN	I-DUR
+_	_	_	O
+교통사고	교통사고	NNG	O
+가	가	JKS	O
+_	_	_	O
+평균	평균	NNG	O
+_	_	_	O
+815	815	SN	B-NOH
+건	건	NNB	I-NOH
+으로	으로	JKB	O
+_	_	_	O
+가장	가장	MAG	O
+_	_	_	O
+많	많	VA	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 아텐이란 유일신을 숭배하던 그는 새 수도 아케타텐을 설립하고 자신의 이름을 아케나텐으로 바꾼다.
+## <아텐:PER>이란 유일신을 숭배하던 그는 새 수도 <아케타텐:LOC>을 설립하고 자신의 이름을 <아케나텐:PER>으로 바꾼다.
+아텐	아텐	NNP	B-PER
+이란	이란	JX	O
+_	_	_	O
+유일신	유일신	NNG	O
+을	을	JKO	O
+_	_	_	O
+숭배하	숭배하	VV	O
+던	던	ETM	O
+_	_	_	O
+그	그	NP	O
+는	는	JX	O
+_	_	_	O
+새	새	MM	O
+_	_	_	O
+수도	수도	NNG	O
+_	_	_	O
+아	아+하	XSN+XSV	B-LOC
+케	게	EC	I-LOC
+타	타	NNG	I-LOC
+텐	텐	NNG	I-LOC
+을	을	JKO	O
+_	_	_	O
+설립하	설립하	VV	O
+고	고	EC	O
+_	_	_	O
+자신	자신	NNG	O
+의	의	JKG	O
+_	_	_	O
+이름	이름	NNG	O
+을	을	JKO	O
+_	_	_	O
+아	아	XSN	B-PER
+케나	케나	NNG	I-PER
+텐	텐	NNG	I-PER
+으로	으로	JKB	O
+_	_	_	O
+바꾼다	바꾸+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 8
+## 또 ‘최씨가 박 전 대통령을 걱정하냐’는 질문에 ”(박 전 대통령이) 제일 힘든 시기이니 그렇다“고 답했다.
+## 또 ‘<최:PER>씨가 <박:PER> 전 대통령을 걱정하냐’는 질문에 ”(<박:PER> 전 대통령이) 제일 힘든 시기이니 그렇다“고 답했다.
+또	또	MAG	O
+_	_	_	O
+‘	‘	SS	O
+최	최	NNP	B-PER
+씨	씨	NNB	O
+가	가	JKS	O
+_	_	_	O
+박	박	NNP	B-PER
+_	_	_	O
+전	전	MM	O
+_	_	_	O
+대통령	대통령	NNG	O
+을	을	JKO	O
+_	_	_	O
+걱정하	걱정하	VV	O
+냐	냐	EF	O
+’	’	SS	O
+는	는	JX	O
+_	_	_	O
+질문	질문	NNG	O
+에	에	JKB	O
+_	_	_	O
+”	”	SS	O
+(	(	SS	O
+박	박	NNP	B-PER
+_	_	_	O
+전	전	MM	O
+_	_	_	O
+대통령	대통령	NNG	O
+이	이	JKS	O
+)	)	SS	O
+_	_	_	O
+제일	제일	MAG	O
+_	_	_	O
+힘든	힘들+ㄴ	VA+ETM	O
+_	_	_	O
+시기	시기	NNG	O
+이	이	VCP	O
+니	니	EC	O
+_	_	_	O
+그렇	그렇	VA	O
+다	다	EF	O
+“	“	SS	O
+고	고	JKQ	O
+_	_	_	O
+답	답하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## (서울=뉴스1)
+## (<서울:LOC>=뉴스1)
+(	(	SS	O
+서울	서울	NNP	B-LOC
+=	=	SW	O
+뉴스	뉴스	NNG	O
+1	1	SN	O
+)	)	SS	O
+
+## 10
+## 리지 트로트 가수 데뷔, ‘쉬운여자 아니에요’ 전국노래자랑 무대 기대
+## <리지:PER> 트로트 가수 데뷔, ‘<쉬운여자 아니에요:POH>’ 전국노래자랑 무대 기대
+리지	리지	NNP	B-PER
+_	_	_	O
+트로트	트로트	NNG	O
+_	_	_	O
+가수	가수	NNG	O
+_	_	_	O
+데뷔	데뷔	NNG	O
+,	,	SP	O
+_	_	_	O
+‘	‘	SS	O
+쉬운	쉽+ㄴ	VA+ETM	B-POH
+여자	여자	NNG	I-POH
+_	_	_	I-POH
+아니	아니	VCN	I-POH
+에요	에요	EF	I-POH
+’	’	SS	O
+_	_	_	O
+전국노래자랑	전국노래자랑	NNP	O
+_	_	_	O
+무대	무대	NNG	O
+_	_	_	O
+기대	기대	NNG	O
+
+## 11
+## 한편, 신주아는 14일 방송된 tvN ‘현장토크쇼 택시’에서 태국 신혼집을 공개했다.
+## 한편, <신주아:LOC>는 <14일:DAT> 방송된 <tvN:POH> ‘<현장토크쇼 택시:POH>’에서 <태국:LOC> 신혼집을 공개했다.
+한편	한편	NNG	O
+,	,	SP	O
+_	_	_	O
+신주	신주	NNG	B-LOC
+아	알	VV	I-LOC
+는	는	ETM	O
+_	_	_	O
+14	14	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+방송된	방송되+ㄴ	VV+ETM	O
+_	_	_	O
+tvN	tvN	SL	B-POH
+_	_	_	O
+‘	‘	SS	O
+현장	현장	NNG	B-POH
+토크쇼	토크쇼	NNG	I-POH
+_	_	_	I-POH
+택시	택시	NNG	I-POH
+’	’	SS	O
+에서	에서	JKB	O
+_	_	_	O
+태국	태국	NNP	B-LOC
+_	_	_	O
+신혼집	신혼집	NNG	O
+을	을	JKO	O
+_	_	_	O
+공개	공개하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 3월 구 대한체육회와 국민생활체육회의 통합 이후 체육계의 관심사는 한국 체육행정을 이끌어갈 통합체육회의 수장이 누가 될지로 모아졌고, 2016리우데자네이루올림픽 이후 뜨거운 선거전이 펼쳐질 것으로 예상됐다.
+## <3월:DAT> 구 <대한체육회:ORG>와 <국민생활체육회:ORG>의 통합 이후 체육계의 관심사는 <한국:ORG> 체육행정을 이끌어갈 <통합체육회:ORG>의 수장이 누가 될지로 모아졌고, <2016:DAT><리우데자네이루올림픽:POH> 이후 뜨거운 선거전이 펼쳐질 것으로 예상됐다.
+3	3	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+구	구	NNG	O
+_	_	_	O
+대한체육회	대한체육회	NNP	B-ORG
+와	와	JC	O
+_	_	_	O
+국민	국민	NNG	B-ORG
+생활	생활	NNG	I-ORG
+체육	체육	NNG	I-ORG
+회의	회의	NNG	O
+_	_	_	O
+통합	통합	NNG	O
+_	_	_	O
+이후	이후	NNG	O
+_	_	_	O
+체육계	체육계	NNG	O
+의	의	JKG	O
+_	_	_	O
+관심사	관심사	NNG	O
+는	는	JX	O
+_	_	_	O
+한국	한국	NNP	B-ORG
+_	_	_	O
+체육	체육	NNG	O
+행정	행정	NNG	O
+을	을	JKO	O
+_	_	_	O
+이끌	이끌	VV	O
+어	어	EC	O
+갈	가+ㄹ	VX+ETM	O
+_	_	_	O
+통합	통합	NNG	B-ORG
+체육회	체육회	NNG	I-ORG
+의	의	JKG	O
+_	_	_	O
+수장	수장	NNG	O
+이	이	JKS	O
+_	_	_	O
+누	누구	NP	O
+가	가	JKC	O
+_	_	_	O
+될지	되+ㄹ지	VV+EC	O
+로	로	JKB	O
+_	_	_	O
+모	모으	VV	O
+아	어+지	EC+VX	O
+졌	었	EP	O
+고	고	EC	O
+,	,	SP	O
+_	_	_	O
+2016	2016	SN	B-DAT
+리우데자네이루	리우데자네이루	NNP	B-POH
+올림픽	올림픽	NNG	I-POH
+_	_	_	O
+이후	이후	NNG	O
+_	_	_	O
+뜨거	뜨겁	VA	O
+운	ㄴ	ETM	O
+_	_	_	O
+선거전	선거전	NNG	O
+이	이	JKS	O
+_	_	_	O
+펼쳐질	펼쳐지+ㄹ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+예상	예상되	VV	O
+됐	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## 통계청의 2015년 가족실태조사도 이를 잘 보여준다.
+## <통계청:ORG>의 <2015년:DAT> 가족실태조사도 이를 잘 보여준다.
+통계청	통계청	NNG	B-ORG
+의	의	JKG	O
+_	_	_	O
+2015	2015	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+가족	가족	NNG	O
+실태	실태	NNG	O
+조사	조사	NNG	O
+도	도	JX	O
+_	_	_	O
+이	이	NP	O
+를	를	JKO	O
+_	_	_	O
+잘	잘	MAG	O
+_	_	_	O
+보	보이	VV	O
+여	어	EC	O
+준다	주+ㄴ다	VX+EF	O
+.	.	SF	O
+

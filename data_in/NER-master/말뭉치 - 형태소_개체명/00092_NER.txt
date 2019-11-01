@@ -1,0 +1,645 @@
+## 1
+## 중앙에서 지역 갈등만 부추길 게 아니라 이제 부산과 대구가 상생할 방안을 마련해야 합니다.
+## 중앙에서 지역 갈등만 부추길 게 아니라 이제 <부산:LOC>과 <대구:LOC>가 상생할 방안을 마련해야 합니다.
+중앙	중앙	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+지역	지역	NNG	O
+_	_	_	O
+갈등	갈등	NNG	O
+만	만	JX	O
+_	_	_	O
+부추길	부추기+ㄹ	VV+ETM	O
+_	_	_	O
+게	것+이	NNB+JKC	O
+_	_	_	O
+아니	아니	VCN	O
+라	라	EC	O
+_	_	_	O
+이제	이제	MAG	O
+_	_	_	O
+부산	부산	NNP	B-LOC
+과	과	JC	O
+_	_	_	O
+대구	대구	NNP	B-LOC
+가	가	JKS	O
+_	_	_	O
+상생할	상생하+ㄹ	VV+ETM	O
+_	_	_	O
+방안	방안	NNG	O
+을	을	JKO	O
+_	_	_	O
+마련해야	마련하+여야	VV+EC	O
+_	_	_	O
+합니다	하+ㅂ니다	VX+EF	O
+.	.	SF	O
+
+## 2
+## 식당 입구에서 멀지 않은 곳에는 작은 한국 상점이 있다.
+## 식당 입구에서 멀지 않은 곳에는 작은 <한국:ORG> 상점이 있다.
+식당	식당	NNG	O
+_	_	_	O
+입구	입구	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+멀	멀	VA	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+은	은	ETM	O
+_	_	_	O
+곳	곳	NNG	O
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+작	작	VA	O
+은	은	ETM	O
+_	_	_	O
+한국	한국	NNP	B-ORG
+_	_	_	O
+상점	상점	NNG	O
+이	이	JKS	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 이 때문에 프리우스는 패밀리카라기보다는 운행이 많은 소수가 타는 차로 많이 쓰였다.
+## 이 때문에 <프리우스:POH>는 패밀리카라기보다는 운행이 많은 소수가 타는 차로 많이 쓰였다.
+이	이	MM	O
+_	_	_	O
+때문	때문	NNB	O
+에	에	JKB	O
+_	_	_	O
+프리	프리	NNG	B-POH
+우스	우스	NNP	I-POH
+는	는	JX	O
+_	_	_	O
+패밀리	패밀리	NNG	O
+카	카+이	NNG+VCP	O
+라기	라기	ETN	O
+보다	보다	JKB	O
+는	는	JX	O
+_	_	_	O
+운행	운행	NNG	O
+이	이	JKS	O
+_	_	_	O
+많	많	VA	O
+은	은	ETM	O
+_	_	_	O
+소수	소수	NNG	O
+가	가	JKS	O
+_	_	_	O
+타	타	VV	O
+는	는	ETM	O
+_	_	_	O
+차	차	NNG	O
+로	로	JKB	O
+_	_	_	O
+많이	많이	MAG	O
+_	_	_	O
+쓰	쓰이	VV	O
+였	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## ‘무한도전’ 광희 막내 고충 토로…윤태호 “자기 고민에 대한 디테일 없다”
+## ‘<무한도전:POH>’ <광희:PER> 막내 고충 토로…<윤태호:PER> “자기 고민에 대한 디테일 없다”
+‘	‘	SS	O
+무한도전	무한도전	NNP	B-POH
+’	’	SS	O
+_	_	_	O
+광희	광희	NNP	B-PER
+_	_	_	O
+막내	막내	NNG	O
+_	_	_	O
+고충	고충	NNG	O
+_	_	_	O
+토로	토로	NNG	O
+…	…	SE	O
+윤태호	윤태호	NNP	B-PER
+_	_	_	O
+“	“	SS	O
+자기	자기	NP	O
+_	_	_	O
+고민	고민	NNG	O
+에	에	JKB	O
+_	_	_	O
+대한	대하+ㄴ	VV+ETM	O
+_	_	_	O
+디테일	디테일	NNG	O
+_	_	_	O
+없	없	VA	O
+다	다	EF	O
+”	”	SS	O
+
+## 5
+## 최 씨는 주인공과 비슷한 고민을 하는 청소년들을 향해 “그래도 집에 틀어박혀 있으면 안 된다.
+## <최:PER> 씨는 주인공과 비슷한 고민을 하는 청소년들을 향해 “그래도 집에 틀어박혀 있으면 안 된다.
+최	최	NNP	B-PER
+_	_	_	O
+씨	씨	NNB	O
+는	는	JX	O
+_	_	_	O
+주인공	주인공	NNG	O
+과	과	JKB	O
+_	_	_	O
+비슷한	비슷하+ㄴ	VA+ETM	O
+_	_	_	O
+고민	고민	NNG	O
+을	을	JKO	O
+_	_	_	O
+하	하	VV	O
+는	는	ETM	O
+_	_	_	O
+청소년	청소년	NNG	O
+들	들	XSN	O
+을	을	JKO	O
+_	_	_	O
+향해	향하+여	VV+EC	O
+_	_	_	O
+“	“	SS	O
+그래도	그리하+여도	VV+EC	O
+_	_	_	O
+집	집	NNG	O
+에	에	JKB	O
+_	_	_	O
+틀어박혀	틀어박히+어	VV+EC	O
+_	_	_	O
+있	있	VX	O
+으면	으면	EC	O
+_	_	_	O
+안	안	MAG	O
+_	_	_	O
+된다	되+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 6
+## 정부는 곧 ‘이란 교역 및 투자지원센터’(가칭)를 설치해 이란과 교역을 원하는 국내 기업을 지원할 예정이다.
+## 정부는 곧 ‘<이란 교역 및 투자지원센터:ORG>’(가칭)를 설치해 <이란:ORG>과 교역을 원하는 국내 기업을 지원할 예정이다.
+정부	정부	NNG	O
+는	는	JX	O
+_	_	_	O
+곧	곧	MAG	O
+_	_	_	O
+‘	‘	SS	O
+이	이	VCP	B-ORG
+란	란	ETM	I-ORG
+_	_	_	I-ORG
+교역	교역	NNG	I-ORG
+_	_	_	I-ORG
+및	및	MAG	I-ORG
+_	_	_	I-ORG
+투자	투자	NNG	I-ORG
+지원	지원	NNG	I-ORG
+센터	센터	NNG	I-ORG
+’	’	SS	O
+(	(	SS	O
+가칭	가칭	NNG	O
+)	)	SS	O
+를	를	JKO	O
+_	_	_	O
+설치해	설치하+여	VV+EC	O
+_	_	_	O
+이란	이란	NNP	B-ORG
+과	과	JKB	O
+_	_	_	O
+교역	교역	NNG	O
+을	을	JKO	O
+_	_	_	O
+원하	원하	VV	O
+는	는	ETM	O
+_	_	_	O
+국내	국내	NNG	O
+_	_	_	O
+기업	기업	NNG	O
+을	을	JKO	O
+_	_	_	O
+지원할	지원하+ㄹ	VV+ETM	O
+_	_	_	O
+예정	예정	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 이란에 대한 경제 제재가 풀리긴 했지만 주의해야할 점도 있다.
+## <이란:ORG>에 대한 경제 제재가 풀리긴 했지만 주의해야할 점도 있다.
+이란	이란	NNP	B-ORG
+에	에	JKB	O
+_	_	_	O
+대한	대하+ㄴ	VV+ETM	O
+_	_	_	O
+경제	경제	NNG	O
+_	_	_	O
+제재	제재	NNG	O
+가	가	JKS	O
+_	_	_	O
+풀리	풀리	VV	O
+긴	기+ㄴ	ETN+JX	O
+_	_	_	O
+했	+였	+EP	O
+지만	지만	EC	O
+_	_	_	O
+주의해야	주의하+여야	VV+EC	O
+할	하+ㄹ	VX+ETM	O
+_	_	_	O
+점	점	NNG	O
+도	도	JX	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 남녀 스트로크 1위에게는 150만 원 상당의 아이언세트, 남녀 스트로크 2, 3위에게는 각각 타이틀리스트 915D2 드라이버와 스카티카메론 퓨츄라 X7 퍼터를 증정한다.
+## 남녀 스트로크 <1위:NOH>에게는 <150만 원:MNY> 상당의 아이언세트, 남녀 스트로크 <2:NOH>, <3위:NOH>에게는 각각 <타이틀리스트 915D2:POH> 드라이버와 <스카티카메론 퓨츄라 X7:POH> 퍼터를 증정한다.
+남녀	남녀	NNG	O
+_	_	_	O
+스트로크	스트로크	NNG	O
+_	_	_	O
+1	1	SN	B-NOH
+위	위	NNB	I-NOH
+에게	에게	JKB	O
+는	는	JX	O
+_	_	_	O
+150	150	SN	B-MNY
+만	만	NR	I-MNY
+_	_	_	I-MNY
+원	원	NNB	I-MNY
+_	_	_	O
+상당	상당	NNG	O
+의	의	JKG	O
+_	_	_	O
+아이언	아이언	NNG	O
+세트	세트	NNG	O
+,	,	SP	O
+_	_	_	O
+남녀	남녀	NNG	O
+_	_	_	O
+스트로크	스트로크	NNG	O
+_	_	_	O
+2	2	SN	B-NOH
+,	,	SP	O
+_	_	_	O
+3	3	SN	B-NOH
+위	위	NNB	I-NOH
+에게	에게	JKB	O
+는	는	JX	O
+_	_	_	O
+각각	각각	MAG	O
+_	_	_	O
+타이틀	타이틀	NNG	B-POH
+리스트	리스트	NNG	I-POH
+_	_	_	I-POH
+915	915	SN	I-POH
+D	D	SL	I-POH
+2	2	SN	I-POH
+_	_	_	O
+드라이버	드라이버	NNG	O
+와	와	JC	O
+_	_	_	O
+스카티	스카티	NNP	B-POH
+카메론	카메론	NNP	I-POH
+_	_	_	I-POH
+퓨츄	퓨츄+이	NNG+VCP	I-POH
+라	라	EC	I-POH
+_	_	_	I-POH
+X	X	SL	I-POH
+7	7	SN	I-POH
+_	_	_	O
+퍼터	퍼터	NNG	O
+를	를	JKO	O
+_	_	_	O
+증정한다	증정하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 9
+## 아브라모피치는 한 독일 매체와의 인터뷰에서 "아이를 갖는 것이 예술 활동에 방해돼 낙태를 3번 받았다"고 말했다.
+## <아브라모피치:PER>는 한 <독일:LOC> 매체와의 인터뷰에서 "아이를 갖는 것이 예술 활동에 방해돼 낙태를 <3번:NOH> 받았다"고 말했다.
+아브라	아브라	NNG	B-PER
+모	모	NNB	I-PER
+피치	피치	NNP	I-PER
+는	는	JX	O
+_	_	_	O
+한	한	MM	O
+_	_	_	O
+독일	독일	NNP	B-LOC
+_	_	_	O
+매체	매체	NNG	O
+와	와	JKB	O
+의	의	JKG	O
+_	_	_	O
+인터뷰	인터뷰	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+"	"	SS	O
+아이	아이	NNG	O
+를	를	JKO	O
+_	_	_	O
+갖	갖	VV	O
+는	는	ETM	O
+_	_	_	O
+것	것	NNB	O
+이	이	JKS	O
+_	_	_	O
+예술	예술	NNG	O
+_	_	_	O
+활동	활동	NNG	O
+에	에	JKB	O
+_	_	_	O
+방해돼	방해되+어	VV+EC	O
+_	_	_	O
+낙태	낙태	NNG	O
+를	를	JKO	O
+_	_	_	O
+3	3	SN	B-NOH
+번	번	NNB	I-NOH
+_	_	_	O
+받	받	VV	O
+았	았	EP	O
+다	다	EF	O
+"	"	SS	O
+고	고	JKQ	O
+_	_	_	O
+말	말하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 대사관 직접 주최 ‘뉴질랜드 교육박람회’서 유학정보 얻자
+## 대사관 직접 주최 ‘<뉴질랜드 교육박람회:POH>’서 유학정보 얻자
+대사관	대사관	NNG	O
+_	_	_	O
+직접	직접	MAG	O
+_	_	_	O
+주최	주최	NNG	O
+_	_	_	O
+‘	‘	SS	O
+뉴질랜드	뉴질랜드	NNP	B-POH
+_	_	_	I-POH
+교육	교육	NNG	I-POH
+박람회	박람회	NNG	I-POH
+’	’	SS	O
+서	서	JKB	O
+_	_	_	O
+유학	유학	NNG	O
+정보	정보	NNG	O
+_	_	_	O
+얻	얻	VV	O
+자	자	EC	O
+
+## 11
+## 좌측 폴을 살짝 비켜가는 홈런성 타구를 포함해 두 차례 파울홈런을 날렸다.
+## 좌측 폴을 살짝 비켜가는 홈런성 타구를 포함해 <두 차례:NOH> 파울홈런을 날렸다.
+좌측	좌측	NNG	O
+_	_	_	O
+폴	폴	NNG	O
+을	을	JKO	O
+_	_	_	O
+살짝	살짝	MAG	O
+_	_	_	O
+비켜	비키+어	VV+EC	O
+가	가	VV	O
+는	는	ETM	O
+_	_	_	O
+홈런	홈런	NNG	O
+성	성	XSN	O
+_	_	_	O
+타구	타구	NNG	O
+를	를	JKO	O
+_	_	_	O
+포함해	포함하+여	VV+EC	O
+_	_	_	O
+두	두	MM	B-NOH
+_	_	_	I-NOH
+차례	차례	NNG	I-NOH
+_	_	_	O
+파울	파울	NNG	O
+홈런	홈런	NNG	O
+을	을	JKO	O
+_	_	_	O
+날	날리	VV	O
+렸	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 원유철 “비 올때마다 우산 빌리나” 핵무장 주장했지만 현실성 낮아
+## <원유철:PER> “비 올때마다 우산 빌리나” 핵무장 주장했지만 현실성 낮아
+원유철	원유철	NNP	B-PER
+_	_	_	O
+“	“	SS	O
+비	비	NNG	O
+_	_	_	O
+올	오+ㄹ	VV+ETM	O
+때	때	NNG	O
+마다	마다	JX	O
+_	_	_	O
+우산	우산	NNG	O
+_	_	_	O
+빌리나	빌리나	NNG	O
+”	”	SS	O
+_	_	_	O
+핵무장	핵무장	NNG	O
+_	_	_	O
+주장	주장하	VV	O
+했	였	EP	O
+지만	지만	EC	O
+_	_	_	O
+현실성	현실성	NNG	O
+_	_	_	O
+낮	낮	VA	O
+아	아	EC	O
+
+## 13
+## 유 총장은 “이를 가능케 하는 우리 학교의 다양한 역량이 있으나 우리 학교가 예수회 신부님들이 설립한 예수회 소속 대학이라는 점을 이야기하고 싶다”고 말했다.
+## <유:PER> 총장은 “이를 가능케 하는 우리 학교의 다양한 역량이 있으나 우리 학교가 예수회 신부님들이 설립한 예수회 소속 대학이라는 점을 이야기하고 싶다”고 말했다.
+유	유	NNP	B-PER
+_	_	_	O
+총장	총장	NNG	O
+은	은	JX	O
+_	_	_	O
+“	“	SS	O
+이	이	NP	O
+를	를	JKO	O
+_	_	_	O
+가능	가능하	VA	O
+케	게	EC	O
+_	_	_	O
+하	하	VX	O
+는	는	ETM	O
+_	_	_	O
+우리	우리	NP	O
+_	_	_	O
+학교	학교	NNG	O
+의	의	JKG	O
+_	_	_	O
+다양한	다양하+ㄴ	VA+ETM	O
+_	_	_	O
+역량	역량	NNG	O
+이	이	JKS	O
+_	_	_	O
+있	있	VA	O
+으나	으나	EC	O
+_	_	_	O
+우리	우리	NP	O
+_	_	_	O
+학교	학교	NNG	O
+가	가	JKS	O
+_	_	_	O
+예수회	예수회	NNP	O
+_	_	_	O
+신부	신부	NNG	O
+님	님	XSN	O
+들	들	XSN	O
+이	이	JKS	O
+_	_	_	O
+설립한	설립하+ㄴ	VV+ETM	O
+_	_	_	O
+예수회	예수회	NNG	O
+_	_	_	O
+소속	소속	NNG	O
+_	_	_	O
+대학	대학	NNG	O
+이	이	VCP	O
+라는	라는	ETM	O
+_	_	_	O
+점	점	NNG	O
+을	을	JKO	O
+_	_	_	O
+이야기하	이야기하	VV	O
+고	고	EC	O
+_	_	_	O
+싶	싶	VX	O
+다	다	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+말	말하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 14
+## 하지만 축구팬은 6억 명에 이른다.
+## 하지만 축구팬은 <6억 명:NOH>에 이른다.
+하지만	하지만	MAJ	O
+_	_	_	O
+축구	축구	NNG	O
+팬	팬	NNG	O
+은	은	JX	O
+_	_	_	O
+6	6	SN	B-NOH
+억	억	NR	I-NOH
+_	_	_	I-NOH
+명	명	NNB	I-NOH
+에	에	JKB	O
+_	_	_	O
+이른다	이르+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 15
+## 이날 경기에서 암스트롱은 29.7km를 44분26초42에 주파하며 자신의 말이 틀리지 않았음을 증명했다.
+## 이날 경기에서 <암스트롱:PER>은 <29.7km:NOH>를 <44분26초42:TIM>에 주파하며 자신의 말이 틀리지 않았음을 증명했다.
+이날	이날	NNG	O
+_	_	_	O
+경기	경기	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+암스트롱	암스트롱	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+29.7	29.7	SN	B-NOH
+km	km	SL	I-NOH
+를	를	JKO	O
+_	_	_	O
+44	44	SN	B-TIM
+분	분	NNB	I-TIM
+26	26	SN	I-TIM
+초	초	NNB	I-TIM
+42	42	SN	I-TIM
+에	에	JKB	O
+_	_	_	O
+주파하	주파하	VV	O
+며	며	EC	O
+_	_	_	O
+자신	자신	NNG	O
+의	의	JKG	O
+_	_	_	O
+말	말	NNG	O
+이	이	JKS	O
+_	_	_	O
+틀리	틀리	VV	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+았	았	EP	O
+음	음	ETN	O
+을	을	JKO	O
+_	_	_	O
+증명	증명하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 16
+## 김한철 기보 이사장은 “실패했지만 우수한 기술력을 갖춘 성실한 실패자들이 다시 일어설 수 있도록 재기 지원에 적극적으로 나서겠다”고 말했다.
+## <김한철:PER> 기보 이사장은 “실패했지만 우수한 기술력을 갖춘 성실한 실패자들이 다시 일어설 수 있도록 재기 지원에 적극적으로 나서겠다”고 말했다.
+김한철	김한철	NNP	B-PER
+_	_	_	O
+기보	기보	NNG	O
+_	_	_	O
+이사장	이사장	NNG	O
+은	은	JX	O
+_	_	_	O
+“	“	SS	O
+실패	실패하	VV	O
+했	였	EP	O
+지만	지만	EC	O
+_	_	_	O
+우수한	우수하+ㄴ	VA+ETM	O
+_	_	_	O
+기술력	기술력	NNG	O
+을	을	JKO	O
+_	_	_	O
+갖춘	갖추+ㄴ	VV+ETM	O
+_	_	_	O
+성실한	성실하+ㄴ	VA+ETM	O
+_	_	_	O
+실패자	실패자	NNG	O
+들	들	XSN	O
+이	이	JKS	O
+_	_	_	O
+다시	다시	MAG	O
+_	_	_	O
+일어설	일어서+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+도록	도록	EC	O
+_	_	_	O
+재	재	VV	O
+기	기	ETN	O
+_	_	_	O
+지원	지원	NNG	O
+에	에	JKB	O
+_	_	_	O
+적극적	적극적	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+나서	나서	VV	O
+겠	겠	EP	O
+다	다	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+말	말하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+

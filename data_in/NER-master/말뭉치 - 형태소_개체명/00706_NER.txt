@@ -1,0 +1,506 @@
+## 1
+## 이중근 부영그룹 회장(사진)이 청년희망펀드에 10억 원을 기부했다.
+## <이중근:PER> <부영그룹:ORG> 회장(사진)이 <청년희망펀드:POH>에 <10억:MNY> 원을 기부했다.
+이중근	이중근	NNP	B-PER
+_	_	_	O
+부영	부영	NNP	B-ORG
+그룹	그룹	NNG	I-ORG
+_	_	_	O
+회장	회장	NNG	O
+(	(	SS	O
+사진	사진	NNG	O
+)	)	SS	O
+이	이	JKS	O
+_	_	_	O
+청년	청년	NNG	B-POH
+희망	희망	NNG	I-POH
+펀드	펀드	NNG	I-POH
+에	에	JKB	O
+_	_	_	O
+10	10	SN	B-MNY
+억	억	NR	I-MNY
+_	_	_	O
+원	원	NNB	O
+을	을	JKO	O
+_	_	_	O
+기부	기부하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 관광서 대통령 사진/「스마일 YS」로
+## 관광서 대통령 사진/「<스마일 YS:POH>」로
+관광	관광	NNG	O
+서	서	JKB	O
+_	_	_	O
+대통령	대통령	NNG	O
+_	_	_	O
+사진	사진	NNG	O
+/	/	SP	O
+「	「	SS	O
+스마일	스마일	NNG	B-POH
+_	_	_	I-POH
+YS	YS	SL	I-POH
+」	」	SS	O
+로	로	JKB	O
+
+## 3
+## 17. 拭目以待(식목이대): 눈을 비비며 간절히 기다리다.
+## <17:DAT>. 拭目以待(식목이대): 눈을 비비며 간절히 기다리다.
+17	17	SN	B-DAT
+.	.	SF	O
+_	_	_	O
+拭目以待	拭目以待	SH	O
+(	(	SS	O
+식목	식목	NNG	O
+이대	이대	NNP	O
+)	)	SS	O
+:	:	SP	O
+_	_	_	O
+눈	눈	NNG	O
+을	을	JKO	O
+_	_	_	O
+비비	비비	VV	O
+며	며	EC	O
+_	_	_	O
+간절히	간절히	MAG	O
+_	_	_	O
+기다리	기다리	VV	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 18. 请与x年x月给予答覆(청여x년x월급여답복) 모년 모월까지 답변을 달라. ☞ 경고한 날짜까지 희망하는 답변이 오지 않으면 전쟁 상태에 돌입할 수 있다.
+## <18:DAT>. 请与x年x月给予答覆(청여x년x월급여답복) 모년 모월까지 답변을 달라. ☞ 경고한 날짜까지 희망하는 답변이 오지 않으면 전쟁 상태에 돌입할 수 있다.
+18	18	SN	B-DAT
+.	.	SF	O
+_	_	_	O
+请与	请与	SH	O
+x	x	SL	O
+年	年	SH	O
+x	x	SL	O
+月给	月给	SH	O
+予答覆	予答覆	SH	O
+(	(	SS	O
+청	청	XSN	O
+여	여	NNG	O
+x	x	SL	O
+년	년	NNB	O
+x	x	SL	O
+월	월	NNG	O
+급여	급여	NNG	O
+답	답	NNG	O
+복	복	XPN	O
+)	)	SS	O
+_	_	_	O
+모년	모년	NNG	O
+_	_	_	O
+모월	모월	NNG	O
+까지	까지	JX	O
+_	_	_	O
+답변	답변	NNG	O
+을	을	JKO	O
+_	_	_	O
+달	다르	VA	O
+라	아	EF	O
+.	.	SF	O
+_	_	_	O
+☞	☞	SW	O
+_	_	_	O
+경고한	경고하+ㄴ	VV+ETM	O
+_	_	_	O
+날짜	날짜	NNG	O
+까지	까지	JX	O
+_	_	_	O
+희망하	희망하	VV	O
+는	는	ETM	O
+_	_	_	O
+답변	답변	NNG	O
+이	이	JKS	O
+_	_	_	O
+오	오	VV	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+으면	으면	EC	O
+_	_	_	O
+전쟁	전쟁	NNG	O
+_	_	_	O
+상태	상태	NNG	O
+에	에	JKB	O
+_	_	_	O
+돌입할	돌입하+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 19. 这是不友好的举动(저시불우호적거동): 이는 우호적인 행동이 아니다.
+## <19:NOH>. 这是不友好的举动(저시불우호적거동): 이는 우호적인 행동이 아니다.
+19	19	SN	B-NOH
+.	.	SF	O
+_	_	_	O
+这是不友好的举动	这是不友好的举动	SH	O
+(	(	SS	O
+저시	저시	NNG	O
+불	불	NNP	O
+우호적	우호적	NNG	O
+거동	거동	NNG	O
+)	)	SS	O
+:	:	SP	O
+_	_	_	O
+이	이	NP	O
+는	는	JX	O
+_	_	_	O
+우호적	우호적	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+행동	행동	NNG	O
+이	이	JKC	O
+_	_	_	O
+아니	아니	VCN	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 26일 박 대통령 대표 대리인인 이중석 변호사는 헌재에 전화를 걸어 “박 대통령이 27일 최종변론에 나오지 않기로 결정했다”고 밝혔다.
+## <26일:DAT> <박:PER> 대통령 대표 대리인인 <이중석:PER> 변호사는 헌재에 전화를 걸어 “<박:PER> 대통령이 <27일:DAT> 최종변론에 나오지 않기로 결정했다”고 밝혔다.
+26	26	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+박	박	NNP	B-PER
+_	_	_	O
+대통령	대통령	NNG	O
+_	_	_	O
+대표	대표	NNG	O
+_	_	_	O
+대리인	대리인	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+이중석	이중석	NNP	B-PER
+_	_	_	O
+변호사	변호사	NNG	O
+는	는	JX	O
+_	_	_	O
+헌재	헌재	NNG	O
+에	에	JKB	O
+_	_	_	O
+전화	전화	NNG	O
+를	를	JKO	O
+_	_	_	O
+걸	걸	VV	O
+어	어	EC	O
+_	_	_	O
+“	“	SS	O
+박	박	NNP	B-PER
+_	_	_	O
+대통령	대통령	NNG	O
+이	이	JKS	O
+_	_	_	O
+27	27	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+최종	최종	NNG	O
+변론	변론	NNG	O
+에	에	JKB	O
+_	_	_	O
+나오	나오	VV	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+기	기	ETN	O
+로	로	JKB	O
+_	_	_	O
+결정	결정하	VV	O
+했	였	EP	O
+다	다	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+밝	밝히	VV	O
+혔	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 20대 국회 임기 중에 대선이 있다.
+## <20대:NOH> 국회 임기 중에 대선이 있다.
+20	20	SN	B-NOH
+대	대	NNB	I-NOH
+_	_	_	O
+국회	국회	NNG	O
+_	_	_	O
+임기	임기	NNG	O
+_	_	_	O
+중	중	NNB	O
+에	에	JKB	O
+_	_	_	O
+대선	대선	NNG	O
+이	이	JKS	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 이에 따르면 응답자의 83%가 북한 핵무기개발이 동북아와 세계평화를 위협하는 것으로 봤으며 72%가 북한에 핵무기개발 포기를 요구해야 한다고 답했다.
+## 이에 따르면 응답자의 <83%:PNT>가 <북한:ORG> 핵무기개발이 <동북아:ORG>와 세계평화를 위협하는 것으로 봤으며 <72%:PNT>가 <북한:ORG>에 핵무기개발 포기를 요구해야 한다고 답했다.
+이	이	NP	O
+에	에	JKB	O
+_	_	_	O
+따르	따르	VV	O
+면	면	EC	O
+_	_	_	O
+응답자	응답자	NNG	O
+의	의	JKG	O
+_	_	_	O
+83	83	SN	B-PNT
+%	%	SW	I-PNT
+가	가	JKS	O
+_	_	_	O
+북한	북한	NNP	B-ORG
+_	_	_	O
+핵무기	핵무기	NNG	O
+개발	개발	NNG	O
+이	이	JKS	O
+_	_	_	O
+동북아	동북아	NNP	B-ORG
+와	와	JC	O
+_	_	_	O
+세계	세계	NNG	O
+평화	평화	NNG	O
+를	를	JKO	O
+_	_	_	O
+위협하	위협하	VV	O
+는	는	ETM	O
+_	_	_	O
+것	것	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+봤	+았	+EP	O
+으며	으며	EC	O
+_	_	_	O
+72	72	SN	B-PNT
+%	%	SW	I-PNT
+가	가	JKS	O
+_	_	_	O
+북한	북한	NNP	B-ORG
+에	에	JKB	O
+_	_	_	O
+핵무기	핵무기	NNG	O
+개발	개발	NNG	O
+_	_	_	O
+포기	포기	NNG	O
+를	를	JKO	O
+_	_	_	O
+요구해야	요구하+여야	VV+EC	O
+_	_	_	O
+한다고	하+ㄴ다고	VX+EC	O
+_	_	_	O
+답	답하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 특히 심서연의 청순한 미모가 시선을 사로잡는다.
+## 특히 <심서연:PER>의 청순한 미모가 시선을 사로잡는다.
+특히	특히	MAG	O
+_	_	_	O
+심서연	심서연	NNP	B-PER
+의	의	JKG	O
+_	_	_	O
+청순한	청순하+ㄴ	VA+ETM	O
+_	_	_	O
+미모	미모	NNG	O
+가	가	JKS	O
+_	_	_	O
+시선	시선	NNG	O
+을	을	JKO	O
+_	_	_	O
+사로잡	사로잡	VV	O
+는다	는다	EF	O
+.	.	SF	O
+
+## 10
+## 심서연은 1989년생으로 국가대표팀에서 중앙 수비수 겸 수비형 미드필더 선수로 활약하고 있다.
+## <심서연:PER>은 <1989년:DAT>생으로 국가대표팀에서 중앙 수비수 겸 수비형 미드필더 선수로 활약하고 있다.
+심서연	심서연	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+1989	1989	SN	B-DAT
+년	년	NNB	I-DAT
+생	생	XSN	O
+으로	으로	JKB	O
+_	_	_	O
+국가	국가	NNG	O
+대표	대표	NNG	O
+팀	팀	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+중앙	중앙	NNG	O
+_	_	_	O
+수비수	수비수	NNG	O
+_	_	_	O
+겸	겸	NNB	O
+_	_	_	O
+수비	수비	NNG	O
+형	형	XSN	O
+_	_	_	O
+미드필더	미드필더	NNG	O
+_	_	_	O
+선수	선수	NNG	O
+로	로	JKB	O
+_	_	_	O
+활약하	활약하	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 한편, 대한민국 여자 축구대표팀은 10일 오전 8시 캐나다 몬트리올 올림픽 스타디움에서 열리는 ‘2015 캐나다 여자월드컵’ 조별리그 E조 1차전을 치른다.
+## 한편, <대한민국:ORG> 여자 축구대표팀은 <10일:DAT> <오전 8시:TIM> <캐나다:LOC> <몬트리올:LOC> <올림픽 스타디움:LOC>에서 열리는 ‘<2015:NOH> <캐나다 여자월드컵:POH>’ 조별리그 <E조:ORG> <1차전:NOH>을 치른다.
+한편	한편	NNG	O
+,	,	SP	O
+_	_	_	O
+대한민국	대한민국	NNP	B-ORG
+_	_	_	O
+여자	여자	NNG	O
+_	_	_	O
+축구	축구	NNG	O
+대표	대표	NNG	O
+팀	팀	NNG	O
+은	은	JX	O
+_	_	_	O
+10	10	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+오전	오전	NNG	B-TIM
+_	_	_	I-TIM
+8	8	SN	I-TIM
+시	시	NNB	I-TIM
+_	_	_	O
+캐나다	캐나다	NNP	B-LOC
+_	_	_	O
+몬트리올	몬트리올	NNP	B-LOC
+_	_	_	O
+올림픽	올림픽	NNG	B-LOC
+_	_	_	I-LOC
+스타디움	스타디움	NNG	I-LOC
+에서	에서	JKB	O
+_	_	_	O
+열리	열리	VV	O
+는	는	ETM	O
+_	_	_	O
+‘	‘	SS	O
+2015	2015	SN	B-NOH
+_	_	_	O
+캐나다	캐나다	NNP	B-POH
+_	_	_	I-POH
+여자	여자	NNG	I-POH
+월드컵	월드컵	NNG	I-POH
+’	’	SS	O
+_	_	_	O
+조별	조별	NNG	O
+리그	리그	NNG	O
+_	_	_	O
+E	E	SL	B-ORG
+조	조	NNG	I-ORG
+_	_	_	O
+1	1	SN	B-NOH
+차	차	NNB	I-NOH
+전	전	XSN	I-NOH
+을	을	JKO	O
+_	_	_	O
+치른다	치르+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 12
+## 이날 한국은 최전방 원 톱 공격수로 박은선 대신 유영아를 내세웠다.
+## 이날 <한국:ORG>은 최전방 원 톱 공격수로 <박은선:PER> 대신 <유영아:PER>를 내세웠다.
+이날	이날	NNG	O
+_	_	_	O
+한국	한국	NNP	B-ORG
+은	은	JX	O
+_	_	_	O
+최전방	최전방	NNG	O
+_	_	_	O
+원	원	NNB	O
+_	_	_	O
+톱	톱	NNG	O
+_	_	_	O
+공격수	공격수	NNG	O
+로	로	JKB	O
+_	_	_	O
+박은선	박은선	NNP	B-PER
+_	_	_	O
+대신	대신	NNG	O
+_	_	_	O
+유영아	유영아	NNP	B-PER
+를	를	JKO	O
+_	_	_	O
+내세	내세우	VV	O
+웠	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## [Home&Dream]평택스마트빌포레, 3.3m²당 400만 원대의 착한 분양가
+## [<Home&Dream:ORG>]<평택스마트빌포레:POH>, <3.3m²:NOH>당 <400만 원:MNY>대의 착한 분양가
+[	[	SS	O
+Home	Home	SL	B-ORG
+&	&	SW	I-ORG
+Dream	Dream	SL	I-ORG
+]	]	SS	O
+평택	평택	NNP	B-POH
+스마트	스마트	NNG	I-POH
+빌	빌	NNP	I-POH
+포레	포레	NNP	I-POH
+,	,	SP	O
+_	_	_	O
+3.3	3.3	SN	B-NOH
+m	m	SL	I-NOH
+²	²	SW	I-NOH
+당	당	XSN	O
+_	_	_	O
+400	400	SN	B-MNY
+만	만	NR	I-MNY
+_	_	_	I-MNY
+원	원	NNB	I-MNY
+대	대	XSN	O
+의	의	JKG	O
+_	_	_	O
+착한	착하+ㄴ	VA+ETM	O
+_	_	_	O
+분양	분양	NNG	O
+가	가	XSN	O
+
+## 14
+## 이어 “‘도둑들’과 다르게 만들고 싶었다.
+## 이어 “‘<도둑들:POH>’과 다르게 만들고 싶었다.
+이어	이어	MAG	O
+_	_	_	O
+“	“	SS	O
+‘	‘	SS	O
+도둑	도둑	NNG	B-POH
+들	들	XSN	I-POH
+’	’	SS	O
+과	과	JKB	O
+_	_	_	O
+다르	다르	VA	O
+게	게	EC	O
+_	_	_	O
+만들	만들	VV	O
+고	고	EC	O
+_	_	_	O
+싶	싶	VX	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+

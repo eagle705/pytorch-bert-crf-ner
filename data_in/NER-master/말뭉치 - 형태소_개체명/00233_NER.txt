@@ -1,0 +1,499 @@
+## 1
+## 검찰은 김 회장 부부가 넥슨 자회사를 개인회사로 편입시키는 과정에서 자금 흐름에 현행법 위반 소지가 있는지 조사하고 있다.
+## 검찰은 <김:PER> 회장 부부가 <넥슨:ORG> 자회사를 개인회사로 편입시키는 과정에서 자금 흐름에 현행법 위반 소지가 있는지 조사하고 있다.
+검찰	검찰	NNG	O
+은	은	JX	O
+_	_	_	O
+김	김	NNP	B-PER
+_	_	_	O
+회장	회장	NNG	O
+_	_	_	O
+부부	부부	NNG	O
+가	가	JKS	O
+_	_	_	O
+넥슨	넥슨	NNP	B-ORG
+_	_	_	O
+자회사	자회사	NNG	O
+를	를	JKO	O
+_	_	_	O
+개인	개인	NNG	O
+회사	회사	NNG	O
+로	로	JKB	O
+_	_	_	O
+편입	편입	NNG	O
+시키	시키	XSV	O
+는	는	ETM	O
+_	_	_	O
+과정	과정	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+자금	자금	NNG	O
+_	_	_	O
+흐름	흐름	NNG	O
+에	에	JKB	O
+_	_	_	O
+현행법	현행법	NNG	O
+_	_	_	O
+위반	위반	NNG	O
+_	_	_	O
+소지	소지	NNG	O
+가	가	JKS	O
+_	_	_	O
+있	있	VA	O
+는지	는지	EC	O
+_	_	_	O
+조사하	조사하	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 한데 우리 조정에서는 영종도를 습격한 이양선이 어느 나라에서 뭣때문에 온 배인지도 모르고 있었던 것이다.
+## 한데 우리 조정에서는 <영종도:LOC>를 습격한 이양선이 어느 나라에서 뭣때문에 온 배인지도 모르고 있었던 것이다.
+한데	한데	MAJ	O
+_	_	_	O
+우리	우리	NP	O
+_	_	_	O
+조정	조정	NNG	O
+에서	에서	JKB	O
+는	는	JX	O
+_	_	_	O
+영종도	영종도	NNP	B-LOC
+를	를	JKO	O
+_	_	_	O
+습격한	습격하+ㄴ	VV+ETM	O
+_	_	_	O
+이양선	이양선	NNG	O
+이	이	JKS	O
+_	_	_	O
+어느	어느	MM	O
+_	_	_	O
+나라	나라	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+뭣	뭣	NP	O
+때문	때문	NNB	O
+에	에	JKB	O
+_	_	_	O
+온	오+ㄴ	VV+ETM	O
+_	_	_	O
+배	배	NNG	O
+인지	이+ㄴ지	VCP+EC	O
+도	도	JX	O
+_	_	_	O
+모르	모르	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+었	었	EP	O
+던	던	ETM	O
+_	_	_	O
+것	것	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 그러나 전면 무상급식에 반대하면서도 홍 지사의 추진 방식에는 눈살을 찌푸리는 사람들이 적지 않다.
+## 그러나 전면 무상급식에 반대하면서도 <홍:PER> 지사의 추진 방식에는 눈살을 찌푸리는 사람들이 적지 않다.
+그러나	그러나	MAJ	O
+_	_	_	O
+전면	전면	NNG	O
+_	_	_	O
+무상	무상	NNG	O
+급식	급식	NNG	O
+에	에	JKB	O
+_	_	_	O
+반대하	반대하	VV	O
+면서	면서	EC	O
+도	도	JX	O
+_	_	_	O
+홍	홍	NNP	B-PER
+_	_	_	O
+지사	지사	NNG	O
+의	의	JKG	O
+_	_	_	O
+추진	추진	NNG	O
+_	_	_	O
+방식	방식	NNG	O
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+눈살	눈살	NNG	O
+을	을	JKO	O
+_	_	_	O
+찌푸리	찌푸리	VV	O
+는	는	ETM	O
+_	_	_	O
+사람	사람	NNG	O
+들	들	XSN	O
+이	이	JKS	O
+_	_	_	O
+적	적	VA	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 그는 심지어 이 와중에 11일 방송을 마친 뒤 오는 24일까지 휴가를 떠났다.
+## 그는 심지어 이 와중에 <11일:DAT> 방송을 마친 뒤 오는 <24일:DAT>까지 휴가를 떠났다.
+그	그	NP	O
+는	는	JX	O
+_	_	_	O
+심지어	심지어	MAG	O
+_	_	_	O
+이	이	MM	O
+_	_	_	O
+와중	와중	NNG	O
+에	에	JKB	O
+_	_	_	O
+11	11	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+방송	방송	NNG	O
+을	을	JKO	O
+_	_	_	O
+마친	마치+ㄴ	VV+ETM	O
+_	_	_	O
+뒤	뒤	NNG	O
+_	_	_	O
+오	오	VV	O
+는	는	ETM	O
+_	_	_	O
+24	24	SN	B-DAT
+일	일	NNB	I-DAT
+까지	까지	JX	O
+_	_	_	O
+휴가	휴가	NNG	O
+를	를	JKO	O
+_	_	_	O
+떠났	떠나+았	VV+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 삼성디스플레이·LG디스플레이는 1조~4조원, 두산인프라코어·볼보건설기계는 1000억~4000억원 매출이 감소했다.
+## <삼성디스플레이:ORG>·<LG디스플레이:ORG>는 <1조:MNY>~<4조원:MNY>, <두산인프라코어:ORG>·<볼보건설기계:ORG>는 <1000억:MNY>~<4000억원:MNY> 매출이 감소했다.
+삼성디스플레이	삼성디스플레이	NNP	B-ORG
+·	·	SP	O
+LG	LG	SL	B-ORG
+디스플레이	디스플레이	NNG	I-ORG
+는	는	JX	O
+_	_	_	O
+1	1	SN	B-MNY
+조	조	NNG	I-MNY
+~	~	SO	O
+4	4	SN	B-MNY
+조	조	NR	I-MNY
+원	원	NNB	I-MNY
+,	,	SP	O
+_	_	_	O
+두산	두산	NNP	B-ORG
+인프라	인프라	NNG	I-ORG
+코어	코어	NNG	I-ORG
+·	·	SP	O
+볼보	볼보	NNP	B-ORG
+건설	건설	NNG	I-ORG
+기계	기계	NNG	I-ORG
+는	는	JX	O
+_	_	_	O
+1000	1000	SN	B-MNY
+억	억	NR	I-MNY
+~	~	SO	O
+4000	4000	SN	B-MNY
+억	억	NR	I-MNY
+원	원	NNB	I-MNY
+_	_	_	O
+매출	매출	NNG	O
+이	이	JKS	O
+_	_	_	O
+감소	감소하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 지금 세계 음악계가 주목하는 지휘자들도 서울에서 만날 수 있다.
+## 지금 세계 음악계가 주목하는 지휘자들도 <서울:LOC>에서 만날 수 있다.
+지금	지금	MAG	O
+_	_	_	O
+세계	세계	NNG	O
+_	_	_	O
+음악계	음악계	NNG	O
+가	가	JKS	O
+_	_	_	O
+주목하	주목하	VV	O
+는	는	ETM	O
+_	_	_	O
+지휘자	지휘자	NNG	O
+들	들	XSN	O
+도	도	JX	O
+_	_	_	O
+서울	서울	NNP	B-LOC
+에서	에서	JKB	O
+_	_	_	O
+만날	만나+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 삼성의 경영 및 서비스 기법을 접목해 경북의 명품 고택 체험 코스를 만들 계획이다.
+## <삼성:ORG>의 경영 및 서비스 기법을 접목해 <경북:LOC>의 명품 고택 체험 코스를 만들 계획이다.
+삼성	삼성	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+경영	경영	NNG	O
+_	_	_	O
+및	및	MAG	O
+_	_	_	O
+서비스	서비스	NNG	O
+_	_	_	O
+기법	기법	NNG	O
+을	을	JKO	O
+_	_	_	O
+접목해	접목하+여	VV+EC	O
+_	_	_	O
+경북	경북	NNP	B-LOC
+의	의	JKG	O
+_	_	_	O
+명품	명품	NNG	O
+_	_	_	O
+고택	고택	NNG	O
+_	_	_	O
+체험	체험	NNG	O
+_	_	_	O
+코스	코스	NNG	O
+를	를	JKO	O
+_	_	_	O
+만들	만들+ㄹ	VV+ETM	O
+_	_	_	O
+계획	계획	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 입법로비 혐의로 기소된 신학용 “사정정국 조성하나” 총리에 목청
+## 입법로비 혐의로 기소된 <신학용:PER> “사정정국 조성하나” 총리에 목청
+입법	입법	NNG	O
+로비	로비	NNG	O
+_	_	_	O
+혐의	혐의	NNG	O
+로	로	JKB	O
+_	_	_	O
+기소된	기소되+ㄴ	VV+ETM	O
+_	_	_	O
+신학용	신학용	NNP	B-PER
+_	_	_	O
+“	“	SS	O
+사정	사정	NNG	O
+정국	정국	NNG	O
+_	_	_	O
+조성	조성	NNG	O
+하나	하나	NNG	O
+”	”	SS	O
+_	_	_	O
+총리	총리	NNG	O
+에	에	JKB	O
+_	_	_	O
+목청	목청	NNG	O
+
+## 9
+## 염 단장은 지난해 12월 중순부터 SK에서 단장으로 러브콜을 받았지만 거절해왔다.
+## <염:PER> 단장은 지난해 <12월:DAT> 중순부터 <SK:ORG>에서 단장으로 러브콜을 받았지만 거절해왔다.
+염	염	NNP	B-PER
+_	_	_	O
+단장	단장	NNG	O
+은	은	JX	O
+_	_	_	O
+지난해	지난해	NNG	O
+_	_	_	O
+12	12	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+중순	중순	NNG	O
+부터	부터	JX	O
+_	_	_	O
+SK	SK	SL	B-ORG
+에서	에서	JKB	O
+_	_	_	O
+단장	단장	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+러브콜	러브콜	NNG	O
+을	을	JKO	O
+_	_	_	O
+받	받	VV	O
+았	았	EP	O
+지만	지만	EC	O
+_	_	_	O
+거절해	거절하+여+오	VV+EC+VX	O
+왔	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 올해는 을미년 양의 해다.
+## 올해는 <을미년:DAT> 양의 해다.
+올해	올해	NNG	O
+는	는	JX	O
+_	_	_	O
+을미	을미	NNG	B-DAT
+년	년	XSN	I-DAT
+_	_	_	O
+양	양	NNG	O
+의	의	JKG	O
+_	_	_	O
+해	해+이	NNG+VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 이 총리는 자신이 충남도지사로 재직하던 2006년 태안군 안면도 개발 사업을 놓고 경남기업과 송사를 벌인 사실을 언급하며 둘 사이가 ‘불편한 관계’라는 점을 부각시키고 있다.
+## <이:PER> 총리는 자신이 충남도지사로 재직하던 <2006년:DAT> <태안군 안면도 개발 사업:POH>을 놓고 <경남기업:ORG>과 송사를 벌인 사실을 언급하며 둘 사이가 ‘불편한 관계’라는 점을 부각시키고 있다.
+이	이	NNP	B-PER
+_	_	_	O
+총리	총리	NNG	O
+는	는	JX	O
+_	_	_	O
+자신	자신	NNG	O
+이	이	JKS	O
+_	_	_	O
+충남	충남	NNP	O
+도지사	도지사	NNG	O
+로	로	JKB	O
+_	_	_	O
+재직하	재직하	VV	O
+던	던	ETM	O
+_	_	_	O
+2006	2006	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+태안군	태안군	NNP	B-POH
+_	_	_	I-POH
+안면도	안면도	NNP	I-POH
+_	_	_	I-POH
+개발	개발	NNG	I-POH
+_	_	_	I-POH
+사업	사업	NNG	I-POH
+을	을	JKO	O
+_	_	_	O
+놓	놓	VV	O
+고	고	EC	O
+_	_	_	O
+경남기업	경남기업	NNP	B-ORG
+과	과	JC	O
+_	_	_	O
+송사	송사	NNG	O
+를	를	JKO	O
+_	_	_	O
+벌인	벌이+ㄴ	VV+ETM	O
+_	_	_	O
+사실	사실	NNG	O
+을	을	JKO	O
+_	_	_	O
+언급하	언급하	VV	O
+며	며	EC	O
+_	_	_	O
+둘	둘	NR	O
+_	_	_	O
+사이	사이	NNG	O
+가	가	JKS	O
+_	_	_	O
+‘	‘	SS	O
+불편한	불편하+ㄴ	VA+ETM	O
+_	_	_	O
+관계	관계	NNG	O
+’	’+이	SS+VCP	O
+라는	라는	ETM	O
+_	_	_	O
+점	점	NNG	O
+을	을	JKO	O
+_	_	_	O
+부각	부각	NNG	O
+시키	시키	XSV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 미래산업콘퍼런스 27일 개최
+## 미래산업콘퍼런스 <27일:DAT> 개최
+미래	미래	NNG	O
+산업	산업	NNG	O
+콘퍼런스	콘퍼런스	NNG	O
+_	_	_	O
+27	27	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+개최	개최	NNG	O
+
+## 13
+## 부산상공회의소는 13일 ‘부산사랑 우수인재상’ 수상자 5명을 선정해 발표했다.
+## <부산상공회의소:ORG>는 <13일:DAT> ‘<부산사랑 우수인재상:POH>’ 수상자 <5명:NOH>을 선정해 발표했다.
+부산	부산	NNP	B-ORG
+상공	상공	NNG	I-ORG
+회의소	회의소	NNG	I-ORG
+는	는	JX	O
+_	_	_	O
+13	13	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+‘	‘	SS	O
+부산	부산	NNP	B-POH
+사랑	사랑	NNG	I-POH
+_	_	_	I-POH
+우수	우수	NNG	I-POH
+인재	인재	NNG	I-POH
+상	상	XSN	I-POH
+’	’	SS	O
+_	_	_	O
+수상자	수상자	NNG	O
+_	_	_	O
+5	5	SN	B-NOH
+명	명	NNB	I-NOH
+을	을	JKO	O
+_	_	_	O
+선정해	선정하+여	VV+EC	O
+_	_	_	O
+발표	발표하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 14
+## [오늘 날씨]전국 흐리고 제주도와 남해안에 비, 강수량은?
+## [오늘 날씨]전국 흐리고 <제주도:LOC>와 <남해안:LOC>에 비, 강수량은?
+[	[	SS	O
+오늘	오늘	MAG	O
+_	_	_	O
+날씨	날씨	NNG	O
+]	]	SS	O
+전국	전국	NNG	O
+_	_	_	O
+흐리	흐리	VA	O
+고	고	EC	O
+_	_	_	O
+제주도	제주도	NNP	B-LOC
+와	와	JC	O
+_	_	_	O
+남해안	남해안	NNG	B-LOC
+에	에	JKB	O
+_	_	_	O
+비	비	NNG	O
+,	,	SP	O
+_	_	_	O
+강수량	강수량	NNG	O
+은	은	JX	O
+?	?	SF	O
+

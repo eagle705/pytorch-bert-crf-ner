@@ -1,0 +1,512 @@
+## 1
+## 김소연은 이어 “그런데 사실 예능은 너무 어렵다.
+## <김소연:PER>은 이어 “그런데 사실 예능은 너무 어렵다.
+김소연	김소연	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+이어	이어	MAG	O
+_	_	_	O
+“	“	SS	O
+그런데	그런데	MAJ	O
+_	_	_	O
+사실	사실	MAG	O
+_	_	_	O
+예능	예능	NNG	O
+은	은	JX	O
+_	_	_	O
+너무	너무	MAG	O
+_	_	_	O
+어렵	어렵	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 이번 3차소송은 1차와 2차 소송의 원고였던 주민을 포함한 가운데 진행했다.
+## 이번 <3차:NOH>소송은 <1차:NOH>와 <2차:NOH> 소송의 원고였던 주민을 포함한 가운데 진행했다.
+이번	이번	NNG	O
+_	_	_	O
+3	3	SN	B-NOH
+차	차	NNB	I-NOH
+소송	소송	NNG	O
+은	은	JX	O
+_	_	_	O
+1	1	SN	B-NOH
+차	차	NNB	I-NOH
+와	와	JKB	O
+_	_	_	O
+2	2	SN	B-NOH
+차	차	NNB	I-NOH
+_	_	_	O
+소송	소송	NNG	O
+의	의	JKG	O
+_	_	_	O
+원고	원고+이	NNG+VCP	O
+였	었	EP	O
+던	던	ETM	O
+_	_	_	O
+주민	주민	NNG	O
+을	을	JKO	O
+_	_	_	O
+포함한	포함하+ㄴ	VV+ETM	O
+_	_	_	O
+가운데	가운데	NNG	O
+_	_	_	O
+진행	진행하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 【서울=뉴시스】
+## 【<서울:ORG>=뉴시스】
+【	【	SS	O
+서울	서울	NNP	B-ORG
+=	=	SW	O
+뉴시스	뉴시스	NNP	O
+】	】	SS	O
+
+## 4
+## 라이벌 금성사는 작년말부터 아예 모든 제품개발 시작때부터 부품업체를 참여시키기로 제도화했다.
+## 라이벌 <금성사:ORG>는 작년말부터 아예 모든 제품개발 시작때부터 부품업체를 참여시키기로 제도화했다.
+라이벌	라이벌	NNG	O
+_	_	_	O
+금성사	금성사	NNP	B-ORG
+는	는	JX	O
+_	_	_	O
+작년	작년	NNG	O
+말	말	NNB	O
+부터	부터	JX	O
+_	_	_	O
+아예	아예	MAG	O
+_	_	_	O
+모든	모든	MM	O
+_	_	_	O
+제품	제품	NNG	O
+개발	개발	NNG	O
+_	_	_	O
+시작	시작	NNG	O
+때	때	NNG	O
+부터	부터	JX	O
+_	_	_	O
+부품	부품	NNG	O
+업체	업체	NNG	O
+를	를	JKO	O
+_	_	_	O
+참여	참여	NNG	O
+시키	시키	XSV	O
+기	기	ETN	O
+로	로	JKB	O
+_	_	_	O
+제도화	제도화하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 다만 일본 진출의 경우 굉장히 어렵다.
+## 다만 <일본:ORG> 진출의 경우 굉장히 어렵다.
+다만	다만	MAG	O
+_	_	_	O
+일본	일본	NNP	B-ORG
+_	_	_	O
+진출	진출	NNG	O
+의	의	JKG	O
+_	_	_	O
+경우	경우	NNG	O
+_	_	_	O
+굉장히	굉장히	MAG	O
+_	_	_	O
+어렵	어렵	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 만우절의 기원에 관해서는 여러가지 설이 있으나 프랑스에서 유래되었다는 설이 일반적이다.
+## <만우절:DAT>의 기원에 관해서는 여러가지 설이 있으나 <프랑스:ORG>에서 유래되었다는 설이 일반적이다.
+만우절	만우절	NNG	B-DAT
+의	의	JKG	O
+_	_	_	O
+기원	기원	NNG	O
+에	에	JKB	O
+_	_	_	O
+관해서	관하+여서	VV+EC	O
+는	는	JX	O
+_	_	_	O
+여러	여러	MM	O
+가지	가지	NNB	O
+_	_	_	O
+설	설	NNG	O
+이	이	JKS	O
+_	_	_	O
+있	있	VA	O
+으나	으나	EC	O
+_	_	_	O
+프랑스	프랑스	NNP	B-ORG
+에서	에서	JKB	O
+_	_	_	O
+유래되	유래되	VV	O
+었	었	EP	O
+다는	다는	ETM	O
+_	_	_	O
+설	설	NNG	O
+이	이	JKS	O
+_	_	_	O
+일반적	일반적	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 그만 개 취급하라"며 "내가 들어가서 손으로 다 찾을 것이다"라고 말한 후 취재지원센터를 떠나 목포신향으로 향했다.
+## 그만 개 취급하라"며 "내가 들어가서 손으로 다 찾을 것이다"라고 말한 후 취재지원센터를 떠나 <목포신향:LOC>으로 향했다.
+그만	그만	MAG	O
+_	_	_	O
+개	개	NNB	O
+_	_	_	O
+취급하	취급하	VV	O
+라	라	EF	O
+"	"	SS	O
+며	며	EC	O
+_	_	_	O
+"	"	SS	O
+내	내	NP	O
+가	가	JKS	O
+_	_	_	O
+들어가서	들어가+아서	VV+EC	O
+_	_	_	O
+손	손	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+다	다	MAG	O
+_	_	_	O
+찾	찾	VV	O
+을	을	ETM	O
+_	_	_	O
+것	것	NNB	O
+이	이	VCP	O
+다	다	EF	O
+"	"	SS	O
+라고	라고	JKQ	O
+_	_	_	O
+말한	말하+ㄴ	VV+ETM	O
+_	_	_	O
+후	후	NNG	O
+_	_	_	O
+취재	취재	NNG	O
+지원	지원	NNG	O
+센터	센터	NNG	O
+를	를	JKO	O
+_	_	_	O
+떠나	떠나+아	VV+EC	O
+_	_	_	O
+목포	목포	NNP	B-LOC
+신향	신향	NNG	I-LOC
+으로	으로	JKB	O
+_	_	_	O
+향	향하	VV	O
+했	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 뒤늦게 소찬휘의 본명이 ‘김경희’라는 사실도 주요 포털 검색어에 오르내리며 화제를 모았다.
+## 뒤늦게 <소찬휘:PER>의 본명이 ‘<김경희:PER>’라는 사실도 주요 포털 검색어에 오르내리며 화제를 모았다.
+뒤늦	뒤늦	VA	O
+게	게	EC	O
+_	_	_	O
+소찬휘	소찬휘	NNP	B-PER
+의	의	JKG	O
+_	_	_	O
+본명	본명	NNG	O
+이	이	JKS	O
+_	_	_	O
+‘	‘	SS	O
+김경희	김경희	NNP	B-PER
+’	’+이	SS+VCP	O
+라는	라는	ETM	O
+_	_	_	O
+사실	사실	NNG	O
+도	도	JX	O
+_	_	_	O
+주요	주요	NNG	O
+_	_	_	O
+포털	포털	NNG	O
+_	_	_	O
+검색어	검색어	NNG	O
+에	에	JKB	O
+_	_	_	O
+오르내리	오르내리	VV	O
+며	며	EC	O
+_	_	_	O
+화제	화제	NNG	O
+를	를	JKO	O
+_	_	_	O
+모	모으	VV	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 피겨 여자 싱글 첫 우승 최다빈… 선배 박소연 부상으로 기회 잡아
+## 피겨 여자 싱글 첫 우승 <최다빈:PER>… 선배 <박소연:PER> 부상으로 기회 잡아
+피겨	피겨	NNG	O
+_	_	_	O
+여자	여자	NNG	O
+_	_	_	O
+싱글	싱글	NNG	O
+_	_	_	O
+첫	첫	MM	O
+_	_	_	O
+우승	우승	NNG	O
+_	_	_	O
+최다	최다	NNG	B-PER
+빈	빈	NNP	I-PER
+…	…	SE	O
+_	_	_	O
+선배	선배	NNG	O
+_	_	_	O
+박소연	박소연	NNP	B-PER
+_	_	_	O
+부상	부상	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+기회	기회	NNG	O
+_	_	_	O
+잡	잡	VV	O
+아	아	EC	O
+
+## 10
+## 이 사건에서 리와 패터슨 중 하나 혹은 둘 다가 범인일 수 밖에 없었다.
+## 이 사건에서 <리:PER>와 <패터슨:PER> 중 <하나:NOH> 혹은 <둘:NOH> 다가 범인일 수 밖에 없었다.
+이	이	MM	O
+_	_	_	O
+사건	사건	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+리	리	NNP	B-PER
+와	와	JC	O
+_	_	_	O
+패터슨	패터슨	NNP	B-PER
+_	_	_	O
+중	중	NNB	O
+_	_	_	O
+하나	하나	NNG	B-NOH
+_	_	_	O
+혹은	혹은	MAG	O
+_	_	_	O
+둘	둘	NR	B-NOH
+_	_	_	O
+다	다	NNG	O
+가	가	JKC	O
+_	_	_	O
+범인	범인	NNG	O
+일	이+ㄹ	VCP+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+밖에	밖에	JX	O
+_	_	_	O
+없	없	VA	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 군예식령에 따라 국가원수는 21발, 국회의장 대법원장 국무총리 국무위원(장관)은 19발, 차관급은 17발을 쏘게 돼 있다.
+## 군예식령에 따라 국가원수는 <21발:NOH>, 국회의장 대법원장 국무총리 국무위원(장관)은 <19발:NOH>, 차관급은 <17발:NOH>을 쏘게 돼 있다.
+군	군	NNG	O
+예식	예식	NNG	O
+령	령	XSN	O
+에	에	JKB	O
+_	_	_	O
+따	따르	VV	O
+라	아	EC	O
+_	_	_	O
+국가	국가	NNG	O
+원수	원수	NNG	O
+는	는	JX	O
+_	_	_	O
+21	21	SN	B-NOH
+발	발	NNB	I-NOH
+,	,	SP	O
+_	_	_	O
+국회	국회	NNG	O
+의장	의장	NNG	O
+_	_	_	O
+대법원장	대법원장	NNG	O
+_	_	_	O
+국무총리	국무총리	NNG	O
+_	_	_	O
+국무	국무	NNG	O
+위원	위원	NNG	O
+(	(	SS	O
+장관	장관	NNG	O
+)	)	SS	O
+은	은	JX	O
+_	_	_	O
+19	19	SN	B-NOH
+발	발	NNB	I-NOH
+,	,	SP	O
+_	_	_	O
+차관	차관	NNG	O
+급	급	NNG	O
+은	은	JX	O
+_	_	_	O
+17	17	SN	B-NOH
+발	발	NNB	I-NOH
+을	을	JKO	O
+_	_	_	O
+쏘	쏘	VV	O
+게	게	EC	O
+_	_	_	O
+돼	되+어	VV+EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 「UR이후 국제교역과 세계무역기구」를 첫주제로 한 세미나에서 참석자들은 WTO체제의 불안정한 출범을 우려하고, 개도국 특별대우를 허용하면서도 개도국섬유수출은 규제하는 등 상반되는 세계교역구조의 문제점 등을 개선과제로 들었다.
+## 「UR이후 국제교역과 <세계무역기구:ORG>」를 첫주제로 한 세미나에서 참석자들은 <WTO:ORG>체제의 불안정한 출범을 우려하고, 개도국 특별대우를 허용하면서도 개도국섬유수출은 규제하는 등 상반되는 세계교역구조의 문제점 등을 개선과제로 들었다.
+「	「	SS	O
+UR	UR	SL	O
+이후	이후	NNG	O
+_	_	_	O
+국제	국제	NNG	O
+교역	교역	NNG	O
+과	과	JC	O
+_	_	_	O
+세계무역기구	세계무역기구	NNG	B-ORG
+」	」	SS	O
+를	를	JKO	O
+_	_	_	O
+첫	첫	MM	O
+주제	주제	NNG	O
+로	로	JKB	O
+_	_	_	O
+한	하+ㄴ	VV+ETM	O
+_	_	_	O
+세미나	세미나	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+참석자	참석자	NNG	O
+들	들	XSN	O
+은	은	JX	O
+_	_	_	O
+WTO	WTO	SL	B-ORG
+체제	체제	NNG	O
+의	의	JKG	O
+_	_	_	O
+불안정한	불안정하+ㄴ	VA+ETM	O
+_	_	_	O
+출범	출범	NNG	O
+을	을	JKO	O
+_	_	_	O
+우려하	우려하	VV	O
+고	고	EC	O
+,	,	SP	O
+_	_	_	O
+개도국	개도국	NNG	O
+_	_	_	O
+특별	특별	NNG	O
+대우	대우	NNG	O
+를	를	JKO	O
+_	_	_	O
+허용하	허용하	VV	O
+면서	면서	EC	O
+도	도	JX	O
+_	_	_	O
+개도국	개도국	NNG	O
+섬유	섬유	NNG	O
+수출	수출	NNG	O
+은	은	JX	O
+_	_	_	O
+규제하	규제하	VV	O
+는	는	ETM	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+상반되	상반되	VV	O
+는	는	ETM	O
+_	_	_	O
+세계	세계	NNG	O
+교역	교역	NNG	O
+구조	구조	NNG	O
+의	의	JKG	O
+_	_	_	O
+문제점	문제점	NNG	O
+_	_	_	O
+등	등	NNB	O
+을	을	JKO	O
+_	_	_	O
+개선	개선	NNG	O
+과제	과제	NNG	O
+로	로	JKB	O
+_	_	_	O
+들	들	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## 앞으로도 참이슬은 ‘대한민국이 즐기는 깨끗함’ 캠페인을 통해 ‘이슬같이 깨끗해서 슬이술술 잘 넘어간다’는 제품 특징을 알리는 활동을 다양하게 펼칠 계획이다.
+## 앞으로도 <참이슬:ORG>은 ‘대한민국이 즐기는 깨끗함’ 캠페인을 통해 ‘이슬같이 깨끗해서 슬이술술 잘 넘어간다’는 제품 특징을 알리는 활동을 다양하게 펼칠 계획이다.
+앞	앞	NNG	O
+으로	으로	JKB	O
+도	도	JX	O
+_	_	_	O
+참이슬	참이슬	NNP	B-ORG
+은	은	JX	O
+_	_	_	O
+‘	‘	SS	O
+대한민국	대한민국	NNP	O
+이	이	JKS	O
+_	_	_	O
+즐기	즐기	VV	O
+는	는	ETM	O
+_	_	_	O
+깨끗함	깨끗하+ㅁ	VA+ETN	O
+’	’	SS	O
+_	_	_	O
+캠페인	캠페인	NNG	O
+을	을	JKO	O
+_	_	_	O
+통해	통하+여	VV+EC	O
+_	_	_	O
+‘	‘	SS	O
+이슬	이슬	NNG	O
+같이	같이	JKB	O
+_	_	_	O
+깨끗해서	깨끗하+여서	VA+EC	O
+_	_	_	O
+슬	슬	NNG	O
+이	이	NNG	O
+술술	술술	MAG	O
+_	_	_	O
+잘	잘	MAG	O
+_	_	_	O
+넘어간다	넘어가+ㄴ다	VV+EF	O
+’	’	SS	O
+는	는	JX	O
+_	_	_	O
+제품	제품	NNG	O
+_	_	_	O
+특징	특징	NNG	O
+을	을	JKO	O
+_	_	_	O
+알리	알리	VV	O
+는	는	ETM	O
+_	_	_	O
+활동	활동	NNG	O
+을	을	JKO	O
+_	_	_	O
+다양하	다양하	VA	O
+게	게	EC	O
+_	_	_	O
+펼칠	펼치+ㄹ	VV+ETM	O
+_	_	_	O
+계획	계획	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+

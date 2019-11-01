@@ -1,0 +1,532 @@
+## 1
+## 이에따라 풀무원생활건강은 품질개선 차원에서 자발적으로 홍삼키즈업의 판매를 중단하기로 했다.
+## 이에따라 <풀무원생활건강:ORG>은 품질개선 차원에서 자발적으로 <홍삼키즈업:POH>의 판매를 중단하기로 했다.
+이	이	NP	O
+에	에	JKB	O
+따	따르	VV	O
+라	아	EC	O
+_	_	_	O
+풀무원	풀무원	NNP	B-ORG
+생활	생활	NNG	I-ORG
+건강	건강	NNG	I-ORG
+은	은	JX	O
+_	_	_	O
+품질	품질	NNG	O
+개선	개선	NNG	O
+_	_	_	O
+차원	차원	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+자발적	자발적	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+홍삼	홍삼	NNG	B-POH
+키즈	키즈	NNG	I-POH
+업	업	XSN	I-POH
+의	의	JKG	O
+_	_	_	O
+판매	판매	NNG	O
+를	를	JKO	O
+_	_	_	O
+중단하	중단하	VV	O
+기	기	ETN	O
+로	로	JKB	O
+_	_	_	O
+했	+였	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## [사랑방] 최중경 한국공인회계사회 신임 회장
+## [<사랑방:POH>] <최중경:PER> <한국공인회계사회:ORG> 신임 회장
+[	[	SS	O
+사랑방	사랑방	NNG	B-POH
+]	]	SS	O
+_	_	_	O
+최중경	최중경	NNP	B-PER
+_	_	_	O
+한국공인회계사회	한국공인회계사회	NNP	B-ORG
+_	_	_	O
+신임	신임	NNG	O
+_	_	_	O
+회장	회장	NNG	O
+
+## 3
+## 당시 경찰은 손씨가 빗길에 급브레이크를 밟은 뒤 중심을 잃고 반대편 차량과 충돌한 것으로 추정했다.
+## 당시 경찰은 <손:PER>씨가 빗길에 급브레이크를 밟은 뒤 중심을 잃고 반대편 차량과 충돌한 것으로 추정했다.
+당시	당시	NNG	O
+_	_	_	O
+경찰	경찰	NNG	O
+은	은	JX	O
+_	_	_	O
+손	손	NNP	B-PER
+씨	씨	NNB	O
+가	가	JKS	O
+_	_	_	O
+빗길	빗길	NNG	O
+에	에	JKB	O
+_	_	_	O
+급브레이크	급브레이크	NNG	O
+를	를	JKO	O
+_	_	_	O
+밟	밟	VV	O
+은	은	ETM	O
+_	_	_	O
+뒤	뒤	NNG	O
+_	_	_	O
+중심	중심	NNG	O
+을	을	JKO	O
+_	_	_	O
+잃	잃	VV	O
+고	고	EC	O
+_	_	_	O
+반대편	반대편	NNG	O
+_	_	_	O
+차량	차량	NNG	O
+과	과	JKB	O
+_	_	_	O
+충돌한	충돌하+ㄴ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+추정	추정하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 앞서 강동원의 소속사 계약 만료 시점을 앞두고 여러 대형 기획사 업계 관계자들이 그의 영입을 두고 물밑 접촉 중인 것으로 전해진 바 있다.
+## 앞서 <강동원:PER>의 소속사 계약 만료 시점을 앞두고 여러 대형 기획사 업계 관계자들이 그의 영입을 두고 물밑 접촉 중인 것으로 전해진 바 있다.
+앞서	앞서	MAG	O
+_	_	_	O
+강동원	강동원	NNP	B-PER
+의	의	JKG	O
+_	_	_	O
+소속	소속	NNG	O
+사	사	XSN	O
+_	_	_	O
+계약	계약	NNG	O
+_	_	_	O
+만료	만료	NNG	O
+_	_	_	O
+시점	시점	NNG	O
+을	을	JKO	O
+_	_	_	O
+앞두	앞두	VV	O
+고	고	EC	O
+_	_	_	O
+여러	여러	MM	O
+_	_	_	O
+대형	대형	NNG	O
+_	_	_	O
+기획	기획	NNG	O
+사	사	XSN	O
+_	_	_	O
+업계	업계	NNG	O
+_	_	_	O
+관계자	관계자	NNG	O
+들	들	XSN	O
+이	이	JKS	O
+_	_	_	O
+그	그	NP	O
+의	의	JKG	O
+_	_	_	O
+영입	영입	NNG	O
+을	을	JKO	O
+_	_	_	O
+두	두	VV	O
+고	고	EC	O
+_	_	_	O
+물밑	물밑	NNG	O
+_	_	_	O
+접촉	접촉	NNG	O
+_	_	_	O
+중	중	NNB	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+것	것	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+전해	전하+여	VV+EC	O
+진	지+ㄴ	VX+ETM	O
+_	_	_	O
+바	바	NNB	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 포럼은 이종영 교수(한국체육대학교)의 ‘한국체육 발전을 위한 체육단체 통합방향’ 주제발표로 문을 열었다.
+## 포럼은 <이종영:PER> 교수(<한국체육대학교:ORG>)의 ‘<한국:LOC>체육 발전을 위한 체육단체 통합방향’ 주제발표로 문을 열었다.
+포럼	포럼	NNG	O
+은	은	JX	O
+_	_	_	O
+이종영	이종영	NNP	B-PER
+_	_	_	O
+교수	교수	NNG	O
+(	(	SS	O
+한국체육대학교	한국체육대학교	NNP	B-ORG
+)	)	SS	O
+의	의	JKG	O
+_	_	_	O
+‘	‘	SS	O
+한국	한국	NNP	B-LOC
+체육	체육	NNG	O
+_	_	_	O
+발전	발전	NNG	O
+을	을	JKO	O
+_	_	_	O
+위한	위하+ㄴ	VV+ETM	O
+_	_	_	O
+체육	체육	NNG	O
+단체	단체	NNG	O
+_	_	_	O
+통합	통합	NNG	O
+방향	방향	NNG	O
+’	’	SS	O
+_	_	_	O
+주제	주제	NNG	O
+발표	발표	NNG	O
+로	로	JKB	O
+_	_	_	O
+문	문	NNG	O
+을	을	JKO	O
+_	_	_	O
+열	열	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 1920년 동아일보를 창간한 인촌 김성수 선생 60주기이기도 합니다.
+## <1920년:DAT> <동아일보:POH>를 창간한 인촌 <김성수:PER> 선생 <60주기:NOH>이기도 합니다.
+1920	1920	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+동아일보	동아일보	NNP	B-POH
+를	를	JKO	O
+_	_	_	O
+창간한	창간하+ㄴ	VV+ETM	O
+_	_	_	O
+인촌	인촌	NNP	O
+_	_	_	O
+김성수	김성수	NNP	B-PER
+_	_	_	O
+선생	선생	NNG	O
+_	_	_	O
+60	60	SN	B-NOH
+주기	주기	NNG	I-NOH
+이	이	VCP	O
+기	기	ETN	O
+도	도	JX	O
+_	_	_	O
+합니다	하+ㅂ니다	VX+EF	O
+.	.	SF	O
+
+## 7
+## 유인상 위원(뉴고려병원 의료원장)은 “병원 직원의 처우와 복지를 생각하지 않는 경영은 결과가 좋지 못하고 지속 가능하지
+## <유인상:PER> 위원(<뉴고려병원:ORG> 의료원장)은 “병원 직원의 처우와 복지를 생각하지 않는 경영은 결과가 좋지 못하고 지속 가능하지
+유인상	유인상	NNP	B-PER
+_	_	_	O
+위원	위원	NNG	O
+(	(	SS	O
+뉴	뉴	NNG	B-ORG
+고려	고려	NNP	I-ORG
+병원	병원	NNG	I-ORG
+_	_	_	O
+의료	의료	NNG	O
+원장	원장	NNG	O
+)	)	SS	O
+은	은	JX	O
+_	_	_	O
+“	“	SS	O
+병원	병원	NNG	O
+_	_	_	O
+직원	직원	NNG	O
+의	의	JKG	O
+_	_	_	O
+처우	처우	NNG	O
+와	와	JC	O
+_	_	_	O
+복지	복지	NNG	O
+를	를	JKO	O
+_	_	_	O
+생각하	생각하	VV	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+는	는	ETM	O
+_	_	_	O
+경영	경영	NNG	O
+은	은	JX	O
+_	_	_	O
+결과	결과	NNG	O
+가	가	JKS	O
+_	_	_	O
+좋	좋	VA	O
+지	지	EC	O
+_	_	_	O
+못하	못하	VX	O
+고	고	EC	O
+_	_	_	O
+지속	지속	NNG	O
+_	_	_	O
+가능하	가능하	VA	O
+지	지	EC	O
+
+## 8
+## 태호는 작전이 계획대로 진행되고 있다고 판단하고 지하 조직의 1인자인 곽흥삼(이범수 분)에게 정사장에 대해 보고한다.
+## <태호:PER>는 작전이 계획대로 진행되고 있다고 판단하고 지하 조직의 <1인자:NOH>인 <곽흥삼:PER>(<이범수:PER> 분)에게 <정:PER>사장에 대해 보고한다.
+태호	태호	NNP	B-PER
+는	는	JX	O
+_	_	_	O
+작전	작전	NNG	O
+이	이	JKS	O
+_	_	_	O
+계획	계획	NNG	O
+대로	대로	JX	O
+_	_	_	O
+진행되	진행되	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다고	다고	EC	O
+_	_	_	O
+판단하	판단하	VV	O
+고	고	EC	O
+_	_	_	O
+지하	지하	NNG	O
+_	_	_	O
+조직	조직	NNG	O
+의	의	JKG	O
+_	_	_	O
+1	1	SN	B-NOH
+인	인	NNG	I-NOH
+자	자	XSN	I-NOH
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+곽흥삼	곽흥삼	NNG	B-PER
+(	(	SS	O
+이범수	이범수	NNP	B-PER
+_	_	_	O
+분	분	NNB	O
+)	)	SS	O
+에게	에게	JKB	O
+_	_	_	O
+정	정	NNP	B-PER
+사장	사장	NNG	O
+에	에	JKB	O
+_	_	_	O
+대해	대하+여	VV+EC	O
+_	_	_	O
+보고한다	보고하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 9
+## 실습 과정에선 북한 내부에서 사용하는 프로그램까지 활용한다고 한다.
+## 실습 과정에선 <북한:LOC> 내부에서 사용하는 프로그램까지 활용한다고 한다.
+실습	실습	NNG	O
+_	_	_	O
+과정	과정	NNG	O
+에선	에서+ㄴ	JKB+JX	O
+_	_	_	O
+북한	북한	NNP	B-LOC
+_	_	_	O
+내부	내부	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+사용하	사용하	VV	O
+는	는	ETM	O
+_	_	_	O
+프로그램	프로그램	NNG	O
+까지	까지	JX	O
+_	_	_	O
+활용한다고	활용하+ㄴ다고	VV+EC	O
+_	_	_	O
+한다	하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 10
+## 이들에게는 전체 공모주의 20%물량이 배정된다.
+## 이들에게는 전체 공모주의 <20%:PNT>물량이 배정된다.
+이	이	NP	O
+들	들	XSN	O
+에게	에게	JKB	O
+는	는	JX	O
+_	_	_	O
+전체	전체	NNG	O
+_	_	_	O
+공모주	공모주	NNG	O
+의	의	JKG	O
+_	_	_	O
+20	20	SN	B-PNT
+%	%	SW	I-PNT
+물량	물량	NNG	O
+이	이	JKS	O
+_	_	_	O
+배정된다	배정되+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 11
+## 누아르의 김혜수와 액션의 김옥빈이 어느 정도 성과를 낸다면 여배우의 활동 무대가 확장될 것이라는 영화계의 기대감도 커지고 있다.
+## <누아르:POH>의 <김혜수:PER>와 액션의 <김옥빈:PER>이 어느 정도 성과를 낸다면 여배우의 활동 무대가 확장될 것이라는 영화계의 기대감도 커지고 있다.
+누아르	누아르	NNG	B-POH
+의	의	JKG	O
+_	_	_	O
+김혜수	김혜수	NNP	B-PER
+와	와	JC	O
+_	_	_	O
+액션	액션	NNG	O
+의	의	JKG	O
+_	_	_	O
+김옥빈	김옥빈	NNP	B-PER
+이	이	JKS	O
+_	_	_	O
+어느	어느	MM	O
+_	_	_	O
+정도	정도	NNG	O
+_	_	_	O
+성과	성과	NNG	O
+를	를	JKO	O
+_	_	_	O
+낸다면	내+ㄴ다면	VV+EC	O
+_	_	_	O
+여배우	여배우	NNG	O
+의	의	JKG	O
+_	_	_	O
+활동	활동	NNG	O
+_	_	_	O
+무대	무대	NNG	O
+가	가	JKS	O
+_	_	_	O
+확장될	확장되+ㄹ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+이	이	VCP	O
+라는	라는	ETM	O
+_	_	_	O
+영화계	영화계	NNG	O
+의	의	JKG	O
+_	_	_	O
+기대감	기대감	NNG	O
+도	도	JX	O
+_	_	_	O
+커지	커지	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 지난해 주목받은 신예 김태리의 도약도 눈여겨볼 만하다.
+## 지난해 주목받은 신예 <김태리:PER>의 도약도 눈여겨볼 만하다.
+지난해	지난해	NNG	O
+_	_	_	O
+주목	주목	NNG	O
+받	받	VV	O
+은	은	ETM	O
+_	_	_	O
+신예	신예	NNG	O
+_	_	_	O
+김태리	김태리	NNP	B-PER
+의	의	JKG	O
+_	_	_	O
+도약	도약	NNG	O
+도	도	JX	O
+_	_	_	O
+눈여겨볼	눈여겨보+ㄹ	VV+ETM	O
+_	_	_	O
+만하	만하	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## 워낙 부상이 많아서 은퇴를 원했지만 신치용 삼성화재 감독은 그의 은퇴를 만류했었다.
+## 워낙 부상이 많아서 은퇴를 원했지만 <신치용:PER> <삼성화재:ORG> 감독은 그의 은퇴를 만류했었다.
+워낙	워낙	MAG	O
+_	_	_	O
+부상	부상	NNG	O
+이	이	JKS	O
+_	_	_	O
+많	많	VA	O
+아서	아서	EC	O
+_	_	_	O
+은퇴	은퇴	NNG	O
+를	를	JKO	O
+_	_	_	O
+원	원하	VV	O
+했	였	EP	O
+지만	지만	EC	O
+_	_	_	O
+신치용	신치용	NNP	B-PER
+_	_	_	O
+삼성화재	삼성화재	NNP	B-ORG
+_	_	_	O
+감독	감독	NNG	O
+은	은	JX	O
+_	_	_	O
+그	그	NP	O
+의	의	JKG	O
+_	_	_	O
+은퇴	은퇴	NNG	O
+를	를	JKO	O
+_	_	_	O
+만류	만류하	VV	O
+했었	었었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 14
+## 오후 7시에는 선수들이 코엑스몰 라이브 플라자에서 올스타전 홍보에 나선다.
+## <오후 7시:TIM>에는 선수들이 <코엑스:LOC>몰 라이브 플라자에서 <올스타전:POH> 홍보에 나선다.
+오후	오후	NNG	B-TIM
+_	_	_	I-TIM
+7	7	SN	I-TIM
+시	시	NNB	I-TIM
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+선수	선수	NNG	O
+들	들	XSN	O
+이	이	JKS	O
+_	_	_	O
+코엑스몰	코엑스몰	NNP	O
+_	_	_	O
+라이브	라이브	NNG	O
+_	_	_	O
+플라자	플라자	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+올스타	올스타	NNG	B-POH
+전	전	XSN	I-POH
+_	_	_	O
+홍보	홍보	NNG	O
+에	에	JKB	O
+_	_	_	O
+나선다	나서+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 15
+## 김 의원을 배려한 상임위 배정이라는 얘기였다.
+## <김:PER> 의원을 배려한 상임위 배정이라는 얘기였다.
+김	김	NNP	B-PER
+_	_	_	O
+의원	의원	NNG	O
+을	을	JKO	O
+_	_	_	O
+배려한	배려하+ㄴ	VV+ETM	O
+_	_	_	O
+상임위	상임위	NNG	O
+_	_	_	O
+배정	배정	NNG	O
+이	이	VCP	O
+라는	라는	ETM	O
+_	_	_	O
+얘기	얘기+이	NNG+VCP	O
+였	었	EP	O
+다	다	EF	O
+.	.	SF	O
+

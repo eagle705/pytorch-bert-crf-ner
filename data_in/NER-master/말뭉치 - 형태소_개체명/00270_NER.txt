@@ -1,0 +1,359 @@
+## 1
+## 미국 하버드대학 연구진은 북극에서 발견한 매머드의 DNA 14종을 현존하는 코끼리의 몸에 주입해 고대 매머드와 가장 유사한 종(種)을 부활시킬 예정이라고 밝혔다.
+## <미국 하버드대학:ORG> 연구진은 북극에서 발견한 매머드의 DNA <14종:NOH>을 현존하는 코끼리의 몸에 주입해 고대 매머드와 가장 유사한 종(種)을 부활시킬 예정이라고 밝혔다.
+미국	미국	NNP	B-ORG
+_	_	_	I-ORG
+하버드	하버드	NNP	I-ORG
+대학	대학	NNG	I-ORG
+_	_	_	O
+연구	연구	NNG	O
+진	진	XSN	O
+은	은	JX	O
+_	_	_	O
+북극	북극	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+발견한	발견하+ㄴ	VV+ETM	O
+_	_	_	O
+매머드	매머드	NNG	O
+의	의	JKG	O
+_	_	_	O
+DNA	DNA	SL	O
+_	_	_	O
+14	14	SN	B-NOH
+종	종	NNG	I-NOH
+을	을	JKO	O
+_	_	_	O
+현존하	현존하	VV	O
+는	는	ETM	O
+_	_	_	O
+코끼리	코끼리	NNG	O
+의	의	JKG	O
+_	_	_	O
+몸	몸	NNG	O
+에	에	JKB	O
+_	_	_	O
+주입해	주입하+여	VV+EC	O
+_	_	_	O
+고대	고대	NNG	O
+_	_	_	O
+매머드	매머드	NNG	O
+와	와	JKB	O
+_	_	_	O
+가장	가장	MAG	O
+_	_	_	O
+유사한	유사하+ㄴ	VA+ETM	O
+_	_	_	O
+종	종	NNG	O
+(	(	SS	O
+種	種	SH	O
+)	)	SS	O
+을	을	JKO	O
+_	_	_	O
+부활	부활	NNG	O
+시킬	시키+ㄹ	XSV+ETM	O
+_	_	_	O
+예정	예정	NNG	O
+이	이	VCP	O
+라고	라고	EC	O
+_	_	_	O
+밝	밝히	VV	O
+혔	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 도 이사장이 당선되면, UNWTO 91년 역사에서 최초의 아시아 출신, 여성 사무총장이 탄생하게 된다.
+## <도:PER> 이사장이 당선되면, <UNWTO:ORG> <91년:DAT> 역사에서 최초의 <아시아:LOC> 출신, 여성 사무총장이 탄생하게 된다.
+도	도	JX	B-PER
+_	_	_	O
+이사장	이사장	NNG	O
+이	이	JKS	O
+_	_	_	O
+당선되	당선되	VV	O
+면	면	EC	O
+,	,	SP	O
+_	_	_	O
+UNWTO	UNWTO	SL	B-ORG
+_	_	_	O
+91	91	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+역사	역사	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+최초	최초	NNG	O
+의	의	JKG	O
+_	_	_	O
+아시아	아시아	NNP	B-LOC
+_	_	_	O
+출신	출신	NNG	O
+,	,	SP	O
+_	_	_	O
+여성	여성	NNG	O
+_	_	_	O
+사무총장	사무총장	NNG	O
+이	이	JKS	O
+_	_	_	O
+탄생하	탄생하	VV	O
+게	게	EC	O
+_	_	_	O
+된다	되+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 3
+## 지난해 뇌경색을 앓았던 선우용여는 “몸을 제대로 못 움직일까
+## 지난해 뇌경색을 앓았던 <선우용여:PER>는 “몸을 제대로 못 움직일까
+지난해	지난해	NNG	O
+_	_	_	O
+뇌경색	뇌경색	NNG	O
+을	을	JKO	O
+_	_	_	O
+앓	앓	VV	O
+았	았	EP	O
+던	던	ETM	O
+_	_	_	O
+선우용	선우용	NNP	B-PER
+여	열	VV	I-PER
+는	는	ETM	O
+_	_	_	O
+“	“	SS	O
+몸	몸	NNG	O
+을	을	JKO	O
+_	_	_	O
+제대로	제대로	MAG	O
+_	_	_	O
+못	못	MAG	O
+_	_	_	O
+움직일까	움직이+ㄹ까	VV+EF	O
+
+## 4
+## 울릉도가 큰 눈에도 끄떡없는 비결은 차별화된 제설 기법 덕분이다.
+## <울릉도:LOC>가 큰 눈에도 끄떡없는 비결은 차별화된 제설 기법 덕분이다.
+울릉도	울릉도	NNP	B-LOC
+가	가	JKS	O
+_	_	_	O
+큰	크+ㄴ	VA+ETM	O
+_	_	_	O
+눈	눈	NNG	O
+에	에	JKB	O
+도	도	JX	O
+_	_	_	O
+끄떡없	끄떡없	VA	O
+는	는	ETM	O
+_	_	_	O
+비결	비결	NNG	O
+은	은	JX	O
+_	_	_	O
+차별화된	차별화되+ㄴ	VV+ETM	O
+_	_	_	O
+제설	제설	NNG	O
+_	_	_	O
+기법	기법	NNG	O
+_	_	_	O
+덕분	덕분	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 아직 약속을 지키지 못했지만 아들을 기억하는 차 씨의 마음은 5년 전과 다름이 없다.
+## 아직 약속을 지키지 못했지만 아들을 기억하는 <차:PER> 씨의 마음은 <5년:DAT> 전과 다름이 없다.
+아직	아직	MAG	O
+_	_	_	O
+약속	약속	NNG	O
+을	을	JKO	O
+_	_	_	O
+지키	지키	VV	O
+지	지	EC	O
+_	_	_	O
+못	못하	VX	O
+했	였	EP	O
+지만	지만	EC	O
+_	_	_	O
+아들	아들	NNG	O
+을	을	JKO	O
+_	_	_	O
+기억하	기억하	VV	O
+는	는	ETM	O
+_	_	_	O
+차	차	NNP	B-PER
+_	_	_	O
+씨	씨	NNB	O
+의	의	JKG	O
+_	_	_	O
+마음	마음	NNG	O
+은	은	JX	O
+_	_	_	O
+5	5	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+전	전	NNG	O
+과	과	JKB	O
+_	_	_	O
+다름	다르+ㅁ	VA+ETN	O
+이	이	JKS	O
+_	_	_	O
+없	없	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 한 수 아래로 여기던 중국에 패하면서 한국 축구대표팀은 사면초가의 상황에 빠졌다.
+## 한 수 아래로 여기던 <중국:ORG>에 패하면서 <한국 축구대표팀:ORG>은 사면초가의 상황에 빠졌다.
+한	한	MM	O
+_	_	_	O
+수	수	NNG	O
+_	_	_	O
+아래	아래	NNG	O
+로	로	JKB	O
+_	_	_	O
+여기	여기	VV	O
+던	던	ETM	O
+_	_	_	O
+중국	중국	NNP	B-ORG
+에	에	JKB	O
+_	_	_	O
+패하	패하	VV	O
+면서	면서	EC	O
+_	_	_	O
+한국	한국	NNP	B-ORG
+_	_	_	I-ORG
+축구	축구	NNG	I-ORG
+대표	대표	NNG	I-ORG
+팀	팀	NNG	I-ORG
+은	은	JX	O
+_	_	_	O
+사면초가	사면초가	NNG	O
+의	의	JKG	O
+_	_	_	O
+상황	상황	NNG	O
+에	에	JKB	O
+_	_	_	O
+빠	빠지	VV	O
+졌	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 루멘은 촛불 1개에서 1초 동안 나오는 빛의 양을 나타내는 단위로 수치가 클수록 밝기가 높다.
+## <루멘:POH>은 촛불 <1개:NOH>에서 <1초:NOH> 동안 나오는 빛의 양을 나타내는 단위로 수치가 클수록 밝기가 높다.
+루멘	루멘	NNB	B-POH
+은	은	JX	O
+_	_	_	O
+촛불	촛불	NNG	O
+_	_	_	O
+1	1	SN	B-NOH
+개	개	NNB	I-NOH
+에서	에서	JKB	O
+_	_	_	O
+1	1	SN	B-NOH
+초	초	NNB	I-NOH
+_	_	_	O
+동안	동안	NNG	O
+_	_	_	O
+나오	나오	VV	O
+는	는	ETM	O
+_	_	_	O
+빛	빛	NNG	O
+의	의	JKG	O
+_	_	_	O
+양	양	NNG	O
+을	을	JKO	O
+_	_	_	O
+나타내	나타내	VV	O
+는	는	ETM	O
+_	_	_	O
+단위	단위	NNG	O
+로	로	JKB	O
+_	_	_	O
+수치	수치	NNG	O
+가	가	JKS	O
+_	_	_	O
+클수록	크+ㄹ수록	VA+EC	O
+_	_	_	O
+밝기	밝기	NNG	O
+가	가	JKS	O
+_	_	_	O
+높	높	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 국토부, 인허가 절차 대폭 간소화… 지자체들 기업 유치 속도 붙을듯
+## <국토부:ORG>, 인허가 절차 대폭 간소화… 지자체들 기업 유치 속도 붙을듯
+국토	국토	NNG	B-ORG
+부	부	XSN	I-ORG
+,	,	SP	O
+_	_	_	O
+인	인	NNG	O
+허가	허가	NNG	O
+_	_	_	O
+절차	절차	NNG	O
+_	_	_	O
+대폭	대폭	MAG	O
+_	_	_	O
+간소화	간소화	NNG	O
+…	…	SE	O
+_	_	_	O
+지자체	지자체	NNG	O
+들	들	XSN	O
+_	_	_	O
+기업	기업	NNG	O
+_	_	_	O
+유치	유치	NNG	O
+_	_	_	O
+속도	속도	NNG	O
+_	_	_	O
+붙	붙	VV	O
+을	을	ETM	O
+듯	듯	NNB	O
+
+## 9
+## 중국의 자유무역은 철저히 ‘자유롭지 못한’ 방식으로 만들어졌다.19세기 중반은 세계화의 첫 물결이 휘몰아친 시대였다.
+## <중국:ORG>의 자유무역은 철저히 ‘자유롭지 못한’ 방식으로 만들어졌다.<19세기:DUR> 중반은 세계화의 첫 물결이 휘몰아친 시대였다.
+중국	중국	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+자유	자유	NNG	O
+무역	무역	NNG	O
+은	은	JX	O
+_	_	_	O
+철저히	철저히	MAG	O
+_	_	_	O
+‘	‘	SS	O
+자유롭	자유롭	VA	O
+지	지	EC	O
+_	_	_	O
+못한	못하+ㄴ	VX+ETM	O
+’	’	SS	O
+_	_	_	O
+방식	방식	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+만들	만들	VV	O
+어	어	EC	O
+졌	지+었	VX+EP	O
+다	다	EF	O
+.	.	SF	O
+19	19	SN	B-DUR
+세기	세기	NNG	I-DUR
+_	_	_	O
+중반	중반	NNG	O
+은	은	JX	O
+_	_	_	O
+세계화	세계화	NNG	O
+의	의	JKG	O
+_	_	_	O
+첫	첫	MM	O
+_	_	_	O
+물결	물결	NNG	O
+이	이	JKS	O
+_	_	_	O
+휘몰아친	휘몰아치+ㄴ	VV+ETM	O
+_	_	_	O
+시대	시대+이	NNG+VCP	O
+였	었	EP	O
+다	다	EF	O
+.	.	SF	O
+

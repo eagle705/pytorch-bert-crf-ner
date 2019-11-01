@@ -1,0 +1,576 @@
+## 1
+## 장윤주 예비신랑 공개…나이는 4살 연하, 직업은 패션 그리고…또?
+## <장윤주:PER> 예비신랑 공개…나이는 <4살:NOH> 연하, 직업은 패션 그리고…또?
+장윤주	장윤주	NNP	B-PER
+_	_	_	O
+예비	예비	NNG	O
+신랑	신랑	NNG	O
+_	_	_	O
+공개	공개	NNG	O
+…	…	SE	O
+나이	나이	NNG	O
+는	는	JX	O
+_	_	_	O
+4	4	SN	B-NOH
+살	살	NNB	I-NOH
+_	_	_	O
+연하	연하	NNG	O
+,	,	SP	O
+_	_	_	O
+직업	직업	NNG	O
+은	은	JX	O
+_	_	_	O
+패션	패션	NNG	O
+_	_	_	O
+그리고	그리고	MAJ	O
+…	…	SE	O
+또	또	MAG	O
+?	?	SF	O
+
+## 2
+## “문재인 ‘32%’ 독주, 안희정 2주 만에 반등 ‘17%’…안철수-황교안 ‘9%’”
+## “<문재인:PER> ‘<32%:PNT>’ <독주:LOC>, <안희정:PER> <2주 만:NOH>에 반등 ‘<17%:PNT>’…<안철수:PER>-<황교안:PER> ‘<9%:PNT>’”
+“	“	SS	O
+문재인	문재인	NNP	B-PER
+_	_	_	O
+‘	‘	SS	O
+32	32	SN	B-PNT
+%	%	SW	I-PNT
+’	’	SS	O
+_	_	_	O
+독주	독주	NNG	B-LOC
+,	,	SP	O
+_	_	_	O
+안희정	안희정	NNP	B-PER
+_	_	_	O
+2	2	SN	B-NOH
+주	주	NNB	I-NOH
+_	_	_	I-NOH
+만	만	NNB	I-NOH
+에	에	JKB	O
+_	_	_	O
+반등	반등	NNG	O
+_	_	_	O
+‘	‘	SS	O
+17	17	SN	B-PNT
+%	%	SW	I-PNT
+’	’	SS	O
+…	…	SE	O
+안철수	안철수	NNP	B-PER
+-	-	SO	O
+황교안	황교안	NNP	B-PER
+_	_	_	O
+‘	‘	SS	O
+9	9	SN	B-PNT
+%	%	SW	I-PNT
+’	’	SS	O
+”	”	SS	O
+
+## 3
+## 이 때문에 20일 퇴임을 앞두고 자기 사람을 심는 이른바 ‘대못 박기’ 인사가 아니냐는 비판이 나오고 있다.
+## 이 때문에 <20일:DAT> 퇴임을 앞두고 자기 사람을 심는 이른바 ‘대못 박기’ 인사가 아니냐는 비판이 나오고 있다.
+이	이	MM	O
+_	_	_	O
+때문	때문	NNB	O
+에	에	JKB	O
+_	_	_	O
+20	20	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+퇴임	퇴임	NNG	O
+을	을	JKO	O
+_	_	_	O
+앞두	앞두	VV	O
+고	고	EC	O
+_	_	_	O
+자기	자기	NP	O
+_	_	_	O
+사람	사람	NNG	O
+을	을	JKO	O
+_	_	_	O
+심	심	VV	O
+는	는	ETM	O
+_	_	_	O
+이른바	이른바	MAG	O
+_	_	_	O
+‘	‘	SS	O
+대못	대못	NNG	O
+_	_	_	O
+박	박	VV	O
+기	기	ETN	O
+’	’	SS	O
+_	_	_	O
+인사	인사	NNG	O
+가	가	JKC	O
+_	_	_	O
+아니	아니	VCN	O
+냐는	냐는	ETM	O
+_	_	_	O
+비판	비판	NNG	O
+이	이	JKS	O
+_	_	_	O
+나오	나오	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 産銀, 대우조선에 3000억 긴급수혈
+## <産銀:ORG>, <대우조선:ORG>에 <3000억:MNY> 긴급수혈
+産銀	産銀	SH	B-ORG
+,	,	SP	O
+_	_	_	O
+대우	대우	NNP	B-ORG
+조선	조선	NNG	I-ORG
+에	에	JKB	O
+_	_	_	O
+3000	3000	SN	B-MNY
+억	억	NR	I-MNY
+_	_	_	O
+긴급	긴급	NNG	O
+수혈	수혈	NNG	O
+
+## 5
+## 시즌 10승(2패)째를 거둔 그는 피가로(삼성)와 함께 다승 공동 1위가 됐다.
+## 시즌 <10승:NOH>(<2패:NOH>)째를 거둔 그는 <피가로:PER>(<삼성:ORG>)와 함께 다승 공동 <1위:NOH>가 됐다.
+시즌	시즌	NNG	O
+_	_	_	O
+10	10	SN	B-NOH
+승	승	NNB	I-NOH
+(	(	SS	O
+2	2	SN	B-NOH
+패	패	NNB	I-NOH
+)	)	SS	O
+째	째	XSN	O
+를	를	JKO	O
+_	_	_	O
+거둔	거두+ㄴ	VV+ETM	O
+_	_	_	O
+그	그	NP	O
+는	는	JX	O
+_	_	_	O
+피가로	피가로	NNP	B-PER
+(	(	SS	O
+삼성	삼성	NNP	B-ORG
+)	)	SS	O
+와	와	JKB	O
+_	_	_	O
+함께	함께	MAG	O
+_	_	_	O
+다승	다승	NNG	O
+_	_	_	O
+공동	공동	NNG	O
+_	_	_	O
+1	1	SN	B-NOH
+위	위	NNB	I-NOH
+가	가	JKC	O
+_	_	_	O
+됐	+었	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 미­중 합동방위개조위 구성/페리 승인… 대중제재 해제 일환인듯
+## <미­중 합동방위개조위:ORG> 구성/<페리:PER> 승인… 대중제재 해제 일환인듯
+미	미	NNP	B-ORG
+­	­	SS	I-ORG
+중	중	NNB	I-ORG
+_	_	_	I-ORG
+합동	합동	NNG	I-ORG
+방위	방위	NNG	I-ORG
+개조	개조	NNG	I-ORG
+위	위	NNB	I-ORG
+_	_	_	O
+구성	구성	NNG	O
+/	/	SP	O
+페리	페리	NNP	B-PER
+_	_	_	O
+승인	승인	NNG	O
+…	…	SE	O
+_	_	_	O
+대중	대중	NNG	O
+제재	제재	NNG	O
+_	_	_	O
+해제	해제	NNG	O
+_	_	_	O
+일환	일환	NNG	O
+인	이+ㄴ	VCP+ETM	O
+듯	듯	NNB	O
+
+## 7
+## 백두산 호랑이 금강이 사인은... 만성신부전에 의한 요독증
+## <백두산:LOC> 호랑이 <금강이:PER> 사인은... 만성신부전에 의한 요독증
+백두산	백두산	NNP	B-LOC
+_	_	_	O
+호랑이	호랑이	NNG	O
+_	_	_	O
+금강	금강	NNP	B-PER
+이	이	JKS	I-PER
+_	_	_	O
+사인	사인	NNG	O
+은	은	JX	O
+.	.	SF	O
+.	.	SF	O
+.	.	SF	O
+_	_	_	O
+만성	만성	NNG	O
+신부전	신부전	NNG	O
+에	에	JKB	O
+_	_	_	O
+의한	의하+ㄴ	VV+ETM	O
+_	_	_	O
+요독증	요독증	NNG	O
+
+## 8
+## 해피투게더 이성민 “주요부위 공사” 경험담에 정재영 “난 불편해서 떼버렸다”
+## 해피투게더 <이성민:PER> “주요부위 공사” 경험담에 <정재영:PER> “난 불편해서 떼버렸다”
+해피투게더	해피투게더	NNP	O
+_	_	_	O
+이성민	이성민	NNP	B-PER
+_	_	_	O
+“	“	SS	O
+주요	주요	NNG	O
+부위	부위	NNG	O
+_	_	_	O
+공사	공사	NNG	O
+”	”	SS	O
+_	_	_	O
+경험담	경험담	NNG	O
+에	에	JKB	O
+_	_	_	O
+정재영	정재영	NNP	B-PER
+_	_	_	O
+“	“	SS	O
+난	나+ㄴ	NP+JX	O
+_	_	_	O
+불편해서	불편하+여서	VA+EC	O
+_	_	_	O
+떼	떼+어	VV+EC	O
+버렸	버리+었	VX+EP	O
+다	다	EF	O
+”	”	SS	O
+
+## 9
+## 김상현 대구대 환경공학과 교수팀(사진)은 우뭇가사리, 해인초 등 홍조류의 주성분인 ‘갈락토스’를 수소로 변환하는 방법을 찾아냈다고 4일 밝혔다.
+## <김상현:PER> <대구대 환경공학과:ORG> 교수팀(사진)은 우뭇가사리, 해인초 등 홍조류의 주성분인 ‘<갈락토스:POH>’를 수소로 변환하는 방법을 찾아냈다고 <4일:DAT> 밝혔다.
+김상현	김상현	NNP	B-PER
+_	_	_	O
+대구대	대구대	NNP	B-ORG
+_	_	_	I-ORG
+환경	환경	NNG	I-ORG
+공학	공학	NNG	I-ORG
+과	과	JC	I-ORG
+_	_	_	O
+교수	교수	NNG	O
+팀	팀	NNG	O
+(	(	SS	O
+사진	사진	NNG	O
+)	)	SS	O
+은	은	JX	O
+_	_	_	O
+우뭇가사리	우뭇가사리	NNG	O
+,	,	SP	O
+_	_	_	O
+해인초	해인초	NNG	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+홍조류	홍조류	NNG	O
+의	의	JKG	O
+_	_	_	O
+주성분	주성분	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+‘	‘	SS	O
+갈락토스	갈락토스	NNG	B-POH
+’	’	SS	O
+를	를	JKO	O
+_	_	_	O
+수소	수소	NNG	O
+로	로	JKB	O
+_	_	_	O
+변환하	변환하	VV	O
+는	는	ETM	O
+_	_	_	O
+방법	방법	NNG	O
+을	을	JKO	O
+_	_	_	O
+찾아냈	찾아내+었	VV+EP	O
+다고	다고	EC	O
+_	_	_	O
+4	4	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+밝	밝히	VV	O
+혔	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 수적 우위를 점한 바이에른은 거세게 아스널을 몰아붙였고 후반 23분 아르연 로번의 골로 역전에 성공했다.
+## 수적 우위를 점한 <바이에른:ORG>은 거세게 <아스널:ORG>을 몰아붙였고 <후반 23분:TIM> <아르연 로번:PER>의 골로 역전에 성공했다.
+수적	수적	NNG	O
+_	_	_	O
+우위	우위	NNG	O
+를	를	JKO	O
+_	_	_	O
+점한	점하+ㄴ	VV+ETM	O
+_	_	_	O
+바이에른	바이에른	NNP	B-ORG
+은	은	JX	O
+_	_	_	O
+거세	거세	VA	O
+게	게	EC	O
+_	_	_	O
+아스널	아스널	NNP	B-ORG
+을	을	JKO	O
+_	_	_	O
+몰아붙	몰아붙이	VV	O
+였	었	EP	O
+고	고	EC	O
+_	_	_	O
+후반	후반	NNG	B-TIM
+_	_	_	I-TIM
+23	23	SN	I-TIM
+분	분	NNB	I-TIM
+_	_	_	O
+아르	아르	NNG	B-PER
+연	연	NNG	I-PER
+_	_	_	I-PER
+로	로	XSN	I-PER
+번	번	NNB	I-PER
+의	의	JKG	O
+_	_	_	O
+골	골	NNG	O
+로	로	JKB	O
+_	_	_	O
+역전	역전	NNG	O
+에	에	JKB	O
+_	_	_	O
+성공	성공하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 건강보험심사평가원이 10일 공개한 ‘4차 대장암 적정성 평가결과’에 따르면 2014년 대장암으로 수술받은 환자(만 18세 이상) 중 50대 이상은 1만5770명으로 전체 대비 89.6%를 차지했다.
+## <건강보험심사평가원:ORG>이 <10일:DAT> 공개한 ‘<4차:NOH> 대장암 적정성 평가결과’에 따르면 <2014년:DAT> 대장암으로 수술받은 환자(<만 18세:NOH> 이상) 중 <50대:NOH> 이상은 <1만5770명:NOH>으로 전체 대비 <89.6%:PNT>를 차지했다.
+건강	건강	NNG	B-ORG
+보험	보험	NNG	I-ORG
+심사	심사	NNG	I-ORG
+평가	평가	NNG	I-ORG
+원	원	XSN	I-ORG
+이	이	JKS	O
+_	_	_	O
+10	10	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+공개한	공개하+ㄴ	VV+ETM	O
+_	_	_	O
+‘	‘	SS	O
+4	4	SN	B-NOH
+차	차	NNB	I-NOH
+_	_	_	O
+대장암	대장암	NNG	O
+_	_	_	O
+적정성	적정성	NNG	O
+_	_	_	O
+평가	평가	NNG	O
+결과	결과	NNG	O
+’	’	SS	O
+에	에	JKB	O
+_	_	_	O
+따르	따르	VV	O
+면	면	EC	O
+_	_	_	O
+2014	2014	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+대장암	대장암	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+수술	수술	NNG	O
+받	받	VV	O
+은	은	ETM	O
+_	_	_	O
+환자	환자	NNG	O
+(	(	SS	O
+만	만	JX	B-NOH
+_	_	_	I-NOH
+18	18	SN	I-NOH
+세	세	NNB	I-NOH
+_	_	_	O
+이상	이상	NNG	O
+)	)	SS	O
+_	_	_	O
+중	중	NNB	O
+_	_	_	O
+50	50	SN	B-NOH
+대	대	NNB	I-NOH
+_	_	_	O
+이상	이상	NNG	O
+은	은	JX	O
+_	_	_	O
+1	1	SN	B-NOH
+만	만	NR	I-NOH
+5770	5770	SN	I-NOH
+명	명	NNB	I-NOH
+으로	으로	JKB	O
+_	_	_	O
+전체	전체	NNG	O
+_	_	_	O
+대비	대비	NNG	O
+_	_	_	O
+89.6	89.6	SN	B-PNT
+%	%	SW	I-PNT
+를	를	JKO	O
+_	_	_	O
+차지	차지하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## “한국에서 꼭 대학에 가고 싶어요.”
+## “<한국:LOC>에서 꼭 대학에 가고 싶어요.”
+“	“	SS	O
+한국	한국	NNP	B-LOC
+에서	에서	JKB	O
+_	_	_	O
+꼭	꼭	MAG	O
+_	_	_	O
+대학	대학	NNG	O
+에	에	JKB	O
+_	_	_	O
+가	가	VV	O
+고	고	EC	O
+_	_	_	O
+싶	싶	VX	O
+어요	어요	EF	O
+.	.	SF	O
+”	”	SS	O
+
+## 13
+## 그러자 태인호는 “나는 친한 거 같은데”로 말해 웃음을 자아냈다.
+## 그러자 <태인호:PER>는 “나는 친한 거 같은데”로 말해 웃음을 자아냈다.
+그러	그러	VV	O
+자	자	EC	O
+_	_	_	O
+태인호	태인호	NNP	B-PER
+는	는	JX	O
+_	_	_	O
+“	“	SS	O
+나	나	NP	O
+는	는	JX	O
+_	_	_	O
+친한	친하+ㄴ	VA+ETM	O
+_	_	_	O
+거	것	NNB	O
+_	_	_	O
+같	같	VA	O
+은데	은데	EF	O
+”	”	SS	O
+로	로	JKB	O
+_	_	_	O
+말해	말하+여	VV+EC	O
+_	_	_	O
+웃음	웃음	NNG	O
+을	을	JKO	O
+_	_	_	O
+자아냈	자아내+었	VV+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 14
+## 프랑스 항공당국은 이 부품이 MH370편의 잔해가 맞는지 확인하기 위해 프랑스 본토에 있는 연구소로 옮겨 정밀조사에 착수키로 했다고 뉴욕타임스(NYT)가 보도했다.
+## <프랑스 항공당국:ORG>은 이 부품이 <MH370편:NOH>의 잔해가 맞는지 확인하기 위해 <프랑스:LOC> 본토에 있는 연구소로 옮겨 정밀조사에 착수키로 했다고 <뉴욕타임스:ORG>(<NYT:ORG>)가 보도했다.
+프랑스	프랑스	NNP	B-ORG
+_	_	_	I-ORG
+항공	항공	NNG	I-ORG
+당국	당국	NNG	I-ORG
+은	은	JX	O
+_	_	_	O
+이	이	MM	O
+_	_	_	O
+부품	부품	NNG	O
+이	이	JKS	O
+_	_	_	O
+MH	MH	SL	B-NOH
+370	370	SN	I-NOH
+편	편	NNB	I-NOH
+의	의	JKG	O
+_	_	_	O
+잔해	잔해	NNG	O
+가	가	JKS	O
+_	_	_	O
+맞	맞	VV	O
+는지	는지	EC	O
+_	_	_	O
+확인하	확인하	VV	O
+기	기	ETN	O
+_	_	_	O
+위해	위하+여	VV+EC	O
+_	_	_	O
+프랑스	프랑스	NNP	B-LOC
+_	_	_	O
+본토	본토	NNG	O
+에	에	JKB	O
+_	_	_	O
+있	있	VA	O
+는	는	ETM	O
+_	_	_	O
+연구소	연구소	NNG	O
+로	로	JKB	O
+_	_	_	O
+옮겨	옮기+어	VV+EC	O
+_	_	_	O
+정밀	정밀	NNG	O
+조사	조사	NNG	O
+에	에	JKB	O
+_	_	_	O
+착수	착수하	VV	O
+키	기	ETN	O
+로	로	JKB	O
+_	_	_	O
+했	+였	+EP	O
+다고	다고	EC	O
+_	_	_	O
+뉴욕타임스	뉴욕타임스	NNP	B-ORG
+(	(	SS	O
+NYT	NYT	SL	B-ORG
+)	)	SS	O
+가	가	JKS	O
+_	_	_	O
+보도	보도하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 15
+## 현대차, 베르나 콘셉트 최초 공개 ‘승차감 집중 개선 2030 공략’
+## <현대차:ORG>, <베르나 콘셉트:POH> 최초 공개 ‘승차감 집중 개선 <2030:NOH> 공략’
+현대차	현대차	NNP	B-ORG
+,	,	SP	O
+_	_	_	O
+베르나	베르나	NNG	B-POH
+_	_	_	I-POH
+콘셉트	콘셉트	NNG	I-POH
+_	_	_	O
+최초	최초	NNG	O
+_	_	_	O
+공개	공개	NNG	O
+_	_	_	O
+‘	‘	SS	O
+승차감	승차감	NNG	O
+_	_	_	O
+집중	집중	NNG	O
+_	_	_	O
+개선	개선	NNG	O
+_	_	_	O
+2030	2030	SN	B-NOH
+_	_	_	O
+공략	공략	NNG	O
+’	’	SS	O
+

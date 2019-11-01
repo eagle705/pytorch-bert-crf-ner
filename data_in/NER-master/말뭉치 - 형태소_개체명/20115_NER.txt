@@ -1,0 +1,595 @@
+## 1
+## 남아공 열차탈선 63명 사망/부상자도 3백70여명…피해 더늘어날듯
+## 남아공 열차탈선 <63명:NOH> 사망/부상자도 <3백70여명:NOH>…피해 더늘어날듯
+남아공	남아공	NNP	O
+_	_	_	O
+열차	열차	NNG	O
+탈선	탈선	NNG	O
+_	_	_	O
+63	63	SN	B-NOH
+명	명	NNB	I-NOH
+_	_	_	O
+사망	사망	NNG	O
+/	/	SP	O
+부상자	부상자	NNG	O
+도	도	JX	O
+_	_	_	O
+3	3	SN	B-NOH
+백	백	NR	I-NOH
+70	70	SN	I-NOH
+여	여	XSN	I-NOH
+명	명	NNB	I-NOH
+…	…	SE	O
+피해	피하+여	VV+EC	O
+_	_	_	O
+더	더	MAG	O
+늘어날	늘어나+ㄹ	VV+ETM	O
+듯	듯	NNB	O
+
+## 2
+## 첫 번째는 김 차장의 아버지인 김기택 전 영남대 총장과 박근혜 대통령의 악연이다.
+## 첫 번째는 <김:PER> 차장의 아버지인 <김기택:PER> 전 <영남대:ORG> 총장과 <박근혜:PER> 대통령의 악연이다.
+첫	첫	MM	O
+_	_	_	O
+번째	번째	NNB	O
+는	는	JX	O
+_	_	_	O
+김	김	NNP	B-PER
+_	_	_	O
+차장	차장	NNG	O
+의	의	JKG	O
+_	_	_	O
+아버지	아버지	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+김기택	김기택	NNP	B-PER
+_	_	_	O
+전	전	MM	O
+_	_	_	O
+영남대	영남대	NNP	B-ORG
+_	_	_	O
+총장	총장	NNG	O
+과	과	JC	O
+_	_	_	O
+박근혜	박근혜	NNP	B-PER
+_	_	_	O
+대통령	대통령	NNG	O
+의	의	JKG	O
+_	_	_	O
+악연	악연	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 미국의 제조업 일자리가 쇠락하는 데 있어 나쁜 무역협정들이 중요한 요인이 됐다”(지난해 5월 허핑턴포스트 기고)고 주장한다.
+## <미국:ORG>의 제조업 일자리가 쇠락하는 데 있어 나쁜 무역협정들이 중요한 요인이 됐다”(지난해 <5월:DAT> <허핑턴포스트:ORG> 기고)고 주장한다.
+미국	미국	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+제조업	제조업	NNG	O
+_	_	_	O
+일자리	일자리	NNG	O
+가	가	JKS	O
+_	_	_	O
+쇠락하	쇠락하	VV	O
+는	는	ETM	O
+_	_	_	O
+데	데	NNB	O
+_	_	_	O
+있	있	VA	O
+어	어	EC	O
+_	_	_	O
+나쁜	나쁘+ㄴ	VA+ETM	O
+_	_	_	O
+무역	무역	NNG	O
+협정	협정	NNG	O
+들	들	XSN	O
+이	이	JKS	O
+_	_	_	O
+중요한	중요하+ㄴ	VA+ETM	O
+_	_	_	O
+요인	요인	NNG	O
+이	이	JKC	O
+_	_	_	O
+됐	+었	+EP	O
+다	다	EF	O
+”	”	SS	O
+(	(	SS	O
+지난해	지난해	NNG	O
+_	_	_	O
+5	5	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+허핑턴포스트	허핑턴포스트	NNP	B-ORG
+_	_	_	O
+기고	기고	NNG	O
+)	)	SS	O
+고	고	JKQ	O
+_	_	_	O
+주장한다	주장하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 4
+## 트럼프의 외교정책이 ‘미국 우선주의’라면 샌더스의 경제정책은 ‘미국 일자리 우선’으로 압축된다.
+## <트럼프:PER>의 외교정책이 ‘<미국:ORG> 우선주의’라면 <샌더스:PER>의 경제정책은 ‘<미국:ORG> 일자리 우선’으로 압축된다.
+트럼프	트럼프	NNG	B-PER
+의	의	JKG	O
+_	_	_	O
+외교	외교	NNG	O
+정책	정책	NNG	O
+이	이	JKS	O
+_	_	_	O
+‘	‘	SS	O
+미국	미국	NNP	B-ORG
+_	_	_	O
+우선주의	우선주의	NNG	O
+’	’+이	SS+VCP	O
+라면	라면	EC	O
+_	_	_	O
+샌더스	샌더스	NNP	B-PER
+의	의	JKG	O
+_	_	_	O
+경제	경제	NNG	O
+정책	정책	NNG	O
+은	은	JX	O
+_	_	_	O
+‘	‘	SS	O
+미국	미국	NNP	B-ORG
+_	_	_	O
+일자리	일자리	NNG	O
+_	_	_	O
+우선	우선	MAG	O
+’	’	SS	O
+으로	으로	JKB	O
+_	_	_	O
+압축된다	압축되+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 5
+## 올해 국내총생산(GDP) 대비 공적연금(국민연금+기초연금)은 1.9% 수준이다.
+## 올해 국내총생산(GDP) 대비 공적연금(국민연금+기초연금)은 <1.9%:PNT> 수준이다.
+올해	올해	NNG	O
+_	_	_	O
+국내	국내	NNG	O
+총	총	XPN	O
+생산	생산	NNG	O
+(	(	SS	O
+GDP	GDP	SL	O
+)	)	SS	O
+_	_	_	O
+대비	대비	NNG	O
+_	_	_	O
+공적	공적	NNG	O
+연금	연금	NNG	O
+(	(	SS	O
+국민	국민	NNG	O
+연금+	연금++	NNG+SW	O
+기초	기초	NNG	O
+연금	연금	NNG	O
+)	)	SS	O
+은	은	JX	O
+_	_	_	O
+1.9	1.9	SN	B-PNT
+%	%	SW	I-PNT
+_	_	_	O
+수준	수준	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 쿠사마 야요이와 장샤오강은 일본과 중국의 현대 거장이다.
+## <쿠사마 야요이:PER>와 <장샤오강:PER>은 <일본:ORG>과 <중국:ORG>의 <현대:ORG> 거장이다.
+쿠	쿠	NNP	B-PER
+사마	사마	NNG	I-PER
+_	_	_	I-PER
+야요이	야요이	NNP	I-PER
+와	와	JC	O
+_	_	_	O
+장	장	NNG	B-PER
+샤오	샤오	NNG	I-PER
+강	강	NNG	I-PER
+은	은	JX	O
+_	_	_	O
+일본	일본	NNP	B-ORG
+과	과	JC	O
+_	_	_	O
+중국	중국	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+현대	현대	NNP	B-ORG
+_	_	_	O
+거장	거장	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 조 회장은 “대한항공을 아껴주신 모든 국민께 사과한다”라며 “이유와 관계없이 조 전 부사장이 승무원을 비행기에 내리게 한 것은 잘못”이라고 진술했다.
+## <조:PER> 회장은 “<대한항공:ORG>을 아껴주신 모든 국민께 사과한다”라며 “이유와 관계없이 <조:PER> 전 부사장이 승무원을 비행기에 내리게 한 것은 잘못”이라고 진술했다.
+조	조	NNP	B-PER
+_	_	_	O
+회장	회장	NNG	O
+은	은	JX	O
+_	_	_	O
+“	“	SS	O
+대한항공	대한항공	NNP	B-ORG
+을	을	JKO	O
+_	_	_	O
+아껴	아끼+어	VV+EC	O
+주	주	VX	O
+신	시+ㄴ	EP+ETM	O
+_	_	_	O
+모든	모든	MM	O
+_	_	_	O
+국민	국민	NNG	O
+께	께	JKB	O
+_	_	_	O
+사과한다	사과하+ㄴ다	VV+EF	O
+”	”+이	SS+VCP	O
+라며	라며	EC	O
+_	_	_	O
+“	“	SS	O
+이유	이유	NNG	O
+와	와	JKB	O
+_	_	_	O
+관계없이	관계없이	MAG	O
+_	_	_	O
+조	조	NNP	B-PER
+_	_	_	O
+전	전	MM	O
+_	_	_	O
+부사장	부사장	NNG	O
+이	이	JKS	O
+_	_	_	O
+승무원	승무원	NNG	O
+을	을	JKO	O
+_	_	_	O
+비행기	비행기	NNG	O
+에	에	JKB	O
+_	_	_	O
+내리	내리	VV	O
+게	게	EC	O
+_	_	_	O
+한	하+ㄴ	VX+ETM	O
+_	_	_	O
+것	것	NNB	O
+은	은	JX	O
+_	_	_	O
+잘못	잘못	NNG	O
+”	”	SS	O
+이라고	이라고	JKQ	O
+_	_	_	O
+진술	진술하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 흑이 중앙을 받으면 우변 흑 3점을 잡겠다는 뜻. 흑의 묘수가 필요하다.
+## 흑이 중앙을 받으면 우변 흑 <3점:NOH>을 잡겠다는 뜻. 흑의 묘수가 필요하다.
+흑	흑	NNG	O
+이	이	JKS	O
+_	_	_	O
+중앙	중앙	NNG	O
+을	을	JKO	O
+_	_	_	O
+받	받	VV	O
+으면	으면	EC	O
+_	_	_	O
+우변	우변	NNG	O
+_	_	_	O
+흑	흑	NNG	O
+_	_	_	O
+3	3	SN	B-NOH
+점	점	NNB	I-NOH
+을	을	JKO	O
+_	_	_	O
+잡	잡	VV	O
+겠	겠	EP	O
+다는	다는	ETM	O
+_	_	_	O
+뜻	뜻	NNG	O
+.	.	SF	O
+_	_	_	O
+흑	흑	NNG	O
+의	의	JKG	O
+_	_	_	O
+묘수	묘수	NNG	O
+가	가	JKS	O
+_	_	_	O
+필요하	필요하	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## DIA는 지난 10여년간 북한은 지상군을 기동성을 높이고 기계화수준을 향상시키기 위해 꾸준히 탱크와 자주포, 장갑차의 숫자를 늘려왔다고 전했다.
+## <DIA:ORG>는 지난 <10여년간:DUR> <북한:ORG>은 지상군을 기동성을 높이고 기계화수준을 향상시키기 위해 꾸준히 탱크와 자주포, 장갑차의 숫자를 늘려왔다고 전했다.
+DIA	DIA	SL	B-ORG
+는	는	JX	O
+_	_	_	O
+지난	지나+ㄴ	VV+ETM	O
+_	_	_	O
+10	10	SN	B-DUR
+여	여	XSN	I-DUR
+년	년	NNB	I-DUR
+간	간	XSN	I-DUR
+_	_	_	O
+북한	북한	NNP	B-ORG
+은	은	JX	O
+_	_	_	O
+지상군	지상군	NNG	O
+을	을	JKO	O
+_	_	_	O
+기동성	기동성	NNG	O
+을	을	JKO	O
+_	_	_	O
+높이	높이	VV	O
+고	고	EC	O
+_	_	_	O
+기계화	기계화	NNG	O
+수준	수준	NNG	O
+을	을	JKO	O
+_	_	_	O
+향상	향상	NNG	O
+시키	시키	XSV	O
+기	기	ETN	O
+_	_	_	O
+위해	위하+여	VV+EC	O
+_	_	_	O
+꾸준히	꾸준히	MAG	O
+_	_	_	O
+탱크	탱크	NNG	O
+와	와	JC	O
+_	_	_	O
+자주포	자주포	NNG	O
+,	,	SP	O
+_	_	_	O
+장갑차	장갑차	NNG	O
+의	의	JKG	O
+_	_	_	O
+숫자	숫자	NNG	O
+를	를	JKO	O
+_	_	_	O
+늘려	늘리+어+오	VV+EC+VX	O
+왔	았	EP	O
+다고	다고	EC	O
+_	_	_	O
+전	전하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 모레티 감독은 마르게리타가 겪는 사소한 순간의 감정을 차곡차곡 쌓아올리며 이야기를 끌어간다.
+## <모레티:PER> 감독은 <마르게리타:PER>가 겪는 사소한 순간의 감정을 차곡차곡 쌓아올리며 이야기를 끌어간다.
+모레티	모레티	NNP	B-PER
+_	_	_	O
+감독	감독	NNG	O
+은	은	JX	O
+_	_	_	O
+마르	마르	NNP	B-PER
+게리	게리	NNP	I-PER
+타	타	NNG	I-PER
+가	가	JKS	O
+_	_	_	O
+겪	겪	VV	O
+는	는	ETM	O
+_	_	_	O
+사소한	사소하+ㄴ	VA+ETM	O
+_	_	_	O
+순간	순간	NNG	O
+의	의	JKG	O
+_	_	_	O
+감정	감정	NNG	O
+을	을	JKO	O
+_	_	_	O
+차곡차곡	차곡차곡	MAG	O
+_	_	_	O
+쌓	쌓	VV	O
+아	아	EC	O
+올리	올리	VV	O
+며	며	EC	O
+_	_	_	O
+이야기	이야기	NNG	O
+를	를	JKO	O
+_	_	_	O
+끌어간다	끌어가+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 11
+## 어머니가 같은 형제 중 형 한구씨는 남한에서 사망했고 동생 낙구는 서울대 상대를 졸업한 뒤 6·25 때 인민군에 입대했다가 월북했다.
+## 어머니가 같은 형제 중 형 <한구:PER>씨는 <남한:ORG>에서 사망했고 동생 <낙구:PER>는 <서울대 상대:ORG>를 졸업한 뒤 <6·25:POH> 때 인민군에 입대했다가 월북했다.
+어머니	어머니	NNG	O
+가	가	JKS	O
+_	_	_	O
+같	같	VA	O
+은	은	ETM	O
+_	_	_	O
+형제	형제	NNG	O
+_	_	_	O
+중	중	NNB	O
+_	_	_	O
+형	형	NNG	O
+_	_	_	O
+한구	한구	NNP	B-PER
+씨	씨	NNB	O
+는	는	JX	O
+_	_	_	O
+남한	남한	NNP	B-ORG
+에서	에서	JKB	O
+_	_	_	O
+사망	사망하	VV	O
+했	였	EP	O
+고	고	EC	O
+_	_	_	O
+동생	동생	NNG	O
+_	_	_	O
+낙구	낙구	NNG	B-PER
+는	는	JX	O
+_	_	_	O
+서울대	서울대	NNP	B-ORG
+_	_	_	I-ORG
+상대	상대	NNG	I-ORG
+를	를	JKO	O
+_	_	_	O
+졸업한	졸업하+ㄴ	VV+ETM	O
+_	_	_	O
+뒤	뒤	NNG	O
+_	_	_	O
+6	6	SN	B-POH
+·	·	SP	I-POH
+25	25	SN	I-POH
+_	_	_	O
+때	때	NNG	O
+_	_	_	O
+인민군	인민군	NNG	O
+에	에	JKB	O
+_	_	_	O
+입대	입대하	VV	O
+했	였	EP	O
+다가	다가	EC	O
+_	_	_	O
+월북	월북하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 교육부는 위원장을 선임한뒤 곧바로 위원장과 위원 선임작업에 착수했다.
+## <교육부:ORG>는 위원장을 선임한뒤 곧바로 위원장과 위원 선임작업에 착수했다.
+교육부	교육부	NNG	B-ORG
+는	는	JX	O
+_	_	_	O
+위원장	위원장	NNG	O
+을	을	JKO	O
+_	_	_	O
+선임한	선임하+ㄴ	VV+ETM	O
+뒤	뒤	NNG	O
+_	_	_	O
+곧바로	곧바로	MAG	O
+_	_	_	O
+위원장	위원장	NNG	O
+과	과	JC	O
+_	_	_	O
+위원	위원	NNG	O
+_	_	_	O
+선임	선임	NNG	O
+작업	작업	NNG	O
+에	에	JKB	O
+_	_	_	O
+착수	착수하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## 진짜사나이 최유진, 팔뚝 얇아 혈압측정 불가 …어떻게 이런일이?
+## <진짜사나이:POH> <최유진:PER>, 팔뚝 얇아 혈압측정 불가 …어떻게 이런일이?
+진짜	진짜	NNG	B-POH
+사나이	사나이	NNG	I-POH
+_	_	_	O
+최유진	최유진	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+팔뚝	팔뚝	NNG	O
+_	_	_	O
+얇	얇	VA	O
+아	아	EC	O
+_	_	_	O
+혈압	혈압	NNG	O
+측정	측정	NNG	O
+_	_	_	O
+불가	불가	NNG	O
+_	_	_	O
+…	…	SE	O
+어떻	어떻	VA	O
+게	게	EC	O
+_	_	_	O
+이런	이런	MM	O
+일	일	NNG	O
+이	이	JKS	O
+?	?	SF	O
+
+## 14
+## 방역전쟁이 가장 요란했던 곳은 13∼14일 서울 방이동 올림픽공원 체조경기장에서 열린 동방신기 공연이었다.
+## 방역전쟁이 가장 요란했던 곳은 <13∼14일:DUR> <서울:LOC> <방이동:LOC> <올림픽공원 체조경기장:LOC>에서 열린 <동방신기:ORG> 공연이었다.
+방역	방역	NNG	O
+전쟁	전쟁	NNG	O
+이	이	JKS	O
+_	_	_	O
+가장	가장	MAG	O
+_	_	_	O
+요란	요란하	VA	O
+했	였	EP	O
+던	던	ETM	O
+_	_	_	O
+곳	곳	NNG	O
+은	은	JX	O
+_	_	_	O
+13	13	SN	B-DUR
+∼	∼	SO	I-DUR
+14	14	SN	I-DUR
+일	일	NNB	I-DUR
+_	_	_	O
+서울	서울	NNP	B-LOC
+_	_	_	O
+방이동	방이동	NNP	B-LOC
+_	_	_	O
+올림픽	올림픽	NNG	B-LOC
+공원	공원	NNG	I-LOC
+_	_	_	I-LOC
+체조	체조	NNG	I-LOC
+경기장	경기장	NNG	I-LOC
+에서	에서	JKB	O
+_	_	_	O
+열린	열리+ㄴ	VV+ETM	O
+_	_	_	O
+동방신기	동방신기	NNP	B-ORG
+_	_	_	O
+공연	공연	NNG	O
+이	이	VCP	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 15
+## 지난해 국내 흰줄숲모기는 4055마리가 채집되면서 전체 채집모기(21만2695마리) 중 1.9%를 차지했다.
+## 지난해 국내 흰줄숲모기는 <4055마리:NOH>가 채집되면서 전체 채집모기(<21만2695마리:NOH>) 중 <1.9%:PNT>를 차지했다.
+지난해	지난해	NNG	O
+_	_	_	O
+국내	국내	NNG	O
+_	_	_	O
+흰줄숲모기	흰줄숲모기	NNG	O
+는	는	JX	O
+_	_	_	O
+4055	4055	SN	B-NOH
+마리	마리	NNB	I-NOH
+가	가	JKS	O
+_	_	_	O
+채집되	채집되	VV	O
+면서	면서	EC	O
+_	_	_	O
+전체	전체	NNG	O
+_	_	_	O
+채집	채집	NNG	O
+모기	모기	NNG	O
+(	(	SS	O
+21	21	SN	B-NOH
+만	만	NR	I-NOH
+2695	2695	SN	I-NOH
+마리	마리	NNB	I-NOH
+)	)	SS	O
+_	_	_	O
+중	중	NNP	O
+_	_	_	O
+1.9	1.9	SN	B-PNT
+%	%	SW	I-PNT
+를	를	JKO	O
+_	_	_	O
+차지	차지하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+

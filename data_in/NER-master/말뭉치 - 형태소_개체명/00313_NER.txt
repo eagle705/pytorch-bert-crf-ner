@@ -1,0 +1,395 @@
+## 1
+## 납품 규모는 15억 원 상당으로 약 50만 벌을 제작할 수 있는 분량이다.
+## 납품 규모는 <15억 원:MNY> 상당으로 약 <50만 벌:NOH>을 제작할 수 있는 분량이다.
+납품	납품	NNG	O
+_	_	_	O
+규모	규모	NNG	O
+는	는	JX	O
+_	_	_	O
+15	15	SN	B-MNY
+억	억	NR	I-MNY
+_	_	_	I-MNY
+원	원	NNB	I-MNY
+_	_	_	O
+상당	상당	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+약	약	MM	O
+_	_	_	O
+50	50	SN	B-NOH
+만	만	NR	I-NOH
+_	_	_	I-NOH
+벌	벌	NNG	I-NOH
+을	을	JKO	O
+_	_	_	O
+제작할	제작하+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+는	는	ETM	O
+_	_	_	O
+분량	분량	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 한화탈레스의 주력 제품으로 레이더를 빼놓을 수 없다.
+## <한화탈레스:ORG>의 주력 제품으로 레이더를 빼놓을 수 없다.
+한화	한화	NNP	B-ORG
+탈레스	탈레스	NNP	I-ORG
+의	의	JKG	O
+_	_	_	O
+주력	주력	NNG	O
+_	_	_	O
+제품	제품	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+레이더	레이더	NNG	O
+를	를	JKO	O
+_	_	_	O
+빼놓	빼놓	VV	O
+을	을	ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+없	없	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 국립극장 새 시즌 작품 공개… 신작부터 우수작까지 화려한 라인업
+## <국립극장:ORG> 새 시즌 작품 공개… 신작부터 우수작까지 화려한 라인업
+국립	국립	NNG	B-ORG
+극장	극장	NNG	I-ORG
+_	_	_	O
+새	새	MM	O
+_	_	_	O
+시즌	시즌	NNG	O
+_	_	_	O
+작품	작품	NNG	O
+_	_	_	O
+공개	공개	NNG	O
+…	…	SE	O
+_	_	_	O
+신작	신작	NNG	O
+부터	부터	JX	O
+_	_	_	O
+우수	우수	NNG	O
+작	작	XSN	O
+까지	까지	JX	O
+_	_	_	O
+화려한	화려하+ㄴ	VA+ETM	O
+_	_	_	O
+라인업	라인업	NNG	O
+
+## 4
+## 현대차, 테이트 모던에서 ‘현대 커미션 2015’ 개최
+## <현대차:ORG>, <테이트 모던:LOC>에서 ‘<현대 커미션:POH> <2015:DAT>’ 개최
+현대차	현대차	NNP	B-ORG
+,	,	SP	O
+_	_	_	O
+테이트	테이트	NNP	B-LOC
+_	_	_	I-LOC
+모던	모던	NNG	I-LOC
+에서	에서	JKB	O
+_	_	_	O
+‘	‘	SS	O
+현대	현대	NNP	B-POH
+_	_	_	I-POH
+커미션	커미션	NNG	I-POH
+_	_	_	O
+2015	2015	SN	B-DAT
+’	’	SS	O
+_	_	_	O
+개최	개최	NNG	O
+
+## 5
+## 정성택 neone@donga.com / 울릉=장영훈 기자·국방부 공동취재단
+## <정성택:PER> <neone@donga.com:POH> / <울릉:LOC>=<장영훈:PER> 기자·<국방부:ORG> 공동취재단
+정성택	정성택	NNP	B-PER
+_	_	_	O
+neone	neone	SL	B-POH
+@	@	SW	I-POH
+donga	donga	SL	I-POH
+.	.	SF	I-POH
+com	com	SL	I-POH
+_	_	_	O
+/	/	SP	O
+_	_	_	O
+울릉	울릉	NNP	B-LOC
+=	=	SW	O
+장영훈	장영훈	NNP	B-PER
+_	_	_	O
+기자	기자	NNG	O
+·	·	SP	O
+국방부	국방부	NNG	B-ORG
+_	_	_	O
+공동	공동	NNG	O
+취재	취재	NNG	O
+단	단	XSN	O
+
+## 6
+## 국어 새 유형에 지문 길어 변별력… 전체 난이도는 6월모평과 비슷
+## 국어 새 유형에 지문 길어 변별력… 전체 난이도는 <6월:DAT>모평과 비슷
+국어	국어	NNG	O
+_	_	_	O
+새	새	MM	O
+_	_	_	O
+유형	유형	NNG	O
+에	에	JKB	O
+_	_	_	O
+지문	지문	NNG	O
+_	_	_	O
+길	길	VA	O
+어	어	EC	O
+_	_	_	O
+변별력	변별력	NNG	O
+…	…	SE	O
+_	_	_	O
+전체	전체	NNG	O
+_	_	_	O
+난이도	난이도	NNG	O
+는	는	JX	O
+_	_	_	O
+6	6	SN	B-DAT
+월모평	월모평	NNG	O
+과	과	JC	O
+_	_	_	O
+비슷	비슷	NNG	O
+
+## 7
+## 이 소식을 접한 네티즌들은 "조혜정 귀엽다"
+## 이 소식을 접한 네티즌들은 "<조혜정:PER> 귀엽다"
+이	이	MM	O
+_	_	_	O
+소식	소식	NNG	O
+을	을	JKO	O
+_	_	_	O
+접한	접하+ㄴ	VV+ETM	O
+_	_	_	O
+네티즌	네티즌	NNG	O
+들	들	XSN	O
+은	은	JX	O
+_	_	_	O
+"	"	SS	O
+조혜정	조혜정	NNP	B-PER
+_	_	_	O
+귀엽	귀엽	VA	O
+다	다	EF	O
+"	"	SS	O
+
+## 8
+## SM스테이션, 레드벨벳 ‘Would U’ 공개…아이린·김민재 뮤비서 ‘풋풋’ 케미
+## <SM스테이션:ORG>, <레드벨벳:ORG> ‘<Would U:POH>’ 공개…<아이린:PER>·<김민재:PER> 뮤비서 ‘풋풋’ 케미
+SM	SM	SL	B-ORG
+스테이션	스테이션	NNG	I-ORG
+,	,	SP	O
+_	_	_	O
+레드	레드	NNG	B-ORG
+벨벳	벨벳	NNG	I-ORG
+_	_	_	O
+‘	‘	SS	O
+Would	Would	SL	B-POH
+_	_	_	I-POH
+U	U	SL	I-POH
+’	’	SS	O
+_	_	_	O
+공개	공개	NNG	O
+…	…	SE	O
+아이린	아이린	NNP	B-PER
+·	·	SP	O
+김민재	김민재	NNP	B-PER
+_	_	_	O
+뮤	뮤	NNG	O
+비서	비서	NNG	O
+_	_	_	O
+‘	‘	SS	O
+풋풋	풋풋	IC	O
+’	’	SS	O
+_	_	_	O
+케미	케미	NNG	O
+
+## 9
+## ③ 3단계- 60가지 동물 캐릭터 표를 보고 나의 캐릭터를 확인한다.
+## ③ <3단계:NOH>- <60가지:NOH> 동물 캐릭터 표를 보고 나의 캐릭터를 확인한다.
+③	③	SW	O
+_	_	_	O
+3	3	SN	B-NOH
+단계	단계	NNG	I-NOH
+-	-	SO	O
+_	_	_	O
+60	60	SN	B-NOH
+가지	가지	NNB	I-NOH
+_	_	_	O
+동물	동물	NNG	O
+_	_	_	O
+캐릭터	캐릭터	NNG	O
+_	_	_	O
+표	표	NNG	O
+를	를	JKO	O
+_	_	_	O
+보	보	VV	O
+고	고	EC	O
+_	_	_	O
+나	나	NP	O
+의	의	JKG	O
+_	_	_	O
+캐릭터	캐릭터	NNG	O
+를	를	JKO	O
+_	_	_	O
+확인한다	확인하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 10
+## 차기 호위함은 현재 동·서·남해에서 운용 중인 호위함 과 초계함 의 후속 전력으로 2020년까지 총 20여 척이 건조될 예정이다.
+## 차기 호위함은 현재 동·서·남해에서 운용 중인 호위함 과 초계함 의 후속 전력으로 <2020년:DAT>까지 총 <20여 척:NOH>이 건조될 예정이다.
+차기	차기	NNG	O
+_	_	_	O
+호위함	호위함	NNG	O
+은	은	JX	O
+_	_	_	O
+현재	현재	MAG	O
+_	_	_	O
+동	동	NNG	O
+·	·	SP	O
+서	서	NNG	O
+·	·	SP	O
+남해	남해	NNP	O
+에서	에서	JKB	O
+_	_	_	O
+운용	운용	NNG	O
+_	_	_	O
+중	중	NNB	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+호위함	호위하+ㅁ	VV+ETN	O
+_	_	_	O
+과	과	JC	O
+_	_	_	O
+초계함	초계함	NNG	O
+_	_	_	O
+의	의	JKG	O
+_	_	_	O
+후속	후속	NNG	O
+_	_	_	O
+전력	전력	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+2020	2020	SN	B-DAT
+년	년	NNB	I-DAT
+까지	까지	JX	O
+_	_	_	O
+총	총	MM	O
+_	_	_	O
+20	20	SN	B-NOH
+여	여	XSN	I-NOH
+_	_	_	I-NOH
+척	척	NNB	I-NOH
+이	이	JKS	O
+_	_	_	O
+건조될	건조되+ㄹ	VV+ETM	O
+_	_	_	O
+예정	예정	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 오후에는 중국의 최대 포털인 바이두(百度)를 방문해 바이보(白伯) 부사장 등을 만났다.
+## 오후에는 <중국:ORG>의 최대 포털인 <바이두:ORG>(<百度:ORG>)를 방문해 <바이보:PER>(<白伯:PER>) 부사장 등을 만났다.
+오후	오후	NNG	O
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+중국	중국	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+최대	최대	NNG	O
+_	_	_	O
+포털	포털	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+바이두	바이두	NNP	B-ORG
+(	(	SS	O
+百度	百度	SH	B-ORG
+)	)	SS	O
+를	를	JKO	O
+_	_	_	O
+방문해	방문하+여	VV+EC	O
+_	_	_	O
+바이	바이	NNG	B-PER
+보	보	VV	I-PER
+(	(	SS	O
+白伯	白伯	SH	B-PER
+)	)	SS	O
+_	_	_	O
+부사장	부사장	NNG	O
+_	_	_	O
+등	등	NNB	O
+을	을	JKO	O
+_	_	_	O
+만났	만나+았	VV+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 평양에서 아파트가 고층일수록 가격이 떨어지고 20층 이상이 되면 입주하지 않으려 하는 현상이 나타나는 가장 큰 원인도 바로 수돗물 때문이다.
+## <평양:LOC>에서 아파트가 고층일수록 가격이 떨어지고 <20층:NOH> 이상이 되면 입주하지 않으려 하는 현상이 나타나는 가장 큰 원인도 바로 수돗물 때문이다.
+평양	평양	NNP	B-LOC
+에서	에서	JKB	O
+_	_	_	O
+아파트	아파트	NNG	O
+가	가	JKS	O
+_	_	_	O
+고	고	NNP	O
+층	층	XSN	O
+일수록	이+ㄹ수록	VCP+EC	O
+_	_	_	O
+가격	가격	NNG	O
+이	이	JKS	O
+_	_	_	O
+떨어지	떨어지	VV	O
+고	고	EC	O
+_	_	_	O
+20	20	SN	B-NOH
+층	층	NNG	I-NOH
+_	_	_	O
+이상	이상	NNG	O
+이	이	JKC	O
+_	_	_	O
+되	되	VV	O
+면	면	EC	O
+_	_	_	O
+입주하	입주하	VV	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+으려	으려	EC	O
+_	_	_	O
+하	하	VX	O
+는	는	ETM	O
+_	_	_	O
+현상	현상	NNG	O
+이	이	JKS	O
+_	_	_	O
+나타나	나타나	VV	O
+는	는	ETM	O
+_	_	_	O
+가장	가장	MAG	O
+_	_	_	O
+큰	크+ㄴ	VA+ETM	O
+_	_	_	O
+원인	원인	NNG	O
+도	도	JX	O
+_	_	_	O
+바로	바로	MAG	O
+_	_	_	O
+수돗물	수돗물	NNG	O
+_	_	_	O
+때문	때문	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+

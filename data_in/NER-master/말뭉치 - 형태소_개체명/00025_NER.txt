@@ -1,0 +1,407 @@
+## 1
+## 그의 자서전(『절망은 나를 단련시키고 희망은 나를 움직인다』)에는 ‘돌아서는 사람들’ 편이 나온다.
+## 그의 자서전(『<절망은 나를 단련시키고 희망은 나를 움직인다:POH>』)에는 ‘<돌아서는 사람들:POH>’ 편이 나온다.
+그	그	NP	O
+의	의	JKG	O
+_	_	_	O
+자서전	자서전	NNG	O
+(	(	SS	O
+『	『	SS	O
+절망	절망	NNG	B-POH
+은	은	JX	I-POH
+_	_	_	I-POH
+나	나	NP	I-POH
+를	를	JKO	I-POH
+_	_	_	I-POH
+단련	단련	NNG	I-POH
+시키	시키	XSV	I-POH
+고	고	EC	I-POH
+_	_	_	I-POH
+희망	희망	NNG	I-POH
+은	은	JX	I-POH
+_	_	_	I-POH
+나	나	NP	I-POH
+를	를	JKO	I-POH
+_	_	_	I-POH
+움직인다	움직이+ㄴ다	VV+EF	I-POH
+』	』	SS	O
+)	)	SS	O
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+‘	‘	SS	O
+돌아서	돌아서	VV	B-POH
+는	는	ETM	I-POH
+_	_	_	I-POH
+사람	사람	NNG	I-POH
+들	들	XSN	I-POH
+’	’	SS	O
+_	_	_	O
+편	편	NNB	O
+이	이	JKS	O
+_	_	_	O
+나온다	나오+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 2
+## 그러나 서울북부지법은 이날 학교 공금을 변호사 보수 등에 쓴 혐의로 심 총장에게 징역 1년을 선고하고 법정구속했다.
+## 그러나 <서울북부지법:ORG>은 이날 학교 공금을 변호사 보수 등에 쓴 혐의로 <심:PER> 총장에게 징역 <1년:DUR>을 선고하고 법정구속했다.
+그러나	그러나	MAJ	O
+_	_	_	O
+서울북부지법	서울북부지법	NNP	B-ORG
+은	은	JX	O
+_	_	_	O
+이날	이날	NNG	O
+_	_	_	O
+학교	학교	NNG	O
+_	_	_	O
+공금	공금	NNG	O
+을	을	JKO	O
+_	_	_	O
+변호사	변호사	NNG	O
+_	_	_	O
+보수	보수	NNG	O
+_	_	_	O
+등	등	NNB	O
+에	에	JKB	O
+_	_	_	O
+쓴	쓰+ㄴ	VV+ETM	O
+_	_	_	O
+혐의	혐의	NNG	O
+로	로	JKB	O
+_	_	_	O
+심	심	NNP	B-PER
+_	_	_	O
+총장	총장	NNG	O
+에게	에게	JKB	O
+_	_	_	O
+징역	징역	NNG	O
+_	_	_	O
+1	1	SN	B-DUR
+년	년	NNB	I-DUR
+을	을	JKO	O
+_	_	_	O
+선고하	선고하	VV	O
+고	고	EC	O
+_	_	_	O
+법정	법정	NNG	O
+구속	구속하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## (서울=뉴스1)
+## (<서울:LOC>=<뉴스1:ORG>)
+(	(	SS	O
+서울	서울	NNP	B-LOC
+=	=	SW	O
+뉴스	뉴스	NNG	B-ORG
+1	1	SN	I-ORG
+)	)	SS	O
+
+## 4
+## 권오중, 김원이 전 서울시 정무수석도 시차를 두고 안 도지사 쪽에 가담했다.
+## <권오중:PER>, <김원이:PER> 전 <서울시:ORG> 정무수석도 시차를 두고 <안:PER> 도지사 쪽에 가담했다.
+권오중	권오중	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+김원	김원	NNP	B-PER
+이	이	JKS	I-PER
+_	_	_	O
+전	전	MM	O
+_	_	_	O
+서울시	서울시	NNP	B-ORG
+_	_	_	O
+정무	정무	NNG	O
+수석	수석	NNG	O
+도	도	JX	O
+_	_	_	O
+시차	시차	NNG	O
+를	를	JKO	O
+_	_	_	O
+두	두	VV	O
+고	고	EC	O
+_	_	_	O
+안	안	NNP	B-PER
+_	_	_	O
+도지사	도지사	NNG	O
+_	_	_	O
+쪽	쪽	NNB	O
+에	에	JKB	O
+_	_	_	O
+가담	가담하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 하지만 올 시즌에는 12경기에서 4승 5패, 평균자책점 5.74로 부진했다.
+## 하지만 올 시즌에는 <12경기:NOH>에서 <4승:NOH> <5패:NOH>, 평균자책점 <5.74:NOH>로 부진했다.
+하지만	하지만	MAJ	O
+_	_	_	O
+올	올	NNG	O
+_	_	_	O
+시즌	시즌	NNG	O
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+12	12	SN	B-NOH
+경기	경기	NNG	I-NOH
+에서	에서	JKB	O
+_	_	_	O
+4	4	SN	B-NOH
+승	승	NNB	I-NOH
+_	_	_	O
+5	5	SN	B-NOH
+패	패	NNB	I-NOH
+,	,	SP	O
+_	_	_	O
+평균	평균	NNG	O
+자책점	자책점	NNG	O
+_	_	_	O
+5.74	5.74	SN	B-NOH
+로	로	JKB	O
+_	_	_	O
+부진	부진하	VA	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 봉태규 하시시박, 웨딩사진 예행연습? '파격 커플 화보'
+## <봉태규:PER> <하시시박:PER>, 웨딩사진 예행연습? '파격 커플 화보'
+봉태규	봉태규	NNP	B-PER
+_	_	_	O
+하시시	하시시	NNG	B-PER
+박	박	NNP	I-PER
+,	,	SP	O
+_	_	_	O
+웨딩	웨딩	NNG	O
+사진	사진	NNG	O
+_	_	_	O
+예행연습	예행연습	NNG	O
+?	?	SF	O
+_	_	_	O
+'	'	SS	O
+파격	파격	NNG	O
+_	_	_	O
+커플	커플	NNG	O
+_	_	_	O
+화보	화보	NNG	O
+'	'	SS	O
+
+## 7
+## 현장 밀착 뉴스코너인 ‘콕콕 카메라’가 매일 시청자를 찾아간다.
+## 현장 밀착 뉴스코너인 ‘<콕콕 카메라:POH>’가 매일 시청자를 찾아간다.
+현장	현장	NNG	O
+_	_	_	O
+밀착	밀착	NNG	O
+_	_	_	O
+뉴스	뉴스	NNG	O
+코너	코너	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+‘	‘	SS	O
+콕콕	콕콕	MAG	B-POH
+_	_	_	I-POH
+카메라	카메라	NNG	I-POH
+’	’	SS	O
+가	가	JKS	O
+_	_	_	O
+매일	매일	MAG	O
+_	_	_	O
+시청자	시청자	NNG	O
+를	를	JKO	O
+_	_	_	O
+찾아간다	찾아가+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 8
+## 1선발 RA 디키(41)와 2선발 마크 벌리(36)가 지난해 27승을 합작했지만 두 선수 모두 200이닝 이상을 투구했다.
+## <1선발:NOH> <RA 디키:PER>(<41:NOH>)와 <2선발:NOH> <마크 벌리:PER>(<36:NOH>)가 지난해 <27승:NOH>을 합작했지만 <두 선수:NOH> 모두 <200이닝:NOH> 이상을 투구했다.
+1	1	SN	B-NOH
+선발	선발	NNG	I-NOH
+_	_	_	O
+RA	RA	SL	B-PER
+_	_	_	I-PER
+디키	디키	NNG	I-PER
+(	(	SS	O
+41	41	SN	B-NOH
+)	)	SS	O
+와	와	JKB	O
+_	_	_	O
+2	2	SN	B-NOH
+선발	선발	NNG	I-NOH
+_	_	_	O
+마크	마크	NNP	B-PER
+_	_	_	I-PER
+벌리	벌리	NNP	I-PER
+(	(	SS	O
+36	36	SN	B-NOH
+)	)	SS	O
+가	가	JKS	O
+_	_	_	O
+지난해	지난해	NNG	O
+_	_	_	O
+27	27	SN	B-NOH
+승	승	NNB	I-NOH
+을	을	JKO	O
+_	_	_	O
+합작	합작하	VV	O
+했	였	EP	O
+지만	지만	EC	O
+_	_	_	O
+두	두	MM	B-NOH
+_	_	_	I-NOH
+선수	선수	NNG	I-NOH
+_	_	_	O
+모두	모두	MAG	O
+_	_	_	O
+200	200	SN	B-NOH
+이닝	이닝	NNG	I-NOH
+_	_	_	O
+이상	이상	NNG	O
+을	을	JKO	O
+_	_	_	O
+투구	투구하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 유기 자외선차단제의 대표적인 성분은 옥틸메톡시신나메이트, 에칠헥실살리실에이트, 호모살리에이트, 벤조페논-3, 아보벤존 등이다.
+## 유기 자외선차단제의 대표적인 성분은 <옥틸메톡시신나메이트:POH>, <에칠헥실살리실에이트:POH>, <호모살리에이트:POH>, <벤조페논-3:POH>, <아보벤존:POH> 등이다.
+유기	유기	NNG	O
+_	_	_	O
+자외선	자외선	NNG	O
+차단	차단	NNG	O
+제	제	XSN	O
+의	의	JKG	O
+_	_	_	O
+대표적	대표적	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+성분	성분	NNG	O
+은	은	JX	O
+_	_	_	O
+옥틸	옥틸	NNG	B-POH
+메톡시	메톡시	NNG	I-POH
+신나	신나	NNG	I-POH
+메이트	메이트	NNG	I-POH
+,	,	SP	O
+_	_	_	O
+에칠헥실살리실에이트	에칠헥실살리실에이트	NNG	B-POH
+,	,	SP	O
+_	_	_	O
+호모	호모	NNG	B-POH
+살리	살리	NNP	I-POH
+에이트	에이트	NNG	I-POH
+,	,	SP	O
+_	_	_	O
+벤조페논	벤조페논	NNG	B-POH
+-	-	SO	I-POH
+3	3	SN	I-POH
+,	,	SP	O
+_	_	_	O
+아보	아보	NNG	B-POH
+벤존	벤존	NNP	I-POH
+_	_	_	O
+등	등	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 학부모들에 의해 상습 폭행 가능성이 제기되자 경찰은 CCTV를 추가로 확보해 분석하고 인천 K어린이집 보육교사에 대해 구속영장 청구할 방침이다.
+## 학부모들에 의해 상습 폭행 가능성이 제기되자 경찰은 CCTV를 추가로 확보해 분석하고 <인천 K어린이집:ORG> 보육교사에 대해 구속영장 청구할 방침이다.
+학부모	학부모	NNG	O
+들	들	XSN	O
+에	에	JKB	O
+_	_	_	O
+의해	의하+여	VV+EC	O
+_	_	_	O
+상습	상습	NNG	O
+_	_	_	O
+폭행	폭행	NNG	O
+_	_	_	O
+가능성	가능성	NNG	O
+이	이	JKS	O
+_	_	_	O
+제기되	제기되	VV	O
+자	자	EC	O
+_	_	_	O
+경찰	경찰	NNG	O
+은	은	JX	O
+_	_	_	O
+CCTV	CCTV	SL	O
+를	를	JKO	O
+_	_	_	O
+추가	추가	NNG	O
+로	로	JKB	O
+_	_	_	O
+확보해	확보하+여	VV+EC	O
+_	_	_	O
+분석하	분석하	VV	O
+고	고	EC	O
+_	_	_	O
+인천	인천	NNP	B-ORG
+_	_	_	I-ORG
+K	K	SL	I-ORG
+어린이집	어린이집	NNG	I-ORG
+_	_	_	O
+보육	보육	NNG	O
+교사	교사	NNG	O
+에	에	JKB	O
+_	_	_	O
+대해	대하+여	VV+EC	O
+_	_	_	O
+구속	구속	NNG	O
+영장	영장	NNG	O
+_	_	_	O
+청구할	청구하+ㄹ	VV+ETM	O
+_	_	_	O
+방침	방침	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 경찰 관계자는 “추가로 확보한 CCTV에는 경찰 신고 직전 20일 치 영상이 보관돼 있다.
+## 경찰 관계자는 “추가로 확보한 CCTV에는 경찰 신고 직전 <20일:DUR> 치 영상이 보관돼 있다.
+경찰	경찰	NNG	O
+_	_	_	O
+관계자	관계자	NNG	O
+는	는	JX	O
+_	_	_	O
+“	“	SS	O
+추가	추가	NNG	O
+로	로	JKB	O
+_	_	_	O
+확보한	확보하+ㄴ	VV+ETM	O
+_	_	_	O
+CCTV	CCTV	SL	O
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+경찰	경찰	NNG	O
+_	_	_	O
+신	신	VV	O
+고	고	EC	O
+_	_	_	O
+직전	직전	NNG	O
+_	_	_	O
+20	20	SN	B-DUR
+일	일	NNB	I-DUR
+_	_	_	O
+치	치	NNB	O
+_	_	_	O
+영상	영상	NNG	O
+이	이	JKS	O
+_	_	_	O
+보관돼	보관되+어	VV+EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+

@@ -1,0 +1,352 @@
+## 1
+## 에콰도르와 온두라스, 잠비아가 초청국으로 확정됐으며 상세 경기일정과 장소는 추후 발표된다.
+## <에콰도르:ORG>와 <온두라스:ORG>, <잠비아:ORG>가 초청국으로 확정됐으며 상세 경기일정과 장소는 추후 발표된다.
+에콰도르	에콰도르	NNP	B-ORG
+와	와	JC	O
+_	_	_	O
+온두라스	온두라스	NNP	B-ORG
+,	,	SP	O
+_	_	_	O
+잠비아	잠비아	NNP	B-ORG
+가	가	JKS	O
+_	_	_	O
+초청	초청	NNG	O
+국	국	XSN	O
+으로	으로	JKB	O
+_	_	_	O
+확정	확정되	VV	O
+됐	었	EP	O
+으며	으며	EC	O
+_	_	_	O
+상세	상세	NNG	O
+_	_	_	O
+경기	경기	NNG	O
+일정	일정	NNG	O
+과	과	JC	O
+_	_	_	O
+장소	장소	NNG	O
+는	는	JX	O
+_	_	_	O
+추후	추후	NNG	O
+_	_	_	O
+발표된다	발표되+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 2
+## 2·18 안전문화재단과 대구대가 ‘대구트라우마센터’를 설립했다.
+## <2·18:POH> <안전문화재단:ORG>과 <대구대:ORG>가 ‘<대구트라우마센터:LOC>’를 설립했다.
+2	2	SN	B-POH
+·	·	SP	I-POH
+18	18	SN	I-POH
+_	_	_	O
+안전	안전	NNG	B-ORG
+문화	문화	NNG	I-ORG
+재단	재단	NNG	I-ORG
+과	과	JC	O
+_	_	_	O
+대구대	대구대	NNP	B-ORG
+가	가	JKS	O
+_	_	_	O
+‘	‘	SS	O
+대구	대구	NNP	B-LOC
+트라우마	트라우마	NNG	I-LOC
+센터	센터	NNG	I-LOC
+’	’	SS	O
+를	를	JKO	O
+_	_	_	O
+설립	설립하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 6·25 당시 헤어진 남편을 그리워하는 할머니의 이야기를 담은 ‘러브레따’의 서은아 감독은 간담회에서 “통일을 귀찮게 생각하는 젊은 세대들에게 통일의 의미를 되새기게 하고 싶었다”고 말했다.
+## <6·25:POH> 당시 헤어진 남편을 그리워하는 할머니의 이야기를 담은 ‘<러브레따:POH>’의 <서은아:PER> 감독은 간담회에서 “통일을 귀찮게 생각하는 젊은 세대들에게 통일의 의미를 되새기게 하고 싶었다”고 말했다.
+6	6	SN	B-POH
+·	·	SP	I-POH
+25	25	SN	I-POH
+_	_	_	O
+당시	당시	NNG	O
+_	_	_	O
+헤어진	헤어지+ㄴ	VV+ETM	O
+_	_	_	O
+남편	남편	NNG	O
+을	을	JKO	O
+_	_	_	O
+그리워하	그리워하	VV	O
+는	는	ETM	O
+_	_	_	O
+할머니	할머니	NNG	O
+의	의	JKG	O
+_	_	_	O
+이야기	이야기	NNG	O
+를	를	JKO	O
+_	_	_	O
+담	담	VV	O
+은	은	ETM	O
+_	_	_	O
+‘	‘	SS	O
+러브레따	러브레따	NNG	B-POH
+’	’	SS	O
+의	의	JKG	O
+_	_	_	O
+서은아	서은아	NNP	B-PER
+_	_	_	O
+감독	감독	NNG	O
+은	은	JX	O
+_	_	_	O
+간담회	간담회	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+“	“	SS	O
+통일	통일	NNG	O
+을	을	JKO	O
+_	_	_	O
+귀찮	귀찮	VA	O
+게	게	EC	O
+_	_	_	O
+생각하	생각하	VV	O
+는	는	ETM	O
+_	_	_	O
+젊	젊	VA	O
+은	은	ETM	O
+_	_	_	O
+세대	세대	NNG	O
+들	들	XSN	O
+에게	에게	JKB	O
+_	_	_	O
+통일	통일	NNG	O
+의	의	JKG	O
+_	_	_	O
+의미	의미	NNG	O
+를	를	JKO	O
+_	_	_	O
+되새기	되새기	VV	O
+게	게	EC	O
+_	_	_	O
+하	하	VX	O
+고	고	EC	O
+_	_	_	O
+싶	싶	VX	O
+었	었	EP	O
+다	다	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+말	말하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 이 세 영화는 ‘보고 싶다’라는 주제로 23일 국내 상업영화관 데뷔를 한다.
+## 이 <세:NOH> 영화는 ‘보고 싶다’라는 주제로 <23일:DAT> 국내 상업영화관 데뷔를 한다.
+이	이	MM	O
+_	_	_	O
+세	세	MM	B-NOH
+_	_	_	O
+영화	영화	NNG	O
+는	는	JX	O
+_	_	_	O
+‘	‘	SS	O
+보	보	VV	O
+고	고	EC	O
+_	_	_	O
+싶	싶	VX	O
+다	다	EF	O
+’	’+이	SS+VCP	O
+라는	라는	ETM	O
+_	_	_	O
+주제	주제	NNG	O
+로	로	JKB	O
+_	_	_	O
+23	23	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+국내	국내	NNG	O
+_	_	_	O
+상업	상업	NNG	O
+영화관	영화관	NNG	O
+_	_	_	O
+데뷔	데뷔	NNG	O
+를	를	JKO	O
+_	_	_	O
+한다	하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 5
+## 아시아에서 크게 흥행했지만, 정작 일본에선 극장 개봉을 하지 않았습니다.
+## <아시아:LOC>에서 크게 흥행했지만, 정작 <일본:LOC>에선 극장 개봉을 하지 않았습니다.
+아시아	아시아	NNP	B-LOC
+에서	에서	JKB	O
+_	_	_	O
+크	크	VA	O
+게	게	EC	O
+_	_	_	O
+흥행	흥행하	VV	O
+했	였	EP	O
+지만	지만	EC	O
+,	,	SP	O
+_	_	_	O
+정작	정작	NNG	O
+_	_	_	O
+일본	일본	NNP	B-LOC
+에선	에서+ㄴ	JKB+JX	O
+_	_	_	O
+극장	극장	NNG	O
+_	_	_	O
+개봉	개봉	NNG	O
+을	을	JKO	O
+_	_	_	O
+하	하	VV	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+았	았	EP	O
+습니다	습니다	EF	O
+.	.	SF	O
+
+## 6
+## 신형 K5 플러그인 하이브리드는 9.8kWh 대용량 배터리와 50kW 모터를 적용해 EV(전기) 모드와 HEV(하이브리드) 모드로 주행이 가능한 친환경 차량이다.
+## 신형 <K5 플러그인 하이브리드:POH>는 <9.8kWh:NOH> 대용량 배터리와 <50kW:NOH> 모터를 적용해 EV(전기) 모드와 HEV(하이브리드) 모드로 주행이 가능한 친환경 차량이다.
+신형	신형	NNG	O
+_	_	_	O
+K	K	SL	B-POH
+5	5	SN	I-POH
+_	_	_	I-POH
+플러그인	플러그인	NNG	I-POH
+_	_	_	I-POH
+하이브리드	하이브리드	NNG	I-POH
+는	는	JX	O
+_	_	_	O
+9.8	9.8	SN	B-NOH
+kWh	kWh	SL	I-NOH
+_	_	_	O
+대용량	대용량	NNG	O
+_	_	_	O
+배터리	배터리	NNG	O
+와	와	JC	O
+_	_	_	O
+50	50	SN	B-NOH
+kW	kW	SL	I-NOH
+_	_	_	O
+모터	모터	NNG	O
+를	를	JKO	O
+_	_	_	O
+적용해	적용하+여	VV+EC	O
+_	_	_	O
+EV	EV	SL	O
+(	(	SS	O
+전기	전기	NNG	O
+)	)	SS	O
+_	_	_	O
+모드와	모드와	NNP	O
+_	_	_	O
+HEV	HEV	SL	O
+(	(	SS	O
+하이브리드	하이브리드	NNG	O
+)	)	SS	O
+_	_	_	O
+모드	모드	NNG	O
+로	로	JKB	O
+_	_	_	O
+주행	주행	NNG	O
+이	이	JKS	O
+_	_	_	O
+가능한	가능하+ㄴ	VA+ETM	O
+_	_	_	O
+친환경	친환경	NNG	O
+_	_	_	O
+차량	차량	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 다만 해당 서비스는 현대자동차는 치악휴게소, 기아자동차는 화성휴게소에 한해 실시된다.
+## 다만 해당 서비스는 <현대자동차:ORG>는 <치악휴게소:LOC>, <기아자동차:ORG>는 <화성휴게소:LOC>에 한해 실시된다.
+다만	다만	MAG	O
+_	_	_	O
+해당	해당	NNG	O
+_	_	_	O
+서비스	서비스	NNG	O
+는	는	JX	O
+_	_	_	O
+현대자동차	현대자동차	NNP	B-ORG
+는	는	JX	O
+_	_	_	O
+치악	치악	NNP	B-LOC
+휴게소	휴게소	NNG	I-LOC
+,	,	SP	O
+_	_	_	O
+기아자동차	기아자동차	NNP	B-ORG
+는	는	JX	O
+_	_	_	O
+화성휴게소	화성휴게소	NNP	B-LOC
+에	에	JKB	O
+_	_	_	O
+한해	한하+여	VV+EC	O
+_	_	_	O
+실시된다	실시되+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 8
+## 다만 두 야당은 추경안 처리가 늦춰질 수는 있어도 무산되는 일은 없다는 분위기다.
+## 다만 <두:NOH> 야당은 추경안 처리가 늦춰질 수는 있어도 무산되는 일은 없다는 분위기다.
+다만	다만	MAG	O
+_	_	_	O
+두	두	MM	B-NOH
+_	_	_	O
+야당	야당	NNG	O
+은	은	JX	O
+_	_	_	O
+추경	추경	NNG	O
+안	안	NNG	O
+_	_	_	O
+처리	처리	NNG	O
+가	가	JKS	O
+_	_	_	O
+늦춰질	늦춰지+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+는	는	JX	O
+_	_	_	O
+있	있	VA	O
+어도	어도	EC	O
+_	_	_	O
+무산되	무산되	VV	O
+는	는	ETM	O
+_	_	_	O
+일	일	NNG	O
+은	은	JX	O
+_	_	_	O
+없	없	VA	O
+다는	다는	ETM	O
+_	_	_	O
+분위기	분위기+이	NNG+VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 베이징 올림픽 개막식은 아낌없이 돈을 쏟아 부었다.
+## <베이징 올림픽:POH> 개막식은 아낌없이 돈을 쏟아 부었다.
+베이징	베이징	NNP	B-POH
+_	_	_	I-POH
+올림픽	올림픽	NNG	I-POH
+_	_	_	O
+개막식	개막식	NNG	O
+은	은	JX	O
+_	_	_	O
+아낌없이	아낌없이	MAG	O
+_	_	_	O
+돈	돈	NNG	O
+을	을	JKO	O
+_	_	_	O
+쏟	쏟	VV	O
+아	아	EC	O
+_	_	_	O
+부	붓	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+

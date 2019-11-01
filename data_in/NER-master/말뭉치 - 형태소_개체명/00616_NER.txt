@@ -1,0 +1,607 @@
+## 1
+## [부산/경남]“이바구 자전거 신기해요”
+## [<부산:LOC>/<경남:LOC>]“<이바구 자전거:ORG> 신기해요”
+[	[	SS	O
+부산	부산	NNP	B-LOC
+/	/	SP	O
+경남	경남	NNP	B-LOC
+]	]	SS	O
+“	“	SS	O
+이바구	이바구	NNG	B-ORG
+_	_	_	I-ORG
+자전거	자전거	NNG	I-ORG
+_	_	_	O
+신기해요	신기하+여요	VA+EF	O
+”	”	SS	O
+
+## 2
+## 북한은 신경쓰일 수밖에 없다”고 지적했다.
+## <북한:ORG>은 신경쓰일 수밖에 없다”고 지적했다.
+북한	북한	NNP	B-ORG
+은	은	JX	O
+_	_	_	O
+신경	신경	NNG	O
+쓰일	쓰이+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+밖에	밖에	JX	O
+_	_	_	O
+없	없	VA	O
+다	다	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+지적	지적하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 금융감독원과 보험업계는 하반기 시행을 목표로 과제별 방안을 마련하고 일정에 맞춰 추진할 예정이다.
+## <금융감독원:ORG>과 보험업계는 하반기 시행을 목표로 과제별 방안을 마련하고 일정에 맞춰 추진할 예정이다.
+금융	금융	NNG	B-ORG
+감독	감독	NNG	I-ORG
+원	원	XSN	I-ORG
+과	과	JC	O
+_	_	_	O
+보험업	보험업	NNG	O
+계	계	XSN	O
+는	는	JX	O
+_	_	_	O
+하반기	하반기	NNG	O
+_	_	_	O
+시행	시행	NNG	O
+을	을	JKO	O
+_	_	_	O
+목표	목표	NNG	O
+로	로	JKB	O
+_	_	_	O
+과제	과제	NNG	O
+별	별	XSN	O
+_	_	_	O
+방안	방안	NNG	O
+을	을	JKO	O
+_	_	_	O
+마련하	마련하	VV	O
+고	고	EC	O
+_	_	_	O
+일정	일정	NNG	O
+에	에	JKB	O
+_	_	_	O
+맞춰	맞추+어	VV+EC	O
+_	_	_	O
+추진할	추진하+ㄹ	VV+ETM	O
+_	_	_	O
+예정	예정	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## [차이나조이 2016] 아~ 덥겠다,
+## [<차이나조이:POH> <2016:DAT>] 아~ 덥겠다,
+[	[	SS	O
+차이나	차이나	NNP	B-POH
+조이	조이	NNP	I-POH
+_	_	_	O
+2016	2016	SN	B-DAT
+]	]	SS	O
+_	_	_	O
+아	아	IC	O
+~	~	SO	O
+_	_	_	O
+덥	덥	VA	O
+겠	겠	EP	O
+다	다	EC	O
+,	,	SP	O
+
+## 5
+## 화제의 영상은 기아자동차가 ‘당신의 Drive를 Re:Design합니다’라는 주제로 진행한 글로벌 캠페인 ‘Gear Up’의 본편 영상이다.
+## 화제의 영상은 <기아자동차:ORG>가 ‘당신의 Drive를 Re:Design합니다’라는 주제로 진행한 글로벌 캠페인 ‘Gear Up’의 본편 영상이다.
+화제	화제	NNG	O
+의	의	JKG	O
+_	_	_	O
+영상	영상	NNG	O
+은	은	JX	O
+_	_	_	O
+기아자동차	기아자동차	NNP	B-ORG
+가	가	JKS	O
+_	_	_	O
+‘	‘	SS	O
+당신	당신	NP	O
+의	의	JKG	O
+_	_	_	O
+Drive	Drive	SL	O
+를	를	JKO	O
+_	_	_	O
+Re	Re	SL	O
+:	:	SP	O
+Design	Design	SL	O
+합니다	하+ㅂ니다	VV+EF	O
+’	’+이	SS+VCP	O
+라는	라는	ETM	O
+_	_	_	O
+주제	주제	NNG	O
+로	로	JKB	O
+_	_	_	O
+진행한	진행하+ㄴ	VV+ETM	O
+_	_	_	O
+글로벌	글로벌	NNG	O
+_	_	_	O
+캠페인	캠페인	NNG	O
+_	_	_	O
+‘	‘	SS	O
+Gear	Gear	SL	O
+_	_	_	O
+Up	Up	SL	O
+’	’	SS	O
+의	의	JKG	O
+_	_	_	O
+본	본	XPN	O
+편	편	NNG	O
+_	_	_	O
+영상	영상	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 지운 사진을 공개했고 사진 속에는 찬열의 괴로움이 그대로 드러났다.
+## 지운 사진을 공개했고 사진 속에는 <찬열:PER>의 괴로움이 그대로 드러났다.
+지운	지우+ㄴ	VV+ETM	O
+_	_	_	O
+사진	사진	NNG	O
+을	을	JKO	O
+_	_	_	O
+공개	공개하	VV	O
+했	었	EP	O
+고	고	EC	O
+_	_	_	O
+사진	사진	NNG	O
+_	_	_	O
+속	속	NNG	O
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+찬	차+ㄴ	VV+ETM	B-PER
+열	열	NNG	I-PER
+의	의	JKG	O
+_	_	_	O
+괴로움	괴로움	NNG	O
+이	이	JKS	O
+_	_	_	O
+그대로	그대로	MAG	O
+_	_	_	O
+드러났	드러나+았	VV+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 김규정 위원은 “상반기 청약에 성공한 사례가 잇따르면서 재건축 투자에 대한 기대감이 커진 상황”이라며 “강남권을 중심으로 투자 수요가 유지될 것”이라고 말했다.
+## <김규정:PER> 위원은 “상반기 청약에 성공한 사례가 잇따르면서 재건축 투자에 대한 기대감이 커진 상황”이라며 “강남권을 중심으로 투자 수요가 유지될 것”이라고 말했다.
+김규정	김규정	NNP	B-PER
+_	_	_	O
+위원	위원	NNG	O
+은	은	JX	O
+_	_	_	O
+“	“	SS	O
+상반기	상반기	NNG	O
+_	_	_	O
+청약	청약	NNG	O
+에	에	JKB	O
+_	_	_	O
+성공한	성공하+ㄴ	VV+ETM	O
+_	_	_	O
+사례	사례	NNG	O
+가	가	JKS	O
+_	_	_	O
+잇따르	잇따르	VV	O
+면서	면서	EC	O
+_	_	_	O
+재건축	재건축	NNG	O
+_	_	_	O
+투자	투자	NNG	O
+에	에	JKB	O
+_	_	_	O
+대한	대하+ㄴ	VV+ETM	O
+_	_	_	O
+기대감	기대감	NNG	O
+이	이	JKS	O
+_	_	_	O
+커진	커지+ㄴ	VV+ETM	O
+_	_	_	O
+상황	상황	NNG	O
+”	”	SS	O
+이	이	VCP	O
+라며	라며	EC	O
+_	_	_	O
+“	“	SS	O
+강남	강남	NNP	O
+권	권	XSN	O
+을	을	JKO	O
+_	_	_	O
+중심	중심	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+투자	투자	NNG	O
+_	_	_	O
+수요	수요	NNG	O
+가	가	JKS	O
+_	_	_	O
+유지될	유지되+ㄹ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+”	”	SS	O
+이라고	이라고	JKQ	O
+_	_	_	O
+말	말하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 서울특별시장애인생활체육대회는 서울시의 연중 최대 장애인생활체육대회이다.
+## <서울특별시장애인생활체육대회:POH>는 <서울시:ORG>의 연중 최대 장애인생활체육대회이다.
+서울특별시	서울특별시	NNP	B-POH
+장애인	장애인	NNG	I-POH
+생활	생활	NNG	I-POH
+체육	체육	NNG	I-POH
+대회	대회	NNG	I-POH
+는	는	JX	O
+_	_	_	O
+서울시	서울시	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+연중	연중	NNG	O
+_	_	_	O
+최대	최대	NNG	O
+_	_	_	O
+장애인	장애인	NNG	O
+생활	생활	NNG	O
+체육	체육	NNG	O
+대회	대회	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 여자 축구 국가대표팀이 2일 일본 오사카에서 열린 2016 리우데자네이루 올림픽 아시아지역 최종예선 2차전에서 일본과 경기를 치른 곳은 긴쵸스타디움이다.
+## 여자 축구 국가대표팀이 <2일:DAT> <일본:LOC> <오사카:LOC>에서 열린 <2016:DAT> <리우데자네이루 올림픽:POH> 아시아지역 최종예선 <2차전:NOH>에서 <일본:ORG>과 경기를 치른 곳은 <긴쵸스타디움:POH>이다.
+여자	여자	NNG	O
+_	_	_	O
+축구	축구	NNG	O
+_	_	_	O
+국가	국가	NNG	O
+대표	대표	NNG	O
+팀	팀	NNG	O
+이	이	JKS	O
+_	_	_	O
+2	2	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+일본	일본	NNP	B-LOC
+_	_	_	O
+오사카	오사카	NNP	B-LOC
+에서	에서	JKB	O
+_	_	_	O
+열린	열리+ㄴ	VV+ETM	O
+_	_	_	O
+2016	2016	SN	B-DAT
+_	_	_	O
+리우데자네이루	리우데자네이루	NNP	B-POH
+_	_	_	I-POH
+올림픽	올림픽	NNG	I-POH
+_	_	_	O
+아시아	아시아	NNP	O
+지역	지역	NNG	O
+_	_	_	O
+최종	최종	NNG	O
+예선	예선	NNG	O
+_	_	_	O
+2	2	SN	B-NOH
+차	차	NNB	I-NOH
+전	전	XSN	I-NOH
+에서	에서	JKB	O
+_	_	_	O
+일본	일본	NNP	B-ORG
+과	과	XSN	O
+_	_	_	O
+경기	경기	NNG	O
+를	를	JKO	O
+_	_	_	O
+치른	치르+ㄴ	VV+ETM	O
+_	_	_	O
+곳	곳	NNG	O
+은	은	JX	O
+_	_	_	O
+긴	길+ㄴ	VA+ETM	B-POH
+쵸	쵸	MAG	I-POH
+스타디움	스타디움	NNG	I-POH
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 단지에서 가까운 거리에 있는 수원역 주변과 동탄신도시의 대형 쇼핑, 문화시설까지 활용할 수 있어 풍부한 생활인프라를 동시에 누릴 수 있다.
+## 단지에서 가까운 거리에 있는 <수원역:LOC> 주변과 <동탄신도시:LOC>의 대형 쇼핑, 문화시설까지 활용할 수 있어 풍부한 생활인프라를 동시에 누릴 수 있다.
+단지	단지	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+가까	가깝	VA	O
+운	ㄴ	ETM	O
+_	_	_	O
+거리	거리	NNG	O
+에	에	JKB	O
+_	_	_	O
+있	있	VA	O
+는	는	ETM	O
+_	_	_	O
+수원역	수원역	NNP	B-LOC
+_	_	_	O
+주변	주변	NNG	O
+과	과	JC	O
+_	_	_	O
+동탄	동탄	NNP	B-LOC
+신도시	신도시	NNG	I-LOC
+의	의	JKG	O
+_	_	_	O
+대형	대형	NNG	O
+_	_	_	O
+쇼핑	쇼핑	NNG	O
+,	,	SP	O
+_	_	_	O
+문화	문화	NNG	O
+시설	시설	NNG	O
+까지	까지	JX	O
+_	_	_	O
+활용할	활용하+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+어	어	EC	O
+_	_	_	O
+풍부한	풍부하+ㄴ	VA+ETM	O
+_	_	_	O
+생활	생활	NNG	O
+인프라	인프라	NNG	O
+를	를	JKO	O
+_	_	_	O
+동시	동시	NNG	O
+에	에	JKB	O
+_	_	_	O
+누릴	누리+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## LH오산세교 휴먼시아꿈에그린 11단지 주변에는 녹지가 많아 쾌적한 주거환경이 제공된다.
+## <LH:ORG><오산세교:LOC> <휴먼시아꿈에그린 11단지:LOC> 주변에는 녹지가 많아 쾌적한 주거환경이 제공된다.
+LH	LH	SL	B-ORG
+오산	오산	NNP	B-LOC
+세교	세교	NNP	I-LOC
+_	_	_	O
+휴먼	휴먼	NNG	B-LOC
+시아	시아	NNG	I-LOC
+꿈에	꿈에	NNP	I-LOC
+그린	그린	NNG	I-LOC
+_	_	_	I-LOC
+11	11	SN	I-LOC
+단지	단지	NNG	I-LOC
+_	_	_	O
+주변	주변	NNG	O
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+녹지	녹지	NNG	O
+가	가	JKS	O
+_	_	_	O
+많	많	VA	O
+아	아	EC	O
+_	_	_	O
+쾌적한	쾌적하+ㄴ	VA+ETM	O
+_	_	_	O
+주거	주거	NNG	O
+환경	환경	NNG	O
+이	이	JKS	O
+_	_	_	O
+제공된다	제공되+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 12
+## 현대·기아차 관계자는 “이번 기회를 계기로 우리의 자율주행 기술력을 확인하고 자율주행차에 대한 끊임없는 투자와 연구활동을 통해 자율주행차 상용화를 위해 박차를 가할 것”이라고 말했다.
+## <현대·기아차:ORG> 관계자는 “이번 기회를 계기로 우리의 자율주행 기술력을 확인하고 자율주행차에 대한 끊임없는 투자와 연구활동을 통해 자율주행차 상용화를 위해 박차를 가할 것”이라고 말했다.
+현대	현대	NNP	B-ORG
+·	·	SP	I-ORG
+기아차	기아차	NNP	I-ORG
+_	_	_	O
+관계자	관계자	NNG	O
+는	는	JX	O
+_	_	_	O
+“	“	SS	O
+이번	이번	NNG	O
+_	_	_	O
+기회	기회	NNG	O
+를	를	JKO	O
+_	_	_	O
+계기	계기	NNG	O
+로	로	JKB	O
+_	_	_	O
+우리	우리	NP	O
+의	의	JKG	O
+_	_	_	O
+자율	자율	NNG	O
+주행	주행	NNG	O
+_	_	_	O
+기술력	기술력	NNG	O
+을	을	JKO	O
+_	_	_	O
+확인하	확인하	VV	O
+고	고	EC	O
+_	_	_	O
+자율	자율	NNG	O
+주행	주행	NNG	O
+차	차	NNG	O
+에	에	JKB	O
+_	_	_	O
+대한	대하+ㄴ	VV+ETM	O
+_	_	_	O
+끊임없	끊임없	VA	O
+는	는	ETM	O
+_	_	_	O
+투자	투자	NNG	O
+와	와	JC	O
+_	_	_	O
+연구	연구	NNG	O
+활동	활동	NNG	O
+을	을	JKO	O
+_	_	_	O
+통해	통하+여	VV+EC	O
+_	_	_	O
+자율	자율	NNG	O
+주행	주행	NNG	O
+차	차	NNG	O
+_	_	_	O
+상용	상용	NNG	O
+화	화	XSN	O
+를	를	JKO	O
+_	_	_	O
+위해	위하+여	VV+EC	O
+_	_	_	O
+박차	박차	NNG	O
+를	를	JKO	O
+_	_	_	O
+가할	가하+ㄹ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+”	”	SS	O
+이라고	이라고	JKQ	O
+_	_	_	O
+말	말하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## 그게 가장 고무적이다”고 1차 스프링캠프의 소득을 밝혔다.
+## 그게 가장 고무적이다”고 <1차:NOH> 스프링캠프의 소득을 밝혔다.
+그게	그것+이	NP+JKS	O
+_	_	_	O
+가장	가장	MAG	O
+_	_	_	O
+고무적	고무적	NNG	O
+이	이	VCP	O
+다	다	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+1	1	SN	B-NOH
+차	차	NNB	I-NOH
+_	_	_	O
+스프링캠프	스프링캠프	NNG	O
+의	의	JKG	O
+_	_	_	O
+소득	소득	NNG	O
+을	을	JKO	O
+_	_	_	O
+밝	밝히	VV	O
+혔	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 14
+## 신 씨 휴대전화는 실종 다음 날인 11일 오후 4시 30분경 사체가 발견된 건물 주변에서 신호가 끊겼다.
+## <신:PER> 씨 휴대전화는 실종 다음 날인 <11일:DAT> <오후 4시 30분:TIM>경 사체가 발견된 건물 주변에서 신호가 끊겼다.
+신	신	NNP	B-PER
+_	_	_	O
+씨	씨	NNB	O
+_	_	_	O
+휴대	휴대	NNG	O
+전화	전화	NNG	O
+는	는	JX	O
+_	_	_	O
+실종	실종	NNG	O
+_	_	_	O
+다음	다음	NNG	O
+_	_	_	O
+날	날	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+11	11	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+오후	오후	NNG	B-TIM
+_	_	_	I-TIM
+4	4	SN	I-TIM
+시	시	NNB	I-TIM
+_	_	_	I-TIM
+30	30	SN	I-TIM
+분	분	NNB	I-TIM
+경	경	XSN	O
+_	_	_	O
+사체	사체	NNG	O
+가	가	JKS	O
+_	_	_	O
+발견된	발견되+ㄴ	VV+ETM	O
+_	_	_	O
+건물	건물	NNG	O
+_	_	_	O
+주변	주변	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+신호	신호	NNG	O
+가	가	JKS	O
+_	_	_	O
+끊	끊기	VV	O
+겼	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 15
+## 김준호가 뭇남성들의 시기와 질투를 부른다.
+## <김준호:PER>가 뭇남성들의 시기와 질투를 부른다.
+김준호	김준호	NNP	B-PER
+가	가	JKS	O
+_	_	_	O
+뭇	뭇	MM	O
+남성	남성	NNG	O
+들	들	XSN	O
+의	의	JKG	O
+_	_	_	O
+시기	시기	NNG	O
+와	와	JC	O
+_	_	_	O
+질투	질투	NNG	O
+를	를	JKO	O
+_	_	_	O
+부른다	부르+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 16
+## 곽현화 동의없이 ‘무삭제 노출판’ 공개한 영화감독 불구속 기소
+## <곽현화:PER> 동의없이 ‘무삭제 노출판’ 공개한 영화감독 불구속 기소
+곽현화	곽현화	NNP	B-PER
+_	_	_	O
+동의	동의	NNG	O
+없이	없이	MAG	O
+_	_	_	O
+‘	‘	SS	O
+무	무	XPN	O
+삭제	삭제	NNG	O
+_	_	_	O
+노	노	XPN	O
+출판	출판	NNG	O
+’	’	SS	O
+_	_	_	O
+공개한	공개하+ㄴ	VV+ETM	O
+_	_	_	O
+영화감독	영화감독	NNG	O
+_	_	_	O
+불구속	불구속	NNG	O
+_	_	_	O
+기소	기소	NNG	O
+

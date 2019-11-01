@@ -1,0 +1,631 @@
+## 1
+## 김원진은 저돌적 공격으로 지도 2장을 더 얻어내며 우세승을 거뒀다.
+## <김원진:PER>은 저돌적 공격으로 지도 <2장:NOH>을 더 얻어내며 우세승을 거뒀다.
+김원진	김원진	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+저돌적	저돌적	NNG	O
+_	_	_	O
+공격	공격	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+지도	지도	NNG	O
+_	_	_	O
+2	2	SN	B-NOH
+장	장	NNB	I-NOH
+을	을	JKO	O
+_	_	_	O
+더	더	MAG	O
+_	_	_	O
+얻	얻	VV	O
+어	어	EC	O
+내	내	VX	O
+며	며	EC	O
+_	_	_	O
+우세승	우세승	NNG	O
+을	을	JKO	O
+_	_	_	O
+거	거두	VV	O
+뒀	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 이번 대회는 2016리우데자네이루올림픽의 전초전 성격을 갖는다.
+## 이번 대회는 <2016리우데자네이루올림픽:POH>의 전초전 성격을 갖는다.
+이번	이번	NNG	O
+_	_	_	O
+대회	대회	NNG	O
+는	는	JX	O
+_	_	_	O
+2016	2016	SN	B-POH
+리우데자네이루	리우데자네이루	NNP	I-POH
+올림픽	올림픽	NNG	I-POH
+의	의	JKG	O
+_	_	_	O
+전초전	전초전	NNG	O
+_	_	_	O
+성격	성격	NNG	O
+을	을	JKO	O
+_	_	_	O
+갖	갖	VV	O
+는다	는다	EF	O
+.	.	SF	O
+
+## 3
+## 염 감독은 “박동원은 올 시즌을 통해 팀의 기둥으로 자리 잡아야 하는 선수다.
+## <염:PER> 감독은 “<박동원:PER>은 올 시즌을 통해 팀의 기둥으로 자리 잡아야 하는 선수다.
+염	염	NNP	B-PER
+_	_	_	O
+감독	감독	NNG	O
+은	은	JX	O
+_	_	_	O
+“	“	SS	O
+박동원	박동원	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+올	올	NNG	O
+_	_	_	O
+시즌	시즌	NNG	O
+을	을	JKO	O
+_	_	_	O
+통해	통하+여	VV+EC	O
+_	_	_	O
+팀	팀	NNG	O
+의	의	JKG	O
+_	_	_	O
+기둥	기둥	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+자리	자리	NNG	O
+_	_	_	O
+잡	잡	VV	O
+아야	아야	EC	O
+_	_	_	O
+하	하	VX	O
+는	는	ETM	O
+_	_	_	O
+선수	선수+이	NNG+VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 미국은 투자이민 ‘EB-5’ 프로그램을 운영하고 있다.
+## <미국:ORG>은 투자이민 ‘<EB-5:POH>’ 프로그램을 운영하고 있다.
+미국	미국	NNP	B-ORG
+은	은	JX	O
+_	_	_	O
+투자	투자	NNG	O
+이민	이민	NNG	O
+_	_	_	O
+‘	‘	SS	O
+EB	EB	SL	B-POH
+-	-	SO	I-POH
+5	5	SN	I-POH
+’	’	SS	O
+_	_	_	O
+프로그램	프로그램	NNG	O
+을	을	JKO	O
+_	_	_	O
+운영하	운영하	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 2014년 이란의 국내총생산(GDP)은 4041억 달러로 사우디아라비아에 이어 중동 2위다.
+## <2014년:DAT> <이란:ORG>의 국내총생산(GDP)은 <4041억 달러:MNY>로 <사우디아라비아:ORG>에 이어 <중동:LOC> <2위:NOH>다.
+2014	2014	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+이란	이란	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+국내총생산	국내총생산	NNG	O
+(	(	SS	O
+GDP	GDP	SL	O
+)	)	SS	O
+은	은	JX	O
+_	_	_	O
+4041	4041	SN	B-MNY
+억	억	NR	I-MNY
+_	_	_	I-MNY
+달러	달러	NNB	I-MNY
+로	로	JKB	O
+_	_	_	O
+사우디아라비아	사우디아라비아	NNP	B-ORG
+에	에	JKB	O
+_	_	_	O
+이	잇	VV	O
+어	어	EC	O
+_	_	_	O
+중동	중동	NNP	B-LOC
+_	_	_	O
+2	2	SN	B-NOH
+위	위+이	NNB+VCP	I-NOH
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 김이 메모에 적힌 사람들을 직접 만난 사실이 없으며 복수를 준비한 흔적도 없다는 것이다.
+## <김:PER>이 메모에 적힌 사람들을 직접 만난 사실이 없으며 복수를 준비한 흔적도 없다는 것이다.
+김	김	NNG	B-PER
+이	이	JKS	O
+_	_	_	O
+메모	메모	NNG	O
+에	에	JKB	O
+_	_	_	O
+적힌	적히+ㄴ	VV+ETM	O
+_	_	_	O
+사람	사람	NNG	O
+들	들	XSN	O
+을	을	JKO	O
+_	_	_	O
+직접	직접	MAG	O
+_	_	_	O
+만난	만나+ㄴ	VV+ETM	O
+_	_	_	O
+사실	사실	NNG	O
+이	이	JKS	O
+_	_	_	O
+없	없	VA	O
+으며	으며	EC	O
+_	_	_	O
+복수	복수	NNG	O
+를	를	JKO	O
+_	_	_	O
+준비한	준비하+ㄴ	VV+ETM	O
+_	_	_	O
+흔적	흔적	NNG	O
+도	도	JX	O
+_	_	_	O
+없	없	VA	O
+다는	다는	ETM	O
+_	_	_	O
+것	것	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 3일 통계청에 따르면 2월 소비자물가 상승률은 지난해 같은 달보다 0.5% 오르는데 그쳤다.
+## <3일:DAT> <통계청:ORG>에 따르면 <2월:DAT> 소비자물가 상승률은 지난해 같은 달보다 <0.5%:PNT> 오르는데 그쳤다.
+3	3	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+통계청	통계청	NNG	B-ORG
+에	에	JKB	O
+_	_	_	O
+따르	따르	VV	O
+면	면	EC	O
+_	_	_	O
+2	2	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+소비자	소비자	NNG	O
+물가	물가	NNG	O
+_	_	_	O
+상승	상승	NNG	O
+률	률	XSN	O
+은	은	JX	O
+_	_	_	O
+지난해	지난해	NNG	O
+_	_	_	O
+같	같	VA	O
+은	은	ETM	O
+_	_	_	O
+달	달	NNG	O
+보다	보다	JKB	O
+_	_	_	O
+0.5	0.5	SN	B-PNT
+%	%	SW	I-PNT
+_	_	_	O
+오르	오르	VV	O
+는데	는데	EC	O
+_	_	_	O
+그	그치	VV	O
+쳤	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 하지만 이날 상하이 증시는 이틀 연속 하락세를 이어가며 전날에 비해 3% 하락한 3805.7에 거래를 마쳤다.
+## 하지만 이날 <상하이:LOC> 증시는 이틀 연속 하락세를 이어가며 전날에 비해 <3%:PNT> 하락한 <3805.7:NOH>에 거래를 마쳤다.
+하지만	하지만	MAJ	O
+_	_	_	O
+이날	이날	NNG	O
+_	_	_	O
+상하이	상하이	NNP	B-LOC
+_	_	_	O
+증시	증시	NNG	O
+는	는	JX	O
+_	_	_	O
+이틀	이틀	NNG	O
+_	_	_	O
+연속	연속	NNG	O
+_	_	_	O
+하락세	하락세	NNG	O
+를	를	JKO	O
+_	_	_	O
+이	잇	VV	O
+어	어	EC	O
+가	가	VX	O
+며	며	EC	O
+_	_	_	O
+전날	전날	NNG	O
+에	에	JKB	O
+_	_	_	O
+비해	비하+여	VV+EC	O
+_	_	_	O
+3	3	SN	B-PNT
+%	%	SW	I-PNT
+_	_	_	O
+하락한	하락하+ㄴ	VV+ETM	O
+_	_	_	O
+3805.7	3805.7	SN	B-NOH
+에	에	JKB	O
+_	_	_	O
+거래	거래	NNG	O
+를	를	JKO	O
+_	_	_	O
+마	마치	VV	O
+쳤	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 용인외고, BHCS국제학교, 단국대학교 등이 2km 반경에 있다.
+## <용인외고:ORG>, <BHCS국제학교:ORG>, <단국대학교:ORG> 등이 <2km:NOH> 반경에 있다.
+용인	용인	NNP	B-ORG
+외고	외고	NNG	I-ORG
+,	,	SP	O
+_	_	_	O
+BHCS	BHCS	SL	B-ORG
+국제	국제	NNG	I-ORG
+학교	학교	NNG	I-ORG
+,	,	SP	O
+_	_	_	O
+단국대학교	단국대학교	NNP	B-ORG
+_	_	_	O
+등	등	NNB	O
+이	이	JKS	O
+_	_	_	O
+2	2	SN	B-NOH
+km	km	SL	I-NOH
+_	_	_	O
+반	반	NNG	O
+경	경	XSN	O
+에	에	JKB	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 아베-푸틴 16번째 정상회담 “쿠릴 4개섬-경협 솔직한 대화”
+## <아베:PER>-<푸틴:PER> <16번째:NOH> 정상회담 “<쿠릴:LOC> 4개섬-경협 솔직한 대화”
+아베	아베	NNP	B-PER
+-	-	SO	O
+푸틴	푸틴	NNP	B-PER
+_	_	_	O
+16	16	SN	B-NOH
+번째	번째	NNB	I-NOH
+_	_	_	O
+정상	정상	NNG	O
+회담	회담	NNG	O
+_	_	_	O
+“	“	SS	O
+쿠릴	쿠릴	NNP	B-LOC
+_	_	_	O
+4	4	SN	O
+개	개	NNB	O
+섬	섬	NNG	O
+-	-	SO	O
+경협	경협	NNG	O
+_	_	_	O
+솔직한	솔직하+ㄴ	VA+ETM	O
+_	_	_	O
+대화	대화	NNG	O
+”	”	SS	O
+
+## 11
+## 킴스클럽 우선협상대상자로 선정 美계 사모투자펀드 KKR, 어떤 기업?
+## <킴스클럽:ORG> 우선협상대상자로 선정 <美:ORG>계 사모투자펀드 <KKR:ORG>, 어떤 기업?
+킴스클럽	킴스클럽	NNP	B-ORG
+_	_	_	O
+우선	우선	NNG	O
+협상	협상	NNG	O
+대상자	대상자	NNG	O
+로	로	JKB	O
+_	_	_	O
+선정	선정	NNG	O
+_	_	_	O
+美	美	SH	B-ORG
+계	계	XSN	O
+_	_	_	O
+사모	사모	NNG	O
+투자	투자	NNG	O
+펀드	펀드	NNG	O
+_	_	_	O
+KKR	KKR	SL	B-ORG
+,	,	SP	O
+_	_	_	O
+어떤	어떤	MM	O
+_	_	_	O
+기업	기업	NNG	O
+?	?	SF	O
+
+## 12
+## 프랑크푸르트 지역 한인회와 파독 간호사가 정착 50주년 기념행사를 열면서 한국의 시각장애인 교향악단인 ‘한빛예술단’을 초청해 음악회를 연 것이다.
+## <프랑크푸르트:LOC> 지역 한인회와 파독 간호사가 정착 <50주년:NOH> 기념행사를 열면서 <한국:LOC>의 시각장애인 교향악단인 ‘<한빛예술단:POH>’을 초청해 음악회를 연 것이다.
+프랑크푸르트	프랑크푸르트	NNP	B-LOC
+_	_	_	O
+지역	지역	NNG	O
+_	_	_	O
+한인	한인	NNG	O
+회	회	XSN	O
+와	와	JKB	O
+_	_	_	O
+파독	파독	NNG	O
+_	_	_	O
+간호사	간호사	NNG	O
+가	가	JKS	O
+_	_	_	O
+정착	정착	NNG	O
+_	_	_	O
+50	50	SN	B-NOH
+주년	주년	NNB	I-NOH
+_	_	_	O
+기념행사	기념행사	NNG	O
+를	를	JKO	O
+_	_	_	O
+열	열	VV	O
+면서	면서	EC	O
+_	_	_	O
+한국	한국	NNP	B-LOC
+의	의	JKG	O
+_	_	_	O
+시각	시각	NNG	O
+장애인	장애인	NNG	O
+_	_	_	O
+교향악단	교향악단	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+‘	‘	SS	O
+한빛	한빛	NNP	B-POH
+예술단	예술단	NNG	I-POH
+’	’	SS	O
+을	을	JKO	O
+_	_	_	O
+초청해	초청하+여	VV+EC	O
+_	_	_	O
+음악회	음악회	NNG	O
+를	를	JKO	O
+_	_	_	O
+연	열+ㄴ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## 특히 역시 헬스트레이너 출신으로 미국에서 머문 적인 있는 마동석은 운동과 영어 등 공통의 관심사를 통해 사랑을 이었다.
+## 특히 역시 헬스트레이너 출신으로 <미국:LOC>에서 머문 적인 있는 <마동석:PER>은 운동과 영어 등 공통의 관심사를 통해 사랑을 이었다.
+특히	특히	MAG	O
+_	_	_	O
+역시	역시	MAG	O
+_	_	_	O
+헬스	헬스	NNG	O
+트레이너	트레이너	NNG	O
+_	_	_	O
+출신	출신	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+미국	미국	NNP	B-LOC
+에서	에서	JKB	O
+_	_	_	O
+머문	머물+ㄴ	VV+ETM	O
+_	_	_	O
+적	적	XSN	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+있	있	VA	O
+는	는	ETM	O
+_	_	_	O
+마동석	마동석	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+운동	운동	NNG	O
+과	과	JC	O
+_	_	_	O
+영어	영어	NNP	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+공통	공통	NNG	O
+의	의	JKG	O
+_	_	_	O
+관심사	관심사	NNG	O
+를	를	JKO	O
+_	_	_	O
+통해	통하+여	VV+EC	O
+_	_	_	O
+사랑	사랑	NNG	O
+을	을	JKO	O
+_	_	_	O
+이	이	VCP	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 14
+## 30ml 2만원. 4 케라시스 프로폴리스 샤인 트리트먼트 천연 비타민과 미네랄이 풍부한 프로폴리스 성분이 모발에 유 · 수분 보습막을 형성해 손상된 모발을 촉촉하고 건강하게 유지한다.
+## <30ml:NOH> <2만원:MNY>. <4:NOH> <케라시스 프로폴리스 샤인 트리트먼트:POH> 천연 비타민과 미네랄이 풍부한 프로폴리스 성분이 모발에 유 · 수분 보습막을 형성해 손상된 모발을 촉촉하고 건강하게 유지한다.
+30	30	SN	B-NOH
+ml	ml	SL	I-NOH
+_	_	_	O
+2	2	SN	B-MNY
+만	만	NR	I-MNY
+원	원	NNB	I-MNY
+.	.	SF	O
+_	_	_	O
+4	4	SN	B-NOH
+_	_	_	O
+케라시스	케라시스	NNP	B-POH
+_	_	_	I-POH
+프로	프로	NNG	I-POH
+폴리스	폴리스	NNG	I-POH
+_	_	_	I-POH
+샤인	샤인	NNP	I-POH
+_	_	_	I-POH
+트리트먼트	트리트먼트	NNG	I-POH
+_	_	_	O
+천연	천연	NNG	O
+_	_	_	O
+비타민	비타민	NNG	O
+과	과	JC	O
+_	_	_	O
+미네랄	미네랄	NNG	O
+이	이	JKS	O
+_	_	_	O
+풍부한	풍부하+ㄴ	VA+ETM	O
+_	_	_	O
+프로	프로	NNG	O
+폴리스	폴리스	NNG	O
+_	_	_	O
+성분	성분	NNG	O
+이	이	JKS	O
+_	_	_	O
+모발	모발	NNG	O
+에	에	JKB	O
+_	_	_	O
+유	유	NNP	O
+_	_	_	O
+·	·	SP	O
+_	_	_	O
+수분	수분	NNG	O
+_	_	_	O
+보습	보습	NNG	O
+막	막	NNG	O
+을	을	JKO	O
+_	_	_	O
+형성해	형성하+여	VV+EC	O
+_	_	_	O
+손상된	손상되+ㄴ	VV+ETM	O
+_	_	_	O
+모발	모발	NNG	O
+을	을	JKO	O
+_	_	_	O
+촉촉하	촉촉하	VA	O
+고	고	EC	O
+_	_	_	O
+건강하	건강하	VA	O
+게	게	EC	O
+_	_	_	O
+유지한다	유지하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 15
+## 이후에는 고급 자율기능이 탑재되는데, 4단계가 되면 모든 주행 환경에서 차량이 직접 도로 조건을 감시하고 안전 관련 기능을 제어하는 등 고급 기능을 갖췄다.
+## 이후에는 고급 자율기능이 탑재되는데, <4단계:NOH>가 되면 모든 주행 환경에서 차량이 직접 도로 조건을 감시하고 안전 관련 기능을 제어하는 등 고급 기능을 갖췄다.
+이후	이후	NNG	O
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+고급	고급	NNG	O
+_	_	_	O
+자율	자율	NNG	O
+기능	기능	NNG	O
+이	이	JKS	O
+_	_	_	O
+탑재	탑재	NNG	O
+되	되	XSV	O
+는데	는데	EC	O
+,	,	SP	O
+_	_	_	O
+4	4	SN	B-NOH
+단계	단계	NNG	I-NOH
+가	가	JKC	O
+_	_	_	O
+되	되	VV	O
+면	면	EC	O
+_	_	_	O
+모든	모든	MM	O
+_	_	_	O
+주행	주행	NNG	O
+_	_	_	O
+환경	환경	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+차량	차량	NNG	O
+이	이	JKS	O
+_	_	_	O
+직접	직접	MAG	O
+_	_	_	O
+도로	도로	NNG	O
+_	_	_	O
+조건	조건	NNG	O
+을	을	JKO	O
+_	_	_	O
+감시하	감시하	VV	O
+고	고	EC	O
+_	_	_	O
+안전	안전	NNG	O
+_	_	_	O
+관련	관련	NNG	O
+_	_	_	O
+기능	기능	NNG	O
+을	을	JKO	O
+_	_	_	O
+제어하	제어하	VV	O
+는	는	ETM	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+고급	고급	NNG	O
+_	_	_	O
+기능	기능	NNG	O
+을	을	JKO	O
+_	_	_	O
+갖	갖추	VV	O
+췄	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 16
+## 현재 대다수 자율주행차 기술 개발사는 이 4단계를 목표로 달려가는 중이다.
+## 현재 대다수 자율주행차 기술 개발사는 이 <4단계:NOH>를 목표로 달려가는 중이다.
+현재	현재	MAG	O
+_	_	_	O
+대다수	대다수	NNG	O
+_	_	_	O
+자율	자율	NNG	O
+주행	주행	NNG	O
+차	차	NNG	O
+_	_	_	O
+기술	기술	NNG	O
+_	_	_	O
+개발	개발	NNG	O
+사	사	XSN	O
+는	는	JX	O
+_	_	_	O
+이	이	MM	O
+_	_	_	O
+4	4	SN	B-NOH
+단계	단계	NNG	I-NOH
+를	를	JKO	O
+_	_	_	O
+목표	목표	NNG	O
+로	로	JKB	O
+_	_	_	O
+달려가	달려가	VV	O
+는	는	ETM	O
+_	_	_	O
+중	중	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+

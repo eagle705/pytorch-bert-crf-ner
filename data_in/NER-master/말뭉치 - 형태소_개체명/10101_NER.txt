@@ -1,0 +1,558 @@
+## 1
+## 팀의 세대교체 바람은 적토마를 빗겨가지 않았고, 결국 그는 올 시즌 단 한 타석에만 들어선 채 정든 그라운드를 떠났다.
+## 팀의 세대교체 바람은 적토마를 빗겨가지 않았고, 결국 그는 올 시즌 단 <한 타석:NOH>에만 들어선 채 정든 그라운드를 떠났다.
+팀	팀	NNG	O
+의	의	JKG	O
+_	_	_	O
+세대교체	세대교체	NNG	O
+_	_	_	O
+바람	바람	NNG	O
+은	은	JX	O
+_	_	_	O
+적토마	적토마	NNG	O
+를	를	JKO	O
+_	_	_	O
+빗겨	빗기+어	VV+EC	O
+가	가	VX	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+았	았	EP	O
+고	고	EC	O
+,	,	SP	O
+_	_	_	O
+결국	결국	NNG	O
+_	_	_	O
+그	그	NP	O
+는	는	JX	O
+_	_	_	O
+올	올	NNG	O
+_	_	_	O
+시즌	시즌	NNG	O
+_	_	_	O
+단	단	MM	O
+_	_	_	O
+한	한	MM	B-NOH
+_	_	_	I-NOH
+타석	타석	NNG	I-NOH
+에	에	JKB	O
+만	만	JX	O
+_	_	_	O
+들어선	들어서+ㄴ	VV+ETM	O
+_	_	_	O
+채	채	NNB	O
+_	_	_	O
+정든	정들+ㄴ	VV+ETM	O
+_	_	_	O
+그라운드	그라운드	NNG	O
+를	를	JKO	O
+_	_	_	O
+떠났	떠나+았	VV+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 지난 5월 한국과 일본에서 애플 아이폰 앱스토어 마켓의 무료 앱 부문 1위를 차지했다.
+## 지난 <5월:DAT> <한국:ORG>과 <일본:ORG>에서 <애플:ORG> <아이폰:POH> 앱스토어 마켓의 무료 앱 부문 <1위:NOH>를 차지했다.
+지난	지나+ㄴ	VV+ETM	O
+_	_	_	O
+5	5	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+한국	한국	NNP	B-ORG
+과	과	JC	O
+_	_	_	O
+일본	일본	NNP	B-ORG
+에서	에서	JKB	O
+_	_	_	O
+애플	애플	NNP	B-ORG
+_	_	_	O
+아이폰	아이폰	NNG	B-POH
+_	_	_	O
+앱	앱	NNG	O
+스토어	스토어	NNG	O
+_	_	_	O
+마켓	마켓	NNG	O
+의	의	JKG	O
+_	_	_	O
+무료	무료	NNG	O
+_	_	_	O
+앱	앱	NNG	O
+_	_	_	O
+부문	부문	NNG	O
+_	_	_	O
+1	1	SN	B-NOH
+위	위	NNB	I-NOH
+를	를	JKO	O
+_	_	_	O
+차지	차지하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 이에 김제동이 “그럼 그 남자들은 어떻게 됐느냐”라고 묻자 “내 얼굴을 보고 문워크로 뒷걸음질 쳐 도망갔다”라고 말해 웃음을 유발했다.
+## 이에 <김제동:PER>이 “그럼 그 남자들은 어떻게 됐느냐”라고 묻자 “내 얼굴을 보고 문워크로 뒷걸음질 쳐 도망갔다”라고 말해 웃음을 유발했다.
+이	이	NP	O
+에	에	JKB	O
+_	_	_	O
+김제동	김제동	NNP	B-PER
+이	이	JKS	O
+_	_	_	O
+“	“	SS	O
+그럼	그럼	MAJ	O
+_	_	_	O
+그	그	MM	O
+_	_	_	O
+남자	남자	NNG	O
+들	들	XSN	O
+은	은	JX	O
+_	_	_	O
+어떻	어떻	VA	O
+게	게	EC	O
+_	_	_	O
+됐	+었	+EP	O
+느냐	느냐	EF	O
+”	”	SS	O
+라고	라고	JKQ	O
+_	_	_	O
+묻	묻	VV	O
+자	자	EC	O
+_	_	_	O
+“	“	SS	O
+내	나+의	NP+JKG	O
+_	_	_	O
+얼굴	얼굴	NNG	O
+을	을	JKO	O
+_	_	_	O
+보	보	VV	O
+고	고	EC	O
+_	_	_	O
+문	문	NNG	O
+워크	워크	NNG	O
+로	로	JKB	O
+_	_	_	O
+뒷걸음질	뒷걸음질	NNG	O
+_	_	_	O
+쳐	치+어	VV+EC	O
+_	_	_	O
+도망갔	도망가+았	VV+EP	O
+다	다	EF	O
+”	”	SS	O
+라고	라고	JKQ	O
+_	_	_	O
+말해	말하+여	VV+EC	O
+_	_	_	O
+웃음	웃음	NNG	O
+을	을	JKO	O
+_	_	_	O
+유발	유발하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 포스트 신치용은? 40대 감독들 첫 시험대
+## <포스트 신치용:POH>은? <40대:NOH> 감독들 첫 시험대
+포스트	포스트	NNG	B-POH
+_	_	_	I-POH
+신치용	신치용	NNP	I-POH
+은	은	JX	O
+?	?	SF	O
+_	_	_	O
+40	40	SN	B-NOH
+대	대	NNB	I-NOH
+_	_	_	O
+감독	감독	NNG	O
+들	들	XSN	O
+_	_	_	O
+첫	첫	MM	O
+_	_	_	O
+시험대	시험대	NNG	O
+
+## 5
+## ‘큰 정치인’ 이미지 구축 포석… 안철수측 “경쟁 상대 이미 헛발질”
+## ‘큰 정치인’ 이미지 구축 포석… <안철수:PER>측 “경쟁 상대 이미 헛발질”
+‘	‘	SS	O
+큰	크+ㄴ	VA+ETM	O
+_	_	_	O
+정치인	정치인	NNG	O
+’	’	SS	O
+_	_	_	O
+이미지	이미지	NNG	O
+_	_	_	O
+구축	구축	NNG	O
+_	_	_	O
+포석	포석	NNG	O
+…	…	SE	O
+_	_	_	O
+안철수	안철수	NNP	B-PER
+측	측	NNB	O
+_	_	_	O
+“	“	SS	O
+경쟁	경쟁	NNG	O
+_	_	_	O
+상대	상대	NNG	O
+_	_	_	O
+이미	이미	MAG	O
+_	_	_	O
+헛발질	헛발질	NNG	O
+”	”	SS	O
+
+## 6
+## “EXID ‘아예’ 하니 귀엽다”
+## “<EXID:ORG> ‘<아예:POH>’ <하니:PER> 귀엽다”
+“	“	SS	O
+EXID	EXID	SL	B-ORG
+_	_	_	O
+‘	‘	SS	O
+아예	아예	MAG	B-POH
+’	’	SS	O
+_	_	_	O
+하	하	VV	B-PER
+니	니	EC	I-PER
+_	_	_	O
+귀엽	귀엽	VA	O
+다	다	EF	O
+”	”	SS	O
+
+## 7
+## 1일 방송한 3회까지 시청자는 기대 이상의 열연을 보여준 준호를 호평하며 향후 활약을 기대했다.
+## <1일:DAT> 방송한 <3회:NOH>까지 시청자는 기대 이상의 열연을 보여준 <준호:PER>를 호평하며 향후 활약을 기대했다.
+1	1	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+방송	방송	NNG	O
+한	한	NNP	O
+_	_	_	O
+3	3	SN	B-NOH
+회	회	NNB	I-NOH
+까지	까지	JX	O
+_	_	_	O
+시청자	시청자	NNG	O
+는	는	JX	O
+_	_	_	O
+기대	기대	NNG	O
+_	_	_	O
+이상	이상	NNG	O
+의	의	JKG	O
+_	_	_	O
+열연	열연	NNG	O
+을	을	JKO	O
+_	_	_	O
+보	보이	VV	O
+여	어	EC	O
+준	주+ㄴ	VX+ETM	O
+_	_	_	O
+준호	준호	NNP	B-PER
+를	를	JKO	O
+_	_	_	O
+호평하	호평하	VV	O
+며	며	EC	O
+_	_	_	O
+향후	향후	NNG	O
+_	_	_	O
+활약	활약	NNG	O
+을	을	JKO	O
+_	_	_	O
+기대	기대하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 연료소비효율은 각각 L당 10.6km와 10.9km다.
+## 연료소비효율은 각각 L당 <10.6km:NOH>와 <10.9km:NOH>다.
+연료	연료	NNG	O
+소비	소비	NNG	O
+효율	효율	NNG	O
+은	은	JX	O
+_	_	_	O
+각각	각각	MAG	O
+_	_	_	O
+L	L	SL	O
+당	당	XSN	O
+_	_	_	O
+10.6	10.6	SN	B-NOH
+km	km	SL	I-NOH
+와	와	JC	O
+_	_	_	O
+10.9	10.9	SN	B-NOH
+km	km+이	SL+VCP	I-NOH
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 미국에서 임팔라 판매 가격은 2만6385달러~3만6265달러(약 2953만~4058만 원)이지만 국내 출시 가격은 미정이다.
+## <미국:ORG>에서 임팔라 판매 가격은 <2만6385달러:MNY>~<3만6265달러:MNY>(약 <2953만:MNY>~<4058만 원:MNY>)이지만 국내 출시 가격은 미정이다.
+미국	미국	NNP	B-ORG
+에서	에서	JKB	O
+_	_	_	O
+임팔라	임팔라	NNG	O
+_	_	_	O
+판매	판매	NNG	O
+_	_	_	O
+가격	가격	NNG	O
+은	은	JX	O
+_	_	_	O
+2	2	SN	B-MNY
+만	만	NR	I-MNY
+6385	6385	SN	I-MNY
+달러	달러	NNB	I-MNY
+~	~	SO	O
+3	3	SN	B-MNY
+만	만	NR	I-MNY
+6265	6265	SN	I-MNY
+달러	달러	NNB	I-MNY
+(	(	SS	O
+약	약	MM	O
+_	_	_	O
+2953	2953	SN	B-MNY
+만	만	NR	I-MNY
+~	~	SO	O
+4058	4058	SN	B-MNY
+만	만	NR	I-MNY
+_	_	_	I-MNY
+원	원	NNB	I-MNY
+)	)	SS	O
+이	이	VCP	O
+지만	지만	EC	O
+_	_	_	O
+국내	국내	NNG	O
+_	_	_	O
+출시	출시	NNG	O
+_	_	_	O
+가격	가격	NNG	O
+은	은	JX	O
+_	_	_	O
+미정	미정	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 한국닛산은 오는 10월을 전후로 ‘맥시마’를 도입할 계획이다.
+## <한국닛산:ORG>은 오는 <10월:DAT>을 전후로 ‘<맥시마:POH>’를 도입할 계획이다.
+한국	한국	NNP	B-ORG
+닛산	닛산	NNP	I-ORG
+은	은	JX	O
+_	_	_	O
+오	오	VV	O
+는	는	ETM	O
+_	_	_	O
+10	10	SN	B-DAT
+월	월	NNB	I-DAT
+을	을	JKO	O
+_	_	_	O
+전후	전후	NNG	O
+로	로	JKB	O
+_	_	_	O
+‘	‘	SS	O
+맥	맥	NNG	B-POH
+시마	시마	NNG	I-POH
+’	’	SS	O
+를	를	JKO	O
+_	_	_	O
+도입할	도입하+ㄹ	VV+ETM	O
+_	_	_	O
+계획	계획	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 새누리당도 “야당이 헛다리를 짚었다”고 주장한다.
+## <새누리당:ORG>도 “야당이 헛다리를 짚었다”고 주장한다.
+새누리당	새누리당	NNP	B-ORG
+도	도	JX	O
+_	_	_	O
+“	“	SS	O
+야당	야당	NNG	O
+이	이	JKS	O
+_	_	_	O
+헛다리	헛다리	NNG	O
+를	를	JKO	O
+_	_	_	O
+짚	짚	VV	O
+었	었	EP	O
+다	다	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+주장한다	주장하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 12
+## 홍승만이 남긴 메모지 속엔 ‘어머니 형님 등 모두에게 죄송합니다.
+## <홍승만:PER>이 남긴 메모지 속엔 ‘어머니 형님 등 모두에게 죄송합니다.
+홍승만	홍승만	NNP	B-PER
+이	이	JKS	O
+_	_	_	O
+남긴	남기+ㄴ	VV+ETM	O
+_	_	_	O
+메모지	메모지	NNG	O
+_	_	_	O
+속	속	NNG	O
+엔	에+ㄴ	JKB+JX	O
+_	_	_	O
+‘	‘	SS	O
+어머니	어머니	NNG	O
+_	_	_	O
+형님	형님	NNG	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+모두	모두	MAG	O
+에게	에게	JKB	O
+_	_	_	O
+죄송합니다	죄송하+ㅂ니다	VA+EF	O
+.	.	SF	O
+
+## 13
+## 양쪽 팬들은 SNS에서 두 사람의 결별을 반기는 각종 이벤트를 벌이고 있다.
+## 양쪽 팬들은 SNS에서 <두 사람:NOH>의 결별을 반기는 각종 이벤트를 벌이고 있다.
+양쪽	양쪽	NNG	O
+_	_	_	O
+팬	팬	NNG	O
+들	들	XSN	O
+은	은	JX	O
+_	_	_	O
+SNS	SNS	SL	O
+에서	에서	JKB	O
+_	_	_	O
+두	두	MM	B-NOH
+_	_	_	I-NOH
+사람	사람	NNG	I-NOH
+의	의	JKG	O
+_	_	_	O
+결별	결별	NNG	O
+을	을	JKO	O
+_	_	_	O
+반기	반기	VV	O
+는	는	ETM	O
+_	_	_	O
+각종	각종	NNG	O
+_	_	_	O
+이벤트	이벤트	NNG	O
+를	를	JKO	O
+_	_	_	O
+벌이	벌이	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 14
+## 6월 말 정권을 넘겨 주며 유권자들에게 ‘독재에 맞서라’라고 일갈했던 아키노 전 대통령은 21일 “앞으로 1년간 현 대통령에 대한 비난을 삼가겠다.
+## <6월:DAT> 말 정권을 넘겨 주며 유권자들에게 ‘독재에 맞서라’라고 일갈했던 <아키노:PER> 전 대통령은 <21일:DAT> “앞으로 <1년간:DUR> 현 대통령에 대한 비난을 삼가겠다.
+6	6	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+말	말	NNB	O
+_	_	_	O
+정권	정권	NNG	O
+을	을	JKO	O
+_	_	_	O
+넘겨	넘기+어	VV+EC	O
+_	_	_	O
+주	주	VX	O
+며	며	EC	O
+_	_	_	O
+유권자	유권자	NNG	O
+들	들	XSN	O
+에게	에게	JKB	O
+_	_	_	O
+‘	‘	SS	O
+독재	독재	NNG	O
+에	에	JKB	O
+_	_	_	O
+맞서	맞서	VV	O
+라	라	EF	O
+’	’	SS	O
+라고	라고	JKQ	O
+_	_	_	O
+일갈	일갈하	VV	O
+했	였	EP	O
+던	던	ETM	O
+_	_	_	O
+아키노	아키노	NNP	B-PER
+_	_	_	O
+전	전	MM	O
+_	_	_	O
+대통령	대통령	NNG	O
+은	은	JX	O
+_	_	_	O
+21	21	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+“	“	SS	O
+앞	앞	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+1	1	SN	B-DUR
+년	년	NNB	I-DUR
+간	간	XSN	I-DUR
+_	_	_	O
+현	현	MM	O
+_	_	_	O
+대통령	대통령	NNG	O
+에	에	JKB	O
+_	_	_	O
+대한	대하+ㄴ	VV+ETM	O
+_	_	_	O
+비난	비난	NNG	O
+을	을	JKO	O
+_	_	_	O
+삼가	삼가	VV	O
+겠	겠	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 15
+## [스포츠 7330] 대한체육회 ‘한마음 워크숍’
+## [<스포츠 7330:POH>] <대한체육회:ORG> ‘한마음 워크숍’
+[	[	SS	O
+스포츠	스포츠	NNG	B-POH
+_	_	_	I-POH
+7330	7330	SN	I-POH
+]	]	SS	O
+_	_	_	O
+대한체육회	대한체육회	NNP	B-ORG
+_	_	_	O
+‘	‘	SS	O
+한마음	한마음	NNG	O
+_	_	_	O
+워크숍	워크숍	NNG	O
+’	’	SS	O
+
+## 16
+## 이에 따라 병원 설립까지는 제주도의 공식 허가 절차만 남았다.
+## 이에 따라 병원 설립까지는 <제주도:ORG>의 공식 허가 절차만 남았다.
+이	이	NP	O
+에	에	JKB	O
+_	_	_	O
+따	따르	VV	O
+라	아	EC	O
+_	_	_	O
+병원	병원	NNG	O
+_	_	_	O
+설립	설립	NNG	O
+까지	까지	JX	O
+는	는	JX	O
+_	_	_	O
+제주도	제주도	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+공식	공식	NNG	O
+_	_	_	O
+허가	허가	NNG	O
+_	_	_	O
+절차	절차	NNG	O
+만	만	JX	O
+_	_	_	O
+남	남	VV	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+

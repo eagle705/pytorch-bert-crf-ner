@@ -1,0 +1,545 @@
+## 1
+## 측에 따르면, 7일 방송 분에서 전현무는 ‘나 혼자 산다’의 마스코트 인형 윌슨을 씻긴 후 기진맥진했다고. 이에 그는 원기를 회복하기 위해 야관문주를 담그기로 결심했다.
+## 측에 따르면, <7일:DAT> 방송 분에서 <전현무:PER>는 ‘<나 혼자 산다:POH>’의 마스코트 인형 <윌슨:PER>을 씻긴 후 기진맥진했다고. 이에 그는 원기를 회복하기 위해 야관문주를 담그기로 결심했다.
+측	측	NNB	O
+에	에	JKB	O
+_	_	_	O
+따르	따르	VV	O
+면	면	EC	O
+,	,	SP	O
+_	_	_	O
+7	7	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+방송	방송	NNG	O
+_	_	_	O
+분	분	NNB	O
+에서	에서	JKB	O
+_	_	_	O
+전현	전현	NNG	B-PER
+무	무	NNG	I-PER
+는	는	JX	O
+_	_	_	O
+‘	‘	SS	O
+나	나	NP	B-POH
+_	_	_	I-POH
+혼자	혼자	NNG	I-POH
+_	_	_	I-POH
+산다	살+ㄴ다	VV+EF	I-POH
+’	’	SS	O
+의	의	JKG	O
+_	_	_	O
+마스코트	마스코트	NNG	O
+_	_	_	O
+인형	인형	NNG	O
+_	_	_	O
+윌슨	윌슨	NNP	B-PER
+을	을	JKO	O
+_	_	_	O
+씻긴	씻기+ㄴ	VV+ETM	O
+_	_	_	O
+후	후	NNG	O
+_	_	_	O
+기진맥진	기진맥진하	VV	O
+했	였	EP	O
+다고	다고	EF	O
+.	.	SF	O
+_	_	_	O
+이	이	NP	O
+에	에	JKB	O
+_	_	_	O
+그	그	NP	O
+는	는	JX	O
+_	_	_	O
+원기	원기	NNG	O
+를	를	JKO	O
+_	_	_	O
+회복하	회복하	VV	O
+기	기	ETN	O
+_	_	_	O
+위해	위하+여	VV+EC	O
+_	_	_	O
+야관문주	야관문주	NNG	O
+를	를	JKO	O
+_	_	_	O
+담그	담그	VV	O
+기	기	ETN	O
+로	로	JKB	O
+_	_	_	O
+결심	결심하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 1년 이상 방영되며 시청자들은 애정만큼 익숙함도 커졌다.
+## <1년:NOH> 이상 방영되며 시청자들은 애정만큼 익숙함도 커졌다.
+1	1	SN	B-NOH
+년	년	NNB	I-NOH
+_	_	_	O
+이상	이상	NNG	O
+_	_	_	O
+방영되	방영되	VV	O
+며	며	EC	O
+_	_	_	O
+시청자	시청자	NNG	O
+들	들	XSN	O
+은	은	JX	O
+_	_	_	O
+애정	애정	NNG	O
+만큼	만큼	JX	O
+_	_	_	O
+익숙함	익숙하+ㅁ	VA+ETN	O
+도	도	JX	O
+_	_	_	O
+커	커지	VV	O
+졌	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 광주월드컵경기장에서 예정된 광주FC와 수원삼성의 대결이다.
+## <광주월드컵경:LOC>기장에서 예정된 <광주FC:ORG>와 <수원삼성:ORG>의 대결이다.
+광주월드컵경기장	광주월드컵경기장	NNP	O
+에서	에서	JKB	O
+_	_	_	O
+예정된	예정되+ㄴ	VV+ETM	O
+_	_	_	O
+광주	광주	NNP	B-ORG
+FC	FC	SL	I-ORG
+와	와	JC	O
+_	_	_	O
+수원삼성	수원삼성	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+대결	대결	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 복면가왕 호남선은 MBC뉴스 김소영 아나운서 … '예쁘고 수준급 가창력'
+## <복면가왕:POH> <호남선:PER>은 <MBC뉴스:ORG> <김소영:PER> 아나운서 … '예쁘고 수준급 가창력'
+복면	복면	NNG	B-POH
+가왕	가왕	NNG	I-POH
+_	_	_	O
+호남선	호남선	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+MBC	MBC	SL	B-ORG
+뉴스	뉴스	NNG	I-ORG
+_	_	_	O
+김소영	김소영	NNP	B-PER
+_	_	_	O
+아나운서	아나운서	NNG	O
+_	_	_	O
+…	…	SE	O
+_	_	_	O
+'	'	SS	O
+예쁘	예쁘	VA	O
+고	고	EC	O
+_	_	_	O
+수준급	수준급	NNG	O
+_	_	_	O
+가창력	가창력	NNG	O
+'	'	SS	O
+
+## 5
+## 전국 할인점과 네스카페 온라인샵에서 10개입 및 미니 30개입 단위로 판매된다.
+## 전국 할인점과 <네스카페 온라인샵:POH>에서 <10개입:NOH> 및 미니 <30개입:NOH> 단위로 판매된다.
+전국	전국	NNG	O
+_	_	_	O
+할인점	할인점	NNG	O
+과	과	JC	O
+_	_	_	O
+네스카페	네스카페	NNP	B-POH
+_	_	_	I-POH
+온라인	온라인	NNG	I-POH
+샵	샵	NNG	I-POH
+에서	에서	JKB	O
+_	_	_	O
+10	10	SN	B-NOH
+개입	개입	NNG	I-NOH
+_	_	_	O
+및	및	MAG	O
+_	_	_	O
+미니	미니	NNG	O
+_	_	_	O
+30	30	SN	B-NOH
+개입	개입	NNG	I-NOH
+_	_	_	O
+단위	단위	NNG	O
+로	로	JKB	O
+_	_	_	O
+판매된다	판매되+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 6
+## 일자리는 제주와 울산에서 크게 늘었다.
+## 일자리는 <제주:LOC>와 <울산:LOC>에서 크게 늘었다.
+일자리	일자리	NNG	O
+는	는	JX	O
+_	_	_	O
+제주	제주	NNP	B-LOC
+와	와	JC	O
+_	_	_	O
+울산	울산	NNP	B-LOC
+에서	에서	JKB	O
+_	_	_	O
+크	크	VA	O
+게	게	EC	O
+_	_	_	O
+늘	늘	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 플라톤은 철인(哲人)들이 통치하는 국가를 이상으로 제시한 반(反)민주주의자다.
+## <플라톤:PER>은 철인(哲人)들이 통치하는 국가를 이상으로 제시한 반(反)민주주의자다.
+플라톤	플라톤	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+철인	철인	NNG	O
+(	(	SS	O
+哲人	哲人	SH	O
+)	)	SS	O
+들	들	XSN	O
+이	이	JKS	O
+_	_	_	O
+통치하	통치하	VV	O
+는	는	ETM	O
+_	_	_	O
+국가	국가	NNG	O
+를	를	JKO	O
+_	_	_	O
+이상	이상	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+제시한	제시하+ㄴ	VV+ETM	O
+_	_	_	O
+반	반	NNG	O
+(	(	SS	O
+反	反	SH	O
+)	)	SS	O
+민주주의자	민주주의자	NNG	O
+다	다	NNG	O
+.	.	SF	O
+
+## 8
+## 중국군부는 또 북한군 장성들이 방중했을 때 경제개방의 이익을 보여주기 위해 경제특구 등지로 안내하고 있다고 이 신문은 전했다.
+## <중국군부:ORG>는 또 <북한군:ORG> 장성들이 방중했을 때 경제개방의 이익을 보여주기 위해 경제특구 등지로 안내하고 있다고 이 신문은 전했다.
+중국	중국	NNP	B-ORG
+군부	군부	NNG	I-ORG
+는	는	JX	O
+_	_	_	O
+또	또	MAG	O
+_	_	_	O
+북한	북한	NNP	B-ORG
+군	군	NNG	I-ORG
+_	_	_	O
+장성	장성	NNG	O
+들	들	XSN	O
+이	이	JKS	O
+_	_	_	O
+방	방	NNG	O
+중	중	NNP	O
+했	하+였	XSV+EP	O
+을	을	ETM	O
+_	_	_	O
+때	때	NNG	O
+_	_	_	O
+경제	경제	NNG	O
+개방	개방	NNG	O
+의	의	JKG	O
+_	_	_	O
+이익	이익	NNG	O
+을	을	JKO	O
+_	_	_	O
+보	보이	VV	O
+여	어	EC	O
+주	주	VX	O
+기	기	ETN	O
+_	_	_	O
+위해	위하+여	VV+EC	O
+_	_	_	O
+경제특구	경제특구	NNG	O
+_	_	_	O
+등지	등지	NNB	O
+로	로	JKB	O
+_	_	_	O
+안내하	안내하	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다고	다고	EC	O
+_	_	_	O
+이	이	MM	O
+_	_	_	O
+신문	신문	NNG	O
+은	은	JX	O
+_	_	_	O
+전	전하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 순위와 상관없이 다득점 3개 팀만을 맞히는 박스 게임에선 삼성(16.12%)이 1순위를 차지한 가운데, 넥센(14.53%)과 두산(13.83%)이 그 뒤를 이었다.
+## 순위와 상관없이 다득점 <3개:NOH> 팀만을 맞히는 박스 게임에선 <삼성:ORG>(<16.12%:PNT>)이 <1순위:NOH>를 차지한 가운데, <넥센:ORG>(<14.53%:PNT>)과 <두산:ORG>(<13.83%:PNT>)이 그 뒤를 이었다.
+순위	순위	NNG	O
+와	와	JKB	O
+_	_	_	O
+상관없이	상관없이	MAG	O
+_	_	_	O
+다	다	XPN	O
+득점	득점	NNG	O
+_	_	_	O
+3	3	SN	B-NOH
+개	개	NNB	I-NOH
+_	_	_	O
+팀	팀	NNG	O
+만	만	JX	O
+을	을	JKO	O
+_	_	_	O
+맞히	맞히	VV	O
+는	는	ETM	O
+_	_	_	O
+박스	박스	NNG	O
+_	_	_	O
+게임	게임	NNG	O
+에선	에서+ㄴ	JKB+JX	O
+_	_	_	O
+삼성	삼성	NNP	B-ORG
+(	(	SS	O
+16.12	16.12	SN	B-PNT
+%	%	SW	I-PNT
+)	)	SS	O
+이	이	JKS	O
+_	_	_	O
+1	1	SN	B-NOH
+순위	순위	NNG	I-NOH
+를	를	JKO	O
+_	_	_	O
+차지한	차지하+ㄴ	VV+ETM	O
+_	_	_	O
+가운데	가운데	NNG	O
+,	,	SP	O
+_	_	_	O
+넥센	넥센	NNP	B-ORG
+(	(	SS	O
+14.53	14.53	SN	B-PNT
+%	%	SW	I-PNT
+)	)	SS	O
+과	과	JKB	O
+_	_	_	O
+두산	두산	NNP	B-ORG
+(	(	SS	O
+13.83	13.83	SN	B-PNT
+%	%	SW	I-PNT
+)	)	SS	O
+이	이	JKS	O
+_	_	_	O
+그	그	MM	O
+_	_	_	O
+뒤	뒤	NNG	O
+를	를	JKO	O
+_	_	_	O
+이	잇	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 취임식 인원 규모부터 수백만 명이 가담했다는 대규모 불법 선거 논란까지 트럼프의 ‘믿거나 말거나’ 식 주장으로 곤욕을 치르고 있는 공화당이 실력 행사에 나선 것이다.
+## 취임식 인원 규모부터 <수백만 명:NOH>이 가담했다는 대규모 불법 선거 논란까지 <트럼프:PER>의 ‘믿거나 말거나’ 식 주장으로 곤욕을 치르고 있는 <공화당:ORG>이 실력 행사에 나선 것이다.
+취임식	취임식	NNG	O
+_	_	_	O
+인원	인원	NNG	O
+_	_	_	O
+규모	규모	NNG	O
+부터	부터	JX	O
+_	_	_	O
+수백만	수백만	NR	B-NOH
+_	_	_	I-NOH
+명	명	NNB	I-NOH
+이	이	JKS	O
+_	_	_	O
+가담	가담하	VV	O
+했	였	EP	O
+다는	다는	ETM	O
+_	_	_	O
+대규모	대규모	NNG	O
+_	_	_	O
+불법	불법	NNG	O
+_	_	_	O
+선거	선거	NNG	O
+_	_	_	O
+논란	논란	NNG	O
+까지	까지	JX	O
+_	_	_	O
+트럼프	트럼프	NNP	B-PER
+의	의	JKG	O
+_	_	_	O
+‘	‘	SS	O
+믿	믿	VV	O
+거나	거나	EC	O
+_	_	_	O
+말	말	VV	O
+거나	거나	EF	O
+’	’	SS	O
+_	_	_	O
+식	식	NNG	O
+_	_	_	O
+주장	주장	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+곤욕	곤욕	NNG	O
+을	을	JKO	O
+_	_	_	O
+치르	치르	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+는	는	ETM	O
+_	_	_	O
+공화당	공화당	NNP	B-ORG
+이	이	JKS	O
+_	_	_	O
+실력	실력	NNG	O
+_	_	_	O
+행사	행사	NNG	O
+에	에	JKB	O
+_	_	_	O
+나선	나서+ㄴ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 10일 서울성모병원 로비에서는 이례적인 모습이 연출됐습니다.
+## <10일:DAT> <서울성모병원:LOC> 로비에서는 이례적인 모습이 연출됐습니다.
+10	10	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+서울성모병원	서울성모병원	NNP	B-LOC
+_	_	_	O
+로비	로비	NNG	O
+에서	에서	JKB	O
+는	는	JX	O
+_	_	_	O
+이례적	이례적	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+모습	모습	NNG	O
+이	이	JKS	O
+_	_	_	O
+연출	연출+되	NNG+XSV	O
+됐	었	EP	O
+습니다	습니다	EF	O
+.	.	SF	O
+
+## 12
+## 이어 김응국의 61개가 2위다.
+## 이어 <김응국:PER>의 <61개:NOH>가 <2위:NOH>다.
+이어	이어	MAG	O
+_	_	_	O
+김응국	김응국	NNP	B-PER
+의	의	JKG	O
+_	_	_	O
+61	61	SN	B-NOH
+개	개	NNB	I-NOH
+가	가	JKS	O
+_	_	_	O
+2	2	SN	B-NOH
+위	위+이	NNB+VCP	I-NOH
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## 부지 안에는 문화복합시설로 SM타운이 함께 조성돼 공연장, 스타샵, 체험스튜디오 등으로 꾸며질 예정이다.
+## 부지 안에는 문화복합시설로 <SM타운:ORG>이 함께 조성돼 공연장, 스타샵, 체험스튜디오 등으로 꾸며질 예정이다.
+부지	부지	NNG	O
+_	_	_	O
+안	안	NNG	O
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+문화	문화	NNG	O
+복합	복합	NNG	O
+시설	시설	NNG	O
+로	로	JKB	O
+_	_	_	O
+SM	SM	SL	B-ORG
+타운	타운	NNG	I-ORG
+이	이	JKS	O
+_	_	_	O
+함께	함께	MAG	O
+_	_	_	O
+조성돼	조성되+어	VV+EC	O
+_	_	_	O
+공연장	공연장	NNG	O
+,	,	SP	O
+_	_	_	O
+스타	스타	NNG	O
+샵	샵	NNG	O
+,	,	SP	O
+_	_	_	O
+체험	체험	NNG	O
+스튜디오	스튜디오	NNG	O
+_	_	_	O
+등	등	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+꾸며	꾸미+어	VV+EC	O
+질	지+ㄹ	VX+ETM	O
+_	_	_	O
+예정	예정	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 14
+## 김원석은 이날 대전 세계영상의학과에서 자기공명영상(MRI) 촬영 결과 왼쪽 햄스트링 근육 파열 진단을 받았다.
+## <김원석:PER>은 이날 <대전 세계영상의학과:ORG>에서 자기공명영상(MRI) 촬영 결과 왼쪽 햄스트링 근육 파열 진단을 받았다.
+김원석	김원석	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+이날	이날	NNG	O
+_	_	_	O
+대전	대전	NNP	B-ORG
+_	_	_	I-ORG
+세계	세계	NNG	I-ORG
+영상	영상	NNG	I-ORG
+의학	의학	NNG	I-ORG
+과	과	NNG	I-ORG
+에서	에서	JKB	O
+_	_	_	O
+자기공명	자기공명	NNG	O
+영상	영상	NNG	O
+(	(	SS	O
+MRI	MRI	SL	O
+)	)	SS	O
+_	_	_	O
+촬영	촬영	NNG	O
+_	_	_	O
+결과	결과	NNG	O
+_	_	_	O
+왼쪽	왼쪽	NNG	O
+_	_	_	O
+햄스트링	햄스트링	NNG	O
+_	_	_	O
+근육	근육	NNG	O
+_	_	_	O
+파열	파열	NNG	O
+_	_	_	O
+진단	진단	NNG	O
+을	을	JKO	O
+_	_	_	O
+받	받	VV	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+

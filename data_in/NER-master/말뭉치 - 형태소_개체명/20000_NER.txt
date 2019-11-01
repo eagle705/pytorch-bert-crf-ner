@@ -1,0 +1,557 @@
+## 1
+## 2012년에는 온스타일 '솔드 아웃' 진행자로도 활약했으며 오는 3월 개봉 예정인 영화 '살인 의뢰' 촬영을 마쳤다.
+## <2012년:DAT>에는 <온스타일:POH> '<솔드 아웃:POH>' 진행자로도 활약했으며 오는 <3월:DAT> 개봉 예정인 영화 '<살인 의뢰:POH>' 촬영을 마쳤다.
+2012	2012	SN	B-DAT
+년	년	NNB	I-DAT
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+온스타	온스타	NNP	B-POH
+일	일	NNP	I-POH
+_	_	_	O
+'	'	SS	O
+솔드	솔드	NNG	B-POH
+_	_	_	I-POH
+아웃	아웃	NNG	I-POH
+'	'	SS	O
+_	_	_	O
+진행자	진행자	NNG	O
+로	로	JKB	O
+도	도	JX	O
+_	_	_	O
+활약	활약하	VV	O
+했	였	EP	O
+으며	으며	EC	O
+_	_	_	O
+오	오	VV	O
+는	는	ETM	O
+_	_	_	O
+3	3	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+개봉	개봉	NNG	O
+_	_	_	O
+예정	예정	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+영화	영화	NNG	O
+_	_	_	O
+'	'	SS	O
+살인	살인	NNG	B-POH
+_	_	_	I-POH
+의뢰	의뢰	NNG	I-POH
+'	'	SS	O
+_	_	_	O
+촬영	촬영	NNG	O
+을	을	JKO	O
+_	_	_	O
+마	마치	VV	O
+쳤	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 목동 아덴프라우드 홍보관은 지난달 26일 오픈 이후 소비자의 방문 행렬이 이어지고 있다.
+## <목동 아덴프라우드:LOC> 홍보관은 지난달 <26일:DAT> 오픈 이후 소비자의 방문 행렬이 이어지고 있다.
+목동	목동	NNP	B-LOC
+_	_	_	I-LOC
+아덴	아덴	NNP	I-LOC
+프라우드	프라우드	NNG	I-LOC
+_	_	_	O
+홍보	홍보	NNG	O
+관	관	XSN	O
+은	은	JX	O
+_	_	_	O
+지난달	지난달	NNG	O
+_	_	_	O
+26	26	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+오픈	오픈	NNG	O
+_	_	_	O
+이후	이후	NNG	O
+_	_	_	O
+소비자	소비자	NNG	O
+의	의	JKG	O
+_	_	_	O
+방문	방문	NNG	O
+_	_	_	O
+행렬	행렬	NNG	O
+이	이	JKS	O
+_	_	_	O
+이어지	이어지	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 대한민국이 저성장의 덫에 걸렸다.
+## <대한민국:ORG>이 저성장의 덫에 걸렸다.
+대한민국	대한민국	NNP	B-ORG
+이	이	JKS	O
+_	_	_	O
+저성장	저성장	NNG	O
+의	의	JKG	O
+_	_	_	O
+덫	덫	NNG	O
+에	에	JKB	O
+_	_	_	O
+걸	걸리	VV	O
+렸	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## '파워타임' 공명 솔직한 입담으로 화제 "음악 들으면서 잘 울어요"
+## '<파워타임:POH>' <공명:PER> 솔직한 입담으로 화제 "음악 들으면서 잘 울어요"
+'	'	SS	O
+파워	파워	NNG	B-POH
+타임	타임	NNG	I-POH
+'	'	SS	O
+_	_	_	O
+공명	공명	NNG	B-PER
+_	_	_	O
+솔직한	솔직하+ㄴ	VA+ETM	O
+_	_	_	O
+입담	입담	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+화제	화제	NNG	O
+_	_	_	O
+"	"	SS	O
+음악	음악	NNG	O
+_	_	_	O
+들	듣	VV	O
+으면서	으면서	EC	O
+_	_	_	O
+잘	잘	MAG	O
+_	_	_	O
+울	울	VV	O
+어요	어요	EF	O
+"	"	SS	O
+
+## 5
+## DJ, 노무현 때 70억불 돈을 줬기 때문이다"라며 "북에는 돈이 없다.
+## <DJ:PER>, <노무현:PER> 때 <70억불:MNY> 돈을 줬기 때문이다"라며 "<북:ORG>에는 돈이 없다.
+DJ	DJ	SL	B-PER
+,	,	SP	O
+_	_	_	O
+노무현	노무현	NNP	B-PER
+_	_	_	O
+때	때	NNG	O
+_	_	_	O
+70	70	SN	B-MNY
+억	억	NR	I-MNY
+불	불	NNB	I-MNY
+_	_	_	O
+돈	돈	NNG	O
+을	을	JKO	O
+_	_	_	O
+줬	+었	+EP	O
+기	기	ETN	O
+_	_	_	O
+때문	때문	NNB	O
+이	이	VCP	O
+다	다	EF	O
+"	"+이	SS+VCP	O
+라며	라며	EC	O
+_	_	_	O
+"	"	SS	O
+북	북	NNG	B-ORG
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+돈	돈	NNG	O
+이	이	JKS	O
+_	_	_	O
+없	없	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 후원은 월드비전 홈페이지(www.worldvision.or.kr), 전화(02-784-2004), 후원계좌(우리은행 269-800743-18-228)로 가능하다.
+## 후원은 <월드비전:ORG> 홈페이지(<www.worldvision.or.kr:POH>), 전화(<02-784-2004:POH>), 후원계좌(<우리은행:ORG> <269-800743-18-228:POH>)로 가능하다.
+후원	후원	NNG	O
+은	은	JX	O
+_	_	_	O
+월드비전	월드비전	NNP	B-ORG
+_	_	_	O
+홈페이지	홈페이지	NNG	O
+(	(	SS	O
+www	www	SL	B-POH
+.	.	SF	I-POH
+worldvision	worldvision	SL	I-POH
+.	.	SF	I-POH
+or	or	SL	I-POH
+.	.	SF	I-POH
+kr	kr	SL	I-POH
+)	)	SS	O
+,	,	SP	O
+_	_	_	O
+전화	전화	NNG	O
+(	(	SS	O
+02	02	SN	B-POH
+-	-	SO	I-POH
+784	784	SN	I-POH
+-	-	SO	I-POH
+2004	2004	SN	I-POH
+)	)	SS	O
+,	,	SP	O
+_	_	_	O
+후원	후원	NNG	O
+계좌	계좌	NNG	O
+(	(	SS	O
+우리은행	우리은행	NNP	B-ORG
+_	_	_	O
+269	269	SN	B-POH
+-	-	SO	I-POH
+800743	800743	SN	I-POH
+-	-	SO	I-POH
+18	18	SN	I-POH
+-	-	SO	I-POH
+228	228	SN	I-POH
+)	)	SS	O
+로	로	JKB	O
+_	_	_	O
+가능하	가능하	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## “2014년 한 해에만 해외 여행에 1조 위안(약 1800조원)을 썼다”며 “화장품과 옷, 분유·젖병까지 사온다”고 개탄했다.
+## “<2014년:DAT> <한 해:NOH>에만 해외 여행에 <1조 위안:MNY>(약 <1800조원:MNY>)을 썼다”며 “화장품과 옷, 분유·젖병까지 사온다”고 개탄했다.
+“	“	SS	O
+2014	2014	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+한	한	MM	B-NOH
+_	_	_	I-NOH
+해	해	NNB	I-NOH
+에	에	JKB	O
+만	만	JX	O
+_	_	_	O
+해외	해외	NNG	O
+_	_	_	O
+여행	여행	NNG	O
+에	에	JKB	O
+_	_	_	O
+1	1	SN	B-MNY
+조	조	NNG	I-MNY
+_	_	_	I-MNY
+위안	위안	NNG	I-MNY
+(	(	SS	O
+약	약	MM	O
+_	_	_	O
+1800	1800	SN	B-MNY
+조	조	NR	I-MNY
+원	원	NNB	I-MNY
+)	)	SS	O
+을	을	JKO	O
+_	_	_	O
+썼	+었	+EP	O
+다	다	EF	O
+”	”	SS	O
+며	며	EC	O
+_	_	_	O
+“	“	SS	O
+화장품	화장품	NNG	O
+과	과	JC	O
+_	_	_	O
+옷	옷	NNG	O
+,	,	SP	O
+_	_	_	O
+분유	분유	NNG	O
+·	·	SP	O
+젖병	젖병	NNG	O
+까지	까지	JX	O
+_	_	_	O
+사	사+아	VV+EC	O
+온다	오+ㄴ다	VV+EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+개탄	개탄하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 하지만 출판계는 동녘을 감싸는 분위기다.
+## 하지만 출판계는 <동녘:ORG>을 감싸는 분위기다.
+하지만	하지만	MAJ	O
+_	_	_	O
+출판계	출판계	NNG	O
+는	는	JX	O
+_	_	_	O
+동녘	동녘	NNG	B-ORG
+을	을	JKO	O
+_	_	_	O
+감싸	감싸	VV	O
+는	는	ETM	O
+_	_	_	O
+분위기	분위기+이	NNG+VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 가해 차량은 시속 60㎞로, 피해 차량은 시속 40㎞로 운행 중이었다.
+## 가해 차량은 <시속 60㎞:NOH>로, 피해 차량은 <시속 40㎞:NOH>로 운행 중이었다.
+가해	가해	NNG	O
+_	_	_	O
+차량	차량	NNG	O
+은	은	JX	O
+_	_	_	O
+시속	시속	NNG	B-NOH
+_	_	_	I-NOH
+60	60	SN	I-NOH
+㎞	㎞	SW	I-NOH
+로	로	JKB	O
+,	,	SP	O
+_	_	_	O
+피해	피해	NNG	O
+_	_	_	O
+차량	차량	NNG	O
+은	은	JX	O
+_	_	_	O
+시속	시속	NNG	B-NOH
+_	_	_	I-NOH
+40	40	SN	I-NOH
+㎞	㎞	SW	I-NOH
+로	로	JKB	O
+_	_	_	O
+운행	운행	NNG	O
+_	_	_	O
+중	중	NNB	O
+이	이	VCP	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 도시바 메모리의 매각 1차 입찰 마감일은 오는 29일이다.
+## <도시바:ORG> 메모리의 매각 <1차:NOH> 입찰 마감일은 오는 <29일:DAT>이다.
+도시바	도시바	NNP	B-ORG
+_	_	_	O
+메모리	메모리	NNG	O
+의	의	JKG	O
+_	_	_	O
+매각	매각	NNG	O
+_	_	_	O
+1	1	SN	B-NOH
+차	차	NNB	I-NOH
+_	_	_	O
+입찰	입찰	NNG	O
+_	_	_	O
+마감	마감	NNG	O
+일	일	XSN	O
+은	은	JX	O
+_	_	_	O
+오	오	VV	O
+는	는	ETM	O
+_	_	_	O
+29	29	SN	B-DAT
+일	일	NNB	I-DAT
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 김의 진짜 문제는 청년이 청년답지 못하다는 점이다.
+## <김:PER>의 진짜 문제는 청년이 청년답지 못하다는 점이다.
+김	김	NNP	B-PER
+의	의	JKG	O
+_	_	_	O
+진짜	진짜	NNG	O
+_	_	_	O
+문제	문제	NNG	O
+는	는	JX	O
+_	_	_	O
+청년	청년	NNG	O
+이	이	JKS	O
+_	_	_	O
+청년	청년	NNG	O
+답	답	XSA	O
+지	지	EC	O
+_	_	_	O
+못하	못하	VX	O
+다는	다는	ETM	O
+_	_	_	O
+점	점	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 3승2패의 한국은 16일 오후 7시30분(한국시간) A조 2위 쿠바와 4강 티켓을 놓고 8강전을 치르게 됐다.
+## <3승:NOH><2패:NOH>의 <한국:ORG>은 <16일:DAT> <오후 7시30분:TIM>(<한국:LOC>시간) <A조:ORG> <2위:NOH> <쿠바:ORG>와 <4강:NOH> 티켓을 놓고 <8강:NOH>전을 치르게 됐다.
+3	3	SN	B-NOH
+승	승	NNB	I-NOH
+2	2	SN	B-NOH
+패	패	NNB	I-NOH
+의	의	JKG	O
+_	_	_	O
+한국	한국	NNP	B-ORG
+은	은	JX	O
+_	_	_	O
+16	16	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+오후	오후	NNG	B-TIM
+_	_	_	I-TIM
+7	7	SN	I-TIM
+시	시	NNB	I-TIM
+30	30	SN	I-TIM
+분	분	NNB	I-TIM
+(	(	SS	O
+한국	한국	NNP	B-LOC
+시간	시간	NNG	O
+)	)	SS	O
+_	_	_	O
+A	A	SL	B-ORG
+조	조	NNG	I-ORG
+_	_	_	O
+2	2	SN	B-NOH
+위	위	NNB	I-NOH
+_	_	_	O
+쿠바	쿠바	NNP	B-ORG
+와	와	JKB	O
+_	_	_	O
+4	4	SN	B-NOH
+강	강	NNG	I-NOH
+_	_	_	O
+티켓	티켓	NNG	O
+을	을	JKO	O
+_	_	_	O
+놓	놓	VV	O
+고	고	EC	O
+_	_	_	O
+8	8	SN	B-NOH
+강	강	NNG	I-NOH
+전	전	XSN	O
+을	을	JKO	O
+_	_	_	O
+치르	치르	VV	O
+게	게	EC	O
+_	_	_	O
+됐	+었	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## 인도 정부는 제조업을 육성하고 관련 인프라를 확충하기 위해 ‘메이크 인 인디아(Make in India)’ 정책을 추진 중이다.
+## <인도 정부:ORG>는 제조업을 육성하고 관련 인프라를 확충하기 위해 ‘메이크 인 <인디아:LOC>(Make in <India:LOC>)’ 정책을 추진 중이다.
+인도	인도	NNP	B-ORG
+_	_	_	I-ORG
+정부	정부	NNG	I-ORG
+는	는	JX	O
+_	_	_	O
+제조업	제조업	NNG	O
+을	을	JKO	O
+_	_	_	O
+육성하	육성하	VV	O
+고	고	EC	O
+_	_	_	O
+관련	관련	NNG	O
+_	_	_	O
+인프라	인프라	NNG	O
+를	를	JKO	O
+_	_	_	O
+확충하	확충하	VV	O
+기	기	ETN	O
+_	_	_	O
+위해	위하+여	VV+EC	O
+_	_	_	O
+‘	‘	SS	O
+메이크	메이크	NNG	O
+_	_	_	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+인디아	인디아	NNP	B-LOC
+(	(	SS	O
+Make	Make	SL	O
+_	_	_	O
+in	in	SL	O
+_	_	_	O
+India	India	SL	B-LOC
+)	)	SS	O
+’	’	SS	O
+_	_	_	O
+정책	정책	NNG	O
+을	을	JKO	O
+_	_	_	O
+추진	추진	NNG	O
+_	_	_	O
+중	중	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 14
+## 베라 크루즈의 한 교시는 90분 수업이다.
+## <베라 크루즈:ORG>의 <한 교시:NOH>는 <90분:NOH> 수업이다.
+베라	베라	NNP	B-ORG
+_	_	_	I-ORG
+크루즈	크루즈	NNG	I-ORG
+의	의	JKG	O
+_	_	_	O
+한	한	NNP	B-NOH
+_	_	_	I-NOH
+교시	교시	NNB	I-NOH
+는	는	JX	O
+_	_	_	O
+90	90	SN	B-NOH
+분	분	NNB	I-NOH
+_	_	_	O
+수업	수업	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 15
+## CNUH스텐트는 매우 유연해 시술하기 편리하고 스트레스에 잘 견뎌 혈관을 안정되게 넓혀줄 수 있다는 점이 특징이다.
+## <CNUH스텐트:POH>는 매우 유연해 시술하기 편리하고 스트레스에 잘 견뎌 혈관을 안정되게 넓혀줄 수 있다는 점이 특징이다.
+CNUH	CNUH	SL	B-POH
+스텐트	스텐트	NNP	I-POH
+는	는	JX	O
+_	_	_	O
+매우	매우	MAG	O
+_	_	_	O
+유연해	유연하+여	VA+EC	O
+_	_	_	O
+시술하	시술하	VV	O
+기	기	ETN	O
+_	_	_	O
+편리하	편리하	VA	O
+고	고	EC	O
+_	_	_	O
+스트레스	스트레스	NNG	O
+에	에	JKB	O
+_	_	_	O
+잘	잘	MAG	O
+_	_	_	O
+견뎌	견디+어	VV+EC	O
+_	_	_	O
+혈관	혈관	NNG	O
+을	을	JKO	O
+_	_	_	O
+안정되	안정되	VV	O
+게	게	EC	O
+_	_	_	O
+넓혀	넓히+어	VV+EC	O
+줄	주+ㄹ	VX+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+다는	다는	ETM	O
+_	_	_	O
+점	점	NNG	O
+이	이	JKS	O
+_	_	_	O
+특징	특징	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+

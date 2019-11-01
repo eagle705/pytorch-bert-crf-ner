@@ -1,0 +1,503 @@
+## 1
+## 업계에서는 안전성을 높이기 위해 두 가지 이상의 바이오인식 기술을 통합시키는 다중 바이오인식 기술을 개발하려는 움직임도 포착된다.
+## 업계에서는 안전성을 높이기 위해 <두 가지:NOH> 이상의 바이오인식 기술을 통합시키는 다중 바이오인식 기술을 개발하려는 움직임도 포착된다.
+업계	업계	NNG	O
+에서	에서	JKB	O
+는	는	JX	O
+_	_	_	O
+안전성	안전성	NNG	O
+을	을	JKO	O
+_	_	_	O
+높이	높이	VV	O
+기	기	ETN	O
+_	_	_	O
+위해	위하+여	VV+EC	O
+_	_	_	O
+두	두	MM	B-NOH
+_	_	_	I-NOH
+가지	가지	NNB	I-NOH
+_	_	_	O
+이상	이상	NNG	O
+의	의	JKG	O
+_	_	_	O
+바이오	바이오	NNG	O
+인식	인식	NNG	O
+_	_	_	O
+기술	기술	NNG	O
+을	을	JKO	O
+_	_	_	O
+통합	통합	NNG	O
+시키	시키	XSV	O
+는	는	ETM	O
+_	_	_	O
+다중	다중	NNG	O
+_	_	_	O
+바이오	바이오	NNG	O
+인식	인식	NNG	O
+_	_	_	O
+기술	기술	NNG	O
+을	을	JKO	O
+_	_	_	O
+개발하	개발하	VV	O
+려는	려는	ETM	O
+_	_	_	O
+움직임	움직임	NNG	O
+도	도	JX	O
+_	_	_	O
+포착된다	포착되+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 2
+## 산업용 로봇 제조사인 일본의 화낙, 수술용 로봇 전문회사 미국 인튜이티브 서지컬 등 세계 산업, 의료, 소비자 로봇 관련 기술을 가진 회사에 투자한다.
+## 산업용 로봇 제조사인 <일본:LOC>의 <화낙:ORG>, 수술용 로봇 전문회사 <미국 인튜이티브 서지컬:ORG> 등 세계 산업, 의료, 소비자 로봇 관련 기술을 가진 회사에 투자한다.
+산업용	산업용	NNG	O
+_	_	_	O
+로봇	로봇	NNG	O
+_	_	_	O
+제조	제조	NNG	O
+사인	사인	NNG	O
+_	_	_	O
+일본	일본	NNP	B-LOC
+의	의	JKG	O
+_	_	_	O
+화	화	NNG	B-ORG
+낙	낙	NNG	I-ORG
+,	,	SP	O
+_	_	_	O
+수술	수술	NNG	O
+용	용	XSN	O
+_	_	_	O
+로봇	로봇	NNG	O
+_	_	_	O
+전문	전문	NNG	O
+회사	회사	NNG	O
+_	_	_	O
+미국	미국	NNP	B-ORG
+_	_	_	I-ORG
+인튜이티브	인튜이티브	NNG	I-ORG
+_	_	_	I-ORG
+서지컬	서지컬	NNP	I-ORG
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+세계	세계	NNG	O
+_	_	_	O
+산업	산업	NNG	O
+,	,	SP	O
+_	_	_	O
+의료	의료	NNG	O
+,	,	SP	O
+_	_	_	O
+소비자	소비자	NNG	O
+_	_	_	O
+로봇	로봇	NNG	O
+_	_	_	O
+관련	관련	NNG	O
+_	_	_	O
+기술	기술	NNG	O
+을	을	JKO	O
+_	_	_	O
+가진	가지+ㄴ	VV+ETM	O
+_	_	_	O
+회사	회사	NNG	O
+에	에	JKB	O
+_	_	_	O
+투자한다	투자하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 3
+## 이씨는 평생 남 앞에서 자신 있게 웃어본 경험이 없다고 했다.
+## <이:PER>씨는 평생 남 앞에서 자신 있게 웃어본 경험이 없다고 했다.
+이	이	NNP	B-PER
+씨	씨	NNB	O
+는	는	JX	O
+_	_	_	O
+평생	평생	NNG	O
+_	_	_	O
+남	남	NNG	O
+_	_	_	O
+앞	앞	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+자신	자신	NNG	O
+_	_	_	O
+있	있	VA	O
+게	게	EC	O
+_	_	_	O
+웃	웃	VV	O
+어	어	EC	O
+본	보+ㄴ	VX+ETM	O
+_	_	_	O
+경험	경험	NNG	O
+이	이	JKS	O
+_	_	_	O
+없	없	VA	O
+다고	다고	EC	O
+_	_	_	O
+했	+였	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 최승진 포항공대 컴퓨터공학과 교수도 비슷한 입장이다.
+## <최승진:PER> <포항공대 컴퓨터공학과:ORG> 교수도 비슷한 입장이다.
+최승진	최승진	NNP	B-PER
+_	_	_	O
+포항공대	포항공대	NNP	B-ORG
+_	_	_	I-ORG
+컴퓨터	컴퓨터	NNG	I-ORG
+공학	공학	NNG	I-ORG
+과	과	NNG	I-ORG
+_	_	_	O
+교수	교수	NNG	O
+도	도	JX	O
+_	_	_	O
+비슷한	비슷하+ㄴ	VA+ETM	O
+_	_	_	O
+입장	입장	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 어릴적 포켓몬에 빠졌던 사람들이라면 주목. 영국의 아티스트가 만든 포켓몬 상품이 화제다.
+## 어릴적 <포켓몬:POH>에 빠졌던 사람들이라면 주목. <영국:LOC>의 아티스트가 만든 <포켓몬:POH> 상품이 화제다.
+어릴	어리+ㄹ	VA+ETM	O
+적	적	NNB	O
+_	_	_	O
+포켓몬	포켓몬	NNG	B-POH
+에	에	JKB	O
+_	_	_	O
+빠	빠지	VV	O
+졌	었	EP	O
+던	던	ETM	O
+_	_	_	O
+사람	사람	NNG	O
+들	들	XSN	O
+이	이	VCP	O
+라면	라면	EC	O
+_	_	_	O
+주목	주목	NNG	O
+.	.	SF	O
+_	_	_	O
+영국	영국	NNP	B-LOC
+의	의	JKG	O
+_	_	_	O
+아티스트	아티스트	NNG	O
+가	가	JKS	O
+_	_	_	O
+만든	만들+ㄴ	VV+ETM	O
+_	_	_	O
+포켓몬	포켓몬	NNG	B-POH
+_	_	_	O
+상품	상품	NNG	O
+이	이	JKS	O
+_	_	_	O
+화제	화제+이	NNG+VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 송중기는 이날 오전 8시 강원도 고성군 22사단에서 전역 신고를 한 후 부대 앞에서 팬들을 만났다.
+## <송중기:PER>는 이날 <오전 8시:TIM> <강원도 고성군:LOC> <22사단:NOH>에서 전역 신고를 한 후 부대 앞에서 팬들을 만났다.
+송중기	송중기	NNP	B-PER
+는	는	JX	O
+_	_	_	O
+이날	이날	NNG	O
+_	_	_	O
+오전	오전	NNG	B-TIM
+_	_	_	I-TIM
+8	8	SN	I-TIM
+시	시	NNB	I-TIM
+_	_	_	O
+강원도	강원도	NNP	B-LOC
+_	_	_	I-LOC
+고성군	고성군	NNP	I-LOC
+_	_	_	O
+22	22	SN	B-NOH
+사단	사단	NNG	I-NOH
+에서	에서	JKB	O
+_	_	_	O
+전역	전역	NNG	O
+_	_	_	O
+신고	신고	NNG	O
+를	를	JKO	O
+_	_	_	O
+한	하+ㄴ	VV+ETM	O
+_	_	_	O
+후	후	NNG	O
+_	_	_	O
+부대	부대	NNG	O
+_	_	_	O
+앞	앞	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+팬	팬	NNG	O
+들	들	XSN	O
+을	을	JKO	O
+_	_	_	O
+만났	만나+았	VV+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 한편 기존 환자 가운데 8번(46ㆍ여), 27번(55), 33번(47), 41번(70ㆍ여) 등 4명이 퇴원했다.
+## 한편 기존 환자 가운데 <8번:NOH>(<46:NOH>ㆍ여), <27번:NOH>(<55:NOH>), <33번:NOH>(<47:NOH>), <41번:NOH>(<70:NOH>ㆍ여) 등 <4명:NOH>이 퇴원했다.
+한편	한편	MAG	O
+_	_	_	O
+기존	기존	NNG	O
+_	_	_	O
+환자	환자	NNG	O
+_	_	_	O
+가운데	가운데	NNG	O
+_	_	_	O
+8	8	SN	B-NOH
+번	번	NNB	I-NOH
+(	(	SS	O
+46	46	SN	B-NOH
+ㆍ	ㆍ	SP	O
+여	여	NNG	O
+)	)	SS	O
+,	,	SP	O
+_	_	_	O
+27	27	SN	B-NOH
+번	번	NNB	I-NOH
+(	(	SS	O
+55	55	SN	B-NOH
+)	)	SS	O
+,	,	SP	O
+_	_	_	O
+33	33	SN	B-NOH
+번	번	NNB	I-NOH
+(	(	SS	O
+47	47	SN	B-NOH
+)	)	SS	O
+,	,	SP	O
+_	_	_	O
+41	41	SN	B-NOH
+번	번	NNB	I-NOH
+(	(	SS	O
+70	70	SN	B-NOH
+ㆍ	ㆍ	SP	O
+여	여	NNG	O
+)	)	SS	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+4	4	SN	B-NOH
+명	명	NNB	I-NOH
+이	이	JKS	O
+_	_	_	O
+퇴원	퇴원하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 최근 5연승 행진 속에 2위 NC와 5게임차로 벌리며 단독 선두를 질주했다.
+## 최근 <5연승:NOH> 행진 속에 <2위:NOH> <NC:ORG>와 <5게임:NOH>차로 벌리며 단독 선두를 질주했다.
+최근	최근	NNG	O
+_	_	_	O
+5	5	SN	B-NOH
+연승	연승	NNG	I-NOH
+_	_	_	O
+행진	행진	NNG	O
+_	_	_	O
+속	속	NNG	O
+에	에	JKB	O
+_	_	_	O
+2	2	SN	B-NOH
+위	위	NNB	I-NOH
+_	_	_	O
+NC	NC	SL	B-ORG
+와	와	JC	O
+_	_	_	O
+5	5	SN	B-NOH
+게임차	게임차	NNG	O
+로	로	JKB	O
+_	_	_	O
+벌리	벌리	VV	O
+며	며	EC	O
+_	_	_	O
+단독	단독	NNG	O
+_	_	_	O
+선두	선두	NNG	O
+를	를	JKO	O
+_	_	_	O
+질주	질주하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 석유제품 31.1%, 전기요금 42.4%, 철도요금 39%가 올랐다.
+## 석유제품 <31.1%:PNT>, 전기요금 <42.4%:PNT>, 철도요금 <39%:PNT>가 올랐다.
+석유	석유	NNG	O
+제품	제품	NNG	O
+_	_	_	O
+31.1	31.1	SN	B-PNT
+%	%	SW	I-PNT
+,	,	SP	O
+_	_	_	O
+전기	전기	NNG	O
+요금	요금	NNG	O
+_	_	_	O
+42.4	42.4	SN	B-PNT
+%	%	SW	I-PNT
+,	,	SP	O
+_	_	_	O
+철도	철도	NNG	O
+요금	요금	NNG	O
+_	_	_	O
+39	39	SN	B-PNT
+%	%	SW	I-PNT
+가	가	JKS	O
+_	_	_	O
+올	오르	VV	O
+랐	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 최초의 남북대화 장면은 남북의 지도자가 놓쳐선 안 될 대목이다.
+## 최초의 <남북:ORG>대화 장면은 <남북:ORG>의 지도자가 놓쳐선 안 될 대목이다.
+최초	최초	NNG	O
+의	의	JKG	O
+_	_	_	O
+남북	남북	NNP	B-ORG
+대화	대화	NNG	O
+_	_	_	O
+장면	장면	NNG	O
+은	은	JX	O
+_	_	_	O
+남북	남북	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+지도자	지도자	NNG	O
+가	가	JKS	O
+_	_	_	O
+놓쳐선	놓치+어서+ㄴ	VV+EC+JX	O
+_	_	_	O
+안	안	MAG	O
+_	_	_	O
+될	되+ㄹ	VV+ETM	O
+_	_	_	O
+대목	대목	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 두 개의 빌딩에 100여개가 넘는 숍들이 입점해 있고, 가운데 넓은 광장에는 홍콩의 크고 작은 이벤트가 항상 열린다.
+## <두 개:NOH>의 빌딩에 <100여개:NOH>가 넘는 숍들이 입점해 있고, 가운데 넓은 광장에는 <홍콩:LOC>의 크고 작은 이벤트가 항상 열린다.
+두	두	MM	B-NOH
+_	_	_	I-NOH
+개	개	NNB	I-NOH
+의	의	JKG	O
+_	_	_	O
+빌딩	빌딩	NNG	O
+에	에	JKB	O
+_	_	_	O
+100	100	SN	B-NOH
+여	여	XSN	I-NOH
+개	개	NNB	I-NOH
+가	가	JKS	O
+_	_	_	O
+넘	넘	VV	O
+는	는	ETM	O
+_	_	_	O
+숍	숍	NNG	O
+들	들	XSN	O
+이	이	JKS	O
+_	_	_	O
+입점	입점	NNG	O
+해	하+여	XSV+EC	O
+_	_	_	O
+있	있	VX	O
+고	고	EC	O
+,	,	SP	O
+_	_	_	O
+가운데	가운데	NNG	O
+_	_	_	O
+넓	넓	VA	O
+은	은	ETM	O
+_	_	_	O
+광장	광장	NNG	O
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+홍콩	홍콩	NNP	B-LOC
+의	의	JKG	O
+_	_	_	O
+크	크	VA	O
+고	고	EC	O
+_	_	_	O
+작	작	VA	O
+은	은	ETM	O
+_	_	_	O
+이벤트	이벤트	NNG	O
+가	가	JKS	O
+_	_	_	O
+항상	항상	MAG	O
+_	_	_	O
+열린다	열리+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 12
+## JTBC ‘학교 다녀오겠습니다’
+## <JTBC:ORG> ‘<학교 다녀오겠습니다:POH>’
+JTBC	JTBC	SL	B-ORG
+_	_	_	O
+‘	‘	SS	O
+학교	학교	NNG	B-POH
+_	_	_	I-POH
+다녀오	다녀오	VV	I-POH
+겠	겠	EP	I-POH
+습니다	습니다	EF	I-POH
+’	’	SS	O
+
+## 13
+## “시골에서 직장을 찾으려고 차비만 들고 부산으로 왔는데, 처음 한 일이 건설회사 관리감독 일이었어요.
+## “시골에서 직장을 찾으려고 차비만 들고 <부산:LOC>으로 왔는데, 처음 한 일이 건설회사 관리감독 일이었어요.
+“	“	SS	O
+시골	시골	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+직장	직장	NNG	O
+을	을	JKO	O
+_	_	_	O
+찾	찾	VV	O
+으려고	으려고	EC	O
+_	_	_	O
+차비	차비	NNG	O
+만	만	JX	O
+_	_	_	O
+들	들	VV	O
+고	고	EC	O
+_	_	_	O
+부산	부산	NNP	B-LOC
+으로	으로	JKB	O
+_	_	_	O
+왔	+았	+EP	O
+는데	는데	EC	O
+,	,	SP	O
+_	_	_	O
+처음	처음	NNG	O
+_	_	_	O
+한	하+ㄴ	VV+ETM	O
+_	_	_	O
+일	일	NNG	O
+이	이	JKS	O
+_	_	_	O
+건설	건설	NNG	O
+회사	회사	NNG	O
+_	_	_	O
+관리	관리	NNG	O
+감독	감독	NNG	O
+_	_	_	O
+일	일	NNG	O
+이	이	VCP	O
+었	었	EP	O
+어요	어요	EF	O
+.	.	SF	O
+

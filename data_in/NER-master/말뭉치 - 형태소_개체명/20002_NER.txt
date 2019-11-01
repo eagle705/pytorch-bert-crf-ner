@@ -1,0 +1,399 @@
+## 1
+## NC는 그의 야구인생에서 전환점이었다.
+## <NC:ORG>는 그의 야구인생에서 전환점이었다.
+NC	NC	SL	B-ORG
+는	는	JX	O
+_	_	_	O
+그	그	NP	O
+의	의	JKG	O
+_	_	_	O
+야구	야구	NNG	O
+인생	인생	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+전환점	전환점	NNG	O
+이	이	VCP	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 김영철이 "왜 식초를 넣냐"고 묻자 이찬오는 "식초를 넣어야 수란이 굳는다"며 팁을 전수했다.
+## <김영철:PER>이 "왜 식초를 넣냐"고 묻자 <이찬오:PER>는 "식초를 넣어야 수란이 굳는다"며 팁을 전수했다.
+김	김	NNP	B-PER
+영철이	영철이	NNP	O
+_	_	_	O
+"	"	SS	O
+왜	왜	MAG	O
+_	_	_	O
+식초	식초	NNG	O
+를	를	JKO	O
+_	_	_	O
+넣	넣	VV	O
+냐	냐	EF	O
+"	"	SS	O
+고	고	JKQ	O
+_	_	_	O
+묻	묻	VV	O
+자	자	EC	O
+_	_	_	O
+이찬오	이찬오	NNP	B-PER
+는	는	JX	O
+_	_	_	O
+"	"	SS	O
+식초	식초	NNG	O
+를	를	JKO	O
+_	_	_	O
+넣	넣	VV	O
+어야	어야	EC	O
+_	_	_	O
+수란이	수란이	NNP	O
+_	_	_	O
+굳	굳	VV	O
+는다	는다	EF	O
+"	"	SS	O
+며	며	EC	O
+_	_	_	O
+팁	팁	NNG	O
+을	을	JKO	O
+_	_	_	O
+전수	전수하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 한편 화보와 함께 진행된 인터뷰에서 김유정은 고3 수험생의 고충에 대해 "고민이 없을 거라 생각했는데, 신기하게도 그렇지 않다"며 "고민 끝에는 항상 공통점이 있는데 바로 김유정 나 자신을 찾는 일이다"라고 밝혔다.
+## 한편 화보와 함께 진행된 인터뷰에서 <김유정:PER>은 <고3:NOH> 수험생의 고충에 대해 "고민이 없을 거라 생각했는데, 신기하게도 그렇지 않다"며 "고민 끝에는 항상 공통점이 있는데 바로 <김유정:PER> 나 자신을 찾는 일이다"라고 밝혔다.
+한편	한편	MAG	O
+_	_	_	O
+화보	화보	NNG	O
+와	와	JKB	O
+_	_	_	O
+함께	함께	MAG	O
+_	_	_	O
+진행된	진행되+ㄴ	VV+ETM	O
+_	_	_	O
+인터뷰	인터뷰	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+김유정	김유정	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+고	고	NNG	B-NOH
+3	3	SN	I-NOH
+_	_	_	O
+수험생	수험생	NNG	O
+의	의	JKG	O
+_	_	_	O
+고충	고충	NNG	O
+에	에	JKB	O
+_	_	_	O
+대해	대하+여	VV+EC	O
+_	_	_	O
+"	"	SS	O
+고민	고민	NNG	O
+이	이	JKS	O
+_	_	_	O
+없	없	VA	O
+을	을	ETM	O
+_	_	_	O
+거	것+이	NNB+VCP	O
+라	라	EC	O
+_	_	_	O
+생각	생각하	VV	O
+했	였	EP	O
+는데	는데	EC	O
+,	,	SP	O
+_	_	_	O
+신기하	신기하	VA	O
+게	게	EC	O
+도	도	JX	O
+_	_	_	O
+그렇	그렇	VA	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+다	다	EF	O
+"	"	SS	O
+며	며	EC	O
+_	_	_	O
+"	"	SS	O
+고민	고민	NNG	O
+_	_	_	O
+끝	끝	NNG	O
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+항상	항상	MAG	O
+_	_	_	O
+공통점	공통점	NNG	O
+이	이	JKS	O
+_	_	_	O
+있	있	VA	O
+는데	는데	EC	O
+_	_	_	O
+바로	바로	MAG	O
+_	_	_	O
+김유정	김유정	NNP	B-PER
+_	_	_	O
+나	나	NP	O
+_	_	_	O
+자신	자신	NNG	O
+을	을	JKO	O
+_	_	_	O
+찾	찾	VV	O
+는	는	ETM	O
+_	_	_	O
+일	일	NNG	O
+이	이	VCP	O
+다	다	EF	O
+"	"	SS	O
+라고	라고	JKQ	O
+_	_	_	O
+밝	밝히	VV	O
+혔	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 이 때 최민정이 나섰다.
+## 이 때 <최민정:PER>이 나섰다.
+이	이	MM	O
+_	_	_	O
+때	때	NNG	O
+_	_	_	O
+최민정	최민정	NNP	B-PER
+이	이	JKS	O
+_	_	_	O
+나섰	나서+었	VV+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 국내 기업들의 경우 공통점이 하나 있다.
+## 국내 기업들의 경우 공통점이 <하나:NOH> 있다.
+국내	국내	NNG	O
+_	_	_	O
+기업	기업	NNG	O
+들	들	XSN	O
+의	의	JKG	O
+_	_	_	O
+경우	경우	NNG	O
+_	_	_	O
+공통점	공통점	NNG	O
+이	이	JKS	O
+_	_	_	O
+하나	하나	NR	B-NOH
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 이날 황석정은 한밤 중 TV를 보며 19금 영화를 자연스럽게 시청하는 모습으로 시청자들의 눈길을 모았다.
+## 이날 <황석정:PER>은 한밤 중 TV를 보며 <19금:NOH> 영화를 자연스럽게 시청하는 모습으로 시청자들의 눈길을 모았다.
+이날	이날	NNG	O
+_	_	_	O
+황석정	황석정	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+한밤	한밤	NNG	O
+_	_	_	O
+중	중	NNP	O
+_	_	_	O
+TV	TV	SL	O
+를	를	JKO	O
+_	_	_	O
+보	보	VV	O
+며	며	EC	O
+_	_	_	O
+19	19	SN	B-NOH
+금	금	NNG	I-NOH
+_	_	_	O
+영화	영화	NNG	O
+를	를	JKO	O
+_	_	_	O
+자연스럽	자연스럽	VA	O
+게	게	EC	O
+_	_	_	O
+시청하	시청하	VV	O
+는	는	ETM	O
+_	_	_	O
+모습	모습	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+시청자	시청자	NNG	O
+들	들	XSN	O
+의	의	JKG	O
+_	_	_	O
+눈길	눈길	NNG	O
+을	을	JKO	O
+_	_	_	O
+모	모으	VV	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 중국 도심 한복판서 정확한 신분확인 요구도 무시한 채 자신을 공안(중국 경찰)이라 밝힌 정체불명의 사내들에게 둘러싸여 힘으로 제압당했다.
+## <중국:LOC> 도심 한복판서 정확한 신분확인 요구도 무시한 채 자신을 공안(<중국:ORG> 경찰)이라 밝힌 정체불명의 사내들에게 둘러싸여 힘으로 제압당했다.
+중국	중국	NNP	B-LOC
+_	_	_	O
+도심	도심	NNG	O
+_	_	_	O
+한복판	한복판	NNG	O
+서	서	JKB	O
+_	_	_	O
+정확한	정확하+ㄴ	VA+ETM	O
+_	_	_	O
+신분	신분	NNG	O
+확인	확인	NNG	O
+_	_	_	O
+요구	요구	NNG	O
+도	도	JX	O
+_	_	_	O
+무시한	무시하+ㄴ	VV+ETM	O
+_	_	_	O
+채	채	NNB	O
+_	_	_	O
+자신	자신	NNG	O
+을	을	JKO	O
+_	_	_	O
+공안	공안	NNG	O
+(	(	SS	O
+중국	중국	NNP	B-ORG
+_	_	_	O
+경찰	경찰	NNG	O
+)	)	SS	O
+이	이	VCP	O
+라	라	EC	O
+_	_	_	O
+밝힌	밝히+ㄴ	VV+ETM	O
+_	_	_	O
+정체불명	정체불명	NNG	O
+의	의	JKG	O
+_	_	_	O
+사내	사내	NNG	O
+들	들	XSN	O
+에게	에게	JKB	O
+_	_	_	O
+둘러싸	둘러싸이	VV	O
+여	어	EC	O
+_	_	_	O
+힘	힘	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+제압당	제압당하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 이날 외환 당국은 중국의 움직임을 긴밀하게 관찰하되 상황을 좀 더 지켜보는 쪽을 택했다.
+## 이날 외환 당국은 <중국:ORG>의 움직임을 긴밀하게 관찰하되 상황을 좀 더 지켜보는 쪽을 택했다.
+이날	이날	NNG	O
+_	_	_	O
+외환	외환	NNG	O
+_	_	_	O
+당국	당국	NNG	O
+은	은	JX	O
+_	_	_	O
+중국	중국	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+움직임	움직임	NNG	O
+을	을	JKO	O
+_	_	_	O
+긴밀하	긴밀하	VA	O
+게	게	EC	O
+_	_	_	O
+관찰하	관찰하	VV	O
+되	되	EC	O
+_	_	_	O
+상황	상황	NNG	O
+을	을	JKO	O
+_	_	_	O
+좀	좀	MAG	O
+_	_	_	O
+더	더	MAG	O
+_	_	_	O
+지켜보	지켜보	VV	O
+는	는	ETM	O
+_	_	_	O
+쪽	쪽	NNB	O
+을	을	JKO	O
+_	_	_	O
+택	택하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 금·토요일은 오후 7시부터 자정까지 연중무휴 영업한다.
+## <금:DAT>·<토요일:DAT>은 <오후 7시부터 자정:DUR>까지 연중무휴 영업한다.
+금	금	NNG	B-DAT
+·	·	SP	O
+토요일	토요일	NNG	B-DAT
+은	은	JX	O
+_	_	_	O
+오후	오후	NNG	B-DUR
+_	_	_	I-DUR
+7	7	SN	I-DUR
+시	시	NNB	I-DUR
+부터	부터	JX	I-DUR
+_	_	_	I-DUR
+자정	자정	NNG	I-DUR
+까지	까지	JX	O
+_	_	_	O
+연중무휴	연중무휴	NNG	O
+_	_	_	O
+영업한다	영업하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 10
+## 우연찮게 2012년 케이블채널 드라마 ‘아이러브 이태리’에 단역으로 출연했는데, 그때 이후로 더 포기할 수 없었다.
+## 우연찮게 <2012년:DAT> 케이블채널 드라마 ‘<아이러브 이태리:POH>’에 단역으로 출연했는데, 그때 이후로 더 포기할 수 없었다.
+우연찮	우연찮	VA	O
+게	게	EC	O
+_	_	_	O
+2012	2012	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+케이블	케이블	NNG	O
+채널	채널	NNG	O
+_	_	_	O
+드라마	드라마	NNG	O
+_	_	_	O
+‘	‘	SS	O
+아이	아이	NNG	B-POH
+러브	러브	NNG	I-POH
+_	_	_	I-POH
+이태리	이태리	NNP	I-POH
+’	’	SS	O
+에	에	JKB	O
+_	_	_	O
+단역	단역	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+출연	출연하	VV	O
+했	였	EP	O
+는데	는데	EC	O
+,	,	SP	O
+_	_	_	O
+그때	그때	NNG	O
+_	_	_	O
+이후	이후	NNG	O
+로	로	JKB	O
+_	_	_	O
+더	더	MAG	O
+_	_	_	O
+포기할	포기하+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+없	없	VA	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+

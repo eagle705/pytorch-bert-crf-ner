@@ -1,0 +1,432 @@
+## 1
+## 남북하나재단 이사에 현성일-현인애…설립 이래 첫 탈북민 임명
+## <남북하나재단:ORG> 이사에 <현성일:PER>-<현인애:PER>…설립 이래 첫 탈북민 임명
+남북	남북	NNP	B-ORG
+하나	하나	NNG	I-ORG
+재단	재단	NNG	I-ORG
+_	_	_	O
+이사	이사	NNG	O
+에	에	JKB	O
+_	_	_	O
+현성일	현성일	NNP	B-PER
+-	-	SO	O
+현인애	현인애	NNP	B-PER
+…	…	SE	O
+설립	설립	NNG	O
+_	_	_	O
+이래	이래	NNB	O
+_	_	_	O
+첫	첫	MM	O
+_	_	_	O
+탈	탈	XPN	O
+북	북	NNP	O
+민	민	XSN	O
+_	_	_	O
+임명	임명	NNG	O
+
+## 2
+## 작년 11월 이준, 천둥이 계약만료로 떠난 엠블랙도 상반기 새 음반을 내놓는다.
+## 작년 <11월:DAT> <이준:PER>, <천둥:PER>이 계약만료로 떠난 <엠블랙:ORG>도 상반기 새 음반을 내놓는다.
+작년	작년	NNG	O
+_	_	_	O
+11	11	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+이준	이준	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+천둥	천둥	NNG	B-PER
+이	이	JKS	O
+_	_	_	O
+계약	계약	NNG	O
+만료	만료	NNG	O
+로	로	JKB	O
+_	_	_	O
+떠난	떠나+ㄴ	VV+ETM	O
+_	_	_	O
+엠	엠	NNG	B-ORG
+블랙	블랙	NNG	I-ORG
+도	도	JX	O
+_	_	_	O
+상반기	상반기	NNG	O
+_	_	_	O
+새	새	MM	O
+_	_	_	O
+음반	음반	NNG	O
+을	을	JKO	O
+_	_	_	O
+내놓	내놓	VV	O
+는다	는다	EF	O
+.	.	SF	O
+
+## 3
+## 지난 2014년까지 10% 넘게 감소하다 지난해 감소율은 6.8%로 낮아졌다.
+## 지난 <2014년:DAT>까지 <10%:PNT> 넘게 감소하다 지난해 감소율은 <6.8%:PNT>로 낮아졌다.
+지난	지나+ㄴ	VV+ETM	O
+_	_	_	O
+2014	2014	SN	B-DAT
+년	년	NNB	I-DAT
+까지	까지	JX	O
+_	_	_	O
+10	10	SN	B-PNT
+%	%	SW	I-PNT
+_	_	_	O
+넘	넘	VV	O
+게	게	EC	O
+_	_	_	O
+감소하	감소하	VV	O
+다	다	EC	O
+_	_	_	O
+지난해	지난해	NNG	O
+_	_	_	O
+감소율	감소율	NNG	O
+은	은	JX	O
+_	_	_	O
+6.8	6.8	SN	B-PNT
+%	%	SW	I-PNT
+로	로	JKB	O
+_	_	_	O
+낮	낮	VA	O
+아	아	EC	O
+졌	지+었	VX+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 원주인에게 돌아가는 비율은 2010년 10.6%에서 꾸준히 상승, 지난해 25.3%까지 높아졌다.
+## 원주인에게 돌아가는 비율은 <2010년:DAT> <10.6%:PNT>에서 꾸준히 상승, 지난해 <25.3%:PNT>까지 높아졌다.
+원주인	원주인	NNG	O
+에게	에게	JKB	O
+_	_	_	O
+돌아가	돌아가	VV	O
+는	는	ETM	O
+_	_	_	O
+비율	비율	NNG	O
+은	은	JX	O
+_	_	_	O
+2010	2010	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+10.6	10.6	SN	B-PNT
+%	%	SW	I-PNT
+에서	에서	JKB	O
+_	_	_	O
+꾸준히	꾸준히	MAG	O
+_	_	_	O
+상승	상승	NNG	O
+,	,	SP	O
+_	_	_	O
+지난해	지난해	NNG	O
+_	_	_	O
+25.3	25.3	SN	B-PNT
+%	%	SW	I-PNT
+까지	까지	JX	O
+_	_	_	O
+높아	높아지	VV	O
+졌	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 연구는 프랑스 파리에서 주로 이뤄지지만 전 세계에서 발표되는 흥미로운 연구 결과에도 늘 촉각을 곤두세우고 있다.
+## 연구는 <프랑스 파리:LOC>에서 주로 이뤄지지만 전 세계에서 발표되는 흥미로운 연구 결과에도 늘 촉각을 곤두세우고 있다.
+연구	연구	NNG	O
+는	는	JX	O
+_	_	_	O
+프랑스	프랑스	NNP	B-LOC
+_	_	_	I-LOC
+파리	파리	NNP	I-LOC
+에서	에서	JKB	O
+_	_	_	O
+주로	주로	MAG	O
+_	_	_	O
+이뤄지	이루어지	VV	O
+지만	지만	EC	O
+_	_	_	O
+전	전	MM	O
+_	_	_	O
+세계	세계	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+발표되	발표되	VV	O
+는	는	ETM	O
+_	_	_	O
+흥미로	흥미롭	VA	O
+운	ㄴ	ETM	O
+_	_	_	O
+연구	연구	NNG	O
+_	_	_	O
+결과	결과	NNG	O
+에	에	JKB	O
+도	도	JX	O
+_	_	_	O
+늘	늘	MAG	O
+_	_	_	O
+촉각	촉각	NNG	O
+을	을	JKO	O
+_	_	_	O
+곤두세우	곤두세우	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 르노삼성은 뒤이어 SM5 D를 내놨다.
+## <르노삼성:ORG>은 뒤이어 <SM5 D:POH>를 내놨다.
+르노삼성	르노삼성	NNP	B-ORG
+은	은	JX	O
+_	_	_	O
+뒤이	뒤잇	VV	O
+어	어	EC	O
+_	_	_	O
+SM	SM	SL	B-POH
+5	5	SN	I-POH
+_	_	_	I-POH
+D	D	SL	I-POH
+를	를	JKO	O
+_	_	_	O
+내	내놓	VV	O
+놨	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 외제냉장고과 외제에어컨은 올해 1∼7월사이 각각 2천6백98만달러와 2백22만달러어치가 수입돼 작년에 비해 1백13%와 1백66% 증가했고, 컬러TV와 VCR수입도 크게 늘어났다.
+## 외제냉장고과 외제에어컨은 올해 <1:DAT>∼<7월:DAT>사이 각각 <2천6백98만달러:MNY>와 <2백22만달러:MNY>어치가 수입돼 작년에 비해 <1백13%:PNT>와 <1백66%:PNT> 증가했고, 컬러TV와 VCR수입도 크게 늘어났다.
+외제	외제	NNG	O
+냉장고	냉장고	NNG	O
+과	과	JC	O
+_	_	_	O
+외제	외제	NNG	O
+에어컨	에어컨	NNG	O
+은	은	JX	O
+_	_	_	O
+올해	올해	NNG	O
+_	_	_	O
+1	1	SN	B-DAT
+∼	∼	SO	O
+7	7	SN	B-DAT
+월	월	NNB	I-DAT
+사이	사이	NNG	O
+_	_	_	O
+각각	각각	MAG	O
+_	_	_	O
+2	2	SN	B-MNY
+천	천	NR	I-MNY
+6	6	SN	I-MNY
+백	백	NR	I-MNY
+98	98	SN	I-MNY
+만	만	NR	I-MNY
+달러	달러	NNB	I-MNY
+와	와	JC	O
+_	_	_	O
+2	2	SN	B-MNY
+백	백	NR	I-MNY
+22	22	SN	I-MNY
+만	만	NR	I-MNY
+달러	달러	NNB	I-MNY
+어치	어치	XSN	O
+가	가	JKS	O
+_	_	_	O
+수입돼	수입되+어	VV+EC	O
+_	_	_	O
+작년	작년	NNG	O
+에	에	JKB	O
+_	_	_	O
+비해	비하+여	VV+EC	O
+_	_	_	O
+1	1	SN	B-PNT
+백	백	NR	I-PNT
+13	13	SN	I-PNT
+%	%	SW	I-PNT
+와	와	JC	O
+_	_	_	O
+1	1	SN	B-PNT
+백	백	NR	I-PNT
+66	66	SN	I-PNT
+%	%	SW	I-PNT
+_	_	_	O
+증가	증가하	VV	O
+했	였	EP	O
+고	고	EC	O
+,	,	SP	O
+_	_	_	O
+컬러	컬러	NNG	O
+TV	TV	SL	O
+와	와	JC	O
+_	_	_	O
+VCR	VCR	SL	O
+수입	수입	NNG	O
+도	도	JX	O
+_	_	_	O
+크	크	VA	O
+게	게	EC	O
+_	_	_	O
+늘어났	늘어나+았	VV+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 지난해 신동우 화백의 20주기를 맞아 아들인 신찬섭씨가 부친의 이름으로 페이스북 페이지(https://www.facebook.com/chadolbawee)를 개설했다.
+## 지난해 <신동우:PER> 화백의 <20주기:NOH>를 맞아 아들인 <신찬섭:PER>씨가 부친의 이름으로 <페이스북:POH> 페이지(<https://www.facebook.com/chadolbawee:POH>)를 개설했다.
+지난해	지난해	NNG	O
+_	_	_	O
+신동우	신동우	NNP	B-PER
+_	_	_	O
+화백	화백	NNG	O
+의	의	JKG	O
+_	_	_	O
+20	20	SN	B-NOH
+주기	주기	NNG	I-NOH
+를	를	JKO	O
+_	_	_	O
+맞	맞	VV	O
+아	아	EC	O
+_	_	_	O
+아들	아들	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+신찬섭	신찬섭	NNP	B-PER
+씨	씨	NNB	O
+가	가	JKS	O
+_	_	_	O
+부친	부친	NNG	O
+의	의	JKG	O
+_	_	_	O
+이름	이름	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+페이스북	페이스북	NNP	B-POH
+_	_	_	O
+페이지	페이지	NNG	O
+(	(	SS	O
+https	https	SL	B-POH
+:	:	SP	I-POH
+/	/	SP	I-POH
+/	/	SP	I-POH
+www	www	SL	I-POH
+.	.	SF	I-POH
+facebook	facebook	SL	I-POH
+.	.	SF	I-POH
+com	com	SL	I-POH
+/	/	SP	I-POH
+chadolbawee	chadolbawee	SL	I-POH
+)	)	SS	O
+를	를	JKO	O
+_	_	_	O
+개설	개설하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 여기에 25일에는 시리아 내전을 다룬 후보작 “화이트 헬멧”의 촬영기사인 21세의 영화인의 입국이 이민국에 의해 금지되었다는 소식도 전해졌다.
+## 여기에 <25일:DAT>에는 <시리아:ORG> 내전을 다룬 후보작 “<화이트 헬멧:POH>”의 촬영기사인 <21세:NOH>의 영화인의 입국이 이민국에 의해 금지되었다는 소식도 전해졌다.
+여기	여기	NP	O
+에	에	JKB	O
+_	_	_	O
+25	25	SN	B-DAT
+일	일	NNB	I-DAT
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+시리아	시리아	NNP	B-ORG
+_	_	_	O
+내전	내전	NNG	O
+을	을	JKO	O
+_	_	_	O
+다룬	다루+ㄴ	VV+ETM	O
+_	_	_	O
+후보작	후보작	NNG	O
+_	_	_	O
+“	“	SS	O
+화이트	화이트	NNG	B-POH
+_	_	_	I-POH
+헬멧	헬멧	NNG	I-POH
+”	”	SS	O
+의	의	JKG	O
+_	_	_	O
+촬영	촬영	NNG	O
+기사	기사	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+21	21	SN	B-NOH
+세	세	NNB	I-NOH
+의	의	JKG	O
+_	_	_	O
+영화인	영화인	NNG	O
+의	의	JKG	O
+_	_	_	O
+입국	입국	NNG	O
+이	이	JKS	O
+_	_	_	O
+이민국	이민국	NNG	O
+에	에	JKB	O
+_	_	_	O
+의해	의하+여	VV+EC	O
+_	_	_	O
+금지되	금지되	VV	O
+었	었	EP	O
+다	다	EC	O
+는	는	JX	O
+_	_	_	O
+소식	소식	NNG	O
+도	도	JX	O
+_	_	_	O
+전해	전하	VV	O
+졌	여+지+었	EC+VX+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 제과, 음료로 시작해 1970년대 호텔과 유통, 화학, 건설로 영역을 확장했다.
+## 제과, 음료로 시작해 <1970년대:DUR> 호텔과 유통, 화학, 건설로 영역을 확장했다.
+제과	제과	NNG	O
+,	,	SP	O
+_	_	_	O
+음료	음료	NNG	O
+로	로	JKB	O
+_	_	_	O
+시작해	시작하+여	VV+EC	O
+_	_	_	O
+1970	1970	SN	B-DUR
+년대	년대	NNB	I-DUR
+_	_	_	O
+호텔	호텔	NNG	O
+과	과	JC	O
+_	_	_	O
+유통	유통	NNG	O
+,	,	SP	O
+_	_	_	O
+화학	화학	NNG	O
+,	,	SP	O
+_	_	_	O
+건설	건설	NNG	O
+로	로	JKB	O
+_	_	_	O
+영역	영역	NNG	O
+을	을	JKO	O
+_	_	_	O
+확장	확장하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 활용 아이디어 10월 14일까지 공모
+## 활용 아이디어 <10월 14일:DAT>까지 공모
+활용	활용	NNG	O
+_	_	_	O
+아이디어	아이디어	NNG	O
+_	_	_	O
+10	10	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	I-DAT
+14	14	SN	I-DAT
+일	일	NNB	I-DAT
+까지	까지	JX	O
+_	_	_	O
+공모	공모	NNG	O
+

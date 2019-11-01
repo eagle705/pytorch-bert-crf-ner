@@ -1,0 +1,429 @@
+## 1
+## 이 폭발사고로 최소 25명의 부상자가 발생했다.
+## 이 폭발사고로 최소 <25명:NOH>의 부상자가 발생했다.
+이	이	MM	O
+_	_	_	O
+폭발	폭발	NNG	O
+사고	사고	NNG	O
+로	로	JKB	O
+_	_	_	O
+최소	최소	NNG	O
+_	_	_	O
+25	25	SN	B-NOH
+명	명	NNB	I-NOH
+의	의	JKG	O
+_	_	_	O
+부상자	부상자	NNG	O
+가	가	JKS	O
+_	_	_	O
+발생	발생하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## ‘압구정백야’ 임성한 데스노트 첫 희생자 김민수, 하차소감 들어보니?
+## ‘<압구정백야:POH>’ <임성한:PER> 데스노트 첫 희생자 <김민수:PER>, 하차소감 들어보니?
+‘	‘	SS	O
+압구정	압구정	NNP	B-POH
+백야	백야	NNP	I-POH
+’	’	SS	O
+_	_	_	O
+임성한	임성한	NNP	B-PER
+_	_	_	O
+데스	데스	NNG	O
+노트	노트	NNG	O
+_	_	_	O
+첫	첫	MM	O
+_	_	_	O
+희생자	희생자	NNG	O
+_	_	_	O
+김민수	김민수	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+하차	하차	NNG	O
+소감	소감	NNG	O
+_	_	_	O
+들	듣	VV	O
+어	어	EC	O
+보	보	VX	O
+니	니	EF	O
+?	?	SF	O
+
+## 3
+## 또 “(박 전 대통령 집권 시) 리 전 총리의 한국 방문 당시 대통령 부인을 대신해 리 전 총리를 맞은 인물이 박근혜였다”고 덧붙였다.
+## 또 “(<박:PER> 전 대통령 집권 시) <리:PER> 전 총리의 <한국:LOC> 방문 당시 대통령 부인을 대신해 <리:PER> 전 총리를 맞은 인물이 <박근혜:PER>였다”고 덧붙였다.
+또	또	MAG	O
+_	_	_	O
+“	“	SS	O
+(	(	SS	O
+박	박	NNP	B-PER
+_	_	_	O
+전	전	MM	O
+_	_	_	O
+대통령	대통령	NNG	O
+_	_	_	O
+집권	집권	NNG	O
+_	_	_	O
+시	시	NNG	O
+)	)	SS	O
+_	_	_	O
+리	리	NNB	B-PER
+_	_	_	O
+전	전	MM	O
+_	_	_	O
+총리	총리	NNG	O
+의	의	JKG	O
+_	_	_	O
+한국	한국	NNP	B-LOC
+_	_	_	O
+방문	방문	NNG	O
+_	_	_	O
+당시	당시	NNG	O
+_	_	_	O
+대통령	대통령	NNG	O
+_	_	_	O
+부인	부인	NNG	O
+을	을	JKO	O
+_	_	_	O
+대신해	대신하+여	VV+EC	O
+_	_	_	O
+리	리	NNB	B-PER
+_	_	_	O
+전	전	MM	O
+_	_	_	O
+총리	총리	NNG	O
+를	를	JKO	O
+_	_	_	O
+맞	맞	VV	O
+은	은	ETM	O
+_	_	_	O
+인물	인물	NNG	O
+이	이	JKS	O
+_	_	_	O
+박근혜	박근혜+이	NNP+VCP	B-PER
+였	었	EP	O
+다	다	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+덧붙	덧붙이	VV	O
+였	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 한국 스포츠 사상 첫 일본 원정이었다.
+## <한국:ORG> 스포츠 사상 첫 <일본:ORG> 원정이었다.
+한국	한국	NNP	B-ORG
+_	_	_	O
+스포츠	스포츠	NNG	O
+_	_	_	O
+사상	사상	NNG	O
+_	_	_	O
+첫	첫	MM	O
+_	_	_	O
+일본	일본	NNP	B-ORG
+_	_	_	O
+원정	원정	NNG	O
+이	이	VCP	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 두 사람은 촬영이 끝난 후 자연스럽게 호감을 가진 것으로 알려졌다.
+## <두 사람:NOH>은 촬영이 끝난 후 자연스럽게 호감을 가진 것으로 알려졌다.
+두	두	MM	B-NOH
+_	_	_	I-NOH
+사람	사람	NNG	I-NOH
+은	은	JX	O
+_	_	_	O
+촬영	촬영	NNG	O
+이	이	JKS	O
+_	_	_	O
+끝난	끝나+ㄴ	VV+ETM	O
+_	_	_	O
+후	후	NNG	O
+_	_	_	O
+자연스럽	자연스럽	VA	O
+게	게	EC	O
+_	_	_	O
+호감	호감	NNG	O
+을	을	JKO	O
+_	_	_	O
+가진	가지+ㄴ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+알려	알려지	VV	O
+졌	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 앞서 중국의 한 매체는 이날 “유역비와 송승헌이 사랑에 빠졌다”면서 “영화를 촬영하며 인연을 맺었고 현재 열애 중”이라고 파파라치 사진을 공개했다.
+## 앞서 <중국:ORG>의 한 매체는 이날 “<유역비:PER>와 <송승헌:PER>이 사랑에 빠졌다”면서 “영화를 촬영하며 인연을 맺었고 현재 열애 중”이라고 파파라치 사진을 공개했다.
+앞서	앞서+어	VV+EC	O
+_	_	_	O
+중국	중국	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+한	한	MM	O
+_	_	_	O
+매체	매체	NNG	O
+는	는	JX	O
+_	_	_	O
+이날	이날	NNG	O
+_	_	_	O
+“	“	SS	O
+유역	유역	NNG	B-PER
+비	비	XSN	I-PER
+와	와	JC	O
+_	_	_	O
+송승헌	송승헌	NNP	B-PER
+이	이	JKS	O
+_	_	_	O
+사랑	사랑	NNG	O
+에	에	JKB	O
+_	_	_	O
+빠	빠지	VV	O
+졌	었	EP	O
+다	다	EF	O
+”	”	SS	O
+면서	면서	EC	O
+_	_	_	O
+“	“	SS	O
+영화	영화	NNG	O
+를	를	JKO	O
+_	_	_	O
+촬영하	촬영하	VV	O
+며	며	EC	O
+_	_	_	O
+인연	인연	NNG	O
+을	을	JKO	O
+_	_	_	O
+맺	맺	VV	O
+었	었	EP	O
+고	고	EC	O
+_	_	_	O
+현재	현재	MAG	O
+_	_	_	O
+열애	열애	NNG	O
+_	_	_	O
+중	중	NNP	O
+”	”	SS	O
+이라고	이라고	JKQ	O
+_	_	_	O
+파파라치	파파라치	NNG	O
+_	_	_	O
+사진	사진	NNG	O
+을	을	JKO	O
+_	_	_	O
+공개	공개하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 결국은 두뇌싸움이다!천운이 따르는지 대표팀에는 4번타자 이대호가 있다.
+## 결국은 두뇌싸움이다!천운이 따르는지 대표팀에는 <4번:NOH>타자 <이대호:PER>가 있다.
+결국	결국	NNG	O
+은	은	JX	O
+_	_	_	O
+두뇌	두뇌	NNG	O
+싸움	싸움	NNG	O
+이	이	VCP	O
+다	다	EF	O
+!	!	SF	O
+천운	천운	NNG	O
+이	이	JKS	O
+_	_	_	O
+따르	따르	VV	O
+는지	는지	EC	O
+_	_	_	O
+대표	대표	NNG	O
+팀	팀	NNG	O
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+4	4	SN	B-NOH
+번	번	NNB	I-NOH
+타자	타자	NNG	O
+_	_	_	O
+이대호	이대호	NNP	B-PER
+가	가	JKS	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 중앙일보 청춘라디오는 정강현 청춘리포트팀장과 문화부 김호정 기자가 공동 진행합니다.
+## <중앙일보 청춘라디오:POH>는 <정강현:PER> 청춘리포트팀장과 <문화부:ORG> <김호정:PER> 기자가 공동 진행합니다.
+중앙일보	중앙일보	NNP	B-POH
+_	_	_	I-POH
+청춘	청춘	NNG	I-POH
+라디오	라디오	NNG	I-POH
+는	는	JX	O
+_	_	_	O
+정강현	정강현	NNP	B-PER
+_	_	_	O
+청춘	청춘	NNG	O
+리포트	리포트	NNG	O
+팀장	팀장	NNG	O
+과	과	JC	O
+_	_	_	O
+문화부	문화부	NNG	B-ORG
+_	_	_	O
+김호정	김호정	NNP	B-PER
+_	_	_	O
+기자	기자	NNG	O
+가	가	JKS	O
+_	_	_	O
+공동	공동	NNG	O
+_	_	_	O
+진행합니다	진행하+ㅂ니다	VV+EF	O
+.	.	SF	O
+
+## 9
+## 한일 김장 대축제서 직접 김치담근 아키에 여사
+## <한일:ORG> 김장 대축제서 직접 김치담근 <아키에:PER> 여사
+한일	한일	NNP	B-ORG
+_	_	_	O
+김장	김장	NNG	O
+_	_	_	O
+대축제	대축제	NNG	O
+서	서	JKB	O
+_	_	_	O
+직접	직접	MAG	O
+_	_	_	O
+김치	김치	NNG	O
+담근	담그+ㄴ	VV+ETM	O
+_	_	_	O
+아키에	아키에	NNP	B-PER
+_	_	_	O
+여사	여사	NNG	O
+
+## 10
+## [대한민국 뉴리더십 세우자]이란 핵협상때 케리가 현장 재량권… 日 내각인사 스가 관방장관이 총괄
+## [대한민국 뉴리더십 세우자]<이란:ORG> 핵협상때 <케리:PER>가 현장 재량권… <日:ORG> 내각인사 <스가:PER> 관방장관이 총괄
+[	[	SS	O
+대한민국	대한민국	NNP	O
+_	_	_	O
+뉴	뉴	NNG	O
+리더십	리더십	NNG	O
+_	_	_	O
+세우	세우	VV	O
+자	자	EF	O
+]	]	SS	O
+이	이	VCP	B-ORG
+란	란	ETM	I-ORG
+_	_	_	O
+핵	핵	NNG	O
+협상	협상	NNG	O
+때	때	NNG	O
+_	_	_	O
+케리	케리	NNP	B-PER
+가	가	JKS	O
+_	_	_	O
+현장	현장	NNG	O
+_	_	_	O
+재량권	재량권	NNG	O
+…	…	SE	O
+_	_	_	O
+日	日	SH	B-ORG
+_	_	_	O
+내각	내각	NNG	O
+인사	인사	NNG	O
+_	_	_	O
+스가	스가	NNP	B-PER
+_	_	_	O
+관방	관방	NNG	O
+장관	장관	NNG	O
+이	이	JKS	O
+_	_	_	O
+총괄	총괄	NNG	O
+
+## 11
+## 현재 검찰 수사를 받고 있는 롯데마트는 과징금 없이 경고 조치만 했다.
+## 현재 검찰 수사를 받고 있는 <롯데마트:ORG>는 과징금 없이 경고 조치만 했다.
+현재	현재	MAG	O
+_	_	_	O
+검찰	검찰	NNG	O
+_	_	_	O
+수사	수사	NNG	O
+를	를	JKO	O
+_	_	_	O
+받	받	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+는	는	ETM	O
+_	_	_	O
+롯데마트	롯데마트	NNP	B-ORG
+는	는	JX	O
+_	_	_	O
+과징금	과징금	NNG	O
+_	_	_	O
+없이	없이	MAG	O
+_	_	_	O
+경고	경고	NNG	O
+_	_	_	O
+조치	조치	NNG	O
+만	만	JX	O
+_	_	_	O
+했	+였	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 김선한 교수의 직장암 수술법은 세계적 표준으로 사용되며 수술용 로봇 다빈치를 만드는 인튜이티브사의 매뉴얼로 제작돼 있을 정도이다.
+## <김선한:PER> 교수의 직장암 수술법은 세계적 표준으로 사용되며 수술용 로봇 다빈치를 만드는 <인튜이티브:ORG>사의 매뉴얼로 제작돼 있을 정도이다.
+김선한	김선한	NNP	B-PER
+_	_	_	O
+교수	교수	NNG	O
+의	의	JKG	O
+_	_	_	O
+직장암	직장암	NNG	O
+_	_	_	O
+수술	수술	NNG	O
+법	법	XSN	O
+은	은	JX	O
+_	_	_	O
+세계적	세계적	NNG	O
+_	_	_	O
+표준	표준	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+사용되	사용되	VV	O
+며	며	EC	O
+_	_	_	O
+수술	수술	NNG	O
+용	용	XSN	O
+_	_	_	O
+로봇	로봇	NNG	O
+_	_	_	O
+다빈치	다빈치	NNP	O
+를	를	JKO	O
+_	_	_	O
+만드	만들	VV	O
+는	는	ETM	O
+_	_	_	O
+인튜이티브사	인튜이티브사	NNG	O
+의	의	JKG	O
+_	_	_	O
+매뉴얼	매뉴얼	NNG	O
+로	로	JKB	O
+_	_	_	O
+제작돼	제작되+어	VV+EC	O
+_	_	_	O
+있	있	VX	O
+을	을	ETM	O
+_	_	_	O
+정도	정도	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+

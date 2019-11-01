@@ -1,0 +1,482 @@
+## 1
+## 중국과 협상을 해서 반대급부로 중국에 남사군도 양보할 수 있겠나? 정 : 미국의 대북제재는 대중국 정책과 연계된다.
+## <중국:ORG>과 협상을 해서 반대급부로 <중국:ORG>에 남사군도 양보할 수 있겠나? 정 : <미국:ORG>의 대북제재는 대중국 정책과 연계된다.
+중국	중국	NNP	B-ORG
+과	과	JKB	O
+_	_	_	O
+협상	협상	NNG	O
+을	을	JKO	O
+_	_	_	O
+해서	하+여서	VV+EC	O
+_	_	_	O
+반대급부	반대급부	NNG	O
+로	로	JKB	O
+_	_	_	O
+중국	중국	NNP	B-ORG
+에	에	JKB	O
+_	_	_	O
+남사군도	남사군도	NNP	O
+_	_	_	O
+양보할	양보하+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+겠	겠	EP	O
+나	나	EF	O
+?	?	SF	O
+_	_	_	O
+정	정	NNP	O
+_	_	_	O
+:	:	SP	O
+_	_	_	O
+미국	미국	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+대북	대북	NNG	O
+제재	제재	NNG	O
+는	는	JX	O
+_	_	_	O
+대	대	XPN	O
+중국	중국	NNP	O
+_	_	_	O
+정책	정책	NNG	O
+과	과	JC	O
+_	_	_	O
+연계된다	연계되+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 2
+## 양상문 LG 감독(사진)은 18일 수원 kt위즈파크에서 “두 번째 포수는 개막 직전까지 지켜보며 고민할 생각”이라고 밝혔다.
+## <양상문:PER> <LG:ORG> 감독(사진)은 <18일:DAT> <수원:LOC> <kt위즈파크:LOC>에서 “두 번째 포수는 개막 직전까지 지켜보며 고민할 생각”이라고 밝혔다.
+양상문	양상문	NNP	B-PER
+_	_	_	O
+LG	LG	SL	B-ORG
+_	_	_	O
+감독	감독	NNG	O
+(	(	SS	O
+사진	사진	NNG	O
+)	)	SS	O
+은	은	JX	O
+_	_	_	O
+18	18	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+수원	수원	NNP	B-LOC
+_	_	_	O
+kt	kt	SL	B-LOC
+위즈파크	위즈파크	NNP	I-LOC
+에서	에서	JKB	O
+_	_	_	O
+“	“	SS	O
+두	두	MM	O
+_	_	_	O
+번째	번째	NNB	O
+_	_	_	O
+포수	포수	NNG	O
+는	는	JX	O
+_	_	_	O
+개막	개막	NNG	O
+_	_	_	O
+직전	직전	NNG	O
+까지	까지	JX	O
+_	_	_	O
+지켜보	지켜보	VV	O
+며	며	EC	O
+_	_	_	O
+고민할	고민하+ㄹ	VV+ETM	O
+_	_	_	O
+생각	생각	NNG	O
+”	”	SS	O
+이라고	이라고	JKQ	O
+_	_	_	O
+밝	밝히	VV	O
+혔	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## “평창 올림픽 준비 잘되고 있다”
+## “<평창 올림픽:POH> 준비 잘되고 있다”
+“	“	SS	O
+평창	평창	NNP	B-POH
+_	_	_	I-POH
+올림픽	올림픽	NNG	I-POH
+_	_	_	O
+준비	준비	NNG	O
+_	_	_	O
+잘되	잘되	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+”	”	SS	O
+
+## 4
+## UHS-3 규격의 64GB 이상 메모리를 권장한다.
+## UHS-3 규격의 <64GB:NOH> 이상 메모리를 권장한다.
+UHS	UHS	SL	O
+-	-	SO	O
+3	3	SN	O
+_	_	_	O
+규격	규격	NNG	O
+의	의	JKG	O
+_	_	_	O
+64	64	SN	B-NOH
+GB	GB	SL	I-NOH
+_	_	_	O
+이상	이상	NNG	O
+_	_	_	O
+메모리	메모리	NNG	O
+를	를	JKO	O
+_	_	_	O
+권장한다	권장하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 5
+## 10일 서울시교육청에 따르면 지난해 서울 초중고교 학생 수는 97만5589명에 그쳤다.
+## <10일:DAT> <서울시교육청:ORG>에 따르면 지난해 <서울:LOC> 초중고교 학생 수는 <97만5589명:NOH>에 그쳤다.
+10	10	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+서울시	서울시	NNP	B-ORG
+교육청	교육청	NNG	I-ORG
+에	에	JKB	O
+_	_	_	O
+따르	따르	VV	O
+면	면	EC	O
+_	_	_	O
+지난해	지난해	NNG	O
+_	_	_	O
+서울	서울	NNP	B-LOC
+_	_	_	O
+초	초	NNG	O
+중	중	NNG	O
+고교	고교	NNG	O
+_	_	_	O
+학생	학생	NNG	O
+_	_	_	O
+수	수	NNG	O
+는	는	JX	O
+_	_	_	O
+97	97	SN	B-NOH
+만	만	NR	I-NOH
+5589	5589	SN	I-NOH
+명	명	NNB	I-NOH
+에	에	JKB	O
+_	_	_	O
+그	그치	VV	O
+쳤	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 가격은 더블주니어 기준 3800원. 배스킨라빈스는 이달의 제품 출시를 기념해 4월 한 달간 프로모션을 진행한다.
+## 가격은 더블주니어 기준 <3800원:MNY>. <배스킨라빈스:ORG>는 이달의 제품 출시를 기념해 <4월:DAT> 한 달간 프로모션을 진행한다.
+가격	가격	NNG	O
+은	은	JX	O
+_	_	_	O
+더블	더블	NNG	O
+주니어	주니어	NNG	O
+_	_	_	O
+기준	기준	NNG	O
+_	_	_	O
+3800	3800	SN	B-MNY
+원	원	NNB	I-MNY
+.	.	SF	O
+_	_	_	O
+배스킨라빈스	배스킨라빈스	NNP	B-ORG
+는	는	JX	O
+_	_	_	O
+이달	이달	NNG	O
+의	의	JKG	O
+_	_	_	O
+제품	제품	NNG	O
+_	_	_	O
+출시	출시	NNG	O
+를	를	JKO	O
+_	_	_	O
+기념해	기념하+여	VV+EC	O
+_	_	_	O
+4	4	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+한	한	MM	O
+_	_	_	O
+달	달	NNB	O
+간	간	XSN	O
+_	_	_	O
+프로모션	프로모션	NNG	O
+을	을	JKO	O
+_	_	_	O
+진행한다	진행하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 7
+## 16일 새누리당 여의도연구원(여연)과 여연 부원장인 이재영 의원이 공동 주최한 토론회(‘포털 뉴스의 오늘과 내일’)에서 나온 지적이다.
+## <16일:DAT> <새누리당 여의도연구원:ORG>(<여연:ORG>)과 여연 부원장인 <이재영:PER> 의원이 공동 주최한 토론회(‘<포털 뉴스의 오늘과 내일:POH>’)에서 나온 지적이다.
+16	16	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+새누리당	새누리당	NNP	B-ORG
+_	_	_	I-ORG
+여의도	여의도	NNP	I-ORG
+연구원	연구원	NNG	I-ORG
+(	(	SS	O
+여연	여연	NNP	B-ORG
+)	)	SS	O
+과	과	JKB	O
+_	_	_	O
+여연	여연	NNP	O
+_	_	_	O
+부원장	부원장	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+이재영	이재영	NNP	B-PER
+_	_	_	O
+의원	의원	NNG	O
+이	이	JKS	O
+_	_	_	O
+공동	공동	NNG	O
+_	_	_	O
+주최한	주최하+ㄴ	VV+ETM	O
+_	_	_	O
+토론회	토론회	NNG	O
+(	(	SS	O
+‘	‘	SS	O
+포털	포털	NNG	B-POH
+_	_	_	I-POH
+뉴스	뉴스	NNG	I-POH
+의	의	JKG	I-POH
+_	_	_	I-POH
+오늘	오늘	NNG	I-POH
+과	과	JC	I-POH
+_	_	_	I-POH
+내일	내일	NNG	I-POH
+’	’	SS	O
+)	)	SS	O
+에서	에서	JKB	O
+_	_	_	O
+나온	나오+ㄴ	VV+ETM	O
+_	_	_	O
+지적	지적	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 오키나와 캠프 마지막 연습경기였던 4일 삼성전에서 2이닝 무실점을 기록했으나, 2번째 실전피칭을 수행하지 못했다.
+## <오키나와:LOC> 캠프 마지막 연습경기였던 <4일:DAT> <삼성:ORG>전에서 <2이닝:NOH> 무실점을 기록했으나, <2번째:NOH> 실전피칭을 수행하지 못했다.
+오키나와	오키나와	NNP	B-LOC
+_	_	_	O
+캠프	캠프	NNG	O
+_	_	_	O
+마지막	마지막	NNG	O
+_	_	_	O
+연습	연습	NNG	O
+경기	경기+이	NNG+VCP	O
+였	었	EP	O
+던	던	ETM	O
+_	_	_	O
+4	4	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+삼성	삼성	NNP	B-ORG
+전	전	XSN	O
+에서	에서	JKB	O
+_	_	_	O
+2	2	SN	B-NOH
+이닝	이닝	NNG	I-NOH
+_	_	_	O
+무실점	무실점	NNG	O
+을	을	JKO	O
+_	_	_	O
+기록	기록하	VV	O
+했	였	EP	O
+으나	으나	EC	O
+,	,	SP	O
+_	_	_	O
+2	2	SN	B-NOH
+번째	번째	NNB	I-NOH
+_	_	_	O
+실전	실전	NNG	O
+피칭	피칭	NNG	O
+을	을	JKO	O
+_	_	_	O
+수행하	수행하	VV	O
+지	지	EC	O
+_	_	_	O
+못	못하	VX	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 지난해에도 후반기 복귀를 앞두고 부상에 발목을 잡힌 김진우이기에, 김기태 감독의 실망은 더욱 클 수밖에 없다.
+## 지난해에도 후반기 복귀를 앞두고 부상에 발목을 잡힌 <김진우:PER>이기에, <김기태:PER> 감독의 실망은 더욱 클 수밖에 없다.
+지난해	지난해	NNG	O
+에	에	JKB	O
+도	도	JX	O
+_	_	_	O
+후반기	후반기	NNG	O
+_	_	_	O
+복귀	복귀	NNG	O
+를	를	JKO	O
+_	_	_	O
+앞두	앞두	VV	O
+고	고	EC	O
+_	_	_	O
+부상	부상	NNG	O
+에	에	JKB	O
+_	_	_	O
+발목	발목	NNG	O
+을	을	JKO	O
+_	_	_	O
+잡힌	잡히+ㄴ	VV+ETM	O
+_	_	_	O
+김진우	김진우	NNP	B-PER
+이	이	VCP	O
+기에	기에	EC	O
+,	,	SP	O
+_	_	_	O
+김기태	김기태	NNP	B-PER
+_	_	_	O
+감독	감독	NNG	O
+의	의	JKG	O
+_	_	_	O
+실망	실망	NNG	O
+은	은	JX	O
+_	_	_	O
+더욱	더욱	MAG	O
+_	_	_	O
+클	크+ㄹ	VA+ETM	O
+_	_	_	O
+수	수	NNB	O
+밖에	밖에	JX	O
+_	_	_	O
+없	없	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 박지원 "국민의당 주축 정계개편 논의 없다…파괴공작 안해"
+## <박지원:PER> "<국민의당:ORG> 주축 정계개편 논의 없다…파괴공작 안해"
+박지원	박지원	NNP	B-PER
+_	_	_	O
+"	"	SS	O
+국민	국민	NNG	B-ORG
+의당	의당	MAG	I-ORG
+_	_	_	O
+주축	주축	NNG	O
+_	_	_	O
+정계	정계	NNG	O
+개편	개편	NNG	O
+_	_	_	O
+논의	논의	NNG	O
+_	_	_	O
+없	없	VA	O
+다	다	EC	O
+…	…	SE	O
+파괴	파괴	NNG	O
+공작	공작	NNG	O
+_	_	_	O
+안	안	MAG	O
+해	하+여	VV+EF	O
+"	"	SS	O
+
+## 11
+## 쇼팽이 피아니스트들 손가락 연습을 고려해 작곡한 연습곡이 있다.
+## <쇼팽:PER>이 피아니스트들 손가락 연습을 고려해 작곡한 연습곡이 있다.
+쇼팽	쇼팽	NNP	B-PER
+이	이	JKS	O
+_	_	_	O
+피아니스트	피아니스트	NNG	O
+들	들	XSN	O
+_	_	_	O
+손가락	손가락	NNG	O
+_	_	_	O
+연습	연습	NNG	O
+을	을	JKO	O
+_	_	_	O
+고려해	고려하+여	VV+EC	O
+_	_	_	O
+작곡한	작곡하+ㄴ	VV+ETM	O
+_	_	_	O
+연습곡	연습곡	NNG	O
+이	이	JKS	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 씨티은행과 바클레이스·노무라 등도 달러 당 1200원 이상을 전망한다.
+## <씨티은행:ORG>과 <바클레이스:ORG>·<노무라:ORG> 등도 달러 당 <1200원:MNY> 이상을 전망한다.
+씨티은행	씨티은행	NNP	B-ORG
+과	과	JC	O
+_	_	_	O
+바클레이스	바클레이스	NNP	B-ORG
+·	·	SP	O
+노무라	노무라	NNP	B-ORG
+_	_	_	O
+등	등	NNB	O
+도	도	JX	O
+_	_	_	O
+달러	달러	NNG	O
+_	_	_	O
+당	당	XSN	O
+_	_	_	O
+1200	1200	SN	B-MNY
+원	원	NNB	I-MNY
+_	_	_	O
+이상	이상	NNG	O
+을	을	JKO	O
+_	_	_	O
+전망한다	전망하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 13
+## 유승민 의원의 ‘공화주의’, 오세훈 전 서울시장의 ‘공존과 상생’ 등도 같은 맥락으로 해석할 수 있다.
+## <유승민:PER> 의원의 ‘공화주의’, <오세훈:PER> 전 서울시장의 ‘공존과 상생’ 등도 같은 맥락으로 해석할 수 있다.
+유승민	유승민	NNP	B-PER
+_	_	_	O
+의원	의원	NNG	O
+의	의	JKG	O
+_	_	_	O
+‘	‘	SS	O
+공화주의	공화주의	NNG	O
+’	’	SS	O
+,	,	SP	O
+_	_	_	O
+오세훈	오세훈	NNP	B-PER
+_	_	_	O
+전	전	MM	O
+_	_	_	O
+서울	서울	NNP	O
+시장	시장	NNG	O
+의	의	JKG	O
+_	_	_	O
+‘	‘	SS	O
+공존	공존	NNG	O
+과	과	JC	O
+_	_	_	O
+상생	상생	NNG	O
+’	’	SS	O
+_	_	_	O
+등	등	NNB	O
+도	도	JX	O
+_	_	_	O
+같	같	VA	O
+은	은	ETM	O
+_	_	_	O
+맥락	맥락	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+해석할	해석하+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+.	.	SF	O
+

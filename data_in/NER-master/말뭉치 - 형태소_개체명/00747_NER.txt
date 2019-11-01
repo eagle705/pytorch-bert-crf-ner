@@ -1,0 +1,684 @@
+## 1
+## 지난해 말 기준으로 강남의 유흥업소 숫자는 서울 시내 25개 자치구 중에서 가장 많았다.
+## 지난해 말 기준으로 <강남:LOC>의 유흥업소 숫자는 <서울:LOC> 시내 <25개:NOH> 자치구 중에서 가장 많았다.
+지난해	지난해	NNG	O
+_	_	_	O
+말	말	NNB	O
+_	_	_	O
+기준	기준	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+강남	강남	NNP	B-LOC
+의	의	JKG	O
+_	_	_	O
+유흥업소	유흥업소	NNG	O
+_	_	_	O
+숫자	숫자	NNG	O
+는	는	JX	O
+_	_	_	O
+서울	서울	NNP	B-LOC
+_	_	_	O
+시내	시내	NNG	O
+_	_	_	O
+25	25	SN	B-NOH
+개	개	NNB	I-NOH
+_	_	_	O
+자치구	자치구	NNG	O
+_	_	_	O
+중	중	NNB	O
+에서	에서	JKB	O
+_	_	_	O
+가장	가장	MAG	O
+_	_	_	O
+많	많	VA	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 관세청은 올해 무역금융 사기, 재산 빼돌리기 등에 대한 특별단속을 벌여 5353억 원 규모의 외환범죄를 적발했다고 14일 밝혔다.
+## <관세청:ORG>은 올해 무역금융 사기, 재산 빼돌리기 등에 대한 특별단속을 벌여 <5353억 원:MNY> 규모의 외환범죄를 적발했다고 <14일:DAT> 밝혔다.
+관세청	관세청	NNG	B-ORG
+은	은	JX	O
+_	_	_	O
+올해	올해	NNG	O
+_	_	_	O
+무역	무역	NNG	O
+금융	금융	NNG	O
+_	_	_	O
+사기	사기	NNG	O
+,	,	SP	O
+_	_	_	O
+재산	재산	NNG	O
+_	_	_	O
+빼돌리	빼돌리	VV	O
+기	기	ETN	O
+_	_	_	O
+등	등	NNB	O
+에	에	JKB	O
+_	_	_	O
+대한	대하+ㄴ	VV+ETM	O
+_	_	_	O
+특별	특별	NNG	O
+단속	단속	NNG	O
+을	을	JKO	O
+_	_	_	O
+벌	벌이	VV	O
+여	어	EC	O
+_	_	_	O
+5353	5353	SN	B-MNY
+억	억	NR	I-MNY
+_	_	_	I-MNY
+원	원	NNB	I-MNY
+_	_	_	O
+규모	규모	NNG	O
+의	의	JKG	O
+_	_	_	O
+외환	외환	NNG	O
+범죄	범죄	NNG	O
+를	를	JKO	O
+_	_	_	O
+적발	적발하	VV	O
+했	였	EP	O
+다고	다고	EC	O
+_	_	_	O
+14	14	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+밝	밝히	VV	O
+혔	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 성동일 "김성령, 이민호와 작품하는 건 과유불급" …무슨 말?
+## <성동일:PER> "<김성령:PER>, <이민호:PER>와 작품하는 건 과유불급" …무슨 말?
+성동일	성동일	NNP	B-PER
+_	_	_	O
+"	"	SS	O
+김성령	김성령	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+이민호	이민호	NNP	B-PER
+와	와	JC	O
+_	_	_	O
+작품	작품	NNG	O
+하	하	XSV	O
+는	는	ETM	O
+_	_	_	O
+건	것+ㄴ	NNB+JX	O
+_	_	_	O
+과유불급	과유불급	NNG	O
+"	"	SS	O
+_	_	_	O
+…	…	SE	O
+무슨	무슨	MM	O
+_	_	_	O
+말	말	NNG	O
+?	?	SF	O
+
+## 4
+## 이 학원의 어퍼 Upper 레벨 반(중학생 대상)은 1차 수업(12월 19일~12월 31일)이 벌써 마감되었고, 2차 수업(2017년 1월 2일~2월 10일)을 접수하고 있다.
+## 이 학원의 어퍼 Upper 레벨 반(중학생 대상)은 <1차:NOH> 수업(<12월 19일~12월 31일:DUR>)이 벌써 마감되었고, <2차:NOH> 수업(<2017년 1월 2일~2월 10일:DUR>)을 접수하고 있다.
+이	이	MM	O
+_	_	_	O
+학원	학원	NNG	O
+의	의	JKG	O
+_	_	_	O
+어	어	NNG	O
+퍼	퍼	NNG	O
+_	_	_	O
+Upper	Upper	SL	O
+_	_	_	O
+레벨	레벨	NNG	O
+_	_	_	O
+반	반	NNG	O
+(	(	SS	O
+중학생	중학생	NNG	O
+_	_	_	O
+대상	대상	NNG	O
+)	)	SS	O
+은	은	JX	O
+_	_	_	O
+1	1	SN	B-NOH
+차	차	NNB	I-NOH
+_	_	_	O
+수업	수업	NNG	O
+(	(	SS	O
+12	12	SN	B-DUR
+월	월	NNB	I-DUR
+_	_	_	I-DUR
+19	19	SN	I-DUR
+일	일	NNB	I-DUR
+~	~	SO	I-DUR
+12	12	SN	I-DUR
+월	월	NNB	I-DUR
+_	_	_	I-DUR
+31	31	SN	I-DUR
+일	일	NNB	I-DUR
+)	)	SS	O
+이	이	JKS	O
+_	_	_	O
+벌써	벌써	MAG	O
+_	_	_	O
+마감되	마감되	VV	O
+었	었	EP	O
+고	고	JKQ	O
+,	,	SP	O
+_	_	_	O
+2	2	SN	B-NOH
+차	차	NNB	I-NOH
+_	_	_	O
+수업	수업	NNG	O
+(	(	SS	O
+2017	2017	SN	B-DUR
+년	년	NNB	I-DUR
+_	_	_	I-DUR
+1	1	SN	I-DUR
+월	월	NNB	I-DUR
+_	_	_	I-DUR
+2	2	SN	I-DUR
+일	일	NNB	I-DUR
+~	~	SO	I-DUR
+2	2	SN	I-DUR
+월	월	NNB	I-DUR
+_	_	_	I-DUR
+10	10	SN	I-DUR
+일	일	NNB	I-DUR
+)	)	SS	O
+을	을	JKO	O
+_	_	_	O
+접수하	접수하	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 「북핵대응」/양국 접근방식 무엇이 다른가
+## 「북핵대응」/<양:NOH>국 접근방식 무엇이 다른가
+「	「	SS	O
+북	북	NNP	O
+핵	핵	NNG	O
+대응	대응	NNG	O
+」	」	SS	O
+/	/	SP	O
+양국	양국	NNG	O
+_	_	_	O
+접근	접근	NNG	O
+방식	방식	NNG	O
+_	_	_	O
+무엇	무엇	NP	O
+이	이	JKS	O
+_	_	_	O
+다른가	다르+ㄴ가	VA+EF	O
+
+## 6
+## 단순 비례로 계산해 WAR 55.8이 타율 0.300이라면 WAR 43.8은 타율 0.235입니다.
+## 단순 비례로 계산해 <WAR 55.8:NOH>이 타율 <0.300:PNT>이라면 <WAR 43.8:NOH>은 타율 <0.235:PNT>입니다.
+단순	단순	NNG	O
+_	_	_	O
+비례	비례	NNG	O
+로	로	JKB	O
+_	_	_	O
+계산해	계산하+여	VV+EC	O
+_	_	_	O
+WAR	WAR	SL	B-NOH
+_	_	_	I-NOH
+55.8	55.8	SN	I-NOH
+이	이	JKC	O
+_	_	_	O
+타율	타율	NNG	O
+_	_	_	O
+0.300	0.300	SN	B-PNT
+이	이	VCP	O
+라면	라면	EC	O
+_	_	_	O
+WAR	WAR	SL	B-NOH
+_	_	_	I-NOH
+43.8	43.8	SN	I-NOH
+은	은	JX	O
+_	_	_	O
+타율	타율	NNG	O
+_	_	_	O
+0.235	0.235	SN	B-PNT
+입니다	이+ㅂ니다	VCP+EF	O
+.	.	SF	O
+
+## 7
+## 동아대 관계자는 “겉치레를 빼자는 한 총장의 뜻에 따른 것”이라고 설명했다.
+## <동아대:ORG> 관계자는 “겉치레를 빼자는 한 총장의 뜻에 따른 것”이라고 설명했다.
+동아대	동아대	NNP	B-ORG
+_	_	_	O
+관계자	관계자	NNG	O
+는	는	JX	O
+_	_	_	O
+“	“	SS	O
+겉치레	겉치레	NNG	O
+를	를	JKO	O
+_	_	_	O
+빼	빼	VV	O
+자는	자는	ETM	O
+_	_	_	O
+한	한	MM	O
+_	_	_	O
+총장	총장	NNG	O
+의	의	JKG	O
+_	_	_	O
+뜻	뜻	NNG	O
+에	에	JKB	O
+_	_	_	O
+따른	따르+ㄴ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+”	”	SS	O
+이라고	이라고	JKQ	O
+_	_	_	O
+설명	설명하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 한 총장(63)은 서울대 국문과를 졸업한 뒤 미국 볼스테이트 대학 사회학 석사, 미국 시카고대학 사회학 박사를 취득했다.
+## <한:PER> 총장(<63:NOH>)은 <서울대 국문과:ORG>를 졸업한 뒤 <미국 볼스테이트 대학:ORG> 사회학 석사, <미국 시카고대학:ORG> 사회학 박사를 취득했다.
+한	한	NNP	B-PER
+_	_	_	O
+총장	총장	NNG	O
+(	(	SS	O
+63	63	SN	B-NOH
+)	)	SS	O
+은	은	JX	O
+_	_	_	O
+서울대	서울대	NNP	B-ORG
+_	_	_	I-ORG
+국문	국문	NNG	I-ORG
+과	과	NNG	I-ORG
+를	를	JKO	O
+_	_	_	O
+졸업한	졸업하+ㄴ	VV+ETM	O
+_	_	_	O
+뒤	뒤	NNG	O
+_	_	_	O
+미국	미국	NNP	B-ORG
+_	_	_	I-ORG
+볼	볼	NNG	I-ORG
+스테이트	스테이트	NNG	I-ORG
+_	_	_	I-ORG
+대학	대학	NNG	I-ORG
+_	_	_	O
+사회학	사회학	NNG	O
+_	_	_	O
+석사	석사	NNG	O
+,	,	SP	O
+_	_	_	O
+미국	미국	NNP	B-ORG
+_	_	_	I-ORG
+시카고	시카고	NNP	I-ORG
+대학	대학	NNG	I-ORG
+_	_	_	O
+사회학	사회학	NNG	O
+_	_	_	O
+박사	박사	NNG	O
+를	를	JKO	O
+_	_	_	O
+취득	취득하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## [연예 뉴스 스테이션] 방심위, tvN ‘꽃보다 청춘-아프리카’편 심의
+## [연예 뉴스 스테이션] <방심위:ORG>, <tvN:ORG> ‘<꽃보다 청춘-아프리카:POH>’편 심의
+[	[	SS	O
+연예	연예	NNG	O
+_	_	_	O
+뉴스	뉴스	NNG	O
+_	_	_	O
+스테이션	스테이션	NNG	O
+]	]	SS	O
+_	_	_	O
+방심위	방심위	NNG	B-ORG
+,	,	SP	O
+_	_	_	O
+tvN	tvN	SL	B-ORG
+_	_	_	O
+‘	‘	SS	O
+꽃	꽃	NNG	B-POH
+보다	보다	JKB	I-POH
+_	_	_	I-POH
+청춘	청춘	NNG	I-POH
+-	-	SO	I-POH
+아프리카	아프리카	NNP	I-POH
+’	’	SS	O
+편	편	NNB	O
+_	_	_	O
+심의	심의	NNG	O
+
+## 10
+## 그런 점에서 『환경오염은 국민의 책임이 더 크다』고 답변한 사람이 조사대상자의 7할에 이른다는 한 여론조사 결과는 고무적이다.
+## 그런 점에서 『환경오염은 국민의 책임이 더 크다』고 답변한 사람이 조사대상자의 <7할:PNT>에 이른다는 <한:NOH> 여론조사 결과는 고무적이다.
+그런	그런	MM	O
+_	_	_	O
+점	점	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+『	『	SS	O
+환경오염	환경오염	NNG	O
+은	은	JX	O
+_	_	_	O
+국민	국민	NNG	O
+의	의	JKG	O
+_	_	_	O
+책임	책임	NNG	O
+이	이	JKS	O
+_	_	_	O
+더	더	MAG	O
+_	_	_	O
+크	크	VA	O
+다	다	EF	O
+』	』	SS	O
+고	고	JKQ	O
+_	_	_	O
+답변한	답변하+ㄴ	VV+ETM	O
+_	_	_	O
+사람	사람	NNG	O
+이	이	JKS	O
+_	_	_	O
+조사	조사	NNG	O
+대상자	대상자	NNG	O
+의	의	JKG	O
+_	_	_	O
+7	7	SN	B-PNT
+할	할	NNB	I-PNT
+에	에	JKB	O
+_	_	_	O
+이른다는	이르+ㄴ다는	VV+ETM	O
+_	_	_	O
+한	한	MM	B-NOH
+_	_	_	O
+여론	여론	NNG	O
+조사	조사	NNG	O
+_	_	_	O
+결과	결과	NNG	O
+는	는	JX	O
+_	_	_	O
+고무적	고무적	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 올해 18회째를 맞은 지평선축제는 지난해까지 4년간 문화체육관광부가 선정한 대한민국 대표 축제다.
+## 올해 <18회:NOH>째를 맞은 <지평선축제:POH>는 지난해까지 <4년간:DUR> <문화체육관광부:ORG>가 선정한 <대한민국:ORG> 대표 축제다.
+올해	올해	NNG	O
+_	_	_	O
+18	18	SN	B-NOH
+회	회	NNB	I-NOH
+째	째	XSN	O
+를	를	JKO	O
+_	_	_	O
+맞	맞	VV	O
+은	은	ETM	O
+_	_	_	O
+지평선	지평선	NNG	B-POH
+축제	축제	NNG	I-POH
+는	는	JX	O
+_	_	_	O
+지난해	지난해	NNG	O
+까지	까지	JX	O
+_	_	_	O
+4	4	SN	B-DUR
+년	년	NNB	I-DUR
+간	간	XSN	I-DUR
+_	_	_	O
+문화	문화	NNG	B-ORG
+체육	체육	NNG	I-ORG
+관광부	관광부	NNG	I-ORG
+가	가	JKS	O
+_	_	_	O
+선정한	선정하+ㄴ	VV+ETM	O
+_	_	_	O
+대한민국	대한민국	NNP	B-ORG
+_	_	_	O
+대표	대표	NNG	O
+_	_	_	O
+축제	축제+이	NNG+VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 같은 기간 전주세계소리축제가 한국소리문화의전당에서 열린다.
+## 같은 기간 <전주세계소리축제:POH>가 <한국소리문화의전당:LOC>에서 열린다.
+같	같	VA	O
+은	은	ETM	O
+_	_	_	O
+기간	기간	NNG	O
+_	_	_	O
+전주	전주	NNP	B-POH
+세계	세계	NNG	I-POH
+소리	소리	NNG	I-POH
+축제	축제	NNG	I-POH
+가	가	JKS	O
+_	_	_	O
+한국	한국	NNP	B-LOC
+소리	소리	NNG	I-LOC
+문화	문화	NNG	I-LOC
+의	의	JKG	I-LOC
+전당	전당	NNG	I-LOC
+에서	에서	JKB	O
+_	_	_	O
+열린다	열리+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 13
+## 관계당국이 당면 과제를 해결하고, 상황을 통제하며, 한반도 비핵화와 평화체제 구축을 목표로 새로운 노력을 마련할 기회를 잡길 희망한다”고 말했다.
+## 관계당국이 당면 과제를 해결하고, 상황을 통제하며, <한반도:LOC> 비핵화와 평화체제 구축을 목표로 새로운 노력을 마련할 기회를 잡길 희망한다”고 말했다.
+관계	관계	NNG	O
+당국	당국	NNG	O
+이	이	JKS	O
+_	_	_	O
+당면	당면	NNG	O
+_	_	_	O
+과제	과제	NNG	O
+를	를	JKO	O
+_	_	_	O
+해결하	해결하	VV	O
+고	고	EC	O
+,	,	SP	O
+_	_	_	O
+상황	상황	NNG	O
+을	을	JKO	O
+_	_	_	O
+통제하	통제하	VV	O
+며	며	EC	O
+,	,	SP	O
+_	_	_	O
+한반도	한반도	NNP	B-LOC
+_	_	_	O
+비	비	XPN	O
+핵	핵	NNG	O
+화	화	XSN	O
+와	와	JC	O
+_	_	_	O
+평화	평화	NNG	O
+체제	체제	NNG	O
+_	_	_	O
+구축	구축	NNG	O
+을	을	JKO	O
+_	_	_	O
+목표	목표	NNG	O
+로	로	JKB	O
+_	_	_	O
+새로	새롭	VA	O
+운	ㄴ	ETM	O
+_	_	_	O
+노력	노력	NNG	O
+을	을	JKO	O
+_	_	_	O
+마련할	마련하+ㄹ	VV+ETM	O
+_	_	_	O
+기회	기회	NNG	O
+를	를	JKO	O
+_	_	_	O
+잡	잡	VV	O
+길	기+ㄹ	ETN+JX	O
+_	_	_	O
+희망한다	희망하+ㄴ다	VV+EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+말	말하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 14
+## 리 부상은 이번 베이징 방문에서 류전민(劉振民) 중국 외교부 부부장을 비롯해 쿵쉬안유(孔鉉佑) 외교부 부장조리와 회동했다.
+## <리:PER> 부상은 이번 <베이징:LOC> 방문에서 <류전민:PER>(<劉振民:PER>) <중국 외교부:ORG> 부부장을 비롯해 <쿵쉬안유:PER>(<孔鉉佑:PER>) <외교부:ORG> 부장조리와 회동했다.
+리	리	NNP	B-PER
+_	_	_	O
+부상	부상	NNG	O
+은	은	JX	O
+_	_	_	O
+이번	이번	NNG	O
+_	_	_	O
+베이징	베이징	NNP	B-LOC
+_	_	_	O
+방문	방문	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+류	류	XSN	B-PER
+전민	전민	NNG	I-PER
+(	(	SS	O
+劉振民	劉振民	SH	B-PER
+)	)	SS	O
+_	_	_	O
+중국	중국	NNP	B-ORG
+_	_	_	I-ORG
+외교부	외교부	NNG	I-ORG
+_	_	_	O
+부	부	XPN	O
+부장	부장	NNG	O
+을	을	JKO	O
+_	_	_	O
+비롯해	비롯하+여	VV+EC	O
+_	_	_	O
+쿵쉬안유	쿵쉬안유	NNG	B-PER
+(	(	SS	O
+孔鉉佑	孔鉉佑	SH	B-PER
+)	)	SS	O
+_	_	_	O
+외교	외교	NNG	B-ORG
+부	부	XSN	I-ORG
+_	_	_	O
+부장	부장	NNG	O
+조리	조리	NNG	O
+와	와	JC	O
+_	_	_	O
+회동	회동하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 15
+## 직원 10여 명은 모두 일어선 채였다.
+## 직원 <10여 명:NOH>은 모두 일어선 채였다.
+직원	직원	NNG	O
+_	_	_	O
+10	10	SN	B-NOH
+여	여	XSN	I-NOH
+_	_	_	I-NOH
+명	명	NNB	I-NOH
+은	은	JX	O
+_	_	_	O
+모두	모두	MAG	O
+_	_	_	O
+일어선	일어서+ㄴ	VV+ETM	O
+_	_	_	O
+채	채+이	NNB+VCP	O
+였	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 16
+## 공항철도가 16일 정(情)을 싣고 달렸다.
+## <공항철도:POH>가 <16일:DAT> 정(情)을 싣고 달렸다.
+공항	공항	NNG	B-POH
+철도	철도	NNG	I-POH
+가	가	JKS	O
+_	_	_	O
+16	16	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+정	정	NNP	O
+(	(	SS	O
+情	情	SH	O
+)	)	SS	O
+을	을	JKO	O
+_	_	_	O
+싣	싣	VV	O
+고	고	EC	O
+_	_	_	O
+달	달리	VV	O
+렸	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 17
+## 필리핀서 50대 교민, 자택서 잠 자던 중에 피살...금품 훔쳐 달아나필리핀서 50대 한국인 교민이 무장 괴한의 총격으로 숨졌다.
+## <필리핀:LOC>서 <50대:NOH> 교민, 자택서 잠 자던 중에 피살...금품 훔쳐 달아나<필리핀:LOC>서 <50대:NOH> 한국인 교민이 무장 괴한의 총격으로 숨졌다.
+필리핀	필리핀	NNP	B-LOC
+서	서	JKB	O
+_	_	_	O
+50	50	SN	B-NOH
+대	대	NNB	I-NOH
+_	_	_	O
+교민	교민	NNG	O
+,	,	SP	O
+_	_	_	O
+자택	자택	NNG	O
+서	서	JKB	O
+_	_	_	O
+잠	잠	NNG	O
+_	_	_	O
+자	자	VV	O
+던	던	ETM	O
+_	_	_	O
+중	중	NNB	O
+에	에	JKB	O
+_	_	_	O
+피살	피살	NNG	O
+.	.	SF	O
+.	.	SF	O
+.	.	SF	O
+금품	금품	NNG	O
+_	_	_	O
+훔쳐	훔치+어	VV+EC	O
+_	_	_	O
+달아나	달아나	VV	O
+필리핀	필리핀	NNP	B-LOC
+서	서	JKB	O
+_	_	_	O
+50	50	SN	B-NOH
+대	대	NNB	I-NOH
+_	_	_	O
+한국인	한국인	NNG	O
+_	_	_	O
+교민	교민	NNG	O
+이	이	JKC	O
+_	_	_	O
+무장	무장	NNG	O
+_	_	_	O
+괴한	괴한	NNG	O
+의	의	JKG	O
+_	_	_	O
+총격	총격	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+숨	숨지	VV	O
+졌	었	EP	O
+다	다	EF	O
+.	.	SF	O
+

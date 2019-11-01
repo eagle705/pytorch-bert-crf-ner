@@ -1,0 +1,428 @@
+## 1
+## 스파이 유오성의 결말이 시청자들의 눈길을 사로잡았다.
+## <스파이:POH> <유오성:PER>의 결말이 시청자들의 눈길을 사로잡았다.
+스파이	스파이	NNG	B-POH
+_	_	_	O
+유오성	유오성	NNP	B-PER
+의	의	JKG	O
+_	_	_	O
+결말	결말	NNG	O
+이	이	JKS	O
+_	_	_	O
+시청자	시청자	NNG	O
+들	들	XSN	O
+의	의	JKG	O
+_	_	_	O
+눈길	눈길	NNG	O
+을	을	JKO	O
+_	_	_	O
+사로잡	사로잡	VV	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 그림·사진 짧게 설명하는 연습부터 시작말하기에 익숙해지면 그림이나 사진을 보고 한 문장으로 표현하는 연습을 하면 좋다.
+## 그림·사진 짧게 설명하는 연습부터 시작말하기에 익숙해지면 그림이나 사진을 보고 <한 문장:NOH>으로 표현하는 연습을 하면 좋다.
+그림	그림	NNG	O
+·	·	SP	O
+사진	사진	NNG	O
+_	_	_	O
+짧	짧	VA	O
+게	게	EC	O
+_	_	_	O
+설명하	설명하	VV	O
+는	는	ETM	O
+_	_	_	O
+연습	연습	NNG	O
+부터	부터	JX	O
+_	_	_	O
+시작	시작	NNG	O
+말하	말하	VV	O
+기	기	ETN	O
+에	에	JKB	O
+_	_	_	O
+익숙해	익숙하+여	VA+EC	O
+지	지	VX	O
+면	면	EC	O
+_	_	_	O
+그림	그림	NNG	O
+이나	이나	JC	O
+_	_	_	O
+사진	사진	NNG	O
+을	을	JKO	O
+_	_	_	O
+보	보	VV	O
+고	고	EC	O
+_	_	_	O
+한	한	MM	B-NOH
+_	_	_	I-NOH
+문장	문장	NNG	I-NOH
+으로	으로	JKB	O
+_	_	_	O
+표현하	표현하	VV	O
+는	는	ETM	O
+_	_	_	O
+연습	연습	NNG	O
+을	을	JKO	O
+_	_	_	O
+하	하	VV	O
+면	면	EC	O
+_	_	_	O
+좋	좋	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 삼성은 최근 6년간 페넌트레이스에서 1위 5회, 2위 1회를 차지했다.
+## <삼성:ORG>은 최근 <6년:DUR>간 페넌트레이스에서 <1위:NOH> <5회:NOH>, <2위:NOH> <1회:NOH>를 차지했다.
+삼성	삼성	NNP	B-ORG
+은	은	JX	O
+_	_	_	O
+최근	최근	NNG	O
+_	_	_	O
+6	6	SN	B-DUR
+년	년	NNB	I-DUR
+간	간	XSN	O
+_	_	_	O
+페넌트	페넌트	NNG	O
+레이스	레이스	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+1	1	SN	B-NOH
+위	위	NNB	I-NOH
+_	_	_	O
+5	5	SN	B-NOH
+회	회	NNB	I-NOH
+,	,	SP	O
+_	_	_	O
+2	2	SN	B-NOH
+위	위	NNB	I-NOH
+_	_	_	O
+1	1	SN	B-NOH
+회	회	NNB	I-NOH
+를	를	JKO	O
+_	_	_	O
+차지	차지하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 케이토토, 사업능력 탁월…사업자 이관 공백 최소화
+## <케이토토:ORG>, 사업능력 탁월…사업자 이관 공백 최소화
+케이	케이	NNG	B-ORG
+토토	토토	NNP	I-ORG
+,	,	SP	O
+_	_	_	O
+사업	사업	NNG	O
+능력	능력	NNG	O
+_	_	_	O
+탁월	탁월	NNG	O
+…	…	SE	O
+사업자	사업자	NNG	O
+_	_	_	O
+이관	이관	NNG	O
+_	_	_	O
+공백	공백	NNG	O
+_	_	_	O
+최소화	최소화	NNG	O
+
+## 5
+## 임 행장은 “우리가 경쟁에서 이길 수 있었던 것은 사안을 대하는 태도가 달랐기 때문”이라며 “진정한 마음으로 열과 성을 다해야 한다”고 덧붙였다.
+## <임:PER> 행장은 “우리가 경쟁에서 이길 수 있었던 것은 사안을 대하는 태도가 달랐기 때문”이라며 “진정한 마음으로 열과 성을 다해야 한다”고 덧붙였다.
+임	임	NNP	B-PER
+_	_	_	O
+행장	행장	NNG	O
+은	은	JX	O
+_	_	_	O
+“	“	SS	O
+우리	우리	NP	O
+가	가	JKS	O
+_	_	_	O
+경쟁	경쟁	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+이길	이기+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+었	었	EP	O
+던	던	ETM	O
+_	_	_	O
+것	것	NNB	O
+은	은	JX	O
+_	_	_	O
+사안	사안	NNG	O
+을	을	JKO	O
+_	_	_	O
+대하	대하	VV	O
+는	는	ETM	O
+_	_	_	O
+태도	태도	NNG	O
+가	가	JKS	O
+_	_	_	O
+달	다르	VA	O
+랐	았	EP	O
+기	기	ETN	O
+_	_	_	O
+때문	때문	NNB	O
+”	”	SS	O
+이	이	VCP	O
+라며	라며	EC	O
+_	_	_	O
+“	“	SS	O
+진정한	진정하+ㄴ	VA+ETM	O
+_	_	_	O
+마음	마음	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+열	열	NNG	O
+과	과	JC	O
+_	_	_	O
+성	성	NNG	O
+을	을	JKO	O
+_	_	_	O
+다해야	다하+여야	VV+EC	O
+_	_	_	O
+한다	하+ㄴ다	VX+EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+덧붙	덧붙이	VV	O
+였	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## ‘등급쿠폰’은 새내기, 브론즈, 실버회원부터 VIP회원까지 등급별로 모든 고객에게 할인쿠폰 혜택이 제공된다.
+## ‘<등급쿠폰:POH>’은 새내기, 브론즈, 실버회원부터 VIP회원까지 등급별로 모든 고객에게 할인쿠폰 혜택이 제공된다.
+‘	‘	SS	O
+등급	등급	NNG	B-POH
+쿠폰	쿠폰	NNG	I-POH
+’	’	SS	O
+은	은	JX	O
+_	_	_	O
+새내기	새내기	NNG	O
+,	,	SP	O
+_	_	_	O
+브론즈	브론즈	NNG	O
+,	,	SP	O
+_	_	_	O
+실버	실버	NNG	O
+회원	회원	NNG	O
+부터	부터	JX	O
+_	_	_	O
+VIP	VIP	SL	O
+회원	회원	NNG	O
+까지	까지	JX	O
+_	_	_	O
+등급	등급	NNG	O
+별	별	XSN	O
+로	로	JKB	O
+_	_	_	O
+모든	모든	MM	O
+_	_	_	O
+고객	고객	NNG	O
+에게	에게	JKB	O
+_	_	_	O
+할인	할인	NNG	O
+쿠폰	쿠폰	NNG	O
+_	_	_	O
+혜택	혜택	NNG	O
+이	이	JKS	O
+_	_	_	O
+제공된다	제공되+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 7
+## 신한금융투자는 종합자산관리계좌(CMA)를 활용한 복합금융상품인 ‘CMA R+’ 카드상품 라인업을 완성했다.
+## <신한금융투자:ORG>는 종합자산관리계좌(CMA)를 활용한 복합금융상품인 ‘CMA R+’ 카드상품 라인업을 완성했다.
+신한금융투자	신한금융투자	NNP	B-ORG
+는	는	JX	O
+_	_	_	O
+종합	종합	NNG	O
+자산	자산	NNG	O
+관리	관리	NNG	O
+계좌	계좌	NNG	O
+(	(	SS	O
+CMA	CMA	SL	O
+)	)	SS	O
+를	를	JKO	O
+_	_	_	O
+활용한	활용하+ㄴ	VV+ETM	O
+_	_	_	O
+복합	복합	NNG	O
+금융	금융	NNG	O
+상품	상품	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+‘	‘	SS	O
+CMA	CMA	SL	O
+_	_	_	O
+R+	R++	SL+SW	O
+’	’	SS	O
+_	_	_	O
+카드	카드	NNG	O
+상품	상품	NNG	O
+_	_	_	O
+라인업	라인업	NNG	O
+을	을	JKO	O
+_	_	_	O
+완성	완성하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 그룹 트와이스의 신곡 'Cheer Up'이 25일 발매 직후 음원차트 1위를 기록했다.
+## 그룹 <트와이스:ORG>의 신곡 '<Cheer Up:POH>'이 <25일:DAT> 발매 직후 음원차트 <1위:NOH>를 기록했다.
+그룹	그룹	NNG	O
+_	_	_	O
+트와이스	트와이스	NNG	B-ORG
+의	의	JKG	O
+_	_	_	O
+신곡	신곡	NNP	O
+_	_	_	O
+'	'	SS	O
+Cheer	Cheer	SL	B-POH
+_	_	_	I-POH
+Up	Up	SL	I-POH
+'	'	SS	O
+이	이	MM	O
+_	_	_	O
+25	25	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+발매	발매	NNG	O
+_	_	_	O
+직후	직후	NNG	O
+_	_	_	O
+음원	음원	NNG	O
+차트	차트	NNG	O
+_	_	_	O
+1	1	SN	B-NOH
+위	위	NNB	I-NOH
+를	를	JKO	O
+_	_	_	O
+기록	기록하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 내츄럴엔도텍 ‘가짜 백수오’ 논란, 식약처 조사결과는 어떨까…소비자 관심 UP↑
+## <내츄럴엔도텍:ORG> ‘가짜 백수오’ 논란, 식약처 조사결과는 어떨까…소비자 관심 UP↑
+내츄럴엔도텍	내츄럴엔도텍	NNP	B-ORG
+_	_	_	O
+‘	‘	SS	O
+가짜	가짜	NNG	O
+_	_	_	O
+백수오	백수오	NNG	O
+’	’	SS	O
+_	_	_	O
+논란	논란	NNG	O
+,	,	SP	O
+_	_	_	O
+식약처	식약처	NNG	O
+_	_	_	O
+조사	조사	NNG	O
+결과	결과	NNG	O
+는	는	JX	O
+_	_	_	O
+어떨까	어떻+ㄹ까	VA+EC	O
+…	…	SE	O
+소비자	소비자	NNG	O
+_	_	_	O
+관심	관심	NNG	O
+_	_	_	O
+UP	UP	SL	O
+↑	↑	SW	O
+
+## 10
+## 북폴리오크리스토프 앙드레 저1만2000원자존감에 대한 이론과 임상에 대해 좀더 깊이 알아볼 수 있는 책이다.
+## <북폴리오크리스토프 앙드레:PER> 저<1만2000원:MNY>자존감에 대한 이론과 임상에 대해 좀더 깊이 알아볼 수 있는 책이다.
+북	북	NNP	B-PER
+폴리오	폴리오	NNG	I-PER
+크리스토프	크리스토프	NNP	I-PER
+_	_	_	I-PER
+앙드레	앙드레	NNP	I-PER
+_	_	_	O
+저	저	MM	O
+1	1	SN	B-MNY
+만	만	NR	I-MNY
+2000	2000	SN	I-MNY
+원	원	NNB	I-MNY
+자존	자존	NNG	O
+감	감	XSN	O
+에	에	JKB	O
+_	_	_	O
+대한	대하+ㄴ	VV+ETM	O
+_	_	_	O
+이론	이론	NNG	O
+과	과	JC	O
+_	_	_	O
+임상	임상	NNG	O
+에	에	JKB	O
+_	_	_	O
+대해	대하+여	VV+EC	O
+_	_	_	O
+좀	좀	MAG	O
+더	더	MAG	O
+_	_	_	O
+깊이	깊이	MAG	O
+_	_	_	O
+알아볼	알아보+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+는	는	ETM	O
+_	_	_	O
+책	책	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 양상문 감독도 “투수 때 와인드업을 많이 해봤기 때문인지 어려움 없이 타이밍을 잡는 것 같다.
+## <양상문:PER> 감독도 “투수 때 와인드업을 많이 해봤기 때문인지 어려움 없이 타이밍을 잡는 것 같다.
+양상문	양상문	NNP	B-PER
+_	_	_	O
+감독	감독	NNG	O
+도	도	JX	O
+_	_	_	O
+“	“	SS	O
+투수	투수	NNG	O
+_	_	_	O
+때	때	NNG	O
+_	_	_	O
+와인드업	와인드업	NNG	O
+을	을	JKO	O
+_	_	_	O
+많이	많이	MAG	O
+_	_	_	O
+해	하+여+보	VV+EC+VX	O
+봤	았	EP	O
+기	기	ETN	O
+_	_	_	O
+때문	때문	NNB	O
+인지	이+ㄴ지	VCP+EC	O
+_	_	_	O
+어려움	어려움	NNG	O
+_	_	_	O
+없이	없이	MAG	O
+_	_	_	O
+타이밍	타이밍	NNG	O
+을	을	JKO	O
+_	_	_	O
+잡	잡	VV	O
+는	는	ETM	O
+_	_	_	O
+것	것	NNB	O
+_	_	_	O
+같	같	VA	O
+다	다	EF	O
+.	.	SF	O
+

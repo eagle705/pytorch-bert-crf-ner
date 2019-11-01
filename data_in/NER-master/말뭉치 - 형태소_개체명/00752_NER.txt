@@ -1,0 +1,533 @@
+## 1
+## 북한과 같은 단순한 권력구조 속에서 5개월이 넘도록 당과 국가의 수반자리가 공석으로 있다는 것은 어느 모로나 이해하기 힘들다.
+## <북한:ORG>과 같은 단순한 권력구조 속에서 <5개월:DUR>이 넘도록 당과 국가의 수반자리가 공석으로 있다는 것은 어느 모로나 이해하기 힘들다.
+북한	북한	NNP	B-ORG
+과	과	JKB	O
+_	_	_	O
+같	같	VA	O
+은	은	ETM	O
+_	_	_	O
+단순한	단순하+ㄴ	VA+ETM	O
+_	_	_	O
+권력	권력	NNG	O
+구조	구조	NNG	O
+_	_	_	O
+속	속	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+5	5	SN	B-DUR
+개월	개월	NNB	I-DUR
+이	이	JKS	O
+_	_	_	O
+넘	넘	VV	O
+도록	도록	EC	O
+_	_	_	O
+당	당	NNG	O
+과	과	JC	O
+_	_	_	O
+국가	국가	NNG	O
+의	의	JKG	O
+_	_	_	O
+수반	수반	NNG	O
+자리	자리	NNG	O
+가	가	JKS	O
+_	_	_	O
+공석	공석	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+있	있	VA	O
+다는	다는	ETM	O
+_	_	_	O
+것	것	NNB	O
+은	은	JX	O
+_	_	_	O
+어느	어느	MM	O
+_	_	_	O
+모	모	NNG	O
+로	로	JKB	O
+나	나	JX	O
+_	_	_	O
+이해하	이해하	VV	O
+기	기	ETN	O
+_	_	_	O
+힘들	힘들	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 모두가 불빛을 좇는 세상. 화려한 스포트라이트를 받는 프로야구가 그립지 않을까. 박철순은 “에이, 타이밍이 늦었지. 이제 저는 야인입니다”라며 손사래를 쳤다.
+## 모두가 불빛을 좇는 세상. 화려한 스포트라이트를 받는 프로야구가 그립지 않을까. <박철순:PER>은 “에이, 타이밍이 늦었지. 이제 저는 야인입니다”라며 손사래를 쳤다.
+모두	모두	NNG	O
+가	가	JKS	O
+_	_	_	O
+불빛	불빛	NNG	O
+을	을	JKO	O
+_	_	_	O
+좇	좇	VV	O
+는	는	ETM	O
+_	_	_	O
+세상	세상	NNG	O
+.	.	SF	O
+_	_	_	O
+화려한	화려하+ㄴ	VA+ETM	O
+_	_	_	O
+스포트라이트	스포트라이트	NNG	O
+를	를	JKO	O
+_	_	_	O
+받	받	VV	O
+는	는	ETM	O
+_	_	_	O
+프로	프로	NNG	O
+야구	야구	NNG	O
+가	가	JKS	O
+_	_	_	O
+그립	그립	VA	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+을까	을까	EF	O
+.	.	SF	O
+_	_	_	O
+박철순	박철순	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+“	“	SS	O
+에이	에이	IC	O
+,	,	SP	O
+_	_	_	O
+타이밍	타이밍	NNG	O
+이	이	JKS	O
+_	_	_	O
+늦	늦	VA	O
+었	었	EP	O
+지	지	EF	O
+.	.	SF	O
+_	_	_	O
+이제	이제	MAG	O
+_	_	_	O
+저	저	NP	O
+는	는	JX	O
+_	_	_	O
+야인	야인	NNG	O
+입니다	이+ㅂ니다	VCP+EF	O
+”	”+이	SS+VCP	O
+라며	라며	EC	O
+_	_	_	O
+손사래	손사래	NNG	O
+를	를	JKO	O
+_	_	_	O
+쳤	+었	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 장관석 jks@donga.com·조동주·정윤철 기자
+## <장관석:PER> <jks@donga.com:POH>·<조동주:PER>·<정윤철:PER> 기자
+장관	장관	NNG	B-PER
+석	석	XSN	I-PER
+_	_	_	O
+jks	jks	SL	B-POH
+@	@	SW	I-POH
+donga	donga	SL	I-POH
+.	.	SF	I-POH
+com	com	SL	I-POH
+·	·	SP	O
+조동주	조동주	NNP	B-PER
+·	·	SP	O
+정윤철	정윤철	NNP	B-PER
+_	_	_	O
+기자	기자	NNG	O
+
+## 4
+## 6위에 오른 수지만이 무대와 방송을 넘나들며 ‘원조 아이돌’ 명맥을 유지했다.
+## <6위:NOH>에 오른 <수지:PER>만이 무대와 방송을 넘나들며 ‘원조 아이돌’ 명맥을 유지했다.
+6	6	SN	B-NOH
+위	위	NNB	I-NOH
+에	에	JKB	O
+_	_	_	O
+오른	오르+ㄴ	VV+ETM	O
+_	_	_	O
+수지	수지	NNG	B-PER
+만	만	JX	O
+이	이	JKS	O
+_	_	_	O
+무대	무대	NNG	O
+와	와	JC	O
+_	_	_	O
+방송	방송	NNG	O
+을	을	JKO	O
+_	_	_	O
+넘나들	넘나들	VV	O
+며	며	EC	O
+_	_	_	O
+‘	‘	SS	O
+원조	원조	NNG	O
+_	_	_	O
+아이돌	아이돌	NNG	O
+’	’	SS	O
+_	_	_	O
+명맥	명맥	NNG	O
+을	을	JKO	O
+_	_	_	O
+유지	유지하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 지난해 3월 인공지능 알파고와 세기의 대결을 펼치며 화제를 모은 바둑기사 이세돌은 15위에 올랐다.
+## 지난해 <3월:DAT> 인공지능 <알파고:POH>와 세기의 대결을 펼치며 화제를 모은 바둑기사 <이세돌:PER>은 <15위:NOH>에 올랐다.
+지난해	지난해	NNG	O
+_	_	_	O
+3	3	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+인공	인공	NNG	O
+지능	지능	NNG	O
+_	_	_	O
+알	알	NNP	B-POH
+파고	파고	NNG	I-POH
+와	와	JC	O
+_	_	_	O
+세기	세기	NNG	O
+의	의	JKG	O
+_	_	_	O
+대결	대결	NNG	O
+을	을	JKO	O
+_	_	_	O
+펼치	펼치	VV	O
+며	며	EC	O
+_	_	_	O
+화제	화제	NNG	O
+를	를	JKO	O
+_	_	_	O
+모은	모으+ㄴ	VV+ETM	O
+_	_	_	O
+바둑	바둑	NNG	O
+기사	기사	NNG	O
+_	_	_	O
+이세돌	이세돌	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+15	15	SN	B-NOH
+위	위	NNB	I-NOH
+에	에	JKB	O
+_	_	_	O
+올	오르	VV	O
+랐	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 당시에는 KIA가 2승1패의 위닝시리즈를 점했다.
+## 당시에는 <KIA:ORG>가 <2승:NOH><1패:NOH>의 <위닝시리즈:POH>를 점했다.
+당시	당시	NNG	O
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+KIA	KIA	SL	B-ORG
+가	가	JKS	O
+_	_	_	O
+2	2	SN	B-NOH
+승	승	NNB	I-NOH
+1	1	SN	B-NOH
+패	패	NNB	I-NOH
+의	의	JKG	O
+_	_	_	O
+위닝시리즈	위닝시리즈	NNG	B-POH
+를	를	JKO	O
+_	_	_	O
+점	점하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 외교부 “트럼프 反 이민정책 한인사회 영향 예의주시”
+## <외교부:ORG> “<트럼프:PER> 反 이민정책 한인사회 영향 예의주시”
+외교	외교	NNG	B-ORG
+부	부	XSN	I-ORG
+_	_	_	O
+“	“	SS	O
+트럼프	트럼프	NNG	B-PER
+_	_	_	O
+反	反	SH	O
+_	_	_	O
+이민	이민	NNG	O
+정책	정책	NNG	O
+_	_	_	O
+한인	한인	NNG	O
+사회	사회	NNG	O
+_	_	_	O
+영향	영향	NNG	O
+_	_	_	O
+예의	예의	NNG	O
+주시	주시	NNG	O
+”	”	SS	O
+
+## 8
+## 우태희 산업통상자원부 통상차관보는 16일 동아일보와의 통화에서 “박 대통령의 발언은 TPP의 중요성을 원론적 수준에서 강조한 것”이라고 말했다.
+## <우태희:PER> <산업통상자원부:ORG> 통상차관보는 <16일:DAT> <동아일보:ORG>와의 통화에서 “<박:PER> 대통령의 발언은 TPP의 중요성을 원론적 수준에서 강조한 것”이라고 말했다.
+우태희	우태희	NNP	B-PER
+_	_	_	O
+산업	산업	NNG	B-ORG
+통상	통상	NNG	I-ORG
+자원	자원	NNG	I-ORG
+부	부	NNG	I-ORG
+_	_	_	O
+통상	통상	NNG	O
+차관보	차관보	NNG	O
+는	는	JX	O
+_	_	_	O
+16	16	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+동아일보	동아일보	NNP	B-ORG
+와	와	JKB	O
+의	의	JKG	O
+_	_	_	O
+통화	통화	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+“	“	SS	O
+박	박	NNP	B-PER
+_	_	_	O
+대통령	대통령	NNG	O
+의	의	JKG	O
+_	_	_	O
+발언	발언	NNG	O
+은	은	JX	O
+_	_	_	O
+TPP	TPP	SL	O
+의	의	JKG	O
+_	_	_	O
+중요성	중요성	NNG	O
+을	을	JKO	O
+_	_	_	O
+원론적	원론적	NNG	O
+_	_	_	O
+수준	수준	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+강조한	강조하+ㄴ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+”	”	SS	O
+이라고	이라고	JKQ	O
+_	_	_	O
+말	말하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 사고 지점은 횡단보도로부터 20∼30ｍ 떨어진 곳으로 조사됐다.
+## 사고 지점은 횡단보도로부터 <20:DAT>∼<30ｍ:NOH> 떨어진 곳으로 조사됐다.
+사고	사고	NNG	O
+_	_	_	O
+지점	지점	NNG	O
+은	은	JX	O
+_	_	_	O
+횡단보도	횡단보도	NNG	O
+로부터	로부터	JKB	O
+_	_	_	O
+20	20	SN	B-DAT
+∼	∼	SO	O
+30	30	SN	B-NOH
+ｍ	ｍ	SL	I-NOH
+_	_	_	O
+떨어진	떨어지+ㄴ	VV+ETM	O
+_	_	_	O
+곳	곳	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+조사	조사되	VV	O
+됐	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 이는 농협 대출 이용자 57만5000명(8월말 기준) 중에서 가장 낮은 것이었다.
+## 이는 <농협:ORG> 대출 이용자 <57만5000명:NOH>(<8월:DAT>말 기준) 중에서 가장 낮은 것이었다.
+이	이	NP	O
+는	는	JX	O
+_	_	_	O
+농협	농협	NNP	B-ORG
+_	_	_	O
+대출	대출	NNG	O
+_	_	_	O
+이용자	이용자	NNG	O
+_	_	_	O
+57	57	SN	B-NOH
+만	만	NR	I-NOH
+5000	5000	SN	I-NOH
+명	명	NNB	I-NOH
+(	(	SS	O
+8	8	SN	B-DAT
+월	월	NNB	I-DAT
+말	말	NNB	O
+_	_	_	O
+기준	기준	NNG	O
+)	)	SS	O
+_	_	_	O
+중	중	NNB	O
+에서	에서	JKB	O
+_	_	_	O
+가장	가장	MAG	O
+_	_	_	O
+낮	낮	VA	O
+은	은	ETM	O
+_	_	_	O
+것	것	NNB	O
+이	이	VCP	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 이 프로그램은 대학생들의 배낭여행을 후원해 그들이 글로벌 인재가 되는 데 도움을 주는 것으로 매년 7월 2주 동안 진행된다.
+## 이 프로그램은 대학생들의 배낭여행을 후원해 그들이 글로벌 인재가 되는 데 도움을 주는 것으로 매년 <7월:DAT> <2주:DUR> 동안 진행된다.
+이	이	MM	O
+_	_	_	O
+프로그램	프로그램	NNG	O
+은	은	JX	O
+_	_	_	O
+대학생	대학생	NNG	O
+들	들	XSN	O
+의	의	JKG	O
+_	_	_	O
+배낭여행	배낭여행	NNG	O
+을	을	JKO	O
+_	_	_	O
+후원해	후원하+여	VV+EC	O
+_	_	_	O
+그	그	NP	O
+들	들	XSN	O
+이	이	JKS	O
+_	_	_	O
+글로벌	글로벌	NNG	O
+_	_	_	O
+인재	인재	NNG	O
+가	가	JKC	O
+_	_	_	O
+되	되	VV	O
+는	는	ETM	O
+_	_	_	O
+데	데	NNB	O
+_	_	_	O
+도움	도움	NNG	O
+을	을	JKO	O
+_	_	_	O
+주	주	VV	O
+는	는	ETM	O
+_	_	_	O
+것	것	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+매년	매년	MAG	O
+_	_	_	O
+7	7	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+2	2	SN	B-DUR
+주	주	NNB	I-DUR
+_	_	_	O
+동안	동안	NNG	O
+_	_	_	O
+진행된다	진행되+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 12
+## 이 밖에도 하나투어는 지난해 일본 규슈 지역에서 일본 법인과 공동으로 면세점을 운영하고 있다.
+## 이 밖에도 <하나투어:ORG>는 지난해 <일본:LOC> <규슈:LOC> 지역에서 <일본:ORG> 법인과 공동으로 면세점을 운영하고 있다.
+이	이	MM	O
+_	_	_	O
+밖	밖	NNG	O
+에	에	JKB	O
+도	도	JX	O
+_	_	_	O
+하나	하나	NNG	B-ORG
+투어	투어	NNG	I-ORG
+는	는	JX	O
+_	_	_	O
+지난해	지난해	NNG	O
+_	_	_	O
+일본	일본	NNP	B-LOC
+_	_	_	O
+규슈	규슈	NNP	B-LOC
+_	_	_	O
+지역	지역	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+일본	일본	NNP	B-ORG
+_	_	_	O
+법인	법인	NNG	O
+과	과	JC	O
+_	_	_	O
+공동	공동	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+면세점	면세점	NNG	O
+을	을	JKO	O
+_	_	_	O
+운영하	운영하	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## 과학 발전으로 나라에 보답한다는 ‘보국(報國)’ 정신도 우주방의 트레이드 마크다.
+## 과학 발전으로 나라에 보답한다는 ‘보국(報國)’ 정신도 <우주방:ORG>의 트레이드 마크다.
+과학	과학	NNG	O
+_	_	_	O
+발전	발전	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+나라	나라	NNG	O
+에	에	JKB	O
+_	_	_	O
+보답한다는	보답하+ㄴ다는	VV+ETM	O
+_	_	_	O
+‘	‘	SS	O
+보국	보국	NNG	O
+(	(	SS	O
+報國	報國	SH	O
+)	)	SS	O
+’	’	SS	O
+_	_	_	O
+정신	정신	NNG	O
+도	도	JX	O
+_	_	_	O
+우주	우주	NNG	B-ORG
+방	방	NNG	I-ORG
+의	의	JKG	O
+_	_	_	O
+트레이드	트레이드	NNG	O
+_	_	_	O
+마크다	마크다	NNP	O
+.	.	SF	O
+
+## 14
+## 주차 비용 비싼 공항 "영국 공항이 상위권에…"
+## 주차 비용 비싼 공항 "<영국:ORG> 공항이 상위권에…"
+주차	주차	NNG	O
+_	_	_	O
+비용	비용	NNG	O
+_	_	_	O
+비싼	비싸+ㄴ	VA+ETM	O
+_	_	_	O
+공항	공항	NNG	O
+_	_	_	O
+"	"	SS	O
+영국	영국	NNP	B-ORG
+_	_	_	O
+공항	공항	NNG	O
+이	이	JKS	O
+_	_	_	O
+상위권	상위권	NNG	O
+에	에	JKB	O
+…	…	SE	O
+"	"	SS	O
+

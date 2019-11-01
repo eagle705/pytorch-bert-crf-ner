@@ -1,0 +1,474 @@
+## 1
+## 반경 1㎞ 이내 한화(770가구)와 진흥(1900가구 재건축 예정) 아파트 등이 들어설 예정이다.
+## 반경 <1㎞:NOH> 이내 <한화:ORG>(<770가구:NOH>)와 <진흥:ORG>(<1900가구:NOH> 재건축 예정) 아파트 등이 들어설 예정이다.
+반경	반경	NNG	O
+_	_	_	O
+1	1	SN	B-NOH
+㎞	㎞	SW	I-NOH
+_	_	_	O
+이내	이내	NNG	O
+_	_	_	O
+한화	한화	NNP	B-ORG
+(	(	SS	O
+770	770	SN	B-NOH
+가구	가구	NNG	I-NOH
+)	)	SS	O
+와	와	JKB	O
+_	_	_	O
+진흥	진흥	NNG	B-ORG
+(	(	SS	O
+1900	1900	SN	B-NOH
+가구	가구	NNG	I-NOH
+_	_	_	O
+재건축	재건축	NNG	O
+_	_	_	O
+예정	예정	NNG	O
+)	)	SS	O
+_	_	_	O
+아파트	아파트	NNG	O
+_	_	_	O
+등	등	NNB	O
+이	이	JKS	O
+_	_	_	O
+들어설	들어서+ㄹ	VV+ETM	O
+_	_	_	O
+예정	예정	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## ‘사람이 재산’이란 생각에 와인 모임을 조직하고 애견 관련 사이트도 개설해 활동하며 500여 명의 인맥을 유지했다.
+## ‘사람이 재산’이란 생각에 와인 모임을 조직하고 애견 관련 사이트도 개설해 활동하며 <500여 명:NOH>의 인맥을 유지했다.
+‘	‘	SS	O
+사람	사람	NNG	O
+이	이	JKS	O
+_	_	_	O
+재산	재산	NNG	O
+’	’	SS	O
+이	이	VCP	O
+란	란	ETM	O
+_	_	_	O
+생각	생각	NNG	O
+에	에	JKB	O
+_	_	_	O
+와인	와인	NNG	O
+_	_	_	O
+모임	모임	NNG	O
+을	을	JKO	O
+_	_	_	O
+조직하	조직하	VV	O
+고	고	EC	O
+_	_	_	O
+애견	애견	NNG	O
+_	_	_	O
+관련	관련	NNG	O
+_	_	_	O
+사이트	사이트	NNG	O
+도	도	JX	O
+_	_	_	O
+개설해	개설하+여	VV+EC	O
+_	_	_	O
+활동하	활동하	VV	O
+며	며	EC	O
+_	_	_	O
+500	500	SN	B-NOH
+여	여	XSN	I-NOH
+_	_	_	I-NOH
+명	명	NNB	I-NOH
+의	의	JKG	O
+_	_	_	O
+인맥	인맥	NNG	O
+을	을	JKO	O
+_	_	_	O
+유지	유지하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 허태수(58·사진) GS홈쇼핑 부회장의 중국 패션시장 출사표다.
+## <허태수:PER>(<58:NOH>·사진) <GS홈쇼핑:ORG> 부회장의 <중국:LOC> 패션시장 출사표다.
+허태수	허태수	NNP	B-PER
+(	(	SS	O
+58	58	SN	B-NOH
+·	·	SP	O
+사진	사진	NNG	O
+)	)	SS	O
+_	_	_	O
+GS	GS	SL	B-ORG
+홈	홈	NNG	I-ORG
+쇼핑	쇼핑	NNG	I-ORG
+_	_	_	O
+부회장	부회장	NNG	O
+의	의	JKG	O
+_	_	_	O
+중국	중국	NNP	B-LOC
+_	_	_	O
+패션	패션	NNG	O
+시장	시장	NNG	O
+_	_	_	O
+출사표	출사표	NNG	O
+다	다	NNG	O
+.	.	SF	O
+
+## 4
+## 서동록 서울시 경제진흥본부장은 “세금 성실 납부를 통해 해외 자본과 한국 경제가 같이 성장하고 이익을 나눈다는 것을 보여주는 사례”라고 평가했다.
+## <서동록:PER> <서울시:LOC> 경제진흥본부장은 “세금 성실 납부를 통해 해외 자본과 <한국:ORG> 경제가 같이 성장하고 이익을 나눈다는 것을 보여주는 사례”라고 평가했다.
+서동록	서동록	NNP	B-PER
+_	_	_	O
+서울시	서울시	NNP	B-LOC
+_	_	_	O
+경제	경제	NNG	O
+진흥	진흥	NNG	O
+본부	본부	NNG	O
+장	장	XSN	O
+은	은	JX	O
+_	_	_	O
+“	“	SS	O
+세금	세금	NNG	O
+_	_	_	O
+성실	성실	NNG	O
+_	_	_	O
+납부	납부	NNG	O
+를	를	JKO	O
+_	_	_	O
+통해	통하+여	VV+EC	O
+_	_	_	O
+해외	해외	NNG	O
+_	_	_	O
+자본	자본	NNG	O
+과	과	JC	O
+_	_	_	O
+한국	한국	NNP	B-ORG
+_	_	_	O
+경제	경제	NNG	O
+가	가	JKS	O
+_	_	_	O
+같이	같이	MAG	O
+_	_	_	O
+성장하	성장하	VV	O
+고	고	EC	O
+_	_	_	O
+이익	이익	NNG	O
+을	을	JKO	O
+_	_	_	O
+나눈다는	나누+ㄴ다는	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+을	을	JKO	O
+_	_	_	O
+보	보이	VV	O
+여	어	EC	O
+주	주	VX	O
+는	는	ETM	O
+_	_	_	O
+사례	사례	NNG	O
+”	”	SS	O
+라고	라고	JKQ	O
+_	_	_	O
+평가	평가하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 미국 당국자가 “사드의 한반도 배치가 필요하다”
+## <미국:ORG> 당국자가 “<사드:POH>의 <한반도:LOC> 배치가 필요하다”
+미국	미국	NNP	B-ORG
+_	_	_	O
+당국자	당국자	NNG	O
+가	가	JKS	O
+_	_	_	O
+“	“	SS	O
+사드	사드	NNP	B-POH
+의	의	JKG	O
+_	_	_	O
+한반도	한반도	NNP	B-LOC
+_	_	_	O
+배치	배치	NNG	O
+가	가	JKS	O
+_	_	_	O
+필요하	필요하	VA	O
+다	다	EF	O
+”	”	SS	O
+
+## 6
+## 2015시즌에도 둘은 새로운 세리머니를 준비했다.
+## <2015:DAT>시즌에도 둘은 새로운 세리머니를 준비했다.
+2015	2015	SN	B-DAT
+시즌	시즌	NNG	O
+에	에	JKB	O
+도	도	JX	O
+_	_	_	O
+둘	둘	NR	O
+은	은	JX	O
+_	_	_	O
+새로	새롭	VA	O
+운	ㄴ	ETM	O
+_	_	_	O
+세리머니	세리머니	NNG	O
+를	를	JKO	O
+_	_	_	O
+준비	준비하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## '수요미식회'가 떡볶이에 대한 이야기를 나눠 화제다.
+## '<수요미식회:POH>'가 떡볶이에 대한 이야기를 나눠 화제다.
+'	'	SS	O
+수요미식회	수요미식회	NNP	B-POH
+'	'	SS	O
+가	가	JKS	O
+_	_	_	O
+떡볶이	떡볶이	NNG	O
+에	에	JKB	O
+_	_	_	O
+대한	대하+ㄴ	VV+ETM	O
+_	_	_	O
+이야기	이야기	NNG	O
+를	를	JKO	O
+_	_	_	O
+나눠	나누+어	VV+EC	O
+_	_	_	O
+화제	화제+이	NNG+VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 침·땀·혈액에 든 단백질 일종EGF는 1962년 미국 스탠리 코언 박사가 발견한 피부 재생 인자다.
+## 침·땀·혈액에 든 단백질 일종EGF는 <1962년:DAT> <미국:LOC> <스탠리 코언:PER> 박사가 발견한 피부 재생 인자다.
+침	침	NNG	O
+·	·	SP	O
+땀	땀	NNG	O
+·	·	SP	O
+혈액	혈액	NNG	O
+에	에	JKB	O
+_	_	_	O
+든	들+ㄴ	VV+ETM	O
+_	_	_	O
+단백질	단백질	NNG	O
+_	_	_	O
+일종	일종	NNG	O
+EGF	EGF	SL	O
+는	는	JX	O
+_	_	_	O
+1962	1962	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+미국	미국	NNP	B-LOC
+_	_	_	O
+스탠리	스탠리	NNP	B-PER
+_	_	_	I-PER
+코언	코언	NNP	I-PER
+_	_	_	O
+박사	박사	NNG	O
+가	가	JKS	O
+_	_	_	O
+발견한	발견하+ㄴ	VV+ETM	O
+_	_	_	O
+피부	피부	NNG	O
+_	_	_	O
+재생	재생	NNG	O
+_	_	_	O
+인	인	NNG	O
+자	자+이	XSN+VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 래퍼 나다가 “둥글둥글하고 털털하다”며 실제 성격을 언급했다.
+## 래퍼 <나다:PER>가 “둥글둥글하고 털털하다”며 실제 성격을 언급했다.
+래퍼	래퍼	NNG	O
+_	_	_	O
+나	나	VV	B-PER
+다가	다가	EC	O
+_	_	_	O
+“	“	SS	O
+둥글둥글하	둥글둥글하	VA	O
+고	고	EC	O
+_	_	_	O
+털털하	털털하	VA	O
+다	다	EF	O
+”	”	SS	O
+며	며	EC	O
+_	_	_	O
+실제	실제	NNG	O
+_	_	_	O
+성격	성격	NNG	O
+을	을	JKO	O
+_	_	_	O
+언급	언급하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 나다는 6일 방송한 SBS 파워FM ‘최화정의 파워타임’에 가수 박재정과 함께 게스트로 출연했다.
+## <나다:PER>는 <6일:DAT> 방송한 <SBS 파워FM:POH> ‘<최화정의 파워타임:POH>’에 가수 <박재정:PER>과 함께 게스트로 출연했다.
+나	나	VV	B-PER
+다	다	EC	I-PER
+는	는	JX	O
+_	_	_	O
+6	6	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+방송	방송	NNG	O
+한	한	NNP	O
+_	_	_	O
+SBS	SBS	SL	B-POH
+_	_	_	I-POH
+파워	파워	NNG	I-POH
+FM	FM	SL	I-POH
+_	_	_	O
+‘	‘	SS	O
+최화정	최화정	NNP	B-POH
+의	의	JKG	I-POH
+_	_	_	I-POH
+파워	파워	NNG	I-POH
+타임	타임	NNG	I-POH
+’	’	SS	O
+에	에	JKB	O
+_	_	_	O
+가수	가수	NNG	O
+_	_	_	O
+박재정	박재정	NNP	B-PER
+과	과	JKB	O
+_	_	_	O
+함께	함께	MAG	O
+_	_	_	O
+게스트	게스트	NNG	O
+로	로	JKB	O
+_	_	_	O
+출연	출연하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 이날 방송에서 DJ 최화정은 “인상이 세다고 하는데 굉장히 귀엽다”고 운을 뗐다.
+## 이날 방송에서 DJ <최화정:PER>은 “인상이 세다고 하는데 굉장히 귀엽다”고 운을 뗐다.
+이날	이날	NNG	O
+_	_	_	O
+방송	방송	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+DJ	DJ	SL	O
+_	_	_	O
+최화정	최화정	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+“	“	SS	O
+인상	인상	NNG	O
+이	이	JKS	O
+_	_	_	O
+세	세	VA	O
+다고	다고	EC	O
+_	_	_	O
+하	하	VV	O
+는데	는데	EC	O
+_	_	_	O
+굉장히	굉장히	MAG	O
+_	_	_	O
+귀엽	귀엽	VA	O
+다	다	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+운	운	NNG	O
+을	을	JKO	O
+_	_	_	O
+뗐	떼+었	VV+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 1년5개월간 백51명 조사… 만6천쪽 분량
+## <1년5개월간:DAT> <백51명:NOH> 조사… <만6천쪽:NOH> 분량
+1	1	SN	B-DAT
+년	년	NNB	I-DAT
+5	5	SN	I-DAT
+개월	개월	NNB	I-DAT
+간	간	XSN	I-DAT
+_	_	_	O
+백	백	NR	B-NOH
+51	51	SN	I-NOH
+명	명	NNB	I-NOH
+_	_	_	O
+조사	조사	NNG	O
+…	…	SE	O
+_	_	_	O
+만	만	JX	B-NOH
+6	6	SN	I-NOH
+천	천	NR	I-NOH
+쪽	쪽	NNG	I-NOH
+_	_	_	O
+분량	분량	NNG	O
+
+## 13
+## 1937년 11월, 소련에 있던 캉성(康生·강생)이 옌안으로 돌아왔다.
+## <1937년 11월:DAT>, <소련:ORG>에 있던 <캉성:PER>(<康生:PER>·<강생:PER>)이 <옌안:LOC>으로 돌아왔다.
+1937	1937	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	I-DAT
+11	11	SN	I-DAT
+월	월	NNB	I-DAT
+,	,	SP	O
+_	_	_	O
+소련	소련	NNP	B-ORG
+에	에	JKB	O
+_	_	_	O
+있	있	VA	O
+던	던	ETM	O
+_	_	_	O
+캉성	캉성	NNP	B-PER
+(	(	SS	O
+康生	康生	SH	B-PER
+·	·	SP	O
+강생	강생	NNG	B-PER
+)	)	SS	O
+이	이	JKS	O
+_	_	_	O
+옌안	옌안	NNP	B-LOC
+으로	으로	JKB	O
+_	_	_	O
+돌아	돌아오	VV	O
+왔	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 14
+## 김종인 ‘대선출마’설, 전원책 예언 재조명…“김종인 ‘3년 개헌설’ 주목하라”
+## <김종인:PER> ‘대선출마’설, <전원책:PER> 예언 재조명…“<김종인:PER> ‘3년 개헌설’ 주목하라”
+김종인	김종인	NNP	B-PER
+_	_	_	O
+‘	‘	SS	O
+대선	대선	NNG	O
+출마	출마	NNG	O
+’	’	SS	O
+설	설	NNG	O
+,	,	SP	O
+_	_	_	O
+전원책	전원책	NNP	B-PER
+_	_	_	O
+예언	예언	NNG	O
+_	_	_	O
+재조명	재조명	NNG	O
+…	…	SE	O
+“	“	SS	O
+김종인	김종인	NNP	B-PER
+_	_	_	O
+‘	‘	SS	O
+3	3	SN	O
+년	년	NNB	O
+_	_	_	O
+개헌	개헌	NNG	O
+설	설	XSN	O
+’	’	SS	O
+_	_	_	O
+주목하	주목하	VV	O
+라	라	EF	O
+”	”	SS	O
+

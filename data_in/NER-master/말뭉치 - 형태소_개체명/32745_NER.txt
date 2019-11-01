@@ -1,0 +1,484 @@
+## 1
+## 현대경제연구원은 20대 청년의 체감실업률이 37.5%로 다른 연령대보다 20%포인트 이상 높다고 발표했다.
+## <현대경제연구원:ORG>은 <20대:NOH> 청년의 체감실업률이 <37.5%:PNT>로 다른 연령대보다 <20%포인트:PNT> 이상 높다고 발표했다.
+현대경제연구원	현대경제연구원	NNP	B-ORG
+은	은	JX	O
+_	_	_	O
+20	20	SN	B-NOH
+대	대	NNB	I-NOH
+_	_	_	O
+청년	청년	NNG	O
+의	의	JKG	O
+_	_	_	O
+체감	체감	NNG	O
+실업률	실업률	NNG	O
+이	이	JKS	O
+_	_	_	O
+37.5	37.5	SN	B-PNT
+%	%	SW	I-PNT
+로	로	JKB	O
+_	_	_	O
+다른	다른	MM	O
+_	_	_	O
+연령	연령	NNG	O
+대	대	XSN	O
+보다	보다	JKB	O
+_	_	_	O
+20	20	SN	B-PNT
+%	%	SW	I-PNT
+포인트	포인트	NNG	I-PNT
+_	_	_	O
+이상	이상	NNG	O
+_	_	_	O
+높	높	VA	O
+다고	다고	EC	O
+_	_	_	O
+발표	발표하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 경기(252만5462명) 부산(61만2418명) 경남(52만1322명) 등이 뒤를 이었다.
+## <경기:LOC>(<252만5462명:NOH>) <부산:LOC>(<61만2418명:NOH>) <경남:LOC>(<52만1322명:NOH>) 등이 뒤를 이었다.
+경기	경기	NNP	B-LOC
+(	(	SS	O
+252	252	SN	B-NOH
+만	만	NR	I-NOH
+5462	5462	SN	I-NOH
+명	명	NNB	I-NOH
+)	)	SS	O
+_	_	_	O
+부산	부산	NNP	B-LOC
+(	(	SS	O
+61	61	SN	B-NOH
+만	만	NR	I-NOH
+2418	2418	SN	I-NOH
+명	명	NNB	I-NOH
+)	)	SS	O
+_	_	_	O
+경남	경남	NNP	B-LOC
+(	(	SS	O
+52	52	SN	B-NOH
+만	만	NR	I-NOH
+1322	1322	SN	I-NOH
+명	명	NNB	I-NOH
+)	)	SS	O
+_	_	_	O
+등	등	NNB	O
+이	이	JKS	O
+_	_	_	O
+뒤	뒤	NNG	O
+를	를	JKO	O
+_	_	_	O
+이	잇	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 사비는 춤의 흉내를 내고 있었다.
+## <사비:PER>는 춤의 흉내를 내고 있었다.
+사비	사비	NNG	B-PER
+는	는	JX	O
+_	_	_	O
+춤	춤	NNG	O
+의	의	JKG	O
+_	_	_	O
+흉내	흉내	NNG	O
+를	를	JKO	O
+_	_	_	O
+내	내	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 그만큼 선배 시인들의 눈을 강렬하게 사로잡았던 것. 그는 올해도 노벨 문학상 수상 후보로 거론되고 있다.
+## 그만큼 선배 시인들의 눈을 강렬하게 사로잡았던 것. 그는 올해도 <노벨 문학상:POH> 수상 후보로 거론되고 있다.
+그만큼	그만큼	MAG	O
+_	_	_	O
+선배	선배	NNG	O
+_	_	_	O
+시인	시인	NNG	O
+들	들	XSN	O
+의	의	JKG	O
+_	_	_	O
+눈	눈	NNG	O
+을	을	JKO	O
+_	_	_	O
+강렬하	강렬하	VA	O
+게	게	EC	O
+_	_	_	O
+사로잡	사로잡	VV	O
+았	았	EP	O
+던	던	ETM	O
+_	_	_	O
+것	것	NNB	O
+.	.	SF	O
+_	_	_	O
+그	그	NP	O
+는	는	JX	O
+_	_	_	O
+올해	올해	NNG	O
+도	도	JX	O
+_	_	_	O
+노벨	노벨	NNP	B-POH
+_	_	_	I-POH
+문학상	문학상	NNG	I-POH
+_	_	_	O
+수상	수상	NNG	O
+_	_	_	O
+후보	후보	NNG	O
+로	로	JKB	O
+_	_	_	O
+거론되	거론되	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 봉태규 하시시박 커플, “품절 됐다”
+## <봉태규:PER> <하시시박:PER> 커플, “품절 됐다”
+봉태규	봉태규	NNP	B-PER
+_	_	_	O
+하시시	하시시	NNG	B-PER
+박	박	NNP	I-PER
+_	_	_	O
+커플	커플	NNG	O
+,	,	SP	O
+_	_	_	O
+“	“	SS	O
+품절	품절	NNG	O
+_	_	_	O
+됐	+었	+EP	O
+다	다	EF	O
+”	”	SS	O
+
+## 6
+## 그는 미국에서 출근할 때도 걷거나 버스를 탄다.
+## 그는 <미국:LOC>에서 출근할 때도 걷거나 버스를 탄다.
+그	그	NP	O
+는	는	JX	O
+_	_	_	O
+미국	미국	NNP	B-LOC
+에서	에서	JKB	O
+_	_	_	O
+출근할	출근하+ㄹ	VV+ETM	O
+_	_	_	O
+때	때	NNG	O
+도	도	JX	O
+_	_	_	O
+걷	걷	VV	O
+거나	거나	EC	O
+_	_	_	O
+버스	버스	NNG	O
+를	를	JKO	O
+_	_	_	O
+탄다	타+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 7
+## ‘위안부 바로알기 교재’ 첫 시범교육
+## ‘<위안부:ORG> 바로알기 교재’ 첫 시범교육
+‘	‘	SS	O
+위안부	위안부	NNG	B-ORG
+_	_	_	O
+바로	바로	MAG	O
+알	알	VV	O
+기	기	ETN	O
+_	_	_	O
+교재	교재	NNG	O
+’	’	SS	O
+_	_	_	O
+첫	첫	MM	O
+_	_	_	O
+시범	시범	NNG	O
+교육	교육	NNG	O
+
+## 8
+## 이들은 첫 월급에서 100만 원씩 모은 1300만 원을 후배사랑 장학금으로 내놨다.
+## 이들은 첫 월급에서 <100만 원:MNY>씩 모은 <1300만 원:MNY>을 후배사랑 장학금으로 내놨다.
+이	이	NP	O
+들	들	XSN	O
+은	은	JX	O
+_	_	_	O
+첫	첫	MM	O
+_	_	_	O
+월급	월급	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+100	100	SN	B-MNY
+만	만	NR	I-MNY
+_	_	_	I-MNY
+원	원	NNB	I-MNY
+씩	씩	XSN	O
+_	_	_	O
+모은	모으+ㄴ	VV+ETM	O
+_	_	_	O
+1300	1300	SN	B-MNY
+만	만	NR	I-MNY
+_	_	_	I-MNY
+원	원	NNB	I-MNY
+을	을	JKO	O
+_	_	_	O
+후배	후배	NNG	O
+사랑	사랑	NNG	O
+_	_	_	O
+장학금	장학금	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+내	내놓	VV	O
+놨	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 군이 김일성광장에 입장한 후 김 위원장이 주석단에 등장했으며 이어 이영길 총참모장의 시작 보고로 이어져 본격 열병식 행사가 시작됐다.
+## 군이 <김일성광장:LOC>에 입장한 후 <김:PER> 위원장이 주석단에 등장했으며 이어 <이영길:PER> 총참모장의 시작 보고로 이어져 본격 열병식 행사가 시작됐다.
+군	군	NNG	O
+이	이	JKS	O
+_	_	_	O
+김일성광장	김일성광장	NNP	B-LOC
+에	에	JKB	O
+_	_	_	O
+입장한	입장하+ㄴ	VV+ETM	O
+_	_	_	O
+후	후	NNG	O
+_	_	_	O
+김	김	NNP	B-PER
+_	_	_	O
+위원장	위원장	NNG	O
+이	이	JKS	O
+_	_	_	O
+주석단	주석단	NNG	O
+에	에	JKB	O
+_	_	_	O
+등장	등장하	VV	O
+했	였	EP	O
+으며	으며	EC	O
+_	_	_	O
+이	잇	VV	O
+어	어	EC	O
+_	_	_	O
+이영길	이영길	NNP	B-PER
+_	_	_	O
+총참모장	총참모장	NNG	O
+의	의	JKG	O
+_	_	_	O
+시작	시작	NNG	O
+_	_	_	O
+보고	보고	NNG	O
+로	로	JKB	O
+_	_	_	O
+이어져	이어지+어	VV+EC	O
+_	_	_	O
+본격	본격	NNG	O
+_	_	_	O
+열병식	열병식	NNG	O
+_	_	_	O
+행사	행사	NNG	O
+가	가	JKS	O
+_	_	_	O
+시작	시작되	VV	O
+됐	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 김 위원장이 육성으로 연설을 할 지 여부도 관심사였다.
+## <김:PER> 위원장이 육성으로 연설을 할 지 여부도 관심사였다.
+김	김	NNP	B-PER
+_	_	_	O
+위원장	위원장	NNG	O
+이	이	JKS	O
+_	_	_	O
+육성	육성	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+연설	연설	NNG	O
+을	을	JKO	O
+_	_	_	O
+할	하+ㄹ	VV+ETM	O
+_	_	_	O
+지	지	NNB	O
+_	_	_	O
+여부	여부	NNG	O
+도	도	JX	O
+_	_	_	O
+관심사	관심사+이	NNG+VCP	O
+였	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## ‘진주 평거동 주상복합 신축사업’을 위해 대한토지신탁(신탁사), 건영이앤디(시행사), 건영(시공사)이 지난 13일 MOU를 체결했다.
+## ‘<진주:LOC> <평거동:LOC> 주상복합 신축사업’을 위해 <대한토지신탁:ORG>(신탁사), <건영이앤디:ORG>(시행사), <건영:PER>(시공사)이 지난 <13일:DAT> MOU를 체결했다.
+‘	‘	SS	O
+진주	진주	NNP	B-LOC
+_	_	_	O
+평거동	평거동	NNP	B-LOC
+_	_	_	O
+주상	주상	NNG	O
+복합	복합	NNG	O
+_	_	_	O
+신축	신축	NNG	O
+사업	사업	NNG	O
+’	’	SS	O
+을	을	JKO	O
+_	_	_	O
+위해	위하+여	VV+EC	O
+_	_	_	O
+대한	대한	NNP	B-ORG
+토지	토지	NNG	I-ORG
+신탁	신탁	NNG	I-ORG
+(	(	SS	O
+신탁	신탁	NNG	O
+사	사	XSN	O
+)	)	SS	O
+,	,	SP	O
+_	_	_	O
+건영	건영	NNP	B-ORG
+이앤디	이앤디	NNP	I-ORG
+(	(	SS	O
+시행	시행	NNG	O
+사	사	XSN	O
+)	)	SS	O
+,	,	SP	O
+_	_	_	O
+건영	건영	NNP	B-PER
+(	(	SS	O
+시공	시공	NNG	O
+사	사	XSN	O
+)	)	SS	O
+이	이	JKS	O
+_	_	_	O
+지난	지나+ㄴ	VV+ETM	O
+_	_	_	O
+13	13	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+MOU	MOU	SL	O
+를	를	JKO	O
+_	_	_	O
+체결	체결하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 주정일 건영 대표이사는 인사말을 통해 “대한토지신탁과 첫 인연이라 뜻 깊은 영광으로 생각하며 감사의 말을 전한다”며 “건영의 신용과 명예를 지킬 수 있도록 최선을 다하겠다”고 말했다.
+## <주정일:PER> <건영:ORG> 대표이사는 인사말을 통해 “<대한토지신탁:ORG>과 첫 인연이라 뜻 깊은 영광으로 생각하며 감사의 말을 전한다”며 “<건영:ORG>의 신용과 명예를 지킬 수 있도록 최선을 다하겠다”고 말했다.
+주정일	주정일	NNP	B-PER
+_	_	_	O
+건영	건영	NNP	B-ORG
+_	_	_	O
+대표	대표	NNG	O
+이사	이사	NNG	O
+는	는	JX	O
+_	_	_	O
+인사말	인사말	NNG	O
+을	을	JKO	O
+_	_	_	O
+통해	통하+여	VV+EC	O
+_	_	_	O
+“	“	SS	O
+대한	대한	NNP	B-ORG
+토지	토지	NNG	I-ORG
+신탁	신탁	NNG	I-ORG
+과	과	JC	O
+_	_	_	O
+첫	첫	MM	O
+_	_	_	O
+인연	인연	NNG	O
+이	이	VCP	O
+라	라	EC	O
+_	_	_	O
+뜻	뜻	NNG	O
+_	_	_	O
+깊	깊	VA	O
+은	은	ETM	O
+_	_	_	O
+영광	영광	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+생각하	생각하	VV	O
+며	며	EC	O
+_	_	_	O
+감사	감사	NNG	O
+의	의	JKG	O
+_	_	_	O
+말	말	NNG	O
+을	을	JKO	O
+_	_	_	O
+전한다	전하+ㄴ다	VV+EF	O
+”	”	SS	O
+며	며	EC	O
+_	_	_	O
+“	“	SS	O
+건영	건영	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+신용	신용	NNG	O
+과	과	JC	O
+_	_	_	O
+명예	명예	NNG	O
+를	를	JKO	O
+_	_	_	O
+지킬	지키+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+도록	도록	EC	O
+_	_	_	O
+최선	최선	NNG	O
+을	을	JKO	O
+_	_	_	O
+다하	다하	VV	O
+겠	겠	EP	O
+다	다	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+말	말하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## 지난달 30일에는 박 회장에게 과태료 200만 원을 부과하기도 했다.
+## 지난달 <30일:DAT>에는 <박:PER> 회장에게 과태료 <200만 원:MNY>을 부과하기도 했다.
+지난달	지난달	NNG	O
+_	_	_	O
+30	30	SN	B-DAT
+일	일	NNB	I-DAT
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+박	박	NNP	B-PER
+_	_	_	O
+회장	회장	NNG	O
+에게	에게	JKB	O
+_	_	_	O
+과태료	과태료	NNG	O
+_	_	_	O
+200	200	SN	B-MNY
+만	만	NR	I-MNY
+_	_	_	I-MNY
+원	원	NNB	I-MNY
+을	을	JKO	O
+_	_	_	O
+부과	부과	NNG	O
+하	하	XSN	O
+기도	기도	NNG	O
+_	_	_	O
+했	+였	+EP	O
+다	다	EF	O
+.	.	SF	O
+

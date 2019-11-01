@@ -1,0 +1,406 @@
+## 1
+## 하지만 포스코가 탄산리튬 생산에 나서면서 국내 업체들이 원료 수급 걱정을 한결 덜게 됐다.
+## 하지만 <포스코:ORG>가 탄산리튬 생산에 나서면서 국내 업체들이 원료 수급 걱정을 한결 덜게 됐다.
+하지만	하지만	MAJ	O
+_	_	_	O
+포스코	포스코	NNP	B-ORG
+가	가	JKS	O
+_	_	_	O
+탄산리튬	탄산리튬	NNG	O
+_	_	_	O
+생산	생산	NNG	O
+에	에	JKB	O
+_	_	_	O
+나서	나서	VV	O
+면서	면서	EC	O
+_	_	_	O
+국내	국내	NNG	O
+_	_	_	O
+업체	업체	NNG	O
+들	들	XSN	O
+이	이	JKS	O
+_	_	_	O
+원료	원료	NNG	O
+_	_	_	O
+수급	수급	NNG	O
+_	_	_	O
+걱정	걱정	NNG	O
+을	을	JKO	O
+_	_	_	O
+한결	한결	MAG	O
+_	_	_	O
+덜	덜	VV	O
+게	게	EC	O
+_	_	_	O
+됐	+었	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 소요죄 적용은 1986년 5월 3일 인천에서 일어난 대규모 시위(‘5·3 인천사태’) 이후 29년 만이다.
+## 소요죄 적용은 <1986년 5월 3일:DAT> <인천:LOC>에서 일어난 대규모 시위(‘<5·3 인천사태:POH>’) 이후 <29년 만:NOH>이다.
+소요죄	소요죄	NNG	O
+_	_	_	O
+적용	적용	NNG	O
+은	은	JX	O
+_	_	_	O
+1986	1986	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	I-DAT
+5	5	SN	I-DAT
+월	월	NNB	I-DAT
+_	_	_	I-DAT
+3	3	SN	I-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+인천	인천	NNP	B-LOC
+에서	에서	JKB	O
+_	_	_	O
+일어난	일어나+ㄴ	VV+ETM	O
+_	_	_	O
+대규모	대규모	NNG	O
+_	_	_	O
+시위	시위	NNG	O
+(	(	SS	O
+‘	‘	SS	O
+5	5	SN	B-POH
+·	·	SP	I-POH
+3	3	SN	I-POH
+_	_	_	I-POH
+인천	인천	NNP	I-POH
+사태	사태	NNG	I-POH
+’	’	SS	O
+)	)	SS	O
+_	_	_	O
+이후	이후	NNG	O
+_	_	_	O
+29	29	SN	B-NOH
+년	년	NNB	I-NOH
+_	_	_	I-NOH
+만	만	NNB	I-NOH
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 추가 근무 수당도 종전에는 25% 더 얹어줘야 했지만 앞으로는 10% 이상만 주도록 바꿨다.
+## 추가 근무 수당도 종전에는 <25%:PNT> 더 얹어줘야 했지만 앞으로는 <10%:PNT> 이상만 주도록 바꿨다.
+추가	추가	NNG	O
+_	_	_	O
+근무	근무	NNG	O
+_	_	_	O
+수당	수당	NNG	O
+도	도	JX	O
+_	_	_	O
+종전	종전	NNG	O
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+25	25	SN	B-PNT
+%	%	SW	I-PNT
+_	_	_	O
+더	더	MAG	O
+_	_	_	O
+얹	얹	VV	O
+어	어	EC	O
+줘야	주+어야	VX+EC	O
+_	_	_	O
+했	+었	+EP	O
+지만	지만	EC	O
+_	_	_	O
+앞	앞	NNG	O
+으로	으로	JKB	O
+는	는	JX	O
+_	_	_	O
+10	10	SN	B-PNT
+%	%	SW	I-PNT
+_	_	_	O
+이상	이상	NNG	O
+만	만	JX	O
+_	_	_	O
+주	주	VV	O
+도록	도록	EC	O
+_	_	_	O
+바	바꾸	VV	O
+꿨	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 지중해를 건너 이탈리아로 가려던 난민 수백 명이 배가 뒤집혀 물에 빠져 숨졌다는 주장이 나왔다.
+## <지중해:LOC>를 건너 <이탈리아:LOC>로 가려던 난민 <수백 명:NOH>이 배가 뒤집혀 물에 빠져 숨졌다는 주장이 나왔다.
+지중해	지중해	NNP	B-LOC
+를	를	JKO	O
+_	_	_	O
+건너	건너+어	VV+EC	O
+_	_	_	O
+이탈리아	이탈리아	NNP	B-LOC
+로	로	JKB	O
+_	_	_	O
+가	가	VV	O
+려던	려던	ETM	O
+_	_	_	O
+난민	난민	NNG	O
+_	_	_	O
+수백	수백	NR	B-NOH
+_	_	_	I-NOH
+명	명	NNB	I-NOH
+이	이	JKS	O
+_	_	_	O
+배	배	NNG	O
+가	가	JKS	O
+_	_	_	O
+뒤집혀	뒤집히+어	VV+EC	O
+_	_	_	O
+물	물	NNG	O
+에	에	JKB	O
+_	_	_	O
+빠져	빠지+어	VV+EC	O
+_	_	_	O
+숨	숨지	VV	O
+졌	었	EP	O
+다는	다는	ETM	O
+_	_	_	O
+주장	주장	NNG	O
+이	이	JKS	O
+_	_	_	O
+나	나오	VV	O
+왔	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 김성민은 3월 서울 서초구 집에서 마약을 투약한 혐의로 체포됐다.
+## <김성민:PER>은 <3월:DAT> <서울:LOC> <서초구:LOC> 집에서 마약을 투약한 혐의로 체포됐다.
+김성민	김성민	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+3	3	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+서울	서울	NNP	B-LOC
+_	_	_	O
+서초구	서초구	NNP	B-LOC
+_	_	_	O
+집	집	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+마약	마약	NNG	O
+을	을	JKO	O
+_	_	_	O
+투약한	투약하+ㄴ	VV+ETM	O
+_	_	_	O
+혐의	혐의	NNG	O
+로	로	JKB	O
+_	_	_	O
+체포	체포되	VV	O
+됐	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 이사 후 7개월 만에 아들 박지만씨를 낳았고 곧 소장으로 진급했다.
+## 이사 후 <7개월 만:NOH>에 아들 <박지만:PER>씨를 낳았고 곧 소장으로 진급했다.
+이사	이사	NNG	O
+_	_	_	O
+후	후	NNG	O
+_	_	_	O
+7	7	SN	B-NOH
+개월	개월	NNB	I-NOH
+_	_	_	I-NOH
+만	만	NNB	I-NOH
+에	에	JKB	O
+_	_	_	O
+아들	아들	NNG	O
+_	_	_	O
+박지만	박지만	NNP	B-PER
+씨	씨	NNB	O
+를	를	JKO	O
+_	_	_	O
+낳	낳	VV	O
+았	았	EP	O
+고	고	EC	O
+_	_	_	O
+곧	곧	MAG	O
+_	_	_	O
+소장	소장	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+진급	진급하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 또한 아소산은 대규모 폭발 때 파국적인 피해를 입히는 에너지를 지니고 있어 일명 '파국 화산'으로 불린다.
+## 또한 <아소산:LOC>은 대규모 폭발 때 파국적인 피해를 입히는 에너지를 지니고 있어 일명 '파국 화산'으로 불린다.
+또한	또한	MAG	O
+_	_	_	O
+아소산	아소산	NNP	B-LOC
+은	은	JX	O
+_	_	_	O
+대규모	대규모	NNG	O
+_	_	_	O
+폭발	폭발	NNG	O
+_	_	_	O
+때	때	NNG	O
+_	_	_	O
+파국적	파국적	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+피해	피해	NNG	O
+를	를	JKO	O
+_	_	_	O
+입히	입히	VV	O
+는	는	ETM	O
+_	_	_	O
+에너지	에너지	NNG	O
+를	를	JKO	O
+_	_	_	O
+지니	지니	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+어	어	EC	O
+_	_	_	O
+일명	일명	NNG	O
+_	_	_	O
+'	'	SS	O
+파국	파국	NNG	O
+_	_	_	O
+화산	화산	NNG	O
+'	'	SS	O
+으로	으로	JKB	O
+_	_	_	O
+불린다	불리+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 8
+## 아사히 신문은 이를 근거로 아소산 폭발은 일본 열도를 화산재로 덮을 수 있다고 경고했다.
+## <아사히:ORG> 신문은 이를 근거로 <아소산:LOC> 폭발은 <일본:LOC> 열도를 화산재로 덮을 수 있다고 경고했다.
+아사히	아사히	NNP	B-ORG
+_	_	_	O
+신문	신문	NNG	O
+은	은	JX	O
+_	_	_	O
+이	이	NP	O
+를	를	JKO	O
+_	_	_	O
+근거	근거	NNG	O
+로	로	JKB	O
+_	_	_	O
+아소산	아소산	NNP	B-LOC
+_	_	_	O
+폭발	폭발	NNG	O
+은	은	JX	O
+_	_	_	O
+일본	일본	NNP	B-LOC
+_	_	_	O
+열도	열도	NNG	O
+를	를	JKO	O
+_	_	_	O
+화산재	화산재	NNG	O
+로	로	JKB	O
+_	_	_	O
+덮	덮	VV	O
+을	을	ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+다고	다고	EC	O
+_	_	_	O
+경고	경고하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 미국에서 인턴으로 일하던 중 영어실력이 부족하다고 느낀 그는 한국어와 잠시 ‘이별’하기로 했다.
+## <미국:ORG>에서 인턴으로 일하던 중 영어실력이 부족하다고 느낀 그는 한국어와 잠시 ‘이별’하기로 했다.
+미국	미국	NNP	B-ORG
+에서	에서	JKB	O
+_	_	_	O
+인턴	인턴	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+일하	일하	VV	O
+던	던	ETM	O
+_	_	_	O
+중	중	NNB	O
+_	_	_	O
+영어	영어	NNP	O
+실력	실력	NNG	O
+이	이	JKS	O
+_	_	_	O
+부족하	부족하	VA	O
+다고	다고	EC	O
+_	_	_	O
+느낀	느끼+ㄴ	VV+ETM	O
+_	_	_	O
+그	그	NP	O
+는	는	JX	O
+_	_	_	O
+한국어	한국어	NNP	O
+와	와	JKB	O
+_	_	_	O
+잠시	잠시	MAG	O
+_	_	_	O
+‘	‘	SS	O
+이별	이별	NNG	O
+’	’	SS	O
+하	하	XSV	O
+기	기	ETN	O
+로	로	JKB	O
+_	_	_	O
+했	+였	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 산타루치아 기차역에서 가까운 Ferrovia역 또는 P.le Rome역에서 3번 또는 4.1번, 4.2번 바포레토를 타면 된다.
+## <산타루치아 기차역:LOC>에서 가까운 <Ferrovia역:LOC> 또는 <P.le Rome역:LOC>에서 <3번:NOH> 또는 <4.1번:NOH>, <4.2번:NOH> <바포레토:POH>를 타면 된다.
+산타루치아	산타루치아	NNG	B-LOC
+_	_	_	I-LOC
+기차역	기차역	NNG	I-LOC
+에서	에서	JKB	O
+_	_	_	O
+가까	가깝	VA	O
+운	ㄴ	ETM	O
+_	_	_	O
+Ferrovia	Ferrovia	SL	B-LOC
+역	역	NNG	I-LOC
+_	_	_	O
+또는	또는	MAG	O
+_	_	_	O
+P	P	SL	B-LOC
+.	.	SF	I-LOC
+le	le	SL	I-LOC
+_	_	_	I-LOC
+Rome	Rome	SL	I-LOC
+역	역	NNG	I-LOC
+에서	에서	JKB	O
+_	_	_	O
+3	3	SN	B-NOH
+번	번	NNB	I-NOH
+_	_	_	O
+또는	또는	MAG	O
+_	_	_	O
+4.1	4.1	SN	B-NOH
+번	번	NNB	I-NOH
+,	,	SP	O
+_	_	_	O
+4.2	4.2	SN	B-NOH
+번	번	NNB	I-NOH
+_	_	_	O
+바	바	NNG	B-POH
+포	포	NNG	I-POH
+레토	레토	NNG	I-POH
+를	를	JKO	O
+_	_	_	O
+타	타	VV	O
+면	면	EC	O
+_	_	_	O
+된다	되+ㄴ다	VV+EF	O
+.	.	SF	O
+

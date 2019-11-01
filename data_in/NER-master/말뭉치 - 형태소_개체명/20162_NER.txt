@@ -1,0 +1,343 @@
+## 1
+## 트럼프의 정체도 모르겠고 대응할 지렛대도 마땅찮다면 이 책부터 꼼꼼히 들여다볼 필요가 있어 보인다.
+## <트럼프:PER>의 정체도 모르겠고 대응할 지렛대도 마땅찮다면 이 책부터 꼼꼼히 들여다볼 필요가 있어 보인다.
+트럼프	트럼프	NNG	B-PER
+의	의	JKG	O
+_	_	_	O
+정체	정체	NNG	O
+도	도	JX	O
+_	_	_	O
+모르	모르	VV	O
+겠	겠	EP	O
+고	고	EC	O
+_	_	_	O
+대응할	대응하+ㄹ	VV+ETM	O
+_	_	_	O
+지렛대	지렛대	NNG	O
+도	도	JX	O
+_	_	_	O
+마땅찮	마땅찮	VA	O
+다면	다면	EC	O
+_	_	_	O
+이	이	MM	O
+_	_	_	O
+책	책	NNG	O
+부터	부터	JX	O
+_	_	_	O
+꼼꼼히	꼼꼼히	MAG	O
+_	_	_	O
+들여다볼	들여다보+ㄹ	VV+ETM	O
+_	_	_	O
+필요	필요	NNG	O
+가	가	JKS	O
+_	_	_	O
+있	있	VA	O
+어	어	EC	O
+_	_	_	O
+보인다	보이+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 2
+## [카드뉴스] 사진 23장이 불러낸 야당시절 '청년 김영삼'
+## [<카드뉴스:POH>] 사진 <23장:NOH>이 불러낸 야당시절 '청년 <김영삼:PER>'
+[	[	SS	O
+카드	카드	NNG	B-POH
+뉴스	뉴스	NNG	I-POH
+]	]	SS	O
+_	_	_	O
+사진	사진	NNG	O
+_	_	_	O
+23	23	SN	B-NOH
+장	장	NNB	I-NOH
+이	이	JKS	O
+_	_	_	O
+불러낸	불러내+ㄴ	VV+ETM	O
+_	_	_	O
+야당	야당	NNG	O
+시절	시절	NNG	O
+_	_	_	O
+'	'	SS	O
+청년	청년	NNG	O
+_	_	_	O
+김영삼	김영삼	NNP	B-PER
+'	'	SS	O
+
+## 3
+## 오연서 깜찍 셀카, 미키마우스 머리띠 물오른 미모
+## <오연서:PER> 깜찍 셀카, <미키마우스:PER> 머리띠 물오른 미모
+오연	오연	NNG	B-PER
+서	서	JKB	I-PER
+_	_	_	O
+깜찍	깜찍	NNG	O
+_	_	_	O
+셀카	셀카	NNG	O
+,	,	SP	O
+_	_	_	O
+미키마우스	미키마우스	NNP	B-PER
+_	_	_	O
+머리띠	머리띠	NNG	O
+_	_	_	O
+물오른	물오르+ㄴ	VV+ETM	O
+_	_	_	O
+미모	미모	NNG	O
+
+## 4
+## 북한 선수들은 대회 개막 수일 전에 중국을 경유해 삿포로에 도착할 것으로 알려졌다.
+## <북한:ORG> 선수들은 대회 개막 수일 전에 <중국:ORG>을 경유해 삿포로에 도착할 것으로 알려졌다.
+북한	북한	NNP	B-ORG
+_	_	_	O
+선수	선수	NNG	O
+들	들	XSN	O
+은	은	JX	O
+_	_	_	O
+대회	대회	NNG	O
+_	_	_	O
+개막	개막	NNG	O
+_	_	_	O
+수일	수일	NNG	O
+_	_	_	O
+전	전	NNG	O
+에	에	JKB	O
+_	_	_	O
+중국	중국	NNP	B-ORG
+을	을	JKO	O
+_	_	_	O
+경유해	경유하+여	VV+EC	O
+_	_	_	O
+삿포로	삿포로	NNP	O
+에	에	JKB	O
+_	_	_	O
+도착할	도착하+ㄹ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+알려	알려지	VV	O
+졌	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 죽은 사람도 많아요. 글라이더 개발의 선구자인 오토 릴리엔탈은 새의 날개와 꼬리 모양을 본떠 글라이더를 만들었죠.
+## 죽은 사람도 많아요. 글라이더 개발의 선구자인 <오토 릴리엔탈:PER>은 새의 날개와 꼬리 모양을 본떠 글라이더를 만들었죠.
+죽	죽	VV	O
+은	은	ETM	O
+_	_	_	O
+사람	사람	NNG	O
+도	도	JX	O
+_	_	_	O
+많	많	VA	O
+아요	아요	EF	O
+.	.	SF	O
+_	_	_	O
+글라이더	글라이더	NNG	O
+_	_	_	O
+개발	개발	NNG	O
+의	의	JKG	O
+_	_	_	O
+선구자	선구자	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+오토	오토	NNP	B-PER
+_	_	_	I-PER
+릴리엔탈	릴리엔탈	NNP	I-PER
+은	은	JX	O
+_	_	_	O
+새	새	NNG	O
+의	의	JKG	O
+_	_	_	O
+날개	날개	NNG	O
+와	와	JC	O
+_	_	_	O
+꼬리	꼬리	NNG	O
+_	_	_	O
+모양	모양	NNG	O
+을	을	JKO	O
+_	_	_	O
+본	본뜨	VV	O
+떠	어	EC	O
+_	_	_	O
+글라이더	글라이더	NNG	O
+를	를	JKO	O
+_	_	_	O
+만들	만들	VV	O
+었	었	EP	O
+죠	죠	EF	O
+.	.	SF	O
+
+## 6
+## 조 본부장은 “2006년부터 예산 955억 원을 투입해 독자 기술을 개발했고 2013년 칠레에 1억300만 달러(약 1100억 원) 규모의 플랜트 설비를 수주하는 성과를 거뒀다”고 설명했다.
+## <조:PER> 본부장은 “<2006년:DAT>부터 예산 <955억 원:MNY>을 투입해 독자 기술을 개발했고 <2013년:DAT> <칠레:ORG>에 <1억300만 달러:MNY>(약 <1100억 원:MNY>) 규모의 플랜트 설비를 수주하는 성과를 거뒀다”고 설명했다.
+조	조	NNG	B-PER
+_	_	_	O
+본부	본부	NNG	O
+장	장	XSN	O
+은	은	JX	O
+_	_	_	O
+“	“	SS	O
+2006	2006	SN	B-DAT
+년	년	NNB	I-DAT
+부터	부터	JX	O
+_	_	_	O
+예산	예산	NNG	O
+_	_	_	O
+955	955	SN	B-MNY
+억	억	NR	I-MNY
+_	_	_	I-MNY
+원	원	NNB	I-MNY
+을	을	JKO	O
+_	_	_	O
+투입해	투입하+여	VV+EC	O
+_	_	_	O
+독자	독자	NNG	O
+_	_	_	O
+기술	기술	NNG	O
+을	을	JKO	O
+_	_	_	O
+개발	개발하	VV	O
+했	였	EP	O
+고	고	EC	O
+_	_	_	O
+2013	2013	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+칠레	칠레	NNP	B-ORG
+에	에	JKB	O
+_	_	_	O
+1	1	SN	B-MNY
+억	억	NR	I-MNY
+300	300	SN	I-MNY
+만	만	NR	I-MNY
+_	_	_	I-MNY
+달러	달러	NNB	I-MNY
+(	(	SS	O
+약	약	MM	O
+_	_	_	O
+1100	1100	SN	B-MNY
+억	억	NR	I-MNY
+_	_	_	I-MNY
+원	원	NNB	I-MNY
+)	)	SS	O
+_	_	_	O
+규모	규모	NNG	O
+의	의	JKG	O
+_	_	_	O
+플랜트	플랜트	NNG	O
+_	_	_	O
+설비	설비	NNG	O
+를	를	JKO	O
+_	_	_	O
+수주하	수주하	VV	O
+는	는	ETM	O
+_	_	_	O
+성과	성과	NNG	O
+를	를	JKO	O
+_	_	_	O
+거	거두	VV	O
+뒀	었	EP	O
+다	다	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+설명	설명하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## ‘요리 고수, 인생 고수’ 장선용이 ‘평생의 레시피’를 펴냈다.
+## ‘요리 고수, 인생 고수’ <장선용:PER>이 ‘<평생의 레시피:POH>’를 펴냈다.
+‘	‘	SS	O
+요리	요리	NNG	O
+_	_	_	O
+고수	고수	NNG	O
+,	,	SP	O
+_	_	_	O
+인생	인생	NNG	O
+_	_	_	O
+고수	고수	NNG	O
+’	’	SS	O
+_	_	_	O
+장선용	장선용	NNP	B-PER
+이	이	JKS	O
+_	_	_	O
+‘	‘	SS	O
+평생	평생	NNG	B-POH
+의	의	JKG	I-POH
+_	_	_	I-POH
+레시피	레시피	NNG	I-POH
+’	’	SS	O
+를	를	JKO	O
+_	_	_	O
+펴냈	펴내+었	VV+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 홍 변호사가 이렇게 포탈한 세금은 15억5300만 원에 달하는 것으로 파악됐다.
+## <홍:PER> 변호사가 이렇게 포탈한 세금은 <15억5300만 원:MNY>에 달하는 것으로 파악됐다.
+홍	홍	NNP	B-PER
+_	_	_	O
+변호사	변호사	NNG	O
+가	가	JKS	O
+_	_	_	O
+이렇	이렇	VA	O
+게	게	EC	O
+_	_	_	O
+포탈한	포탈하+ㄴ	VV+ETM	O
+_	_	_	O
+세금	세금	NNG	O
+은	은	JX	O
+_	_	_	O
+15	15	SN	B-MNY
+억	억	NR	I-MNY
+5300	5300	SN	I-MNY
+만	만	NR	I-MNY
+_	_	_	I-MNY
+원	원	NNB	I-MNY
+에	에	JKB	O
+_	_	_	O
+달하	달하	VV	O
+는	는	ETM	O
+_	_	_	O
+것	것	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+파악	파악되	VV	O
+됐	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 이후 노리모토가 2이닝 무실점, 마츠이가 1이닝 무실점으로 한국 타선을 봉쇄했다.
+## 이후 <노리모토:PER>가 <2이닝:NOH> 무실점, <마츠이:PER>가 <1이닝:NOH> 무실점으로 <한국:ORG> 타선을 봉쇄했다.
+이후	이후	NNG	O
+_	_	_	O
+노리모토	노리모토	NNP	B-PER
+가	가	JKS	O
+_	_	_	O
+2	2	SN	B-NOH
+이닝	이닝	NNG	I-NOH
+_	_	_	O
+무실점	무실점	NNG	O
+,	,	SP	O
+_	_	_	O
+마츠이	마츠이	NNP	B-PER
+가	가	JKS	O
+_	_	_	O
+1	1	SN	B-NOH
+이닝	이닝	NNG	I-NOH
+_	_	_	O
+무실점	무실점	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+한국	한국	NNP	B-ORG
+_	_	_	O
+타선	타선	NNG	O
+을	을	JKO	O
+_	_	_	O
+봉쇄	봉쇄하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+

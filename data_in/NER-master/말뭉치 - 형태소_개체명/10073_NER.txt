@@ -1,0 +1,438 @@
+## 1
+## 수리와 모나는 철갑기계들과 함께 뛰었다.
+## <수리:PER>와 <모나:PER>는 철갑기계들과 함께 뛰었다.
+수리	수리	NNG	B-PER
+와	와	JC	O
+_	_	_	O
+모나	모나	NNP	B-PER
+는	는	JX	O
+_	_	_	O
+철갑	철갑	NNG	O
+기계	기계	NNG	O
+들	들	XSN	O
+과	과	JKB	O
+_	_	_	O
+함께	함께	MAG	O
+_	_	_	O
+뛰	뛰	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## “그런데 어디로 나가?”모나가 수리에게 물었다.
+## “그런데 어디로 나가?”<모나:PER>가 <수리:PER>에게 물었다.
+“	“	SS	O
+그런데	그런데	MAJ	O
+_	_	_	O
+어디	어디	NP	O
+로	로	JKB	O
+_	_	_	O
+나가	나가+아	VV+EF	O
+?	?	SF	O
+”	”	SS	O
+모나	모나	NNP	B-PER
+가	가	JKS	O
+_	_	_	O
+수리	수리	NNG	B-PER
+에게	에게	JKB	O
+_	_	_	O
+물	묻	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## “아메티스트! 어디야?”수리가 불렀다.
+## “<아메티스트:LOC>! 어디야?”<수리:PER>가 불렀다.
+“	“	SS	O
+아메티	아메티	NNP	B-LOC
+스트	스트	NNG	I-LOC
+!	!	SF	O
+_	_	_	O
+어디	어디+이	NP+VCP	O
+야	야	EF	O
+?	?	SF	O
+”	”	SS	O
+수리	수리	NNG	B-PER
+가	가	JKS	O
+_	_	_	O
+불	부르	VV	O
+렀	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 서울시 적정 택시 총량은 6만여 대다.
+## <서울시:ORG> 적정 택시 총량은 <6만여 대:NOH>다.
+서울시	서울시	NNP	B-ORG
+_	_	_	O
+적정	적정	NNG	O
+_	_	_	O
+택시	택시	NNG	O
+_	_	_	O
+총량	총량	NNG	O
+은	은	JX	O
+_	_	_	O
+6	6	SN	B-NOH
+만	만	NR	I-NOH
+여	여	XSN	I-NOH
+_	_	_	I-NOH
+대	대	VV	I-NOH
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 운행 중인 택시는 약 7만여 대다.
+## 운행 중인 택시는 약 <7만여 대:NOH>다.
+운행	운행	NNG	O
+_	_	_	O
+중	중	NNB	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+택시	택시	NNG	O
+는	는	JX	O
+_	_	_	O
+약	약	MM	O
+_	_	_	O
+7	7	SN	B-NOH
+만	만	NR	I-NOH
+여	여	XSN	I-NOH
+_	_	_	I-NOH
+대	대	VV	I-NOH
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 직선 400m를 경주해 순위를 정한다.
+## 직선 <400m:NOH>를 경주해 순위를 정한다.
+직선	직선	NNG	O
+_	_	_	O
+400	400	SN	B-NOH
+m	m	SL	I-NOH
+를	를	JKO	O
+_	_	_	O
+경주해	경주하+여	VV+EC	O
+_	_	_	O
+순위	순위	NNG	O
+를	를	JKO	O
+_	_	_	O
+정한다	정하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 7
+## 월남전에 참전했다는 김정명씨와 간첩혐의로 끌려왔다는 서울출신 장덕, 서정복씨, 일본으로 밀항했다가 다시 북한으로 들어온 김영원, 강덕현씨 가족등이 있었다.
+## <월남전:POH>에 참전했다는 <김정명:PER>씨와 간첩혐의로 끌려왔다는 <서울:LOC>출신 <장덕:PER>, <서정복:PER>씨, <일본:ORG>으로 밀항했다가 다시 <북한:ORG>으로 들어온 <김영원:PER>, <강덕현:PER>씨 가족등이 있었다.
+월남	월남	NNP	B-POH
+전	전	XSN	I-POH
+에	에	JKB	O
+_	_	_	O
+참전	참전하	VV	O
+했	었	EP	O
+다는	다는	ETM	O
+_	_	_	O
+김정명	김정명	NNP	B-PER
+씨	씨	NNB	O
+와	와	JC	O
+_	_	_	O
+간첩	간첩	NNG	O
+혐의	혐의	NNG	O
+로	로	JKB	O
+_	_	_	O
+끌려	끌려오	VV	O
+왔	았	EP	O
+다는	다는	ETM	O
+_	_	_	O
+서울	서울	NNP	B-LOC
+출신	출신	NNG	O
+_	_	_	O
+장덕	장덕	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+서정복	서정복	NNP	B-PER
+씨	씨	NNB	O
+,	,	SP	O
+_	_	_	O
+일본	일본	NNP	B-ORG
+으로	으로	JKB	O
+_	_	_	O
+밀항	밀항하	VV	O
+했	였	EP	O
+다가	다가	EC	O
+_	_	_	O
+다시	다시	MAG	O
+_	_	_	O
+북한	북한	NNP	B-ORG
+으로	으로	JKB	O
+_	_	_	O
+들어온	들어오+ㄴ	VV+ETM	O
+_	_	_	O
+김	김	NNP	B-PER
+영원	영원	NNG	I-PER
+,	,	SP	O
+_	_	_	O
+강덕현	강덕현	NNP	B-PER
+씨	씨	NNB	O
+_	_	_	O
+가족	가족	NNG	O
+등	등	NNB	O
+이	이	JKS	O
+_	_	_	O
+있	있	VA	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 21%에 불과한 호남이 주목받는 것은 야권의 텃밭인 데다
+## <21%:PNT>에 불과한 <호남:LOC>이 주목받는 것은 야권의 텃밭인 데다
+21	21	SN	B-PNT
+%	%	SW	I-PNT
+에	에	JKB	O
+_	_	_	O
+불과한	불과하+ㄴ	VA+ETM	O
+_	_	_	O
+호남	호남	NNP	B-LOC
+이	이	JKS	O
+_	_	_	O
+주목	주목	NNG	O
+받	받	VV	O
+는	는	ETM	O
+_	_	_	O
+것	것	NNB	O
+은	은	JX	O
+_	_	_	O
+야권	야권	NNG	O
+의	의	JKG	O
+_	_	_	O
+텃밭	텃밭	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+데	데	NNB	O
+다	다	JX	O
+
+## 9
+## 1992년 평화은행 인가 이후 24년 만에 다시 은행 인가가 난 것이다.
+## <1992년:DAT> 평화은행 인가 이후 <24년:NOH> 만에 다시 은행 인가가 난 것이다.
+1992	1992	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+평화	평화	NNG	O
+은행	은행	NNG	O
+_	_	_	O
+인가	인가	NNG	O
+_	_	_	O
+이후	이후	NNG	O
+_	_	_	O
+24	24	SN	B-NOH
+년	년	NNB	I-NOH
+_	_	_	O
+만	만	NNB	O
+에	에	JKB	O
+_	_	_	O
+다시	다시	MAG	O
+_	_	_	O
+은행	은행	NNG	O
+_	_	_	O
+인가	인가	NNG	O
+가	가	JKS	O
+_	_	_	O
+난	나+ㄴ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 신임 사외이사는 한승수 전 국무총리, 윤증현 전 기획재정부 장관, 박병원 전 대통령 경제수석 비서관, 김대기 전 대통령실정책실장으로 모두 고위 관료 출신이다.
+## 신임 사외이사는 <한승수:PER> 전 국무총리, <윤증현:PER> 전 <기획재정부:ORG> 장관, <박병원:PER> 전 대통령 경제수석 비서관, <김대기:PER> 전 대통령실정책실장으로 모두 고위 관료 출신이다.
+신임	신임	NNG	O
+_	_	_	O
+사외	사외	NNG	O
+이사	이사	NNG	O
+는	는	JX	O
+_	_	_	O
+한승수	한승수	NNP	B-PER
+_	_	_	O
+전	전	MM	O
+_	_	_	O
+국무총리	국무총리	NNG	O
+,	,	SP	O
+_	_	_	O
+윤증현	윤증현	NNP	B-PER
+_	_	_	O
+전	전	MM	O
+_	_	_	O
+기획	기획	NNG	B-ORG
+재정부	재정부	NNG	I-ORG
+_	_	_	O
+장관	장관	NNG	O
+,	,	SP	O
+_	_	_	O
+박	박	NNP	B-PER
+병원	병원	NNG	I-PER
+_	_	_	O
+전	전	MM	O
+_	_	_	O
+대통령	대통령	NNG	O
+_	_	_	O
+경제	경제	NNG	O
+수석	수석	NNG	O
+_	_	_	O
+비서관	비서관	NNG	O
+,	,	SP	O
+_	_	_	O
+김대기	김대기	NNP	B-PER
+_	_	_	O
+전	전	MM	O
+_	_	_	O
+대통령	대통령	NNG	O
+실	실	XSN	O
+정책	정책	NNG	O
+실장	실장	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+모두	모두	MAG	O
+_	_	_	O
+고위	고위	NNG	O
+_	_	_	O
+관료	관료	NNG	O
+_	_	_	O
+출신	출신	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 이대호 홈런, 11호 홈런… '빅보이'가 완벽하게 돌아왔다
+## <이대호:PER> 홈런, <11호:NOH> 홈런… '빅보이'가 완벽하게 돌아왔다
+이대호	이대호	NNP	B-PER
+_	_	_	O
+홈런	홈런	NNG	O
+,	,	SP	O
+_	_	_	O
+11	11	SN	B-NOH
+호	호	NNB	I-NOH
+_	_	_	O
+홈런	홈런	NNG	O
+…	…	SE	O
+_	_	_	O
+'	'	SS	O
+빅	빅	NNG	O
+보이	보이	NNG	O
+'	'	SS	O
+가	가	JKS	O
+_	_	_	O
+완벽하	완벽하	VA	O
+게	게	EC	O
+_	_	_	O
+돌아	돌아오	VV	O
+왔	았	EP	O
+다	다	EF	O
+
+## 12
+## 이에 ‘라디오스타’ MC들은 “초능력을 보여달라”고 요구했다.
+## 이에 ‘<라디오스타:POH>’ MC들은 “초능력을 보여달라”고 요구했다.
+이	이	NP	O
+에	에	JKB	O
+_	_	_	O
+‘	‘	SS	O
+라디오스타	라디오스타	NNP	B-POH
+’	’	SS	O
+_	_	_	O
+MC	MC	SL	O
+들	들	XSN	O
+은	은	JX	O
+_	_	_	O
+“	“	SS	O
+초능력	초능력	NNG	O
+을	을	JKO	O
+_	_	_	O
+보	보이	VV	O
+여	어	EC	O
+달	달	VX	O
+라	라	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+요구	요구하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## 특히 중남미 핵심 좌파 국가인 볼리비아의 다비드 초께우앙까 쎄스뻬데스 외교장관과 만나 북핵 문제 해결을 위한 지지를 당부했다.
+## 특히 <중남미:LOC> 핵심 좌파 국가인 <볼리비아:ORG>의 <다비드 초께우앙까 쎄스뻬데스:PER> 외교장관과 만나 북핵 문제 해결을 위한 지지를 당부했다.
+특히	특히	MAG	O
+_	_	_	O
+중남미	중남미	NNP	B-LOC
+_	_	_	O
+핵심	핵심	NNG	O
+_	_	_	O
+좌파	좌파	NNG	O
+_	_	_	O
+국가	국가	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+볼리비아	볼리비아	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+다비드	다비드	NNP	B-PER
+_	_	_	I-PER
+초	초	NNB	I-PER
+께	께	XSN	I-PER
+우	우	NNG	I-PER
+앙	앙	IC	I-PER
+까	까	NNG	I-PER
+_	_	_	I-PER
+쎄스뻬데스	쎄스뻬데스	NNG	I-PER
+_	_	_	O
+외교	외교	NNG	O
+장관	장관	NNG	O
+과	과	JKB	O
+_	_	_	O
+만나	만나+아	VV+EC	O
+_	_	_	O
+북	북	NNP	O
+핵	핵	NNG	O
+_	_	_	O
+문제	문제	NNG	O
+_	_	_	O
+해결	해결	NNG	O
+을	을	JKO	O
+_	_	_	O
+위한	위하+ㄴ	VV+ETM	O
+_	_	_	O
+지지	지지	NNG	O
+를	를	JKO	O
+_	_	_	O
+당부	당부하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 14
+## [간추린 뉴스/ 단신]본도시락, 모바일 상품권 50% 할인
+## [간추린 뉴스/ 단신]본도시락, 모바일 상품권 <50%:PNT> 할인
+[	[	SS	O
+간추린	간추리+ㄴ	VV+ETM	O
+_	_	_	O
+뉴스	뉴스	NNG	O
+/	/	SP	O
+_	_	_	O
+단신	단신	NNG	O
+]	]	SS	O
+본도	본도	NNG	O
+시락	시락	NNP	O
+,	,	SP	O
+_	_	_	O
+모바일	모바일	NNG	O
+_	_	_	O
+상품권	상품권	NNG	O
+_	_	_	O
+50	50	SN	B-PNT
+%	%	SW	I-PNT
+_	_	_	O
+할인	할인	NNG	O
+

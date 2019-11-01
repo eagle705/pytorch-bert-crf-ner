@@ -1,0 +1,513 @@
+## 1
+## 북한산 둘레길 21구간인 우이령길은 우이동에서 양주 교현리까지 이어지는 길로, 전체 구간이 완만해 어린이나 노인도 큰 어려움 없이 산책할 수 있으나 하루 1000명으로 탐방 인원을 제한하고 있다.
+## <북한산 둘레길:LOC> <21구간:NOH>인 <우이령길:LOC>은 <우이동:LOC>에서 <양주 교현리:LOC>까지 이어지는 길로, 전체 구간이 완만해 어린이나 노인도 큰 어려움 없이 산책할 수 있으나 하루 <1000명:NOH>으로 탐방 인원을 제한하고 있다.
+북한산	북한산	NNP	B-LOC
+_	_	_	I-LOC
+둘레	둘레	NNG	I-LOC
+길	길	NNG	I-LOC
+_	_	_	O
+21	21	SN	B-NOH
+구간	구간	NNG	I-NOH
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+우이령	우이령	NNP	B-LOC
+길	길	NNG	I-LOC
+은	은	JX	O
+_	_	_	O
+우이동	우이동	NNP	B-LOC
+에서	에서	JKB	O
+_	_	_	O
+양주	양주	NNP	B-LOC
+_	_	_	I-LOC
+교현리	교현리	NNP	I-LOC
+까지	까지	JX	O
+_	_	_	O
+이어지	이어지	VV	O
+는	는	ETM	O
+_	_	_	O
+길	길	NNG	O
+로	로	JKB	O
+,	,	SP	O
+_	_	_	O
+전체	전체	NNG	O
+_	_	_	O
+구간	구간	NNG	O
+이	이	JKS	O
+_	_	_	O
+완만해	완만하+여	VA+EC	O
+_	_	_	O
+어린이	어린이	NNG	O
+나	나	JC	O
+_	_	_	O
+노인	노인	NNG	O
+도	도	JX	O
+_	_	_	O
+큰	크+ㄴ	VA+ETM	O
+_	_	_	O
+어려움	어려움	NNG	O
+_	_	_	O
+없이	없이	MAG	O
+_	_	_	O
+산책할	산책하+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+으나	으나	EC	O
+_	_	_	O
+하루	하루	NNG	O
+_	_	_	O
+1000	1000	SN	B-NOH
+명	명	NNB	I-NOH
+으로	으로	JKB	O
+_	_	_	O
+탐방	탐방	MAG	O
+_	_	_	O
+인원	인원	NNG	O
+을	을	JKO	O
+_	_	_	O
+제한하	제한하	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 한국은 지난 2일 슬로베니아를 5-1로 대파했고 지난 3일 영국을 3-1로 꺾은데 이어 3연승을 달렸다.
+## <한국:ORG>은 지난 <2일:DAT> <슬로베니아:ORG>를 <5-1:NOH>로 대파했고 지난 <3일:DAT> <영국:ORG>을 <3-1:NOH>로 꺾은데 이어 <3연승:NOH>을 달렸다.
+한국	한국	NNP	B-ORG
+은	은	JX	O
+_	_	_	O
+지난	지나+ㄴ	VV+ETM	O
+_	_	_	O
+2	2	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+슬로베니아	슬로베니아	NNP	B-ORG
+를	를	JKO	O
+_	_	_	O
+5	5	SN	B-NOH
+-	-	SO	I-NOH
+1	1	SN	I-NOH
+로	로	JKB	O
+_	_	_	O
+대파	대파하	VV	O
+했	었	EP	O
+고	고	EC	O
+_	_	_	O
+지난	지나+ㄴ	VV+ETM	O
+_	_	_	O
+3	3	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+영국	영국	NNP	B-ORG
+을	을	JKO	O
+_	_	_	O
+3	3	SN	B-NOH
+-	-	SO	I-NOH
+1	1	SN	I-NOH
+로	로	JKB	O
+_	_	_	O
+꺾	꺾	VV	O
+은데	은데	EC	O
+_	_	_	O
+이	잇	VV	O
+어	어	EC	O
+_	_	_	O
+3	3	SN	B-NOH
+연승	연승	NNG	I-NOH
+을	을	JKO	O
+_	_	_	O
+달	달리	VV	O
+렸	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## △뽀로로 극장판 컴퓨터 왕국 대모험=뽀로로와 크롱이 ‘황금날개 대모험’ 게임 속으로 들어간다.
+## △<뽀로로:PER> 극장판 <컴퓨터 왕국 대모험:POH>=<뽀로로:PER>와 <크롱:PER>이 ‘<황금날개 대모험:POH>’ 게임 속으로 들어간다.
+△	△	SW	O
+뽀로로	뽀로로	NNP	B-PER
+_	_	_	O
+극장	극장	NNG	O
+판	판	XSN	O
+_	_	_	O
+컴퓨터	컴퓨터	NNG	B-POH
+_	_	_	I-POH
+왕국	왕국	NNG	I-POH
+_	_	_	I-POH
+대	대	XPN	I-POH
+모험	모험	NNG	I-POH
+=	=	SW	O
+뽀로로	뽀로로	NNP	B-PER
+와	와	JC	O
+_	_	_	O
+크롱	크롱	NNP	B-PER
+이	이	JKS	O
+_	_	_	O
+‘	‘	SS	O
+황금	황금	NNG	B-POH
+날개	날개	NNG	I-POH
+_	_	_	I-POH
+대	대	XPN	I-POH
+모험	모험	NNG	I-POH
+’	’	SS	O
+_	_	_	O
+게임	게임	NNG	O
+_	_	_	O
+속	속	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+들어간다	들어가+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 4
+## 사측 역시 진행 중인 소송이 개인별로 각기 달라 소송에만 의존하면 최종 결과까지 수년이 걸릴 것으로 보고 조기 해결에 나섰다.
+## 사측 역시 진행 중인 소송이 개인별로 각기 달라 소송에만 의존하면 최종 결과까지 <수년:NOH>이 걸릴 것으로 보고 조기 해결에 나섰다.
+사	사	NNG	O
+측	측	NNB	O
+_	_	_	O
+역시	역시	MAG	O
+_	_	_	O
+진행	진행	NNG	O
+_	_	_	O
+중	중	NNB	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+소송	소송	NNG	O
+이	이	JKS	O
+_	_	_	O
+개인별	개인별	NNG	O
+로	로	JKB	O
+_	_	_	O
+각기	각기	MAG	O
+_	_	_	O
+달	다르	VA	O
+라	아	EC	O
+_	_	_	O
+소송	소송	NNG	O
+에	에	JKB	O
+만	만	JX	O
+_	_	_	O
+의존하	의존하	VV	O
+면	면	EC	O
+_	_	_	O
+최종	최종	NNG	O
+_	_	_	O
+결과	결과	NNG	O
+까지	까지	JX	O
+_	_	_	O
+수년	수년	NNG	B-NOH
+이	이	JKS	O
+_	_	_	O
+걸릴	걸리+ㄹ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+보	보	VV	O
+고	고	EC	O
+_	_	_	O
+조기	조기	NNG	O
+_	_	_	O
+해결	해결	NNG	O
+에	에	JKB	O
+_	_	_	O
+나섰	나서+었	VV+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 최근 3년간 46명이나 탈북했다.
+## 최근 <3년간:DUR> <46명:NOH>이나 탈북했다.
+최근	최근	NNG	O
+_	_	_	O
+3	3	SN	B-DUR
+년	년	NNB	I-DUR
+간	간	XSN	I-DUR
+_	_	_	O
+46	46	SN	B-NOH
+명	명	NNB	I-NOH
+이나	이나	JC	O
+_	_	_	O
+탈	탈	XPN	O
+북	북	NNP	O
+했	하+였	VV+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## ‘너의 목소리가 보여’ 황치열, 과거 모습 공개… “용 됐네!”
+## ‘<너의 목소리가 보여:POH>’ <황치열:PER>, 과거 모습 공개… “용 됐네!”
+‘	‘	SS	O
+너	너	NP	B-POH
+의	의	JKG	I-POH
+_	_	_	I-POH
+목소리	목소리	NNG	I-POH
+가	가	JKS	I-POH
+_	_	_	I-POH
+보	보이	VV	I-POH
+여	어	EF	I-POH
+’	’	SS	O
+_	_	_	O
+황치열	황치열	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+과거	과거	NNG	O
+_	_	_	O
+모습	모습	NNG	O
+_	_	_	O
+공개	공개	NNG	O
+…	…	SE	O
+_	_	_	O
+“	“	SS	O
+용	용	NNG	O
+_	_	_	O
+됐	+었	+EP	O
+네	네	EF	O
+!	!	SF	O
+”	”	SS	O
+
+## 7
+## 미국 법원은 9일 추가 심리를 열고 파산보호 승인 여부를 결정할 예정이다.
+## <미국 법원:ORG>은 <9일:DAT> 추가 심리를 열고 파산보호 승인 여부를 결정할 예정이다.
+미국	미국	NNP	B-ORG
+_	_	_	I-ORG
+법원	법원	NNG	I-ORG
+은	은	JX	O
+_	_	_	O
+9	9	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+추가	추가	NNG	O
+_	_	_	O
+심리	심리	NNG	O
+를	를	JKO	O
+_	_	_	O
+열	열	VV	O
+고	고	EC	O
+_	_	_	O
+파산	파산	NNG	O
+보호	보호	NNG	O
+_	_	_	O
+승인	승인	NNG	O
+_	_	_	O
+여부	여부	NNG	O
+를	를	JKO	O
+_	_	_	O
+결정할	결정하+ㄹ	VV+ETM	O
+_	_	_	O
+예정	예정	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 그동안 수원시는 정조가 아버지 사도세자의 묘소인 현륭원을 참배했던 을묘원행을 부분적으로 재현해왔다.
+## 그동안 <수원시:ORG>는 <정조:PER>가 아버지 <사도세자:PER>의 묘소인 <현륭원:LOC>을 참배했던 <을묘원행:POH>을 부분적으로 재현해왔다.
+그동안	그동안	NNG	O
+_	_	_	O
+수원시	수원시	NNP	B-ORG
+는	는	JX	O
+_	_	_	O
+정조	정조	NNP	B-PER
+가	가	JKS	O
+_	_	_	O
+아버지	아버지	NNG	O
+_	_	_	O
+사도세자	사도세자	NNP	B-PER
+의	의	JKG	O
+_	_	_	O
+묘소	묘소	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+현륭원	현륭원	NNP	B-LOC
+을	을	JKO	O
+_	_	_	O
+참배	참배하	VV	O
+했	였	EP	O
+던	던	ETM	O
+_	_	_	O
+을묘	을묘	NNG	B-POH
+원행	원행	NNG	I-POH
+을	을	JKO	O
+_	_	_	O
+부분적	부분적	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+재현해	재현하+여+오	VV+EC+VX	O
+왔	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 18일 낮 2시 15분 EBS 일요시네마 아메리칸 퀼트(1997)가 전파를 탔다.
+## <18일:DAT> <낮 2시 15분:TIM> <EBS 일요시네마:POH> <아메리칸 퀼트:POH>(<1997:DAT>)가 전파를 탔다.
+18	18	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+낮	낮	NNG	B-TIM
+_	_	_	I-TIM
+2	2	SN	I-TIM
+시	시	NNB	I-TIM
+_	_	_	I-TIM
+15	15	SN	I-TIM
+분	분	NNB	I-TIM
+_	_	_	O
+EBS	EBS	SL	B-POH
+_	_	_	I-POH
+일요	일요	NNG	I-POH
+시네마	시네마	NNG	I-POH
+_	_	_	O
+아메리칸	아메리칸	NNG	B-POH
+_	_	_	I-POH
+퀼트	퀼트	NNG	I-POH
+(	(	SS	O
+1997	1997	SN	B-DAT
+)	)	SS	O
+가	가	JKS	O
+_	_	_	O
+전파	전파	NNG	O
+를	를	JKO	O
+_	_	_	O
+탔	타+았	VV+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 구조조정 ‘실탄’ 최소 7조…대우조선엔 수조원 더 든다
+## 구조조정 ‘실탄’ 최소 <7조:MNY>…<대우조선:ORG>엔 <수조원:MNY> 더 든다
+구조	구조	NNG	O
+조정	조정	NNG	O
+_	_	_	O
+‘	‘	SS	O
+실탄	실탄	NNG	O
+’	’	SS	O
+_	_	_	O
+최소	최소	NNG	O
+_	_	_	O
+7	7	SN	B-MNY
+조	조	NNG	I-MNY
+…	…	SE	O
+대우조선	대우조선	NNP	B-ORG
+엔	에+ㄴ	JKB+JX	O
+_	_	_	O
+수조	수조	NR	B-MNY
+원	원	NNB	I-MNY
+_	_	_	O
+더	더	MAG	O
+_	_	_	O
+든다	들+ㄴ다	VV+EF	O
+
+## 11
+## 히라마사처럼 혼자 사는 데 익숙해져 결혼이라는 변화를 피하려는 사람들을 뜻한다.
+## <히라마사:PER>처럼 혼자 사는 데 익숙해져 결혼이라는 변화를 피하려는 사람들을 뜻한다.
+히	히	NNG	B-PER
+라마	라마	NNG	I-PER
+사	사	XSN	I-PER
+처럼	처럼	JKB	O
+_	_	_	O
+혼자	혼자	NNG	O
+_	_	_	O
+사	살	VV	O
+는	는	ETM	O
+_	_	_	O
+데	데	NNB	O
+_	_	_	O
+익숙해	익숙하+여	VA+EC	O
+져	지+어	VX+EC	O
+_	_	_	O
+결혼	결혼	NNG	O
+이	이	VCP	O
+라는	라는	ETM	O
+_	_	_	O
+변화	변화	NNG	O
+를	를	JKO	O
+_	_	_	O
+피하	피하	VV	O
+려는	려는	ETM	O
+_	_	_	O
+사람	사람	NNG	O
+들	들	XSN	O
+을	을	JKO	O
+_	_	_	O
+뜻한다	뜻하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 12
+## ‘마이리틀텔레비전’ 초아, 누드톤 착시 화보 ‘깜짝이야’
+## ‘<마이리틀텔레비전:POH>’ <초아:PER>, 누드톤 착시 화보 ‘깜짝이야’
+‘	‘	SS	O
+마이	마이	NNG	B-POH
+리틀	리틀	NNG	I-POH
+텔레비전	텔레비전	NNG	I-POH
+’	’	SS	O
+_	_	_	O
+초아	초아	NNG	B-PER
+,	,	SP	O
+_	_	_	O
+누드	누드	NNG	O
+톤	톤	NNB	O
+_	_	_	O
+착시	착시	NNG	O
+_	_	_	O
+화보	화보	NNG	O
+_	_	_	O
+‘	‘	SS	O
+깜짝	깜짝	MAG	O
+이	이	VCP	O
+야	야	EF	O
+’	’	SS	O
+
+## 13
+## 백두대간이나 금강송, 송이가 나는 산, 불국사 등 경주지역 문화재 주변 아름드리 소나무 등을 일반 야산에 앞서 집중 방제해야 한다.
+## <백두대간:LOC>이나 <금강송:POH>, 송이가 나는 산, <불국사:LOC> 등 <경주:LOC>지역 문화재 주변 아름드리 소나무 등을 일반 야산에 앞서 집중 방제해야 한다.
+백두대간	백두대간	NNG	B-LOC
+이나	이나	JC	O
+_	_	_	O
+금강	금강	NNP	B-POH
+송	송	NNG	I-POH
+,	,	SP	O
+_	_	_	O
+송이	송이	NNG	O
+가	가	JKS	O
+_	_	_	O
+나	나	VV	O
+는	는	ETM	O
+_	_	_	O
+산	산	NNG	O
+,	,	SP	O
+_	_	_	O
+불국사	불국사	NNP	B-LOC
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+경주	경주	NNP	B-LOC
+지역	지역	NNG	O
+_	_	_	O
+문화재	문화재	NNG	O
+_	_	_	O
+주변	주변	NNG	O
+_	_	_	O
+아름드리	아름드리	NNG	O
+_	_	_	O
+소나무	소나무	NNG	O
+_	_	_	O
+등	등	NNB	O
+을	을	JKO	O
+_	_	_	O
+일반	일반	NNG	O
+_	_	_	O
+야산	야산	NNG	O
+에	에	JKB	O
+_	_	_	O
+앞서	앞서+어	VV+EC	O
+_	_	_	O
+집중	집중	NNG	O
+_	_	_	O
+방제해야	방제하+여야	VV+EC	O
+_	_	_	O
+한다	하+ㄴ다	VX+EF	O
+.	.	SF	O
+

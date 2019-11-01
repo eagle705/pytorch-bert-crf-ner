@@ -1,0 +1,443 @@
+## 1
+## BHA는 112년 전통을 가진 캐나다 명문 사립학교의 자매학교다.
+## <BHA:ORG>는 <112년:DAT> 전통을 가진 <캐나다:ORG> 명문 사립학교의 자매학교다.
+BHA	BHA	SL	B-ORG
+는	는	JX	O
+_	_	_	O
+112	112	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+전통	전통	NNG	O
+을	을	JKO	O
+_	_	_	O
+가진	가지+ㄴ	VV+ETM	O
+_	_	_	O
+캐나다	캐나다	NNP	B-ORG
+_	_	_	O
+명문	명문	NNG	O
+_	_	_	O
+사립	사립	NNG	O
+학교	학교	NNG	O
+의	의	JKG	O
+_	_	_	O
+자매	자매	NNG	O
+학교	학교	NNG	O
+다	다	NNG	O
+.	.	SF	O
+
+## 2
+## 효과가 더 좋은 방법은 다리를 쭉 편 채, 가위처럼 두 발을 엇갈리게 하는 것이다.
+## 효과가 더 좋은 방법은 다리를 쭉 편 채, 가위처럼 <두:NOH> 발을 엇갈리게 하는 것이다.
+효과	효과	NNG	O
+가	가	JKS	O
+_	_	_	O
+더	더	MAG	O
+_	_	_	O
+좋	좋	VA	O
+은	은	ETM	O
+_	_	_	O
+방법	방법	NNG	O
+은	은	JX	O
+_	_	_	O
+다리	다리	NNG	O
+를	를	JKO	O
+_	_	_	O
+쭉	쭉	MAG	O
+_	_	_	O
+편	펴+ㄴ	VV+ETM	O
+_	_	_	O
+채	채	NNB	O
+,	,	SP	O
+_	_	_	O
+가위	가위	NNG	O
+처럼	처럼	JKB	O
+_	_	_	O
+두	두	MM	B-NOH
+_	_	_	O
+발	발	NNG	O
+을	을	JKO	O
+_	_	_	O
+엇갈리	엇갈리	VV	O
+게	게	EC	O
+_	_	_	O
+하	하	VX	O
+는	는	ETM	O
+_	_	_	O
+것	것	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 주변에는 10여만명의 구경꾼이 운집했다던데 텔레비전을 통해 전국에서 수백만, 온세상에서 수천만명이 지켜보았을 대단한 구경거리였다.
+## 주변에는 <10여만명:NOH>의 구경꾼이 운집했다던데 텔레비전을 통해 전국에서 <수백만:NOH>, 온세상에서 <수천만명:NOH>이 지켜보았을 대단한 구경거리였다.
+주변	주변	NNG	O
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+10	10	SN	B-NOH
+여	여	XSN	I-NOH
+만	만	NR	I-NOH
+명	명	NNB	I-NOH
+의	의	JKG	O
+_	_	_	O
+구경꾼	구경꾼	NNG	O
+이	이	JKS	O
+_	_	_	O
+운집	운집하	VV	O
+했	였	EP	O
+다던데	다던데	EC	O
+_	_	_	O
+텔레비전	텔레비전	NNG	O
+을	을	JKO	O
+_	_	_	O
+통해	통하+여	VV+EC	O
+_	_	_	O
+전국	전국	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+수백	수백	NR	B-NOH
+만	만	JX	I-NOH
+,	,	SP	O
+_	_	_	O
+온	온	MM	O
+세상	세상	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+수천만	수천만	NR	B-NOH
+명	명	NNB	I-NOH
+이	이	JKS	O
+_	_	_	O
+지켜보	지켜보	VV	O
+았	았	EP	O
+을	을	ETM	O
+_	_	_	O
+대단한	대단하+ㄴ	VA+ETM	O
+_	_	_	O
+구경거리	구경거리+이	NNG+VCP	O
+였	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 슈가볼, 새앨범 ‘유어스’ 발표
+## <슈가볼:ORG>, 새앨범 ‘<유어스:POH>’ 발표
+슈가	슈가	NNG	B-ORG
+볼	보+ㄹ	VV+ETM	I-ORG
+,	,	SP	O
+_	_	_	O
+새	새	MM	O
+앨범	앨범	NNG	O
+_	_	_	O
+‘	‘	SS	O
+유어스	유어스	NNP	B-POH
+’	’	SS	O
+_	_	_	O
+발표	발표	NNG	O
+
+## 5
+## 국내 지진은 관측이 시작된 1978년 이후 계속 증가 추세다.
+## 국내 지진은 관측이 시작된 <1978년:DAT> 이후 계속 증가 추세다.
+국내	국내	NNG	O
+_	_	_	O
+지진	지진	NNG	O
+은	은	JX	O
+_	_	_	O
+관측	관측	NNG	O
+이	이	JKS	O
+_	_	_	O
+시작된	시작되+ㄴ	VV+ETM	O
+_	_	_	O
+1978	1978	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+이후	이후	NNG	O
+_	_	_	O
+계속	계속	MAG	O
+_	_	_	O
+증가	증가	NNG	O
+_	_	_	O
+추세	추세+이	NNG+VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 이 지역에서 중동호흡기증후군(MERS·메르스) 확진자가 집중 발생하면서 벌어진 일이다.
+## 이 지역에서 <중동호흡기증후군:POH>(<MERS:POH>·<메르스:POH>) 확진자가 집중 발생하면서 벌어진 일이다.
+이	이	MM	O
+_	_	_	O
+지역	지역	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+중동	중동	NNP	B-POH
+호흡기	호흡기	NNG	I-POH
+증후군	증후군	NNG	I-POH
+(	(	SS	O
+MERS	MERS	SL	B-POH
+·	·	SP	O
+메르스	메르스	NNG	B-POH
+)	)	SS	O
+_	_	_	O
+확진	확진	NNG	O
+자	자	XSN	O
+가	가	JKS	O
+_	_	_	O
+집중	집중	NNG	O
+_	_	_	O
+발생하	발생하	VV	O
+면서	면서	EC	O
+_	_	_	O
+벌어진	벌어지+ㄴ	VV+ETM	O
+_	_	_	O
+일	일	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 매그넘 797은 오는 2018년 12월 준공 예정이며, 자금관리는 하나자산신탁이 맡았다.
+## <매그넘 797:LOC>은 오는 <2018년 12월:DAT> 준공 예정이며, 자금관리는 <하나자산신탁:ORG>이 맡았다.
+매그넘	매그넘	NNG	B-LOC
+_	_	_	I-LOC
+797	797	SN	I-LOC
+은	은	JX	O
+_	_	_	O
+오	오	VV	O
+는	는	ETM	O
+_	_	_	O
+2018	2018	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	I-DAT
+12	12	SN	I-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+준공	준공	NNG	O
+_	_	_	O
+예정	예정	NNG	O
+이	이	VCP	O
+며	며	EC	O
+,	,	SP	O
+_	_	_	O
+자금	자금	NNG	O
+관리	관리	NNG	O
+는	는	JX	O
+_	_	_	O
+하나	하나	NNG	B-ORG
+자산	자산	NNG	I-ORG
+신탁	신탁	NNG	I-ORG
+이	이	JKS	O
+_	_	_	O
+맡	맡	VV	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 서동필 흥국증권 연구원은 “신흥국은 기업 이익 전망치가 폭포수처럼 하락하는 등 하락세가 완연하다.
+## <서동필:PER> <흥국증권:ORG> 연구원은 “신흥국은 기업 이익 전망치가 폭포수처럼 하락하는 등 하락세가 완연하다.
+서동필	서동필	NNP	B-PER
+_	_	_	O
+흥국	흥국	NNP	B-ORG
+증권	증권	NNG	I-ORG
+_	_	_	O
+연구원	연구원	NNG	O
+은	은	JX	O
+_	_	_	O
+“	“	SS	O
+신흥	신흥	NNG	O
+국	국	XSN	O
+은	은	JX	O
+_	_	_	O
+기업	기업	NNG	O
+_	_	_	O
+이익	이익	NNG	O
+_	_	_	O
+전망	전망	NNG	O
+치	치	XSN	O
+가	가	JKS	O
+_	_	_	O
+폭포수	폭포수	NNG	O
+처럼	처럼	JKB	O
+_	_	_	O
+하락하	하락하	VV	O
+는	는	ETM	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+하락세	하락세	NNG	O
+가	가	JKS	O
+_	_	_	O
+완연하	완연하	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 김지수 김원준, 새로운 월요커플 탄생 예고…즉석 소개팅 주선에 "호감"
+## <김지수:PER> <김원준:PER>, 새로운 월요커플 탄생 예고…즉석 소개팅 주선에 "호감"
+김지수	김지수	NNP	B-PER
+_	_	_	O
+김원준	김원준	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+새로	새롭	VA	O
+운	ㄴ	ETM	O
+_	_	_	O
+월요	월요	NNG	O
+커플	커플	NNG	O
+_	_	_	O
+탄생	탄생	NNG	O
+_	_	_	O
+예고	예고	NNG	O
+…	…	SE	O
+즉석	즉석	NNG	O
+_	_	_	O
+소개팅	소개팅	NNG	O
+_	_	_	O
+주선	주선	NNG	O
+에	에	JKB	O
+_	_	_	O
+"	"	SS	O
+호감	호감	NNG	O
+"	"	SS	O
+
+## 10
+## 관광과 함께 치앙마이 수텝산 인근의 태국 소수민족 학교 ‘쌍완 위타야 학교’에서 봉사활동을 한 뒤 13일 돌아온다.
+## 관광과 함께 <치앙마이:LOC> 수텝산 인근의 <태국:ORG> 소수민족 학교 ‘<쌍완 위타야:ORG> 학교’에서 봉사활동을 한 뒤 <13일:DAT> 돌아온다.
+관광	관광	NNG	O
+과	과	JKB	O
+_	_	_	O
+함께	함께	MAG	O
+_	_	_	O
+치앙마이	치앙마이	NNP	B-LOC
+_	_	_	O
+수텝	수텝	NNP	O
+산	산	NNG	O
+_	_	_	O
+인근	인근	NNG	O
+의	의	JKG	O
+_	_	_	O
+태국	태국	NNP	B-ORG
+_	_	_	O
+소수	소수	NNG	O
+민족	민족	NNG	O
+_	_	_	O
+학교	학교	NNG	O
+_	_	_	O
+‘	‘	SS	O
+쌍	쌍	NNG	B-ORG
+완	완	NNP	I-ORG
+_	_	_	I-ORG
+위	위	NNB	I-ORG
+타야	타+아야	VV+EC	I-ORG
+_	_	_	O
+학교	학교	NNG	O
+’	’	SS	O
+에서	에서	JKB	O
+_	_	_	O
+봉사	봉사	NNG	O
+활동	활동	NNG	O
+을	을	JKO	O
+_	_	_	O
+한	하+ㄴ	VV+ETM	O
+_	_	_	O
+뒤	뒤	NNG	O
+_	_	_	O
+13	13	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+돌아온다	돌아오+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 11
+## 반면 성남은 FA컵 2연패가 물거품이 되고 말았다.
+## 반면 <성남:ORG>은 <FA컵:POH> <2연패:NOH>가 물거품이 되고 말았다.
+반면	반면	NNG	O
+_	_	_	O
+성남	성남	NNP	B-ORG
+은	은	JX	O
+_	_	_	O
+FA	FA	SL	B-POH
+컵	컵	NNG	I-POH
+_	_	_	O
+2	2	SN	B-NOH
+연패	연패	NNG	I-NOH
+가	가	JKS	O
+_	_	_	O
+물거품	물거품	NNG	O
+이	이	JKC	O
+_	_	_	O
+되	되	VV	O
+고	고	EC	O
+_	_	_	O
+말	말	VX	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 부채세대가 빚 때문에 자식을 낳지 않는다면 80대가 된 베이비붐세대의 자산들은 부동산이든 연금이든 수익을 낼 수가 없고 원금도 보장해 주지 못하게 된다.
+## 부채세대가 빚 때문에 자식을 낳지 않는다면 <80대:NOH>가 된 베이비붐세대의 자산들은 부동산이든 연금이든 수익을 낼 수가 없고 원금도 보장해 주지 못하게 된다.
+부채	부채	NNG	O
+세대	세대	NNG	O
+가	가	JKS	O
+_	_	_	O
+빚	빚	NNG	O
+_	_	_	O
+때문	때문	NNB	O
+에	에	JKB	O
+_	_	_	O
+자식	자식	NNG	O
+을	을	JKO	O
+_	_	_	O
+낳	낳	VV	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+는다면	는다면	EC	O
+_	_	_	O
+80	80	SN	B-NOH
+대	대	NNB	I-NOH
+가	가	JKC	O
+_	_	_	O
+된	되+ㄴ	VV+ETM	O
+_	_	_	O
+베이비	베이비	NNG	O
+붐	붐	NNG	O
+세대	세대	NNG	O
+의	의	JKG	O
+_	_	_	O
+자산	자산	NNG	O
+들	들	XSN	O
+은	은	JX	O
+_	_	_	O
+부동산	부동산	NNG	O
+이든	이든	JX	O
+_	_	_	O
+연금	연금	NNG	O
+이든	이든	JX	O
+_	_	_	O
+수익	수익	NNG	O
+을	을	JKO	O
+_	_	_	O
+낼	내+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+가	가	JKS	O
+_	_	_	O
+없	없	VA	O
+고	고	EC	O
+_	_	_	O
+원금	원금	NNG	O
+도	도	JX	O
+_	_	_	O
+보장해	보장하+여	VV+EC	O
+_	_	_	O
+주	주	VX	O
+지	지	EC	O
+_	_	_	O
+못하	못하	VX	O
+게	게	EC	O
+_	_	_	O
+된다	되+ㄴ다	VV+EF	O
+.	.	SF	O
+

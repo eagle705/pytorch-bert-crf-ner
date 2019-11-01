@@ -1,0 +1,560 @@
+## 1
+## 미국 폭스뉴스와 CNN은 20일(현지시간) 여름철 워터슬라이드를 타다
+## <미국:ORG> <폭스뉴스:ORG>와 <CNN:ORG>은 <20일:DAT>(현지시간) 여름철 워터슬라이드를 타다
+미국	미국	NNP	B-ORG
+_	_	_	O
+폭스뉴스	폭스뉴스	NNP	B-ORG
+와	와	JC	O
+_	_	_	O
+CNN	CNN	SL	B-ORG
+은	은	JX	O
+_	_	_	O
+20	20	SN	B-DAT
+일	일	NNB	I-DAT
+(	(	SS	O
+현지	현지	NNG	O
+시간	시간	NNG	O
+)	)	SS	O
+_	_	_	O
+여름철	여름철	NNG	O
+_	_	_	O
+워터	워터	NNG	O
+슬라이드	슬라이드	NNG	O
+를	를	JKO	O
+_	_	_	O
+타	타	VV	O
+다	다	EF	O
+
+## 2
+## 김풍기 심판 “직구처럼 오다가 뚝” 엄지 척 LG 우규민(31)이 신무기를 장착하고 더 강해졌다.
+## <김풍기:PER> 심판 “직구처럼 오다가 뚝” 엄지 척 <LG:ORG> <우규민:PER>(<31:NOH>)이 신무기를 장착하고 더 강해졌다.
+김풍기	김풍기	NNP	B-PER
+_	_	_	O
+심판	심판	NNG	O
+_	_	_	O
+“	“	SS	O
+직구	직구	NNG	O
+처럼	처럼	JKB	O
+_	_	_	O
+오	오	VV	O
+다가	다가	EC	O
+_	_	_	O
+뚝	뚝	MAG	O
+”	”	SS	O
+_	_	_	O
+엄지	엄지	NNG	O
+_	_	_	O
+척	척	NNB	O
+_	_	_	O
+LG	LG	SL	B-ORG
+_	_	_	O
+우규민	우규민	NNP	B-PER
+(	(	SS	O
+31	31	SN	B-NOH
+)	)	SS	O
+이	이	JKS	O
+_	_	_	O
+신무기	신무기	NNG	O
+를	를	JKO	O
+_	_	_	O
+장착하	장착하	VV	O
+고	고	EC	O
+_	_	_	O
+더	더	MAG	O
+_	_	_	O
+강해	강하	VA	O
+졌	여+지+었	EC+VX+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 그러나 법원은 지난 12일 “방어권 보장이 필요하고, 구속 타당성을 인정하기 어렵다”며 영장을 기각했다.
+## 그러나 법원은 지난 <12일:DAT> “방어권 보장이 필요하고, 구속 타당성을 인정하기 어렵다”며 영장을 기각했다.
+그러나	그러나	MAJ	O
+_	_	_	O
+법원	법원	NNG	O
+은	은	JX	O
+_	_	_	O
+지난	지나+ㄴ	VV+ETM	O
+_	_	_	O
+12	12	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+“	“	SS	O
+방어	방어	NNG	O
+권	권	XSN	O
+_	_	_	O
+보장	보장	NNG	O
+이	이	JKS	O
+_	_	_	O
+필요하	필요하	VA	O
+고	고	EC	O
+,	,	SP	O
+_	_	_	O
+구속	구속	NNG	O
+_	_	_	O
+타당성	타당성	NNG	O
+을	을	JKO	O
+_	_	_	O
+인정하	인정하	VV	O
+기	기	ETN	O
+_	_	_	O
+어렵	어렵	VA	O
+다	다	EF	O
+”	”	SS	O
+며	며	EC	O
+_	_	_	O
+영장	영장	NNG	O
+을	을	JKO	O
+_	_	_	O
+기각	기각하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 타쿠야·이준재, 키스신 NG컷 대공개! “이어서 할까요?”
+## <타쿠야:PER>·<이준재:PER>, 키스신 NG컷 대공개! “이어서 할까요?”
+타쿠야	타쿠야	NNP	B-PER
+·	·	SP	O
+이준재	이준재	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+키스	키스	NNG	O
+신	신	NNG	O
+_	_	_	O
+NG	NG	SL	O
+컷	컷	NNG	O
+_	_	_	O
+대	대	NNG	O
+공개	공개	NNG	O
+!	!	SF	O
+_	_	_	O
+“	“	SS	O
+이	잇	VV	O
+어서	어서	EC	O
+_	_	_	O
+할까	하+ㄹ까	VV+EC	O
+요	요	JX	O
+?	?	SF	O
+”	”	SS	O
+
+## 5
+## 두뇌는 아빠 닮아 IQ 160~170, 얼굴과 몸매는 엄마 닮아 연예인급이다.
+## 두뇌는 아빠 닮아 <IQ 160:NOH>~<170:NOH>, 얼굴과 몸매는 엄마 닮아 연예인급이다.
+두뇌	두뇌	NNG	O
+는	는	JX	O
+_	_	_	O
+아빠	아빠	NNG	O
+_	_	_	O
+닮	닮	VV	O
+아	아	EC	O
+_	_	_	O
+IQ	IQ	SL	B-NOH
+_	_	_	I-NOH
+160	160	SN	I-NOH
+~	~	SO	O
+170	170	SN	B-NOH
+,	,	SP	O
+_	_	_	O
+얼굴	얼굴	NNG	O
+과	과	JC	O
+_	_	_	O
+몸매	몸매	NNG	O
+는	는	JX	O
+_	_	_	O
+엄마	엄마	NNG	O
+_	_	_	O
+닮	닮	VV	O
+아	아	EC	O
+_	_	_	O
+연예인	연예인	NNG	O
+급	급	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## “의도 없는 사정이란 100% 거짓말”친이계는 마냥 밀릴 수 없다는 듯 전열을 정비하는 모습이다.
+## “의도 없는 사정이란 <100%:PNT> 거짓말”친이계는 마냥 밀릴 수 없다는 듯 전열을 정비하는 모습이다.
+“	“	SS	O
+의도	의도	NNG	O
+_	_	_	O
+없	없	VA	O
+는	는	ETM	O
+_	_	_	O
+사정	사정	NNG	O
+이	이	VCP	O
+란	란	ETM	O
+_	_	_	O
+100	100	SN	B-PNT
+%	%	SW	I-PNT
+_	_	_	O
+거짓말	거짓말	NNG	O
+”	”	SS	O
+친	친	XPN	O
+이	이	NNP	O
+계	계	XSN	O
+는	는	JX	O
+_	_	_	O
+마냥	마냥	MAG	O
+_	_	_	O
+밀릴	밀리+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+없	없	VA	O
+다는	다는	ETM	O
+_	_	_	O
+듯	듯	NNB	O
+_	_	_	O
+전열	전열	NNG	O
+을	을	JKO	O
+_	_	_	O
+정비하	정비하	VV	O
+는	는	ETM	O
+_	_	_	O
+모습	모습	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 골을 만들기까지의 작업은 상당히 잘 된다”며 “득점만 터지면 3강체제로도 충분히 갈 수 있을 것”이라고 기대감을 드러냈다.
+## 골을 만들기까지의 작업은 상당히 잘 된다”며 “득점만 터지면 <3강체제:NOH>로도 충분히 갈 수 있을 것”이라고 기대감을 드러냈다.
+골	골	NNG	O
+을	을	JKO	O
+_	_	_	O
+만들	만들	VV	O
+기	기	ETN	O
+까지	까지	JX	O
+의	의	JKG	O
+_	_	_	O
+작업	작업	NNG	O
+은	은	JX	O
+_	_	_	O
+상당히	상당히	MAG	O
+_	_	_	O
+잘	잘	MAG	O
+_	_	_	O
+된다	되+ㄴ다	VV+EF	O
+”	”	SS	O
+며	며	EC	O
+_	_	_	O
+“	“	SS	O
+득점	득점	NNG	O
+만	만	JX	O
+_	_	_	O
+터지	터지	VV	O
+면	면	EC	O
+_	_	_	O
+3	3	SN	B-NOH
+강	강	NNP	I-NOH
+체제	체제	NNG	I-NOH
+로	로	JKB	O
+도	도	JX	O
+_	_	_	O
+충분히	충분히	MAG	O
+_	_	_	O
+갈	가+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+을	을	ETM	O
+_	_	_	O
+것	것	NNB	O
+”	”	SS	O
+이라고	이라고	JKQ	O
+_	_	_	O
+기대감	기대감	NNG	O
+을	을	JKO	O
+_	_	_	O
+드러냈	드러내+었	VV+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 혈액량이 충분하지 않으면 알람을 통해 알려주고, 30초 안에 같은 검사지에 한 번 더 혈액을 추가해 검사할 수 있는 ‘세컨찬스 샘플링’기술을 적용해 사용자 편의성을 높였다.
+## 혈액량이 충분하지 않으면 알람을 통해 알려주고, <30초:NOH> 안에 같은 검사지에 <한 번:NOH> 더 혈액을 추가해 검사할 수 있는 ‘세컨찬스 샘플링’기술을 적용해 사용자 편의성을 높였다.
+혈액량	혈액량	NNG	O
+이	이	JKS	O
+_	_	_	O
+충분하	충분하	VA	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+으면	으면	EC	O
+_	_	_	O
+알람	알람	NNG	O
+을	을	JKO	O
+_	_	_	O
+통해	통하+여	VV+EC	O
+_	_	_	O
+알려	알리+어	VV+EC	O
+주	주	VX	O
+고	고	EC	O
+,	,	SP	O
+_	_	_	O
+30	30	SN	B-NOH
+초	초	NNB	I-NOH
+_	_	_	O
+안	안	NNG	O
+에	에	JKB	O
+_	_	_	O
+같	같	VA	O
+은	은	ETM	O
+_	_	_	O
+검사	검사	NNG	O
+지	지	XSN	O
+에	에	JKB	O
+_	_	_	O
+한	한	MM	B-NOH
+_	_	_	I-NOH
+번	번	NNB	I-NOH
+_	_	_	O
+더	더	MAG	O
+_	_	_	O
+혈액	혈액	NNG	O
+을	을	JKO	O
+_	_	_	O
+추가해	추가하+여	VV+EC	O
+_	_	_	O
+검사할	검사하+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+는	는	ETM	O
+_	_	_	O
+‘	‘	SS	O
+세컨	세컨	NNG	O
+찬스	찬스	NNG	O
+_	_	_	O
+샘플링	샘플링	NNG	O
+’	’	SS	O
+기술	기술	NNG	O
+을	을	JKO	O
+_	_	_	O
+적용해	적용하+여	VV+EC	O
+_	_	_	O
+사용자	사용자	NNG	O
+_	_	_	O
+편의성	편의성	NNG	O
+을	을	JKO	O
+_	_	_	O
+높	높이	VV	O
+였	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 현재 미국 경제는 어떤가. 미국의 많은 자산을 중국인들이 소유하고 아시아 태평양 지역에서 중국은 더 이상 봉쇄할 수 없는 힘으로 부상했다.
+## 현재 <미국:ORG> 경제는 어떤가. <미국:ORG>의 많은 자산을 <중국:ORG>인들이 소유하고 <아시아:LOC> <태평양:LOC> 지역에서 <중국:ORG>은 더 이상 봉쇄할 수 없는 힘으로 부상했다.
+현재	현재	MAG	O
+_	_	_	O
+미국	미국	NNP	B-ORG
+_	_	_	O
+경제	경제	NNG	O
+는	는	JX	O
+_	_	_	O
+어떤가	어떻+ㄴ가	VA+EF	O
+.	.	SF	O
+_	_	_	O
+미국	미국	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+많	많	VA	O
+은	은	ETM	O
+_	_	_	O
+자산	자산	NNG	O
+을	을	JKO	O
+_	_	_	O
+중국인	중국인	NNG	O
+들	들	XSN	O
+이	이	JKS	O
+_	_	_	O
+소유하	소유하	VV	O
+고	고	EC	O
+_	_	_	O
+아시아	아시아	NNP	B-LOC
+_	_	_	O
+태평양	태평양	NNP	B-LOC
+_	_	_	O
+지역	지역	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+중국	중국	NNP	B-ORG
+은	은	JX	O
+_	_	_	O
+더	더	MAG	O
+_	_	_	O
+이상	이상	NNG	O
+_	_	_	O
+봉쇄할	봉쇄하+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+없	없	VA	O
+는	는	ETM	O
+_	_	_	O
+힘	힘	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+부상	부상하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 미국에도 규제의 벽이 없었던 것은 아니다.
+## <미국:ORG>에도 규제의 벽이 없었던 것은 아니다.
+미국	미국	NNP	B-ORG
+에	에	JKB	O
+도	도	JX	O
+_	_	_	O
+규제	규제	NNG	O
+의	의	JKG	O
+_	_	_	O
+벽	벽	NNG	O
+이	이	JKS	O
+_	_	_	O
+없	없	VA	O
+었	었	EP	O
+던	던	ETM	O
+_	_	_	O
+것	것	NNB	O
+은	은	JX	O
+_	_	_	O
+아니	아니	VCN	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 독일에서 함께 선수생활을 한 옛 동료들을 만나면 아들 자랑에 바빴다.
+## <독일:LOC>에서 함께 선수생활을 한 옛 동료들을 만나면 아들 자랑에 바빴다.
+독일	독일	NNP	B-LOC
+에서	에서	JKB	O
+_	_	_	O
+함께	함께	MAG	O
+_	_	_	O
+선수	선수	NNG	O
+생활	생활	NNG	O
+을	을	JKO	O
+_	_	_	O
+한	하+ㄴ	VV+ETM	O
+_	_	_	O
+옛	옛	MM	O
+_	_	_	O
+동료	동료	NNG	O
+들	들	XSN	O
+을	을	JKO	O
+_	_	_	O
+만나	만나	VV	O
+면	면	EC	O
+_	_	_	O
+아들	아들	NNG	O
+_	_	_	O
+자랑	자랑	NNG	O
+에	에	JKB	O
+_	_	_	O
+바	바쁘	VA	O
+빴	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 영국은 온라인에서 일어나는 청소년의 성착취와 학대를 방지하기 위해 2006년 범정부기구를 설립했다.
+## <영국:ORG>은 온라인에서 일어나는 청소년의 성착취와 학대를 방지하기 위해 <2006년:DAT> 범정부기구를 설립했다.
+영국	영국	NNP	B-ORG
+은	은	JX	O
+_	_	_	O
+온라인	온라인	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+일어나	일어나	VV	O
+는	는	ETM	O
+_	_	_	O
+청소년	청소년	NNG	O
+의	의	JKG	O
+_	_	_	O
+성	성	NNG	O
+착취	착취	NNG	O
+와	와	JC	O
+_	_	_	O
+학대	학대	NNG	O
+를	를	JKO	O
+_	_	_	O
+방지하	방지하	VV	O
+기	기	ETN	O
+_	_	_	O
+위해	위하+여	VV+EC	O
+_	_	_	O
+2006	2006	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+범	범	XPN	O
+정부	정부	NNG	O
+기구	기구	NNG	O
+를	를	JKO	O
+_	_	_	O
+설립	설립하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## 이때 박 회장은 돌연 인터넷전문은행을 포기했다.
+## 이때 <박:PER> 회장은 돌연 인터넷전문은행을 포기했다.
+이때	이때	NNG	O
+_	_	_	O
+박	박	NNP	B-PER
+_	_	_	O
+회장	회장	NNG	O
+은	은	JX	O
+_	_	_	O
+돌연	돌연	MAG	O
+_	_	_	O
+인터넷	인터넷	NNG	O
+전문	전문	NNG	O
+은행	은행	NNG	O
+을	을	JKO	O
+_	_	_	O
+포기	포기하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 14
+## ‘설마 트럼프가 당선되겠느냐’는 안일한 생각을 하고 있을 때가 아니다.
+## ‘설마 <트럼프:PER>가 당선되겠느냐’는 안일한 생각을 하고 있을 때가 아니다.
+‘	‘	SS	O
+설마	설마	MAG	O
+_	_	_	O
+트럼프	트럼프	NNP	B-PER
+가	가	JKS	O
+_	_	_	O
+당선되	당선되	VV	O
+겠	겠	EP	O
+느냐	느냐	EF	O
+’	’	SS	O
+는	는	JX	O
+_	_	_	O
+안일한	안일하+ㄴ	VA+ETM	O
+_	_	_	O
+생각	생각	NNG	O
+을	을	JKO	O
+_	_	_	O
+하	하	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+을	을	ETM	O
+_	_	_	O
+때	때	NNG	O
+가	가	JKC	O
+_	_	_	O
+아니	아니	VCN	O
+다	다	EF	O
+.	.	SF	O
+

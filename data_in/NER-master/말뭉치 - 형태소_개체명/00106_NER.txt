@@ -1,0 +1,477 @@
+## 1
+## 단 10분이라도 좋아하는 차 한잔을 여유롭게 마시는 것 자체가 휘게다.
+## 단 <10분:DUR>이라도 좋아하는 차 <한잔:NOH>을 여유롭게 마시는 것 자체가 휘게다.
+단	단	MM	O
+_	_	_	O
+10	10	SN	B-DUR
+분	분	NNB	I-DUR
+이라도	이라도	JX	O
+_	_	_	O
+좋아하	좋아하	VV	O
+는	는	ETM	O
+_	_	_	O
+차	차	NNG	O
+_	_	_	O
+한잔	한잔	NNG	B-NOH
+을	을	JKO	O
+_	_	_	O
+여유롭	여유롭	VA	O
+게	게	EC	O
+_	_	_	O
+마시	마시	VV	O
+는	는	ETM	O
+_	_	_	O
+것	것	NNB	O
+_	_	_	O
+자체	자체	NNG	O
+가	가	JKS	O
+_	_	_	O
+휘	휘	VV	O
+게	게	EC	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 중국이 수입에 의존해오던 소재와 부품 등을 국산화하면서 중국에 중간재를 수출하는 비중이 높은 한국에게는 위협이 되고 있다는 분석이 나왔다.
+## <중국:ORG>이 수입에 의존해오던 소재와 부품 등을 국산화하면서 <중국:ORG>에 중간재를 수출하는 비중이 높은 <한국:ORG>에게는 위협이 되고 있다는 분석이 나왔다.
+중국	중국	NNP	B-ORG
+이	이	JKS	O
+_	_	_	O
+수입	수입	NNG	O
+에	에	JKB	O
+_	_	_	O
+의존해	의존하+여	VV+EC	O
+오	오	VX	O
+던	던	ETM	O
+_	_	_	O
+소재	소재	NNG	O
+와	와	JC	O
+_	_	_	O
+부품	부품	NNG	O
+_	_	_	O
+등	등	NNB	O
+을	을	JKO	O
+_	_	_	O
+국산화하	국산화하	VV	O
+면서	면서	EC	O
+_	_	_	O
+중국	중국	NNP	B-ORG
+에	에	JKB	O
+_	_	_	O
+중간재	중간재	NNG	O
+를	를	JKO	O
+_	_	_	O
+수출하	수출하	VV	O
+는	는	ETM	O
+_	_	_	O
+비중	비중	NNG	O
+이	이	JKS	O
+_	_	_	O
+높	높	VA	O
+은	은	ETM	O
+_	_	_	O
+한국	한국	NNP	B-ORG
+에게	에게	JKB	O
+는	는	JX	O
+_	_	_	O
+위협	위협	NNG	O
+이	이	JKC	O
+_	_	_	O
+되	되	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다는	다는	ETM	O
+_	_	_	O
+분석	분석	NNG	O
+이	이	JKS	O
+_	_	_	O
+나	나오	VV	O
+왔	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 관련 분야에 취업하면 월 150만원 정도의 월급을 받고 일해야 하기 때문에 어머니와 둘이 생계를 꾸려나갈 수 없었다.
+## 관련 분야에 취업하면 월 <150만원:MNY> 정도의 월급을 받고 일해야 하기 때문에 어머니와 둘이 생계를 꾸려나갈 수 없었다.
+관련	관련	NNG	O
+_	_	_	O
+분야	분야	NNG	O
+에	에	JKB	O
+_	_	_	O
+취업하	취업하	VV	O
+면	면	EC	O
+_	_	_	O
+월	월	NNG	O
+_	_	_	O
+150	150	SN	B-MNY
+만	만	NR	I-MNY
+원	원	NNB	I-MNY
+_	_	_	O
+정도	정도	NNG	O
+의	의	JKG	O
+_	_	_	O
+월급	월급	NNG	O
+을	을	JKO	O
+_	_	_	O
+받	받	VV	O
+고	고	EC	O
+_	_	_	O
+일해야	일하+여야	VV+EC	O
+_	_	_	O
+하	하	VX	O
+기	기	ETN	O
+_	_	_	O
+때문	때문	NNB	O
+에	에	JKB	O
+_	_	_	O
+어머니	어머니	NNG	O
+와	와	JC	O
+_	_	_	O
+둘	둘	NR	O
+이	이	JKS	O
+_	_	_	O
+생계	생계	NNG	O
+를	를	JKO	O
+_	_	_	O
+꾸려	꾸리+어	VV+EC	O
+나갈	나가+ㄹ	VX+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+없	없	VA	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 1사 후 피츠버그 강정호가 사구로 출루한 뒤 대타 페드로 알바레스가 친 타구가 우중간으로 향했다.
+## <1사:NOH> 후 <피츠버그:ORG> <강정호:PER>가 사구로 출루한 뒤 대타 <페드로 알바레스:PER>가 친 타구가 우중간으로 향했다.
+1	1	SN	B-NOH
+사	사	NNG	I-NOH
+_	_	_	O
+후	후	NNG	O
+_	_	_	O
+피츠버그	피츠버그	NNP	B-ORG
+_	_	_	O
+강정호	강정호	NNP	B-PER
+가	가	JKS	O
+_	_	_	O
+사구	사구	NNG	O
+로	로	JKB	O
+_	_	_	O
+출루한	출루하+ㄴ	VV+ETM	O
+_	_	_	O
+뒤	뒤	NNG	O
+_	_	_	O
+대타	대타	NNG	O
+_	_	_	O
+페드로	페드로	NNP	B-PER
+_	_	_	I-PER
+알바레스	알바레스	NNP	I-PER
+가	가	JKS	O
+_	_	_	O
+친	친	XPN	O
+_	_	_	O
+타구	타구	NNG	O
+가	가	JKS	O
+_	_	_	O
+우중간	우중간	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+향	향하	VV	O
+했	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 한편, 한채아는 지난 5일 방송된 KBS2 ‘해피투게더3’에 출연해 대기업 아버지 설에 대해 해명했다.
+## 한편, <한채아:PER>는 지난 <5일:DAT> 방송된 <KBS2:POH> ‘<해피투게더3:POH>’에 출연해 대기업 아버지 설에 대해 해명했다.
+한편	한편	NNG	O
+,	,	SP	O
+_	_	_	O
+한	한	MM	B-PER
+채	채	NNB	I-PER
+아	알	VV	I-PER
+는	는	ETM	O
+_	_	_	O
+지난	지나+ㄴ	VV+ETM	O
+_	_	_	O
+5	5	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+방송된	방송되+ㄴ	VV+ETM	O
+_	_	_	O
+KBS	KBS	SL	B-POH
+2	2	SN	I-POH
+_	_	_	O
+‘	‘	SS	O
+해피투게더	해피투게더	NNP	B-POH
+3	3	SN	I-POH
+’	’	SS	O
+에	에	JKB	O
+_	_	_	O
+출연해	출연하+여	VV+EC	O
+_	_	_	O
+대기업	대기업	NNG	O
+_	_	_	O
+아버지	아버지	NNG	O
+_	_	_	O
+설	설	NNG	O
+에	에	JKB	O
+_	_	_	O
+대해	대하+여	VV+EC	O
+_	_	_	O
+해명	해명하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 「윈도스」 「OS
+## 「<윈도스:POH>」 「OS
+「	「	SS	O
+윈도스	윈도스	NNG	B-POH
+」	」	SS	O
+_	_	_	O
+「	「	SS	O
+OS	OS	SL	O
+
+## 7
+## ▲유엔군=송환을 원치않는 포로는 한국내에서 중립국의 보호하에 두고, 스위스가 그 임무에 적합하다고 본다.
+## ▲<유엔군:ORG>=송환을 원치않는 포로는 <한국:ORG>내에서 중립국의 보호하에 두고, <스위스:ORG>가 그 임무에 적합하다고 본다.
+▲	▲	SW	O
+유엔군	유엔군	NNG	B-ORG
+=	=	SW	O
+송환	송환	NNG	O
+을	을	JKO	O
+_	_	_	O
+원	원하	VV	O
+치	지	EC	O
+않	않	VX	O
+는	는	ETM	O
+_	_	_	O
+포로	포로	NNG	O
+는	는	JX	O
+_	_	_	O
+한국	한국	NNP	B-ORG
+내	내	NNB	O
+에서	에서	JKB	O
+_	_	_	O
+중립국	중립국	NNG	O
+의	의	JKG	O
+_	_	_	O
+보호	보호	NNG	O
+하	하	XSN	O
+에	에	JKB	O
+_	_	_	O
+두	두	VV	O
+고	고	EC	O
+,	,	SP	O
+_	_	_	O
+스위스	스위스	NNP	B-ORG
+가	가	JKS	O
+_	_	_	O
+그	그	MM	O
+_	_	_	O
+임무	임무	NNG	O
+에	에	JKB	O
+_	_	_	O
+적합하	적합하	VA	O
+다고	다고	EC	O
+_	_	_	O
+본다	보+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 8
+## 오리온은 과자 포장재의 빈 공간을 줄이고 껌 용량은 늘리는 등 4차 포장재 개선 프로젝트를 진행한다고 19일 밝혔다.
+## <오리온:ORG>은 과자 포장재의 빈 공간을 줄이고 껌 용량은 늘리는 등 <4차:NOH> 포장재 개선 프로젝트를 진행한다고 <19일:DAT> 밝혔다.
+오리온	오리온	NNP	B-ORG
+은	은	JX	O
+_	_	_	O
+과자	과자	NNG	O
+_	_	_	O
+포장재	포장재	NNG	O
+의	의	JKG	O
+_	_	_	O
+빈	비+ㄴ	VV+ETM	O
+_	_	_	O
+공간	공간	NNG	O
+을	을	JKO	O
+_	_	_	O
+줄이	줄이	VV	O
+고	고	EC	O
+_	_	_	O
+껌	껌	NNG	O
+_	_	_	O
+용량	용량	NNG	O
+은	은	JX	O
+_	_	_	O
+늘리	늘리	VV	O
+는	는	ETM	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+4	4	SN	B-NOH
+차	차	NNB	I-NOH
+_	_	_	O
+포장재	포장재	NNG	O
+_	_	_	O
+개선	개선	NNG	O
+_	_	_	O
+프로젝트	프로젝트	NNG	O
+를	를	JKO	O
+_	_	_	O
+진행한다고	진행하+ㄴ다고	VV+EC	O
+_	_	_	O
+19	19	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+밝	밝히	VV	O
+혔	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## GS건설, ‘김천센트럴자이’ 2만5000명 다녀가
+## <GS건설:ORG>, ‘<김천센트럴자이:LOC>’ <2만5000명:NOH> 다녀가
+GS	GS	SL	B-ORG
+건설	건설	NNG	I-ORG
+,	,	SP	O
+_	_	_	O
+‘	‘	SS	O
+김천	김천	NNP	B-LOC
+센트럴자이	센트럴자이	NNP	I-LOC
+’	’	SS	O
+_	_	_	O
+2	2	SN	B-NOH
+만	만	NR	I-NOH
+5000	5000	SN	I-NOH
+명	명	NNB	I-NOH
+_	_	_	O
+다녀가	다녀가+아	VV+EC	O
+
+## 10
+## 손호영 황보미, 소속사측 "만난 것은 맞다.
+## <손호영:PER> <황보미:PER>, 소속사측 "만난 것은 맞다.
+손호영	손호영	NNP	B-PER
+_	_	_	O
+황보미	황보미	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+소속	소속	NNG	O
+사	사	XSN	O
+측	측	NNB	O
+_	_	_	O
+"	"	SS	O
+만난	만나+ㄴ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+은	은	JX	O
+_	_	_	O
+맞	맞	VV	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 4시 현재 17개(홀인원 포함)가 쏟아졌다.
+## <4시:TIM> 현재 <17개:NOH>(홀인원 포함)가 쏟아졌다.
+4	4	SN	B-TIM
+시	시	NNB	I-TIM
+_	_	_	O
+현재	현재	NNG	O
+_	_	_	O
+17	17	SN	B-NOH
+개	개	NNB	I-NOH
+(	(	SS	O
+홀인원	홀인원	NNG	O
+_	_	_	O
+포함	포함	NNG	O
+)	)	SS	O
+가	가	JKS	O
+_	_	_	O
+쏟아	쏟아지	VV	O
+졌	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 그럼에도 이날 오전부터 수십 명이 홍어, 쇠고기, 과일 등을 가지고 백련사를 찾자 손 전 고문은 부인 이윤영 씨와 함께 외출해 버렸다.
+## 그럼에도 이날 오전부터 수십 명이 홍어, 쇠고기, 과일 등을 가지고 <백련사:LOC>를 찾자 <손:PER> 전 고문은 부인 <이윤영:PER> 씨와 함께 외출해 버렸다.
+그럼에도	그렇+ㅁ에도	VA+EC	O
+_	_	_	O
+이날	이날	NNG	O
+_	_	_	O
+오전	오전	NNG	O
+부터	부터	JX	O
+_	_	_	O
+수십	수십	NR	O
+_	_	_	O
+명	명	NNB	O
+이	이	JKS	O
+_	_	_	O
+홍어	홍어	NNG	O
+,	,	SP	O
+_	_	_	O
+쇠고기	쇠고기	NNG	O
+,	,	SP	O
+_	_	_	O
+과일	과일	NNG	O
+_	_	_	O
+등	등	NNB	O
+을	을	JKO	O
+_	_	_	O
+가지	가지	VV	O
+고	고	EC	O
+_	_	_	O
+백련사	백련사	NNG	B-LOC
+를	를	JKO	O
+_	_	_	O
+찾	찾	VV	O
+자	자	EC	O
+_	_	_	O
+손	손	NNP	B-PER
+_	_	_	O
+전	전	MM	O
+_	_	_	O
+고문	고문	NNG	O
+은	은	JX	O
+_	_	_	O
+부인	부인	NNG	O
+_	_	_	O
+이윤영	이윤영	NNP	B-PER
+_	_	_	O
+씨	씨	NNB	O
+와	와	JKB	O
+_	_	_	O
+함께	함께	MAG	O
+_	_	_	O
+외출해	외출하+여	VV+EC	O
+_	_	_	O
+버	버리	VX	O
+렸	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## 모델하우스는 양재역 5번출구 앞에 위치해 있다.
+## 모델하우스는 <양재역:LOC> <5번:NOH>출구 앞에 위치해 있다.
+모델	모델	NNG	O
+하우스	하우스	NNG	O
+는	는	JX	O
+_	_	_	O
+양재역	양재역	NNP	B-LOC
+_	_	_	O
+5	5	SN	B-NOH
+번	번	NNB	I-NOH
+출구	출구	NNG	O
+_	_	_	O
+앞	앞	NNG	O
+에	에	JKB	O
+_	_	_	O
+위치해	위치하+여	VV+EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+

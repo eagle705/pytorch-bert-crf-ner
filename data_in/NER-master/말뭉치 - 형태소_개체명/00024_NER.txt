@@ -1,0 +1,646 @@
+## 1
+## 냄보소 박유천 ♥ 신세경, 스태프들도 숨죽인 키스신 봤더니 '알콩달콩'
+## <냄보소:POH> <박유천:PER> ♥ <신세경:PER>, 스태프들도 숨죽인 키스신 봤더니 '알콩달콩'
+냄	내+ㅁ	VV+ETN	B-POH
+보	보	VV	I-POH
+소	소	EC	I-POH
+_	_	_	O
+박유천	박유천	NNP	B-PER
+_	_	_	O
+♥	♥	SW	O
+_	_	_	O
+신세경	신세경	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+스태프	스태프	NNG	O
+들	들	XSN	O
+도	도	JX	O
+_	_	_	O
+숨죽인	숨죽이+ㄴ	VV+ETM	O
+_	_	_	O
+키스	키스	NNG	O
+신	신	NNG	O
+_	_	_	O
+봤	+았	+EP	O
+더니	더니	EC	O
+_	_	_	O
+'	'	SS	O
+알콩달콩	알콩달콩	MAG	O
+'	'	SS	O
+
+## 2
+## 곡성-고흥 등 지역 관광 활성화
+## <곡성:LOC>-<고흥:LOC> 등 지역 관광 활성화
+곡성	곡성	NNP	B-LOC
+-	-	SO	O
+고흥	고흥	NNP	B-LOC
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+지역	지역	NNG	O
+_	_	_	O
+관광	관광	NNG	O
+_	_	_	O
+활성화	활성화	NNG	O
+
+## 3
+## 직사광선에 노출된 생수는 온도가 30~40도까지 올라간다.
+## 직사광선에 노출된 생수는 온도가 <30:NOH>~<40도:NOH>까지 올라간다.
+직사광선	직사광선	NNG	O
+에	에	JKB	O
+_	_	_	O
+노출된	노출되+ㄴ	VV+ETM	O
+_	_	_	O
+생수	생수	NNG	O
+는	는	JX	O
+_	_	_	O
+온도	온도	NNG	O
+가	가	JKS	O
+_	_	_	O
+30	30	SN	B-NOH
+~	~	SO	O
+40	40	SN	B-NOH
+도	도	NNB	I-NOH
+까지	까지	JX	O
+_	_	_	O
+올라간다	올라가+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 4
+## 휠라 관계자는 “스테파니의 건강한 바디 라인과 에너지 넘치는 매력이 휠라 핫써머 컬렉션과 잘 어우러져 멋진 화보가 나왔다”며 “올 여름 스테파니의 핫써머 룩을 참고하면 스타일과 실용성 모두를 만족할 수 있을 것”이라고 밝혔다.
+## <휠라:ORG> 관계자는 “<스테파니:PER>의 건강한 바디 라인과 에너지 넘치는 매력이 <휠라:ORG> 핫써머 컬렉션과 잘 어우러져 멋진 화보가 나왔다”며 “올 여름 <스테파니:PER>의 핫써머 룩을 참고하면 스타일과 실용성 모두를 만족할 수 있을 것”이라고 밝혔다.
+휠라	휠라	NNP	B-ORG
+_	_	_	O
+관계자	관계자	NNG	O
+는	는	JX	O
+_	_	_	O
+“	“	SS	O
+스테파니	스테파니	NNP	B-PER
+의	의	JKG	O
+_	_	_	O
+건강한	건강하+ㄴ	VA+ETM	O
+_	_	_	O
+바디	바디	NNG	O
+_	_	_	O
+라인	라인	NNG	O
+과	과	JC	O
+_	_	_	O
+에너지	에너지	NNG	O
+_	_	_	O
+넘치	넘치	VV	O
+는	는	ETM	O
+_	_	_	O
+매력	매력	NNG	O
+이	이	JKS	O
+_	_	_	O
+휠라	휠라	NNP	B-ORG
+_	_	_	O
+핫써머	핫써머	NNP	O
+_	_	_	O
+컬렉션	컬렉션	NNG	O
+과	과	JKB	O
+_	_	_	O
+잘	잘	MAG	O
+_	_	_	O
+어우러져	어우러지+어	VV+EC	O
+_	_	_	O
+멋진	멋지+ㄴ	VA+ETM	O
+_	_	_	O
+화보	화보	NNG	O
+가	가	JKS	O
+_	_	_	O
+나	나오	VV	O
+왔	았	EP	O
+다	다	EF	O
+”	”	SS	O
+며	며	EC	O
+_	_	_	O
+“	“	SS	O
+올	올	NNG	O
+_	_	_	O
+여름	여름	NNG	O
+_	_	_	O
+스테파니	스테파니	NNP	B-PER
+의	의	JKG	O
+_	_	_	O
+핫써머	핫써머	NNP	O
+_	_	_	O
+룩	룩	NNG	O
+을	을	JKO	O
+_	_	_	O
+참고하	참고하	VV	O
+면	면	EC	O
+_	_	_	O
+스타일	스타일	NNG	O
+과	과	JC	O
+_	_	_	O
+실용성	실용성	NNG	O
+_	_	_	O
+모두	모두	NNG	O
+를	를	JKO	O
+_	_	_	O
+만족할	만족하+ㄹ	VA+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+을	을	ETM	O
+_	_	_	O
+것	것	NNB	O
+”	”	SS	O
+이라고	이라고	JKQ	O
+_	_	_	O
+밝	밝히	VV	O
+혔	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 양 팀은 올 시즌 다섯 번의 맞대결에서 우리은행이 5승1패로 앞서 있지만, 최근 5연승을 거두며 상승세를 타고 있는 KB스타즈가 플레이오프 진출 마지막 티켓을 두고 동기부여가 큰 만큼 양 팀의 사정을 충분히 감안한 신중한 분석이 필요하다.
+## 양 팀은 <올 시즌:DAT> 다섯 번의 맞대결에서 <우리은행:ORG>이 <5승:NOH><1패:NOH>로 앞서 있지만, 최근 <5연승:NOH>을 거두며 상승세를 타고 있는 <KB스타즈:ORG>가 플레이오프 진출 마지막 티켓을 두고 동기부여가 큰 만큼 양 팀의 사정을 충분히 감안한 신중한 분석이 필요하다.
+양	양	MM	O
+_	_	_	O
+팀	팀	NNG	O
+은	은	JX	O
+_	_	_	O
+올	올	NNG	B-DAT
+_	_	_	I-DAT
+시즌	시즌	NNG	I-DAT
+_	_	_	O
+다섯	다섯	NR	O
+_	_	_	O
+번	번	NNB	O
+의	의	JKG	O
+_	_	_	O
+맞대결	맞대결	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+우리은행	우리은행	NNP	B-ORG
+이	이	JKS	O
+_	_	_	O
+5	5	SN	B-NOH
+승	승	NNB	I-NOH
+1	1	SN	B-NOH
+패	패	NNG	I-NOH
+로	로	JKB	O
+_	_	_	O
+앞서	앞서+어	VV+EC	O
+_	_	_	O
+있	있	VX	O
+지만	지만	EC	O
+,	,	SP	O
+_	_	_	O
+최근	최근	NNG	O
+_	_	_	O
+5	5	SN	B-NOH
+연승	연승	NNG	I-NOH
+을	을	JKO	O
+_	_	_	O
+거두	거두	VV	O
+며	며	EC	O
+_	_	_	O
+상승세	상승세	NNG	O
+를	를	JKO	O
+_	_	_	O
+타	타	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+는	는	ETM	O
+_	_	_	O
+KB	KB	SL	B-ORG
+스타즈	스타즈	NNP	I-ORG
+가	가	JKS	O
+_	_	_	O
+플레이오프	플레이오프	NNG	O
+_	_	_	O
+진출	진출	NNG	O
+_	_	_	O
+마지막	마지막	NNG	O
+_	_	_	O
+티켓	티켓	NNG	O
+을	을	JKO	O
+_	_	_	O
+두	두	VV	O
+고	고	EC	O
+_	_	_	O
+동기	동기	NNG	O
+부여	부여	NNG	O
+가	가	JKS	O
+_	_	_	O
+큰	크+ㄴ	VA+ETM	O
+_	_	_	O
+만큼	만큼	NNB	O
+_	_	_	O
+양	양	MM	O
+_	_	_	O
+팀	팀	NNG	O
+의	의	JKG	O
+_	_	_	O
+사정	사정	NNG	O
+을	을	JKO	O
+_	_	_	O
+충분히	충분히	MAG	O
+_	_	_	O
+감안한	감안하+ㄴ	VV+ETM	O
+_	_	_	O
+신중한	신중하+ㄴ	VA+ETM	O
+_	_	_	O
+분석	분석	NNG	O
+이	이	JKS	O
+_	_	_	O
+필요하	필요하	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 연간 뿜어내는 질소산화물도 화물차(23만2970t)가 버스(3만6062t)의 6.4배 수준이다.
+## 연간 뿜어내는 질소산화물도 화물차(<23만2970t:NOH>)가 버스(<3만6062t:NOH>)의 <6.4배:PNT> 수준이다.
+연간	연간	NNG	O
+_	_	_	O
+뿜어내	뿜어내	VV	O
+는	는	ETM	O
+_	_	_	O
+질소	질소	NNG	O
+산화물	산화물	NNG	O
+도	도	JX	O
+_	_	_	O
+화물차	화물차	NNG	O
+(	(	SS	O
+23	23	SN	B-NOH
+만	만	NR	I-NOH
+2970	2970	SN	I-NOH
+t	t	SL	I-NOH
+)	)	SS	O
+가	가	JKS	O
+_	_	_	O
+버스	버스	NNG	O
+(	(	SS	O
+3	3	SN	B-NOH
+만	만	NR	I-NOH
+6062	6062	SN	I-NOH
+t	t	SL	I-NOH
+)	)	SS	O
+의	의	JKG	O
+_	_	_	O
+6.4	6.4	SN	B-PNT
+배	배	NNG	I-PNT
+_	_	_	O
+수준	수준	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 조지 W 부시 당시 미국 대통령이 임기 마지막 해인 2007년 발표한 연두교서(State of the Union) 일부다.
+## <조지 W 부시:PER> 당시 <미국:ORG> 대통령이 임기 마지막 해인 <2007년:DAT> 발표한 연두교서(State of the Union) 일부다.
+조지	조지	NNP	B-PER
+_	_	_	I-PER
+W	W	SL	I-PER
+_	_	_	I-PER
+부시	부시	NNP	I-PER
+_	_	_	O
+당시	당시	NNG	O
+_	_	_	O
+미국	미국	NNP	B-ORG
+_	_	_	O
+대통령	대통령	NNG	O
+이	이	JKS	O
+_	_	_	O
+임기	임기	NNG	O
+_	_	_	O
+마지막	마지막	NNG	O
+_	_	_	O
+해	해	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+2007	2007	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+발표한	발표하+ㄴ	VV+ETM	O
+_	_	_	O
+연두	연두	NNG	O
+교서	교서	NNG	O
+(	(	SS	O
+State	State	SL	O
+_	_	_	O
+of	of	SL	O
+_	_	_	O
+the	the	SL	O
+_	_	_	O
+Union	Union	SL	O
+)	)	SS	O
+_	_	_	O
+일부	일부+이	NNG+VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## ”글=임선영 기자 youngcan@joongang.co.kr사진=김경록 기자
+## ”글=<임선영:PER> 기자 <youngcan@joongang.co.kr:POH>사진=<김경록:PER> 기자
+”	”	SS	O
+글	글	NNG	O
+=	=	SW	O
+임선영	임선영	NNP	B-PER
+_	_	_	O
+기자	기자	NNG	O
+_	_	_	O
+youngcan	youngcan	SL	B-POH
+@	@	SW	I-POH
+joongang	joongang	SL	I-POH
+.	.	SF	I-POH
+co	co	SL	I-POH
+.	.	SF	I-POH
+kr	kr	SL	I-POH
+사진	사진	NNG	O
+=	=	SW	O
+김경록	김경록	NNP	B-PER
+_	_	_	O
+기자	기자	NNG	O
+
+## 9
+## 이어 두 셰프가 공동으로 작업한 마카롱, 사블레, 머랭쿠키, 초코릿 등 4종의 프티푸(차와 함께 즐기는 작은 케이크나 쿠키)가 갈라 디너의 여정을 마무리했다.
+## 이어 <두 셰프:NOH>가 공동으로 작업한 마카롱, 사블레, 머랭쿠키, 초코릿 등 <4종:NOH>의 프티푸(차와 함께 즐기는 작은 케이크나 쿠키)가 갈라 디너의 여정을 마무리했다.
+이	잇	VV	O
+어	어	EC	O
+_	_	_	O
+두	두	MM	B-NOH
+_	_	_	I-NOH
+셰프	셰프	NNG	I-NOH
+가	가	JKS	O
+_	_	_	O
+공동	공동	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+작업한	작업하+ㄴ	VV+ETM	O
+_	_	_	O
+마카롱	마카롱	NNG	O
+,	,	SP	O
+_	_	_	O
+사블레	사블레	NNG	O
+,	,	SP	O
+_	_	_	O
+머랭쿠	머랭쿠+하	NNG+XSV	O
+키	기	ETN	O
+,	,	SP	O
+_	_	_	O
+초코	초코	NNP	O
+릿	리	NNB	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+4	4	SN	B-NOH
+종	종	NNG	I-NOH
+의	의	JKG	O
+_	_	_	O
+프티	프티	NNP	O
+푸	푸	NNP	O
+(	(	SS	O
+차	차	NNG	O
+와	와	JKB	O
+_	_	_	O
+함께	함께	MAG	O
+_	_	_	O
+즐기	즐기	VV	O
+는	는	ETM	O
+_	_	_	O
+작	작	VA	O
+은	은	ETM	O
+_	_	_	O
+케이크	케이크	NNG	O
+나	나	JC	O
+_	_	_	O
+쿠키	쿠키	NNG	O
+)	)	SS	O
+가	가	JKS	O
+_	_	_	O
+갈	가르	VV	O
+라	아	EC	O
+_	_	_	O
+디너	디너	NNG	O
+의	의	JKG	O
+_	_	_	O
+여정	여정	NNG	O
+을	을	JKO	O
+_	_	_	O
+마무리	마무리하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 소녀시대는 최종 합계에서 가장 높은 점수를 얻으며 트로피의 주인공이 됐다.
+## <소녀시대:ORG>는 최종 합계에서 가장 높은 점수를 얻으며 트로피의 주인공이 됐다.
+소녀	소녀	NNG	B-ORG
+시대	시대	NNG	I-ORG
+는	는	JX	O
+_	_	_	O
+최종	최종	NNG	O
+_	_	_	O
+합계	합계	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+가장	가장	MAG	O
+_	_	_	O
+높	높	VA	O
+은	은	ETM	O
+_	_	_	O
+점수	점수	NNG	O
+를	를	JKO	O
+_	_	_	O
+얻	얻	VV	O
+으며	으며	EC	O
+_	_	_	O
+트로피	트로피	NNG	O
+의	의	JKG	O
+_	_	_	O
+주인공	주인공	NNG	O
+이	이	JKC	O
+_	_	_	O
+됐	+었	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 이날 써니는 1위 소감을 전하여 "감사합니다.
+## 이날 <써니:PER>는 <1위:NOH> 소감을 전하여 "감사합니다.
+이날	이날	NNG	O
+_	_	_	O
+써니	써니	NNP	B-PER
+는	는	JX	O
+_	_	_	O
+1	1	SN	B-NOH
+위	위	NNB	I-NOH
+_	_	_	O
+소감	소감	NNG	O
+을	을	JKO	O
+_	_	_	O
+전하	전하	VV	O
+여	여	EC	O
+_	_	_	O
+"	"	SS	O
+감사합니다	감사하+ㅂ니다	VV+EF	O
+.	.	SF	O
+
+## 12
+## 분당서울대병원 의료진은 급하게 회의를 열어야 했다.
+## <분당서울대병원:ORG> 의료진은 급하게 회의를 열어야 했다.
+분당서울대병원	분당서울대병원	NNP	B-ORG
+_	_	_	O
+의료진	의료진	NNG	O
+은	은	JX	O
+_	_	_	O
+급하	급하	VA	O
+게	게	EC	O
+_	_	_	O
+회의	회의	NNG	O
+를	를	JKO	O
+_	_	_	O
+열	열	VV	O
+어야	어야	EC	O
+_	_	_	O
+했	+였	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## 양훈은 전날 열린 1차전에 선발 투수로 5와 3분의 1이닝 동안 1실점했다.
+## <양훈:PER>은 전날 열린 <1차전:NOH>에 선발 투수로 <5와 3분의 1이닝:NOH> 동안 <1실점:NOH>했다.
+양훈	양훈	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+전날	전날	NNG	O
+_	_	_	O
+열린	열리+ㄴ	VV+ETM	O
+_	_	_	O
+1	1	SN	B-NOH
+차	차	NNB	I-NOH
+전	전	XSN	I-NOH
+에	에	JKB	O
+_	_	_	O
+선발	선발	NNG	O
+_	_	_	O
+투수	투수	NNG	O
+로	로	JKB	O
+_	_	_	O
+5	5	SN	B-NOH
+와	와	JC	I-NOH
+_	_	_	I-NOH
+3	3	SN	I-NOH
+분	분	XSN	I-NOH
+의	의	JKG	I-NOH
+_	_	_	I-NOH
+1	1	SN	I-NOH
+이닝	이닝	NNG	I-NOH
+_	_	_	O
+동안	동안	NNG	O
+_	_	_	O
+1	1	SN	B-NOH
+실점	실점하	VV	I-NOH
+했	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 14
+## 경과에 따라 3차 수술을 받을 수도 있다.
+## 경과에 따라 <3차:NOH> 수술을 받을 수도 있다.
+경과	경과	NNG	O
+에	에	JKB	O
+_	_	_	O
+따	따르	VV	O
+라	아	EC	O
+_	_	_	O
+3	3	SN	B-NOH
+차	차	NNB	I-NOH
+_	_	_	O
+수술	수술	NNG	O
+을	을	JKO	O
+_	_	_	O
+받	받	VV	O
+을	을	ETM	O
+_	_	_	O
+수	수	NNB	O
+도	도	JX	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 15
+## 또한 소극장 공연으로는 유례없이 오픈과 동시에 인터파크 티켓 예매처 뮤지컬 중 예매순위 1위를 차지하는 기염을 토했다.
+## 또한 소극장 공연으로는 유례없이 오픈과 동시에 <인터파크:POH> 티켓 예매처 뮤지컬 중 예매순위 <1위:NOH>를 차지하는 기염을 토했다.
+또한	또한	MAG	O
+_	_	_	O
+소극장	소극장	NNG	O
+_	_	_	O
+공연	공연	NNG	O
+으로	으로	JKB	O
+는	는	JX	O
+_	_	_	O
+유례	유례	NNG	O
+없이	없이	MAG	O
+_	_	_	O
+오픈	오픈	NNG	O
+과	과	JC	O
+_	_	_	O
+동시	동시	NNG	O
+에	에	JKB	O
+_	_	_	O
+인터파크	인터파크	NNP	B-POH
+_	_	_	O
+티켓	티켓	NNG	O
+_	_	_	O
+예매처	예매처	NNG	O
+_	_	_	O
+뮤지컬	뮤지컬	NNG	O
+_	_	_	O
+중	중	NNP	O
+_	_	_	O
+예매	예매	NNG	O
+순위	순위	NNG	O
+_	_	_	O
+1	1	SN	B-NOH
+위	위	NNB	I-NOH
+를	를	JKO	O
+_	_	_	O
+차지하	차지하	VV	O
+는	는	ETM	O
+_	_	_	O
+기염	기염	NNG	O
+을	을	JKO	O
+_	_	_	O
+토	토하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 16
+## 공개연애에 대해 전소민은 “공개연애는 흑역사가 될 수도 있다.
+## 공개연애에 대해 <전소민:PER>은 “공개연애는 흑역사가 될 수도 있다.
+공개	공개	NNG	O
+연애	연애	NNG	O
+에	에	JKB	O
+_	_	_	O
+대해	대하+여	VV+EC	O
+_	_	_	O
+전소민	전소민	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+“	“	SS	O
+공개	공개	NNG	O
+연애	연애	NNG	O
+는	는	JX	O
+_	_	_	O
+흑	흑	NNG	O
+역사	역사	NNG	O
+가	가	JKC	O
+_	_	_	O
+될	되+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+도	도	JX	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+.	.	SF	O
+

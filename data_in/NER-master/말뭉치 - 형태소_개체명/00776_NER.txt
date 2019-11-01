@@ -1,0 +1,567 @@
+## 1
+## 이지원 사원은 “영업 부문은 전국 대리점을 돌아다니는 등 대외 활동이 많은 곳이라 분위기가 딱딱하지 않다”고 설명했다.
+## <이지원:PER> 사원은 “영업 부문은 전국 대리점을 돌아다니는 등 대외 활동이 많은 곳이라 분위기가 딱딱하지 않다”고 설명했다.
+이지원	이지원	NNP	B-PER
+_	_	_	O
+사원	사원	NNG	O
+은	은	JX	O
+_	_	_	O
+“	“	SS	O
+영업	영업	NNG	O
+_	_	_	O
+부문	부문	NNG	O
+은	은	JX	O
+_	_	_	O
+전국	전국	NNG	O
+_	_	_	O
+대리점	대리점	NNG	O
+을	을	JKO	O
+_	_	_	O
+돌아다니	돌아다니	VV	O
+는	는	ETM	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+대외	대외	NNG	O
+_	_	_	O
+활동	활동	NNG	O
+이	이	JKS	O
+_	_	_	O
+많	많	VA	O
+은	은	ETM	O
+_	_	_	O
+곳	곳	NNG	O
+이	이	VCP	O
+라	라	EC	O
+_	_	_	O
+분위기	분위기	NNG	O
+가	가	JKS	O
+_	_	_	O
+딱딱하	딱딱하	VA	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+다	다	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+설명	설명하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## ‘아녀자’의 국정농단에 휘둘린 것은 정부 하나로 족하다.
+## ‘아녀자’의 국정농단에 휘둘린 것은 정부 <하나:NOH>로 족하다.
+‘	‘	SS	O
+아녀자	아녀자	NNG	O
+’	’	SS	O
+의	의	JKG	O
+_	_	_	O
+국정	국정	NNG	O
+농단	농단	NNG	O
+에	에	JKB	O
+_	_	_	O
+휘둘린	휘둘리+ㄴ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+은	은	JX	O
+_	_	_	O
+정부	정부	NNG	O
+_	_	_	O
+하나	하나	NNG	B-NOH
+로	로	JKB	O
+_	_	_	O
+족하	족하	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 작년 하반기부터 PC 시장은 인텔의 6세대 코어 시리즈(코드명 스카이레이크) 프로세서로 본격 세대 전환을 시작했다.
+## 작년 하반기부터 PC 시장은 <인텔:ORG>의 <6세대 코어 시리즈:POH>(코드명 <스카이레이크:POH>) 프로세서로 본격 세대 전환을 시작했다.
+작년	작년	NNG	O
+_	_	_	O
+하반기	하반기	NNG	O
+부터	부터	JX	O
+_	_	_	O
+PC	PC	SL	O
+_	_	_	O
+시장	시장	NNG	O
+은	은	JX	O
+_	_	_	O
+인텔	인텔	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+6	6	SN	B-POH
+세대	세대	NNG	I-POH
+_	_	_	I-POH
+코어	코어	NNG	I-POH
+_	_	_	I-POH
+시리즈	시리즈	NNG	I-POH
+(	(	SS	O
+코드	코드	NNG	O
+명	명	NNG	O
+_	_	_	O
+스카이	스카이	NNG	B-POH
+레이크	레이크	NNP	I-POH
+)	)	SS	O
+_	_	_	O
+프로세서	프로세서	NNG	O
+로	로	JKB	O
+_	_	_	O
+본격	본격	NNG	O
+_	_	_	O
+세대	세대	NNG	O
+_	_	_	O
+전환	전환	NNG	O
+을	을	JKO	O
+_	_	_	O
+시작	시작하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 롯데는 골프장 96만 m²(18홀)와 인근 임야 82만 m²를 소유하고 있다.
+## <롯데:ORG>는 골프장 <96만 m²:NOH>(<18홀:NOH>)와 인근 임야 <82만 m²:NOH>를 소유하고 있다.
+롯데	롯데	NNP	B-ORG
+는	는	JX	O
+_	_	_	O
+골프장	골프장	NNG	O
+_	_	_	O
+96	96	SN	B-NOH
+만	만	NR	I-NOH
+_	_	_	I-NOH
+m	m	SL	I-NOH
+²	²	SW	I-NOH
+(	(	SS	O
+18	18	SN	B-NOH
+홀	홀	NNG	I-NOH
+)	)	SS	O
+와	와	JKB	O
+_	_	_	O
+인근	인근	NNG	O
+_	_	_	O
+임야	임야	NNG	O
+_	_	_	O
+82	82	SN	B-NOH
+만	만	NR	I-NOH
+_	_	_	I-NOH
+m	m	SL	I-NOH
+²	²	SW	I-NOH
+를	를	JKO	O
+_	_	_	O
+소유하	소유하	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 자동차학원엔 이례적으로 2월까지 수강생이 몰려들었지만 부동산중개사무소는 주택을 사고 팔려는 수요가 크게 줄면서 울상이었다.
+## 자동차학원엔 이례적으로 <2월:DAT>까지 수강생이 몰려들었지만 부동산중개사무소는 주택을 사고 팔려는 수요가 크게 줄면서 울상이었다.
+자동차	자동차	NNG	O
+학원	학원	NNG	O
+엔	에+ㄴ	JKB+JX	O
+_	_	_	O
+이례적	이례적	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+2	2	SN	B-DAT
+월	월	NNB	I-DAT
+까지	까지	JX	O
+_	_	_	O
+수강생	수강생	NNG	O
+이	이	JKS	O
+_	_	_	O
+몰려들	몰려들	VV	O
+었	었	EP	O
+지만	지만	EC	O
+_	_	_	O
+부동산	부동산	NNG	O
+중개	중개	NNG	O
+사무소	사무소	NNG	O
+는	는	JX	O
+_	_	_	O
+주택	주택	NNG	O
+을	을	JKO	O
+_	_	_	O
+사	사	VV	O
+고	고	EC	O
+_	_	_	O
+팔	팔	VV	O
+려는	려는	ETM	O
+_	_	_	O
+수요	수요	NNG	O
+가	가	JKS	O
+_	_	_	O
+크	크	VA	O
+게	게	EC	O
+_	_	_	O
+줄	줄	VV	O
+면서	면서	EC	O
+_	_	_	O
+울상	울상	NNG	O
+이	이	VCP	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 보통 자동차학원에 수강생이 몰리는 시기는 대학생들의 방학기간인 7월과 12~1월이다.
+## 보통 자동차학원에 수강생이 몰리는 시기는 대학생들의 방학기간인 <7월:DAT>과 <12:DAT>~<1월:DAT>이다.
+보통	보통	NNG	O
+_	_	_	O
+자동차	자동차	NNG	O
+학원	학원	NNG	O
+에	에	JKB	O
+_	_	_	O
+수강생	수강생	NNG	O
+이	이	JKS	O
+_	_	_	O
+몰리	몰리	VV	O
+는	는	ETM	O
+_	_	_	O
+시기	시기	NNG	O
+는	는	JX	O
+_	_	_	O
+대학생	대학생	NNG	O
+들	들	XSN	O
+의	의	JKG	O
+_	_	_	O
+방학	방학	NNG	O
+기간	기간	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+7	7	SN	B-DAT
+월	월	NNB	I-DAT
+과	과	JC	O
+_	_	_	O
+12	12	SN	B-DAT
+~	~	SO	O
+1	1	SN	B-DAT
+월	월	NNB	I-DAT
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 중국에는 우주 육종으로 만들어진 식물의 품종만 800종이 넘는다.
+## <중국:ORG>에는 우주 육종으로 만들어진 식물의 품종만 <800종:NOH>이 넘는다.
+중국	중국	NNP	B-ORG
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+우주	우주	NNG	O
+_	_	_	O
+육종	육종	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+만들	만들	VV	O
+어	어	EC	O
+진	지+ㄴ	VX+ETM	O
+_	_	_	O
+식물	식물	NNG	O
+의	의	JKG	O
+_	_	_	O
+품종	품종	NNG	O
+만	만	JX	O
+_	_	_	O
+800	800	SN	B-NOH
+종	종	NNG	I-NOH
+이	이	JKS	O
+_	_	_	O
+넘	넘	VV	O
+는다	는다	EF	O
+.	.	SF	O
+
+## 8
+## 옥션, 고양이용품 구매단가 강아지보다 평균 40% 높아
+## <옥션:ORG>, 고양이용품 구매단가 강아지보다 평균 <40%:PNT> 높아
+옥션	옥션	NNP	B-ORG
+,	,	SP	O
+_	_	_	O
+고양이	고양이	NNG	O
+용품	용품	NNG	O
+_	_	_	O
+구매	구매	NNG	O
+단가	단가	NNG	O
+_	_	_	O
+강아지	강아지	NNG	O
+보다	보다	JKB	O
+_	_	_	O
+평균	평균	NNG	O
+_	_	_	O
+40	40	SN	B-PNT
+%	%	SW	I-PNT
+_	_	_	O
+높	높	VA	O
+아	아	EC	O
+
+## 9
+## 뿌리 뽑아야’ ‘외국 언론, 한국 경제 비관-정부 왜곡에 강력 대응’-.1997년 초부터 11월 초순까지 언론에 보도된 기사 제목이다.
+## 뿌리 뽑아야’ ‘외국 언론, <한국:ORG> 경제 비관-정부 왜곡에 강력 대응’-.<1997년:DAT> 초부터 <11월:DAT> 초순까지 언론에 보도된 기사 제목이다.
+뿌리	뿌리	NNG	O
+_	_	_	O
+뽑	뽑	VV	O
+아야	아야	EF	O
+’	’	SS	O
+_	_	_	O
+‘	‘	SS	O
+외국	외국	NNG	O
+_	_	_	O
+언론	언론	NNG	O
+,	,	SP	O
+_	_	_	O
+한국	한국	NNP	B-ORG
+_	_	_	O
+경제	경제	NNG	O
+_	_	_	O
+비관	비관	NNG	O
+-	-	SO	O
+정부	정부	NNG	O
+_	_	_	O
+왜곡	왜곡	NNG	O
+에	에	JKB	O
+_	_	_	O
+강력	강력	NNG	O
+_	_	_	O
+대응	대응	NNG	O
+’	’	SS	O
+-	-	SO	O
+.1997	.1997	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+초	초	NNB	O
+부터	부터	JX	O
+_	_	_	O
+11	11	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+초순	초순	NNG	O
+까지	까지	JX	O
+_	_	_	O
+언론	언론	NNG	O
+에	에	JKB	O
+_	_	_	O
+보도된	보도되+ㄴ	VV+ETM	O
+_	_	_	O
+기사	기사	NNG	O
+_	_	_	O
+제목	제목	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## ‘블러드’는 태민암병원을 중심으로 불치병 환자들을 치료하고, 생명의 존귀함과 정의를 위해 고군분투하는 한 뱀파이어 외과의사의 성장 스토리를 담은 판타지 메디컬 드라마다.
+## ‘<블러드:POH>’는 <태민암병원:ORG>을 중심으로 불치병 환자들을 치료하고, 생명의 존귀함과 정의를 위해 고군분투하는 한 뱀파이어 외과의사의 성장 스토리를 담은 판타지 메디컬 드라마다.
+‘	‘	SS	O
+블러드	블러드	NNG	B-POH
+’	’	SS	O
+는	는	JX	O
+_	_	_	O
+태민	태민	NNP	B-ORG
+암	암	NNG	I-ORG
+병원	병원	NNG	I-ORG
+을	을	JKO	O
+_	_	_	O
+중심	중심	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+불치병	불치병	NNG	O
+_	_	_	O
+환자	환자	NNG	O
+들	들	XSN	O
+을	을	JKO	O
+_	_	_	O
+치료하	치료하	VV	O
+고	고	EC	O
+,	,	SP	O
+_	_	_	O
+생명	생명	NNG	O
+의	의	JKG	O
+_	_	_	O
+존귀함	존귀하+ㅁ	VA+ETN	O
+과	과	JKB	O
+_	_	_	O
+정의	정의	NNG	O
+를	를	JKO	O
+_	_	_	O
+위해	위하+여	VV+EC	O
+_	_	_	O
+고군분투하	고군분투하	VV	O
+는	는	ETM	O
+_	_	_	O
+한	한	NNP	O
+_	_	_	O
+뱀파이어	뱀파이어	NNG	O
+_	_	_	O
+외과	외과	NNG	O
+의사	의사	NNG	O
+의	의	JKG	O
+_	_	_	O
+성장	성장	NNG	O
+_	_	_	O
+스토리	스토리	NNG	O
+를	를	JKO	O
+_	_	_	O
+담	담	VV	O
+은	은	ETM	O
+_	_	_	O
+판타지	판타지	NNG	O
+_	_	_	O
+메디컬	메디컬	NNG	O
+_	_	_	O
+드라마	드라마+이	NNG+VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## '굿 닥터' 기민수 PD와 박재범 작가가 재결합한 기대작이다.
+## '<굿 닥터:POH>' <기민수:PER> PD와 <박재범:PER> 작가가 재결합한 기대작이다.
+'	'	SS	O
+굿	굿	NNG	B-POH
+_	_	_	I-POH
+닥터	닥터	NNG	I-POH
+'	'	SS	O
+_	_	_	O
+기민수	기민수	NNP	B-PER
+_	_	_	O
+PD	PD	SL	O
+와	와	JC	O
+_	_	_	O
+박재범	박재범	NNP	B-PER
+_	_	_	O
+작가	작가	NNG	O
+가	가	JKS	O
+_	_	_	O
+재결합한	재결합하+ㄴ	VV+ETM	O
+_	_	_	O
+기대	기대	NNG	O
+작	작	XSN	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 온라인 중앙일보‘블러드’ [사진 KBS 2TV ‘블러드’ 캡처]
+## 온라인 <중앙일보:ORG>‘<블러드:POH>’ [사진 <KBS 2TV:POH> ‘<블러드:POH>’ 캡처]
+온라인	온라인	NNG	O
+_	_	_	O
+중앙일보	중앙일보	NNP	B-ORG
+‘	‘	SS	O
+블러드	블러드	NNG	B-POH
+’	’	SS	O
+_	_	_	O
+[	[	SS	O
+사진	사진	NNG	O
+_	_	_	O
+KBS	KBS	SL	B-POH
+_	_	_	I-POH
+2	2	SN	I-POH
+TV	TV	SL	I-POH
+_	_	_	O
+‘	‘	SS	O
+블러드	블러드	NNG	B-POH
+’	’	SS	O
+_	_	_	O
+캡처	캡처	NNG	O
+]	]	SS	O
+
+## 13
+## 전광판 카운트다운, ‘뉴욕 타임스퀘어 새해맞이’ 벤치마킹
+## 전광판 카운트다운, ‘<뉴욕:LOC> <타임스퀘어:LOC> 새해맞이’ 벤치마킹
+전광판	전광판	NNG	O
+_	_	_	O
+카운트다운	카운트다운	NNG	O
+,	,	SP	O
+_	_	_	O
+‘	‘	SS	O
+뉴욕	뉴욕	NNP	B-LOC
+_	_	_	O
+타임스퀘어	타임스퀘어	NNP	B-LOC
+_	_	_	O
+새해맞이	새해맞이	NNG	O
+’	’	SS	O
+_	_	_	O
+벤치마킹	벤치마킹	NNG	O
+
+## 14
+## 박 대통령은 홍용표 통일부 장관의 발언으로 논란이 되고 있는 개성공단 자금 전용(轉用)에 대해서도 직접 설명했다.
+## <박:PER> 대통령은 <홍용표:PER> 통일부 장관의 발언으로 논란이 되고 있는 개성공단 자금 전용(轉用)에 대해서도 직접 설명했다.
+박	박	NNP	B-PER
+_	_	_	O
+대통령	대통령	NNG	O
+은	은	JX	O
+_	_	_	O
+홍용표	홍용표	NNP	B-PER
+_	_	_	O
+통일부	통일부	NNG	O
+_	_	_	O
+장관	장관	NNG	O
+의	의	JKG	O
+_	_	_	O
+발언	발언	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+논란	논란	NNG	O
+이	이	JKC	O
+_	_	_	O
+되	되	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+는	는	ETM	O
+_	_	_	O
+개성	개성	NNP	O
+공단	공단	NNG	O
+_	_	_	O
+자금	자금	NNG	O
+_	_	_	O
+전용	전용	NNG	O
+(	(	SS	O
+轉用	轉用	SH	O
+)	)	SS	O
+에	에	JKB	O
+_	_	_	O
+대해서	대하+여서	VV+EC	O
+도	도	JX	O
+_	_	_	O
+직접	직접	MAG	O
+_	_	_	O
+설명	설명하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 15
+## 코웨이, 중금속 논란 탓 주가 급락…하루 만에 5784억 사라져(종합)
+## <코웨이:ORG>, 중금속 논란 탓 주가 급락…하루 만에 <5784억:MNY> 사라져(종합)
+코웨이	코웨이	NNP	B-ORG
+,	,	SP	O
+_	_	_	O
+중금속	중금속	NNG	O
+_	_	_	O
+논란	논란	NNG	O
+_	_	_	O
+탓	탓	NNG	O
+_	_	_	O
+주가	주가	NNG	O
+_	_	_	O
+급락	급락	NNG	O
+…	…	SE	O
+하루	하루	NNG	O
+_	_	_	O
+만	만	NNB	O
+에	에	JKB	O
+_	_	_	O
+5784	5784	SN	B-MNY
+억	억	NR	I-MNY
+_	_	_	O
+사라져	사라지+어	VV+EF	O
+(	(	SS	O
+종합	종합	NNG	O
+)	)	SS	O
+

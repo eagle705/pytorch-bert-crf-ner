@@ -1,0 +1,334 @@
+## 1
+## 메르스 확산 이번 주가 고비 "8명 추가 환자 발생…사망자 1명 늘어"메르스 사망자가 총 7명으로 늘었다.
+## <메르스:POH> 확산 이번 주가 고비 "<8명:NOH> 추가 환자 발생…사망자 <1명:NOH> 늘어"<메르스:POH> 사망자가 총 <7명:NOH>으로 늘었다.
+메르스	메르스	NNG	B-POH
+_	_	_	O
+확산	확산	NNG	O
+_	_	_	O
+이번	이번	NNG	O
+_	_	_	O
+주가	주가	NNG	O
+_	_	_	O
+고비	고비	NNG	O
+_	_	_	O
+"	"	SS	O
+8	8	SN	B-NOH
+명	명	NNB	I-NOH
+_	_	_	O
+추가	추가	NNG	O
+_	_	_	O
+환자	환자	NNG	O
+_	_	_	O
+발생	발생	NNG	O
+…	…	SE	O
+사망자	사망자	NNG	O
+_	_	_	O
+1	1	SN	B-NOH
+명	명	NNB	I-NOH
+_	_	_	O
+늘	늘	VV	O
+어	어	EF	O
+"	"	SS	O
+메르스	메르스	NNG	B-POH
+_	_	_	O
+사망자	사망자	NNG	O
+가	가	JKS	O
+_	_	_	O
+총	총	MM	O
+_	_	_	O
+7	7	SN	B-NOH
+명	명	NNB	I-NOH
+으로	으로	JKB	O
+_	_	_	O
+늘	늘	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 국무부로부터 승인 회신이 오는 대로 북한을 찾을 것으로 보인다.
+## <국무부:ORG>로부터 승인 회신이 오는 대로 <북한:ORG>을 찾을 것으로 보인다.
+국무부	국무부	NNG	B-ORG
+로부터	로부터	JKB	O
+_	_	_	O
+승인	승인	NNG	O
+_	_	_	O
+회신	회신	NNG	O
+이	이	JKS	O
+_	_	_	O
+오	오	VV	O
+는	는	ETM	O
+_	_	_	O
+대로	대로	NNB	O
+_	_	_	O
+북한	북한	NNP	B-ORG
+을	을	JKO	O
+_	_	_	O
+찾	찾	VV	O
+을	을	ETM	O
+_	_	_	O
+것	것	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+보인다	보이+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 3
+## 환자 많아 진료 대기 아르바이트 생겨김 원장은 귀국한 이듬해 영동세브란스병원(현 강남세브란스병원)에 둥지를 틀고 진료에 매진했다.
+## 환자 많아 진료 대기 아르바이트 생겨<김:PER> 원장은 귀국한 이듬해 <영동세브란스병원:ORG>(현 <강남세브란스병원:ORG>)에 둥지를 틀고 진료에 매진했다.
+환자	환자	NNG	O
+_	_	_	O
+많	많	VA	O
+아	아	EC	O
+_	_	_	O
+진료	진료	NNG	O
+_	_	_	O
+대기	대기	NNG	O
+_	_	_	O
+아르바이트	아르바이트	NNG	O
+_	_	_	O
+생겨김	생겨김	NNG	B-PER
+_	_	_	O
+원장	원장	NNG	O
+은	은	JX	O
+_	_	_	O
+귀국한	귀국하+ㄴ	VV+ETM	O
+_	_	_	O
+이듬해	이듬해	NNG	O
+_	_	_	O
+영동세브란스병원	영동세브란스병원	NNP	B-ORG
+(	(	SS	O
+현	현	MM	O
+_	_	_	O
+강남세브란스병원	강남세브란스병원	NNP	B-ORG
+)	)	SS	O
+에	에	JKB	O
+_	_	_	O
+둥지	둥지	NNG	O
+를	를	JKO	O
+_	_	_	O
+틀	틀	VV	O
+고	고	EC	O
+_	_	_	O
+진료	진료	NNG	O
+에	에	JKB	O
+_	_	_	O
+매진	매진하	VV	O
+했	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 또 지난해 5월부터 학생이 지도교수를 교체할 수 있는 ‘지도교수 자유선택제’도 운영 중이다.
+## 또 지난해 <5월:DAT>부터 학생이 지도교수를 교체할 수 있는 ‘지도교수 자유선택제’도 운영 중이다.
+또	또	MAG	O
+_	_	_	O
+지난해	지난해	NNG	O
+_	_	_	O
+5	5	SN	B-DAT
+월	월	NNB	I-DAT
+부터	부터	JX	O
+_	_	_	O
+학생	학생	NNG	O
+이	이	JKS	O
+_	_	_	O
+지도	지도	NNG	O
+교수	교수	NNG	O
+를	를	JKO	O
+_	_	_	O
+교체할	교체하+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+는	는	ETM	O
+_	_	_	O
+‘	‘	SS	O
+지도	지도	NNG	O
+교수	교수	NNG	O
+_	_	_	O
+자유	자유	NNG	O
+선택	선택	NNG	O
+제	제	XPN	O
+’	’	SS	O
+도	도	JX	O
+_	_	_	O
+운영	운영	NNG	O
+_	_	_	O
+중	중	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 5년 전에 비해 약 40% 성장했다.
+## 5년 전에 비해 약 <40%:PNT> 성장했다.
+5	5	SN	O
+년	년	NNB	O
+_	_	_	O
+전	전	NNG	O
+에	에	JKB	O
+_	_	_	O
+비해	비하+여	VV+EC	O
+_	_	_	O
+약	약	MM	O
+_	_	_	O
+40	40	SN	B-PNT
+%	%	SW	I-PNT
+_	_	_	O
+성장	성장하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 우정사업본부는 국내 쇼핑몰을 이용하는 중국 소비자들에게 일괄적으로 우체국 국제특송(EMS) 비용을 36% 할인해 배송비 부담을 덜어준다.
+## <우정사업본부:ORG>는 국내 쇼핑몰을 이용하는 <중국:ORG> 소비자들에게 일괄적으로 우체국 국제특송(EMS) 비용을 <36%:PNT> 할인해 배송비 부담을 덜어준다.
+우정	우정	NNG	B-ORG
+사업	사업	NNG	I-ORG
+본부	본부	NNG	I-ORG
+는	는	JX	O
+_	_	_	O
+국내	국내	NNG	O
+_	_	_	O
+쇼핑몰	쇼핑몰	NNG	O
+을	을	JKO	O
+_	_	_	O
+이용하	이용하	VV	O
+는	는	ETM	O
+_	_	_	O
+중국	중국	NNP	B-ORG
+_	_	_	O
+소비자	소비자	NNG	O
+들	들	XSN	O
+에게	에게	JKB	O
+_	_	_	O
+일괄적	일괄적	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+우체국	우체국	NNG	O
+_	_	_	O
+국제	국제	NNG	O
+특송	특송	NNG	O
+(	(	SS	O
+EMS	EMS	SL	O
+)	)	SS	O
+_	_	_	O
+비용	비용	NNG	O
+을	을	JKO	O
+_	_	_	O
+36	36	SN	B-PNT
+%	%	SW	I-PNT
+_	_	_	O
+할인해	할인하+여	VV+EC	O
+_	_	_	O
+배송	배송	NNG	O
+비	비	XSN	O
+_	_	_	O
+부담	부담	NNG	O
+을	을	JKO	O
+_	_	_	O
+덜	덜	VV	O
+어	어	EC	O
+준다	주+ㄴ다	VX+EF	O
+.	.	SF	O
+
+## 7
+## 산업부에 따르면 행사사이트에는 22일까지 일평균 11만 6000명(누적 127만 명)이 방문했다.
+## <산업부:ORG>에 따르면 행사사이트에는 <22일:DAT>까지 일평균 <11만 6000명:NOH>(누적 <127만 명:NOH>)이 방문했다.
+산업	산업	NNG	B-ORG
+부	부	XSN	I-ORG
+에	에	JKB	O
+_	_	_	O
+따르	따르	VV	O
+면	면	EC	O
+_	_	_	O
+행사	행사	NNG	O
+사이트	사이트	NNG	O
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+22	22	SN	B-DAT
+일	일	NNB	I-DAT
+까지	까지	JX	O
+_	_	_	O
+일평균	일평균	NNG	O
+_	_	_	O
+11	11	SN	B-NOH
+만	만	NR	I-NOH
+_	_	_	I-NOH
+6000	6000	SN	I-NOH
+명	명	NNB	I-NOH
+(	(	SS	O
+누적	누적	NNG	O
+_	_	_	O
+127	127	SN	B-NOH
+만	만	NR	I-NOH
+_	_	_	I-NOH
+명	명	NNB	I-NOH
+)	)	SS	O
+이	이	JKS	O
+_	_	_	O
+방문	방문하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 1인당 평균 기부 액수도 8400원으로 통일부의 약 2배인데, 상담원의 3분의 1은 탈북자다.
+## <1인:NOH>당 평균 기부 액수도 <8400원:MNY>으로 <통일부:ORG>의 약 <2배:PNT>인데, 상담원의 <3분의 1:PNT>은 탈북자다.
+1	1	SN	B-NOH
+인	인	NNG	I-NOH
+당	당	XSN	O
+_	_	_	O
+평균	평균	NNG	O
+_	_	_	O
+기부	기부	NNG	O
+_	_	_	O
+액수	액수	NNG	O
+도	도	JX	O
+_	_	_	O
+8400	8400	SN	B-MNY
+원	원	NNB	I-MNY
+으로	으로	JKB	O
+_	_	_	O
+통일부	통일부	NNG	B-ORG
+의	의	JKG	O
+_	_	_	O
+약	약	MM	O
+_	_	_	O
+2	2	SN	B-PNT
+배	배	NNG	I-PNT
+인데	이+ㄴ데	VCP+EC	O
+,	,	SP	O
+_	_	_	O
+상담원	상담원	NNG	O
+의	의	JKG	O
+_	_	_	O
+3	3	SN	B-PNT
+분	분	XSN	I-PNT
+의	의	JKG	I-PNT
+_	_	_	I-PNT
+1	1	SN	I-PNT
+은	은	JX	O
+_	_	_	O
+탈북자	탈북자	NNG	O
+다	다	NNG	O
+.	.	SF	O
+
+## 9
+## 아슬아슬했던 트럼프의 입 결국 …
+## 아슬아슬했던 <트럼프:PER>의 입 결국 …
+아슬아슬	아슬아슬하	VA	O
+했	였	EP	O
+던	던	ETM	O
+_	_	_	O
+트럼프	트럼프	NNP	B-PER
+의	의	JKG	O
+_	_	_	O
+입	입	NNG	O
+_	_	_	O
+결국	결국	NNG	O
+_	_	_	O
+…	…	SE	O
+

@@ -1,0 +1,441 @@
+## 1
+## 공기통해 전염 “위험”… 발병 3∼5일내 치사
+## 공기통해 전염 “위험”… 발병 <3:DAT>∼<5일:DAT>내 치사
+공기	공기	NNG	O
+통해	통하+여	VV+EC	O
+_	_	_	O
+전염	전염	NNG	O
+_	_	_	O
+“	“	SS	O
+위험	위험	NNG	O
+”	”	SS	O
+…	…	SE	O
+_	_	_	O
+발병	발병	NNG	O
+_	_	_	O
+3	3	SN	B-DAT
+∼	∼	SO	O
+5	5	SN	B-DAT
+일	일	NNB	I-DAT
+내	내	NNB	O
+_	_	_	O
+치사	치사	NNG	O
+
+## 2
+## 500만명은 국내 신용카드 이용자의 20%에 육박하는 수치. 그 중 카드 등록률은 99%에 이른다.
+## <500만명:NOH>은 국내 신용카드 이용자의 <20%:PNT>에 육박하는 수치. 그 중 카드 등록률은 <99%:PNT>에 이른다.
+500	500	SN	B-NOH
+만	만	NR	I-NOH
+명	명	NNB	I-NOH
+은	은	JX	O
+_	_	_	O
+국내	국내	NNG	O
+_	_	_	O
+신용카드	신용카드	NNG	O
+_	_	_	O
+이용자	이용자	NNG	O
+의	의	JKG	O
+_	_	_	O
+20	20	SN	B-PNT
+%	%	SW	I-PNT
+에	에	JKB	O
+_	_	_	O
+육박하	육박하	VV	O
+는	는	ETM	O
+_	_	_	O
+수치	수치	NNG	O
+.	.	SF	O
+_	_	_	O
+그	그	MM	O
+_	_	_	O
+중	중	NNB	O
+_	_	_	O
+카드	카드	NNG	O
+_	_	_	O
+등록	등록	NNG	O
+률	률	XSN	O
+은	은	JX	O
+_	_	_	O
+99	99	SN	B-PNT
+%	%	SW	I-PNT
+에	에	JKB	O
+_	_	_	O
+이른다	이르+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 3
+## 무게 모양 등을 평가해 가격을 정한 뒤 일반인을 대상으로 경매를 열고 직거래 장터에서 6년근 인삼을 싸게 살 수 있다.
+## 무게 모양 등을 평가해 가격을 정한 뒤 일반인을 대상으로 경매를 열고 직거래 장터에서 <6년근:NOH> 인삼을 싸게 살 수 있다.
+무게	무게	NNG	O
+_	_	_	O
+모양	모양	NNG	O
+_	_	_	O
+등	등	NNB	O
+을	을	JKO	O
+_	_	_	O
+평가해	평가하+여	VV+EC	O
+_	_	_	O
+가격	가격	NNG	O
+을	을	JKO	O
+_	_	_	O
+정한	정하+ㄴ	VV+ETM	O
+_	_	_	O
+뒤	뒤	NNG	O
+_	_	_	O
+일반인	일반인	NNG	O
+을	을	JKO	O
+_	_	_	O
+대상	대상	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+경매	경매	NNG	O
+를	를	JKO	O
+_	_	_	O
+열	열	VV	O
+고	고	EC	O
+_	_	_	O
+직거래	직거래	NNG	O
+_	_	_	O
+장터	장터	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+6	6	SN	B-NOH
+년	년	NNB	I-NOH
+근	근	NNG	I-NOH
+_	_	_	O
+인삼	인삼	NNG	O
+을	을	JKO	O
+_	_	_	O
+싸	싸	VA	O
+게	게	EC	O
+_	_	_	O
+살	사+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 서울시, '아파트관리 온라인투표제' 전체 아파트 25% 확대 시행
+## <서울시:ORG>, '아파트관리 온라인투표제' 전체 아파트 <25%:PNT> 확대 시행
+서울시	서울시	NNP	B-ORG
+,	,	SP	O
+_	_	_	O
+'	'	SS	O
+아파트	아파트	NNG	O
+관리	관리	NNG	O
+_	_	_	O
+온라인	온라인	NNG	O
+투표	투표	NNG	O
+제	제	XPN	O
+'	'	SS	O
+_	_	_	O
+전체	전체	NNG	O
+_	_	_	O
+아파트	아파트	NNG	O
+_	_	_	O
+25	25	SN	B-PNT
+%	%	SW	I-PNT
+_	_	_	O
+확대	확대	NNG	O
+_	_	_	O
+시행	시행	NNG	O
+
+## 5
+## 이밖에 계체량을 통과한 선수들과 100만 달러 토너먼트에서 공공의 적이 된 라이트급 챔피언 권아솔의 코멘트는 다음과 같다.
+## 이밖에 계체량을 통과한 선수들과 <100만 달러:MNY> 토너먼트에서 공공의 적이 된 라이트급 챔피언 <권아솔:PER>의 코멘트는 다음과 같다.
+이	이	NP	O
+밖에	밖에	JX	O
+_	_	_	O
+계체량	계체량	NNG	O
+을	을	JKO	O
+_	_	_	O
+통과한	통과하+ㄴ	VV+ETM	O
+_	_	_	O
+선수	선수	NNG	O
+들	들	XSN	O
+과	과	JKB	O
+_	_	_	O
+100	100	SN	B-MNY
+만	만	NR	I-MNY
+_	_	_	I-MNY
+달러	달러	NNB	I-MNY
+_	_	_	O
+토너먼트	토너먼트	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+공공	공공	NNG	O
+의	의	JKG	O
+_	_	_	O
+적	적	NNG	O
+이	이	JKC	O
+_	_	_	O
+된	되+ㄴ	VV+ETM	O
+_	_	_	O
+라이트급	라이트급	NNG	O
+_	_	_	O
+챔피언	챔피언	NNG	O
+_	_	_	O
+권	권	XSN	B-PER
+아솔	아솔	NNP	I-PER
+의	의	JKG	O
+_	_	_	O
+코멘트	코멘트	NNG	O
+는	는	JX	O
+_	_	_	O
+다음	다음	NNG	O
+과	과	JKB	O
+_	_	_	O
+같	같	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## ◆김창현 VS 앤디 메인▲앤디 메인 “이 대회에 참가할 수 있어 기쁘다.
+## ◆<김창현:PER> VS <앤디 메인:PER>▲<앤디:PER> 메인 “이 대회에 참가할 수 있어 기쁘다.
+◆	◆	SW	O
+김창현	김창현	NNP	B-PER
+_	_	_	O
+VS	VS	SL	O
+_	_	_	O
+앤디	앤디	NNP	B-PER
+_	_	_	I-PER
+메인	메인	NNG	I-PER
+▲	▲	SW	O
+앤디	앤디	NNP	B-PER
+_	_	_	O
+메인	메인	NNG	O
+_	_	_	O
+“	“	SS	O
+이	이	MM	O
+_	_	_	O
+대회	대회	NNG	O
+에	에	JKB	O
+_	_	_	O
+참가할	참가하+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+어	어	EC	O
+_	_	_	O
+기쁘	기쁘	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 캔자스시티는 시리즈 전적 3승1패로 앞서며 지난해 준우승의 아쉬움을 털어낼 절호의 기회를 맞았다.
+## <캔자스시티:ORG>는 시리즈 전적 <3승:NOH><1패:NOH>로 앞서며 지난해 준우승의 아쉬움을 털어낼 절호의 기회를 맞았다.
+캔자스시티	캔자스시티	NNP	B-ORG
+는	는	JX	O
+_	_	_	O
+시리즈	시리즈	NNG	O
+_	_	_	O
+전적	전적	NNG	O
+_	_	_	O
+3	3	SN	B-NOH
+승	승	NNB	I-NOH
+1	1	SN	B-NOH
+패	패	NNG	I-NOH
+로	로	JKB	O
+_	_	_	O
+앞서	앞서	VV	O
+며	며	EC	O
+_	_	_	O
+지난해	지난해	NNG	O
+_	_	_	O
+준우승	준우승	NNG	O
+의	의	JKG	O
+_	_	_	O
+아쉬움	아쉬움	NNG	O
+을	을	JKO	O
+_	_	_	O
+털	털	VV	O
+어	어	EC	O
+낼	내+ㄹ	VX+ETM	O
+_	_	_	O
+절호	절호	NNG	O
+의	의	JKG	O
+_	_	_	O
+기회	기회	NNG	O
+를	를	JKO	O
+_	_	_	O
+맞	맞	VV	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 건강 테마로한 사회공헌활동 펼쳐직원·회사 매칭 형태로 기금 조성어린이 등에 정서 지원 프로그램도KGC인삼공사는 직원들이 십시일반 모금한 금액만큼 회사에서 매칭해 조성된 ‘정관장 펀드’를 운영 중이다.
+## 건강 테마로한 사회공헌활동 펼쳐직원·회사 매칭 형태로 기금 조성어린이 등에 정서 지원 프로그램도<KGC인삼공사:ORG>는 직원들이 십시일반 모금한 금액만큼 회사에서 매칭해 조성된 ‘<정관장 펀드:POH>’를 운영 중이다.
+건강	건강	NNG	O
+_	_	_	O
+테마	테마	NNG	O
+로	로	JKB	O
+한	하+ㄴ	VV+ETM	O
+_	_	_	O
+사회	사회	NNG	O
+공헌	공헌	NNG	O
+활동	활동	NNG	O
+_	_	_	O
+펼쳐직원	펼쳐직원	NNG	O
+·	·	SP	O
+회사	회사	NNG	O
+_	_	_	O
+매칭	매칭	NNG	O
+_	_	_	O
+형태	형태	NNG	O
+로	로	JKB	O
+_	_	_	O
+기금	기금	NNG	O
+_	_	_	O
+조성	조성	NNG	O
+어린이	어린이	NNG	O
+_	_	_	O
+등	등	NNB	O
+에	에	JKB	O
+_	_	_	O
+정서	정서	NNG	O
+_	_	_	O
+지원	지원	NNG	O
+_	_	_	O
+프로그램	프로그램	NNG	O
+도	도	JX	O
+KGC	KGC	SL	B-ORG
+인삼	인삼	NNG	I-ORG
+공사	공사	NNG	I-ORG
+는	는	JX	O
+_	_	_	O
+직원	직원	NNG	O
+들	들	XSN	O
+이	이	JKS	O
+_	_	_	O
+십시일반	십시일반	NNG	O
+_	_	_	O
+모금한	모금하+ㄴ	VV+ETM	O
+_	_	_	O
+금액	금액	NNG	O
+만큼	만큼	NNB	O
+_	_	_	O
+회사	회사	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+매칭	매칭	NNG	O
+해	해	NNG	O
+_	_	_	O
+조성된	조성되+ㄴ	VV+ETM	O
+_	_	_	O
+‘	‘	SS	O
+정관장	정관장	NNP	B-POH
+_	_	_	I-POH
+펀드	펀드	NNG	I-POH
+’	’	SS	O
+를	를	JKO	O
+_	_	_	O
+운영	운영	NNG	O
+_	_	_	O
+중	중	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 중국전을 하루 앞두고 공식 기자회견에서는 "전술적으로도, 선수들의 컨디션도 완벽하다.
+## <중국:ORG>전을 하루 앞두고 공식 기자회견에서는 "전술적으로도, 선수들의 컨디션도 완벽하다.
+중국전	중국전	NNG	O
+을	을	JKO	O
+_	_	_	O
+하루	하루	NNG	O
+_	_	_	O
+앞두	앞두	VV	O
+고	고	EC	O
+_	_	_	O
+공식	공식	NNG	O
+_	_	_	O
+기자	기자	NNG	O
+회견	회견	NNG	O
+에서	에서	JKB	O
+는	는	JX	O
+_	_	_	O
+"	"	SS	O
+전술적	전술적	NNG	O
+으로	으로	JKB	O
+도	도	JX	O
+,	,	SP	O
+_	_	_	O
+선수	선수	NNG	O
+들	들	XSN	O
+의	의	JKG	O
+_	_	_	O
+컨디션	컨디션	NNG	O
+도	도	JX	O
+_	_	_	O
+완벽하	완벽하	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 군수산업 능력면에서 북한은 지상무기, 해상수중무기에서, 남한은 박격포및 구축함에서 각각 우세하다.
+## 군수산업 능력면에서 <북한:ORG>은 지상무기, 해상수중무기에서, <남한:ORG>은 박격포및 구축함에서 각각 우세하다.
+군수	군수	NNG	O
+산업	산업	NNG	O
+_	_	_	O
+능력	능력	NNG	O
+면	면	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+북한	북한	NNP	B-ORG
+은	은	JX	O
+_	_	_	O
+지상	지상	NNG	O
+무기	무기	NNG	O
+,	,	SP	O
+_	_	_	O
+해상	해상	NNG	O
+수중	수중	NNG	O
+무기	무기	NNG	O
+에서	에서	JKB	O
+,	,	SP	O
+_	_	_	O
+남한	남한	NNP	B-ORG
+은	은	JX	O
+_	_	_	O
+박격포	박격포	NNG	O
+및	및	MAG	O
+_	_	_	O
+구축함	구축함	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+각각	각각	MAG	O
+_	_	_	O
+우세하	우세하	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## “선두권인 삼성과의 첫 경기 때는 너무 긴장했어요.
+## “선두권인 <삼성:ORG>과의 <첫:NOH> 경기 때는 너무 긴장했어요.
+“	“	SS	O
+선두권	선두권	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+삼성	삼성	NNP	B-ORG
+과	과	JKB	O
+의	의	JKG	O
+_	_	_	O
+첫	첫	MM	B-NOH
+_	_	_	O
+경기	경기	NNG	O
+_	_	_	O
+때	때	NNG	O
+는	는	JX	O
+_	_	_	O
+너무	너무	MAG	O
+_	_	_	O
+긴장	긴장하	VV	O
+했	였	EP	O
+어요	어요	EF	O
+.	.	SF	O
+

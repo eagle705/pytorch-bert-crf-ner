@@ -1,0 +1,461 @@
+## 1
+## 5∼7월 전국 아파트 8만채 ‘집들이’
+## <5∼7월:DUR> 전국 아파트 <8만채:NOH> ‘집들이’
+5	5	SN	B-DUR
+∼	∼	SO	I-DUR
+7	7	SN	I-DUR
+월	월	NNB	I-DUR
+_	_	_	O
+전국	전국	NNG	O
+_	_	_	O
+아파트	아파트	NNG	O
+_	_	_	O
+8	8	SN	B-NOH
+만	만	NR	I-NOH
+채	채	NNB	I-NOH
+_	_	_	O
+‘	‘	SS	O
+집	집	NNG	O
+들	들	XSN	O
+이	이	JKS	O
+’	’	SS	O
+
+## 2
+## 넥센 히어로즈 서건창 십자인대 파열… 구단 '초 비상 사태' 벌어져…
+## <넥센 히어로즈:ORG> <서건창:PER> 십자인대 파열… 구단 '초 비상 사태' 벌어져…
+넥센	넥센	NNP	B-ORG
+_	_	_	I-ORG
+히어로즈	히어로즈	NNP	I-ORG
+_	_	_	O
+서건창	서건창	NNP	B-PER
+_	_	_	O
+십자	십자	NNG	O
+인대	인대	NNG	O
+_	_	_	O
+파열	파열	NNG	O
+…	…	SE	O
+_	_	_	O
+구단	구단	NNG	O
+_	_	_	O
+'	'	SS	O
+초	초	NNG	O
+_	_	_	O
+비상	비상	NNG	O
+_	_	_	O
+사태	사태	NNG	O
+'	'	SS	O
+_	_	_	O
+벌어져	벌어지+어	VV+EC	O
+…	…	SE	O
+
+## 3
+## 10월3일부터 서울을 시작으로 아시아 투어에 돌입한다.
+## <10월3일:DAT>부터 <서울:LOC>을 시작으로 <아시아:LOC> 투어에 돌입한다.
+10	10	SN	B-DAT
+월	월	NNB	I-DAT
+3	3	SN	I-DAT
+일	일	NNB	I-DAT
+부터	부터	JX	O
+_	_	_	O
+서울	서울	NNP	B-LOC
+을	을	JKO	O
+_	_	_	O
+시작	시작	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+아시아	아시아	NNP	B-LOC
+_	_	_	O
+투어	투어	NNG	O
+에	에	JKB	O
+_	_	_	O
+돌입한다	돌입하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 4
+## 홍 대표는 “백자에 화려함을 더했다면 청자 위에는 단순한 무늬가 들어간 양식기가 어울린다”고 말했다.
+## <홍:PER> 대표는 “백자에 화려함을 더했다면 청자 위에는 단순한 무늬가 들어간 양식기가 어울린다”고 말했다.
+홍	홍	NNP	B-PER
+_	_	_	O
+대표	대표	NNG	O
+는	는	JX	O
+_	_	_	O
+“	“	SS	O
+백자	백자	NNG	O
+에	에	JKB	O
+_	_	_	O
+화려함	화려하+ㅁ	VA+ETN	O
+을	을	JKO	O
+_	_	_	O
+더	더하	VV	O
+했	였	EP	O
+다면	다면	EC	O
+_	_	_	O
+청자	청자	NNG	O
+_	_	_	O
+위	위	NNG	O
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+단순한	단순하+ㄴ	VA+ETM	O
+_	_	_	O
+무늬	무늬	NNG	O
+가	가	JKS	O
+_	_	_	O
+들어간	들어가+ㄴ	VV+ETM	O
+_	_	_	O
+양식기	양식기	NNG	O
+가	가	JKS	O
+_	_	_	O
+어울린다	어울리+ㄴ다	VV+EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+말	말하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 18일(현지시간) 고등학교 입학시험이 치러진 인도 비하르주 하지푸르의 한 고사장 건물에 학부모들이 자녀에게 커닝 쪽지를 전달하기 위해 벽을 기어오르고 있다.
+## <18일:DAT>(현지시간) 고등학교 입학시험이 치러진 <인도:LOC> <비하르주 하지푸르:LOC>의 한 고사장 건물에 학부모들이 자녀에게 커닝 쪽지를 전달하기 위해 벽을 기어오르고 있다.
+18	18	SN	B-DAT
+일	일	NNB	I-DAT
+(	(	SS	O
+현지	현지	NNG	O
+시간	시간	NNG	O
+)	)	SS	O
+_	_	_	O
+고등학교	고등학교	NNG	O
+_	_	_	O
+입학시험	입학시험	NNG	O
+이	이	JKS	O
+_	_	_	O
+치	치르	VV	O
+러	어	EC	O
+진	지+ㄴ	VX+ETM	O
+_	_	_	O
+인도	인도	NNP	B-LOC
+_	_	_	O
+비하르	비하르	NNP	B-LOC
+주	주	NNG	I-LOC
+_	_	_	I-LOC
+하지	하지	NNG	I-LOC
+푸르	푸르	NNP	I-LOC
+의	의	JKG	O
+_	_	_	O
+한	하+ㄴ	VV+ETM	O
+_	_	_	O
+고	고	NNP	O
+사장	사장	NNG	O
+_	_	_	O
+건물	건물	NNG	O
+에	에	JKB	O
+_	_	_	O
+학부모	학부모	NNG	O
+들	들	XSN	O
+이	이	JKS	O
+_	_	_	O
+자녀	자녀	NNG	O
+에게	에게	JKB	O
+_	_	_	O
+커닝	커닝	NNG	O
+_	_	_	O
+쪽지	쪽지	NNG	O
+를	를	JKO	O
+_	_	_	O
+전달하	전달하	VV	O
+기	기	ETN	O
+_	_	_	O
+위해	위하+여	VV+EC	O
+_	_	_	O
+벽	벽	NNG	O
+을	을	JKO	O
+_	_	_	O
+기어오르	기어오르	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 또 경상남도 창원시 의창구 북면 감계리 232-1, 232-2번지에서 분양 중인 ‘덕산아내 에코프리미엄 2차’는 지하 2층~지상 최고 23층 16개동으로 전용 59~84㎡의 총 1393가구 규모다.
+## 또 <경상남도:LOC> <창원시:LOC> <의창구:LOC> <북면:LOC> <감계리 232-1:LOC>, <232-2번지:LOC>에서 분양 중인 ‘<덕산아내 에코프리미엄 2차:LOC>’는 <지하 2층:NOH>~지상 최고 <23층:NOH> <16개동:NOH>으로 전용 <59:NOH>~<84㎡:NOH>의 총 <1393가구:NOH> 규모다.
+또	또	MAG	O
+_	_	_	O
+경상남도	경상남도	NNP	B-LOC
+_	_	_	O
+창원시	창원시	NNP	B-LOC
+_	_	_	O
+의	의	JKG	B-LOC
+창구	창구	NNG	I-LOC
+_	_	_	O
+북면	북면	NNP	B-LOC
+_	_	_	O
+감계리	감계리	NNP	B-LOC
+_	_	_	I-LOC
+232	232	SN	I-LOC
+-	-	SO	I-LOC
+1	1	SN	I-LOC
+,	,	SP	O
+_	_	_	O
+232	232	SN	B-LOC
+-	-	SO	I-LOC
+2	2	SN	I-LOC
+번지	번지	NNG	I-LOC
+에서	에서	JKB	O
+_	_	_	O
+분양	분양	NNG	O
+_	_	_	O
+중	중	NNB	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+‘	‘	SS	O
+덕산	덕산	NNP	B-LOC
+아내	아내	NNG	I-LOC
+_	_	_	I-LOC
+에코	에코	NNG	I-LOC
+프리미엄	프리미엄	NNG	I-LOC
+_	_	_	I-LOC
+2	2	SN	I-LOC
+차	차	NNB	I-LOC
+’	’	SS	O
+는	는	JX	O
+_	_	_	O
+지하	지하	NNG	B-NOH
+_	_	_	I-NOH
+2	2	SN	I-NOH
+층	층	NNG	I-NOH
+~	~	SO	O
+지상	지상	NNG	O
+_	_	_	O
+최고	최고	NNG	O
+_	_	_	O
+23	23	SN	B-NOH
+층	층	NNG	I-NOH
+_	_	_	O
+16	16	SN	B-NOH
+개	개	NNB	I-NOH
+동	동	NNG	I-NOH
+으로	으로	JKB	O
+_	_	_	O
+전용	전용	NNG	O
+_	_	_	O
+59	59	SN	B-NOH
+~	~	SO	O
+84	84	SN	B-NOH
+㎡	㎡	SW	I-NOH
+의	의	JKG	O
+_	_	_	O
+총	총	MM	O
+_	_	_	O
+1393	1393	SN	B-NOH
+가구	가구	NNG	I-NOH
+_	_	_	O
+규모	규모+이	NNG+VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 무엇보다 중국 애플 앱스토어에서도 매출 순위 8위를 기록하며 그 흥행성을 입증 받은 바 있다.
+## 무엇보다 <중국:LOC> <애플 앱스토어:POH>에서도 매출 순위 <8위:NOH>를 기록하며 그 흥행성을 입증 받은 바 있다.
+무엇	무엇	NP	O
+보다	보다	JKB	O
+_	_	_	O
+중국	중국	NNP	B-LOC
+_	_	_	O
+애플	애플	NNP	B-POH
+_	_	_	I-POH
+앱	앱	NNG	I-POH
+스토어	스토어	NNG	I-POH
+에서	에서	JKB	O
+도	도	JX	O
+_	_	_	O
+매출	매출	NNG	O
+_	_	_	O
+순위	순위	NNG	O
+_	_	_	O
+8	8	SN	B-NOH
+위	위	NNB	I-NOH
+를	를	JKO	O
+_	_	_	O
+기록하	기록하	VV	O
+며	며	EC	O
+_	_	_	O
+그	그	MM	O
+_	_	_	O
+흥행	흥행	NNG	O
+성	성	XSN	O
+을	을	JKO	O
+_	_	_	O
+입증	입증	NNG	O
+_	_	_	O
+받	받	VV	O
+은	은	ETM	O
+_	_	_	O
+바	바	NNB	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 야수 최대어로 꼽히는 최형우의 거취도 큰 변수다.
+## 야수 최대어로 꼽히는 <최형우:PER>의 거취도 큰 변수다.
+야수	야수	NNG	O
+_	_	_	O
+최대	최대	NNG	O
+어	어	NNG	O
+로	로	JKB	O
+_	_	_	O
+꼽히	꼽히	VV	O
+는	는	ETM	O
+_	_	_	O
+최형우	최형우	NNP	B-PER
+의	의	JKG	O
+_	_	_	O
+거취	거취	NNG	O
+도	도	JX	O
+_	_	_	O
+큰	크+ㄴ	VA+ETM	O
+_	_	_	O
+변수	변수+이	NNG+VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 만약 모든 선수들이 국내에 남고 어떤 팀을 선택하느냐에 따라 2017시즌 KBO리그의 흐름도 크게 달라질 수 있다.
+## 만약 모든 선수들이 국내에 남고 어떤 팀을 선택하느냐에 따라 <2017:DAT>시즌 <KBO리그:ORG>의 흐름도 크게 달라질 수 있다.
+만약	만약	NNG	O
+_	_	_	O
+모든	모든	MM	O
+_	_	_	O
+선수	선수	NNG	O
+들	들	XSN	O
+이	이	JKS	O
+_	_	_	O
+국내	국내	NNG	O
+에	에	JKB	O
+_	_	_	O
+남	남	VV	O
+고	고	EC	O
+_	_	_	O
+어떤	어떤	MM	O
+_	_	_	O
+팀	팀	NNG	O
+을	을	JKO	O
+_	_	_	O
+선택하	선택하	VV	O
+느냐	느냐	EC	O
+에	에	JKB	O
+_	_	_	O
+따	따르	VV	O
+라	아	EC	O
+_	_	_	O
+2017	2017	SN	B-DAT
+시즌	시즌	NNG	O
+_	_	_	O
+KBO	KBO	SL	B-ORG
+리그	리그	NNG	I-ORG
+의	의	JKG	O
+_	_	_	O
+흐름	흐름	NNG	O
+도	도	JX	O
+_	_	_	O
+크	크	VA	O
+게	게	EC	O
+_	_	_	O
+달라질	달라지+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 대단” “나도 여자예요 민아, 정말 예쁘다”
+## 대단” “나도 여자예요 <민아:PER>, 정말 예쁘다”
+대단	대단	NNG	O
+”	”	SS	O
+_	_	_	O
+“	“	SS	O
+나	나	NP	O
+도	도	JX	O
+_	_	_	O
+여자	여자+이	NNG+VCP	O
+예요	에요	EC	O
+_	_	_	O
+민	민	NNP	B-PER
+아	아	JKV	I-PER
+,	,	SP	O
+_	_	_	O
+정말	정말	MAG	O
+_	_	_	O
+예쁘	예쁘	VA	O
+다	다	EF	O
+”	”	SS	O
+
+## 11
+## 모바일 MOBA '펜타스톰'
+## 모바일 MOBA '<펜타스톰:POH>'
+모바일	모바일	NNG	O
+_	_	_	O
+MOBA	MOBA	SL	O
+_	_	_	O
+'	'	SS	O
+펜	펜	NNG	B-POH
+타	타	NNG	I-POH
+스톰	스톰	NNG	I-POH
+'	'	SS	O
+
+## 12
+## 네덜란드가 선발-중간-마무리까지 완벽하게 소화하는 바람에 우리가 득점을 못했고, 우리 투수들도 결정적일 때 맞았다.
+## <네덜란드:ORG>가 선발-중간-마무리까지 완벽하게 소화하는 바람에 우리가 득점을 못했고, 우리 투수들도 결정적일 때 맞았다.
+네덜란드	네덜란드	NNP	B-ORG
+가	가	JKS	O
+_	_	_	O
+선발	선발	NNG	O
+-	-	SO	O
+중	중	NNP	O
+간	간	NNB	O
+-	-	SO	O
+마무리	마무리	NNG	O
+까지	까지	JX	O
+_	_	_	O
+완벽하	완벽하	VA	O
+게	게	EC	O
+_	_	_	O
+소화하	소화하	VV	O
+는	는	ETM	O
+_	_	_	O
+바람	바람	NNB	O
+에	에	JKB	O
+_	_	_	O
+우리	우리	NP	O
+가	가	JKS	O
+_	_	_	O
+득점	득점	NNG	O
+을	을	JKO	O
+_	_	_	O
+못	못하	VV	O
+했	었	EP	O
+고	고	EC	O
+,	,	SP	O
+_	_	_	O
+우리	우리	NP	O
+_	_	_	O
+투수	투수	NNG	O
+들	들	XSN	O
+도	도	JX	O
+_	_	_	O
+결정적	결정적	NNG	O
+일	일	NNG	O
+_	_	_	O
+때	때	NNG	O
+_	_	_	O
+맞	맞	VV	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+

@@ -1,0 +1,427 @@
+## 1
+## "지하 3층에 거꾸로 파묻혔지만…" 강남 건물붕괴 인부2명 전원구조
+## "지하 <3층:NOH>에 거꾸로 파묻혔지만…" <강남:LOC> 건물붕괴 인부<2명:NOH> 전원구조
+"	"	SS	O
+지하	지하	NNG	O
+_	_	_	O
+3	3	SN	B-NOH
+층	층	NNG	I-NOH
+에	에	JKB	O
+_	_	_	O
+거꾸로	거꾸로	MAG	O
+_	_	_	O
+파묻	파묻히	VV	O
+혔	었	EP	O
+지만	지만	EC	O
+…	…	SE	O
+"	"	SS	O
+_	_	_	O
+강남	강남	NNP	B-LOC
+_	_	_	O
+건물	건물	NNG	O
+붕괴	붕괴	NNG	O
+_	_	_	O
+인부	인부	NNG	O
+2	2	SN	B-NOH
+명	명	NNB	I-NOH
+_	_	_	O
+전원	전원	NNG	O
+구조	구조	NNG	O
+
+## 2
+## 노르웨이 언론과의 인터뷰에서는 “매일 아침 조깅을 한다”고도 했다.
+## <노르웨이:LOC> 언론과의 인터뷰에서는 “매일 아침 조깅을 한다”고도 했다.
+노르웨이	노르웨이	NNP	B-LOC
+_	_	_	O
+언론	언론	NNG	O
+과	과	JKB	O
+의	의	JKG	O
+_	_	_	O
+인터뷰	인터뷰	NNG	O
+에서	에서	JKB	O
+는	는	JX	O
+_	_	_	O
+“	“	SS	O
+매일	매일	MAG	O
+_	_	_	O
+아침	아침	NNG	O
+_	_	_	O
+조깅	조깅	NNG	O
+을	을	JKO	O
+_	_	_	O
+한다	하+ㄴ다	VV+EF	O
+”	”	SS	O
+고	고	JKQ	O
+도	도	JX	O
+_	_	_	O
+했	+였	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## ‘키 180cm 훈남 성장’ 송유근, 과거 여대 다녔다?
+## ‘키 <180cm:NOH> 훈남 성장’ <송유근:PER>, 과거 여대 다녔다?
+‘	‘	SS	O
+키	키	NNG	O
+_	_	_	O
+180	180	SN	B-NOH
+cm	cm	SL	I-NOH
+_	_	_	O
+훈	훈	NNP	O
+남	남	NNG	O
+_	_	_	O
+성장	성장	NNG	O
+’	’	SS	O
+_	_	_	O
+송유근	송유근	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+과거	과거	NNG	O
+_	_	_	O
+여	여	NNG	O
+대	대	NNG	O
+_	_	_	O
+다	다니	VV	O
+녔	었	EP	O
+다	다	EF	O
+?	?	SF	O
+
+## 4
+## 김보성은 "힘들어도 우리 소아암 어린이들을 돕는다는 생각을 하니까 없던 힘도 생기고 한 번이라도 더 일어나서 미트를 치고 훈련을 하게 됐다"고 지난 훈련기간을 회상했다.
+## <김보성:PER>은 "힘들어도 우리 소아암 어린이들을 돕는다는 생각을 하니까 없던 힘도 생기고 한 번이라도 더 일어나서 미트를 치고 훈련을 하게 됐다"고 지난 훈련기간을 회상했다.
+김보성	김보성	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+"	"	SS	O
+힘들	힘들	VA	O
+어도	어도	EC	O
+_	_	_	O
+우리	우리	NP	O
+_	_	_	O
+소아암	소아암	NNG	O
+_	_	_	O
+어린이	어린이	NNG	O
+들	들	XSN	O
+을	을	JKO	O
+_	_	_	O
+돕	돕	VV	O
+는다는	는다는	ETM	O
+_	_	_	O
+생각	생각	NNG	O
+을	을	JKO	O
+_	_	_	O
+하	하	VV	O
+니까	니까	EC	O
+_	_	_	O
+없	없	VA	O
+던	던	ETM	O
+_	_	_	O
+힘	힘	NNG	O
+도	도	JX	O
+_	_	_	O
+생기	생기	VV	O
+고	고	EC	O
+_	_	_	O
+한	한	MM	O
+_	_	_	O
+번	번	NNB	O
+이라도	이라도	JX	O
+_	_	_	O
+더	더	MAG	O
+_	_	_	O
+일어나서	일어나+아서	VV+EC	O
+_	_	_	O
+미트	미트	NNG	O
+를	를	JKO	O
+_	_	_	O
+치	치	VV	O
+고	고	EC	O
+_	_	_	O
+훈련	훈련	NNG	O
+을	을	JKO	O
+_	_	_	O
+하	하	VV	O
+게	게	EC	O
+_	_	_	O
+됐	+었	+EP	O
+다	다	EF	O
+"	"	SS	O
+고	고	JKQ	O
+_	_	_	O
+지난	지나+ㄴ	VV+ETM	O
+_	_	_	O
+훈련	훈련	NNG	O
+기간	기간	NNG	O
+을	을	JKO	O
+_	_	_	O
+회상	회상하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 김보성은 오후 8시 서울 중구 장충체육관에서 열리는 'XIAOMI 로드FC 35'에서 일본의 곤도 데쓰오와 웰터급 경기를 펼친다.
+## <김보성:PER>은 <오후 8시:TIM> <서울:LOC> <중구:LOC> <장충체육관:LOC>에서 열리는 '<XIAOMI 로드FC 35:POH>'에서 <일본:ORG>의 <곤도 데쓰오:PER>와 웰터급 경기를 펼친다.
+김보성	김보성	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+오후	오후	NNG	B-TIM
+_	_	_	I-TIM
+8	8	SN	I-TIM
+시	시	NNB	I-TIM
+_	_	_	O
+서울	서울	NNP	B-LOC
+_	_	_	O
+중	중	NNG	B-LOC
+구	구	NNG	I-LOC
+_	_	_	O
+장충체육관	장충체육관	NNP	B-LOC
+에서	에서	JKB	O
+_	_	_	O
+열리	열리	VV	O
+는	는	ETM	O
+_	_	_	O
+'	'	SS	O
+XIAOMI	XIAOMI	SL	B-POH
+_	_	_	I-POH
+로드	로드	NNP	I-POH
+FC	FC	SL	I-POH
+_	_	_	I-POH
+35	35	SN	I-POH
+'	'	SS	O
+에서	에서	JKB	O
+_	_	_	O
+일본	일본	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+곤도	곤도	NNP	B-PER
+_	_	_	I-PER
+데쓰오	데쓰오	NNP	I-PER
+와	와	JC	O
+_	_	_	O
+웰터급	웰터급	NNG	O
+_	_	_	O
+경기	경기	NNG	O
+를	를	JKO	O
+_	_	_	O
+펼친다	펼치+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 6
+## 1776년 영국에서 독립할 때만 해도 당시 13개 주를 상징하는 13개 줄과 13개 별이 그려졌다.
+## <1776년:DAT> <영국:ORG>에서 독립할 때만 해도 당시 <13개:NOH> 주를 상징하는 <13개:NOH> 줄과 <13개:NOH> 별이 그려졌다.
+1776	1776	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+영국	영국	NNP	B-ORG
+에서	에서	JKB	O
+_	_	_	O
+독립할	독립하+ㄹ	VV+ETM	O
+_	_	_	O
+때	때	NNG	O
+만	만	JX	O
+_	_	_	O
+해도	하+여도	VV+EC	O
+_	_	_	O
+당시	당시	NNG	O
+_	_	_	O
+13	13	SN	B-NOH
+개	개	NNB	I-NOH
+_	_	_	O
+주	주	NNG	O
+를	를	JKO	O
+_	_	_	O
+상징하	상징하	VV	O
+는	는	ETM	O
+_	_	_	O
+13	13	SN	B-NOH
+개	개	NNB	I-NOH
+_	_	_	O
+줄	줄	NNG	O
+과	과	JC	O
+_	_	_	O
+13	13	SN	B-NOH
+개	개	NNB	I-NOH
+_	_	_	O
+별	별	NNG	O
+이	이	JKS	O
+_	_	_	O
+그려	그리+어+지	VV+EC+VX	O
+졌	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 메시 결승골 기록, 바르샤는 ATM에 1-0 승리
+## <메시:PER> 결승골 기록, <바르샤:ORG>는 <ATM:ORG>에 <1-0:NOH> 승리
+메시	메시	NNP	B-PER
+_	_	_	O
+결승	결승	NNG	O
+골	골	NNG	O
+_	_	_	O
+기록	기록	NNG	O
+,	,	SP	O
+_	_	_	O
+바르샤	바르샤	NNP	B-ORG
+는	는	JX	O
+_	_	_	O
+ATM	ATM	SL	B-ORG
+에	에	JKB	O
+_	_	_	O
+1	1	SN	B-NOH
+-	-	SO	I-NOH
+0	0	SN	I-NOH
+_	_	_	O
+승리	승리	NNG	O
+
+## 8
+## 트럼프 대통령은 앞서 지난달 31일 미국 자동차 업체들의 형편없는 일본 시장 점유율을 거론하며 일본정부에 불만을 표시한 바 있다.
+## <트럼프:PER> 대통령은 앞서 지난달 <31일:DAT> <미국:ORG> 자동차 업체들의 형편없는 <일본:ORG> 시장 점유율을 거론하며 <일본정부:ORG>에 불만을 표시한 바 있다.
+트럼프	트럼프	NNP	B-PER
+_	_	_	O
+대통령	대통령	NNG	O
+은	은	JX	O
+_	_	_	O
+앞서	앞서+어	VV+EC	O
+_	_	_	O
+지난달	지난달	NNG	O
+_	_	_	O
+31	31	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+미국	미국	NNP	B-ORG
+_	_	_	O
+자동차	자동차	NNG	O
+_	_	_	O
+업체	업체	NNG	O
+들	들	XSN	O
+의	의	JKG	O
+_	_	_	O
+형편없	형편없	VA	O
+는	는	ETM	O
+_	_	_	O
+일본	일본	NNP	B-ORG
+_	_	_	O
+시장	시장	NNG	O
+_	_	_	O
+점유율	점유율	NNG	O
+을	을	JKO	O
+_	_	_	O
+거론하	거론하	VV	O
+며	며	EC	O
+_	_	_	O
+일본	일본	NNP	B-ORG
+정부	정부	NNG	I-ORG
+에	에	JKB	O
+_	_	_	O
+불만	불만	NNG	O
+을	을	JKO	O
+_	_	_	O
+표시한	표시하+ㄴ	VV+ETM	O
+_	_	_	O
+바	바	NNB	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## ‘말하지 못할 정도로 대단하다’는 뜻으로, 10대들 사이에서 주로 사용된다.
+## ‘말하지 못할 정도로 대단하다’는 뜻으로, <10대:NOH>들 사이에서 주로 사용된다.
+‘	‘	SS	O
+말하	말하	VV	O
+지	지	EC	O
+_	_	_	O
+못할	못하+ㄹ	VX+ETM	O
+_	_	_	O
+정도	정도	NNG	O
+로	로	JKB	O
+_	_	_	O
+대단하	대단하	VA	O
+다	다	EF	O
+’	’	SS	O
+는	는	JX	O
+_	_	_	O
+뜻	뜻	NNG	O
+으로	으로	JKB	O
+,	,	SP	O
+_	_	_	O
+10	10	SN	B-NOH
+대	대	NNB	I-NOH
+들	들	XSN	O
+_	_	_	O
+사이	사이	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+주로	주로	MAG	O
+_	_	_	O
+사용된다	사용되+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 10
+## 전북도의회도 기금운용본부 정착을 지원하는 조례 제정에 나섰다.
+## <전북도의회:ORG>도 기금운용본부 정착을 지원하는 조례 제정에 나섰다.
+전북	전북	NNP	B-ORG
+도의회	도의회	NNG	I-ORG
+도	도	JX	O
+_	_	_	O
+기금	기금	NNG	O
+운용	운용	NNG	O
+본부	본부	NNG	O
+_	_	_	O
+정착	정착	NNG	O
+을	을	JKO	O
+_	_	_	O
+지원하	지원하	VV	O
+는	는	ETM	O
+_	_	_	O
+조례	조례	NNG	O
+_	_	_	O
+제정	제정	NNG	O
+에	에	JKB	O
+_	_	_	O
+나섰	나서+었	VV+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 유재석은 그런 세정이를 달래줬고, 이때 4살 하율이가 유재석에게 휴지를 뜯어달라고 요청했다.
+## <유재석:PER>은 그런 <세정:PER>이를 달래줬고, 이때 <4살:NOH> <하율:PER>이가 <유재석:PER>에게 휴지를 뜯어달라고 요청했다.
+유재석	유재석	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+그런	그런	MM	O
+_	_	_	O
+세정이	세정이	NNP	O
+를	를	JKO	O
+_	_	_	O
+달래	달래+어	VV+EC	O
+줬	주+었	VX+EP	O
+고	고	EC	O
+,	,	SP	O
+_	_	_	O
+이때	이때	NNG	O
+_	_	_	O
+4	4	SN	B-NOH
+살	살	NNB	I-NOH
+_	_	_	O
+하율	하율	NNP	B-PER
+이	이	NNB	O
+가	가	JKS	O
+_	_	_	O
+유재석	유재석	NNP	B-PER
+에게	에게	JKB	O
+_	_	_	O
+휴지	휴지	NNG	O
+를	를	JKO	O
+_	_	_	O
+뜯	뜯	VV	O
+어	어	EC	O
+달	달	VX	O
+라고	라고	EC	O
+_	_	_	O
+요청	요청하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+

@@ -1,0 +1,451 @@
+## 1
+## 전북현대는 ‘현대오일뱅크 K리그 클래식 2016’ 30라운드까지 무패행진을 이어가고 있다.
+## <전북현대:ORG>는 ‘<현대오일뱅크 K리그 클래식 2016:POH>’ <30라운드:NOH>까지 무패행진을 이어가고 있다.
+전북	전북	NNP	B-ORG
+현대	현대	NNP	I-ORG
+는	는	JX	O
+_	_	_	O
+‘	‘	SS	O
+현대오일뱅크	현대오일뱅크	NNP	B-POH
+_	_	_	I-POH
+K	K	SL	I-POH
+리그	리그	NNG	I-POH
+_	_	_	I-POH
+클래식	클래식	NNG	I-POH
+_	_	_	I-POH
+2016	2016	SN	I-POH
+’	’	SS	O
+_	_	_	O
+30	30	SN	B-NOH
+라운드	라운드	NNG	I-NOH
+까지	까지	JX	O
+_	_	_	O
+무패	무패	NNG	O
+행진	행진	NNG	O
+을	을	JKO	O
+_	_	_	O
+이	잇	VV	O
+어	어	EC	O
+가	가	VX	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 지난해 보건복지부가 발표한 장애인실태조사 통계에 따르면 장애를 지닌 소아청소년(0~19세)은 약 10만명이며 재활치료가 필요한 미등록 장애아를 포함할 경우 총 30만명에 달할 것으로 추산된다.
+## 지난해 <보건복지부:ORG>가 발표한 장애인실태조사 통계에 따르면 장애를 지닌 소아청소년(<0:NOH>~<19세:NOH>)은 약 <10만명:NOH>이며 재활치료가 필요한 미등록 장애아를 포함할 경우 총 <30만명:NOH>에 달할 것으로 추산된다.
+지난해	지난해	NNG	O
+_	_	_	O
+보건복지부	보건복지부	NNG	B-ORG
+가	가	JKS	O
+_	_	_	O
+발표한	발표하+ㄴ	VV+ETM	O
+_	_	_	O
+장애인	장애인	NNG	O
+실태	실태	NNG	O
+조사	조사	NNG	O
+_	_	_	O
+통계	통계	NNG	O
+에	에	JKB	O
+_	_	_	O
+따르	따르	VV	O
+면	면	EC	O
+_	_	_	O
+장애	장애	NNG	O
+를	를	JKO	O
+_	_	_	O
+지닌	지니+ㄴ	VV+ETM	O
+_	_	_	O
+소아	소아	NNG	O
+청소년	청소년	NNG	O
+(	(	SS	O
+0	0	SN	B-NOH
+~	~	SO	O
+19	19	SN	B-NOH
+세	세	NNB	I-NOH
+)	)	SS	O
+은	은	JX	O
+_	_	_	O
+약	약	MM	O
+_	_	_	O
+10	10	SN	B-NOH
+만	만	NR	I-NOH
+명	명	NNB	I-NOH
+이	이	VCP	O
+며	며	EC	O
+_	_	_	O
+재활	재활	NNG	O
+치료	치료	NNG	O
+가	가	JKS	O
+_	_	_	O
+필요한	필요하+ㄴ	VA+ETM	O
+_	_	_	O
+미	미	XPN	O
+등록	등록	NNG	O
+_	_	_	O
+장애아	장애아	NNG	O
+를	를	JKO	O
+_	_	_	O
+포함할	포함하+ㄹ	VV+ETM	O
+_	_	_	O
+경우	경우	NNG	O
+_	_	_	O
+총	총	MM	O
+_	_	_	O
+30	30	SN	B-NOH
+만	만	NR	I-NOH
+명	명	NNB	I-NOH
+에	에	JKB	O
+_	_	_	O
+달할	달하+ㄹ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+추산된다	추산되+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 3
+## 이날 대결에 앞서 김풍은 성규의 냉장고를 보고 흡족한 표정을 지으며 “드디어 내가 필요한 때가 왔다.
+## 이날 대결에 앞서 <김풍:PER>은 성규의 냉장고를 보고 흡족한 표정을 지으며 “드디어 내가 필요한 때가 왔다.
+이날	이날	NNG	O
+_	_	_	O
+대결	대결	NNG	O
+에	에	JKB	O
+_	_	_	O
+앞서	앞서+어	VV+EC	O
+_	_	_	O
+김풍	김풍	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+성규	성규	NNP	O
+의	의	JKG	O
+_	_	_	O
+냉장고	냉장고	NNG	O
+를	를	JKO	O
+_	_	_	O
+보	보	VV	O
+고	고	EC	O
+_	_	_	O
+흡족한	흡족하+ㄴ	VA+ETM	O
+_	_	_	O
+표정	표정	NNG	O
+을	을	JKO	O
+_	_	_	O
+지	짓	VV	O
+으며	으며	EC	O
+_	_	_	O
+“	“	SS	O
+드디어	드디어	MAG	O
+_	_	_	O
+내	내	NP	O
+가	가	JKS	O
+_	_	_	O
+필요한	필요하+ㄴ	VA+ETM	O
+_	_	_	O
+때	때	NNG	O
+가	가	JKS	O
+_	_	_	O
+왔	+았	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 서울시 공공자전거 정책에 비판론
+## <서울시:LOC> 공공자전거 정책에 비판론
+서울시	서울시	NNP	B-LOC
+_	_	_	O
+공공	공공	NNG	O
+자전거	자전거	NNG	O
+_	_	_	O
+정책	정책	NNG	O
+에	에	JKB	O
+_	_	_	O
+비판	비판	NNG	O
+론	론	XSN	O
+
+## 5
+## 독일관광청, 2014 해외관광객 숙박 7500만 박 돌파
+## <독일관광청:ORG>, <2014:DAT> 해외관광객 숙박 <7500만:NOH> 박 돌파
+독일	독일	NNP	B-ORG
+관광	관광	NNG	I-ORG
+청	청	XSN	I-ORG
+,	,	SP	O
+_	_	_	O
+2014	2014	SN	B-DAT
+_	_	_	O
+해외	해외	NNG	O
+관광객	관광객	NNG	O
+_	_	_	O
+숙박	숙박	NNG	O
+_	_	_	O
+7500	7500	SN	B-NOH
+만	만	NR	I-NOH
+_	_	_	O
+박	박	NNP	O
+_	_	_	O
+돌파	돌파	NNG	O
+
+## 6
+## 소비자시민모임 ‘카시트 안전성 및 품질 실험 테스트’에서 ‘머리 충격흡수’가 가장 탁월한 카시트로 인정 받는 브랜드가 바로 ‘조이’다.
+## 소비자시민모임 ‘카시트 안전성 및 품질 실험 테스트’에서 ‘<머리:PER> 충격흡수’가 가장 탁월한 카시트로 인정 받는 브랜드가 바로 ‘조이’다.
+소비자	소비자	NNG	O
+시민	시민	NNG	O
+모임	모임	NNG	O
+_	_	_	O
+‘	‘	SS	O
+카시트	카시트	NNG	O
+_	_	_	O
+안전성	안전성	NNG	O
+_	_	_	O
+및	및	MAG	O
+_	_	_	O
+품질	품질	NNG	O
+_	_	_	O
+실험	실험	NNG	O
+_	_	_	O
+테스트	테스트	NNG	O
+’	’	SS	O
+에서	에서	JKB	O
+_	_	_	O
+‘	‘	SS	O
+머리	머리	NNG	B-PER
+_	_	_	O
+충격	충격	NNG	O
+흡수	흡수	NNG	O
+’	’	SS	O
+가	가	JKS	O
+_	_	_	O
+가장	가장	MAG	O
+_	_	_	O
+탁월한	탁월하+ㄴ	VA+ETM	O
+_	_	_	O
+카시트	카시트	NNG	O
+로	로	JKB	O
+_	_	_	O
+인정	인정	NNG	O
+_	_	_	O
+받	받	VV	O
+는	는	ETM	O
+_	_	_	O
+브랜드	브랜드	NNG	O
+가	가	JKS	O
+_	_	_	O
+바로	바로	MAG	O
+_	_	_	O
+‘	‘	SS	O
+조이	조이	NNP	O
+’	’+이	SS+VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 전체 101만명 중 9642명만 이용… 시스템 개발 행자부도 145명 그쳐
+## 전체 <101만명:NOH> 중 <9642명:NOH>만 이용… 시스템 개발 <행자부:ORG>도 <145명:NOH> 그쳐
+전체	전체	NNG	O
+_	_	_	O
+101	101	SN	B-NOH
+만	만	NR	I-NOH
+명	명	NNB	I-NOH
+_	_	_	O
+중	중	NNP	O
+_	_	_	O
+9642	9642	SN	B-NOH
+명	명	NNB	I-NOH
+만	만	JX	O
+_	_	_	O
+이용	이용	NNG	O
+…	…	SE	O
+_	_	_	O
+시스템	시스템	NNG	O
+_	_	_	O
+개발	개발	NNG	O
+_	_	_	O
+행자부	행자부	NNG	B-ORG
+도	도	JX	O
+_	_	_	O
+145	145	SN	B-NOH
+명	명	NNB	I-NOH
+_	_	_	O
+그쳐	그치+어	VV+EC	O
+
+## 8
+## 그럼에도 불구하고 제일 처음으로 태조가 설치한 평양대도호부는 약 80년간 중국의 요좌 지역에 있었음은 분명해보이고요.＂
+## 그럼에도 불구하고 제일 처음으로 <태조:PER>가 설치한 <평양대도호부:ORG>는 약 <80년:DAT>간 <중국:ORG>의 요좌 지역에 있었음은 분명해보이고요.＂
+그럼에도	그렇+ㅁ에도	VA+EC	O
+_	_	_	O
+불구하	불구하	VV	O
+고	고	EC	O
+_	_	_	O
+제일	제일	NNG	O
+_	_	_	O
+처음	처음	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+태조	태조	NNP	B-PER
+가	가	JKS	O
+_	_	_	O
+설치한	설치하+ㄴ	VV+ETM	O
+_	_	_	O
+평양	평양	NNP	B-ORG
+대도호부	대도호부	NNG	I-ORG
+는	는	JX	O
+_	_	_	O
+약	약	MM	O
+_	_	_	O
+80	80	SN	B-DAT
+년	년	NNB	I-DAT
+간	간	XSN	O
+_	_	_	O
+중국	중국	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+요좌	요좌	NNG	O
+_	_	_	O
+지역	지역	NNG	O
+에	에	JKB	O
+_	_	_	O
+있	있	VA	O
+었	었	EP	O
+음	음	ETN	O
+은	은	JX	O
+_	_	_	O
+분명	분명	NNG	O
+해보	해보	NNG	O
+이	이	VCP	O
+고요	고요	EF	O
+.	.	SF	O
+＂	＂	SS	O
+
+## 9
+## 철로 위 달리는 ‘레일바이크’ 타볼까…한강 이색자전거 인기
+## 철로 위 달리는 ‘레일바이크’ 타볼까…<한강:LOC> 이색자전거 인기
+철로	철로	NNG	O
+_	_	_	O
+위	위	NNB	O
+_	_	_	O
+달리	달리	VV	O
+는	는	ETM	O
+_	_	_	O
+‘	‘	SS	O
+레일	레일	NNG	O
+바이크	바이크	NNG	O
+’	’	SS	O
+_	_	_	O
+타	타+아	VV+EC	O
+볼까	보+ㄹ까	VX+EC	O
+…	…	SE	O
+한강	한강	NNP	B-LOC
+_	_	_	O
+이색	이색	NNG	O
+자전거	자전거	NNG	O
+_	_	_	O
+인기	인기	NNG	O
+
+## 10
+## 분양 문의 031-217-2299 이혜진 기자
+## 분양 문의 <031-217-2299:POH> <이혜진:PER> 기자
+분양	분양	NNG	O
+_	_	_	O
+문의	문의	NNG	O
+_	_	_	O
+031	031	SN	B-POH
+-	-	SO	I-POH
+217	217	SN	I-POH
+-	-	SO	I-POH
+2299	2299	SN	I-POH
+_	_	_	O
+이혜진	이혜진	NNP	B-PER
+_	_	_	O
+기자	기자	NNG	O
+
+## 11
+## 세월호는 참사가 일어난 지 2년이 넘게 지났지만 여전히 누리꾼들의 뜨거운 관심사였다.
+## <세월호:POH>는 참사가 일어난 지 <2년:NOH>이 넘게 지났지만 여전히 누리꾼들의 뜨거운 관심사였다.
+세월호	세월호	NNP	B-POH
+는	는	JX	O
+_	_	_	O
+참사	참사	NNG	O
+가	가	JKS	O
+_	_	_	O
+일어난	일어나+ㄴ	VV+ETM	O
+_	_	_	O
+지	지	NNB	O
+_	_	_	O
+2	2	SN	B-NOH
+년	년	NNB	I-NOH
+이	이	JKS	O
+_	_	_	O
+넘	넘	VV	O
+게	게	EC	O
+_	_	_	O
+지났	지나+았	VV+EP	O
+지만	지만	EC	O
+_	_	_	O
+여전히	여전히	MAG	O
+_	_	_	O
+누리	누리	NNG	O
+꾼	꾼	XSN	O
+들	들	XSN	O
+의	의	JKG	O
+_	_	_	O
+뜨거	뜨겁	VA	O
+운	ㄴ	ETM	O
+_	_	_	O
+관심사	관심사+이	NNG+VCP	O
+였	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 제조업체들이 꼽은 경영 애로사항은 내수 부진(24.7%), 불확실한 경제상황(19.2%), 경쟁 심화(12.4%) 등이었다.
+## 제조업체들이 꼽은 경영 애로사항은 내수 부진(<24.7%:PNT>), 불확실한 경제상황(<19.2:PNT>%), 경쟁 심화(<12.4%:PNT>) 등이었다.
+제조	제조	NNG	O
+업체	업체	NNG	O
+들	들	XSN	O
+이	이	JKS	O
+_	_	_	O
+꼽	꼽	VV	O
+은	은	ETM	O
+_	_	_	O
+경영	경영	NNG	O
+_	_	_	O
+애로	애로	NNG	O
+사항	사항	NNG	O
+은	은	JX	O
+_	_	_	O
+내수	내수	NNG	O
+_	_	_	O
+부진	부진	NNG	O
+(	(	SS	O
+24.7	24.7	SN	B-PNT
+%	%	SW	I-PNT
+)	)	SS	O
+,	,	SP	O
+_	_	_	O
+불확실한	불확실하+ㄴ	VA+ETM	O
+_	_	_	O
+경제	경제	NNG	O
+상황	상황	NNG	O
+(	(	SS	O
+19.2	19.2	SN	B-PNT
+%	%	SW	O
+)	)	SS	O
+,	,	SP	O
+_	_	_	O
+경쟁	경쟁	NNG	O
+_	_	_	O
+심화	심화	NNG	O
+(	(	SS	O
+12.4	12.4	SN	B-PNT
+%	%	SW	I-PNT
+)	)	SS	O
+_	_	_	O
+등	등	NNB	O
+이	이	VCP	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+

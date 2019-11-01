@@ -1,0 +1,446 @@
+## 1
+## ”안 의원과 인터뷰를 마치고 나가는 길에 문득 추가하고 싶은 질문 하나가 떠올랐다.
+## ”<안:PER> 의원과 인터뷰를 마치고 나가는 길에 문득 추가하고 싶은 질문 <하나:NOH>가 떠올랐다.
+”	”	SS	O
+안	안	NNG	B-PER
+_	_	_	O
+의원	의원	NNG	O
+과	과	JKB	O
+_	_	_	O
+인터뷰	인터뷰	NNG	O
+를	를	JKO	O
+_	_	_	O
+마치	마치	VV	O
+고	고	EC	O
+_	_	_	O
+나가	나가	VV	O
+는	는	ETM	O
+_	_	_	O
+길	길	NNG	O
+에	에	JKB	O
+_	_	_	O
+문득	문득	MAG	O
+_	_	_	O
+추가하	추가하	VV	O
+고	고	EC	O
+_	_	_	O
+싶	싶	VX	O
+은	은	ETM	O
+_	_	_	O
+질문	질문	NNG	O
+_	_	_	O
+하나	하나	NNG	B-NOH
+가	가	JKS	O
+_	_	_	O
+떠올	떠오르	VV	O
+랐	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 내 관점은 남북 접근 과정이 어떤 경우에도 중단돼서는 안된다는 것이다.
+## 내 관점은 <남북:ORG> 접근 과정이 어떤 경우에도 중단돼서는 안된다는 것이다.
+내	나+의	NP+JKG	O
+_	_	_	O
+관점	관점	NNG	O
+은	은	JX	O
+_	_	_	O
+남북	남북	NNP	B-ORG
+_	_	_	O
+접근	접근	NNG	O
+_	_	_	O
+과정	과정	NNG	O
+이	이	JKS	O
+_	_	_	O
+어떤	어떤	MM	O
+_	_	_	O
+경우	경우	NNG	O
+에	에	JKB	O
+도	도	JX	O
+_	_	_	O
+중단돼서	중단되+어서	VV+EC	O
+는	는	JX	O
+_	_	_	O
+안된다는	안되+ㄴ다는	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 직장인 안기혁(34·가명)씨는 철저한 식단 관리와 꾸준한 운동 덕에 20㎏ 감량에 성공했다.
+## 직장인 <안기혁:PER>(<34:NOH>·가명)씨는 철저한 식단 관리와 꾸준한 운동 덕에 <20㎏:NOH> 감량에 성공했다.
+직장인	직장인	NNG	O
+_	_	_	O
+안기혁	안기혁	NNP	B-PER
+(	(	SS	O
+34	34	SN	B-NOH
+·	·	SP	O
+가명	가명	NNG	O
+)	)	SS	O
+씨	씨	NNB	O
+는	는	JX	O
+_	_	_	O
+철저한	철저하+ㄴ	VA+ETM	O
+_	_	_	O
+식단	식단	NNG	O
+_	_	_	O
+관리	관리	NNG	O
+와	와	JC	O
+_	_	_	O
+꾸준한	꾸준하+ㄴ	VA+ETM	O
+_	_	_	O
+운동	운동	NNG	O
+_	_	_	O
+덕	덕	NNG	O
+에	에	JKB	O
+_	_	_	O
+20	20	SN	B-NOH
+㎏	㎏	SW	I-NOH
+_	_	_	O
+감량	감량	NNG	O
+에	에	JKB	O
+_	_	_	O
+성공	성공하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 이 가방은 전현무의 가방이 맞다”고 정리해 폭소를 유발했다.
+## 이 가방은 <전현무:PER>의 가방이 맞다”고 정리해 폭소를 유발했다.
+이	이	MM	O
+_	_	_	O
+가방	가방	NNG	O
+은	은	JX	O
+_	_	_	O
+전	전	MM	B-PER
+현무	현무	NNG	I-PER
+의	의	JKG	O
+_	_	_	O
+가방	가방	NNG	O
+이	이	JKS	O
+_	_	_	O
+맞	맞	VV	O
+다	다	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+정리해	정리하+여	VV+EC	O
+_	_	_	O
+폭소	폭소	NNG	O
+를	를	JKO	O
+_	_	_	O
+유발	유발하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 집이나 직장 주변의 대피소 위치를 미리 확인하려면 ‘안전디딤돌’ 애플리케이션(앱)이나 국가재난정보센터 홈페이지(www.safekorea.go.kr)를 참고하면 된다.
+## 집이나 직장 주변의 대피소 위치를 미리 확인하려면 ‘<안전디딤돌:POH>’ 애플리케이션(앱)이나 <국가재난정보센터:ORG> 홈페이지(<www.safekorea.go.kr:POH>)를 참고하면 된다.
+집	집	NNG	O
+이나	이나	JC	O
+_	_	_	O
+직장	직장	NNG	O
+_	_	_	O
+주변	주변	NNG	O
+의	의	JKG	O
+_	_	_	O
+대피소	대피소	NNG	O
+_	_	_	O
+위치	위치	NNG	O
+를	를	JKO	O
+_	_	_	O
+미리	미리	MAG	O
+_	_	_	O
+확인하	확인하	VV	O
+려면	려면	EC	O
+_	_	_	O
+‘	‘	SS	O
+안전	안전	NNG	B-POH
+디딤돌	디딤돌	NNG	I-POH
+’	’	SS	O
+_	_	_	O
+애플리케이션	애플리케이션	NNG	O
+(	(	SS	O
+앱	앱	NNG	O
+)	)	SS	O
+이나	이나	JC	O
+_	_	_	O
+국가	국가	NNG	B-ORG
+재난	재난	NNG	I-ORG
+정보	정보	NNG	I-ORG
+센터	센터	NNG	I-ORG
+_	_	_	O
+홈페이지	홈페이지	NNG	O
+(	(	SS	O
+www	www	SL	B-POH
+.	.	SF	I-POH
+safekorea	safekorea	SL	I-POH
+.	.	SF	I-POH
+go	go	SL	I-POH
+.	.	SF	I-POH
+kr	kr	SL	I-POH
+)	)	SS	O
+를	를	JKO	O
+_	_	_	O
+참고하	참고하	VV	O
+면	면	EC	O
+_	_	_	O
+된다	되+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 6
+## 지난해 말 현재 국민연금을 가장 많이 받는 수급자는 광주의 A 씨로 1988년부터 2010년까지 22년간 가입한 뒤 5년간 연금 지급을 연기해 가산율을 적용받아 매월 187만 원을 받고 있다.
+## 지난해 말 현재 국민연금을 가장 많이 받는 수급자는 <광주:LOC>의 <A:PER> 씨로 <1988년부터 2010년:DUR>까지 <22년간:DUR> 가입한 뒤 <5년간:DUR> 연금 지급을 연기해 가산율을 적용받아 매월 <187만 원:NOH>을 받고 있다.
+지난해	지난해	NNG	O
+_	_	_	O
+말	말	NNB	O
+_	_	_	O
+현재	현재	MAG	O
+_	_	_	O
+국민	국민	NNG	O
+연금	연금	NNG	O
+을	을	JKO	O
+_	_	_	O
+가장	가장	MAG	O
+_	_	_	O
+많이	많이	MAG	O
+_	_	_	O
+받	받	VV	O
+는	는	ETM	O
+_	_	_	O
+수급	수급	NNG	O
+자	자	XSN	O
+는	는	JX	O
+_	_	_	O
+광주	광주	NNP	B-LOC
+의	의	JKG	O
+_	_	_	O
+A	A	SL	B-PER
+_	_	_	O
+씨	씨	NNG	O
+로	로	JKB	O
+_	_	_	O
+1988	1988	SN	B-DUR
+년	년	NNB	I-DUR
+부터	부터	JX	I-DUR
+_	_	_	I-DUR
+2010	2010	SN	I-DUR
+년	년	NNB	I-DUR
+까지	까지	JX	O
+_	_	_	O
+22	22	SN	B-DUR
+년	년	NNB	I-DUR
+간	간	XSN	I-DUR
+_	_	_	O
+가입한	가입하+ㄴ	VV+ETM	O
+_	_	_	O
+뒤	뒤	NNG	O
+_	_	_	O
+5	5	SN	B-DUR
+년	년	NNB	I-DUR
+간	간	XSN	I-DUR
+_	_	_	O
+연금	연금	NNG	O
+_	_	_	O
+지급	지급	NNG	O
+을	을	JKO	O
+_	_	_	O
+연기해	연기하+여	VV+EC	O
+_	_	_	O
+가산	가산	NNG	O
+율	율	XSN	O
+을	을	JKO	O
+_	_	_	O
+적용	적용	NNG	O
+받	받	VV	O
+아	아	EC	O
+_	_	_	O
+매월	매월	MAG	O
+_	_	_	O
+187	187	SN	B-NOH
+만	만	NR	I-NOH
+_	_	_	I-NOH
+원	원	NNB	I-NOH
+을	을	JKO	O
+_	_	_	O
+받	받	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 13일에도 중국단체 관광객들이 가이드의 설명을 들으며 기념촬영을 하고 있었다.
+## <13일:DAT>에도 <중국:ORG>단체 관광객들이 가이드의 설명을 들으며 기념촬영을 하고 있었다.
+13	13	SN	B-DAT
+일	일	NNB	I-DAT
+에	에	JKB	O
+도	도	JX	O
+_	_	_	O
+중국	중국	NNP	B-ORG
+단체	단체	NNG	O
+_	_	_	O
+관광객	관광객	NNG	O
+들	들	XSN	O
+이	이	JKS	O
+_	_	_	O
+가이드	가이드	NNG	O
+의	의	JKG	O
+_	_	_	O
+설명	설명	NNG	O
+을	을	JKO	O
+_	_	_	O
+들	듣	VV	O
+으며	으며	EC	O
+_	_	_	O
+기념	기념	NNG	O
+촬영	촬영	NNG	O
+을	을	JKO	O
+_	_	_	O
+하	하	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## (한승수)” 한승수(국군체육부대)는 18일 강릉아이스아레나에서 열린 ‘2016~2017 국제빙상경기연맹(ISU) 쇼트트랙월드컵 4차 대회’ 남자 500m 결승에서 동메달을 목에 걸었다.
+## (<한승수:PER>)” <한승수:PER>(<국군체육부대:ORG>)는 <18일:DAT> <강릉아이스아레나:LOC>에서 열린 ‘<2016~2017:DUR> <국제빙상경기연맹(ISU) 쇼트트랙월드컵:POH> <4차:NOH> 대회’ 남자 <500m:NOH> 결승에서 동메달을 목에 걸었다.
+(	(	SS	O
+한승수	한승수	NNP	B-PER
+)	)	SS	O
+”	”	SS	O
+_	_	_	O
+한승수	한승수	NNP	B-PER
+(	(	SS	O
+국군	국군	NNG	B-ORG
+체육	체육	NNG	I-ORG
+부대	부대	NNG	I-ORG
+)	)	SS	O
+는	는	JX	O
+_	_	_	O
+18	18	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+강릉	강릉	NNP	B-LOC
+아이스	아이스	NNG	I-LOC
+아레나	아레나	NNG	I-LOC
+에서	에서	JKB	O
+_	_	_	O
+열린	열리+ㄴ	VV+ETM	O
+_	_	_	O
+‘	‘	SS	O
+2016	2016	SN	B-DUR
+~	~	SO	I-DUR
+2017	2017	SN	I-DUR
+_	_	_	O
+국제빙상경기연맹	국제빙상경기연맹	NNP	B-POH
+(	(	SS	I-POH
+ISU	ISU	SL	I-POH
+)	)	SS	I-POH
+_	_	_	I-POH
+쇼트트랙	쇼트트랙	NNG	I-POH
+월드컵	월드컵	NNG	I-POH
+_	_	_	O
+4	4	SN	B-NOH
+차	차	NNB	I-NOH
+_	_	_	O
+대회	대회	NNG	O
+’	’	SS	O
+_	_	_	O
+남자	남자	NNG	O
+_	_	_	O
+500	500	SN	B-NOH
+m	m	SL	I-NOH
+_	_	_	O
+결승	결승	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+동메달	동메달	NNG	O
+을	을	JKO	O
+_	_	_	O
+목	목	NNG	O
+에	에	JKB	O
+_	_	_	O
+걸	걸	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 또한 기아 K5처럼 트림에 따라 범퍼 형상을 구분해 놓은 점도 독특하다.
+## 또한 <기아:ORG> <K5:POH>처럼 트림에 따라 범퍼 형상을 구분해 놓은 점도 독특하다.
+또한	또한	MAG	O
+_	_	_	O
+기아	기아	NNP	B-ORG
+_	_	_	O
+K	K	SL	B-POH
+5	5	SN	I-POH
+처럼	처럼	JKB	O
+_	_	_	O
+트림	트림	NNG	O
+에	에	JKB	O
+_	_	_	O
+따	따르	VV	O
+라	아	EC	O
+_	_	_	O
+범퍼	범퍼	NNG	O
+_	_	_	O
+형상	형상	NNG	O
+을	을	JKO	O
+_	_	_	O
+구분해	구분하+여	VV+EC	O
+_	_	_	O
+놓	놓	VX	O
+은	은	ETM	O
+_	_	_	O
+점	점	NNG	O
+도	도	JX	O
+_	_	_	O
+독특하	독특하	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 안 전 대표는 또 “호남은 반패권의 성지다.
+## <안:PER> 전 대표는 또 “<호남:LOC>은 반패권의 성지다.
+안	안	NNP	B-PER
+_	_	_	O
+전	전	MM	O
+_	_	_	O
+대표	대표	NNG	O
+는	는	JX	O
+_	_	_	O
+또	또	MAG	O
+_	_	_	O
+“	“	SS	O
+호남	호남	NNP	B-LOC
+은	은	JX	O
+_	_	_	O
+반	반	NNG	O
+패권	패권	NNG	O
+의	의	JKG	O
+_	_	_	O
+성지	성지+이	NNG+VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 5살 연상이었다.
+## <5살:NOH> 연상이었다.
+5	5	SN	B-NOH
+살	살	NNB	I-NOH
+_	_	_	O
+연상	연상	NNG	O
+이	이	VCP	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+

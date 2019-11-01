@@ -1,0 +1,583 @@
+## 1
+## 법인카드 고객은 한식과 치킨 업종에서 파주LCD산업단지나 평택진위산업단지 인근 등 산업단지가 매출이 가장 많은 것으로 조사됐다.
+## 법인카드 고객은 한식과 치킨 업종에서 <파주LCD산업단지:LOC>나 <평택진위산업단지:LOC> 인근 등 산업단지가 매출이 가장 많은 것으로 조사됐다.
+법인	법인	NNG	O
+카드	카드	NNG	O
+_	_	_	O
+고객	고객	NNG	O
+은	은	JX	O
+_	_	_	O
+한식	한식	NNG	O
+과	과	JC	O
+_	_	_	O
+치킨	치킨	NNG	O
+_	_	_	O
+업종	업종	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+파주	파주	NNP	B-LOC
+LCD	LCD	SL	I-LOC
+산업	산업	NNG	I-LOC
+단지	단지	NNG	I-LOC
+나	나	JC	O
+_	_	_	O
+평택	평택	NNP	B-LOC
+진위	진위	NNP	I-LOC
+산업	산업	NNG	I-LOC
+단지	단지	NNG	I-LOC
+_	_	_	O
+인근	인근	NNG	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+산업	산업	NNG	O
+단지	단지	NNG	O
+가	가	JKS	O
+_	_	_	O
+매출	매출	NNG	O
+이	이	JKS	O
+_	_	_	O
+가장	가장	MAG	O
+_	_	_	O
+많	많	VA	O
+은	은	ETM	O
+_	_	_	O
+것	것	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+조사	조사되	VV	O
+됐	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## [오늘의 채널A] 안영미, 반려견과 좌충우돌
+## [<오늘의 채널A:POH>] <안영미:PER>, 반려견과 좌충우돌
+[	[	SS	O
+오늘	오늘	NNG	B-POH
+의	의	JKG	I-POH
+_	_	_	I-POH
+채널	채널	NNG	I-POH
+A	A	SL	I-POH
+]	]	SS	O
+_	_	_	O
+안영미	안영미	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+반려	반려	NNG	O
+견	견	NNG	O
+과	과	JC	O
+_	_	_	O
+좌충우돌	좌충우돌	NNG	O
+
+## 3
+## 산학협력을 맺고 있는 600여 개 기업과 가족회사를 꾸려 그들의 애로 사항을 해결해주고 취업으로 연결시키고 있다.
+## 산학협력을 맺고 있는 <600여 개:NOH> 기업과 가족회사를 꾸려 그들의 애로 사항을 해결해주고 취업으로 연결시키고 있다.
+산학	산학	NNG	O
+협력	협력	NNG	O
+을	을	JKO	O
+_	_	_	O
+맺	맺	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+는	는	ETM	O
+_	_	_	O
+600	600	SN	B-NOH
+여	여	XSN	I-NOH
+_	_	_	I-NOH
+개	개	NNB	I-NOH
+_	_	_	O
+기업	기업	NNG	O
+과	과	JC	O
+_	_	_	O
+가족	가족	NNG	O
+회사	회사	NNG	O
+를	를	JKO	O
+_	_	_	O
+꾸려	꾸리+어	VV+EC	O
+_	_	_	O
+그	그	NP	O
+들	들	XSN	O
+의	의	JKG	O
+_	_	_	O
+애로	애로	NNG	O
+_	_	_	O
+사항	사항	NNG	O
+을	을	JKO	O
+_	_	_	O
+해결해	해결하+여	VV+EC	O
+주	주	VX	O
+고	고	EC	O
+_	_	_	O
+취업	취업	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+연결	연결	NNG	O
+시키	시키	XSV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 래퍼 비와이의 외모가 화제다.
+## 래퍼 <비와이:PER>의 외모가 화제다.
+래퍼	래퍼	NNG	O
+_	_	_	O
+비	비	XPN	B-PER
+와이	와이	NNG	I-PER
+의	의	JKG	O
+_	_	_	O
+외모	외모	NNG	O
+가	가	JKS	O
+_	_	_	O
+화제	화제+이	NNG+VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 대북제재 맞은 북한 무역기관들 남한 업자에 손뻗쳐
+## 대북제재 맞은 <북한:ORG> 무역기관들 <남한:ORG> 업자에 손뻗쳐
+대북	대북	NNG	O
+제재	제재	NNG	O
+_	_	_	O
+맞	맞	VV	O
+은	은	ETM	O
+_	_	_	O
+북한	북한	NNP	B-ORG
+_	_	_	O
+무역	무역	NNG	O
+기관	기관	NNG	O
+들	들	XSN	O
+_	_	_	O
+남한	남한	NNP	B-ORG
+_	_	_	O
+업자	업자	NNG	O
+에	에	JKB	O
+_	_	_	O
+손	손	NNG	O
+뻗쳐	뻗치+어	VV+EC	O
+
+## 6
+## 한편 왕지혜는 6일 방송된 SBS '정글의 법칙-보물섬 in 사모아'(이하 '정글의 법칙')에서 색다른 모습을 드러냈다.
+## 한편 <왕지혜:PER>는 <6일:DAT> 방송된 <SBS:POH> '<정글의 법칙-보물섬 in 사모아:POH>'(이하 '<정글의 법칙:POH>')에서 색다른 모습을 드러냈다.
+한편	한편	MAG	O
+_	_	_	O
+왕지혜	왕지혜	NNP	B-PER
+는	는	JX	O
+_	_	_	O
+6	6	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+방송된	방송되+ㄴ	VV+ETM	O
+_	_	_	O
+SBS	SBS	SL	B-POH
+_	_	_	O
+'	'	SS	O
+정글	정글	NNG	B-POH
+의	의	JKG	I-POH
+_	_	_	I-POH
+법칙	법칙	NNG	I-POH
+-	-	SO	I-POH
+보물섬	보물섬	NNG	I-POH
+_	_	_	I-POH
+in	in	SL	I-POH
+_	_	_	I-POH
+사모아	사모아	NNP	I-POH
+'	'	SS	O
+(	(	SS	O
+이하	이하	NNG	O
+_	_	_	O
+'	'	SS	O
+정글	정글	NNG	B-POH
+의	의	JKG	I-POH
+_	_	_	I-POH
+법칙	법칙	NNG	I-POH
+'	'	SS	O
+)	)	SS	O
+에서	에서	JKB	O
+_	_	_	O
+색다른	색다르+ㄴ	VA+ETM	O
+_	_	_	O
+모습	모습	NNG	O
+을	을	JKO	O
+_	_	_	O
+드러냈	드러내+었	VV+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 왕지혜는 최근 떠난 정글에서 생존을 시작하고 첫 미션을 수행하던 중 “정글의 법칙, 진짜 너무해!”라고 외치며 시작부터 혹독한 미션에 귀여운 분노를 표출했다.
+## <왕지혜:PER>는 최근 떠난 정글에서 생존을 시작하고 첫 미션을 수행하던 중 “<정글의 법칙:POH>, 진짜 너무해!”라고 외치며 시작부터 혹독한 미션에 귀여운 분노를 표출했다.
+왕지혜	왕지혜	NNP	B-PER
+는	는	JX	O
+_	_	_	O
+최근	최근	NNG	O
+_	_	_	O
+떠난	떠나+ㄴ	VV+ETM	O
+_	_	_	O
+정글	정글	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+생존	생존	NNG	O
+을	을	JKO	O
+_	_	_	O
+시작하	시작하	VV	O
+고	고	EC	O
+_	_	_	O
+첫	첫	MM	O
+_	_	_	O
+미션	미션	NNG	O
+을	을	JKO	O
+_	_	_	O
+수행하	수행하	VV	O
+던	던	ETM	O
+_	_	_	O
+중	중	NNB	O
+_	_	_	O
+“	“	SS	O
+정글	정글	NNG	B-POH
+의	의	JKG	I-POH
+_	_	_	I-POH
+법칙	법칙	NNG	I-POH
+,	,	SP	O
+_	_	_	O
+진짜	진짜	NNG	O
+_	_	_	O
+너무해	너무하+여	VV+EF	O
+!	!	SF	O
+”	”	SS	O
+라고	라고	JKQ	O
+_	_	_	O
+외치	외치	VV	O
+며	며	EC	O
+_	_	_	O
+시작	시작	NNG	O
+부터	부터	JX	O
+_	_	_	O
+혹독한	혹독하+ㄴ	VA+ETM	O
+_	_	_	O
+미션	미션	NNG	O
+에	에	JKB	O
+_	_	_	O
+귀여	귀엽	VA	O
+운	ㄴ	ETM	O
+_	_	_	O
+분노	분노	NNG	O
+를	를	JKO	O
+_	_	_	O
+표출	표출하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 그러나 왕지혜는 작품 속 도도한 모습과 달리 정글에서는 털털한 매력을 뽐내 반전 이미지를 줬다.
+## 그러나 <왕지혜:PER>는 작품 속 도도한 모습과 달리 정글에서는 털털한 매력을 뽐내 반전 이미지를 줬다.
+그러나	그러나	MAJ	O
+_	_	_	O
+왕	왕	NNG	B-PER
+지혜	지혜	NNG	I-PER
+는	는	JX	O
+_	_	_	O
+작품	작품	NNG	O
+_	_	_	O
+속	속	NNG	O
+_	_	_	O
+도도한	도도하+ㄴ	VA+ETM	O
+_	_	_	O
+모습	모습	NNG	O
+과	과	JKB	O
+_	_	_	O
+달리	달리	MAG	O
+_	_	_	O
+정글	정글	NNG	O
+에서	에서	JKB	O
+는	는	JX	O
+_	_	_	O
+털털한	털털하+ㄴ	VA+ETM	O
+_	_	_	O
+매력	매력	NNG	O
+을	을	JKO	O
+_	_	_	O
+뽐내	뽐내+어	VV+EC	O
+_	_	_	O
+반전	반전	NNG	O
+_	_	_	O
+이미지	이미지	NNG	O
+를	를	JKO	O
+_	_	_	O
+줬	+었	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 이에 대해 강균성은 "왕지혜는 적극적이고 적응도 잘한다"고 칭찬했다.
+## 이에 대해 <강균성:PER>은 "<왕지혜:PER>는 적극적이고 적응도 잘한다"고 칭찬했다.
+이	이	NP	O
+에	에	JKB	O
+_	_	_	O
+대해	대하+여	VV+EC	O
+_	_	_	O
+강균성	강균성	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+"	"	SS	O
+왕지혜	왕지혜	NNP	B-PER
+는	는	JX	O
+_	_	_	O
+적극적	적극적	NNG	O
+이	이	VCP	O
+고	고	EC	O
+_	_	_	O
+적응	적응	NNG	O
+도	도	JX	O
+_	_	_	O
+잘한다	잘하+ㄴ다	VV+EF	O
+"	"	SS	O
+고	고	JKQ	O
+_	_	_	O
+칭찬	칭찬하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 부분적인 자율주행이 가능한 ‘제네시스 스마트 센스’도 EQ900에 이어 두 번째로 적용됐다.
+## 부분적인 자율주행이 가능한 ‘<제네시스 스마트 센스:POH>’도 <EQ900:POH>에 이어 두 번째로 적용됐다.
+부분적	부분적	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+자율	자율	NNG	O
+주행	주행	NNG	O
+이	이	JKS	O
+_	_	_	O
+가능한	가능하+ㄴ	VA+ETM	O
+_	_	_	O
+‘	‘	SS	O
+제네시스	제네시스	NNP	B-POH
+_	_	_	I-POH
+스마트	스마트	NNG	I-POH
+_	_	_	I-POH
+센스	센스	NNG	I-POH
+’	’	SS	O
+도	도	JX	O
+_	_	_	O
+EQ	EQ	SL	B-POH
+900	900	SN	I-POH
+에	에	JKB	O
+_	_	_	O
+이	잇	VV	O
+어	어	EC	O
+_	_	_	O
+두	두	MM	O
+_	_	_	O
+번째	번째	NNB	O
+로	로	JKB	O
+_	_	_	O
+적용	적용되	VV	O
+됐	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 헌법재판소의 기각 결정을 기대한다.
+## <헌법재판소:ORG>의 기각 결정을 기대한다.
+헌법	헌법	NNG	B-ORG
+재판소	재판소	NNG	I-ORG
+의	의	JKG	O
+_	_	_	O
+기각	기각	NNG	O
+_	_	_	O
+결정	결정	NNG	O
+을	을	JKO	O
+_	_	_	O
+기대한다	기대하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 12
+## 그러나 잠시후 화면이 바뀌면서 침공을 준비중인 미전함들의 모습이 방영된다.
+## 그러나 잠시후 화면이 바뀌면서 침공을 준비중인 <미:ORG>전함들의 모습이 방영된다.
+그러나	그러나	MAJ	O
+_	_	_	O
+잠시	잠시	NNG	O
+후	후	NNG	O
+_	_	_	O
+화면	화면	NNG	O
+이	이	JKS	O
+_	_	_	O
+바뀌	바뀌	VV	O
+면서	면서	EC	O
+_	_	_	O
+침공	침공	NNG	O
+을	을	JKO	O
+_	_	_	O
+준비	준비	NNG	O
+중	중	NNB	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+미	미	NNP	B-ORG
+전함	전함	NNG	O
+들	들	XSN	O
+의	의	JKG	O
+_	_	_	O
+모습	모습	NNG	O
+이	이	JKS	O
+_	_	_	O
+방영된다	방영되+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 13
+## 이 같은 선제적 투자로 인해 2005년 이후 1000억 원대 매출액에서 몇 년간 제자리걸음을 하던 호전실업은 2009년 매출액 2000억 원을 돌파하며 본격적인 성장기에 들어서게 됐다.
+## 이 같은 선제적 투자로 인해 <2005년:DAT> 이후 <1000억 원:MNY>대 매출액에서 몇 년간 제자리걸음을 하던 <호전실업:ORG>은 <2009년:DAT> 매출액 <2000억 원:MNY>을 돌파하며 본격적인 성장기에 들어서게 됐다.
+이	이	NP	O
+_	_	_	O
+같	같	VA	O
+은	은	ETM	O
+_	_	_	O
+선제	선제	NNG	O
+적	적	XSN	O
+_	_	_	O
+투자	투자	NNG	O
+로	로	JKB	O
+_	_	_	O
+인해	인하+여	VV+EC	O
+_	_	_	O
+2005	2005	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+이후	이후	NNG	O
+_	_	_	O
+1000	1000	SN	B-MNY
+억	억	NR	I-MNY
+_	_	_	I-MNY
+원	원	NNB	I-MNY
+대	대	XSN	O
+_	_	_	O
+매출액	매출액	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+몇	몇	MM	O
+_	_	_	O
+년	년	NNB	O
+간	간	XSN	O
+_	_	_	O
+제자리걸음	제자리걸음	NNG	O
+을	을	JKO	O
+_	_	_	O
+하	하	VV	O
+던	던	ETM	O
+_	_	_	O
+호전	호전	NNG	B-ORG
+실업	실업	NNG	I-ORG
+은	은	JX	O
+_	_	_	O
+2009	2009	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+매출액	매출액	NNG	O
+_	_	_	O
+2000	2000	SN	B-MNY
+억	억	NR	I-MNY
+_	_	_	I-MNY
+원	원	NNB	I-MNY
+을	을	JKO	O
+_	_	_	O
+돌파하	돌파하	VV	O
+며	며	EC	O
+_	_	_	O
+본격적	본격적	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+성장기	성장기	NNG	O
+에	에	JKB	O
+_	_	_	O
+들어서	들어서	VV	O
+게	게	EC	O
+_	_	_	O
+됐	+었	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 14
+## 이어 리커창(李克强) 총리와 함께 청나라 황실 여름 궁전이었던 이허위안(이和園)에서 산책을 하고 만찬도 함께했다.
+## 이어 <리커창:PER>(<李克强:PER>) 총리와 함께 <청나라:ORG> 황실 여름 궁전이었던 <이허위안:LOC>(이和園)에서 산책을 하고 만찬도 함께했다.
+이어	이어	MAG	O
+_	_	_	O
+리커창	리커창	NNP	B-PER
+(	(	SS	O
+李克强	李克强	SH	B-PER
+)	)	SS	O
+_	_	_	O
+총리	총리	NNG	O
+와	와	JKB	O
+_	_	_	O
+함께	함께	MAG	O
+_	_	_	O
+청나라	청나라	NNP	B-ORG
+_	_	_	O
+황실	황실	NNG	O
+_	_	_	O
+여름	여름	NNG	O
+_	_	_	O
+궁전	궁전	NNG	O
+이	이	VCP	O
+었	었	EP	O
+던	던	ETM	O
+_	_	_	O
+이허위안	이허위안	NNG	B-LOC
+(	(	SS	O
+이	이	MM	O
+和園	和園	SH	O
+)	)	SS	O
+에서	에서	JKB	O
+_	_	_	O
+산책	산책	NNG	O
+을	을	JKO	O
+_	_	_	O
+하	하	VV	O
+고	고	EC	O
+_	_	_	O
+만찬	만찬	NNG	O
+도	도	JX	O
+_	_	_	O
+함께	함께하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 15
+## 남상미 임신 14주차, 결혼식 사진 보니 '단아함의 끝' …남편은 누구?
+## <남상미:PER> 임신 <14주차:NOH>, 결혼식 사진 보니 '단아함의 끝' …남편은 누구?
+남상미	남상미	NNP	B-PER
+_	_	_	O
+임신	임신	NNG	O
+_	_	_	O
+14	14	SN	B-NOH
+주	주	NNB	I-NOH
+차	차	NNB	I-NOH
+,	,	SP	O
+_	_	_	O
+결혼식	결혼식	NNG	O
+_	_	_	O
+사진	사진	NNG	O
+_	_	_	O
+보	보	VV	O
+니	니	EC	O
+_	_	_	O
+'	'	SS	O
+단아함	단아하+ㅁ	VA+ETN	O
+의	의	JKG	O
+_	_	_	O
+끝	끝	NNG	O
+'	'	SS	O
+_	_	_	O
+…	…	SE	O
+남편	남편	NNG	O
+은	은	JX	O
+_	_	_	O
+누구	누구	NP	O
+?	?	SF	O
+

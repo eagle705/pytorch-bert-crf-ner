@@ -1,0 +1,430 @@
+## 1
+## 아랍 국가들은 기습공격을 가해 허를 찔렀다.
+## <아랍:LOC> 국가들은 기습공격을 가해 허를 찔렀다.
+아랍	아랍	NNP	B-LOC
+_	_	_	O
+국가	국가	NNG	O
+들	들	XSN	O
+은	은	JX	O
+_	_	_	O
+기습	기습	NNG	O
+공격	공격	NNG	O
+을	을	JKO	O
+_	_	_	O
+가해	가하+여	VV+EC	O
+_	_	_	O
+허	허	NNG	O
+를	를	JKO	O
+_	_	_	O
+찔	찌르	VV	O
+렀	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 흥미롭고, 말로 표현할 수 없는 특별한 무언가가 있어요.”좋아하는 한국영화나 영화인을 묻자 그는 임권택 감독의 ‘취화선’을 극찬했다.
+## 흥미롭고, 말로 표현할 수 없는 특별한 무언가가 있어요.”좋아하는 <한국:LOC>영화나 영화인을 묻자 그는 <임권택:PER> 감독의 ‘<취화선:POH>’을 극찬했다.
+흥미롭	흥미롭	VA	O
+고	고	EC	O
+,	,	SP	O
+_	_	_	O
+말	말	NNG	O
+로	로	JKB	O
+_	_	_	O
+표현할	표현하+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+없	없	VA	O
+는	는	ETM	O
+_	_	_	O
+특별한	특별하+ㄴ	VA+ETM	O
+_	_	_	O
+무언가	무어+이+ㄴ가	NP+VCP+EC	O
+가	가	JKS	O
+_	_	_	O
+있	있	VA	O
+어요	어요	EF	O
+.	.	SF	O
+”	”	SS	O
+좋아하	좋아하	VV	O
+는	는	ETM	O
+_	_	_	O
+한국	한국	NNP	B-LOC
+영화	영화	NNG	O
+나	나	JC	O
+_	_	_	O
+영화인	영화인	NNG	O
+을	을	JKO	O
+_	_	_	O
+묻	묻	VV	O
+자	자	EC	O
+_	_	_	O
+그	그	NP	O
+는	는	JX	O
+_	_	_	O
+임권택	임권택	NNP	B-PER
+_	_	_	O
+감독	감독	NNG	O
+의	의	JKG	O
+_	_	_	O
+‘	‘	SS	O
+취화선	취화선	NNP	B-POH
+’	’	SS	O
+을	을	JKO	O
+_	_	_	O
+극찬	극찬하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 지난해 7월 탈북한 태영호 전 주영국 북한대사관 공사는 미 CBS방송의 시사 프로그램 ‘60분(60minutes)’과의 인터뷰에서 “김정은이 당신을 살해할 수도 있을 것 같으냐”는 질문에 “물론이다.
+## 지난해 <7월:DAT> 탈북한 <태영호:PER> 전 <주영국 북한대사관:ORG> 공사는 <미 CBS방송:ORG>의 시사 프로그램 ‘<60분:POH>(<60minutes:POH>)’과의 인터뷰에서 “<김정은:PER>이 당신을 살해할 수도 있을 것 같으냐”는 질문에 “물론이다.
+지난해	지난해	NNG	O
+_	_	_	O
+7	7	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+탈	탈	XPN	O
+북	북	NNP	O
+한	하+ㄴ	VV+ETM	O
+_	_	_	O
+태영호	태영호	NNP	B-PER
+_	_	_	O
+전	전	MM	O
+_	_	_	O
+주	주	NNG	B-ORG
+영국	영국	NNP	I-ORG
+_	_	_	I-ORG
+북한	북한	NNP	I-ORG
+대사관	대사관	NNG	I-ORG
+_	_	_	O
+공사	공사	NNG	O
+는	는	JX	O
+_	_	_	O
+미	미	NNP	B-ORG
+_	_	_	I-ORG
+CBS	CBS	SL	I-ORG
+방송	방송	NNG	I-ORG
+의	의	JKG	O
+_	_	_	O
+시사	시사	NNG	O
+_	_	_	O
+프로그램	프로그램	NNG	O
+_	_	_	O
+‘	‘	SS	O
+60	60	SN	B-POH
+분	분	NNB	I-POH
+(	(	SS	O
+60	60	SN	B-POH
+minutes	minutes	SL	I-POH
+)	)	SS	O
+’	’	SS	O
+과	과	JKB	O
+의	의	JKG	O
+_	_	_	O
+인터뷰	인터뷰	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+“	“	SS	O
+김정은	김정은	NNP	B-PER
+이	이	JKS	O
+_	_	_	O
+당신	당신	NP	O
+을	을	JKO	O
+_	_	_	O
+살해할	살해하+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+도	도	JX	O
+_	_	_	O
+있	있	VA	O
+을	을	ETM	O
+_	_	_	O
+것	것	NNB	O
+_	_	_	O
+같	같	VA	O
+으냐	으냐	EF	O
+”	”	SS	O
+는	는	JX	O
+_	_	_	O
+질문	질문	NNG	O
+에	에	JKB	O
+_	_	_	O
+“	“	SS	O
+물론	물론	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 전반적으로 세계 하위권(세계최고의 42.2%) 평가를 면치못했다.
+## 전반적으로 세계 하위권(세계최고의 <42.2%:PNT>) 평가를 면치못했다.
+전반적	전반적	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+세계	세계	NNG	O
+_	_	_	O
+하위권	하위권	NNG	O
+(	(	SS	O
+세계	세계	NNG	O
+최고	최고	NNG	O
+의	의	JKG	O
+_	_	_	O
+42.2	42.2	SN	B-PNT
+%	%	SW	I-PNT
+)	)	SS	O
+_	_	_	O
+평가	평가	NNG	O
+를	를	JKO	O
+_	_	_	O
+면	면하	VV	O
+치	지	EC	O
+못	못하	VX	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## NC 박석민(31)은 독특한 타격폼을 가지고 있다.
+## <NC:ORG> <박석민:PER>(<31:NOH>)은 독특한 타격폼을 가지고 있다.
+NC	NC	SL	B-ORG
+_	_	_	O
+박석민	박석민	NNP	B-PER
+(	(	SS	O
+31	31	SN	B-NOH
+)	)	SS	O
+은	은	JX	O
+_	_	_	O
+독특한	독특하+ㄴ	VA+ETM	O
+_	_	_	O
+타격	타격	NNG	O
+폼	폼	NNG	O
+을	을	JKO	O
+_	_	_	O
+가지	가지	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 그러나 트럼프 대통령은 12일 “자국민을 화학무기로 공격한 아사드 대통령은 도살자”라며 “아사드 정권은 결국 축출될 것”이라며 사실상 헤일리 대사의 손을 들어줬다.
+## 그러나 <트럼프:PER> 대통령은 <12일:DAT> “자국민을 화학무기로 공격한 <아사드:PER> 대통령은 도살자”라며 “<아사드:PER> 정권은 결국 축출될 것”이라며 사실상 <헤일리:PER> 대사의 손을 들어줬다.
+그러나	그러나	MAJ	O
+_	_	_	O
+트럼프	트럼프	NNP	B-PER
+_	_	_	O
+대통령	대통령	NNG	O
+은	은	JX	O
+_	_	_	O
+12	12	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+“	“	SS	O
+자국민	자국민	NNG	O
+을	을	JKO	O
+_	_	_	O
+화학	화학	NNG	O
+무기	무기	NNG	O
+로	로	JKB	O
+_	_	_	O
+공격한	공격하+ㄴ	VV+ETM	O
+_	_	_	O
+아사드	아사드	NNP	B-PER
+_	_	_	O
+대통령	대통령	NNG	O
+은	은	JX	O
+_	_	_	O
+도살자	도살자	NNG	O
+”	”+이	SS+VCP	O
+라며	라며	EC	O
+_	_	_	O
+“	“	SS	O
+아사드	아사드	NNP	B-PER
+_	_	_	O
+정권	정권	NNG	O
+은	은	JX	O
+_	_	_	O
+결국	결국	NNG	O
+_	_	_	O
+축출될	축출되+ㄹ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+”	”	SS	O
+이	이	VCP	O
+라며	라며	EC	O
+_	_	_	O
+사실상	사실상	NNG	O
+_	_	_	O
+헤일리	헤일리	NNP	B-PER
+_	_	_	O
+대사	대사	NNG	O
+의	의	JKG	O
+_	_	_	O
+손	손	NNG	O
+을	을	JKO	O
+_	_	_	O
+들	들	VV	O
+어	어	EC	O
+줬	주+었	VX+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 북한 문제 해결을 위해서, 한국은 중국을 어떻게 활용해야 할까.
+## <북한:ORG> 문제 해결을 위해서, <한국:ORG>은 <중국:ORG>을 어떻게 활용해야 할까.
+북한	북한	NNP	B-ORG
+_	_	_	O
+문제	문제	NNG	O
+_	_	_	O
+해결	해결	NNG	O
+을	을	JKO	O
+_	_	_	O
+위해서	위하+여서	VV+EC	O
+,	,	SP	O
+_	_	_	O
+한국	한국	NNP	B-ORG
+은	은	JX	O
+_	_	_	O
+중국	중국	NNP	B-ORG
+을	을	JKO	O
+_	_	_	O
+어떻	어떻	VA	O
+게	게	EC	O
+_	_	_	O
+활용해야	활용하+여야	VV+EC	O
+_	_	_	O
+할까	하+ㄹ까	VX+EF	O
+.	.	SF	O
+
+## 8
+## 대학 3학년인 이종현은 서장훈, 김주성과 자주 비교된다.
+## <대학:POH> <3학년:NOH>인 <이종현:PER>은 <서장훈:PER>, <김주성:PER>과 자주 비교된다.
+대학	대학	NNG	B-POH
+_	_	_	O
+3	3	SN	B-NOH
+학년	학년	NNG	I-NOH
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+이종현	이종현	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+서장훈	서장훈	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+김주성	김주성	NNP	B-PER
+과	과	JKB	O
+_	_	_	O
+자주	자주	MAG	O
+_	_	_	O
+비교된다	비교되+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 9
+## 인천시립박물관은 14일 이달 중으로 한국이민사박물관에 대한 상표등록을 출원할 계획이라고 밝혔다.
+## <인천시립박물관:ORG>은 <14일:DAT> 이달 중으로 <한국이민사박물관:ORG>에 대한 상표등록을 출원할 계획이라고 밝혔다.
+인천	인천	NNP	B-ORG
+시립	시립	NNG	I-ORG
+박물관	박물관	NNG	I-ORG
+은	은	JX	O
+_	_	_	O
+14	14	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+이달	이달	NNG	O
+_	_	_	O
+중	중	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+한국	한국	NNP	B-ORG
+이민	이민	NNG	I-ORG
+사	사	NNG	I-ORG
+박물관	박물관	NNG	I-ORG
+에	에	JKB	O
+_	_	_	O
+대한	대하+ㄴ	VV+ETM	O
+_	_	_	O
+상표	상표	NNG	O
+등록	등록	NNG	O
+을	을	JKO	O
+_	_	_	O
+출원할	출원하+ㄹ	VV+ETM	O
+_	_	_	O
+계획	계획	NNG	O
+이	이	VCP	O
+라고	라고	EC	O
+_	_	_	O
+밝	밝히	VV	O
+혔	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 변호사법은 법무법인을 징계하도록 하고 있지만, 김앤장은 공동법률사무소여서 담당 변호사가 징계를 받았다.
+## 변호사법은 법무법인을 징계하도록 하고 있지만, <김앤장:ORG>은 공동법률사무소여서 담당 변호사가 징계를 받았다.
+변호사법	변호사법	NNG	O
+은	은	JX	O
+_	_	_	O
+법무	법무	NNG	O
+법인	법인	NNG	O
+을	을	JKO	O
+_	_	_	O
+징계하	징계하	VV	O
+도록	도록	EC	O
+_	_	_	O
+하	하	VX	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+지만	지만	EC	O
+,	,	SP	O
+_	_	_	O
+김	김	NNP	B-ORG
+앤	앤	NNG	I-ORG
+장	장	XSN	I-ORG
+은	은	JX	O
+_	_	_	O
+공동	공동	NNG	O
+법률	법률	NNG	O
+사무소	사무소+이	NNG+VCP	O
+여서	어서	EC	O
+_	_	_	O
+담당	담당	NNG	O
+_	_	_	O
+변호사	변호사	NNG	O
+가	가	JKS	O
+_	_	_	O
+징계	징계	NNG	O
+를	를	JKO	O
+_	_	_	O
+받	받	VV	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 한국에서 힐로 공항까지 바로 가는 항공편은 없다.
+## <한국:LOC>에서 <힐로 공항:LOC>까지 바로 가는 항공편은 없다.
+한국	한국	NNP	B-LOC
+에서	에서	JKB	O
+_	_	_	O
+힐로	힐로	NNP	B-LOC
+_	_	_	I-LOC
+공항	공항	NNG	I-LOC
+까지	까지	JX	O
+_	_	_	O
+바로	바로	MAG	O
+_	_	_	O
+가	가	VV	O
+는	는	ETM	O
+_	_	_	O
+항공편	항공편	NNG	O
+은	은	JX	O
+_	_	_	O
+없	없	VA	O
+다	다	EF	O
+.	.	SF	O
+

@@ -1,0 +1,612 @@
+## 1
+## 포데모스가 풀뿌리 여론을 수렴해 정책결정으로 이끌어내는 미디어 정당을 자처한 것이다.
+## <포데모스:PER>가 풀뿌리 여론을 수렴해 정책결정으로 이끌어내는 미디어 정당을 자처한 것이다.
+포	포	NNG	B-PER
+데모스	데모스	NNG	I-PER
+가	가	JKS	O
+_	_	_	O
+풀뿌리	풀뿌리	NNG	O
+_	_	_	O
+여론	여론	NNG	O
+을	을	JKO	O
+_	_	_	O
+수렴해	수렴하+여	VV+EC	O
+_	_	_	O
+정책	정책	NNG	O
+결정	결정	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+이끌	이끌	VV	O
+어	어	EC	O
+내	내	VX	O
+는	는	ETM	O
+_	_	_	O
+미디어	미디어	NNG	O
+_	_	_	O
+정당	정당	NNG	O
+을	을	JKO	O
+_	_	_	O
+자처한	자처하+ㄴ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 포데모스의 선거 구호는 “당신이 희망을 가지고 투표한 마지막은 언제인가?”다.
+## <포데모스:PER>의 선거 구호는 “당신이 희망을 가지고 투표한 마지막은 언제인가?”다.
+포	포	NNG	B-PER
+데모스	데모스	NNG	I-PER
+의	의	JKG	O
+_	_	_	O
+선거	선거	NNG	O
+_	_	_	O
+구호	구호	NNG	O
+는	는	JX	O
+_	_	_	O
+“	“	SS	O
+당신	당신	NP	O
+이	이	JKS	O
+_	_	_	O
+희망	희망	NNG	O
+을	을	JKO	O
+_	_	_	O
+가지	가지	VV	O
+고	고	EC	O
+_	_	_	O
+투표한	투표하+ㄴ	VV+ETM	O
+_	_	_	O
+마지막	마지막	NNG	O
+은	은	JX	O
+_	_	_	O
+언제	언제	NP	O
+인가	이+ㄴ가	VCP+EF	O
+?	?	SF	O
+”	”+이	SS+VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 김용환 NH농협금융회장 1년 연임
+## <김용환:PER> NH농협금융회장 <1년:NOH> 연임
+김용환	김용환	NNP	B-PER
+_	_	_	O
+NH	NH	SL	O
+농협	농협	NNP	O
+금융	금융	NNG	O
+회장	회장	NNG	O
+_	_	_	O
+1	1	SN	B-NOH
+년	년	NNB	I-NOH
+_	_	_	O
+연임	연임	NNG	O
+
+## 4
+## 우리는(박 시장은) 민주당에 남아 있을 것"이라고 일축했다.
+## 우리는(<박:PER> 시장은) <민주당:ORG>에 남아 있을 것"이라고 일축했다.
+우리	우리	NP	O
+는	는	JX	O
+(	(	SS	O
+박	박	NNP	B-PER
+_	_	_	O
+시장	시장	NNG	O
+은	은	JX	O
+)	)	SS	O
+_	_	_	O
+민주당	민주당	NNP	B-ORG
+에	에	JKB	O
+_	_	_	O
+남	남	VV	O
+아	아	EC	O
+_	_	_	O
+있	있	VX	O
+을	을	ETM	O
+_	_	_	O
+것	것	NNB	O
+"	"	SS	O
+이라고	이라고	JKQ	O
+_	_	_	O
+일축	일축하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 강원랜드가 이처럼 대규모 계약 해지를 결정한 것은 기획재정부에서 정원 확대 승인을 받지 못했기 때문이다.
+## <강원랜드:ORG>가 이처럼 대규모 계약 해지를 결정한 것은 <기획재정부:ORG>에서 정원 확대 승인을 받지 못했기 때문이다.
+강원랜드	강원랜드	NNP	B-ORG
+가	가	JKS	O
+_	_	_	O
+이	이	NP	O
+처럼	처럼	JKB	O
+_	_	_	O
+대규모	대규모	NNG	O
+_	_	_	O
+계약	계약	NNG	O
+_	_	_	O
+해지	해지	NNG	O
+를	를	JKO	O
+_	_	_	O
+결정한	결정하+ㄴ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+은	은	JX	O
+_	_	_	O
+기획	기획	NNG	B-ORG
+재정부	재정부	NNG	I-ORG
+에서	에서	JKB	O
+_	_	_	O
+정원	정원	NNG	O
+_	_	_	O
+확대	확대	NNG	O
+_	_	_	O
+승인	승인	NNG	O
+을	을	JKO	O
+_	_	_	O
+받	받	VV	O
+지	지	EC	O
+_	_	_	O
+못	못하	VX	O
+했	였	EP	O
+기	기	ETN	O
+_	_	_	O
+때문	때문	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 현재 중소기업으로서는 선도적인 속도 분당 180m의 기술까지 확보하고 있으며, 기술 연구소에서는 초고속용 엘리베이터를 위한 구동장치, 전기 장치 등을 개발 중이다.
+## 현재 중소기업으로서는 선도적인 속도 <분당 180m:NOH>의 기술까지 확보하고 있으며, 기술 연구소에서는 초고속용 엘리베이터를 위한 구동장치, 전기 장치 등을 개발 중이다.
+현재	현재	MAG	O
+_	_	_	O
+중소기업	중소기업	NNG	O
+으로서	으로서	JKB	O
+는	는	JX	O
+_	_	_	O
+선도적	선도적	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+속도	속도	NNG	O
+_	_	_	O
+분당	분당	NNP	B-NOH
+_	_	_	I-NOH
+180	180	SN	I-NOH
+m	m	SL	I-NOH
+의	의	JKG	O
+_	_	_	O
+기술	기술	NNG	O
+까지	까지	JX	O
+_	_	_	O
+확보하	확보하	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+으며	으며	EC	O
+,	,	SP	O
+_	_	_	O
+기술	기술	NNG	O
+_	_	_	O
+연구소	연구소	NNG	O
+에서	에서	JKB	O
+는	는	JX	O
+_	_	_	O
+초고속	초고속	NNG	O
+용	용	XSN	O
+_	_	_	O
+엘리베이터	엘리베이터	NNG	O
+를	를	JKO	O
+_	_	_	O
+위한	위하+ㄴ	VV+ETM	O
+_	_	_	O
+구동	구동	NNG	O
+장치	장치	NNG	O
+,	,	SP	O
+_	_	_	O
+전기	전기	NNG	O
+_	_	_	O
+장치	장치	NNG	O
+_	_	_	O
+등	등	NNB	O
+을	을	JKO	O
+_	_	_	O
+개발	개발	NNG	O
+_	_	_	O
+중	중	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 소녀시대 티파니·유리 "우리가 하면 진리"…DMC 페스티벌 MC 맡아
+## <소녀시대:ORG> <티파니:PER>·<유리:PER> "우리가 하면 진리"…<DMC 페스티벌:POH> MC 맡아
+소녀	소녀	NNG	B-ORG
+시대	시대	NNG	I-ORG
+_	_	_	O
+티파니	티파니	NNP	B-PER
+·	·	SP	O
+유리	유리	NNG	B-PER
+_	_	_	O
+"	"	SS	O
+우리	우리	NP	O
+가	가	JKS	O
+_	_	_	O
+하	하	VV	O
+면	면	EC	O
+_	_	_	O
+진리	진리	NNG	O
+"	"	SS	O
+…	…	SE	O
+DMC	DMC	SL	B-POH
+_	_	_	I-POH
+페스티벌	페스티벌	NNG	I-POH
+_	_	_	O
+MC	MC	SL	O
+_	_	_	O
+맡	맡	VV	O
+아	아	EC	O
+
+## 8
+## 2016년엔 국가기념일 제정 추진도
+## <2016년:DAT>엔 국가기념일 제정 추진도
+2016	2016	SN	B-DAT
+년	년	NNB	I-DAT
+엔	에+ㄴ	JKB+JX	O
+_	_	_	O
+국가	국가	NNG	O
+기념일	기념일	NNG	O
+_	_	_	O
+제정	제정	NNG	O
+_	_	_	O
+추진	추진	NNG	O
+도	도	JX	O
+
+## 9
+## SK는 2014시즌이 끝난 뒤 프리에이전트(FA) 자격을 얻은 최정에게 4년 86억원의 거액을 안겨줬다.
+## <SK:ORG>는 <2014시즌:NOH>이 끝난 뒤 프리에이전트(FA) 자격을 얻은 <최정:PER>에게 <4년:NOH> <86억원:MNY>의 거액을 안겨줬다.
+SK	SK	SL	B-ORG
+는	는	JX	O
+_	_	_	O
+2014	2014	SN	B-NOH
+시즌	시즌	NNG	I-NOH
+이	이	JKS	O
+_	_	_	O
+끝난	끝나+ㄴ	VV+ETM	O
+_	_	_	O
+뒤	뒤	NNG	O
+_	_	_	O
+프리에이전트	프리에이전트	NNG	O
+(	(	SS	O
+FA	FA	SL	O
+)	)	SS	O
+_	_	_	O
+자격	자격	NNG	O
+을	을	JKO	O
+_	_	_	O
+얻	얻	VV	O
+은	은	ETM	O
+_	_	_	O
+최정	최정	NNP	B-PER
+에게	에게	JKB	O
+_	_	_	O
+4	4	SN	B-NOH
+년	년	NNB	I-NOH
+_	_	_	O
+86	86	SN	B-MNY
+억	억	NR	I-MNY
+원	원	NNB	I-MNY
+의	의	JKG	O
+_	_	_	O
+거액	거액	NNG	O
+을	을	JKO	O
+_	_	_	O
+안겨	안기+어+주	VV+EC+VX	O
+줬	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 모험가는 20레벨과 50레벨을 달성했을 때 각각 1차 전직과 2차 전직을 할 수 있다.
+## 모험가는 <20레벨:NOH>과 <50레벨:NOH>을 달성했을 때 각각 <1차:NOH> 전직과 <2차:NOH> 전직을 할 수 있다.
+모험가	모험가	NNG	O
+는	는	JX	O
+_	_	_	O
+20	20	SN	B-NOH
+레벨	레벨	NNG	I-NOH
+과	과	JC	O
+_	_	_	O
+50	50	SN	B-NOH
+레벨	레벨	NNG	I-NOH
+을	을	JKO	O
+_	_	_	O
+달성	달성하	VV	O
+했	였	EP	O
+을	을	ETM	O
+_	_	_	O
+때	때	NNG	O
+_	_	_	O
+각각	각각	MAG	O
+_	_	_	O
+1	1	SN	B-NOH
+차	차	NNB	I-NOH
+_	_	_	O
+전직	전직	NNG	O
+과	과	JC	O
+_	_	_	O
+2	2	SN	B-NOH
+차	차	NNB	I-NOH
+_	_	_	O
+전직	전직	NNG	O
+을	을	JKO	O
+_	_	_	O
+할	하+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 포드세일즈서비스코리아는 링컨 MKS AWD를 선보였다.
+## <포드세일즈서비스코리아:ORG>는 <링컨 MKS AWD:POH>를 선보였다.
+포드세일즈서비스코리아	포드세일즈서비스코리아	NNP	B-ORG
+는	는	JX	O
+_	_	_	O
+링컨	링컨	NNP	B-POH
+_	_	_	I-POH
+MKS	MKS	SL	I-POH
+_	_	_	I-POH
+AWD	AWD	SL	I-POH
+를	를	JKO	O
+_	_	_	O
+선보	선보이	VV	O
+였	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 단 한 명의 입학생이라도 있다면…
+## 단 <한 명:NOH>의 입학생이라도 있다면…
+단	단	MM	O
+_	_	_	O
+한	한	MM	B-NOH
+_	_	_	I-NOH
+명	명	NNB	I-NOH
+의	의	JKG	O
+_	_	_	O
+입학생	입학생	NNG	O
+이라도	이라도	JX	O
+_	_	_	O
+있	있	VA	O
+다면	다면	EC	O
+…	…	SE	O
+
+## 13
+## [Outdoor]레드페이스, 변덕스러운 봄 날씨에도 끄떡없는 바람막이 재킷
+## [Outdoor]<레드페이스:ORG>, 변덕스러운 봄 날씨에도 끄떡없는 바람막이 재킷
+[	[	SS	O
+Outdoor	Outdoor	SL	O
+]	]	SS	O
+레드페이스	레드페이스	NNP	B-ORG
+,	,	SP	O
+_	_	_	O
+변덕스러	변덕스럽	VA	O
+운	ㄴ	ETM	O
+_	_	_	O
+봄	봄	NNG	O
+_	_	_	O
+날씨	날씨	NNG	O
+에	에	JKB	O
+도	도	JX	O
+_	_	_	O
+끄떡없	끄떡없	VA	O
+는	는	ETM	O
+_	_	_	O
+바람막이	바람막이	NNG	O
+_	_	_	O
+재킷	재킷	NNG	O
+
+## 14
+## 김후남 대구시 달서구 상록수실버타운 원장은 “치매 환자는 감정 기복이 심하고 갑자기 힘이 세지기 때문에 요양보호사가 위험에 처할 수 있다”며 “가족은 이런 상황에 대처할 수 있지만 요양보호사는 쉽지 않은 만큼 이런 일을 하려는 요양보호사가 있을지 의문”이라고 말했다.
+## <김후남:PER> <대구시 달서구:LOC> 상록수실버타운 원장은 “치매 환자는 감정 기복이 심하고 갑자기 힘이 세지기 때문에 요양보호사가 위험에 처할 수 있다”며 “가족은 이런 상황에 대처할 수 있지만 요양보호사는 쉽지 않은 만큼 이런 일을 하려는 요양보호사가 있을지 의문”이라고 말했다.
+김후남	김후남	NNP	B-PER
+_	_	_	O
+대구시	대구시	NNP	B-LOC
+_	_	_	I-LOC
+달서구	달서구	NNP	I-LOC
+_	_	_	O
+상록수	상록수	NNG	O
+실버타운	실버타운	NNG	O
+_	_	_	O
+원장	원장	NNG	O
+은	은	JX	O
+_	_	_	O
+“	“	SS	O
+치매	치매	NNG	O
+_	_	_	O
+환자	환자	NNG	O
+는	는	JX	O
+_	_	_	O
+감정	감정	NNG	O
+_	_	_	O
+기복	기복	NNG	O
+이	이	JKS	O
+_	_	_	O
+심하	심하	VA	O
+고	고	EC	O
+_	_	_	O
+갑자기	갑자기	MAG	O
+_	_	_	O
+힘	힘	NNG	O
+이	이	JKS	O
+_	_	_	O
+세지	세지	VV	O
+기	기	ETN	O
+_	_	_	O
+때문	때문	NNB	O
+에	에	JKB	O
+_	_	_	O
+요양	요양	NNG	O
+보호	보호	NNG	O
+사	사	XSN	O
+가	가	JKS	O
+_	_	_	O
+위험	위험	NNG	O
+에	에	JKB	O
+_	_	_	O
+처할	처하+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+”	”	SS	O
+며	며	EC	O
+_	_	_	O
+“	“	SS	O
+가족	가족	NNG	O
+은	은	JX	O
+_	_	_	O
+이런	이런	MM	O
+_	_	_	O
+상황	상황	NNG	O
+에	에	JKB	O
+_	_	_	O
+대처할	대처하+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+지만	지만	EC	O
+_	_	_	O
+요양	요양	NNG	O
+보호	보호	NNG	O
+사	사	XSN	O
+는	는	JX	O
+_	_	_	O
+쉽	쉽	VA	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+은	은	ETM	O
+_	_	_	O
+만큼	만큼	NNB	O
+_	_	_	O
+이런	이런	MM	O
+_	_	_	O
+일	일	NNG	O
+을	을	JKO	O
+_	_	_	O
+하	하	VV	O
+려는	려는	ETM	O
+_	_	_	O
+요양	요양	NNG	O
+보호	보호	NNG	O
+사	사	XSN	O
+가	가	JKS	O
+_	_	_	O
+있	있	VA	O
+을지	을지	EC	O
+_	_	_	O
+의문	의문	NNG	O
+”	”	SS	O
+이라고	이라고	JKQ	O
+_	_	_	O
+말	말하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 15
+## 지금 거래되는 기름값보다 배럴당 15~20달러가량 비싼 셈이다.
+## 지금 거래되는 기름값보다 배럴당 <15:MNY>~<20달러:MNY>가량 비싼 셈이다.
+지금	지금	MAG	O
+_	_	_	O
+거래되	거래되	VV	O
+는	는	ETM	O
+_	_	_	O
+기름	기름	NNG	O
+값	값	NNG	O
+보다	보다	JKB	O
+_	_	_	O
+배럴	배럴	NNG	O
+당	당	XSN	O
+_	_	_	O
+15	15	SN	B-MNY
+~	~	SO	O
+20	20	SN	B-MNY
+달러	달러	NNB	I-MNY
+가량	가량	XSN	O
+_	_	_	O
+비싼	비싸+ㄴ	VA+ETM	O
+_	_	_	O
+셈	셈	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 16
+## 술을 마시고도 운전을 하는 가장 큰 이유로는 “술을 많이 먹지 않아 이상이 없다고 느껴서”라는 답변이 22.7%(34명)로 가장 많았다.
+## 술을 마시고도 운전을 하는 가장 큰 이유로는 “술을 많이 먹지 않아 이상이 없다고 느껴서”라는 답변이 <22.7%:PNT>(<34명:NOH>)로 가장 많았다.
+술	술	NNG	O
+을	을	JKO	O
+_	_	_	O
+마시	마시	VV	O
+고도	고도	EC	O
+_	_	_	O
+운전	운전	NNG	O
+을	을	JKO	O
+_	_	_	O
+하	하	VV	O
+는	는	ETM	O
+_	_	_	O
+가장	가장	MAG	O
+_	_	_	O
+큰	크+ㄴ	VA+ETM	O
+_	_	_	O
+이유	이유	NNG	O
+로	로	JKB	O
+는	는	JX	O
+_	_	_	O
+“	“	SS	O
+술	술	NNG	O
+을	을	JKO	O
+_	_	_	O
+많이	많이	MAG	O
+_	_	_	O
+먹	먹	VV	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+아	아	EC	O
+_	_	_	O
+이상	이상	NNG	O
+이	이	JKS	O
+_	_	_	O
+없	없	VA	O
+다고	다고	EC	O
+_	_	_	O
+느껴서	느끼+어서	VV+EF	O
+”	”+이	SS+VCP	O
+라는	라는	ETM	O
+_	_	_	O
+답변	답변	NNG	O
+이	이	JKS	O
+_	_	_	O
+22.7	22.7	SN	B-PNT
+%	%	SW	I-PNT
+(	(	SS	O
+34	34	SN	B-NOH
+명	명	NNB	I-NOH
+)	)	SS	O
+로	로	JKB	O
+_	_	_	O
+가장	가장	MAG	O
+_	_	_	O
+많	많	VA	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+

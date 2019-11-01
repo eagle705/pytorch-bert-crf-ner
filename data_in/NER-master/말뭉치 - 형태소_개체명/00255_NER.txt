@@ -1,0 +1,513 @@
+## 1
+## 결과적으로 독일은 영국항공전에 이어 대서양전투에서 실패함으로써 제공권과 제해권 모두를 연합군에게 내줬다.
+## 결과적으로 <독일:LOC>은 <영국항공전:POH>에 이어 <대서양전투:POH>에서 실패함으로써 제공권과 제해권 모두를 연합군에게 내줬다.
+결과적	결과적	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+독일	독일	NNP	B-LOC
+은	은	JX	O
+_	_	_	O
+영국	영국	NNP	B-POH
+항공	항공	NNG	I-POH
+전	전	XSN	I-POH
+에	에	JKB	O
+_	_	_	O
+이	잇	VV	O
+어	어	EC	O
+_	_	_	O
+대서양	대서양	NNP	B-POH
+전투	전투	NNG	I-POH
+에서	에서	JKB	O
+_	_	_	O
+실패함	실패하+ㅁ	VV+ETN	O
+으로써	으로써	JKB	O
+_	_	_	O
+제공권	제공권	NNG	O
+과	과	JC	O
+_	_	_	O
+제해권	제해권	NNG	O
+_	_	_	O
+모두	모두	NNG	O
+를	를	JKO	O
+_	_	_	O
+연합군	연합군	NNG	O
+에게	에게	JKB	O
+_	_	_	O
+내	내주	VV	O
+줬	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 이 씨는 단돈 1000원짜리 길거리 햄버거를 앞세워 인지도를 높이기 시작해 영철버거를 전국적인 프랜차이즈로 성장시켰다.
+## <이:PER> 씨는 단돈 <1000원:MNY>짜리 길거리 햄버거를 앞세워 인지도를 높이기 시작해 <영철버거:ORG>를 전국적인 프랜차이즈로 성장시켰다.
+이	이	NNP	B-PER
+_	_	_	O
+씨	씨	NNB	O
+는	는	JX	O
+_	_	_	O
+단돈	단돈	NNG	O
+_	_	_	O
+1000	1000	SN	B-MNY
+원	원	NNB	I-MNY
+짜리	짜리	XSN	O
+_	_	_	O
+길거리	길거리	NNG	O
+_	_	_	O
+햄버거	햄버거	NNG	O
+를	를	JKO	O
+_	_	_	O
+앞세	앞세우	VV	O
+워	어	EC	O
+_	_	_	O
+인지도	인지도	NNG	O
+를	를	JKO	O
+_	_	_	O
+높이	높이	VV	O
+기	기	ETN	O
+_	_	_	O
+시작해	시작하+여	VV+EC	O
+_	_	_	O
+영철	영철	NNP	B-ORG
+버거	버거	NNG	I-ORG
+를	를	JKO	O
+_	_	_	O
+전국적	전국적	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+프랜차이즈	프랜차이즈	NNG	O
+로	로	JKB	O
+_	_	_	O
+성장	성장	NNG	O
+시	시키	XSV	O
+켰	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## [미리보는 오늘] 점입가경 이화여대 갈등, 출구 찾을까
+## [<미리보는 오늘:POH>] 점입가경 <이화여대:ORG> 갈등, 출구 찾을까
+[	[	SS	O
+미리	미리	MAG	B-POH
+보	보	VV	I-POH
+는	는	ETM	I-POH
+_	_	_	I-POH
+오늘	오늘	NNG	I-POH
+]	]	SS	O
+_	_	_	O
+점입가경	점입가경	NNG	O
+_	_	_	O
+이화여대	이화여대	NNP	B-ORG
+_	_	_	O
+갈등	갈등	NNG	O
+,	,	SP	O
+_	_	_	O
+출구	출구	NNG	O
+_	_	_	O
+찾	찾	VV	O
+을까	을까	EF	O
+
+## 4
+## "주량은 소주 1병"…대선주자 5인의 이색 이력서
+## "주량은 소주 1병"…대선주자 <5인:NOH>의 이색 이력서
+"	"	SS	O
+주량	주량	NNG	O
+은	은	JX	O
+_	_	_	O
+소주	소주	NNG	O
+_	_	_	O
+1	1	SN	O
+병	병	NNG	O
+"	"	SS	O
+…	…	SE	O
+대선	대선	NNG	O
+주자	주자	NNG	O
+_	_	_	O
+5	5	SN	B-NOH
+인	인	NNG	I-NOH
+의	의	JKG	O
+_	_	_	O
+이색	이색	NNG	O
+_	_	_	O
+이력서	이력서	NNG	O
+
+## 5
+## 유일하게 합류하지 못한 것은 국제축구연맹(FIFA)의 각국 국가대표 차출 규정이 적용되지 못한 8월 동아시안컵이었다.
+## 유일하게 합류하지 못한 것은 <국제축구연맹:ORG>(<FIFA:ORG>)의 각국 국가대표 차출 규정이 적용되지 못한 <8월:DAT> <동아시안컵:POH>이었다.
+유일하	유일하	VA	O
+게	게	EC	O
+_	_	_	O
+합류하	합류하	VV	O
+지	지	EC	O
+_	_	_	O
+못한	못하+ㄴ	VX+ETM	O
+_	_	_	O
+것	것	NNB	O
+은	은	JX	O
+_	_	_	O
+국제	국제	NNG	B-ORG
+축구	축구	NNG	I-ORG
+연맹	연맹	NNG	I-ORG
+(	(	SS	O
+FIFA	FIFA	SL	B-ORG
+)	)	SS	O
+의	의	JKG	O
+_	_	_	O
+각국	각국	NNG	O
+_	_	_	O
+국가	국가	NNG	O
+대표	대표	NNG	O
+_	_	_	O
+차출	차출	NNG	O
+_	_	_	O
+규정	규정	NNG	O
+이	이	JKS	O
+_	_	_	O
+적용되	적용되	VV	O
+지	지	EC	O
+_	_	_	O
+못한	못하+ㄴ	VX+ETM	O
+_	_	_	O
+8	8	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+동	동	NNG	B-POH
+아시안	아시안	NNG	I-POH
+컵	컵	NNG	I-POH
+이	이	VCP	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 아니 정확히는 오랜만에 친구를 만나는 기회라고 할까. 유준상이 그랬고, 강원래가 그랬다.
+## 아니 정확히는 오랜만에 친구를 만나는 기회라고 할까. <유준상:PER>이 그랬고, <강원래:PER>가 그랬다.
+아니	아니	MAG	O
+_	_	_	O
+정확히	정확히	MAG	O
+는	는	JX	O
+_	_	_	O
+오랜만	오랜만	NNG	O
+에	에	JKB	O
+_	_	_	O
+친구	친구	NNG	O
+를	를	JKO	O
+_	_	_	O
+만나	만나	VV	O
+는	는	ETM	O
+_	_	_	O
+기회	기회+이	NNG+VCP	O
+라고	라고	EC	O
+_	_	_	O
+할까	하+ㄹ까	VV+EF	O
+.	.	SF	O
+_	_	_	O
+유준상	유준상	NNP	B-PER
+이	이	JKS	O
+_	_	_	O
+그	그렇	VA	O
+랬	었	EP	O
+고	고	EC	O
+,	,	SP	O
+_	_	_	O
+강원래	강원래	NNP	B-PER
+가	가	JKS	O
+_	_	_	O
+그	그렇	VA	O
+랬	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 야구 통계학자들이 만든 숫자인 ‘드라마 인덱스’를 통해서다.
+## 야구 통계학자들이 만든 숫자인 ‘<드라마 인덱스:POH>’를 통해서다.
+야구	야구	NNG	O
+_	_	_	O
+통계학	통계학	NNG	O
+자	자	XSN	O
+들	들	XSN	O
+이	이	JKS	O
+_	_	_	O
+만든	만들+ㄴ	VV+ETM	O
+_	_	_	O
+숫자	숫자	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+‘	‘	SS	O
+드라마	드라마	NNG	B-POH
+_	_	_	I-POH
+인덱스	인덱스	NNG	I-POH
+’	’	SS	O
+를	를	JKO	O
+_	_	_	O
+통해서	통하+여서+이	VV+EC+VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 이를 위해 예보는 부보금융기관에 대한 차등보험료 평가제도를 조기에 안착시키고 금융기관 부실 위험 관리를 위해 금융당국과의 협력체제도 한층 공고히 할 예정이다.
+## 이를 위해 <예보:ORG>는 <부보금융기관:ORG>에 대한 <차등보험료 평가제도:POH>를 조기에 안착시키고 금융기관 부실 위험 관리를 위해 금융당국과의 협력체제도 한층 공고히 할 예정이다.
+이	이	NP	O
+를	를	JKO	O
+_	_	_	O
+위해	위하+여	VV+EC	O
+_	_	_	O
+예보	예보	NNG	B-ORG
+는	는	JX	O
+_	_	_	O
+부보	부보	NNG	B-ORG
+금융	금융	NNG	I-ORG
+기관	기관	NNG	I-ORG
+에	에	JKB	O
+_	_	_	O
+대한	대하+ㄴ	VV+ETM	O
+_	_	_	O
+차등	차등	NNG	B-POH
+보험료	보험료	NNG	I-POH
+_	_	_	I-POH
+평가	평가	NNG	I-POH
+제도	제도	NNG	I-POH
+를	를	JKO	O
+_	_	_	O
+조기	조기	NNG	O
+에	에	JKB	O
+_	_	_	O
+안착	안착	NNG	O
+시키	시키	XSV	O
+고	고	EC	O
+_	_	_	O
+금융	금융	NNG	O
+기관	기관	NNG	O
+_	_	_	O
+부실	부실	NNG	O
+_	_	_	O
+위험	위험	NNG	O
+_	_	_	O
+관리	관리	NNG	O
+를	를	JKO	O
+_	_	_	O
+위해	위하+여	VV+EC	O
+_	_	_	O
+금융	금융	NNG	O
+당국	당국	NNG	O
+과	과	JKB	O
+의	의	JKG	O
+_	_	_	O
+협력	협력	NNG	O
+체제	체제	NNG	O
+도	도	JX	O
+_	_	_	O
+한층	한층	MAG	O
+_	_	_	O
+공고히	공고히	MAG	O
+_	_	_	O
+할	하+ㄹ	VV+ETM	O
+_	_	_	O
+예정	예정	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 레스터시티가 이룬 기적이 반가운 것도 이 때문이다.
+## <레스터시티:ORG>가 이룬 기적이 반가운 것도 이 때문이다.
+레스터	레스터	NNP	B-ORG
+시티	시티	NNG	I-ORG
+가	가	JKS	O
+_	_	_	O
+이룬	이루+ㄴ	VV+ETM	O
+_	_	_	O
+기적	기적	NNG	O
+이	이	JKS	O
+_	_	_	O
+반가	반갑	VA	O
+운	은	ETM	O
+_	_	_	O
+것	것	NNB	O
+도	도	JX	O
+_	_	_	O
+이	이	MM	O
+_	_	_	O
+때문	때문	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 다음카카오는 ‘카카오 게임하기’를 통해 팔린 유료 게임과 아이템 매출의 21%를 수수료로 받고 있다.
+## <다음카카오:ORG>는 ‘카카오 게임하기’를 통해 팔린 유료 게임과 아이템 매출의 <21%:PNT>를 수수료로 받고 있다.
+다음카카오	다음카카오	NNP	B-ORG
+는	는	JX	O
+_	_	_	O
+‘	‘	SS	O
+카카오	카카오	NNP	O
+_	_	_	O
+게임	게임	NNG	O
+하	하	XSV	O
+기	기	ETN	O
+’	’	SS	O
+를	를	JKO	O
+_	_	_	O
+통해	통하+여	VV+EC	O
+_	_	_	O
+팔린	팔리+ㄴ	VV+ETM	O
+_	_	_	O
+유료	유료	NNG	O
+_	_	_	O
+게임	게임	NNG	O
+과	과	JC	O
+_	_	_	O
+아이템	아이템	NNG	O
+_	_	_	O
+매출	매출	NNG	O
+의	의	JKG	O
+_	_	_	O
+21	21	SN	B-PNT
+%	%	SW	I-PNT
+를	를	JKO	O
+_	_	_	O
+수수료	수수료	NNG	O
+로	로	JKB	O
+_	_	_	O
+받	받	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 전기차가 비교적 활성화된 제주에는 116대가 있지만 나머지 지역에는 턱없이 부족하다.
+## 전기차가 비교적 활성화된 <제주:LOC>에는 <116대:NOH>가 있지만 나머지 지역에는 턱없이 부족하다.
+전기	전기	NNG	O
+차	차	NNG	O
+가	가	JKS	O
+_	_	_	O
+비교적	비교적	NNG	O
+_	_	_	O
+활성화된	활성화되+ㄴ	VV+ETM	O
+_	_	_	O
+제주	제주	NNP	B-LOC
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+116	116	SN	B-NOH
+대	대	NNB	I-NOH
+가	가	JKS	O
+_	_	_	O
+있	있	VA	O
+지만	지만	EC	O
+_	_	_	O
+나머지	나머지	NNG	O
+_	_	_	O
+지역	지역	NNG	O
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+턱없이	턱없이	MAG	O
+_	_	_	O
+부족하	부족하	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 정호에게도 충분히 기회가 올 것이다”고 희망 섞인 분석을 내놨다.●
+## <정호:PER>에게도 충분히 기회가 올 것이다”고 희망 섞인 분석을 내놨다.●
+정호	정호	NNP	B-PER
+에게	에게	JKB	O
+도	도	JX	O
+_	_	_	O
+충분히	충분히	MAG	O
+_	_	_	O
+기회	기회	NNG	O
+가	가	JKS	O
+_	_	_	O
+올	오+ㄹ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+이	이	VCP	O
+다	다	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+희망	희망	NNG	O
+_	_	_	O
+섞인	섞이+ㄴ	VV+ETM	O
+_	_	_	O
+분석	분석	NNG	O
+을	을	JKO	O
+_	_	_	O
+내	내놓	VV	O
+놨	았	EP	O
+다	다	EF	O
+.	.	SF	O
+●	●	SW	O
+
+## 13
+## FIFA는 이정협에 대해 “호주, 이라크전에서 골을 넣으며 구자철과 이청용의 부상 공백을 메웠다”고 소개했다.
+## <FIFA:ORG>는 <이정협:PER>에 대해 “<호주:POH>, <이라크전:POH>에서 골을 넣으며 <구자철:PER>과 <이청용:PER>의 부상 공백을 메웠다”고 소개했다.
+FIFA	FIFA	SL	B-ORG
+는	는	JX	O
+_	_	_	O
+이정협	이정협	NNP	B-PER
+에	에	JKB	O
+_	_	_	O
+대해	대하+여	VV+EC	O
+_	_	_	O
+“	“	SS	O
+호주	호주	NNP	B-POH
+,	,	SP	O
+_	_	_	O
+이라크	이라크	NNP	B-POH
+전	전	XSN	I-POH
+에서	에서	JKB	O
+_	_	_	O
+골	골	NNG	O
+을	을	JKO	O
+_	_	_	O
+넣	넣	VV	O
+으며	으며	EC	O
+_	_	_	O
+구자철	구자철	NNP	B-PER
+과	과	JC	O
+_	_	_	O
+이청용	이청용	NNP	B-PER
+의	의	JKG	O
+_	_	_	O
+부상	부상	NNG	O
+_	_	_	O
+공백	공백	NNG	O
+을	을	JKO	O
+_	_	_	O
+메	메우	VV	O
+웠	었	EP	O
+다	다	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+소개	소개하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 14
+## 메르스에 얽힌 병원 명단이 뒤늦게 발표됐다.
+## <메르스:POH>에 얽힌 병원 명단이 뒤늦게 발표됐다.
+메르스	메르스	NNG	B-POH
+에	에	JKB	O
+_	_	_	O
+얽힌	얽히+ㄴ	VV+ETM	O
+_	_	_	O
+병원	병원	NNG	O
+_	_	_	O
+명단	명단	NNG	O
+이	이	JKS	O
+_	_	_	O
+뒤늦	뒤늦	VA	O
+게	게	EC	O
+_	_	_	O
+발표	발표되	VV	O
+됐	었	EP	O
+다	다	EF	O
+.	.	SF	O
+

@@ -1,0 +1,504 @@
+## 1
+## 이번 논문은 명나라 조정의 관보, 양광 총독의 상소문, 당시 저술된 서적 등을 검토해 나왔다.
+## 이번 논문은 명나라 조정의 관보, <양광:PER> 총독의 상소문, 당시 저술된 서적 등을 검토해 나왔다.
+이번	이번	NNG	O
+_	_	_	O
+논문	논문	NNG	O
+은	은	JX	O
+_	_	_	O
+명나라	명나라	NNG	O
+_	_	_	O
+조정	조정	NNG	O
+의	의	JKG	O
+_	_	_	O
+관보	관보	NNG	O
+,	,	SP	O
+_	_	_	O
+양광	양광	NNG	B-PER
+_	_	_	O
+총독	총독	NNG	O
+의	의	JKG	O
+_	_	_	O
+상소문	상소문	NNG	O
+,	,	SP	O
+_	_	_	O
+당시	당시	NNG	O
+_	_	_	O
+저술된	저술되+ㄴ	VV+ETM	O
+_	_	_	O
+서적	서적	NNG	O
+_	_	_	O
+등	등	NNB	O
+을	을	JKO	O
+_	_	_	O
+검토해	검토하+여	VV+EC	O
+_	_	_	O
+나	나오	VV	O
+왔	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 김무성 새누리당 대표나 문재인 새정치연합 대표는 결속된 100만 공무원과 가족 표를 의식하면서도 2000만 국민연금 가입자들의 시선이 부담스러웠을 것이다.
+## <김무성:PER> <새누리당:ORG> 대표나 <문재인:PER> <새정치연합:ORG> 대표는 결속된 <100만:NOH> 공무원과 가족 표를 의식하면서도 <2000만:NOH> 국민연금 가입자들의 시선이 부담스러웠을 것이다.
+김무성	김무성	NNP	B-PER
+_	_	_	O
+새누리당	새누리당	NNP	B-ORG
+_	_	_	O
+대표	대표	NNG	O
+나	나	JC	O
+_	_	_	O
+문재인	문재인	NNP	B-PER
+_	_	_	O
+새정치연합	새정치연합	NNP	B-ORG
+_	_	_	O
+대표	대표	NNG	O
+는	는	JX	O
+_	_	_	O
+결속된	결속되+ㄴ	VV+ETM	O
+_	_	_	O
+100	100	SN	B-NOH
+만	만	NR	I-NOH
+_	_	_	O
+공무원	공무원	NNG	O
+과	과	JC	O
+_	_	_	O
+가족	가족	NNG	O
+_	_	_	O
+표	표	NNG	O
+를	를	JKO	O
+_	_	_	O
+의식하	의식하	VV	O
+면서	면서	EC	O
+도	도	JX	O
+_	_	_	O
+2000	2000	SN	B-NOH
+만	만	NR	I-NOH
+_	_	_	O
+국민	국민	NNG	O
+연금	연금	NNG	O
+_	_	_	O
+가입자	가입자	NNG	O
+들	들	XSN	O
+의	의	JKG	O
+_	_	_	O
+시선	시선	NNG	O
+이	이	JKS	O
+_	_	_	O
+부담스러	부담스럽	VA	O
+웠	었	EP	O
+을	을	ETM	O
+_	_	_	O
+것	것	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 대회 최우수선수(MVP)에는 3홈런 10타점으로 경성대 타선을 이끈 이재욱이 선정됐다.
+## 대회 최우수선수(MVP)에는 <3홈런:NOH> <10타점:NOH>으로 <경성대:ORG> 타선을 이끈 <이재욱:PER>이 선정됐다.
+대회	대회	NNG	O
+_	_	_	O
+최우수	최우수	NNG	O
+선수	선수	NNG	O
+(	(	SS	O
+MVP	MVP	SL	O
+)	)	SS	O
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+3	3	SN	B-NOH
+홈런	홈런	NNG	I-NOH
+_	_	_	O
+10	10	SN	B-NOH
+타점	타점	NNG	I-NOH
+으로	으로	JKB	O
+_	_	_	O
+경성대	경성대	NNP	B-ORG
+_	_	_	O
+타선	타선	NNG	O
+을	을	JKO	O
+_	_	_	O
+이끈	이끌+ㄴ	VV+ETM	O
+_	_	_	O
+이재욱	이재욱	NNP	B-PER
+이	이	JKS	O
+_	_	_	O
+선정	선정되	VV	O
+됐	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## [스포츠동아]
+## [<스포츠동아:ORG>]
+[	[	SS	O
+스포츠	스포츠	NNG	B-ORG
+동아	동아	NNP	I-ORG
+]	]	SS	O
+
+## 5
+## 검찰이 NH개발 전 대표 유모 씨가 협력업체 측 금품 수수에 연루된 정황을 잡고 조만간 소환할 방침인 것으로 8일 확인됐다.
+## 검찰이 <NH개발:ORG> 전 대표 <유모:PER> 씨가 협력업체 측 금품 수수에 연루된 정황을 잡고 조만간 소환할 방침인 것으로 <8일:DAT> 확인됐다.
+검찰	검찰	NNG	O
+이	이	JKS	O
+_	_	_	O
+NH	NH	SL	B-ORG
+개발	개발	NNG	I-ORG
+_	_	_	O
+전	전	MM	O
+_	_	_	O
+대표	대표	NNG	O
+_	_	_	O
+유모	유모	NNG	B-PER
+_	_	_	O
+씨	씨	NNB	O
+가	가	JKS	O
+_	_	_	O
+협력	협력	NNG	O
+업체	업체	NNG	O
+_	_	_	O
+측	측	NNB	O
+_	_	_	O
+금품	금품	NNG	O
+_	_	_	O
+수수	수수	NNG	O
+에	에	JKB	O
+_	_	_	O
+연루된	연루되+ㄴ	VV+ETM	O
+_	_	_	O
+정황	정황	NNG	O
+을	을	JKO	O
+_	_	_	O
+잡	잡	VV	O
+고	고	EC	O
+_	_	_	O
+조만간	조만간	MAG	O
+_	_	_	O
+소환할	소환하+ㄹ	VV+ETM	O
+_	_	_	O
+방침	방침	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+것	것	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+8	8	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+확인	확인되	VV	O
+됐	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 머스크, 대우조선 선박 6척 추가 계약 안 하기로 조선업계에서는 업체들의 매출이 2017년까지 감소세를 보일 것이라는 예상이 지배적이다.
+## <머스크:ORG>, <대우조선:ORG> 선박 <6척:NOH> 추가 계약 안 하기로 조선업계에서는 업체들의 매출이 <2017년:DAT>까지 감소세를 보일 것이라는 예상이 지배적이다.
+머스크	머스크	NNP	B-ORG
+,	,	SP	O
+_	_	_	O
+대우조선	대우조선	NNP	B-ORG
+_	_	_	O
+선박	선박	NNG	O
+_	_	_	O
+6	6	SN	B-NOH
+척	척	NNB	I-NOH
+_	_	_	O
+추가	추가	NNG	O
+_	_	_	O
+계약	계약	NNG	O
+_	_	_	O
+안	안	MAG	O
+_	_	_	O
+하	하	VV	O
+기	기	ETN	O
+로	로	JKB	O
+_	_	_	O
+조선업	조선업	NNG	O
+계	계	XSN	O
+에서	에서	JKB	O
+는	는	JX	O
+_	_	_	O
+업체	업체	NNG	O
+들	들	XSN	O
+의	의	JKG	O
+_	_	_	O
+매출	매출	NNG	O
+이	이	JKS	O
+_	_	_	O
+2017	2017	SN	B-DAT
+년	년	NNB	I-DAT
+까지	까지	JX	O
+_	_	_	O
+감소세	감소세	NNG	O
+를	를	JKO	O
+_	_	_	O
+보일	보이+ㄹ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+이	이	VCP	O
+라는	라는	ETM	O
+_	_	_	O
+예상	예상	NNG	O
+이	이	JKS	O
+_	_	_	O
+지배적	지배적	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## JYP엔터테인먼트 "원더걸스 컴백? 공식입장 전할 수 없어"
+## <JYP엔터테인먼트:ORG> "<원더걸스:ORG> 컴백? 공식입장 전할 수 없어"
+JYP	JYP	SL	B-ORG
+엔터테인먼트	엔터테인먼트	NNG	I-ORG
+_	_	_	O
+"	"	SS	O
+원더	원더	NNP	B-ORG
+걸스	걸스	NNG	I-ORG
+_	_	_	O
+컴백	컴백	NNG	O
+?	?	SF	O
+_	_	_	O
+공식	공식	NNG	O
+입장	입장	NNG	O
+_	_	_	O
+전할	전하+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+없	없	VA	O
+어	어	EF	O
+"	"	SS	O
+
+## 8
+## 북한의 4월은 도발 호재가 차고 넘치는 달이다.
+## <북한:ORG>의 <4월:DAT>은 도발 호재가 차고 넘치는 달이다.
+북한	북한	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+4	4	SN	B-DAT
+월	월	NNB	I-DAT
+은	은	JX	O
+_	_	_	O
+도발	도발	NNG	O
+_	_	_	O
+호재	호재	NNG	O
+가	가	JKS	O
+_	_	_	O
+차	차	VV	O
+고	고	EC	O
+_	_	_	O
+넘치	넘치	VV	O
+는	는	ETM	O
+_	_	_	O
+달	달	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 같은 시간 하이쇼핑(현 GS숍)은 TV와 비디오 등 여러 가전제품을 컨트롤할 수 있다는 ‘만능 리모컨’을 팔았다.
+## 같은 시간 <하이쇼핑:ORG>(현 <GS숍:ORG>)은 TV와 비디오 등 여러 가전제품을 컨트롤할 수 있다는 ‘만능 리모컨’을 팔았다.
+같	같	VA	O
+은	은	ETM	O
+_	_	_	O
+시간	시간	NNG	O
+_	_	_	O
+하이	하이	NNG	B-ORG
+쇼핑	쇼핑	NNG	I-ORG
+(	(	SS	O
+현	현	MM	O
+_	_	_	O
+GS	GS	SL	B-ORG
+숍	숍	NNG	I-ORG
+)	)	SS	O
+은	은	JX	O
+_	_	_	O
+TV	TV	SL	O
+와	와	JC	O
+_	_	_	O
+비디오	비디오	NNG	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+여러	여러	MM	O
+_	_	_	O
+가전제품	가전제품	NNG	O
+을	을	JKO	O
+_	_	_	O
+컨트롤할	컨트롤하+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+다는	다는	ETM	O
+_	_	_	O
+‘	‘	SS	O
+만능	만능	NNG	O
+_	_	_	O
+리모컨	리모컨	NNG	O
+’	’	SS	O
+을	을	JKO	O
+_	_	_	O
+팔	팔	VV	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## ‘클린턴 모녀’의 행보가 최근 주목받고 있다.
+## ‘<클린턴:PER> 모녀’의 행보가 최근 주목받고 있다.
+‘	‘	SS	O
+클린턴	클린턴	NNP	B-PER
+_	_	_	O
+모녀	모녀	NNG	O
+’	’	SS	O
+의	의	JKG	O
+_	_	_	O
+행보	행보	NNG	O
+가	가	JKS	O
+_	_	_	O
+최근	최근	NNG	O
+_	_	_	O
+주목	주목	NNG	O
+받	받	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 이와 관련, MBC는 조 의원에 대해 민·형사상 책임을 철저히 물을 방침이라고 밝혔다.
+## 이와 관련, <MBC:ORG>는 <조:PER> 의원에 대해 민·형사상 책임을 철저히 물을 방침이라고 밝혔다.
+이	이	NP	O
+와	와	JKB	O
+_	_	_	O
+관련	관련	NNG	O
+,	,	SP	O
+_	_	_	O
+MBC	MBC	SL	B-ORG
+는	는	JX	O
+_	_	_	O
+조	조	NNP	B-PER
+_	_	_	O
+의원	의원	NNG	O
+에	에	JKB	O
+_	_	_	O
+대해	대하+여	VV+EC	O
+_	_	_	O
+민	민	NNP	O
+·	·	SP	O
+형사	형사	NNG	O
+상	상	XSN	O
+_	_	_	O
+책임	책임	NNG	O
+을	을	JKO	O
+_	_	_	O
+철저히	철저히	MAG	O
+_	_	_	O
+물	묻	VV	O
+을	을	ETM	O
+_	_	_	O
+방침	방침	NNG	O
+이	이	VCP	O
+라고	라고	EC	O
+_	_	_	O
+밝	밝히	VV	O
+혔	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 한편 더민주 김종인 비상대책위 대표는 이날 조 의원에 대해 "언행에 신중을 기해 달라"고 경고했다.
+## 한편 <더민주:ORG> <김종인:PER> 비상대책위 대표는 이날 <조:PER> 의원에 대해 "언행에 신중을 기해 달라"고 경고했다.
+한편	한편	MAG	O
+_	_	_	O
+더	더	MAG	B-ORG
+민주	민주	NNG	I-ORG
+_	_	_	O
+김종인	김종인	NNP	B-PER
+_	_	_	O
+비상대책위	비상대책위	NNP	O
+_	_	_	O
+대표	대표	NNG	O
+는	는	JX	O
+_	_	_	O
+이날	이날	NNG	O
+_	_	_	O
+조	조	NNP	B-PER
+_	_	_	O
+의원	의원	NNG	O
+에	에	JKB	O
+_	_	_	O
+대해	대하+여	VV+EC	O
+_	_	_	O
+"	"	SS	O
+언행	언행	NNG	O
+에	에	JKB	O
+_	_	_	O
+신중	신중	NNG	O
+을	을	JKO	O
+_	_	_	O
+기해	기하+여	VV+EC	O
+_	_	_	O
+달	달	VX	O
+라	라	EF	O
+"	"	SS	O
+고	고	JKQ	O
+_	_	_	O
+경고	경고하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## 넥센과 시즌 개막 2연전을 치르고 대전으로 내려가 한화의 첫 홈 경기를 준비하는 김성근 감독을 만난 적이 있다.
+## <넥센:ORG>과 시즌 개막 <2연전:NOH>을 치르고 <대전:LOC>으로 내려가 <한화:ORG>의 첫 홈 경기를 준비하는 <김성근:PER> 감독을 만난 적이 있다.
+넥센	넥센	NNP	B-ORG
+과	과	JC	O
+_	_	_	O
+시즌	시즌	NNG	O
+_	_	_	O
+개막	개막	NNG	O
+_	_	_	O
+2	2	SN	B-NOH
+연전	연전	NNG	I-NOH
+을	을	JKO	O
+_	_	_	O
+치르	치르	VV	O
+고	고	EC	O
+_	_	_	O
+대전	대전	NNP	B-LOC
+으로	으로	JKB	O
+_	_	_	O
+내려가	내려가+아	VV+EC	O
+_	_	_	O
+한화	한화	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+첫	첫	MM	O
+_	_	_	O
+홈	홈	NNG	O
+_	_	_	O
+경기	경기	NNG	O
+를	를	JKO	O
+_	_	_	O
+준비하	준비하	VV	O
+는	는	ETM	O
+_	_	_	O
+김성근	김성근	NNP	B-PER
+_	_	_	O
+감독	감독	NNG	O
+을	을	JKO	O
+_	_	_	O
+만난	만나+ㄴ	VV+ETM	O
+_	_	_	O
+적	적	NNB	O
+이	이	JKS	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+.	.	SF	O
+

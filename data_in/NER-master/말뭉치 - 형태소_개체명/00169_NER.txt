@@ -1,0 +1,425 @@
+## 1
+## 그 대신 매년 1억원을 받는다.
+## 그 대신 매년 <1억원:MNY>을 받는다.
+그	그	MM	O
+_	_	_	O
+대신	대신	NNG	O
+_	_	_	O
+매년	매년	MAG	O
+_	_	_	O
+1	1	SN	B-MNY
+억	억	NR	I-MNY
+원	원	NNB	I-MNY
+을	을	JKO	O
+_	_	_	O
+받	받	VV	O
+는다	는다	EF	O
+.	.	SF	O
+
+## 2
+## 게다가 새누리당 지지층 가운데 내 지지자가 꽤 많이 생겼다.
+## 게다가 <새누리당:ORG> 지지층 가운데 내 지지자가 꽤 많이 생겼다.
+게다가	게다가	MAG	O
+_	_	_	O
+새누리당	새누리당	NNP	B-ORG
+_	_	_	O
+지지	지지	NNG	O
+층	층	XSN	O
+_	_	_	O
+가운데	가운데	NNG	O
+_	_	_	O
+내	나+의	NP+JKG	O
+_	_	_	O
+지지자	지지자	NNG	O
+가	가	JKS	O
+_	_	_	O
+꽤	꽤	MAG	O
+_	_	_	O
+많이	많이	MAG	O
+_	_	_	O
+생	생기	VV	O
+겼	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 강동은 김녕수산 대표(71)는 “일반 양식장에 비해 성장 속도가 1개월가량 더딘 단점이 있지만 항생제를 쓰지 않는 친환경 양식을 하기 때문에 가격은 일반 양식장보다 높다”고 말했다.
+## <강동은:PER> <김녕수산:ORG> 대표(<71:NOH>)는 “일반 양식장에 비해 성장 속도가 <1개월:DUR>가량 더딘 단점이 있지만 항생제를 쓰지 않는 친환경 양식을 하기 때문에 가격은 일반 양식장보다 높다”고 말했다.
+강동은	강동은	NNP	B-PER
+_	_	_	O
+김녕수	김녕수	NNP	B-ORG
+산	산	NNG	I-ORG
+_	_	_	O
+대표	대표	NNG	O
+(	(	SS	O
+71	71	SN	B-NOH
+)	)	SS	O
+는	는	JX	O
+_	_	_	O
+“	“	SS	O
+일반	일반	NNG	O
+_	_	_	O
+양식장	양식장	NNG	O
+에	에	JKB	O
+_	_	_	O
+비해	비하+여	VV+EC	O
+_	_	_	O
+성장	성장	NNG	O
+_	_	_	O
+속도	속도	NNG	O
+가	가	JKS	O
+_	_	_	O
+1	1	SN	B-DUR
+개월	개월	NNB	I-DUR
+가량	가량	XSN	O
+_	_	_	O
+더딘	더디+ㄴ	VA+ETM	O
+_	_	_	O
+단점	단점	NNG	O
+이	이	JKS	O
+_	_	_	O
+있	있	VA	O
+지만	지만	EC	O
+_	_	_	O
+항생제	항생제	NNG	O
+를	를	JKO	O
+_	_	_	O
+쓰	쓰	VV	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+는	는	ETM	O
+_	_	_	O
+친환경	친환경	NNG	O
+_	_	_	O
+양식	양식	NNG	O
+을	을	JKO	O
+_	_	_	O
+하	하	VV	O
+기	기	ETN	O
+_	_	_	O
+때문	때문	NNB	O
+에	에	JKB	O
+_	_	_	O
+가격	가격	NNG	O
+은	은	JX	O
+_	_	_	O
+일반	일반	NNG	O
+_	_	_	O
+양식장	양식장	NNG	O
+보다	보다	JKB	O
+_	_	_	O
+높	높	VA	O
+다	다	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+말	말하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 오승환, ‘승률 1위’ 컵스 상대로 호투…9경기 연속 무실점
+## <오승환:PER>, ‘승률 <1위:NOH>’ 컵스 상대로 호투…<9경기:NOH> 연속 무실점
+오승환	오승환	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+‘	‘	SS	O
+승률	승률	NNG	O
+_	_	_	O
+1	1	SN	B-NOH
+위	위	NNB	I-NOH
+’	’	SS	O
+_	_	_	O
+컵스	컵스	NNP	O
+_	_	_	O
+상대	상대	NNG	O
+로	로	JKB	O
+_	_	_	O
+호투	호투	NNG	O
+…	…	SE	O
+9	9	SN	B-NOH
+경기	경기	NNG	I-NOH
+_	_	_	O
+연속	연속	NNG	O
+_	_	_	O
+무실점	무실점	NNG	O
+
+## 5
+## 전년(2014년)보다 1위 품목이 128개나 늘어난 중국은 세계시장 점유율을 빠르게 끌어올리고 있다.
+## 전년(<2014년:DAT>)보다 <1위:NOH> 품목이 <128개:NOH>나 늘어난 <중국:ORG>은 세계시장 점유율을 빠르게 끌어올리고 있다.
+전년	전년	NNG	O
+(	(	SS	O
+2014	2014	SN	B-DAT
+년	년	NNB	I-DAT
+)	)	SS	O
+보다	보다	JKB	O
+_	_	_	O
+1	1	SN	B-NOH
+위	위	NNB	I-NOH
+_	_	_	O
+품목	품목	NNG	O
+이	이	JKS	O
+_	_	_	O
+128	128	SN	B-NOH
+개	개	NNB	I-NOH
+나	나	JX	O
+_	_	_	O
+늘어난	늘어나+ㄴ	VV+ETM	O
+_	_	_	O
+중국	중국	NNP	B-ORG
+은	은	JX	O
+_	_	_	O
+세계	세계	NNG	O
+시장	시장	NNG	O
+_	_	_	O
+점유율	점유율	NNG	O
+을	을	JKO	O
+_	_	_	O
+빠르	빠르	VA	O
+게	게	EC	O
+_	_	_	O
+끌어올리	끌어올리	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## G5에는 용량 2800mAh의 배터리가 장착돼 있는데 카메라 모듈을 장착하면 배터리 사용 시간이 1.5배 가까이 늘어났다.
+## <G5:POH>에는 용량 <2800mAh:NOH>의 배터리가 장착돼 있는데 카메라 모듈을 장착하면 배터리 사용 시간이 <1.5배:PNT> 가까이 늘어났다.
+G	G	SL	B-POH
+5	5	SN	I-POH
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+용량	용량	NNG	O
+_	_	_	O
+2800	2800	SN	B-NOH
+mAh	mAh	SL	I-NOH
+의	의	JKG	O
+_	_	_	O
+배터리	배터리	NNG	O
+가	가	JKS	O
+_	_	_	O
+장착돼	장착되+어	VV+EC	O
+_	_	_	O
+있	있	VX	O
+는데	는데	EC	O
+_	_	_	O
+카메라	카메라	NNG	O
+_	_	_	O
+모듈	모듈	NNG	O
+을	을	JKO	O
+_	_	_	O
+장착하	장착하	VV	O
+면	면	EC	O
+_	_	_	O
+배터리	배터리	NNG	O
+_	_	_	O
+사용	사용	NNG	O
+_	_	_	O
+시간	시간	NNG	O
+이	이	JKS	O
+_	_	_	O
+1.5	1.5	SN	B-PNT
+배	배	NNG	I-PNT
+_	_	_	O
+가까이	가까이	MAG	O
+_	_	_	O
+늘어났	늘어나+았	VV+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 낮에도 일부 지역을 제외하고는 영하 6도에서 0도에 머물 것으로 예상된다.
+## 낮에도 일부 지역을 제외하고는 <영하 6도:NOH>에서 <0도:NOH>에 머물 것으로 예상된다.
+낮	낮	NNG	O
+에	에	JKB	O
+도	도	JX	O
+_	_	_	O
+일부	일부	NNG	O
+_	_	_	O
+지역	지역	NNG	O
+을	을	JKO	O
+_	_	_	O
+제외하	제외하	VV	O
+고는	고는	EC	O
+_	_	_	O
+영하	영하	NNG	B-NOH
+_	_	_	I-NOH
+6	6	SN	I-NOH
+도	도	NNB	I-NOH
+에서	에서	JKB	O
+_	_	_	O
+0	0	SN	B-NOH
+도	도	NNB	I-NOH
+에	에	JKB	O
+_	_	_	O
+머물	머물+ㄹ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+예상된다	예상되+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 8
+## 국내 최초 사이버대학인 경희사이버대의 특징과 입학 정보 등을 알아봤다.
+## 국내 최초 사이버대학인 <경희사이버대:ORG>의 특징과 입학 정보 등을 알아봤다.
+국내	국내	NNG	O
+_	_	_	O
+최초	최초	NNG	O
+_	_	_	O
+사이버	사이버	NNG	O
+대학	대학	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+경희	경희	NNP	B-ORG
+사이버	사이버	NNG	I-ORG
+대	대	NNG	I-ORG
+의	의	JKG	O
+_	_	_	O
+특징	특징	NNG	O
+과	과	JC	O
+_	_	_	O
+입학	입학	NNG	O
+_	_	_	O
+정보	정보	NNG	O
+_	_	_	O
+등	등	NNB	O
+을	을	JKO	O
+_	_	_	O
+알아	알아보	VV	O
+봤	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 이대성(45)씨는 전문대학을 졸업하고 1999년 헤드헌터 업계에 뛰어들었다.
+## <이대성:PER>(<45:NOH>)씨는 전문대학을 졸업하고 <1999년:DAT> 헤드헌터 업계에 뛰어들었다.
+이대성	이대성	NNP	B-PER
+(	(	SS	O
+45	45	SN	B-NOH
+)	)	SS	O
+씨	씨	NNB	O
+는	는	JX	O
+_	_	_	O
+전문대학	전문대학	NNG	O
+을	을	JKO	O
+_	_	_	O
+졸업하	졸업하	VV	O
+고	고	EC	O
+_	_	_	O
+1999	1999	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+헤드	헤드	NNG	O
+헌터	헌터	NNG	O
+_	_	_	O
+업계	업계	NNG	O
+에	에	JKB	O
+_	_	_	O
+뛰어들	뛰어들	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 입찰신청은 오는 20일 LH 온라인 청약센터에서 가능하며, 22일~24일 계약체결 예정이다.
+## 입찰신청은 오는 <20일:DAT> <LH:ORG> 온라인 청약센터에서 가능하며, <22일~24일:DUR> 계약체결 예정이다.
+입찰	입찰	NNG	O
+신청	신청	NNG	O
+은	은	JX	O
+_	_	_	O
+오	오	VV	O
+는	는	ETM	O
+_	_	_	O
+20	20	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+LH	LH	SL	B-ORG
+_	_	_	O
+온라인	온라인	NNG	O
+_	_	_	O
+청약	청약	NNG	O
+센터	센터	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+가능하	가능하	VA	O
+며	며	EC	O
+,	,	SP	O
+_	_	_	O
+22	22	SN	B-DUR
+일	일	NNB	I-DUR
+~	~	SO	I-DUR
+24	24	SN	I-DUR
+일	일	NNB	I-DUR
+_	_	_	O
+계약	계약	NNG	O
+체결	체결	NNG	O
+_	_	_	O
+예정	예정	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 한국, 사회복지 지출 OECD 최하위권…복지 국가 갈 길 멀었다
+## <한국:ORG>, 사회복지 지출 <OECD:ORG> 최하위권…복지 국가 갈 길 멀었다
+한국	한국	NNP	B-ORG
+,	,	SP	O
+_	_	_	O
+사회	사회	NNG	O
+복지	복지	NNG	O
+_	_	_	O
+지출	지출	NNG	O
+_	_	_	O
+OECD	OECD	SL	B-ORG
+_	_	_	O
+최	최	XPN	O
+하위권	하위권	NNG	O
+…	…	SE	O
+복지	복지	NNG	O
+_	_	_	O
+국가	국가	NNG	O
+_	_	_	O
+갈	가+ㄹ	VV+ETM	O
+_	_	_	O
+길	길	NNG	O
+_	_	_	O
+멀	멀	VA	O
+었	었	EP	O
+다	다	EF	O
+
+## 12
+## 주최는 경남예총(회장 공병철)이며 주관은 부산의 KNN 방송이다.
+## 주최는 <경남예총:ORG>(회장 <공병철:PER>)이며 주관은 <부산:ORG>의 <KNN 방송:ORG>이다.
+주최	주최	NNG	O
+는	는	JX	O
+_	_	_	O
+경남	경남	NNP	B-ORG
+예총	예총	NNP	I-ORG
+(	(	SS	O
+회장	회장	NNG	O
+_	_	_	O
+공병철	공병철	NNP	B-PER
+)	)	SS	O
+이	이	VCP	O
+며	며	EC	O
+_	_	_	O
+주관	주관	NNG	O
+은	은	JX	O
+_	_	_	O
+부산	부산	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+KNN	KNN	SL	B-ORG
+_	_	_	I-ORG
+방송	방송	NNG	I-ORG
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+

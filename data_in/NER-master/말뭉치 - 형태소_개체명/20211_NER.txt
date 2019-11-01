@@ -1,0 +1,468 @@
+## 1
+## 문근영, '재벌의 딸' 검토중…남주는 누구?
+## <문근영:PER>, '<재벌의 딸:POH>' 검토중…남주는 누구?
+문근영	문근영	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+'	'	SS	O
+재벌	재벌	NNG	B-POH
+의	의	JKG	I-POH
+_	_	_	I-POH
+딸	딸	NNG	I-POH
+'	'	SS	O
+_	_	_	O
+검토	검토	NNG	O
+중	중	NNB	O
+…	…	SE	O
+남주	남주	NNP	O
+는	는	JX	O
+_	_	_	O
+누구	누구	NP	O
+?	?	SF	O
+
+## 2
+## 특히 여성의 42％는 저도수 소주를 마신 뒤 음주량이 늘었다고 답해 남성(34％)보다 저도수로 인한 음주량 증가가 뚜렷한 것으로 나타났다.
+## 특히 여성의 <42％:PNT>는 저도수 소주를 마신 뒤 음주량이 늘었다고 답해 남성(<34％:NOH>)보다 저도수로 인한 음주량 증가가 뚜렷한 것으로 나타났다.
+특히	특히	MAG	O
+_	_	_	O
+여성	여성	NNG	O
+의	의	JKG	O
+_	_	_	O
+42	42	SN	B-PNT
+％	％	SW	I-PNT
+는	는	JX	O
+_	_	_	O
+저도	저도	NNG	O
+수	수	NNG	O
+_	_	_	O
+소주	소주	NNG	O
+를	를	JKO	O
+_	_	_	O
+마신	마시+ㄴ	VV+ETM	O
+_	_	_	O
+뒤	뒤	NNG	O
+_	_	_	O
+음주	음주	NNG	O
+량	량	NNG	O
+이	이	JKS	O
+_	_	_	O
+늘	늘	VV	O
+었	었	EP	O
+다고	다고	EC	O
+_	_	_	O
+답해	답하+여	VV+EC	O
+_	_	_	O
+남성	남성	NNG	O
+(	(	SS	O
+34	34	SN	B-NOH
+％	％	SW	I-NOH
+)	)	SS	O
+보다	보다	JKB	O
+_	_	_	O
+저	저	XPN	O
+도수	도수	NNG	O
+로	로	JKB	O
+_	_	_	O
+인한	인하+ㄴ	VV+ETM	O
+_	_	_	O
+음주	음주	NNG	O
+량	량	NNG	O
+_	_	_	O
+증가	증가	NNG	O
+가	가	JKS	O
+_	_	_	O
+뚜렷한	뚜렷하+ㄴ	VA+ETM	O
+_	_	_	O
+것	것	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+나타났	나타나+았	VV+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 여기에 ‘북한 리스크’도 무시할 수 없는 위협 요인 중 하나다.
+## 여기에 ‘<북한:ORG> 리스크’도 무시할 수 없는 위협 요인 중 <하나:NOH>다.
+여기	여기	NP	O
+에	에	JKB	O
+_	_	_	O
+‘	‘	SS	O
+북한	북한	NNP	B-ORG
+_	_	_	O
+리스크	리스크	NNG	O
+’	’	SS	O
+도	도	JX	O
+_	_	_	O
+무시할	무시하+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+없	없	VA	O
+는	는	ETM	O
+_	_	_	O
+위협	위협	NNG	O
+_	_	_	O
+요인	요인	NNG	O
+_	_	_	O
+중	중	NNB	O
+_	_	_	O
+하나	하나+이	NNG+VCP	B-NOH
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 2009년 7월 디도스 공격, 2013년 3월 방송국, 은행 전산망 공격 등 과거 북한은 핵 실험과 한두 달의 시차를 두고 사이버 공격을 가해 왔다.
+## <2009년 7월:DAT> <디도스:POH> 공격, <2013년 3월:DAT> 방송국, 은행 전산망 공격 등 과거 <북한:ORG>은 핵 실험과 한두 달의 시차를 두고 사이버 공격을 가해 왔다.
+2009	2009	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	I-DAT
+7	7	SN	I-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+디도스	디도스	NNG	B-POH
+_	_	_	O
+공격	공격	NNG	O
+,	,	SP	O
+_	_	_	O
+2013	2013	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	I-DAT
+3	3	SN	I-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+방송국	방송국	NNG	O
+,	,	SP	O
+_	_	_	O
+은행	은행	NNG	O
+_	_	_	O
+전산망	전산망	NNG	O
+_	_	_	O
+공격	공격	NNG	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+과거	과거	NNG	O
+_	_	_	O
+북한	북한	NNP	B-ORG
+은	은	JX	O
+_	_	_	O
+핵	핵	NNG	O
+_	_	_	O
+실험	실험	NNG	O
+과	과	JC	O
+_	_	_	O
+한두	한두	MM	O
+_	_	_	O
+달	달	NNG	O
+의	의	JKG	O
+_	_	_	O
+시차	시차	NNG	O
+를	를	JKO	O
+_	_	_	O
+두	두	VV	O
+고	고	EC	O
+_	_	_	O
+사이버	사이버	NNG	O
+_	_	_	O
+공격	공격	NNG	O
+을	을	JKO	O
+_	_	_	O
+가해	가하+여	VV+EC	O
+_	_	_	O
+왔	+았	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 이날 무대에는 MC몽과 수란이 한국 대표가수로 나섰다.
+## 이날 무대에는 <MC몽:PER>과 <수란:PER>이 <한국:ORG> 대표가수로 나섰다.
+이날	이날	NNG	O
+_	_	_	O
+무대	무대	NNG	O
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+MC	MC	SL	B-PER
+몽	몽	NNP	I-PER
+과	과	JC	O
+_	_	_	O
+수란이	수란이	NNP	O
+_	_	_	O
+한국	한국	NNP	B-ORG
+_	_	_	O
+대표	대표	NNG	O
+가수	가수	NNG	O
+로	로	JKB	O
+_	_	_	O
+나섰	나서+었	VV+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 5580만유로(약 715억원)의 몸값으로 7월 입단한 헐크(브라질)와 중국국가대표 우레이를 앞세운 상대의 화력은 매섭다.
+## <5580만유로:MNY>(약 <715억원:MNY>)의 몸값으로 <7월:DAT> 입단한 <헐크:PER>(<브라질:ORG>)와 <중국:ORG>국가대표 <우레이:PER>를 앞세운 상대의 화력은 매섭다.
+5580	5580	SN	B-MNY
+만	만	NR	I-MNY
+유로	유로	NNB	I-MNY
+(	(	SS	O
+약	약	MM	O
+_	_	_	O
+715	715	SN	B-MNY
+억	억	NR	I-MNY
+원	원	NNB	I-MNY
+)	)	SS	O
+의	의	JKG	O
+_	_	_	O
+몸값	몸값	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+7	7	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+입단한	입단하+ㄴ	VV+ETM	O
+_	_	_	O
+헐크	헐크	NNP	B-PER
+(	(	SS	O
+브라질	브라질	NNP	B-ORG
+)	)	SS	O
+와	와	JKB	O
+_	_	_	O
+중국	중국	NNP	B-ORG
+국가	국가	NNG	O
+대표	대표	NNG	O
+_	_	_	O
+우레이	우레이	NNG	B-PER
+를	를	JKO	O
+_	_	_	O
+앞세운	앞세우+ㄴ	VV+ETM	O
+_	_	_	O
+상대	상대	NNG	O
+의	의	JKG	O
+_	_	_	O
+화력	화력	NNG	O
+은	은	JX	O
+_	_	_	O
+매섭	매섭	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 마침 박정우 감독은 ‘모던파머’를 챙겨봤다.
+## 마침 <박정우:PER> 감독은 ‘<모던파머:POH>’를 챙겨봤다.
+마침	마침	MAG	O
+_	_	_	O
+박정우	박정우	NNP	B-PER
+_	_	_	O
+감독	감독	NNG	O
+은	은	JX	O
+_	_	_	O
+‘	‘	SS	O
+모던	모던	NNG	B-POH
+파머	파머	NNP	I-POH
+’	’	SS	O
+를	를	JKO	O
+_	_	_	O
+챙겨	챙기+어	VV+EC	O
+봤	보	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 런던 동메달 넘어 결승 진출 목표… 첫 경기 피지가 가장 까다로운 상대”
+## <런던:ORG> 동메달 넘어 결승 진출 목표… 첫 경기 <피지:ORG>가 가장 까다로운 상대”
+런던	런던	NNP	B-ORG
+_	_	_	O
+동메달	동메달	NNG	O
+_	_	_	O
+넘	넘	VV	O
+어	어	EC	O
+_	_	_	O
+결승	결승	NNG	O
+_	_	_	O
+진출	진출	NNG	O
+_	_	_	O
+목표	목표	NNG	O
+…	…	SE	O
+_	_	_	O
+첫	첫	MM	O
+_	_	_	O
+경기	경기	NNG	O
+_	_	_	O
+피지	피지	NNG	B-ORG
+가	가	JKS	O
+_	_	_	O
+가장	가장	MAG	O
+_	_	_	O
+까다로	까다롭	VA	O
+운	ㄴ	ETM	O
+_	_	_	O
+상대	상대	NNG	O
+”	”	SS	O
+
+## 9
+## 1사 후 마르테에게 2루타를 허용했지만, 이후 내야 뜬공과 삼진으로 아웃카운트를 채웠다.
+## <1사:NOH> 후 마르테에게 <2루타:NOH>를 허용했지만, 이후 내야 뜬공과 삼진으로 아웃카운트를 채웠다.
+1	1	SN	B-NOH
+사	사	NNG	I-NOH
+_	_	_	O
+후	후	NNG	O
+_	_	_	O
+마르테	마르테	NNP	O
+에게	에게	JKB	O
+_	_	_	O
+2	2	SN	B-NOH
+루	루	NNG	I-NOH
+타	타	NNG	I-NOH
+를	를	JKO	O
+_	_	_	O
+허용	허용하	VV	O
+했	였	EP	O
+지만	지만	EC	O
+,	,	SP	O
+_	_	_	O
+이후	이후	NNG	O
+_	_	_	O
+내야	내+어야	VV+EC	O
+_	_	_	O
+뜬공	뜬공	NNG	O
+과	과	JC	O
+_	_	_	O
+삼진	삼진	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+아웃	아웃	NNG	O
+카운트	카운트	NNG	O
+를	를	JKO	O
+_	_	_	O
+채	채우	VV	O
+웠	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 이 애니메이션은 어린이날인 다음 달 5일 KBS에서 방영될 예정이다.
+## 이 애니메이션은 <어린이날:DAT>인 다음 달 <5일:DAT> <KBS:POH>에서 방영될 예정이다.
+이	이	MM	O
+_	_	_	O
+애니메이션	애니메이션	NNG	O
+은	은	JX	O
+_	_	_	O
+어린이날	어린이날	NNP	B-DAT
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+다음	다음	NNG	O
+_	_	_	O
+달	달	NNG	O
+_	_	_	O
+5	5	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+KBS	KBS	SL	B-POH
+에서	에서	JKB	O
+_	_	_	O
+방영될	방영되+ㄹ	VV+ETM	O
+_	_	_	O
+예정	예정	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 미국도 두 발의 10점을 기록했지만 한국의 기세는 계속됐다.
+## <미국:ORG>도 <두 발:NOH>의 <10점:NOH>을 기록했지만 <한국:ORG>의 기세는 계속됐다.
+미국	미국	NNP	B-ORG
+도	도	JX	O
+_	_	_	O
+두	두	MM	B-NOH
+_	_	_	I-NOH
+발	발	NNG	I-NOH
+의	의	JKG	O
+_	_	_	O
+10	10	SN	B-NOH
+점	점	NNB	I-NOH
+을	을	JKO	O
+_	_	_	O
+기록	기록하	VV	O
+했	였	EP	O
+지만	지만	EC	O
+_	_	_	O
+한국	한국	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+기세	기세	NNG	O
+는	는	JX	O
+_	_	_	O
+계속	계속되	VV	O
+됐	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 5만원 내면 1년간 5∼10평서 무­배추 생산
+## <5만원:MNY> 내면 <1년간:DUR> <5:NOH>∼<10평:NOH>서 무­배추 생산
+5	5	SN	B-MNY
+만	만	NR	I-MNY
+원	원	NNB	I-MNY
+_	_	_	O
+내	내	VV	O
+면	면	EC	O
+_	_	_	O
+1	1	SN	B-DUR
+년	년	NNB	I-DUR
+간	간	XSN	I-DUR
+_	_	_	O
+5	5	SN	B-NOH
+∼	∼	SO	O
+10	10	SN	B-NOH
+평서	평서	NNP	O
+_	_	_	O
+무	무	NNG	O
+­	­	SS	O
+배추	배추	NNG	O
+_	_	_	O
+생산	생산	NNG	O
+
+## 13
+## 현재 매매가는 약 31억원이다.
+## 현재 매매가는 약 <31억원:MNY>이다.
+현재	현재	NNG	O
+_	_	_	O
+매매	매매	NNG	O
+가	가	XSN	O
+는	는	JX	O
+_	_	_	O
+약	약	NNG	O
+_	_	_	O
+31	31	SN	B-MNY
+억	억	NR	I-MNY
+원	원	NNB	I-MNY
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 14
+## 신용보증기금, 자금 부족한 회사 적극지원… 기업 육성해 청년고용 창출
+## <신용보증기금:ORG>, 자금 부족한 회사 적극지원… 기업 육성해 청년고용 창출
+신용보증기금	신용보증기금	NNG	B-ORG
+,	,	SP	O
+_	_	_	O
+자금	자금	NNG	O
+_	_	_	O
+부족한	부족하+ㄴ	VA+ETM	O
+_	_	_	O
+회사	회사	NNG	O
+_	_	_	O
+적극	적극	NNG	O
+지원	지원	NNG	O
+…	…	SE	O
+_	_	_	O
+기업	기업	NNG	O
+_	_	_	O
+육성	육성	NNG	O
+해	해	NNG	O
+_	_	_	O
+청년	청년	NNG	O
+고용	고용	NNG	O
+_	_	_	O
+창출	창출	NNG	O
+

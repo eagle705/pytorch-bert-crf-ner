@@ -1,0 +1,491 @@
+## 1
+## 이어 최씨의 변호인은 “피해자들에게 빌린 돈을 일부 변제했고, 변제할 예정이라는 점도 고려해달라”고 덧붙였다.
+## 이어 <최:PER>씨의 변호인은 “피해자들에게 빌린 돈을 일부 변제했고, 변제할 예정이라는 점도 고려해달라”고 덧붙였다.
+이어	이어	MAG	O
+_	_	_	O
+최	최	NNP	B-PER
+씨	씨	NNB	O
+의	의	JKG	O
+_	_	_	O
+변호인	변호인	NNG	O
+은	은	JX	O
+_	_	_	O
+“	“	SS	O
+피해자	피해자	NNG	O
+들	들	XSN	O
+에게	에게	JKB	O
+_	_	_	O
+빌린	빌리+ㄴ	VV+ETM	O
+_	_	_	O
+돈	돈	NNG	O
+을	을	JKO	O
+_	_	_	O
+일부	일부	NNG	O
+_	_	_	O
+변제	변제하	VV	O
+했	였	EP	O
+고	고	EC	O
+,	,	SP	O
+_	_	_	O
+변제할	변제하+ㄹ	VV+ETM	O
+_	_	_	O
+예정	예정	NNG	O
+이	이	VCP	O
+라는	라는	ETM	O
+_	_	_	O
+점	점	NNG	O
+도	도	JX	O
+_	_	_	O
+고려해	고려하+여	VV+EC	O
+달	달	VX	O
+라	라	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+덧붙	덧붙이	VV	O
+였	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 법정에 선 최홍만 또한 “본의 아니게 이런 일이 일어나게 해 죄송하다.
+## 법정에 선 <최홍만:PER> 또한 “본의 아니게 이런 일이 일어나게 해 죄송하다.
+법정	법정	NNG	O
+에	에	JKB	O
+_	_	_	O
+선	서+ㄴ	VV+ETM	O
+_	_	_	O
+최홍만	최홍만	NNP	B-PER
+_	_	_	O
+또한	또한	MAG	O
+_	_	_	O
+“	“	SS	O
+본의	본의	NNG	O
+_	_	_	O
+아니	아니	VCN	O
+게	게	EC	O
+_	_	_	O
+이런	이런	MM	O
+_	_	_	O
+일	일	NNG	O
+이	이	JKS	O
+_	_	_	O
+일어나	일어나	VV	O
+게	게	EC	O
+_	_	_	O
+해	해	NNG	O
+_	_	_	O
+죄송하	죄송하	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## [인천/경기]서운산단 시행사, 정관 무시하고 도급약정서 체결
+## [<인천:LOC>/<경기:LOC>]<서운산단:POH> 시행사, 정관 무시하고 도급약정서 체결
+[	[	SS	O
+인천	인천	NNP	B-LOC
+/	/	SP	O
+경기	경기	NNG	B-LOC
+]	]	SS	O
+서운산	서운산	NNP	B-POH
+단	단	MAG	I-POH
+_	_	_	O
+시행	시행	NNG	O
+사	사	XSN	O
+,	,	SP	O
+_	_	_	O
+정관	정관	NNG	O
+_	_	_	O
+무시하	무시하	VV	O
+고	고	EC	O
+_	_	_	O
+도급	도급	NNG	O
+약정서	약정서	NNG	O
+_	_	_	O
+체결	체결	NNG	O
+
+## 4
+## 한국 외교 수장이 인권이사회에서 군 위안부 문제를 제기한 것은 처음이었다.
+## <한국:ORG> 외교 수장이 인권이사회에서 군 위안부 문제를 제기한 것은 처음이었다.
+한국	한국	NNP	B-ORG
+_	_	_	O
+외교	외교	NNG	O
+_	_	_	O
+수장	수장	NNG	O
+이	이	JKC	O
+_	_	_	O
+인권	인권	NNG	O
+이사회	이사회	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+군	군	NNG	O
+_	_	_	O
+위안부	위안부	NNG	O
+_	_	_	O
+문제	문제	NNG	O
+를	를	JKO	O
+_	_	_	O
+제기한	제기하+ㄴ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+은	은	JX	O
+_	_	_	O
+처음	처음	NNG	O
+이	이	VCP	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 익명을 요구한 그는 가입자 이용 빈도가 전년 1개월마다 1번에서 3개월마다 1번으로 줄었다고 덧붙였다.
+## 익명을 요구한 그는 가입자 이용 빈도가 전년 <1개월:DUR>마다 <1번:NOH>에서 <3개월:DUR>마다 <1번:NOH>으로 줄었다고 덧붙였다.
+익명	익명	NNG	O
+을	을	JKO	O
+_	_	_	O
+요구한	요구하+ㄴ	VV+ETM	O
+_	_	_	O
+그	그	NP	O
+는	는	JX	O
+_	_	_	O
+가입자	가입자	NNG	O
+_	_	_	O
+이용	이용	NNG	O
+_	_	_	O
+빈도	빈도	NNG	O
+가	가	JKS	O
+_	_	_	O
+전년	전년	NNG	O
+_	_	_	O
+1	1	SN	B-DUR
+개월	개월	NNB	I-DUR
+마다	마다	JX	O
+_	_	_	O
+1	1	SN	B-NOH
+번	번	NNB	I-NOH
+에서	에서	JKB	O
+_	_	_	O
+3	3	SN	B-DUR
+개월	개월	NNB	I-DUR
+마다	마다	JX	O
+_	_	_	O
+1	1	SN	B-NOH
+번	번	NNB	I-NOH
+으로	으로	JKB	O
+_	_	_	O
+줄	줄	VV	O
+었	었	EP	O
+다고	다고	EC	O
+_	_	_	O
+덧붙	덧붙이	VV	O
+였	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## ‘건국대 폐렴,’건국대 동물생명과학대에서 질병이 발생해 학생, 연구원 등 21명이 폐렴 증상을 호소했다.
+## ‘<건국대:LOC> 폐렴,’<건국대 동물생명과학대:LOC>에서 질병이 발생해 학생, 연구원 등 <21명:NOH>이 폐렴 증상을 호소했다.
+‘	‘	SS	O
+건국대	건국대	NNP	B-LOC
+_	_	_	O
+폐렴	폐렴	NNG	O
+,	,	SP	O
+’	’	SS	O
+건국대	건국대	NNP	B-LOC
+_	_	_	I-LOC
+동물	동물	NNG	I-LOC
+생명	생명	NNG	I-LOC
+과학대	과학대	NNG	I-LOC
+에서	에서	JKB	O
+_	_	_	O
+질병	질병	NNG	O
+이	이	JKS	O
+_	_	_	O
+발생해	발생하+여	VV+EC	O
+_	_	_	O
+학생	학생	NNG	O
+,	,	SP	O
+_	_	_	O
+연구원	연구원	NNG	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+21	21	SN	B-NOH
+명	명	NNB	I-NOH
+이	이	JKS	O
+_	_	_	O
+폐렴	폐렴	NNG	O
+_	_	_	O
+증상	증상	NNG	O
+을	을	JKO	O
+_	_	_	O
+호소	호소하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 이어 홍신애는 김을 펼쳤을 때, 밥은 양옆을 남기고 김이 보이게 넓게 펼쳤다.
+## 이어 <홍신애:PER>는 김을 펼쳤을 때, 밥은 양옆을 남기고 김이 보이게 넓게 펼쳤다.
+이	잇	VV	O
+어	어	EC	O
+_	_	_	O
+홍신애	홍신애	NNP	B-PER
+는	는	JX	O
+_	_	_	O
+김	김	NNG	O
+을	을	JKO	O
+_	_	_	O
+펼	펼치	VV	O
+쳤	었	EP	O
+을	을	ETM	O
+_	_	_	O
+때	때	NNG	O
+,	,	SP	O
+_	_	_	O
+밥	밥	NNG	O
+은	은	JX	O
+_	_	_	O
+양옆	양옆	NNG	O
+을	을	JKO	O
+_	_	_	O
+남기	남기	VV	O
+고	고	EC	O
+_	_	_	O
+김	김	NNG	O
+이	이	JKS	O
+_	_	_	O
+보이	보이	VV	O
+게	게	EC	O
+_	_	_	O
+넓	넓	VA	O
+게	게	EC	O
+_	_	_	O
+펼	펼치	VV	O
+쳤	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 한편 이날 ‘수요미식회’ 편에는 ‘나물김밥’, ‘다시마김밥’, ‘돈가스김밥’을 3대 맛집으로 꼽았다.
+## 한편 이날 ‘<수요미식회:POH>’ 편에는 ‘나물김밥’, ‘다시마김밥’, ‘돈가스김밥’을 <3대:NOH> 맛집으로 꼽았다.
+한편	한편	MAG	O
+_	_	_	O
+이날	이날	NNG	O
+_	_	_	O
+‘	‘	SS	O
+수요미식회	수요미식회	NNP	B-POH
+’	’	SS	O
+_	_	_	O
+편	편	NNB	O
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+‘	‘	SS	O
+나물	나물	NNG	O
+김밥	김밥	NNG	O
+’	’	SS	O
+,	,	SP	O
+_	_	_	O
+‘	‘	SS	O
+다시마	다시마	NNG	O
+김밥	김밥	NNG	O
+’	’	SS	O
+,	,	SP	O
+_	_	_	O
+‘	‘	SS	O
+돈가스	돈가스	NNG	O
+김밥	김밥	NNG	O
+’	’	SS	O
+을	을	JKO	O
+_	_	_	O
+3	3	SN	B-NOH
+대	대	NNB	I-NOH
+_	_	_	O
+맛집	맛집	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+꼽	꼽	VV	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## '풍문으로 들었소' 고아성 가족도 갑질 시작? 자체 최고 시청률 경신
+## '<풍문으로 들었소:POH>' <고아성:PER> 가족도 갑질 시작? 자체 최고 시청률 경신
+'	'	SS	O
+풍문	풍문	NNG	B-POH
+으로	으로	JKB	I-POH
+_	_	_	I-POH
+들	듣	VV	I-POH
+었	었	EP	I-POH
+소	소	EF	I-POH
+'	'	SS	O
+_	_	_	O
+고	고	NNP	B-PER
+아성	아성	NNG	I-PER
+_	_	_	O
+가족	가족	NNG	O
+도	도	JX	O
+_	_	_	O
+갑	갑	NNG	O
+질	질	XSN	O
+_	_	_	O
+시작	시작	NNG	O
+?	?	SF	O
+_	_	_	O
+자체	자체	NNG	O
+_	_	_	O
+최고	최고	NNG	O
+_	_	_	O
+시청률	시청률	NNG	O
+_	_	_	O
+경신	경신	NNG	O
+
+## 10
+## 그만큼 두 팀의 전력차는 크지 않다.
+## 그만큼 <두 팀:NOH>의 전력차는 크지 않다.
+그만큼	그만큼	MAG	O
+_	_	_	O
+두	두	MM	B-NOH
+_	_	_	I-NOH
+팀	팀	NNG	I-NOH
+의	의	JKG	O
+_	_	_	O
+전력	전력	NNG	O
+차	차	NNG	O
+는	는	JX	O
+_	_	_	O
+크	크	VA	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 거미와 열애를 시작한 조정석은 이미 지난해 9월부터 자신의 결혼관을 밝혀왔다.
+## <거미:PER>와 열애를 시작한 <조정석:PER>은 이미 지난해 <9월:DAT>부터 자신의 결혼관을 밝혀왔다.
+거미	거미	NNG	B-PER
+와	와	JKB	O
+_	_	_	O
+열애	열애	NNG	O
+를	를	JKO	O
+_	_	_	O
+시작한	시작하+ㄴ	VV+ETM	O
+_	_	_	O
+조정석	조정석	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+이미	이미	MAG	O
+_	_	_	O
+지난해	지난해	NNG	O
+_	_	_	O
+9	9	SN	B-DAT
+월	월	NNB	I-DAT
+부터	부터	JX	O
+_	_	_	O
+자신	자신	NNG	O
+의	의	JKG	O
+_	_	_	O
+결혼관	결혼관	NNG	O
+을	을	JKO	O
+_	_	_	O
+밝혀	밝히+어+오	VV+EC+VX	O
+왔	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 8일 레바논 원정(3-0 승)에 참여하는 대신, 울리 슈틸리케(독일) 감독의 배려로 6일 영국으로 조기 출국해 새 팀 적응에 나섰다.
+## <8일:DAT> <레바논:LOC> 원정(<3-0:NOH> 승)에 참여하는 대신, <울리 슈틸리케:PER>(<독일:ORG>) 감독의 배려로 <6일:DAT> <영국:ORG>으로 조기 출국해 새 팀 적응에 나섰다.
+8	8	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+레바논	레바논	NNP	B-LOC
+_	_	_	O
+원정	원정	NNG	O
+(	(	SS	O
+3	3	SN	B-NOH
+-	-	SO	I-NOH
+0	0	SN	I-NOH
+_	_	_	O
+승	승	NNB	O
+)	)	SS	O
+에	에	JKB	O
+_	_	_	O
+참여하	참여하	VV	O
+는	는	ETM	O
+_	_	_	O
+대신	대신	NNG	O
+,	,	SP	O
+_	_	_	O
+울리	울리	NNP	B-PER
+_	_	_	I-PER
+슈틸리케	슈틸리케	NNP	I-PER
+(	(	SS	O
+독일	독일	NNP	B-ORG
+)	)	SS	O
+_	_	_	O
+감독	감독	NNG	O
+의	의	JKG	O
+_	_	_	O
+배려	배려	NNG	O
+로	로	JKB	O
+_	_	_	O
+6	6	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+영국	영국	NNP	B-ORG
+으로	으로	JKB	O
+_	_	_	O
+조기	조기	NNG	O
+_	_	_	O
+출국해	출국하+여	VV+EC	O
+_	_	_	O
+새	새	MM	O
+_	_	_	O
+팀	팀	NNG	O
+_	_	_	O
+적응	적응	NNG	O
+에	에	JKB	O
+_	_	_	O
+나섰	나서+었	VV+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## 이같은 구두 개입은 미국 대선 이후 나타난 달러화 강세를 억제하기 위한 의도로 해석된다.
+## 이같은 구두 개입은 <미국:ORG> 대선 이후 나타난 달러화 강세를 억제하기 위한 의도로 해석된다.
+이	이	NP	O
+같	같	VA	O
+은	은	ETM	O
+_	_	_	O
+구두	구두	NNG	O
+_	_	_	O
+개입	개입	NNG	O
+은	은	JX	O
+_	_	_	O
+미국	미국	NNP	B-ORG
+_	_	_	O
+대선	대선	NNG	O
+_	_	_	O
+이후	이후	NNG	O
+_	_	_	O
+나타난	나타나+ㄴ	VV+ETM	O
+_	_	_	O
+달러화	달러화	NNG	O
+_	_	_	O
+강세	강세	NNG	O
+를	를	JKO	O
+_	_	_	O
+억제하	억제하	VV	O
+기	기	ETN	O
+_	_	_	O
+위한	위하+ㄴ	VV+ETM	O
+_	_	_	O
+의도	의도	NNG	O
+로	로	JKB	O
+_	_	_	O
+해석된다	해석되+ㄴ다	VV+EF	O
+.	.	SF	O
+

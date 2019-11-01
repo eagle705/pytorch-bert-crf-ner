@@ -1,0 +1,669 @@
+## 1
+## 이 씨는 “아들이 ‘선생님이 그런 아이들을 말리면서도 자신에게만 수업 중에도 마스크를 쓰고 있게 했다’며 서러운 듯 우는데 가슴이 무너지는 것 같았다”고 말했다.
+## <이:PER> 씨는 “아들이 ‘선생님이 그런 아이들을 말리면서도 자신에게만 수업 중에도 마스크를 쓰고 있게 했다’며 서러운 듯 우는데 가슴이 무너지는 것 같았다”고 말했다.
+이	이	NNP	B-PER
+_	_	_	O
+씨	씨	NNB	O
+는	는	JX	O
+_	_	_	O
+“	“	SS	O
+아들	아들	NNG	O
+이	이	JKS	O
+_	_	_	O
+‘	‘	SS	O
+선생님	선생님	NNG	O
+이	이	JKS	O
+_	_	_	O
+그런	그런	MM	O
+_	_	_	O
+아이	아이	NNG	O
+들	들	XSN	O
+을	을	JKO	O
+_	_	_	O
+말리	말리	VV	O
+면서	면서	EC	O
+도	도	JX	O
+_	_	_	O
+자신	자신	NNG	O
+에게	에게	JKB	O
+만	만	JX	O
+_	_	_	O
+수업	수업	NNG	O
+_	_	_	O
+중	중	NNB	O
+에	에	JKB	O
+도	도	JX	O
+_	_	_	O
+마스크	마스크	NNG	O
+를	를	JKO	O
+_	_	_	O
+쓰	쓰	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+게	게	EC	O
+_	_	_	O
+했	+였	+EP	O
+다	다	EF	O
+’	’	SS	O
+며	며	EC	O
+_	_	_	O
+서러	서럽	VA	O
+운	ㄴ	ETM	O
+_	_	_	O
+듯	듯	NNB	O
+_	_	_	O
+우	울	VV	O
+는데	는데	EC	O
+_	_	_	O
+가슴	가슴	NNG	O
+이	이	JKS	O
+_	_	_	O
+무너지	무너지	VV	O
+는	는	ETM	O
+_	_	_	O
+것	것	NNB	O
+_	_	_	O
+같	같	VA	O
+았	았	EP	O
+다	다	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+말	말하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 담뱃값 인상으로 올해 세수 4조3064억원 ‘쑥↑’ 예상… 금연효과는 ‘글쎄’
+## 담뱃값 인상으로 올해 세수 <4조3064억원:MNY> ‘쑥↑’ 예상… 금연효과는 ‘글쎄’
+담뱃값	담뱃값	NNG	O
+_	_	_	O
+인상	인상	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+올해	올해	NNG	O
+_	_	_	O
+세수	세수	NNG	O
+_	_	_	O
+4	4	SN	B-MNY
+조	조	NNG	I-MNY
+3064	3064	SN	I-MNY
+억	억	NR	I-MNY
+원	원	NNB	I-MNY
+_	_	_	O
+‘	‘	SS	O
+쑥	쑥	NNG	O
+↑	↑	SW	O
+’	’	SS	O
+_	_	_	O
+예상	예상	NNG	O
+…	…	SE	O
+_	_	_	O
+금연	금연	NNG	O
+효과	효과	NNG	O
+는	는	JX	O
+_	_	_	O
+‘	‘	SS	O
+글쎄	글쎄	IC	O
+’	’	SS	O
+
+## 3
+## 골드만삭스가 자신의 임직원들을 공공 분야에 적극 소개하는 전통도 행정부 진출의 연결 고리가 됐다.
+## <골드만삭스:ORG>가 자신의 임직원들을 공공 분야에 적극 소개하는 전통도 행정부 진출의 연결 고리가 됐다.
+골드만삭스	골드만삭스	NNP	B-ORG
+가	가	JKS	O
+_	_	_	O
+자신	자신	NNG	O
+의	의	JKG	O
+_	_	_	O
+임직원	임직원	NNG	O
+들	들	XSN	O
+을	을	JKO	O
+_	_	_	O
+공공	공공	NNG	O
+_	_	_	O
+분야	분야	NNG	O
+에	에	JKB	O
+_	_	_	O
+적극	적극	NNG	O
+_	_	_	O
+소개하	소개하	VV	O
+는	는	ETM	O
+_	_	_	O
+전통	전통	NNG	O
+도	도	JX	O
+_	_	_	O
+행정부	행정부	NNG	O
+_	_	_	O
+진출	진출	NNG	O
+의	의	JKG	O
+_	_	_	O
+연결	연결	NNG	O
+_	_	_	O
+고리	고리	NNG	O
+가	가	JKC	O
+_	_	_	O
+됐	+었	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 인도양에서 조업하던 원양어선인 ＇광현 803호(138t)＇에서 한국인 선장과 기관장을 살해한 혐의로 구속기소된 베트남 선원 중 한 명에게 1심에서 무기징역이 선고됐다.
+## <인도양:LOC>에서 조업하던 원양어선인 ＇<광현 803호:POH>(<138t:NOH>)＇에서 한국인 선장과 기관장을 살해한 혐의로 구속기소된 <베트남:ORG> 선원 중 한 명에게 1심에서 무기징역이 선고됐다.
+인도양	인도양	NNP	B-LOC
+에서	에서	JKB	O
+_	_	_	O
+조업하	조업하	VV	O
+던	던	ETM	O
+_	_	_	O
+원양어선	원양어선	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+＇	＇	SS	O
+광현	광현	NNG	B-POH
+_	_	_	I-POH
+803	803	SN	I-POH
+호	호	NNB	I-POH
+(	(	SS	O
+138	138	SN	B-NOH
+t	t	SL	I-NOH
+)	)	SS	O
+＇	＇	SS	O
+에서	에서	JKB	O
+_	_	_	O
+한국인	한국인	NNG	O
+_	_	_	O
+선장	선장	NNG	O
+과	과	JC	O
+_	_	_	O
+기관장	기관장	NNG	O
+을	을	JKO	O
+_	_	_	O
+살해한	살해하+ㄴ	VV+ETM	O
+_	_	_	O
+혐의	혐의	NNG	O
+로	로	JKB	O
+_	_	_	O
+구속	구속	NNG	O
+기소된	기소되+ㄴ	VV+ETM	O
+_	_	_	O
+베트남	베트남	NNP	B-ORG
+_	_	_	O
+선원	선원	NNG	O
+_	_	_	O
+중	중	NNB	O
+_	_	_	O
+한	한	MM	O
+_	_	_	O
+명	명	NNB	O
+에게	에게	JKB	O
+_	_	_	O
+1	1	SN	O
+심	심	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+무기	무기	NNG	O
+징역	징역	NNG	O
+이	이	JKS	O
+_	_	_	O
+선고	선고되	VV	O
+됐	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 신지애, JLPGA 6개월만에 정상
+## <신지애:PER>, <JLPGA:ORG> <6개월:DUR>만에 정상
+신지애	신지애	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+JLPGA	JLPGA	SL	B-ORG
+_	_	_	O
+6	6	SN	B-DUR
+개월	개월	NNB	I-DUR
+만	만	NNB	O
+에	에	JKB	O
+_	_	_	O
+정상	정상	NNG	O
+
+## 6
+## 한국체육기자연맹(회장 정희돈) 이길용상 심사위원회를 통해 수상자로 결정된 고 기자는 1994년 스포츠서울에 입사한 뒤 22년간 국내외 스포츠 현장을 누볐다.
+## <한국체육기자연맹:ORG>(회장 <정희돈:PER>) <이길용상:POH> 심사위원회를 통해 수상자로 결정된 <고:PER> 기자는 <1994년:DAT> <스포츠서울:ORG>에 입사한 뒤 <22년간:DUR> 국내외 스포츠 현장을 누볐다.
+한국체육기자연맹	한국체육기자연맹	NNP	B-ORG
+(	(	SS	O
+회장	회장	NNG	O
+_	_	_	O
+정희돈	정희돈	NNP	B-PER
+)	)	SS	O
+_	_	_	O
+이길용	이길용	NNP	B-POH
+상	상	XSN	I-POH
+_	_	_	O
+심사	심사	NNG	O
+위원회	위원회	NNG	O
+를	를	JKO	O
+_	_	_	O
+통해	통하+여	VV+EC	O
+_	_	_	O
+수상자	수상자	NNG	O
+로	로	JKB	O
+_	_	_	O
+결정된	결정되+ㄴ	VV+ETM	O
+_	_	_	O
+고	고	JKQ	B-PER
+_	_	_	O
+기자	기자	NNG	O
+는	는	JX	O
+_	_	_	O
+1994	1994	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+스포츠서울	스포츠서울	NNP	B-ORG
+에	에	JKB	O
+_	_	_	O
+입사한	입사하+ㄴ	VV+ETM	O
+_	_	_	O
+뒤	뒤	NNG	O
+_	_	_	O
+22	22	SN	B-DUR
+년	년	NNB	I-DUR
+간	간	XSN	I-DUR
+_	_	_	O
+국내외	국내외	NNG	O
+_	_	_	O
+스포츠	스포츠	NNG	O
+_	_	_	O
+현장	현장	NNG	O
+을	을	JKO	O
+_	_	_	O
+누	누비	VV	O
+볐	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## [스포츠동아]
+## [<스포츠동아:ORG>]
+[	[	SS	O
+스포츠	스포츠	NNG	B-ORG
+동아	동아	NNP	I-ORG
+]	]	SS	O
+
+## 8
+## 마치 마술처럼 순식간에 분위기를 전환시켜 가벼움을 털어내 버리는 것은 김호영만의 전매특허다.
+## 마치 마술처럼 순식간에 분위기를 전환시켜 가벼움을 털어내 버리는 것은 <김호영:PER>만의 전매특허다.
+마치	마치	MAG	O
+_	_	_	O
+마술	마술	NNG	O
+처럼	처럼	JKB	O
+_	_	_	O
+순식간	순식간	NNG	O
+에	에	JKB	O
+_	_	_	O
+분위기	분위기	NNG	O
+를	를	JKO	O
+_	_	_	O
+전환	전환	NNG	O
+시켜	시키+어	XSV+EC	O
+_	_	_	O
+가벼움	가볍+ㅁ	VA+ETN	O
+을	을	JKO	O
+_	_	_	O
+털	털	VV	O
+어	어	EC	O
+내	내+어	VX+EC	O
+_	_	_	O
+버리	버리	VX	O
+는	는	ETM	O
+_	_	_	O
+것	것	NNB	O
+은	은	JX	O
+_	_	_	O
+김호영	김호영	NNP	B-PER
+만	만	JX	O
+의	의	JKG	O
+_	_	_	O
+전매특허	전매특허+이	NNG+VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 공동 5위로 우승을 놓치기는 했지만, PGA 투어 역대 18홀 최소타 신기록을 쓰며 역사의 한 획을 그었다.
+## 공동 <5위:NOH>로 우승을 놓치기는 했지만, <PGA:ORG> 투어 역대 <18홀:NOH> 최소타 신기록을 쓰며 역사의 한 획을 그었다.
+공동	공동	NNG	O
+_	_	_	O
+5	5	SN	B-NOH
+위	위	NNB	I-NOH
+로	로	JKB	O
+_	_	_	O
+우승	우승	NNG	O
+을	을	JKO	O
+_	_	_	O
+놓치	놓치	VV	O
+기	기	ETN	O
+는	는	JX	O
+_	_	_	O
+했	+였	+EP	O
+지만	지만	EC	O
+,	,	SP	O
+_	_	_	O
+PGA	PGA	SL	B-ORG
+_	_	_	O
+투어	투어	NNG	O
+_	_	_	O
+역대	역대	NNG	O
+_	_	_	O
+18	18	SN	B-NOH
+홀	홀	NNG	I-NOH
+_	_	_	O
+최소	최소	NNG	O
+타	타	NNG	O
+_	_	_	O
+신기록	신기록	NNG	O
+을	을	JKO	O
+_	_	_	O
+쓰	쓰	VV	O
+며	며	EC	O
+_	_	_	O
+역사	역사	NNG	O
+의	의	JKG	O
+_	_	_	O
+한	한	MM	O
+_	_	_	O
+획	획	NNG	O
+을	을	JKO	O
+_	_	_	O
+그	긋	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 그는 현 트럼프 행정부의 문제점을 11가지 포인트로 지적하며 조언했다.
+## 그는 현 트럼프 행정부의 문제점을 <11가지:NOH> 포인트로 지적하며 조언했다.
+그	그	NP	O
+는	는	JX	O
+_	_	_	O
+현	현	MM	O
+_	_	_	O
+트럼프	트럼프	NNP	O
+_	_	_	O
+행정부	행정부	NNG	O
+의	의	JKG	O
+_	_	_	O
+문제점	문제점	NNG	O
+을	을	JKO	O
+_	_	_	O
+11	11	SN	B-NOH
+가지	가지	NNB	I-NOH
+_	_	_	O
+포인트	포인트	NNG	O
+로	로	JKB	O
+_	_	_	O
+지적하	지적하	VV	O
+며	며	EC	O
+_	_	_	O
+조언	조언하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 그 즈음 농촌진흥청 김양섭 박사, 석순자 박사를 알게 됐어요.
+## 그 즈음 <농촌진흥청:ORG> <김양섭:PER> 박사, <석순자:PER> 박사를 알게 됐어요.
+그	그	MM	O
+_	_	_	O
+즈음	즈음	NNB	O
+_	_	_	O
+농촌	농촌	NNG	B-ORG
+진흥	진흥	NNG	I-ORG
+청	청	XSN	I-ORG
+_	_	_	O
+김양섭	김양섭	NNP	B-PER
+_	_	_	O
+박사	박사	NNG	O
+,	,	SP	O
+_	_	_	O
+석순자	석순자	NNP	B-PER
+_	_	_	O
+박사	박사	NNG	O
+를	를	JKO	O
+_	_	_	O
+알	알	VV	O
+게	게	EC	O
+_	_	_	O
+됐	+었	+EP	O
+어요	어요	EF	O
+.	.	SF	O
+
+## 12
+## 테슬라의 자율주행 프로그램은 큰 물체를 무시한다.
+## <테슬라:ORG>의 자율주행 프로그램은 큰 물체를 무시한다.
+테슬라	테슬라	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+자율	자율	NNG	O
+주행	주행	NNG	O
+_	_	_	O
+프로그램	프로그램	NNG	O
+은	은	JX	O
+_	_	_	O
+큰	크+ㄴ	VA+ETM	O
+_	_	_	O
+물체	물체	NNG	O
+를	를	JKO	O
+_	_	_	O
+무시한다	무시하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 13
+## 이들 셋은 지금 한창, 삶이 엄숙하고 고단하다고 생각하지만 이들을 둘러싼 우주는 그것이 모두 귀여울 따름이다.
+## 이들 <셋:NOH>은 지금 한창, 삶이 엄숙하고 고단하다고 생각하지만 이들을 둘러싼 우주는 그것이 모두 귀여울 따름이다.
+이	이	NP	O
+들	들	XSN	O
+_	_	_	O
+셋	셋	NR	B-NOH
+은	은	JX	O
+_	_	_	O
+지금	지금	MAG	O
+_	_	_	O
+한창	한창	MAG	O
+,	,	SP	O
+_	_	_	O
+삶	삶	NNG	O
+이	이	JKS	O
+_	_	_	O
+엄숙하	엄숙하	VA	O
+고	고	EC	O
+_	_	_	O
+고단하	고단하	VA	O
+다고	다고	EC	O
+_	_	_	O
+생각하	생각하	VV	O
+지만	지만	EC	O
+_	_	_	O
+이	이	NP	O
+들	들	XSN	O
+을	을	JKO	O
+_	_	_	O
+둘러싼	둘러싸+ㄴ	VV+ETM	O
+_	_	_	O
+우주	우주	NNG	O
+는	는	JX	O
+_	_	_	O
+그것	그것	NP	O
+이	이	JKS	O
+_	_	_	O
+모두	모두	MAG	O
+_	_	_	O
+귀여	귀엽	VA	O
+울	ㄹ	ETM	O
+_	_	_	O
+따름	따름	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 14
+## 그러나 혁신위원이었던 우원식 의원은 “중앙위를 거친 혁신안을 의총에서 오픈프라이머리를 의결하며 무력화시킨다면 ‘일부 의원의 기득권 지키기’라는 비난을 받을 수 있다”고 받아쳤다.
+## 그러나 혁신위원이었던 <우원식:PER> 의원은 “중앙위를 거친 혁신안을 의총에서 오픈프라이머리를 의결하며 무력화시킨다면 ‘일부 의원의 기득권 지키기’라는 비난을 받을 수 있다”고 받아쳤다.
+그러나	그러나	MAJ	O
+_	_	_	O
+혁신	혁신	NNG	O
+위원	위원	NNG	O
+이	이	VCP	O
+었	었	EP	O
+던	던	ETM	O
+_	_	_	O
+우원식	우원식	NNP	B-PER
+_	_	_	O
+의원	의원	NNG	O
+은	은	JX	O
+_	_	_	O
+“	“	SS	O
+중앙	중앙	NNG	O
+위	위	NNG	O
+를	를	JKO	O
+_	_	_	O
+거친	거칠+ㄴ	VA+ETM	O
+_	_	_	O
+혁신안	혁신안	NNG	O
+을	을	JKO	O
+_	_	_	O
+의총	의총	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+오픈프라이머리	오픈프라이머리	NNG	O
+를	를	JKO	O
+_	_	_	O
+의결하	의결하	VV	O
+며	며	EC	O
+_	_	_	O
+무력	무력	NNG	O
+화	화	XSN	O
+시킨다면	시키+ㄴ다면	XSV+EC	O
+_	_	_	O
+‘	‘	SS	O
+일부	일부	NNG	O
+_	_	_	O
+의원	의원	NNG	O
+의	의	JKG	O
+_	_	_	O
+기득권	기득권	NNG	O
+_	_	_	O
+지키	지키	VV	O
+기	기	ETN	O
+’	’+이	SS+VCP	O
+라는	라는	ETM	O
+_	_	_	O
+비난	비난	NNG	O
+을	을	JKO	O
+_	_	_	O
+받	받	VV	O
+을	을	ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+받아	받아치	VV	O
+쳤	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 15
+## 얼마 전 친한 동생이자 동료인 정신우 셰프(플레이트 키친 스튜디오)와 이야기를 했다.
+## 얼마 전 친한 동생이자 동료인 <정신우:PER> 셰프(<플레이트 키친 스튜디오:ORG>)와 이야기를 했다.
+얼마	얼마	NNG	O
+_	_	_	O
+전	전	NNG	O
+_	_	_	O
+친한	친하+ㄴ	VA+ETM	O
+_	_	_	O
+동생	동생	NNG	O
+이	이	VCP	O
+자	자	EC	O
+_	_	_	O
+동료	동료	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+정신우	정신우	NNP	B-PER
+_	_	_	O
+셰프	셰프	NNG	O
+(	(	SS	O
+플레이트	플레이트	NNG	B-ORG
+_	_	_	I-ORG
+키친	키친	NNG	I-ORG
+_	_	_	I-ORG
+스튜디오	스튜디오	NNG	I-ORG
+)	)	SS	O
+와	와	JKB	O
+_	_	_	O
+이야기	이야기	NNG	O
+를	를	JKO	O
+_	_	_	O
+했	+였	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 16
+## “정신 잃을때까지 그짓을… IS 제발 없애주세요”
+## “정신 잃을때까지 그짓을… <IS:ORG> 제발 없애주세요”
+“	“	SS	O
+정신	정신	NNG	O
+_	_	_	O
+잃	잃	VV	O
+을	을	ETM	O
+때	때	NNG	O
+까지	까지	JX	O
+_	_	_	O
+그	그	MM	O
+짓	짓	NNG	O
+을	을	JKO	O
+…	…	SE	O
+_	_	_	O
+IS	IS	SL	B-ORG
+_	_	_	O
+제발	제발	MAG	O
+_	_	_	O
+없애	없애+어	VV+EC	O
+주	주	VX	O
+세요	세요	EF	O
+”	”	SS	O
+
+## 17
+## 장혜진은 리우에 도착한 뒤로 하루도 빠짐없이 먹었을 만큼 초코파이를 좋아한다.
+## <장혜진:PER>은 <리우:LOC>에 도착한 뒤로 하루도 빠짐없이 먹었을 만큼 초코파이를 좋아한다.
+장혜진	장혜진	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+리우	리우	NNP	B-LOC
+에	에	JKB	O
+_	_	_	O
+도착한	도착하+ㄴ	VV+ETM	O
+_	_	_	O
+뒤	뒤	NNG	O
+로	로	JKB	O
+_	_	_	O
+하루	하루	NNG	O
+도	도	JX	O
+_	_	_	O
+빠짐없이	빠짐없이	MAG	O
+_	_	_	O
+먹	먹	VV	O
+었	었	EP	O
+을	을	ETM	O
+_	_	_	O
+만큼	만큼	NNB	O
+_	_	_	O
+초코파이	초코파이	NNP	O
+를	를	JKO	O
+_	_	_	O
+좋아한다	좋아하+ㄴ다	VV+EF	O
+.	.	SF	O
+

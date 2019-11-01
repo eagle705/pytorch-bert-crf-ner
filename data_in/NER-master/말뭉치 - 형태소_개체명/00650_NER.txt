@@ -1,0 +1,486 @@
+## 1
+## 이군이 컴퓨터와 처음 인연을 맺은 것은 겨우 1년전.
+## <이:PER>군이 컴퓨터와 처음 인연을 맺은 것은 겨우 <1년:DAT>전.
+이	이	NNP	B-PER
+군	군	NNB	O
+이	이	JKS	O
+_	_	_	O
+컴퓨터	컴퓨터	NNG	O
+와	와	JC	O
+_	_	_	O
+처음	처음	NNG	O
+_	_	_	O
+인연	인연	NNG	O
+을	을	JKO	O
+_	_	_	O
+맺	맺	VV	O
+은	은	ETM	O
+_	_	_	O
+것	것	NNB	O
+은	은	JX	O
+_	_	_	O
+겨우	겨우	MAG	O
+_	_	_	O
+1	1	SN	B-DAT
+년	년	NNB	I-DAT
+전	전	NNG	O
+.	.	SF	O
+
+## 2
+## 부산대는 11일 재정위원회 회의를 열고 전체 교수 1190여 명이 각자 연간 120만 원의 연구비를 사비로 부담하는 방안을 확정했다.
+## <부산대:ORG>는 <11일:DAT> <재정위원회:ORG> 회의를 열고 전체 교수 <1190여 명:NOH>이 각자 연간 <120만 원:MNY>의 연구비를 사비로 부담하는 방안을 확정했다.
+부산대	부산대	NNP	B-ORG
+는	는	JX	O
+_	_	_	O
+11	11	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+재정	재정	NNG	B-ORG
+위원회	위원회	NNG	I-ORG
+_	_	_	O
+회의	회의	NNG	O
+를	를	JKO	O
+_	_	_	O
+열	열	VV	O
+고	고	EC	O
+_	_	_	O
+전체	전체	NNG	O
+_	_	_	O
+교수	교수	NNG	O
+_	_	_	O
+1190	1190	SN	B-NOH
+여	여	XSN	I-NOH
+_	_	_	I-NOH
+명	명	NNB	I-NOH
+이	이	JKS	O
+_	_	_	O
+각자	각자	MAG	O
+_	_	_	O
+연간	연간	NNG	O
+_	_	_	O
+120	120	SN	B-MNY
+만	만	NR	I-MNY
+_	_	_	I-MNY
+원	원	NNB	I-MNY
+의	의	JKG	O
+_	_	_	O
+연구비	연구비	NNG	O
+를	를	JKO	O
+_	_	_	O
+사비	사비	NNG	O
+로	로	JKB	O
+_	_	_	O
+부담하	부담하	VV	O
+는	는	ETM	O
+_	_	_	O
+방안	방안	NNG	O
+을	을	JKO	O
+_	_	_	O
+확정	확정하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 의정부지검 고양지청 관계자는 “제보를 받고 수사에 착수해 마약을 투약한 혐의로 붙잡아 조사하고 있다”고 15일 밝혔다.
+## <의정부지검 고양지청:ORG> 관계자는 “제보를 받고 수사에 착수해 마약을 투약한 혐의로 붙잡아 조사하고 있다”고 <15일:DAT> 밝혔다.
+의정부지검	의정부지검	NNP	B-ORG
+_	_	_	I-ORG
+고양지청	고양지청	NNP	I-ORG
+_	_	_	O
+관계자	관계자	NNG	O
+는	는	JX	O
+_	_	_	O
+“	“	SS	O
+제보	제보	NNG	O
+를	를	JKO	O
+_	_	_	O
+받	받	VV	O
+고	고	EC	O
+_	_	_	O
+수사	수사	NNG	O
+에	에	JKB	O
+_	_	_	O
+착수해	착수하+여	VV+EC	O
+_	_	_	O
+마약	마약	NNG	O
+을	을	JKO	O
+_	_	_	O
+투약한	투약하+ㄴ	VV+ETM	O
+_	_	_	O
+혐의	혐의	NNG	O
+로	로	JKB	O
+_	_	_	O
+붙잡	붙잡	VV	O
+아	아	EC	O
+_	_	_	O
+조사하	조사하	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+15	15	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+밝	밝히	VV	O
+혔	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 고국으로 돌아온 리콴유 전 총리는1954년 인민행동당(PAP)을 창당했고, 1959년 PAP가 집권당이 되면서 초대 싱가포르 자치정부 수반이 됐다.
+## 고국으로 돌아온 <리콴유:PER> 전 총리는<1954년:DAT> <인민행동당:ORG>(<PAP:ORG>)을 창당했고, <1959년:DAT> <PAP:ORG>가 집권당이 되면서 초대 <싱가포르:ORG> 자치정부 수반이 됐다.
+고국	고국	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+돌아온	돌아오+ㄴ	VV+ETM	O
+_	_	_	O
+리콴유	리콴유	NNP	B-PER
+_	_	_	O
+전	전	MM	O
+_	_	_	O
+총리	총리	NNG	O
+는	는	JX	O
+1954	1954	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+인민행동당	인민행동당	NNP	B-ORG
+(	(	SS	O
+PAP	PAP	SL	B-ORG
+)	)	SS	O
+을	을	JKO	O
+_	_	_	O
+창당	창당하	VV	O
+했	였	EP	O
+고	고	EC	O
+,	,	SP	O
+_	_	_	O
+1959	1959	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+PAP	PAP	SL	B-ORG
+가	가	JKS	O
+_	_	_	O
+집권당	집권당	NNG	O
+이	이	JKC	O
+_	_	_	O
+되	되	VV	O
+면서	면서	EC	O
+_	_	_	O
+초대	초대	NNG	O
+_	_	_	O
+싱가포르	싱가포르	NNP	B-ORG
+_	_	_	O
+자치	자치	NNG	O
+정부	정부	NNG	O
+_	_	_	O
+수반	수반	NNG	O
+이	이	JKC	O
+_	_	_	O
+됐	+었	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## ‘대장금’ ‘주몽’ 등 우리 사극 시청률이 80%를 넘겼단다.
+## ‘<대장금:POH>’ ‘<주몽:POH>’ 등 우리 사극 시청률이 <80%:PNT>를 넘겼단다.
+‘	‘	SS	O
+대장금	대장금	NNP	B-POH
+’	’	SS	O
+_	_	_	O
+‘	‘	SS	O
+주몽	주몽	NNP	B-POH
+’	’	SS	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+우리	우리	NP	O
+_	_	_	O
+사극	사극	NNG	O
+_	_	_	O
+시청률	시청률	NNG	O
+이	이	JKS	O
+_	_	_	O
+80	80	SN	B-PNT
+%	%	SW	I-PNT
+를	를	JKO	O
+_	_	_	O
+넘	넘기	VV	O
+겼	었	EP	O
+단다	단다	EF	O
+.	.	SF	O
+
+## 6
+## 이란을 세운 사람은 키루스 대왕이다.
+## <이란:ORG>을 세운 사람은 <키루스:PER> 대왕이다.
+이란	이란	NNP	B-ORG
+을	을	JKO	O
+_	_	_	O
+세운	세우+ㄴ	VV+ETM	O
+_	_	_	O
+사람	사람	NNG	O
+은	은	JX	O
+_	_	_	O
+키루스	키루스	NNP	B-PER
+_	_	_	O
+대왕	대왕	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 두 번째 가설은 ‘질마찰가설’이다.
+## <두 번:NOH>째 가설은 ‘질마찰가설’이다.
+두	두	MM	B-NOH
+_	_	_	I-NOH
+번째	번째	NNB	O
+_	_	_	O
+가설	가설	NNG	O
+은	은	JX	O
+_	_	_	O
+‘	‘	SS	O
+질	질	XSN	O
+마찰	마찰	NNG	O
+가설	가설	NNG	O
+’	’	SS	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 맘 같아선 그 길로 한국으로 돌아오고 싶었다.
+## 맘 같아선 그 길로 <한국:LOC>으로 돌아오고 싶었다.
+맘	맘	NNG	O
+_	_	_	O
+같	같	VA	O
+아선	아서+ㄴ	EC+JX	O
+_	_	_	O
+그	그	MM	O
+_	_	_	O
+길	길	NNG	O
+로	로	JKB	O
+_	_	_	O
+한국	한국	NNP	B-LOC
+으로	으로	JKB	O
+_	_	_	O
+돌아오	돌아오	VV	O
+고	고	EC	O
+_	_	_	O
+싶	싶	VX	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 티웨이항공은 186∼189석 규모의 보잉 737-800 기종을 매주 월, 수, 금, 일요일에 운항할 예정이다.
+## <티웨이항공:ORG>은 <186:NOH>∼<189석:NOH> 규모의 <보잉 737:POH>-<800:POH> 기종을 매주 월, 수, 금, 일요일에 운항할 예정이다.
+티	티	NNG	B-ORG
+웨이	웨이	NNG	I-ORG
+항공	항공	NNG	I-ORG
+은	은	JX	O
+_	_	_	O
+186	186	SN	B-NOH
+∼	∼	SO	O
+189	189	SN	B-NOH
+석	석	NNB	I-NOH
+_	_	_	O
+규모	규모	NNG	O
+의	의	JKG	O
+_	_	_	O
+보잉	보잉	NNG	B-POH
+_	_	_	I-POH
+737	737	SN	I-POH
+-	-	SO	O
+800	800	SN	B-POH
+_	_	_	O
+기종	기종	NNG	O
+을	을	JKO	O
+_	_	_	O
+매주	매주	MAG	O
+_	_	_	O
+월	월	NNG	O
+,	,	SP	O
+_	_	_	O
+수	수	NNG	O
+,	,	SP	O
+_	_	_	O
+금	금	NNG	O
+,	,	SP	O
+_	_	_	O
+일요일	일요일	NNG	O
+에	에	JKB	O
+_	_	_	O
+운항할	운항하+ㄹ	VV+ETM	O
+_	_	_	O
+예정	예정	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 중국 국무원은 1992년부터 보하이만 해저터널 건설을 구상했다.
+## <중국:ORG> 국무원은 <1992년:DAT>부터 <보하이만 해저터널:POH> 건설을 구상했다.
+중국	중국	NNP	B-ORG
+_	_	_	O
+국무원	국무원	NNG	O
+은	은	JX	O
+_	_	_	O
+1992	1992	SN	B-DAT
+년	년	NNB	I-DAT
+부터	부터	JX	O
+_	_	_	O
+보하이만	보하이만	NNP	B-POH
+_	_	_	I-POH
+해저	해저	NNG	I-POH
+터널	터널	NNG	I-POH
+_	_	_	O
+건설	건설	NNG	O
+을	을	JKO	O
+_	_	_	O
+구상	구상하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 그래서 (누계) 20만 명은 못될 것 같다”면서 “우리가 처음에 (누계) 5만 명에서 10만 명 잡았는데 그게 된다면 상당한 성공이다”고 말했다.
+## 그래서 (누계) <20만 명:NOH>은 못될 것 같다”면서 “우리가 처음에 (누계) <5만 명:NOH>에서 <10만 명:NOH> 잡았는데 그게 된다면 상당한 성공이다”고 말했다.
+그래서	그래서	MAJ	O
+_	_	_	O
+(	(	SS	O
+누계	누계	NNG	O
+)	)	SS	O
+_	_	_	O
+20	20	SN	B-NOH
+만	만	NR	I-NOH
+_	_	_	I-NOH
+명	명	NNB	I-NOH
+은	은	JX	O
+_	_	_	O
+못	못	MAG	O
+될	되+ㄹ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+_	_	_	O
+같	같	VA	O
+다	다	EF	O
+”	”	SS	O
+면서	면서	EC	O
+_	_	_	O
+“	“	SS	O
+우리	우리	NP	O
+가	가	JKS	O
+_	_	_	O
+처음	처음	NNG	O
+에	에	JKB	O
+_	_	_	O
+(	(	SS	O
+누계	누계	NNG	O
+)	)	SS	O
+_	_	_	O
+5	5	SN	B-NOH
+만	만	NR	I-NOH
+_	_	_	I-NOH
+명	명	NNB	I-NOH
+에서	에서	JKB	O
+_	_	_	O
+10	10	SN	B-NOH
+만	만	NR	I-NOH
+_	_	_	I-NOH
+명	명	NNB	I-NOH
+_	_	_	O
+잡	잡	VV	O
+았	았	EP	O
+는데	는데	EC	O
+_	_	_	O
+그게	그것+이	NP+JKC	O
+_	_	_	O
+된다면	되+ㄴ다면	VV+EC	O
+_	_	_	O
+상당한	상당하+ㄴ	VA+ETM	O
+_	_	_	O
+성공	성공	NNG	O
+이	이	VCP	O
+다	다	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+말	말하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 특히 타우린은 혈액 내 콜레스테롤을 떨어뜨려 심장질환을 예방한다.
+## 특히 <타우린:POH>은 혈액 내 <콜레스테롤:POH>을 떨어뜨려 심장질환을 예방한다.
+특히	특히	MAG	O
+_	_	_	O
+타우린	타우린	NNG	B-POH
+은	은	JX	O
+_	_	_	O
+혈액	혈액	NNG	O
+_	_	_	O
+내	내	NNB	O
+_	_	_	O
+콜레스테롤	콜레스테롤	NNG	B-POH
+을	을	JKO	O
+_	_	_	O
+떨어뜨려	떨어뜨리+어	VV+EC	O
+_	_	_	O
+심장	심장	NNG	O
+질환	질환	NNG	O
+을	을	JKO	O
+_	_	_	O
+예방한다	예방하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 13
+## 앞서 박영수(65·사법연수원 10기) 특별검사팀은 지난 1일 박씨에 대해 뇌물공여 혐의로 사전구속영장을 청구했다.
+## 앞서 <박영수:PER>(<65:NOH>·<사법연수원 10기:ORG>) 특별검사팀은 지난 <1일:DAT> <박:PER>씨에 대해 뇌물공여 혐의로 사전구속영장을 청구했다.
+앞서	앞서	MAG	O
+_	_	_	O
+박영수	박영수	NNP	B-PER
+(	(	SS	O
+65	65	SN	B-NOH
+·	·	SP	O
+사법연수원	사법연수원	NNG	B-ORG
+_	_	_	I-ORG
+10	10	SN	I-ORG
+기	기	NNG	I-ORG
+)	)	SS	O
+_	_	_	O
+특별	특별	NNG	O
+검사	검사	NNG	O
+팀	팀	NNG	O
+은	은	JX	O
+_	_	_	O
+지난	지나+ㄴ	VV+ETM	O
+_	_	_	O
+1	1	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+박	박	NNP	B-PER
+씨	씨	NNB	O
+에	에	JKB	O
+_	_	_	O
+대해	대하+여	VV+EC	O
+_	_	_	O
+뇌물	뇌물	NNG	O
+공여	공여	NNG	O
+_	_	_	O
+혐의	혐의	NNG	O
+로	로	JKB	O
+_	_	_	O
+사전	사전	NNG	O
+구속	구속	NNG	O
+영장	영장	NNG	O
+을	을	JKO	O
+_	_	_	O
+청구	청구하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+

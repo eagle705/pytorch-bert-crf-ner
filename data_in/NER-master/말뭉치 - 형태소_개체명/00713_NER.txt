@@ -1,0 +1,543 @@
+## 1
+## 한국 조 선두 유지, 레바논전에 달렸다
+## <한국:ORG> 조 선두 유지, <레바논전:POH>에 달렸다
+한국	한국	NNP	B-ORG
+_	_	_	O
+조	조	NNG	O
+_	_	_	O
+선두	선두	NNG	O
+_	_	_	O
+유지	유지	NNG	O
+,	,	SP	O
+_	_	_	O
+레바논	레바논	NNP	B-POH
+전	전	NNG	I-POH
+에	에	JKB	O
+_	_	_	O
+달	달리	VV	O
+렸	었	EP	O
+다	다	EF	O
+
+## 2
+## 20일 역대 최대 규모(참가자 2만8000명)로 치러질 동아마라톤(서울국제마라톤)은 채널A를 통해 100여 개국으로 생중계된다.
+## <20일:DAT> 역대 최대 규모(참가자 <2만8000명:NOH>)로 치러질 동아마라톤(<서울국제마라톤:ORG>)은 <채널A:ORG>를 통해 <100여 개:NOH>국으로 생중계된다.
+20	20	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+역대	역대	NNG	O
+_	_	_	O
+최대	최대	NNG	O
+_	_	_	O
+규모	규모	NNG	O
+(	(	SS	O
+참가자	참가자	NNG	O
+_	_	_	O
+2	2	SN	B-NOH
+만	만	NR	I-NOH
+8000	8000	SN	I-NOH
+명	명	NNB	I-NOH
+)	)	SS	O
+로	로	JKB	O
+_	_	_	O
+치	치르	VV	O
+러	어	EC	O
+질	지+ㄹ	VX+ETM	O
+_	_	_	O
+동아	동아	NNP	O
+마라톤	마라톤	NNG	O
+(	(	SS	O
+서울	서울	NNP	B-ORG
+국제	국제	NNG	I-ORG
+마라톤	마라톤	NNG	I-ORG
+)	)	SS	O
+은	은	JX	O
+_	_	_	O
+채널	채널	NNG	B-ORG
+A	A	SL	I-ORG
+를	를	JKO	O
+_	_	_	O
+통해	통하+여	VV+EC	O
+_	_	_	O
+100	100	SN	B-NOH
+여	여	XSN	I-NOH
+_	_	_	I-NOH
+개국	개국	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+생	생	XPN	O
+중계된다	중계되+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 3
+## 이 제품은 6.7g 무게에 4cm 크기에 불과해 세계 최소형 최경량 반려견 웨어러블 디바이스라는 기록을 가지고 있다.
+## 이 제품은 <6.7g:NOH> 무게에 <4cm:NOH> 크기에 불과해 세계 최소형 최경량 반려견 웨어러블 디바이스라는 기록을 가지고 있다.
+이	이	MM	O
+_	_	_	O
+제품	제품	NNG	O
+은	은	JX	O
+_	_	_	O
+6.7	6.7	SN	B-NOH
+g	g	SL	I-NOH
+_	_	_	O
+무게	무게	NNG	O
+에	에	JKB	O
+_	_	_	O
+4	4	SN	B-NOH
+cm	cm	SL	I-NOH
+_	_	_	O
+크기	크기	NNG	O
+에	에	JKB	O
+_	_	_	O
+불과해	불과하+여	VA+EC	O
+_	_	_	O
+세계	세계	NNG	O
+_	_	_	O
+최소형	최소형	NNP	O
+_	_	_	O
+최경량	최경량	NNP	O
+_	_	_	O
+반려	반려	NNG	O
+견	견	NNG	O
+_	_	_	O
+웨어러블	웨어러블	NNG	O
+_	_	_	O
+디바이스	디바이스+이	NNG+VCP	O
+라는	라는	ETM	O
+_	_	_	O
+기록	기록	NNG	O
+을	을	JKO	O
+_	_	_	O
+가지	가지	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 마모트의 광고 풀버전은 24일, 마모트 유튜브 브랜드 채널과 공식 페이스북 등에서, ‘너만 있으면 돼’ 음원은 각종 음원사이트에서 확인 할 수 있다.
+## <마모트:ORG>의 광고 풀버전은 <24일:DAT>, <마모트:ORG> <유튜브:POH> 브랜드 채널과 공식 <페이스북:POH> 등에서, ‘<너만 있으면 돼:POH>’ 음원은 각종 음원사이트에서 확인 할 수 있다.
+마모트	마모트	NNG	B-ORG
+의	의	JKG	O
+_	_	_	O
+광고	광고	NNG	O
+_	_	_	O
+풀	풀	NNG	O
+버전	버전	NNG	O
+은	은	JX	O
+_	_	_	O
+24	24	SN	B-DAT
+일	일	NNB	I-DAT
+,	,	SP	O
+_	_	_	O
+마모트	마모트	NNG	B-ORG
+_	_	_	O
+유튜브	유튜브	NNP	B-POH
+_	_	_	O
+브랜드	브랜드	NNG	O
+_	_	_	O
+채널	채널	NNG	O
+과	과	JC	O
+_	_	_	O
+공식	공식	NNG	O
+_	_	_	O
+페이스북	페이스북	NNP	B-POH
+_	_	_	O
+등	등	NNB	O
+에서	에서	JKB	O
+,	,	SP	O
+_	_	_	O
+‘	‘	SS	O
+너	너	NP	B-POH
+만	만	JX	I-POH
+_	_	_	I-POH
+있	있	VA	I-POH
+으면	으면	EC	I-POH
+_	_	_	I-POH
+돼	되+어	VV+EF	I-POH
+’	’	SS	O
+_	_	_	O
+음원	음원	NNG	O
+은	은	JX	O
+_	_	_	O
+각종	각종	NNG	O
+_	_	_	O
+음원	음원	NNG	O
+사이트	사이트	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+확인	확인	NNG	O
+_	_	_	O
+할	하+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 배영수, 대구구장 1루 덕아웃의 추억
+## <배영수:PER>, <대구구장:LOC> <1루:NOH> 덕아웃의 추억
+배영수	배영수	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+대구구장	대구구장	NNP	B-LOC
+_	_	_	O
+1	1	SN	B-NOH
+루	루	NNG	I-NOH
+_	_	_	O
+덕아웃	덕아웃	NNG	O
+의	의	JKG	O
+_	_	_	O
+추억	추억	NNG	O
+
+## 6
+## 박 대통령은 지난 15일 광복절 경축사에서 지난해에 이어 광복절을 ‘건국절’로 규정짓고, 안중근 의사의 순국 장소를 하얼빈으로 잘못 말해 논란을 불러 일으켰다.
+## <박:PER> 대통령은 지난 <15일:DAT> <광복절:DAT> 경축사에서 지난해에 이어 <광복절:DAT>을 ‘<건국절:DAT>’로 규정짓고, <안중근:PER> 의사의 순국 장소를 <하얼빈:LOC>으로 잘못 말해 논란을 불러 일으켰다.
+박	박	NNP	B-PER
+_	_	_	O
+대통령	대통령	NNG	O
+은	은	JX	O
+_	_	_	O
+지난	지나+ㄴ	VV+ETM	O
+_	_	_	O
+15	15	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+광복절	광복절	NNG	B-DAT
+_	_	_	O
+경축사	경축사	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+지난해	지난해	NNG	O
+에	에	JKB	O
+_	_	_	O
+이	잇	VV	O
+어	어	EC	O
+_	_	_	O
+광복절	광복절	NNG	B-DAT
+을	을	JKO	O
+_	_	_	O
+‘	‘	SS	O
+건국	건국	NNG	B-DAT
+절	절	NNG	I-DAT
+’	’	SS	O
+로	로	JKB	O
+_	_	_	O
+규정짓	규정짓	VV	O
+고	고	EC	O
+,	,	SP	O
+_	_	_	O
+안중근	안중근	NNP	B-PER
+_	_	_	O
+의사	의사	NNG	O
+의	의	JKG	O
+_	_	_	O
+순국	순국	NNG	O
+_	_	_	O
+장소	장소	NNG	O
+를	를	JKO	O
+_	_	_	O
+하얼빈	하얼빈	NNP	B-LOC
+으로	으로	JKB	O
+_	_	_	O
+잘못	잘못	MAG	O
+_	_	_	O
+말해	말하+여	VV+EC	O
+_	_	_	O
+논란	논란	NNG	O
+을	을	JKO	O
+_	_	_	O
+불	부르	VV	O
+러	어	EC	O
+_	_	_	O
+일으	일으키	VV	O
+켰	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 이날 방송에서 전원책은 광복절 대해 이야기하던 중 김구라에게 개명을 제안한다.
+## 이날 방송에서 <전원책:PER>은 <광복절:DAT> 대해 이야기하던 중 <김구라:PER>에게 개명을 제안한다.
+이날	이날	NNG	O
+_	_	_	O
+방송	방송	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+전원책	전원책	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+광복절	광복절	NNG	B-DAT
+_	_	_	O
+대해	대하+여	VV+EC	O
+_	_	_	O
+이야기하	이야기하	VV	O
+던	던	ETM	O
+_	_	_	O
+중	중	NNP	O
+_	_	_	O
+김구라	김구라	NNP	B-PER
+에게	에게	JKB	O
+_	_	_	O
+개명	개명	NNG	O
+을	을	JKO	O
+_	_	_	O
+제안한다	제안하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 8
+## 여기에 신분당선 개통으로 동천역을 통해 판교역을 15분대, 강남역을 20분대로 빠른 이동이 가능하다.
+## 여기에 <신분당선:POH> 개통으로 <동천역:LOC>을 통해 <판교역:LOC>을 <15분:NOH>대, <강남역:LOC>을 <20분:NOH>대로 빠른 이동이 가능하다.
+여기	여기	NP	O
+에	에	JKB	O
+_	_	_	O
+신	신	XPN	B-POH
+분당	분당	NNP	I-POH
+선	선	XSN	I-POH
+_	_	_	O
+개통	개통	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+동	동	NNG	B-LOC
+천역	천역	NNG	I-LOC
+을	을	JKO	O
+_	_	_	O
+통해	통하+여	VV+EC	O
+_	_	_	O
+판교역	판교역	NNP	B-LOC
+을	을	JKO	O
+_	_	_	O
+15	15	SN	B-NOH
+분	분	NNB	I-NOH
+대	대	XSN	O
+,	,	SP	O
+_	_	_	O
+강남역	강남역	NNP	B-LOC
+을	을	JKO	O
+_	_	_	O
+20	20	SN	B-NOH
+분	분	NNB	I-NOH
+대	대	NNB	O
+로	로	JKB	O
+_	_	_	O
+빠른	빠르+ㄴ	VA+ETM	O
+_	_	_	O
+이동	이동	NNG	O
+이	이	JKS	O
+_	_	_	O
+가능하	가능하	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 금융당국 “의심 정황 들여다볼 것”
+## <금융당국:ORG> “의심 정황 들여다볼 것”
+금융	금융	NNG	B-ORG
+당국	당국	NNG	I-ORG
+_	_	_	O
+“	“	SS	O
+의심	의심	NNG	O
+_	_	_	O
+정황	정황	NNG	O
+_	_	_	O
+들여다볼	들여다보+ㄹ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+”	”	SS	O
+
+## 10
+## 이랜드리테일 ‘해외명품 대전’ 연다
+## <이랜드리테일:ORG> ‘해외명품 대전’ 연다
+이랜드	이랜드	NNP	B-ORG
+리테일	리테일	NNG	I-ORG
+_	_	_	O
+‘	‘	SS	O
+해외	해외	NNG	O
+명품	명품	NNG	O
+_	_	_	O
+대전	대전	NNG	O
+’	’	SS	O
+_	_	_	O
+연다	열+ㄴ다	VV+EF	O
+
+## 11
+## 아동전문 미술학원 ‘영재들의 미술상자’는 오는 6월 11일 오전 11시부터 국립과천과학관에서 ‘별빛 우주여행 그리기 대회’를 개최한다고 밝혔다.
+## 아동전문 미술학원 ‘<영재들의 미술상자:ORG>’는 오는 <6월 11일:DAT> <오전 11시:TIM>부터 <국립과천과학관:LOC>에서 ‘<별빛 우주여행 그리기 대회:POH>’를 개최한다고 밝혔다.
+아동	아동	NNG	O
+전문	전문	NNG	O
+_	_	_	O
+미술	미술	NNG	O
+학원	학원	NNG	O
+_	_	_	O
+‘	‘	SS	O
+영재	영재	NNG	B-ORG
+들	들	XSN	I-ORG
+의	의	JKG	I-ORG
+_	_	_	I-ORG
+미술	미술	NNG	I-ORG
+상자	상자	NNG	I-ORG
+’	’	SS	O
+는	는	JX	O
+_	_	_	O
+오	오	VV	O
+는	는	ETM	O
+_	_	_	O
+6	6	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	I-DAT
+11	11	SN	I-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+오전	오전	NNG	B-TIM
+_	_	_	I-TIM
+11	11	SN	I-TIM
+시	시	NNB	I-TIM
+부터	부터	JX	O
+_	_	_	O
+국립	국립	NNG	B-LOC
+과천	과천	NNP	I-LOC
+과학관	과학관	NNG	I-LOC
+에서	에서	JKB	O
+_	_	_	O
+‘	‘	SS	O
+별빛	별빛	NNG	B-POH
+_	_	_	I-POH
+우주여행	우주여행	NNG	I-POH
+_	_	_	I-POH
+그리	그리	VV	I-POH
+기	기	ETN	I-POH
+_	_	_	I-POH
+대회	대회	NNG	I-POH
+’	’	SS	O
+를	를	JKO	O
+_	_	_	O
+개최한다고	개최하+ㄴ다고	VV+EC	O
+_	_	_	O
+밝	밝히	VV	O
+혔	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## CJ가 영화 배급사를 장악해 중소 배급사가 설 자리가 줄어든 걸 비판한 것이다.
+## <CJ:ORG>가 영화 배급사를 장악해 중소 배급사가 설 자리가 줄어든 걸 비판한 것이다.
+CJ	CJ	SL	B-ORG
+가	가	JKS	O
+_	_	_	O
+영화	영화	NNG	O
+_	_	_	O
+배급	배급	NNG	O
+사	사	XSN	O
+를	를	JKO	O
+_	_	_	O
+장악해	장악하+여	VV+EC	O
+_	_	_	O
+중소	중소	NNG	O
+_	_	_	O
+배급	배급	NNG	O
+사	사	XSN	O
+가	가	JKS	O
+_	_	_	O
+설	서+ㄹ	VV+ETM	O
+_	_	_	O
+자리	자리	NNG	O
+가	가	JKS	O
+_	_	_	O
+줄어든	줄어들+ㄴ	VV+ETM	O
+_	_	_	O
+걸	것+ㄹ	NNB+JKO	O
+_	_	_	O
+비판한	비판하+ㄴ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## 이어 “국민의당 정의당 어느 당 후보로 단일화가 돼도 힘껏 도울 것”이라고 했다.
+## 이어 “<국민의당:ORG> <정의당:ORG> 어느 당 후보로 단일화가 돼도 힘껏 도울 것”이라고 했다.
+이어	이어	MAG	O
+_	_	_	O
+“	“	SS	O
+국민	국민	NNG	B-ORG
+의당	의당	MAG	I-ORG
+_	_	_	O
+정의당	정의당	NNP	B-ORG
+_	_	_	O
+어느	어느	MM	O
+_	_	_	O
+당	당	NNG	O
+_	_	_	O
+후보	후보	NNG	O
+로	로	JKB	O
+_	_	_	O
+단일화	단일화	NNG	O
+가	가	JKC	O
+_	_	_	O
+돼도	되+어도	VV+EC	O
+_	_	_	O
+힘껏	힘껏	MAG	O
+_	_	_	O
+도	돕	VV	O
+울	ㄹ	ETM	O
+_	_	_	O
+것	것	NNB	O
+”	”	SS	O
+이라고	이라고	JKQ	O
+_	_	_	O
+했	+였	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 14
+## CJ헬로비전이 주주들에게 SK브로드밴드와의 합병 의견을 묻기 위해 26일 열 예정인 주주총회도 위법이라고 보고 있다.
+## <CJ헬로비전:ORG>이 주주들에게 <SK브로드밴드:ORG>와의 합병 의견을 묻기 위해 <26일:DAT> 열 예정인 주주총회도 위법이라고 보고 있다.
+CJ	CJ	SL	B-ORG
+헬로	헬로	NNG	I-ORG
+비전	비전	NNG	I-ORG
+이	이	JKS	O
+_	_	_	O
+주주	주주	NNG	O
+들	들	XSN	O
+에게	에게	JKB	O
+_	_	_	O
+SK	SK	SL	B-ORG
+브로드	브로드	NNG	I-ORG
+밴드	밴드	NNG	I-ORG
+와	와	JKB	O
+의	의	JKG	O
+_	_	_	O
+합병	합병	NNG	O
+_	_	_	O
+의견	의견	NNG	O
+을	을	JKO	O
+_	_	_	O
+묻	묻	VV	O
+기	기	ETN	O
+_	_	_	O
+위해	위하+여	VV+EC	O
+_	_	_	O
+26	26	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+열	열+ㄹ	VV+ETM	O
+_	_	_	O
+예정	예정	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+주주총회	주주총회	NNG	O
+도	도	JX	O
+_	_	_	O
+위법	위법	NNG	O
+이	이	VCP	O
+라고	라고	EC	O
+_	_	_	O
+보	보	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+

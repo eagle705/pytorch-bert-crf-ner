@@ -1,0 +1,464 @@
+## 1
+## 2004년 2만1749명에서 2014년 2만9057명으로 7308명 늘었다.
+## <2004년:DAT> <2만1749명:NOH>에서 <2014년:DAT> <2만9057명:NOH>으로 <7308명:NOH> 늘었다.
+2004	2004	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+2	2	SN	B-NOH
+만	만	NR	I-NOH
+1749	1749	SN	I-NOH
+명	명	NNB	I-NOH
+에서	에서	JKB	O
+_	_	_	O
+2014	2014	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+2	2	SN	B-NOH
+만	만	NR	I-NOH
+9057	9057	SN	I-NOH
+명	명	NNB	I-NOH
+으로	으로	JKB	O
+_	_	_	O
+7308	7308	SN	B-NOH
+명	명	NNB	I-NOH
+_	_	_	O
+늘	늘	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 김신 대법관은 대법관 중에서 소수의견을 내는 비율이 가장 높은 편이다.
+## <김신:PER> 대법관은 대법관 중에서 소수의견을 내는 비율이 가장 높은 편이다.
+김신	김신	NNP	B-PER
+_	_	_	O
+대법관	대법관	NNG	O
+은	은	JX	O
+_	_	_	O
+대법관	대법관	NNG	O
+_	_	_	O
+중	중	NNB	O
+에서	에서	JKB	O
+_	_	_	O
+소수	소수	NNG	O
+의견	의견	NNG	O
+을	을	JKO	O
+_	_	_	O
+내	내	VV	O
+는	는	ETM	O
+_	_	_	O
+비율	비율	NNG	O
+이	이	JKS	O
+_	_	_	O
+가장	가장	MAG	O
+_	_	_	O
+높	높	VA	O
+은	은	ETM	O
+_	_	_	O
+편	편	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 응봉산과 연결된 단지 외곽 산책로도 조성할 계획이다.
+## <응봉산:LOC>과 연결된 단지 외곽 산책로도 조성할 계획이다.
+응봉산	응봉산	NNP	B-LOC
+과	과	JKB	O
+_	_	_	O
+연결된	연결되+ㄴ	VV+ETM	O
+_	_	_	O
+단지	단지	MAG	O
+_	_	_	O
+외곽	외곽	NNG	O
+_	_	_	O
+산책로	산책로	NNG	O
+도	도	JX	O
+_	_	_	O
+조성할	조성하+ㄹ	VV+ETM	O
+_	_	_	O
+계획	계획	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 휴온스는 3월 CFDA의 허가를 획득하고, 연간 20만 개 규모의 대형 수출계약을 체결한 ‘엘라비에 딥 라인 플러스’의 현지 론칭 세리머니를 완료했다.
+## <휴온스:ORG>는 <3월:DAT> <CFDA:ORG>의 허가를 획득하고, 연간 <20만:NOH> 개 규모의 대형 수출계약을 체결한 ‘<엘라비에 딥 라인 플러스:POH>’의 현지 론칭 세리머니를 완료했다.
+휴	휴	NNG	B-ORG
+온스	온스	NNB	I-ORG
+는	는	JX	O
+_	_	_	O
+3	3	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+CFDA	CFDA	SL	B-ORG
+의	의	JKG	O
+_	_	_	O
+허가	허가	NNG	O
+를	를	JKO	O
+_	_	_	O
+획득하	획득하	VV	O
+고	고	EC	O
+,	,	SP	O
+_	_	_	O
+연간	연간	NNG	O
+_	_	_	O
+20	20	SN	B-NOH
+만	만	NR	I-NOH
+_	_	_	O
+개	개	NNB	O
+_	_	_	O
+규모	규모	NNG	O
+의	의	JKG	O
+_	_	_	O
+대형	대형	NNG	O
+_	_	_	O
+수출	수출	NNG	O
+계약	계약	NNG	O
+을	을	JKO	O
+_	_	_	O
+체결한	체결하+ㄴ	VV+ETM	O
+_	_	_	O
+‘	‘	SS	O
+엘라	엘라	NNP	B-POH
+비	비	XSN	I-POH
+에	에	JKB	I-POH
+_	_	_	I-POH
+딥	딥	NNG	I-POH
+_	_	_	I-POH
+라인	라인	NNG	I-POH
+_	_	_	I-POH
+플러스	플러스	NNG	I-POH
+’	’	SS	O
+의	의	JKG	O
+_	_	_	O
+현지	현지	NNG	O
+_	_	_	O
+론칭	론칭	NNG	O
+_	_	_	O
+세리머니	세리머니	NNG	O
+를	를	JKO	O
+_	_	_	O
+완료	완료하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 정시아는 아이 엄마라고는 믿기지 않은 동안 미모를 뽐내 모두를 놀라게 했다.
+## <정시아:PER>는 아이 엄마라고는 믿기지 않은 동안 미모를 뽐내 모두를 놀라게 했다.
+정시	정시	NNG	B-PER
+아	알	VV	I-PER
+는	는	ETM	O
+_	_	_	O
+아이	아이	NNG	O
+_	_	_	O
+엄마	엄마+이	NNG+VCP	O
+라고	라고	EC	O
+는	는	JX	O
+_	_	_	O
+믿기	믿기	VV	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+은	은	ETM	O
+_	_	_	O
+동안	동안	NNG	O
+_	_	_	O
+미모	미모	NNG	O
+를	를	JKO	O
+_	_	_	O
+뽐내	뽐내+어	VV+EC	O
+_	_	_	O
+모두	모두	NNG	O
+를	를	JKO	O
+_	_	_	O
+놀라	놀라	VV	O
+게	게	EC	O
+_	_	_	O
+했	+였	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 정시아는 이날 시아버지인 백윤식의 영화 ‘내부자들’ 시사회에 참석했다.
+## <정시아:PER>는 이날 시아버지인 <백윤식:PER>의 영화 ‘<내부자들:POH>’ 시사회에 참석했다.
+정시	정시	NNG	B-PER
+아	알	VV	I-PER
+는	는	ETM	O
+_	_	_	O
+이날	이날	NNG	O
+_	_	_	O
+시아버지	시아버지	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+백윤식	백윤식	NNP	B-PER
+의	의	JKG	O
+_	_	_	O
+영화	영화	NNG	O
+_	_	_	O
+‘	‘	SS	O
+내부	내부	NNG	B-POH
+자	자	XSN	I-POH
+들	들	XSN	I-POH
+’	’	SS	O
+_	_	_	O
+시사회	시사회	NNG	O
+에	에	JKB	O
+_	_	_	O
+참석	참석하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 잔디는 기본으로 4가지 외부 서비스 연동이 가능하지만 다른 서비스 연동이 필요할 경우 웹훅을 통해 지원하도록 했다.
+## 잔디는 기본으로 <4가지:NOH> 외부 서비스 연동이 가능하지만 다른 서비스 연동이 필요할 경우 웹훅을 통해 지원하도록 했다.
+잔디	잔디	NNP	O
+는	는	JX	O
+_	_	_	O
+기본	기본	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+4	4	SN	B-NOH
+가지	가지	NNB	I-NOH
+_	_	_	O
+외부	외부	NNG	O
+_	_	_	O
+서비스	서비스	NNG	O
+_	_	_	O
+연동	연동	NNG	O
+이	이	JKS	O
+_	_	_	O
+가능하	가능하	VA	O
+지만	지만	EC	O
+_	_	_	O
+다른	다른	MM	O
+_	_	_	O
+서비스	서비스	NNG	O
+_	_	_	O
+연동	연동	NNG	O
+이	이	JKS	O
+_	_	_	O
+필요할	필요하+ㄹ	VA+ETM	O
+_	_	_	O
+경우	경우	NNG	O
+_	_	_	O
+웹	웹	NNG	O
+훅	훅	NNG	O
+을	을	JKO	O
+_	_	_	O
+통해	통하+여	VV+EC	O
+_	_	_	O
+지원하	지원하	VV	O
+도록	도록	EC	O
+_	_	_	O
+했	+였	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 최근 NGS의 게리 넬(Gary Knell) 최고경영자(CEO)가 한국을 방문했다.
+## 최근 <NGS:ORG>의 <게리 넬:PER>(<Gary Knell:PER>) 최고경영자(CEO)가 <한국:LOC>을 방문했다.
+최근	최근	NNG	O
+_	_	_	O
+NGS	NGS	SL	B-ORG
+의	의	JKG	O
+_	_	_	O
+게리	게리	NNP	B-PER
+_	_	_	I-PER
+넬	넬	NNP	I-PER
+(	(	SS	O
+Gary	Gary	SL	B-PER
+_	_	_	I-PER
+Knell	Knell	SL	I-PER
+)	)	SS	O
+_	_	_	O
+최고	최고	NNG	O
+경영자	경영자	NNG	O
+(	(	SS	O
+CEO	CEO	SL	O
+)	)	SS	O
+가	가	JKS	O
+_	_	_	O
+한국	한국	NNP	B-LOC
+을	을	JKO	O
+_	_	_	O
+방문	방문하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 이연복 셰프의 ‘완소짬뽕’을 맛본 이규한은 “재료들의 맛이 다 살아있다”며 극찬해 눈길을 모았다.
+## <이연복:PER> 셰프의 ‘완소짬뽕’을 맛본 <이규한:PER>은 “재료들의 맛이 다 살아있다”며 극찬해 눈길을 모았다.
+이연복	이연복	NNP	B-PER
+_	_	_	O
+셰프	셰프	NNG	O
+의	의	JKG	O
+_	_	_	O
+‘	‘	SS	O
+완소	완소	NNG	O
+짬뽕	짬뽕	NNG	O
+’	’	SS	O
+을	을	JKO	O
+_	_	_	O
+맛본	맛보+ㄴ	VV+ETM	O
+_	_	_	O
+이규한	이규한	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+“	“	SS	O
+재료	재료	NNG	O
+들	들	XSN	O
+의	의	JKG	O
+_	_	_	O
+맛	맛	NNG	O
+이	이	JKS	O
+_	_	_	O
+다	다	MAG	O
+_	_	_	O
+살	살	VV	O
+아	아	EC	O
+있	있	VX	O
+다	다	EF	O
+”	”	SS	O
+며	며	EC	O
+_	_	_	O
+극찬해	극찬하+여	VV+EC	O
+_	_	_	O
+눈길	눈길	NNG	O
+을	을	JKO	O
+_	_	_	O
+모	모으	VV	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 한편 이날 ‘냉장고를 부탁해’에서 이연복 셰프는 이원일 셰프를 상대로 승리를 거뒀다.
+## 한편 이날 ‘<냉장고를 부탁해:POH>’에서 <이연복:PER> 셰프는 <이원일:PER> 셰프를 상대로 승리를 거뒀다.
+한편	한편	MAG	O
+_	_	_	O
+이날	이날	NNG	O
+_	_	_	O
+‘	‘	SS	O
+냉장고	냉장고	NNG	B-POH
+를	를	JKO	I-POH
+_	_	_	I-POH
+부탁해	부탁하+여	VV+EF	I-POH
+’	’	SS	O
+에서	에서	JKB	O
+_	_	_	O
+이연복	이연복	NNP	B-PER
+_	_	_	O
+셰프	셰프	NNG	O
+는	는	JX	O
+_	_	_	O
+이원일	이원일	NNP	B-PER
+_	_	_	O
+셰프	셰프	NNG	O
+를	를	JKO	O
+_	_	_	O
+상대	상대	NNG	O
+로	로	JKB	O
+_	_	_	O
+승리	승리	NNG	O
+를	를	JKO	O
+_	_	_	O
+거	거두	VV	O
+뒀	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 1그룹의 브라질, 미국, 세르비아는 아니라도 2그룹의 터키, 네덜란드, 핀란드 등의 강국들과 맞붙어야 국제경쟁력을 키울 수 있다.
+## <1그룹:NOH>의 <브라질:ORG>, <미국:ORG>, <세르비아:ORG>는 아니라도 <2그룹:NOH>의 <터키:ORG>, <네덜란드:ORG>, <핀란드:ORG> 등의 강국들과 맞붙어야 국제경쟁력을 키울 수 있다.
+1	1	SN	B-NOH
+그룹	그룹	NNG	I-NOH
+의	의	JKG	O
+_	_	_	O
+브라질	브라질	NNP	B-ORG
+,	,	SP	O
+_	_	_	O
+미국	미국	NNP	B-ORG
+,	,	SP	O
+_	_	_	O
+세르비아	세르비아	NNP	B-ORG
+는	는	JX	O
+_	_	_	O
+아니	아니	VCN	O
+라도	라도	EC	O
+_	_	_	O
+2	2	SN	B-NOH
+그룹	그룹	NNG	I-NOH
+의	의	JKG	O
+_	_	_	O
+터키	터키	NNP	B-ORG
+,	,	SP	O
+_	_	_	O
+네덜란드	네덜란드	NNP	B-ORG
+,	,	SP	O
+_	_	_	O
+핀란드	핀란드	NNP	B-ORG
+_	_	_	O
+등	등	NNB	O
+의	의	JKG	O
+_	_	_	O
+강국	강국	NNG	O
+들	들	XSN	O
+과	과	JC	O
+_	_	_	O
+맞붙	맞붙	VV	O
+어야	어야	EC	O
+_	_	_	O
+국제	국제	NNG	O
+경쟁력	경쟁력	NNG	O
+을	을	JKO	O
+_	_	_	O
+키울	키우+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 앞서 손연재는 11일 종목별 결선 리본에서는 18.083점을 받아 전체 5위에 올랐다.
+## 앞서 <손연재:PER>는 <11일:DAT> 종목별 결선 리본에서는 <18.083점:NOH>을 받아 전체 <5위:NOH>에 올랐다.
+앞서	앞서	MAG	O
+_	_	_	O
+손연재	손연재	NNP	B-PER
+는	는	JX	O
+_	_	_	O
+11	11	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+종목별	종목별	NNG	O
+_	_	_	O
+결선	결선	NNG	O
+_	_	_	O
+리본	리본	NNG	O
+에서	에서	JKB	O
+는	는	JX	O
+_	_	_	O
+18.083	18.083	SN	B-NOH
+점	점	NNB	I-NOH
+을	을	JKO	O
+_	_	_	O
+받	받	VV	O
+아	아	EC	O
+_	_	_	O
+전체	전체	NNG	O
+_	_	_	O
+5	5	SN	B-NOH
+위	위	NNB	I-NOH
+에	에	JKB	O
+_	_	_	O
+올	오르	VV	O
+랐	았	EP	O
+다	다	EF	O
+.	.	SF	O
+

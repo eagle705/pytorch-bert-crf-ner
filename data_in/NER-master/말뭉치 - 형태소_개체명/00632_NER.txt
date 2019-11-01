@@ -1,0 +1,405 @@
+## 1
+## 2003년 신세계(현 KEB하나은행) 유니폼을 입고 데뷔한 양지희는 2007년 겨울리그까지 7시즌 연속 평균 득점이 4점을 넘지 못했다.
+## <2003년:DAT> <신세계:ORG>(현 <KEB하나은행:ORG>) 유니폼을 입고 데뷔한 <양지희:PER>는 <2007년:DAT> 겨울리그까지 <7시즌:NOH> 연속 평균 득점이 <4점:NOH>을 넘지 못했다.
+2003	2003	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+신세계	신세계	NNP	B-ORG
+(	(	SS	O
+현	현	MM	O
+_	_	_	O
+KEB	KEB	SL	B-ORG
+하나은행	하나은행	NNP	I-ORG
+)	)	SS	O
+_	_	_	O
+유니폼	유니폼	NNG	O
+을	을	JKO	O
+_	_	_	O
+입	입	VV	O
+고	고	EC	O
+_	_	_	O
+데뷔한	데뷔하+ㄴ	VV+ETM	O
+_	_	_	O
+양지희	양지희	NNP	B-PER
+는	는	JX	O
+_	_	_	O
+2007	2007	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+겨울	겨울	NNG	O
+리그	리그	NNG	O
+까지	까지	JX	O
+_	_	_	O
+7	7	SN	B-NOH
+시즌	시즌	NNG	I-NOH
+_	_	_	O
+연속	연속	NNG	O
+_	_	_	O
+평균	평균	NNG	O
+_	_	_	O
+득점	득점	NNG	O
+이	이	JKS	O
+_	_	_	O
+4	4	SN	B-NOH
+점	점	NNB	I-NOH
+을	을	JKO	O
+_	_	_	O
+넘	넘	VV	O
+지	지	EC	O
+_	_	_	O
+못	못하	VX	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 하지만 우리가 국제적인 이란 제재에 동참하면서 관계가 다소 소원해졌다.
+## 하지만 우리가 국제적인 <이란:ORG> 제재에 동참하면서 관계가 다소 소원해졌다.
+하지만	하지만	MAJ	O
+_	_	_	O
+우리	우리	NP	O
+가	가	JKS	O
+_	_	_	O
+국제적	국제적	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+이	이	VCP	B-ORG
+란	란	ETM	I-ORG
+_	_	_	O
+제재	제재	NNG	O
+에	에	JKB	O
+_	_	_	O
+동참하	동참하	VV	O
+면서	면서	EC	O
+_	_	_	O
+관계	관계	NNG	O
+가	가	JKS	O
+_	_	_	O
+다소	다소	MAG	O
+_	_	_	O
+소원해	소원하	VA	O
+졌	여+지+었	EC+VX+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## A를 비롯한 시리아인 28명은 시리아에서 터키와 중국 등을 경유해 지난해 11월~올해 1월 인천공항에 입국해 난민 지위 인정을 요청했다.
+## <A:PER>를 비롯한 시리아인 <28명:NOH>은 <시리아:LOC>에서 <터키:LOC>와 <중국:LOC> 등을 경유해 지난해 <11월:DAT>~올해 <1월:DAT> <인천공항:LOC>에 입국해 난민 지위 인정을 요청했다.
+A	A	SL	B-PER
+를	를	JKO	O
+_	_	_	O
+비롯한	비롯하+ㄴ	VV+ETM	O
+_	_	_	O
+시리아	시리아	NNP	O
+인	인	XSN	O
+_	_	_	O
+28	28	SN	B-NOH
+명	명	NNB	I-NOH
+은	은	JX	O
+_	_	_	O
+시리아	시리아	NNP	B-LOC
+에서	에서	JKB	O
+_	_	_	O
+터키	터키	NNP	B-LOC
+와	와	JC	O
+_	_	_	O
+중국	중국	NNP	B-LOC
+_	_	_	O
+등	등	NNB	O
+을	을	JKO	O
+_	_	_	O
+경유해	경유하+여	VV+EC	O
+_	_	_	O
+지난해	지난해	NNG	O
+_	_	_	O
+11	11	SN	B-DAT
+월	월	NNB	I-DAT
+~	~	SO	O
+올해	올해	NNG	O
+_	_	_	O
+1	1	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+인천	인천	NNP	B-LOC
+공항	공항	NNG	I-LOC
+에	에	JKB	O
+_	_	_	O
+입국해	입국하+여	VV+EC	O
+_	_	_	O
+난민	난민	NNG	O
+_	_	_	O
+지위	지위	NNG	O
+_	_	_	O
+인정	인정	NNG	O
+을	을	JKO	O
+_	_	_	O
+요청	요청하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 3명을 제외한 응답자 대부분이 ‘가짜 뉴스’라고 제대로 판단했다.
+## <3명:NOH>을 제외한 응답자 대부분이 ‘가짜 뉴스’라고 제대로 판단했다.
+3	3	SN	B-NOH
+명	명	NNB	I-NOH
+을	을	JKO	O
+_	_	_	O
+제외한	제외하+ㄴ	VV+ETM	O
+_	_	_	O
+응답자	응답자	NNG	O
+_	_	_	O
+대부분	대부분	NNG	O
+이	이	JKS	O
+_	_	_	O
+‘	‘	SS	O
+가짜	가짜	NNG	O
+_	_	_	O
+뉴스	뉴스	NNG	O
+’	’	SS	O
+라고	라고	JKQ	O
+_	_	_	O
+제대로	제대로	MAG	O
+_	_	_	O
+판단	판단하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 8일 서울 서초동 서울지방변호사회관에서 열리는 한변의 창립 3주년 기념식에서 두 단체의 통합취지를 선언할 예정이다.
+## <8일:DAT> <서울:LOC> <서초동:LOC> <서울지방변호사회관:LOC>에서 열리는 <한변:ORG>의 창립 <3주년:NOH> 기념식에서 <두 단체:NOH>의 통합취지를 선언할 예정이다.
+8	8	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+서울	서울	NNP	B-LOC
+_	_	_	O
+서초동	서초동	NNP	B-LOC
+_	_	_	O
+서울	서울	NNP	B-LOC
+지방	지방	NNG	I-LOC
+변호사	변호사	NNG	I-LOC
+회관	회관	NNG	I-LOC
+에서	에서	JKB	O
+_	_	_	O
+열리	열리	VV	O
+는	는	ETM	O
+_	_	_	O
+한	한	NNP	B-ORG
+변	변	NNG	I-ORG
+의	의	JKG	O
+_	_	_	O
+창립	창립	NNG	O
+_	_	_	O
+3	3	SN	B-NOH
+주년	주년	NNB	I-NOH
+_	_	_	O
+기념식	기념식	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+두	두	MM	B-NOH
+_	_	_	I-NOH
+단체	단체	NNG	I-NOH
+의	의	JKG	O
+_	_	_	O
+통합	통합	NNG	O
+취지	취지	NNG	O
+를	를	JKO	O
+_	_	_	O
+선언할	선언하+ㄹ	VV+ETM	O
+_	_	_	O
+예정	예정	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 112년 만에 올림픽 정식 종목으로 복귀한 골프 종목에서 역사의 한 페이지로 남을 기록들이 나왔다.
+## <112년:DAT> 만에 <올림픽:POH> 정식 종목으로 복귀한 골프 종목에서 역사의 한 페이지로 남을 기록들이 나왔다.
+112	112	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+만	만	NNB	O
+에	에	JKB	O
+_	_	_	O
+올림픽	올림픽	NNG	B-POH
+_	_	_	O
+정식	정식	NNG	O
+_	_	_	O
+종목	종목	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+복귀한	복귀하+ㄴ	VV+ETM	O
+_	_	_	O
+골프	골프	NNG	O
+_	_	_	O
+종목	종목	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+역사	역사	NNG	O
+의	의	JKG	O
+_	_	_	O
+한	한	MM	O
+_	_	_	O
+페이지	페이지	NNG	O
+로	로	JKB	O
+_	_	_	O
+남	남	NNG	O
+을	을	JKO	O
+_	_	_	O
+기록	기록	NNG	O
+들	들	XSN	O
+이	이	JKS	O
+_	_	_	O
+나	나오	VV	O
+왔	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 11일 브라질 리우 바하 다 치주카의 올림픽 골프 코스에서 열린 남자 골프 1라운드. 역사적인 첫 티샷의 주인공은 브라질 출신의 에딜손 다실바였다.
+## <11일:DAT> <브라질:LOC> <리우:LOC> <바하 다 치주카:LOC>의 <올림픽:POH> 골프 코스에서 열린 남자 골프 <1라운드:NOH>. 역사적인 <첫 티샷:NOH>의 주인공은 <브라질:ORG> 출신의 <에딜손 다실바:PER>였다.
+11	11	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+브라질	브라질	NNP	B-LOC
+_	_	_	O
+리우	리우	NNP	B-LOC
+_	_	_	O
+바하	바하	NNP	B-LOC
+_	_	_	I-LOC
+다	다	MAG	I-LOC
+_	_	_	I-LOC
+치주카	치주카	NNG	I-LOC
+의	의	JKG	O
+_	_	_	O
+올림픽	올림픽	NNG	B-POH
+_	_	_	O
+골프	골프	NNG	O
+_	_	_	O
+코스	코스	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+열린	열리+ㄴ	VV+ETM	O
+_	_	_	O
+남자	남자	NNG	O
+_	_	_	O
+골프	골프	NNG	O
+_	_	_	O
+1	1	SN	B-NOH
+라운드	라운드	NNG	I-NOH
+.	.	SF	O
+_	_	_	O
+역사적	역사적	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+첫	첫	MM	B-NOH
+_	_	_	I-NOH
+티샷	티샷	NNG	I-NOH
+의	의	JKG	O
+_	_	_	O
+주인공	주인공	NNG	O
+은	은	JX	O
+_	_	_	O
+브라질	브라질	NNP	B-ORG
+_	_	_	O
+출신	출신	NNG	O
+의	의	JKG	O
+_	_	_	O
+에딜손	에딜손	NNG	B-PER
+_	_	_	I-PER
+다	다	NNP	I-PER
+실바	실바+이	NNP+VCP	I-PER
+였	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 군 당국은 2010년 3월 천안함 폭침은 물론 2015년 8월 목함지뢰 도발 등도 정찰총국이 주도했다고 보고 있다.
+## 군 당국은 <2010년 3월:DAT> <천안함:POH> 폭침은 물론 <2015년 8월:DAT> 목함지뢰 도발 등도 정찰총국이 주도했다고 보고 있다.
+군	군	NNG	O
+_	_	_	O
+당국	당국	NNG	O
+은	은	JX	O
+_	_	_	O
+2010	2010	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	I-DAT
+3	3	SN	I-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+천안함	천안함	NNP	B-POH
+_	_	_	O
+폭침	폭침	NNG	O
+은	은	JX	O
+_	_	_	O
+물론	물론	MAG	O
+_	_	_	O
+2015	2015	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	I-DAT
+8	8	SN	I-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+목함지뢰	목함지뢰	NNG	O
+_	_	_	O
+도발	도발	NNG	O
+_	_	_	O
+등	등	NNB	O
+도	도	JX	O
+_	_	_	O
+정찰	정찰	NNG	O
+총국	총국	NNG	O
+이	이	JKS	O
+_	_	_	O
+주도	주도하	VV	O
+했	였	EP	O
+다고	다고	EC	O
+_	_	_	O
+보	보	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## [대선 정국/선택의 해 2차 여론조사]중도-진보, 민주 지지 압도적
+## [대선 정국/선택의 해 <2차:NOH> 여론조사]중도-진보, <민주:ORG> 지지 압도적
+[	[	SS	O
+대선	대선	NNG	O
+_	_	_	O
+정국	정국	NNG	O
+/	/	SP	O
+선택	선택	NNG	O
+의	의	JKG	O
+_	_	_	O
+해	해	NNG	O
+_	_	_	O
+2	2	SN	B-NOH
+차	차	NNB	I-NOH
+_	_	_	O
+여론	여론	NNG	O
+조사	조사	NNG	O
+]	]	SS	O
+중도	중도	NNG	O
+-	-	SO	O
+진보	진보	NNG	O
+,	,	SP	O
+_	_	_	O
+민주	민주	NNG	B-ORG
+_	_	_	O
+지지	지지	NNG	O
+_	_	_	O
+압도적	압도적	NNG	O
+
+## 10
+## 02-724-6317.
+## <02-724-6317:POH>.
+02	02	SN	B-POH
+-	-	SO	I-POH
+724	724	SN	I-POH
+-	-	SO	I-POH
+6317	6317	SN	I-POH
+.	.	SF	O
+

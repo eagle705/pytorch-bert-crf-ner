@@ -1,0 +1,502 @@
+## 1
+## 특히 이날 공연에는 진료를 통해 제일병원과 인연이 닿은 러시아 유명 성악가 쪼 마리나의 특별공연이 펼쳐져 관객들의 큰 호응을 얻었다.
+## 특히 이날 공연에는 진료를 통해 <제일병원:ORG>과 인연이 닿은 <러시아:ORG> 유명 성악가 <쪼 마리나:PER>의 특별공연이 펼쳐져 관객들의 큰 호응을 얻었다.
+특히	특히	MAG	O
+_	_	_	O
+이날	이날	NNG	O
+_	_	_	O
+공연	공연	NNG	O
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+진료	진료	NNG	O
+를	를	JKO	O
+_	_	_	O
+통해	통하+여	VV+EC	O
+_	_	_	O
+제일병원	제일병원	NNP	B-ORG
+과	과	JC	O
+_	_	_	O
+인연	인연	NNG	O
+이	이	JKS	O
+_	_	_	O
+닿	닿	VV	O
+은	은	ETM	O
+_	_	_	O
+러시아	러시아	NNP	B-ORG
+_	_	_	O
+유명	유명	NNG	O
+_	_	_	O
+성악가	성악가	NNG	O
+_	_	_	O
+쪼	쪼	NNG	B-PER
+_	_	_	I-PER
+마리나	마리나	NNP	I-PER
+의	의	JKG	O
+_	_	_	O
+특별	특별	NNG	O
+공연	공연	NNG	O
+이	이	JKS	O
+_	_	_	O
+펼쳐져	펼쳐지+어	VV+EC	O
+_	_	_	O
+관객	관객	NNG	O
+들	들	XSN	O
+의	의	JKG	O
+_	_	_	O
+큰	크+ㄴ	VA+ETM	O
+_	_	_	O
+호응	호응	NNG	O
+을	을	JKO	O
+_	_	_	O
+얻	얻	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 디스크 크기가 큰 경우 고주파로 문 원장은 “탈출된 디스크의 크기가 큰 경우는 최근 많이 시행되고 있는 디스크 고주파 수핵감압술을 시행하면 수술을 피할 수 있다”고 말했다.
+## 디스크 크기가 큰 경우 고주파로 <문:PER> 원장은 “탈출된 디스크의 크기가 큰 경우는 최근 많이 시행되고 있는 <디스크 고주파 수핵감압술:POH>을 시행하면 수술을 피할 수 있다”고 말했다.
+디스크	디스크	NNG	O
+_	_	_	O
+크기	크기	NNG	O
+가	가	JKS	O
+_	_	_	O
+큰	크+ㄴ	VA+ETM	O
+_	_	_	O
+경우	경우	NNG	O
+_	_	_	O
+고주파	고주파	NNG	O
+로	로	JKB	O
+_	_	_	O
+문	문	NNG	B-PER
+_	_	_	O
+원장	원장	NNG	O
+은	은	JX	O
+_	_	_	O
+“	“	SS	O
+탈출	탈출	NNG	O
+된	되+ㄴ	XSV+ETM	O
+_	_	_	O
+디스크	디스크	NNG	O
+의	의	JKG	O
+_	_	_	O
+크기	크기	NNG	O
+가	가	JKS	O
+_	_	_	O
+큰	크+ㄴ	VA+ETM	O
+_	_	_	O
+경우	경우	NNG	O
+는	는	JX	O
+_	_	_	O
+최근	최근	NNG	O
+_	_	_	O
+많이	많이	MAG	O
+_	_	_	O
+시행되	시행되	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+는	는	ETM	O
+_	_	_	O
+디스크	디스크	NNG	B-POH
+_	_	_	I-POH
+고주파	고주파	NNG	I-POH
+_	_	_	I-POH
+수핵	수핵	NNG	I-POH
+감압	감압	NNG	I-POH
+술	술	XSN	I-POH
+을	을	JKO	O
+_	_	_	O
+시행하	시행하	VV	O
+면	면	EC	O
+_	_	_	O
+수술	수술	NNG	O
+을	을	JKO	O
+_	_	_	O
+피할	피하+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+말	말하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 24개월 약정이 다시 시작되는 것이다.
+## <24개월:NOH> 약정이 다시 시작되는 것이다.
+24	24	SN	B-NOH
+개월	개월	NNB	I-NOH
+_	_	_	O
+약정	약정	NNG	O
+이	이	JKS	O
+_	_	_	O
+다시	다시	MAG	O
+_	_	_	O
+시작되	시작되	VV	O
+는	는	ETM	O
+_	_	_	O
+것	것	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 2016 일자리 우수 강소기업, 울트라브이(ULTRA V) 배인아 직원 인터뷰
+## <2016:DAT> <일자리 우수 강소기업:POH>, <울트라브이:ORG>(<ULTRA V:ORG>) <배인아:PER> 직원 인터뷰
+2016	2016	SN	B-DAT
+_	_	_	O
+일자리	일자리	NNG	B-POH
+_	_	_	I-POH
+우수	우수	NNG	I-POH
+_	_	_	I-POH
+강소기	강소기	NNP	I-POH
+업	업	NNG	I-POH
+,	,	SP	O
+_	_	_	O
+울트라	울트라	NNG	B-ORG
+브이	브이	NNG	I-ORG
+(	(	SS	O
+ULTRA	ULTRA	SL	B-ORG
+_	_	_	I-ORG
+V	V	SL	I-ORG
+)	)	SS	O
+_	_	_	O
+배인아	배인아	NNP	B-PER
+_	_	_	O
+직원	직원	NNG	O
+_	_	_	O
+인터뷰	인터뷰	NNG	O
+
+## 5
+## 소사벌초, 신한중, 비전고 등이 가깝다.
+## <소사벌초:ORG>, <신한중:ORG>, <비전고:ORG> 등이 가깝다.
+소사	소사	NNP	B-ORG
+벌초	벌초	NNG	I-ORG
+,	,	SP	O
+_	_	_	O
+신한중	신한중	NNP	B-ORG
+,	,	SP	O
+_	_	_	O
+비전고	비전고	NNG	B-ORG
+_	_	_	O
+등	등	NNB	O
+이	이	JKS	O
+_	_	_	O
+가깝	가깝	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## DJ-盧정부 인사들 “現 외교-안보관료 아무것도 하지말라” 논란
+## <DJ-盧정부:ORG> 인사들 “現 외교-안보관료 아무것도 하지말라” 논란
+DJ	DJ	SL	B-ORG
+-	-	SO	I-ORG
+盧	盧	SH	I-ORG
+정부	정부	NNG	I-ORG
+_	_	_	O
+인사	인사	NNG	O
+들	들	XSN	O
+_	_	_	O
+“	“	SS	O
+現	現	SH	O
+_	_	_	O
+외교	외교	NNG	O
+-	-	SO	O
+안보	안보	NNG	O
+관료	관료	NNG	O
+_	_	_	O
+아무것	아무것	NNG	O
+도	도	JX	O
+_	_	_	O
+하	하	VV	O
+지	지	EC	O
+말	말	VX	O
+라	라	EF	O
+”	”	SS	O
+_	_	_	O
+논란	논란	NNG	O
+
+## 7
+## 포스코, 창의적 인재에 직접 지원… 90개 스타트업 산파역할 맡아
+## <포스코:ORG>, 창의적 인재에 직접 지원… <90개:NOH> 스타트업 산파역할 맡아
+포스코	포스코	NNP	B-ORG
+,	,	SP	O
+_	_	_	O
+창의적	창의적	NNG	O
+_	_	_	O
+인재	인재	NNG	O
+에	에	JKB	O
+_	_	_	O
+직접	직접	MAG	O
+_	_	_	O
+지원	지원	NNG	O
+…	…	SE	O
+_	_	_	O
+90	90	SN	B-NOH
+개	개	NNB	I-NOH
+_	_	_	O
+스타트	스타트	NNG	O
+업	업	NNG	O
+_	_	_	O
+산파	산파	NNG	O
+역할	역할	NNG	O
+_	_	_	O
+맡	맡	VV	O
+아	아	EC	O
+
+## 8
+## (영화 ‘아저씨’의) 이정범 감독을 통해 드문드문 원빈 오빠의 소식을 듣고 있다”고 말했다.
+## (영화 ‘<아저씨:POH>’의) <이정범:PER> 감독을 통해 드문드문 <원빈:PER> 오빠의 소식을 듣고 있다”고 말했다.
+(	(	SS	O
+영화	영화	NNG	O
+_	_	_	O
+‘	‘	SS	O
+아저씨	아저씨	NNG	B-POH
+’	’	SS	O
+의	의	JKG	O
+)	)	SS	O
+_	_	_	O
+이정범	이정범	NNP	B-PER
+_	_	_	O
+감독	감독	NNG	O
+을	을	JKO	O
+_	_	_	O
+통해	통하+여	VV+EC	O
+_	_	_	O
+드문드문	드문드문	MAG	O
+_	_	_	O
+원빈	원빈	NNP	B-PER
+_	_	_	O
+오빠	오빠	NNG	O
+의	의	JKG	O
+_	_	_	O
+소식	소식	NNG	O
+을	을	JKO	O
+_	_	_	O
+듣	듣	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+말	말하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 김새론은 지난 2010년 개봉한 영화 ‘아저씨’에서 원빈과 호흡을 맞춰 큰 인기를 얻었다.
+## <김새론:PER>은 지난 <2010년:DAT> 개봉한 영화 ‘<아저씨:POH>’에서 <원빈:PER>과 호흡을 맞춰 큰 인기를 얻었다.
+김새론	김새론	NNG	B-PER
+은	은	JX	O
+_	_	_	O
+지난	지나+ㄴ	VV+ETM	O
+_	_	_	O
+2010	2010	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+개봉한	개봉하+ㄴ	VV+ETM	O
+_	_	_	O
+영화	영화	NNG	O
+_	_	_	O
+‘	‘	SS	O
+아저씨	아저씨	NNG	B-POH
+’	’	SS	O
+에서	에서	JKB	O
+_	_	_	O
+원빈	원빈	NNP	B-PER
+과	과	JKB	O
+_	_	_	O
+호흡	호흡	NNG	O
+을	을	JKO	O
+_	_	_	O
+맞춰	맞추+어	VV+EC	O
+_	_	_	O
+큰	크+ㄴ	VA+ETM	O
+_	_	_	O
+인기	인기	NNG	O
+를	를	JKO	O
+_	_	_	O
+얻	얻	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## '인기가요' 유승옥, 니엘과 함께 무대 올라…여전히 핫한 몸매에 男心 '흔들'‘인기가요’ 유승옥이 니엘의 ‘못된 여자’ 무대에 등장해 화제다.
+## '<인기가요:POH>' <유승옥:PER>, <니엘:PER>과 함께 무대 올라…여전히 핫한 몸매에 男心 '흔들'‘<인기가요:POH>’ <유승옥:PER>이 <니엘:PER>의 ‘<못된 여자:POH>’ 무대에 등장해 화제다.
+'	'	SS	O
+인기	인기	NNG	B-POH
+가요	가요	NNG	I-POH
+'	'	SS	O
+_	_	_	O
+유승옥	유승옥	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+니엘	니엘	NNP	B-PER
+과	과	JKB	O
+_	_	_	O
+함께	함께	MAG	O
+_	_	_	O
+무대	무대	NNG	O
+_	_	_	O
+올	오르	VV	O
+라	아	EC	O
+…	…	SE	O
+여전히	여전히	MAG	O
+_	_	_	O
+핫	핫	NNG	O
+한	한	NNP	O
+_	_	_	O
+몸매	몸매	NNG	O
+에	에	JKB	O
+_	_	_	O
+男心	男心	SH	O
+_	_	_	O
+'	'	SS	O
+흔들	흔들	MAG	O
+'	'	SS	O
+‘	‘	SS	O
+인기	인기	NNG	B-POH
+가요	가요	NNG	I-POH
+’	’	SS	O
+_	_	_	O
+유승옥	유승옥	NNP	B-PER
+이	이	JKS	O
+_	_	_	O
+니엘	니엘	NNP	B-PER
+의	의	JKG	O
+_	_	_	O
+‘	‘	SS	O
+못된	못되+ㄴ	VA+ETM	B-POH
+_	_	_	I-POH
+여자	여자	NNG	I-POH
+’	’	SS	O
+_	_	_	O
+무대	무대	NNG	O
+에	에	JKB	O
+_	_	_	O
+등장해	등장하+여	VV+EC	O
+_	_	_	O
+화제	화제+이	NNG+VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## “마이클 펠프스(미국)가 ‘수영황제’라던데, 실력만큼 정말 매너도 좋은 사람일까?”
+## “<마이클 펠프스:PER>(<미국:LOC>)가 ‘수영황제’라던데, 실력만큼 정말 매너도 좋은 사람일까?”
+“	“	SS	O
+마이클	마이클	NNP	B-PER
+_	_	_	I-PER
+펠프스	펠프스	NNP	I-PER
+(	(	SS	O
+미국	미국	NNP	B-LOC
+)	)	SS	O
+가	가	JKS	O
+_	_	_	O
+‘	‘	SS	O
+수영	수영	NNG	O
+황제	황제	NNG	O
+’	’	SS	O
+라던데	라던데	EC	O
+,	,	SP	O
+_	_	_	O
+실력	실력	NNG	O
+만큼	만큼	NNB	O
+_	_	_	O
+정말	정말	MAG	O
+_	_	_	O
+매너	매너	NNG	O
+도	도	JX	O
+_	_	_	O
+좋	좋	VA	O
+은	은	ETM	O
+_	_	_	O
+사람	사람	NNG	O
+일까	이+ㄹ까	VCP+EF	O
+?	?	SF	O
+”	”	SS	O
+
+## 12
+## 또 소미는 “언니들이 자꾸 뭘 했다.
+## 또 <소미:PER>는 “언니들이 자꾸 뭘 했다.
+또	또	MAG	O
+_	_	_	O
+소미	소미	NNP	B-PER
+는	는	JX	O
+_	_	_	O
+“	“	SS	O
+언니	언니	NNG	O
+들	들	XSN	O
+이	이	JKS	O
+_	_	_	O
+자꾸	자꾸	MAG	O
+_	_	_	O
+뭘	뭐+ㄹ	NP+JKO	O
+_	_	_	O
+했	+였	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## 예를 들어 구글 플레이스토어에서 상위 100~150위권을 한 달만 유지하면 게임 매출은 월 1억 원씩 나올 수 있다.
+## 예를 들어 구글 플레이스토어에서 상위 <100:NOH>~<150위:NOH>권을 <한 달:NOH>만 유지하면 게임 매출은 월 <1억 원:MNY>씩 나올 수 있다.
+예	예	NNG	O
+를	를	JKO	O
+_	_	_	O
+들	들	VV	O
+어	어	EC	O
+_	_	_	O
+구글	구글	NNP	O
+_	_	_	O
+플레이	플레이	NNG	O
+스토어	스토어	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+상위	상위	NNG	O
+_	_	_	O
+100	100	SN	B-NOH
+~	~	SO	O
+150	150	SN	B-NOH
+위	위	NNB	I-NOH
+권	권	XSN	O
+을	을	JKO	O
+_	_	_	O
+한	한	MM	B-NOH
+_	_	_	I-NOH
+달	달	NNB	I-NOH
+만	만	JX	O
+_	_	_	O
+유지하	유지하	VV	O
+면	면	EC	O
+_	_	_	O
+게임	게임	NNG	O
+_	_	_	O
+매출	매출	NNG	O
+은	은	JX	O
+_	_	_	O
+월	월	NNB	O
+_	_	_	O
+1	1	SN	B-MNY
+억	억	NR	I-MNY
+_	_	_	I-MNY
+원	원	NNB	I-MNY
+씩	씩	XSN	O
+_	_	_	O
+나올	나오+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+.	.	SF	O
+

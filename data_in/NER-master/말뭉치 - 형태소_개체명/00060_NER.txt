@@ -1,0 +1,466 @@
+## 1
+## 논산의 한 중학교 폐교도 그런 사례 중 하나다.
+## <논산:LOC>의 한 중학교 폐교도 그런 사례 중 하나다.
+논산	논산	NNP	B-LOC
+의	의	JKG	O
+_	_	_	O
+한	한	MM	O
+_	_	_	O
+중학교	중학교	NNG	O
+_	_	_	O
+폐교	폐교	NNG	O
+도	도	JX	O
+_	_	_	O
+그런	그런	MM	O
+_	_	_	O
+사례	사례	NNG	O
+_	_	_	O
+중	중	NNB	O
+_	_	_	O
+하나	하나+이	NNG+VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 학교를 리모델링한 뒤 공장 형태의 창업보육센터를 조성해 식품·음료 업체 9개를 입주시켰다.
+## 학교를 리모델링한 뒤 공장 형태의 창업보육센터를 조성해 식품·음료 업체 <9개:NOH>를 입주시켰다.
+학교	학교	NNG	O
+를	를	JKO	O
+_	_	_	O
+리모델링	리모델링	NNG	O
+한	한	NNG	O
+_	_	_	O
+뒤	뒤	NNG	O
+_	_	_	O
+공장	공장	NNG	O
+_	_	_	O
+형태	형태	NNG	O
+의	의	JKG	O
+_	_	_	O
+창업	창업	NNG	O
+보육	보육	NNG	O
+센터	센터	NNG	O
+를	를	JKO	O
+_	_	_	O
+조성해	조성하+여	VV+EC	O
+_	_	_	O
+식품	식품	NNG	O
+·	·	SP	O
+음료	음료	NNG	O
+_	_	_	O
+업체	업체	NNG	O
+_	_	_	O
+9	9	SN	B-NOH
+개	개	NNB	I-NOH
+를	를	JKO	O
+_	_	_	O
+입주	입주	NNG	O
+시	시키	XSV	O
+켰	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 이화여대 인근은 ‘B급 상권’으로 몰락한 지 오래다.
+## <이화여대:LOC> 인근은 ‘B급 상권’으로 몰락한 지 오래다.
+이화여대	이화여대	NNP	B-LOC
+_	_	_	O
+인근	인근	NNG	O
+은	은	JX	O
+_	_	_	O
+‘	‘	SS	O
+B	B	SL	O
+급	급	NNG	O
+_	_	_	O
+상권	상권	NNG	O
+’	’	SS	O
+으로	으로	JKB	O
+_	_	_	O
+몰락한	몰락하+ㄴ	VV+ETM	O
+_	_	_	O
+지	지	NNB	O
+_	_	_	O
+오래	오래	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 비행기 난동 여배우, 누구? 셀마 블레어가 어쩌다…
+## 비행기 난동 여배우, 누구? <셀마 블레어:PER>가 어쩌다…
+비행기	비행기	NNG	O
+_	_	_	O
+난동	난동	NNG	O
+_	_	_	O
+여배우	여배우	NNG	O
+,	,	SP	O
+_	_	_	O
+누구	누구	NP	O
+?	?	SF	O
+_	_	_	O
+셀마	셀마	NNP	B-PER
+_	_	_	I-PER
+블레어	블레어	NNP	I-PER
+가	가	JKS	O
+_	_	_	O
+어쩌다	어쩌다	MAG	O
+…	…	SE	O
+
+## 5
+## 신원을 확인한 결과 유해는 금성천-교안선 전투에 사망한 병사로 추정됐고 이규한은 기쁨을 드러내다가도 이내 이규한은 "이 분이 운이 좋다고 해야 할지 모르겠다.
+## 신원을 확인한 결과 유해는 금성천-교안선 전투에 사망한 병사로 추정됐고 <이규한:PER>은 기쁨을 드러내다가도 이내 <이규한:PER>은 "이 분이 운이 좋다고 해야 할지 모르겠다.
+신원	신원	NNG	O
+을	을	JKO	O
+_	_	_	O
+확인한	확인하+ㄴ	VV+ETM	O
+_	_	_	O
+결과	결과	NNG	O
+_	_	_	O
+유해	유해	NNG	O
+는	는	JX	O
+_	_	_	O
+금성천	금성천	NNP	O
+-	-	SO	O
+교안	교안	NNG	O
+선	선	XSN	O
+_	_	_	O
+전투	전투	NNG	O
+에	에	JKB	O
+_	_	_	O
+사망한	사망하+ㄴ	VV+ETM	O
+_	_	_	O
+병사	병사	NNG	O
+로	로	JKB	O
+_	_	_	O
+추정	추정되	VV	O
+됐	었	EP	O
+고	고	JKQ	O
+_	_	_	O
+이규한	이규한	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+기쁨	기쁨	NNG	O
+을	을	JKO	O
+_	_	_	O
+드러내	드러내	VV	O
+다가	다가	EC	O
+도	도	JX	O
+_	_	_	O
+이내	이내	MAG	O
+_	_	_	O
+이규한	이규한	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+"	"	SS	O
+이	이	MM	O
+_	_	_	O
+분	분	NNB	O
+이	이	JKS	O
+_	_	_	O
+운	운	NNG	O
+이	이	JKS	O
+_	_	_	O
+좋	좋	VA	O
+다고	다고	EC	O
+_	_	_	O
+해야	하+여야	VV+EC	O
+_	_	_	O
+할지	하+ㄹ지	VX+EC	O
+_	_	_	O
+모르	모르	VV	O
+겠	겠	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 8-7, 그대로 경기가 종료됐고 황재균은 승리의 주역이 됐다.
+## <8-7:NOH>, 그대로 경기가 종료됐고 <황재균:PER>은 승리의 주역이 됐다.
+8	8	SN	B-NOH
+-	-	SO	I-NOH
+7	7	SN	I-NOH
+,	,	SP	O
+_	_	_	O
+그대로	그대로	MAG	O
+_	_	_	O
+경기	경기	NNG	O
+가	가	JKS	O
+_	_	_	O
+종료	종료되	VV	O
+됐	었	EP	O
+고	고	JKQ	O
+_	_	_	O
+황재균	황재균	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+승리	승리	NNG	O
+의	의	JKG	O
+_	_	_	O
+주역	주역	NNG	O
+이	이	JKC	O
+_	_	_	O
+됐	+었	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 샌프란시스코는 이날 승리로 시범경기 전적 14승15패를 마크했다.
+## <샌프란시스코:ORG>는 이날 승리로 시범경기 전적 <14승:NOH><15패:NOH>를 마크했다.
+샌프란시스코	샌프란시스코	NNP	B-ORG
+는	는	JX	O
+_	_	_	O
+이날	이날	NNG	O
+_	_	_	O
+승리	승리	NNG	O
+로	로	JKB	O
+_	_	_	O
+시범	시범	NNG	O
+경기	경기	NNG	O
+_	_	_	O
+전적	전적	NNG	O
+_	_	_	O
+14	14	SN	B-NOH
+승	승	NNB	I-NOH
+15	15	SN	B-NOH
+패	패	NNB	I-NOH
+를	를	JKO	O
+_	_	_	O
+마크	마크하	VV	O
+했	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## (서울=뉴스1)
+## (<서울:LOC>=<뉴스1:ORG>)
+(	(	SS	O
+서울	서울	NNP	B-LOC
+=	=	SW	O
+뉴스	뉴스	NNG	B-ORG
+1	1	SN	I-ORG
+)	)	SS	O
+
+## 9
+## 8일 시흥시에 따르면 시민 A 씨(59)가 중동호흡기증후군(MERS·메르스) 재검사 결과 확진 판정을 받았다고 발표했다.
+## <8일:DAT> <시흥시:LOC>에 따르면 시민 <A:PER> 씨(<59:NOH>)가 <중동호흡기증후군:POH>(<MERS:POH>·<메르스:POH>) 재검사 결과 확진 판정을 받았다고 발표했다.
+8	8	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+시흥시	시흥시	NNP	B-LOC
+에	에	JKB	O
+_	_	_	O
+따르	따르	VV	O
+면	면	EC	O
+_	_	_	O
+시민	시민	NNG	O
+_	_	_	O
+A	A	SL	B-PER
+_	_	_	O
+씨	씨	NNB	O
+(	(	SS	O
+59	59	SN	B-NOH
+)	)	SS	O
+가	가	JKS	O
+_	_	_	O
+중동	중동	NNP	B-POH
+호흡기	호흡기	NNG	I-POH
+증후군	증후군	NNG	I-POH
+(	(	SS	O
+MERS	MERS	SL	B-POH
+·	·	SP	O
+메르스	메르스	NNG	B-POH
+)	)	SS	O
+_	_	_	O
+재검사	재검사	NNG	O
+_	_	_	O
+결과	결과	NNG	O
+_	_	_	O
+확진	확진	NNG	O
+_	_	_	O
+판정	판정	NNG	O
+을	을	JKO	O
+_	_	_	O
+받	받	VV	O
+았	았	EP	O
+다고	다고	EC	O
+_	_	_	O
+발표	발표하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 김주하 “뉴스, 요리한 후 맛 좋은 뉴스 드릴 것”
+## <김주하:PER> “뉴스, 요리한 후 맛 좋은 뉴스 드릴 것”
+김주하	김주하	NNP	B-PER
+_	_	_	O
+“	“	SS	O
+뉴스	뉴스	NNG	O
+,	,	SP	O
+_	_	_	O
+요리한	요리하+ㄴ	VV+ETM	O
+_	_	_	O
+후	후	NNG	O
+_	_	_	O
+맛	맛	NNG	O
+_	_	_	O
+좋	좋	VA	O
+은	은	ETM	O
+_	_	_	O
+뉴스	뉴스	NNG	O
+_	_	_	O
+드릴	드리+ㄹ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+”	”	SS	O
+
+## 11
+## 조 추첨 뒤 한국이 뛸 경기장을 둘러보고 귀국한 신 감독은 독일과의 경기에 총력을 기울이겠다고 선언했다.
+## 조 추첨 뒤 <한국:ORG>이 뛸 경기장을 둘러보고 귀국한 <신:PER> 감독은 <독일:ORG>과의 경기에 총력을 기울이겠다고 선언했다.
+조	조	NNG	O
+_	_	_	O
+추첨	추첨	NNG	O
+_	_	_	O
+뒤	뒤	NNG	O
+_	_	_	O
+한국	한국	NNP	B-ORG
+이	이	JKS	O
+_	_	_	O
+뛸	뛰+ㄹ	VV+ETM	O
+_	_	_	O
+경기장	경기장	NNG	O
+을	을	JKO	O
+_	_	_	O
+둘러보	둘러보	VV	O
+고	고	EC	O
+_	_	_	O
+귀국한	귀국하+ㄴ	VV+ETM	O
+_	_	_	O
+신	신	NNP	B-PER
+_	_	_	O
+감독	감독	NNG	O
+은	은	JX	O
+_	_	_	O
+독일	독일	NNP	B-ORG
+과	과	JKB	O
+의	의	JKG	O
+_	_	_	O
+경기	경기	NNG	O
+에	에	JKB	O
+_	_	_	O
+총력	총력	NNG	O
+을	을	JKO	O
+_	_	_	O
+기울이	기울이	VV	O
+겠	겠	EP	O
+다고	다고	EC	O
+_	_	_	O
+선언	선언하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 로드FC가 중국에서 격투기 서바이벌 프로그램인 ‘로드맨’을 촬영 중인 가운데 아오르꺼러와 이예지의 핑크빛 포즈가 화제가 되고 있다.
+## <로드FC:ORG>가 <중국:LOC>에서 격투기 서바이벌 프로그램인 ‘<로드맨:POH>’을 촬영 중인 가운데 <아오르꺼러:PER>와 <이예지:PER>의 핑크빛 포즈가 화제가 되고 있다.
+로드	로드	NNP	B-ORG
+FC	FC	SL	I-ORG
+가	가	JKS	O
+_	_	_	O
+중국	중국	NNP	B-LOC
+에서	에서	JKB	O
+_	_	_	O
+격투기	격투기	NNG	O
+_	_	_	O
+서바이벌	서바이벌	NNG	O
+_	_	_	O
+프로그램	프로그램	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+‘	‘	SS	O
+로드맨	로드맨	NNP	B-POH
+’	’	SS	O
+을	을	JKO	O
+_	_	_	O
+촬영	촬영	NNG	O
+_	_	_	O
+중	중	NNB	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+가운데	가운데	NNG	O
+_	_	_	O
+아	아	XSN	B-PER
+오르	오르	VV	I-PER
+꺼	꺼우르	VV	I-PER
+러	어+오	EC+VV	I-PER
+와	아	EC	O
+_	_	_	O
+이예지	이예지	NNP	B-PER
+의	의	JKG	O
+_	_	_	O
+핑크	핑크	NNG	O
+빛	빛	NNG	O
+_	_	_	O
+포즈	포즈	NNG	O
+가	가	JKS	O
+_	_	_	O
+화제	화제	NNG	O
+가	가	JKC	O
+_	_	_	O
+되	되	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## ‘로드맨’ 제작진이 공개한 화제의 사진 중의 하나는 ‘케이지의 악동’ 아오르꺼러와 이예지가 나란히 화단에서 포즈를 취했다.
+## ‘<로드맨:POH>’ 제작진이 공개한 화제의 사진 중의 하나는 ‘케이지의 악동’ <아오르꺼러:PER>와 <이예지:PER>가 나란히 화단에서 포즈를 취했다.
+‘	‘	SS	O
+로드맨	로드맨	NNP	B-POH
+’	’	SS	O
+_	_	_	O
+제작진	제작진	NNG	O
+이	이	JKS	O
+_	_	_	O
+공개한	공개하+ㄴ	VV+ETM	O
+_	_	_	O
+화제	화제	NNG	O
+의	의	JKG	O
+_	_	_	O
+사진	사진	NNG	O
+_	_	_	O
+중	중	NNB	O
+의	의	JKG	O
+_	_	_	O
+하나	하나	NNG	O
+는	는	JX	O
+_	_	_	O
+‘	‘	SS	O
+케이지	케이지	NNP	O
+의	의	JKG	O
+_	_	_	O
+악동	악동	NNG	O
+’	’	SS	O
+_	_	_	O
+아	아	XSN	B-PER
+오르	오르	VV	I-PER
+꺼	꺼우르	VV	I-PER
+러	어+오	EC+VV	I-PER
+와	아	EC	O
+_	_	_	O
+이예지	이예지	NNP	B-PER
+가	가	JKS	O
+_	_	_	O
+나란히	나란히	MAG	O
+_	_	_	O
+화단	화단	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+포즈	포즈	NNG	O
+를	를	JKO	O
+_	_	_	O
+취	취하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+

@@ -1,0 +1,479 @@
+## 1
+## 오후 1시에 열린 14일 SK전부터 대략 1500여 명의 팬들이 사직구장을 찾았다.
+## <오후 1시:TIM>에 열린 <14일:DAT> <SK전:POH>부터 대략 <1500여 명:NOH>의 팬들이 <사직구장:LOC>을 찾았다.
+오후	오후	NNG	B-TIM
+_	_	_	I-TIM
+1	1	SN	I-TIM
+시	시	NNB	I-TIM
+에	에	JKB	O
+_	_	_	O
+열린	열리+ㄴ	VV+ETM	O
+_	_	_	O
+14	14	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+SK	SK	SL	B-POH
+전	전	NNG	I-POH
+부터	부터	JX	O
+_	_	_	O
+대략	대략	MAG	O
+_	_	_	O
+1500	1500	SN	B-NOH
+여	여	XSN	I-NOH
+_	_	_	I-NOH
+명	명	NNB	I-NOH
+의	의	JKG	O
+_	_	_	O
+팬	팬	NNG	O
+들	들	XSN	O
+이	이	JKS	O
+_	_	_	O
+사직구장	사직구장	NNP	B-LOC
+을	을	JKO	O
+_	_	_	O
+찾	찾	VV	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 한 번이라도 방콕을 다녀온 사람이라면 그 익숙하고 편안한 촌스러움에 다시 방콕여행을 온 듯 착각할 법 하다.
+## <한 번:NOH>이라도 <방콕:LOC>을 다녀온 사람이라면 그 익숙하고 편안한 촌스러움에 다시 <방콕:LOC>여행을 온 듯 착각할 법 하다.
+한	한	MM	B-NOH
+_	_	_	I-NOH
+번	번	NNB	I-NOH
+이라도	이라도	JX	O
+_	_	_	O
+방콕	방콕	NNP	B-LOC
+을	을	JKO	O
+_	_	_	O
+다녀온	다녀오+ㄴ	VV+ETM	O
+_	_	_	O
+사람	사람	NNG	O
+이	이	VCP	O
+라면	라면	EC	O
+_	_	_	O
+그	그	MM	O
+_	_	_	O
+익숙하	익숙하	VA	O
+고	고	EC	O
+_	_	_	O
+편안한	편안하+ㄴ	VA+ETM	O
+_	_	_	O
+촌스러움	촌스럽+ㅁ	VA+ETN	O
+에	에	JKB	O
+_	_	_	O
+다시	다시	MAG	O
+_	_	_	O
+방콕	방콕	NNP	B-LOC
+여행	여행	NNG	O
+을	을	JKO	O
+_	_	_	O
+온	오+ㄴ	VV+ETM	O
+_	_	_	O
+듯	듯	NNB	O
+_	_	_	O
+착각할	착각하+ㄹ	VV+ETM	O
+_	_	_	O
+법	법	NNB	O
+_	_	_	O
+하	하	VV	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 신동와인은 FTA 발효 직후인 지난달 중순 ‘로즈마운트’와 ‘토브렉’의 소비자가격을 13∼15% 인하했다.
+## <신동와인:ORG>은 FTA 발효 직후인 지난달 중순 ‘<로즈마운트:POH>’와 ‘<토브렉:POH>’의 소비자가격을 <13:PNT>∼<15%:PNT> 인하했다.
+신동	신동	NNG	B-ORG
+와인	와인	NNG	I-ORG
+은	은	JX	O
+_	_	_	O
+FTA	FTA	SL	O
+_	_	_	O
+발효	발효	NNG	O
+_	_	_	O
+직후	직후	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+지난달	지난달	NNG	O
+_	_	_	O
+중순	중순	NNG	O
+_	_	_	O
+‘	‘	SS	O
+로즈	로즈	NNG	B-POH
+마운트	마운트	NNG	I-POH
+’	’	SS	O
+와	와	JC	O
+_	_	_	O
+‘	‘	SS	O
+토브렉	토브렉	NNG	B-POH
+’	’	SS	O
+의	의	JKG	O
+_	_	_	O
+소비자	소비자	NNG	O
+가격	가격	NNG	O
+을	을	JKO	O
+_	_	_	O
+13	13	SN	B-PNT
+∼	∼	SO	O
+15	15	SN	B-PNT
+%	%	SW	I-PNT
+_	_	_	O
+인하	인하하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## ‘아벨 콰르텟’ ‘노부스 콰르텟’ 공연
+## ‘<아벨 콰르텟:ORG>’ ‘<노부스 콰르텟:ORG>’ 공연
+‘	‘	SS	O
+아벨	아벨	NNP	B-ORG
+_	_	_	I-ORG
+콰르텟	콰르텟	NNG	I-ORG
+’	’	SS	O
+_	_	_	O
+‘	‘	SS	O
+노부스	노부스	NNP	B-ORG
+_	_	_	I-ORG
+콰르텟	콰르텟	NNG	I-ORG
+’	’	SS	O
+_	_	_	O
+공연	공연	NNG	O
+
+## 5
+## 도라지 위스키가 국산 양주 상표 이름이었기 때문이다.
+## <도라지 위스키:POH>가 국산 양주 상표 이름이었기 때문이다.
+도라지	도라지	NNG	B-POH
+_	_	_	I-POH
+위스키	위스키	NNG	I-POH
+가	가	JKS	O
+_	_	_	O
+국산	국산	NNG	O
+_	_	_	O
+양주	양주	NNG	O
+_	_	_	O
+상표	상표	NNG	O
+_	_	_	O
+이름	이름	NNG	O
+이	이	VCP	O
+었	었	EP	O
+기	기	ETN	O
+_	_	_	O
+때문	때문	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 김 씨는 특수강간 혐의로 이미 2차례에 걸쳐 10년간 복역한 바 있다.
+## <김:PER> 씨는 특수강간 혐의로 이미 <2차례:NOH>에 걸쳐 <10년간:DUR> 복역한 바 있다.
+김	김	NNP	B-PER
+_	_	_	O
+씨	씨	NNB	O
+는	는	JX	O
+_	_	_	O
+특수	특수	NNG	O
+강간	강간	NNG	O
+_	_	_	O
+혐의	혐의	NNG	O
+로	로	JKB	O
+_	_	_	O
+이미	이미	MAG	O
+_	_	_	O
+2	2	SN	B-NOH
+차례	차례	NNG	I-NOH
+에	에	JKB	O
+_	_	_	O
+걸쳐	걸치+어	VV+EC	O
+_	_	_	O
+10	10	SN	B-DUR
+년	년	NNB	I-DUR
+간	간	XSN	I-DUR
+_	_	_	O
+복역한	복역하+ㄴ	VV+ETM	O
+_	_	_	O
+바	바	NNB	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 산업통상자원부가 1일 발표한 ‘수출입 동향’에 따르면 8월 수출액은 393억3000만 달러(약 46조 원)로 전년 동월 대비 14.7% 감소했다.
+## <산업통상자원부:ORG>가 <1일:DAT> 발표한 ‘수출입 동향’에 따르면 <8월:DAT> 수출액은 <393억3000만 달러:MNY>(약 <46조 원:MNY>)로 전년 동월 대비 <14.7%:PNT> 감소했다.
+산업	산업	NNG	B-ORG
+통상	통상	NNG	I-ORG
+자원	자원	NNG	I-ORG
+부	부	XSN	I-ORG
+가	가	JKS	O
+_	_	_	O
+1	1	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+발표한	발표하+ㄴ	VV+ETM	O
+_	_	_	O
+‘	‘	SS	O
+수출입	수출입	NNG	O
+_	_	_	O
+동향	동향	NNG	O
+’	’	SS	O
+에	에	JKB	O
+_	_	_	O
+따르	따르	VV	O
+면	면	EC	O
+_	_	_	O
+8	8	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+수출액	수출액	NNG	O
+은	은	JX	O
+_	_	_	O
+393	393	SN	B-MNY
+억	억	NR	I-MNY
+3000	3000	SN	I-MNY
+만	만	NR	I-MNY
+_	_	_	I-MNY
+달러	달러	NNB	I-MNY
+(	(	SS	O
+약	약	MM	O
+_	_	_	O
+46	46	SN	B-MNY
+조	조	NR	I-MNY
+_	_	_	I-MNY
+원	원	NNB	I-MNY
+)	)	SS	O
+로	로	JKB	O
+_	_	_	O
+전년	전년	NNG	O
+_	_	_	O
+동월	동월	NNG	O
+_	_	_	O
+대비	대비	NNG	O
+_	_	_	O
+14.7	14.7	SN	B-PNT
+%	%	SW	I-PNT
+_	_	_	O
+감소	감소하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## [안영배 전문기자의 풍수와 삶]‘뻥’ 풍수는 이제 그만!
+## [<안영배 전문기자의 풍수와 삶:POH>]‘뻥’ 풍수는 이제 그만!
+[	[	SS	O
+안영배	안영배	NNP	B-POH
+_	_	_	I-POH
+전문	전문	NNG	I-POH
+기자	기자	NNG	I-POH
+의	의	JKG	I-POH
+_	_	_	I-POH
+풍수	풍수	NNG	I-POH
+와	와	JC	I-POH
+_	_	_	I-POH
+삶	삶	NNG	I-POH
+]	]	SS	O
+‘	‘	SS	O
+뻥	뻥	MAG	O
+’	’	SS	O
+_	_	_	O
+풍수	풍수	NNG	O
+는	는	JX	O
+_	_	_	O
+이제	이제	MAG	O
+_	_	_	O
+그만	그만	MAG	O
+!	!	SF	O
+
+## 9
+## 다행히 수치로 나타난 공격력에선 한국이 스페인을 앞선다.
+## 다행히 수치로 나타난 공격력에선 <한국:ORG>이 <스페인:ORG>을 앞선다.
+다행히	다행히	MAG	O
+_	_	_	O
+수치	수치	NNG	O
+로	로	JKB	O
+_	_	_	O
+나타난	나타나+ㄴ	VV+ETM	O
+_	_	_	O
+공격력	공격력	NNG	O
+에선	에서+ㄴ	JKB+JX	O
+_	_	_	O
+한국	한국	NNP	B-ORG
+이	이	JKS	O
+_	_	_	O
+스페인	스페인	NNP	B-ORG
+을	을	JKO	O
+_	_	_	O
+앞선다	앞서+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 10
+## 가전사업을 하는 HA(홈어플라이언스) 사업본부의 매출액과 영업이익은 2조8803억 원과 850억 원이었다.
+## 가전사업을 하는 <HA(홈어플라이언스) 사업본부:ORG>의 매출액과 영업이익은 <2조8803억 원:MNY>과 <850억 원:MNY>이었다.
+가전	가전	NNG	O
+사업	사업	NNG	O
+을	을	JKO	O
+_	_	_	O
+하	하	VV	O
+는	는	ETM	O
+_	_	_	O
+HA	HA	SL	B-ORG
+(	(	SS	I-ORG
+홈	홈	NNG	I-ORG
+어	어	XSN	I-ORG
+플	플	NNG	I-ORG
+라이언스	라이언스	NNG	I-ORG
+)	)	SS	I-ORG
+_	_	_	I-ORG
+사업	사업	NNG	I-ORG
+본부	본부	NNG	I-ORG
+의	의	JKG	O
+_	_	_	O
+매출액	매출액	NNG	O
+과	과	JC	O
+_	_	_	O
+영업	영업	NNG	O
+이익	이익	NNG	O
+은	은	JX	O
+_	_	_	O
+2	2	SN	B-MNY
+조	조	NNG	I-MNY
+8803	8803	SN	I-MNY
+억	억	NR	I-MNY
+_	_	_	I-MNY
+원	원	NNB	I-MNY
+과	과	JC	O
+_	_	_	O
+850	850	SN	B-MNY
+억	억	NR	I-MNY
+_	_	_	I-MNY
+원	원	NNB	I-MNY
+이	이	VCP	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 35세 이상 육상 동호인이 참가해 2년마다 열린다.
+## <35:NOH>세 이상 육상 동호인이 참가해 <2년:DUR>마다 열린다.
+35	35	SN	B-NOH
+세	세	NNB	O
+_	_	_	O
+이상	이상	NNG	O
+_	_	_	O
+육상	육상	NNG	O
+_	_	_	O
+동호인	동호인	NNG	O
+이	이	JKS	O
+_	_	_	O
+참가	참가	NNG	O
+해	해	NNG	O
+_	_	_	O
+2	2	SN	B-DUR
+년	년	NNB	I-DUR
+마다	마다	JX	O
+_	_	_	O
+열린다	열리+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 12
+## “네이버에서 일하다가 온 친구도 있고, 막노동을 하다가 들어온 직원도 있다.
+## “<네이버:ORG>에서 일하다가 온 친구도 있고, 막노동을 하다가 들어온 직원도 있다.
+“	“	SS	O
+네이버	네이버	NNP	B-ORG
+에서	에서	JKB	O
+_	_	_	O
+일하	일하	VV	O
+다가	다가	EC	O
+_	_	_	O
+온	오+ㄴ	VV+ETM	O
+_	_	_	O
+친구	친구	NNG	O
+도	도	JX	O
+_	_	_	O
+있	있	VA	O
+고	고	EC	O
+,	,	SP	O
+_	_	_	O
+막노동	막노동	NNG	O
+을	을	JKO	O
+_	_	_	O
+하	하	VV	O
+다가	다가	EC	O
+_	_	_	O
+들어온	들어오+ㄴ	VV+ETM	O
+_	_	_	O
+직원	직원	NNG	O
+도	도	JX	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## 일본 교도통신은 15일 체포 당시 '도안 티 흐엉' 이름의 베트남 여권을 소지한 여성이 사건 수일 전부터 공항 부근의 호텔을 혼자 전전했다고 16일 보도했다.
+## <일본 교도통신:ORG>은 <15일:DAT> 체포 당시 '<도안 티 흐엉:PER>' 이름의 <베트남:LOC> 여권을 소지한 여성이 사건 수일 전부터 공항 부근의 호텔을 혼자 전전했다고 <16일:DAT> 보도했다.
+일본	일본	NNP	B-ORG
+_	_	_	I-ORG
+교도통신	교도통신	NNP	I-ORG
+은	은	JX	O
+_	_	_	O
+15	15	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+체포	체포	NNG	O
+_	_	_	O
+당시	당시	NNG	O
+_	_	_	O
+'	'	SS	O
+도안	도안	NNG	B-PER
+_	_	_	I-PER
+티	티	NNG	I-PER
+_	_	_	I-PER
+흐	흐	NNG	I-PER
+엉	엉	NNG	I-PER
+'	'	SS	O
+_	_	_	O
+이름	이름	NNG	O
+의	의	JKG	O
+_	_	_	O
+베트남	베트남	NNP	B-LOC
+_	_	_	O
+여권	여권	NNG	O
+을	을	JKO	O
+_	_	_	O
+소지한	소지하+ㄴ	VV+ETM	O
+_	_	_	O
+여성	여성	NNG	O
+이	이	JKS	O
+_	_	_	O
+사건	사건	NNG	O
+_	_	_	O
+수일	수일	NNG	O
+_	_	_	O
+전	전	NNG	O
+부터	부터	JX	O
+_	_	_	O
+공항	공항	NNG	O
+_	_	_	O
+부근	부근	NNG	O
+의	의	JKG	O
+_	_	_	O
+호텔	호텔	NNG	O
+을	을	JKO	O
+_	_	_	O
+혼자	혼자	NNG	O
+_	_	_	O
+전전	전전하	VV	O
+했	였	EP	O
+다고	다고	EC	O
+_	_	_	O
+16	16	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+보도	보도하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+

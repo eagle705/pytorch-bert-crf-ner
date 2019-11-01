@@ -1,0 +1,376 @@
+## 1
+## 그리고 LA 다저스타디움에서 열린 4강전에서 대표팀은 베네수엘라를 10-2로 대파하고, 김인식 감독의 ‘위대한 도전’은 여정의 정점을 찍었다.
+## 그리고 <LA 다저스타디움:LOC>에서 열린 <4강:NOH>전에서 대표팀은 <베네수엘라:ORG>를 <10-2:NOH>로 대파하고, <김인식:PER> 감독의 ‘위대한 도전’은 여정의 정점을 찍었다.
+그리고	그리고	MAJ	O
+_	_	_	O
+LA	LA	SL	B-LOC
+_	_	_	I-LOC
+다저스타디움	다저스타디움	NNP	I-LOC
+에서	에서	JKB	O
+_	_	_	O
+열린	열리+ㄴ	VV+ETM	O
+_	_	_	O
+4	4	SN	B-NOH
+강	강	NNG	I-NOH
+전	전	XSN	O
+에서	에서	JKB	O
+_	_	_	O
+대표	대표	NNG	O
+팀	팀	NNG	O
+은	은	JX	O
+_	_	_	O
+베네수엘라	베네수엘라	NNP	B-ORG
+를	를	JKO	O
+_	_	_	O
+10	10	SN	B-NOH
+-	-	SO	I-NOH
+2	2	SN	I-NOH
+로	로	JKB	O
+_	_	_	O
+대파하	대파하	VV	O
+고	고	EC	O
+,	,	SP	O
+_	_	_	O
+김인식	김인식	NNP	B-PER
+_	_	_	O
+감독	감독	NNG	O
+의	의	JKG	O
+_	_	_	O
+‘	‘	SS	O
+위대한	위대하+ㄴ	VA+ETM	O
+_	_	_	O
+도전	도전	NNG	O
+’	’	SS	O
+은	은	JX	O
+_	_	_	O
+여정	여정	NNG	O
+의	의	JKG	O
+_	_	_	O
+정점	정점	NNG	O
+을	을	JKO	O
+_	_	_	O
+찍	찍	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 두 백신은 한국에서도 널리 접종되고 있다.
+## <두:NOH> 백신은 <한국:LOC>에서도 널리 접종되고 있다.
+두	두	MM	B-NOH
+_	_	_	O
+백신	백신	NNG	O
+은	은	JX	O
+_	_	_	O
+한국	한국	NNP	B-LOC
+에서	에서	JKB	O
+도	도	JX	O
+_	_	_	O
+널리	널리	MAG	O
+_	_	_	O
+접종	접종	NNG	O
+되	되	XSV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 한국인에게 인기가 많은 여행지인 일본은 출발하기 약 넉 달 전에 예매해야 항공권이 가장 쌌다.
+## 한국인에게 인기가 많은 여행지인 <일본:LOC>은 출발하기 약 <넉 달:NOH> 전에 예매해야 항공권이 가장 쌌다.
+한국인	한국인	NNG	O
+에게	에게	JKB	O
+_	_	_	O
+인기	인기	NNG	O
+가	가	JKS	O
+_	_	_	O
+많	많	VA	O
+은	은	ETM	O
+_	_	_	O
+여행지	여행지	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+일본	일본	NNP	B-LOC
+은	은	JX	O
+_	_	_	O
+출발하	출발하	VV	O
+기	기	ETN	O
+_	_	_	O
+약	약	MM	O
+_	_	_	O
+넉	넉	MM	B-NOH
+_	_	_	I-NOH
+달	달	NNB	I-NOH
+_	_	_	O
+전	전	NNG	O
+에	에	JKB	O
+_	_	_	O
+예매해야	예매하+여야	VV+EC	O
+_	_	_	O
+항공권	항공권	NNG	O
+이	이	JKS	O
+_	_	_	O
+가장	가장	MAG	O
+_	_	_	O
+쌌	싸+았	VA+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 경찰조사결과 이씨는 무면허자이면서 운전당시 혈중알콜농도 0.26%의 음주상태로, 과속으로 차를 몰았던 것으로 드러났다.
+## 경찰조사결과 <이:PER>씨는 무면허자이면서 운전당시 혈중알콜농도 <0.26%:PNT>의 음주상태로, 과속으로 차를 몰았던 것으로 드러났다.
+경찰	경찰	NNG	O
+조사	조사	NNG	O
+결과	결과	NNG	O
+_	_	_	O
+이	이	NNP	B-PER
+씨	씨	NNB	O
+는	는	JX	O
+_	_	_	O
+무면허	무면허	NNG	O
+자	자	XSN	O
+이	이	VCP	O
+면서	면서	EC	O
+_	_	_	O
+운전	운전	NNG	O
+당시	당시	NNG	O
+_	_	_	O
+혈중	혈중	NNG	O
+알콜	알콜	NNG	O
+농도	농도	NNG	O
+_	_	_	O
+0.26	0.26	SN	B-PNT
+%	%	SW	I-PNT
+의	의	JKG	O
+_	_	_	O
+음주	음주	NNG	O
+상태	상태	NNG	O
+로	로	JKB	O
+,	,	SP	O
+_	_	_	O
+과속	과속	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+차	차	NNG	O
+를	를	JKO	O
+_	_	_	O
+몰	몰	VV	O
+았	았	EP	O
+던	던	ETM	O
+_	_	_	O
+것	것	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+드러났	드러나+았	VV+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## “1호차 불합격입니다.
+## “<1호차:NOH> 불합격입니다.
+“	“	SS	O
+1	1	SN	B-NOH
+호	호	NNB	I-NOH
+차	차	NNG	I-NOH
+_	_	_	O
+불합격	불합격	NNG	O
+입니다	이+ㅂ니다	VCP+EF	O
+.	.	SF	O
+
+## 6
+## ‘무한 긍정’ 또한 김세영을 강하게 만든다.
+## ‘무한 긍정’ 또한 <김세영:PER>을 강하게 만든다.
+‘	‘	SS	O
+무한	무한	NNG	O
+_	_	_	O
+긍정	긍정	NNG	O
+’	’	SS	O
+_	_	_	O
+또한	또한	MAG	O
+_	_	_	O
+김세영	김세영	NNP	B-PER
+을	을	JKO	O
+_	_	_	O
+강하	강하	VA	O
+게	게	EC	O
+_	_	_	O
+만든다	만들+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 7
+## 터무니 없는 소설”이라며 “지난 2월 내 생일을 기념해 가족들과 함께 미국으로 여행을 떠났다.
+## 터무니 없는 소설”이라며 “지난 <2월:DAT> 내 생일을 기념해 가족들과 함께 <미국:LOC>으로 여행을 떠났다.
+터무니	터무니	NNG	O
+_	_	_	O
+없	없	VA	O
+는	는	ETM	O
+_	_	_	O
+소설	소설	NNG	O
+”	”	SS	O
+이	이	VCP	O
+라며	라며	EC	O
+_	_	_	O
+“	“	SS	O
+지난	지나+ㄴ	VV+ETM	O
+_	_	_	O
+2	2	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+내	나+의	NP+JKG	O
+_	_	_	O
+생일	생일	NNG	O
+을	을	JKO	O
+_	_	_	O
+기념해	기념하+여	VV+EC	O
+_	_	_	O
+가족	가족	NNG	O
+들	들	XSN	O
+과	과	JKB	O
+_	_	_	O
+함께	함께	MAG	O
+_	_	_	O
+미국	미국	NNP	B-LOC
+으로	으로	JKB	O
+_	_	_	O
+여행	여행	NNG	O
+을	을	JKO	O
+_	_	_	O
+떠났	떠나+았	VV+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## [Bio 의약]1000조 원 세계 제약마켓을 타깃으로… R&D 이젠 ‘결실의 계절’
+## [Bio 의약]<1000조 원:MNY> 세계 제약마켓을 타깃으로… R&D 이젠 ‘결실의 계절’
+[	[	SS	O
+Bio	Bio	SL	O
+_	_	_	O
+의약	의약	NNG	O
+]	]	SS	O
+1000	1000	SN	B-MNY
+조	조	NR	I-MNY
+_	_	_	I-MNY
+원	원	NNB	I-MNY
+_	_	_	O
+세계	세계	NNG	O
+_	_	_	O
+제약	제약	NNG	O
+마켓	마켓	NNG	O
+을	을	JKO	O
+_	_	_	O
+타깃	타깃	NNG	O
+으로	으로	JKB	O
+…	…	SE	O
+_	_	_	O
+R	R	SL	O
+&	&	SW	O
+D	D	SL	O
+_	_	_	O
+이젠	이제+ㄴ	NNG+JX	O
+_	_	_	O
+‘	‘	SS	O
+결실	결실	NNG	O
+의	의	JKG	O
+_	_	_	O
+계절	계절	NNG	O
+’	’	SS	O
+
+## 9
+## 배우 김무열-윤승아 커플이 결혼식을 올린 가운데 과거 공개한 이탈리아 여행 중 근황 사진이 다시금 화제다.
+## 배우 <김무열:PER>-<윤승아:PER> 커플이 결혼식을 올린 가운데 과거 공개한 <이탈리아:LOC> 여행 중 근황 사진이 다시금 화제다.
+배우	배우	NNG	O
+_	_	_	O
+김무열	김무열	NNP	B-PER
+-	-	SO	O
+윤승아	윤승아	NNP	B-PER
+_	_	_	O
+커플	커플	NNG	O
+이	이	JKS	O
+_	_	_	O
+결혼식	결혼식	NNG	O
+을	을	JKO	O
+_	_	_	O
+올린	올리+ㄴ	VV+ETM	O
+_	_	_	O
+가운데	가운데	NNG	O
+_	_	_	O
+과거	과거	NNG	O
+_	_	_	O
+공개한	공개하+ㄴ	VV+ETM	O
+_	_	_	O
+이탈리아	이탈리아	NNP	B-LOC
+_	_	_	O
+여행	여행	NNG	O
+_	_	_	O
+중	중	NNB	O
+_	_	_	O
+근황	근황	NNG	O
+_	_	_	O
+사진	사진	NNG	O
+이	이	JKS	O
+_	_	_	O
+다시금	다시금	MAG	O
+_	_	_	O
+화제	화제+이	NNG+VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 이를 통해 자전거 운송부담률을 26%(우리나라는 2.5%)까지 높였다.
+## 이를 통해 자전거 운송부담률을 <26%:PNT>(우리나라는 <2.5%:PNT>)까지 높였다.
+이	이	NP	O
+를	를	JKO	O
+_	_	_	O
+통해	통하+여	VV+EC	O
+_	_	_	O
+자전거	자전거	NNG	O
+_	_	_	O
+운송	운송	NNG	O
+부담	부담	NNG	O
+률	률	XSN	O
+을	을	JKO	O
+_	_	_	O
+26	26	SN	B-PNT
+%	%	SW	I-PNT
+(	(	SS	O
+우리나라	우리나라	NNG	O
+는	는	JX	O
+_	_	_	O
+2.5	2.5	SN	B-PNT
+%	%	SW	I-PNT
+)	)	SS	O
+까지	까지	JX	O
+_	_	_	O
+높	높이	VV	O
+였	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 싱가포르 경제개발청에서 베이징의 798 예술구를 모델로 조성했다.
+## <싱가포르 경제개발청:ORG>에서 <베이징:LOC>의 <798 예술구:LOC>를 모델로 조성했다.
+싱가포르	싱가포르	NNP	B-ORG
+_	_	_	I-ORG
+경제	경제	NNG	I-ORG
+개발	개발	NNG	I-ORG
+청	청	XSN	I-ORG
+에서	에서	JKB	O
+_	_	_	O
+베이징	베이징	NNP	B-LOC
+의	의	JKG	O
+_	_	_	O
+798	798	SN	B-LOC
+_	_	_	I-LOC
+예술	예술	NNG	I-LOC
+구	구	NNG	I-LOC
+를	를	JKO	O
+_	_	_	O
+모델	모델	NNG	O
+로	로	JKB	O
+_	_	_	O
+조성	조성하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+

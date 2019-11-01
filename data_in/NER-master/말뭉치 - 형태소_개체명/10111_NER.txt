@@ -1,0 +1,555 @@
+## 1
+## KB스타즈의 최고참 변연하(14득점, 5어시스트)는 4개의 3점슛을 터뜨리며 역대 PO 통산 최다
+## <KB스타즈:ORG>의 최고참 <변연하:PER>(<14득점:NOH>, <5어시스트:NOH>)는 <4개:NOH>의 <3점:NOH>슛을 터뜨리며 역대 PO 통산 최다
+KB	KB	SL	B-ORG
+스타즈	스타즈	NNP	I-ORG
+의	의	JKG	O
+_	_	_	O
+최고참	최고참	NNG	O
+_	_	_	O
+변연하	변연하	NNP	B-PER
+(	(	SS	O
+14	14	SN	B-NOH
+득점	득점	NNG	I-NOH
+,	,	SP	O
+_	_	_	O
+5	5	SN	B-NOH
+어시스트	어시스트	NNG	I-NOH
+)	)	SS	O
+는	는	JX	O
+_	_	_	O
+4	4	SN	B-NOH
+개	개	NNB	I-NOH
+의	의	JKG	O
+_	_	_	O
+3	3	SN	B-NOH
+점	점	NNB	I-NOH
+슛	슛	NNG	O
+을	을	JKO	O
+_	_	_	O
+터뜨리	터뜨리	VV	O
+며	며	EC	O
+_	_	_	O
+역대	역대	NNG	O
+_	_	_	O
+PO	PO	SL	O
+_	_	_	O
+통산	통산	NNG	O
+_	_	_	O
+최다	최다	NNG	O
+
+## 2
+## 박지원 국민의당 대표가 더불어민주당 대선후보로 확정된 문재인 전 대표를 축하했다.
+## <박지원:PER> <국민의당:ORG> 대표가 <더불어민주당:ORG> 대선후보로 확정된 <문재인:PER> 전 대표를 축하했다.
+박지원	박지원	NNP	B-PER
+_	_	_	O
+국민	국민	NNG	B-ORG
+의당	의당	MAG	I-ORG
+_	_	_	O
+대표	대표	NNG	O
+가	가	JKS	O
+_	_	_	O
+더불	더불	VV	B-ORG
+어	어	EC	I-ORG
+민주당	민주당	NNP	I-ORG
+_	_	_	O
+대선	대선	NNG	O
+후보	후보	NNG	O
+로	로	JKB	O
+_	_	_	O
+확정된	확정되+ㄴ	VV+ETM	O
+_	_	_	O
+문재인	문재인	NNP	B-PER
+_	_	_	O
+전	전	MM	O
+_	_	_	O
+대표	대표	NNG	O
+를	를	JKO	O
+_	_	_	O
+축하	축하하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 박 대표는 3일 자신의 트위터를 통해 "문재인 후보의 확저를 진심으로 축하한다"고 글을 남겼다.
+## <박:PER> 대표는 <3일:DAT> 자신의 <트위터:POH>를 통해 "<문재인:PER> 후보의 확저를 진심으로 축하한다"고 글을 남겼다.
+박	박	NNP	B-PER
+_	_	_	O
+대표	대표	NNG	O
+는	는	JX	O
+_	_	_	O
+3	3	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+자신	자신	NNG	O
+의	의	JKG	O
+_	_	_	O
+트위터	트위터	NNP	B-POH
+를	를	JKO	O
+_	_	_	O
+통해	통하+여	VV+EC	O
+_	_	_	O
+"	"	SS	O
+문재인	문재인	NNP	B-PER
+_	_	_	O
+후보	후보	NNG	O
+의	의	JKG	O
+_	_	_	O
+확	확	MAG	O
+저	저	NP	O
+를	를	JKO	O
+_	_	_	O
+진심	진심	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+축하한다	축하하+ㄴ다	VV+EF	O
+"	"	SS	O
+고	고	JKQ	O
+_	_	_	O
+글	글	NNG	O
+을	을	JKO	O
+_	_	_	O
+남	남기	VV	O
+겼	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 부천시는 이를 위해 전문보안업체인 KT텔레캅과 업무협약을 맺었다.
+## <부천시:ORG>는 이를 위해 전문보안업체인 <KT텔레캅:ORG>과 업무협약을 맺었다.
+부천시	부천시	NNP	B-ORG
+는	는	JX	O
+_	_	_	O
+이	이	NP	O
+를	를	JKO	O
+_	_	_	O
+위해	위하+여	VV+EC	O
+_	_	_	O
+전문	전문	NNG	O
+보안	보안	NNG	O
+업체	업체	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+KT	KT	SL	B-ORG
+텔레캅	텔레캅	NNP	I-ORG
+과	과	JC	O
+_	_	_	O
+업무	업무	NNG	O
+협약	협약	NNG	O
+을	을	JKO	O
+_	_	_	O
+맺	맺	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 김현 변호사(61·사법연수원 17기·사진)가 제49대 대한변호사협회 회장으로 취임했다.
+## <김현:PER> 변호사(<61:NOH>·<사법연수원:ORG> <17기:NOH>·사진)가 <제49대:NOH> <대한변호사협회:ORG> 회장으로 취임했다.
+김현	김현	NNP	B-PER
+_	_	_	O
+변호사	변호사	NNG	O
+(	(	SS	O
+61	61	SN	B-NOH
+·	·	SP	O
+사법연수원	사법연수원	NNG	B-ORG
+_	_	_	O
+17	17	SN	B-NOH
+기	기	NNG	I-NOH
+·	·	SP	O
+사진	사진	NNG	O
+)	)	SS	O
+가	가	JKS	O
+_	_	_	O
+제	제	XPN	B-NOH
+49	49	SN	I-NOH
+대	대	NNB	I-NOH
+_	_	_	O
+대한	대한	NNP	B-ORG
+변호사	변호사	NNG	I-ORG
+협회	협회	NNG	I-ORG
+_	_	_	O
+회장	회장	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+취임	취임하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 박희수는 “경기 막판 타이트한 상황에선 한 방만 맞아도 역전될 수 있다.
+## <박희수:PER>는 “경기 막판 타이트한 상황에선 <한 방:NOH>만 맞아도 역전될 수 있다.
+박희수	박희수	NNP	B-PER
+는	는	JX	O
+_	_	_	O
+“	“	SS	O
+경기	경기	NNG	O
+_	_	_	O
+막판	막판	NNG	O
+_	_	_	O
+타이트한	타이트하+ㄴ	VA+ETM	O
+_	_	_	O
+상황	상황	NNG	O
+에선	에서+ㄴ	JKB+JX	O
+_	_	_	O
+한	한	MM	B-NOH
+_	_	_	I-NOH
+방	방	NNB	I-NOH
+만	만	JX	O
+_	_	_	O
+맞	맞	VV	O
+아도	아도	EC	O
+_	_	_	O
+역전될	역전되+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## "-한국은 수십년 전부터 아동 수출국이란 오명을 받았다.
+## "-<한국:ORG>은 수십년 전부터 아동 수출국이란 오명을 받았다.
+"	"	SS	O
+-	-	SO	O
+한국	한국	NNP	B-ORG
+은	은	JX	O
+_	_	_	O
+수십	수십	NR	O
+년	년	NNB	O
+_	_	_	O
+전	전	NNG	O
+부터	부터	JX	O
+_	_	_	O
+아동	아동	NNG	O
+_	_	_	O
+수출국	수출국	NNG	O
+이	이	VCP	O
+란	란	ETM	O
+_	_	_	O
+오명	오명	NNG	O
+을	을	JKO	O
+_	_	_	O
+받	받	VV	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 해외 입양과 관련된 한국의 상황을 어떻게 생각하는가."개인적으로 아동수출국이란 표현은 맞지 않는다고 본다.
+## 해외 입양과 관련된 <한국:ORG>의 상황을 어떻게 생각하는가."개인적으로 아동수출국이란 표현은 맞지 않는다고 본다.
+해외	해외	NNG	O
+_	_	_	O
+입양	입양	NNG	O
+과	과	JKB	O
+_	_	_	O
+관련된	관련되+ㄴ	VV+ETM	O
+_	_	_	O
+한국	한국	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+상황	상황	NNG	O
+을	을	JKO	O
+_	_	_	O
+어떻	어떻	VA	O
+게	게	EC	O
+_	_	_	O
+생각하	생각하	VV	O
+는가	는가	EF	O
+.	.	SF	O
+"	"	SS	O
+개인적	개인적	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+아동	아동	NNG	O
+수출국	수출국	NNG	O
+이	이	VCP	O
+란	란	ETM	O
+_	_	_	O
+표현	표현	NNG	O
+은	은	JX	O
+_	_	_	O
+맞	맞	VV	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+는다고	는다고	EC	O
+_	_	_	O
+본다	보+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 9
+## 이날 오전에도 홍 후보는 공무원시험일이라는 점을 거론하며 "꿈을 잃은 이 땅의 젊은이들이 꿈과 희망을 가질수있는 나라를 만들어 보도록 하겠습니다.
+## 이날 오전에도 <홍:PER> 후보는 공무원시험일이라는 점을 거론하며 "꿈을 잃은 이 땅의 젊은이들이 꿈과 희망을 가질수있는 나라를 만들어 보도록 하겠습니다.
+이날	이날	NNG	O
+_	_	_	O
+오전	오전	NNG	O
+에	에	JKB	O
+도	도	JX	O
+_	_	_	O
+홍	홍	NNP	B-PER
+_	_	_	O
+후보	후보	NNG	O
+는	는	JX	O
+_	_	_	O
+공무원	공무원	NNG	O
+시험	시험	NNG	O
+일	일	NNG	O
+이	이	VCP	O
+라는	라는	ETM	O
+_	_	_	O
+점	점	NNG	O
+을	을	JKO	O
+_	_	_	O
+거론하	거론하	VV	O
+며	며	EC	O
+_	_	_	O
+"	"	SS	O
+꿈	꿈	NNG	O
+을	을	JKO	O
+_	_	_	O
+잃	잃	VV	O
+은	은	ETM	O
+_	_	_	O
+이	이	MM	O
+_	_	_	O
+땅	땅	NNG	O
+의	의	JKG	O
+_	_	_	O
+젊은이	젊은이	NNG	O
+들	들	XSN	O
+이	이	JKS	O
+_	_	_	O
+꿈	꿈	NNG	O
+과	과	JC	O
+_	_	_	O
+희망	희망	NNG	O
+을	을	JKO	O
+_	_	_	O
+가	가	NNG	O
+질	질	XSN	O
+수	수	NNB	O
+있	있	VA	O
+는	는	ETM	O
+_	_	_	O
+나라	나라	NNG	O
+를	를	JKO	O
+_	_	_	O
+만들	만들	VV	O
+어	어	EC	O
+_	_	_	O
+보	보	VX	O
+도록	도록	EC	O
+_	_	_	O
+하	하	VX	O
+겠	겠	EP	O
+습니다	습니다	EF	O
+.	.	SF	O
+
+## 10
+## 내일로 다가온 일본 참의원 선거 분위기가 예상 밖으로 차분하다.
+## 내일로 다가온 <일본:ORG> 참의원 선거 분위기가 예상 밖으로 차분하다.
+내일	내일	NNG	O
+로	로	JKB	O
+_	_	_	O
+다가온	다가오+ㄴ	VV+ETM	O
+_	_	_	O
+일본	일본	NNP	B-ORG
+_	_	_	O
+참의원	참의원	NNG	O
+_	_	_	O
+선거	선거	NNG	O
+_	_	_	O
+분위기	분위기	NNG	O
+가	가	JKS	O
+_	_	_	O
+예상	예상	NNG	O
+_	_	_	O
+밖	밖	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+차분하	차분하	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 사당종합체육관 붕괴, 매몰자 11명 전원 구조…‘오락가락’ 인원 왜? “1명 빠져나가”
+## 사당종합체육관 붕괴, 매몰자 <11명:NOH> 전원 구조…‘오락가락’ 인원 왜? “<1명:NOH> 빠져나가”
+사당	사당	NNG	O
+종합	종합	NNG	O
+체육관	체육관	NNG	O
+_	_	_	O
+붕괴	붕괴	NNG	O
+,	,	SP	O
+_	_	_	O
+매몰자	매몰자	NNG	O
+_	_	_	O
+11	11	SN	B-NOH
+명	명	NNB	I-NOH
+_	_	_	O
+전원	전원	NNG	O
+_	_	_	O
+구조	구조	NNG	O
+…	…	SE	O
+‘	‘	SS	O
+오락가락	오락가락	MAG	O
+’	’	SS	O
+_	_	_	O
+인원	인원	NNG	O
+_	_	_	O
+왜	왜	MAG	O
+?	?	SF	O
+_	_	_	O
+“	“	SS	O
+1	1	SN	B-NOH
+명	명	NNB	I-NOH
+_	_	_	O
+빠져나가	빠져나가+아	VV+EF	O
+”	”	SS	O
+
+## 12
+## 신혜선, 박유환과 함께 라디오 출연… 그녀는 예뻤다
+## <신혜선:PER>, <박유환:PER>과 함께 라디오 출연… 그녀는 예뻤다
+신혜선	신혜선	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+박유환	박유환	NNP	B-PER
+과	과	JKB	O
+_	_	_	O
+함께	함께	MAG	O
+_	_	_	O
+라디오	라디오	NNG	O
+_	_	_	O
+출연	출연	NNG	O
+…	…	SE	O
+_	_	_	O
+그녀	그녀	NP	O
+는	는	JX	O
+_	_	_	O
+예	예쁘	VA	O
+뻤	었	EP	O
+다	다	EF	O
+
+## 13
+## 지난 18일 모바일 반도체 설계업체인 영국ARM을 일본 소프트뱅크가 320억달러(약 36조원)에 인수하겠다는 방침을 밝히면서 인텔과 ARM 진영의 5G 대결에 시선이 집중되고 있다.
+## 지난 <18일:DAT> 모바일 반도체 설계업체인 <영국ARM:ORG>을 <일본 소프트뱅크:ORG>가 <320억달러:MNY>(약 <36조원:MNY>)에 인수하겠다는 방침을 밝히면서 <인텔:ORG>과 <ARM:ORG> 진영의 5G 대결에 시선이 집중되고 있다.
+지난	지나+ㄴ	VV+ETM	O
+_	_	_	O
+18	18	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+모바일	모바일	NNG	O
+_	_	_	O
+반도체	반도체	NNG	O
+_	_	_	O
+설계	설계	NNG	O
+업체	업체	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+영국	영국	NNP	B-ORG
+ARM	ARM	SL	I-ORG
+을	을	JKO	O
+_	_	_	O
+일본	일본	NNP	B-ORG
+_	_	_	I-ORG
+소프트뱅크	소프트뱅크	NNP	I-ORG
+가	가	JKS	O
+_	_	_	O
+320	320	SN	B-MNY
+억	억	NR	I-MNY
+달러	달러	NNB	I-MNY
+(	(	SS	O
+약	약	MM	O
+_	_	_	O
+36	36	SN	B-MNY
+조	조	NR	I-MNY
+원	원	NNB	I-MNY
+)	)	SS	O
+에	에	JKB	O
+_	_	_	O
+인수하	인수하	VV	O
+겠	겠	EP	O
+다는	다는	ETM	O
+_	_	_	O
+방침	방침	NNG	O
+을	을	JKO	O
+_	_	_	O
+밝히	밝히	VV	O
+면서	면서	EC	O
+_	_	_	O
+인텔	인텔	NNP	B-ORG
+과	과	JC	O
+_	_	_	O
+ARM	ARM	SL	B-ORG
+_	_	_	O
+진영	진영	NNG	O
+의	의	JKG	O
+_	_	_	O
+5	5	SN	O
+G	G	SL	O
+_	_	_	O
+대결	대결	NNG	O
+에	에	JKB	O
+_	_	_	O
+시선	시선	NNG	O
+이	이	JKS	O
+_	_	_	O
+집중되	집중되	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 14
+## ARM은 직접 반도체를 설계해 제조하는 인텔과 달리 반도체 설계도를 퀄컴·삼성전자 같은 반도체기업에 팔아 로열티로 수입을 낸다.
+## <ARM:ORG>은 직접 반도체를 설계해 제조하는 <인텔:ORG>과 달리 반도체 설계도를 <퀄컴:ORG>·<삼성전자:ORG> 같은 반도체기업에 팔아 로열티로 수입을 낸다.
+ARM	ARM	SL	B-ORG
+은	은	JX	O
+_	_	_	O
+직접	직접	MAG	O
+_	_	_	O
+반도체	반도체	NNG	O
+를	를	JKO	O
+_	_	_	O
+설계해	설계하+여	VV+EC	O
+_	_	_	O
+제조하	제조하	VV	O
+는	는	ETM	O
+_	_	_	O
+인텔	인텔	NNP	B-ORG
+과	과	JKB	O
+_	_	_	O
+달리	달리	MAG	O
+_	_	_	O
+반도체	반도체	NNG	O
+_	_	_	O
+설계도	설계도	NNG	O
+를	를	JKO	O
+_	_	_	O
+퀄컴	퀄컴	NNP	B-ORG
+·	·	SP	O
+삼성전자	삼성전자	NNP	B-ORG
+_	_	_	O
+같	같	VA	O
+은	은	ETM	O
+_	_	_	O
+반도체	반도체	NNG	O
+기업	기업	NNG	O
+에	에	JKB	O
+_	_	_	O
+팔	팔	VV	O
+아	아	EC	O
+_	_	_	O
+로열티	로열티	NNG	O
+로	로	JKB	O
+_	_	_	O
+수입	수입	NNG	O
+을	을	JKO	O
+_	_	_	O
+낸다	내+ㄴ다	VV+EF	O
+.	.	SF	O
+

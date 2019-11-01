@@ -1,0 +1,506 @@
+## 1
+## NAS 시장에서 시놀로지의 강세는 앞으로도 한동안 이어질 것 같다.
+## <NAS:ORG> 시장에서 시놀로지의 강세는 앞으로도 한동안 이어질 것 같다.
+NAS	NAS	SL	B-ORG
+_	_	_	O
+시장	시장	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+시놀로지	시놀로지	NNG	O
+의	의	JKG	O
+_	_	_	O
+강세	강세	NNG	O
+는	는	JX	O
+_	_	_	O
+앞	앞	NNG	O
+으로	으로	JKB	O
+도	도	JX	O
+_	_	_	O
+한동안	한동안	NNG	O
+_	_	_	O
+이어질	이어지+ㄹ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+_	_	_	O
+같	같	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 지드래곤은 “지난해 말 소속사와 재계약을 하지 않을 경우 멤버 전원이 다 함께 군대를 가려고 했다.
+## <지드래곤:PER>은 “지난해 말 소속사와 재계약을 하지 않을 경우 멤버 전원이 다 함께 군대를 가려고 했다.
+지드래곤	지드래곤	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+“	“	SS	O
+지난해	지난해	NNG	O
+_	_	_	O
+말	말	NNB	O
+_	_	_	O
+소속	소속	NNG	O
+사	사	XSN	O
+와	와	JKB	O
+_	_	_	O
+재계약	재계약	NNG	O
+을	을	JKO	O
+_	_	_	O
+하	하	VV	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+을	을	ETM	O
+_	_	_	O
+경우	경우	NNG	O
+_	_	_	O
+멤버	멤버	NNG	O
+_	_	_	O
+전원	전원	NNG	O
+이	이	JKS	O
+_	_	_	O
+다	다	MAG	O
+_	_	_	O
+함께	함께	MAG	O
+_	_	_	O
+군대	군대	NNG	O
+를	를	JKO	O
+_	_	_	O
+가	가	VV	O
+려고	려고	EC	O
+_	_	_	O
+했	+였	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 〈김태익­김한수기자〉
+## 〈<김태익:PER>­<김한수:PER>기자〉
+〈	〈	SS	O
+김태익	김태익	NNP	B-PER
+­	­	SS	O
+김한수	김한수	NNP	B-PER
+기자	기자	NNG	O
+〉	〉	SS	O
+
+## 4
+## 그렇다면 8학군 전입생들의 성적은 어떨까.
+## 그렇다면 <8학군:NOH> 전입생들의 성적은 어떨까.
+그렇	그렇	VA	O
+다면	다면	EC	O
+_	_	_	O
+8	8	SN	B-NOH
+학군	학군	NNG	I-NOH
+_	_	_	O
+전입생	전입생	NNG	O
+들	들	XSN	O
+의	의	JKG	O
+_	_	_	O
+성적	성적	NNG	O
+은	은	JX	O
+_	_	_	O
+어떨까	어떻+ㄹ까	VA+EF	O
+.	.	SF	O
+
+## 5
+## 지난해 역대 최다인 통산 9회 수상 기록을 세웠던 그는 10번째 골든글러브를 자신의 장식장에 보관하게 됐다.
+## 지난해 역대 최다인 통산 <9회:NOH> 수상 기록을 세웠던 그는 <10번:NOH>째 <골든글러브:POH>를 자신의 장식장에 보관하게 됐다.
+지난해	지난해	NNG	O
+_	_	_	O
+역대	역대	NNG	O
+_	_	_	O
+최다	최다	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+통산	통산	NNG	O
+_	_	_	O
+9	9	SN	B-NOH
+회	회	NNB	I-NOH
+_	_	_	O
+수상	수상	NNG	O
+_	_	_	O
+기록	기록	NNG	O
+을	을	JKO	O
+_	_	_	O
+세	세우	VV	O
+웠	었	EP	O
+던	던	ETM	O
+_	_	_	O
+그	그	NP	O
+는	는	JX	O
+_	_	_	O
+10	10	SN	B-NOH
+번째	번째	NNB	O
+_	_	_	O
+골든글러브	골든글러브	NNG	B-POH
+를	를	JKO	O
+_	_	_	O
+자신	자신	NNG	O
+의	의	JKG	O
+_	_	_	O
+장식장	장식장	NNG	O
+에	에	JKB	O
+_	_	_	O
+보관하	보관하	VV	O
+게	게	EC	O
+_	_	_	O
+됐	+었	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 새로텍 관계자는 “프리고 시리즈는 IEEE 1394 제품 시리즈부터 이미 검증 받은 제품”이라며 “영상 전문가들을 위한 강력한 성능과 확장성을 제공한다”고 말했다.
+## <새로텍:ORG> 관계자는 “<프리고 시리즈:POH>는 <IEEE 1394 제품 시리즈:POH>부터 이미 검증 받은 제품”이라며 “영상 전문가들을 위한 강력한 성능과 확장성을 제공한다”고 말했다.
+새로텍	새로텍	NNP	B-ORG
+_	_	_	O
+관계자	관계자	NNG	O
+는	는	JX	O
+_	_	_	O
+“	“	SS	O
+프리	프리	NNG	B-POH
+고	고	JKQ	I-POH
+_	_	_	I-POH
+시리즈	시리즈	NNG	I-POH
+는	는	JX	O
+_	_	_	O
+IEEE	IEEE	SL	B-POH
+_	_	_	I-POH
+1394	1394	SN	I-POH
+_	_	_	I-POH
+제품	제품	NNG	I-POH
+_	_	_	I-POH
+시리즈	시리즈	NNG	I-POH
+부터	부터	JX	O
+_	_	_	O
+이미	이미	MAG	O
+_	_	_	O
+검증	검증	NNG	O
+_	_	_	O
+받	받	VV	O
+은	은	ETM	O
+_	_	_	O
+제품	제품	NNG	O
+”	”	SS	O
+이	이	VCP	O
+라며	라며	EC	O
+_	_	_	O
+“	“	SS	O
+영상	영상	NNG	O
+_	_	_	O
+전문가	전문가	NNG	O
+들	들	XSN	O
+을	을	JKO	O
+_	_	_	O
+위한	위하+ㄴ	VV+ETM	O
+_	_	_	O
+강력한	강력하+ㄴ	VA+ETM	O
+_	_	_	O
+성능	성능	NNG	O
+과	과	JC	O
+_	_	_	O
+확장	확장	NNG	O
+성	성	XSN	O
+을	을	JKO	O
+_	_	_	O
+제공한다	제공하+ㄴ다	VV+EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+말	말하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 프리고 썬더볼트 2베이 레이드 시스템의 가격은 49만9000원(HDD 제외)이다.
+## <프리고 썬더볼트 2베이 레이드 시스템:POH>의 가격은 <49만9000원:MNY>(HDD 제외)이다.
+프리	프리	NNG	B-POH
+고	고	JKQ	I-POH
+_	_	_	I-POH
+썬더볼트	썬더볼트	NNP	I-POH
+_	_	_	I-POH
+2	2	SN	I-POH
+베이	베이	NNG	I-POH
+_	_	_	I-POH
+레이드	레이드	NNP	I-POH
+_	_	_	I-POH
+시스템	시스템	NNG	I-POH
+의	의	JKG	O
+_	_	_	O
+가격	가격	NNG	O
+은	은	JX	O
+_	_	_	O
+49	49	SN	B-MNY
+만	만	NR	I-MNY
+9000	9000	SN	I-MNY
+원	원	NNB	I-MNY
+(	(	SS	O
+HDD	HDD	SL	O
+_	_	_	O
+제외	제외	NNG	O
+)	)	SS	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 대우자동차는 12일 세계적 자동차시장 조사기관인 JD파워사가 최근 실시한 조사에서 마티즈가 ‘인도 최고의 경차’로 선정됐다고 밝혔다.
+## <대우자동차:ORG>는 <12일:DAT> 세계적 자동차시장 조사기관인 <JD파워사:ORG>가 최근 실시한 조사에서 <마티즈:POH>가 ‘<인도:ORG> 최고의 경차’로 선정됐다고 밝혔다.
+대우자동차	대우자동차	NNP	B-ORG
+는	는	JX	O
+_	_	_	O
+12	12	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+세계적	세계적	NNG	O
+_	_	_	O
+자동차	자동차	NNG	O
+시장	시장	NNG	O
+_	_	_	O
+조사	조사	NNG	O
+기관	기관	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+JD	JD	SL	B-ORG
+파워사	파워사	NNP	I-ORG
+가	가	JKS	O
+_	_	_	O
+최근	최근	NNG	O
+_	_	_	O
+실시한	실시하+ㄴ	VV+ETM	O
+_	_	_	O
+조사	조사	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+마티즈	마티즈	NNP	B-POH
+가	가	JKS	O
+_	_	_	O
+‘	‘	SS	O
+인도	인도	NNP	B-ORG
+_	_	_	O
+최고	최고	NNG	O
+의	의	JKG	O
+_	_	_	O
+경차	경차	NNG	O
+’	’	SS	O
+로	로	JKB	O
+_	_	_	O
+선정	선정되	VV	O
+됐	었	EP	O
+다고	다고	EC	O
+_	_	_	O
+밝	밝히	VV	O
+혔	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 남북고위급 접촉 사흘째 강행군, 北 절박한 상황? 과거와 사뭇 다른 태도
+## <남북:ORG>고위급 접촉 사흘째 강행군, <北:ORG> 절박한 상황? 과거와 사뭇 다른 태도
+남북	남북	NNP	B-ORG
+고위급	고위급	NNG	O
+_	_	_	O
+접촉	접촉	NNG	O
+_	_	_	O
+사흘	사흘	NNG	O
+째	째	XSN	O
+_	_	_	O
+강행군	강행군	NNG	O
+,	,	SP	O
+_	_	_	O
+北	北	SH	B-ORG
+_	_	_	O
+절박한	절박하+ㄴ	VA+ETM	O
+_	_	_	O
+상황	상황	NNG	O
+?	?	SF	O
+_	_	_	O
+과거	과거	NNG	O
+와	와	JKB	O
+_	_	_	O
+사뭇	사뭇	MAG	O
+_	_	_	O
+다른	다르+ㄴ	VA+ETM	O
+_	_	_	O
+태도	태도	NNG	O
+
+## 10
+## 해수부는 본격적인 수중 수색에 앞서 이날 오전부터 작업선 정박 작업을 진행했다.
+## <해수부:ORG>는 본격적인 수중 수색에 앞서 이날 오전부터 작업선 정박 작업을 진행했다.
+해수	해수	NNG	B-ORG
+부	부	XSN	I-ORG
+는	는	JX	O
+_	_	_	O
+본격적	본격적	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+수중	수중	NNG	O
+_	_	_	O
+수색	수색	NNG	O
+에	에	JKB	O
+_	_	_	O
+앞서	앞서+어	VV+EC	O
+_	_	_	O
+이날	이날	NNG	O
+_	_	_	O
+오전	오전	NNG	O
+부터	부터	JX	O
+_	_	_	O
+작업선	작업선	NNG	O
+_	_	_	O
+정박	정박	NNG	O
+_	_	_	O
+작업	작업	NNG	O
+을	을	JKO	O
+_	_	_	O
+진행	진행하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 쓰쓰고 요시토모(요코하마), 마쓰다 노부히로(소프트뱅크) 등이 뒤를 받칠 예정이다.
+## <쓰쓰고 요시토모:PER>(<요코하마:ORG>), <마쓰다 노부히로:PER>(<소프트뱅크:ORG>) 등이 뒤를 받칠 예정이다.
+쓰쓰	쓰쓰	MAG	B-PER
+고	고	JKQ	I-PER
+_	_	_	I-PER
+요시토	요시토	NNP	I-PER
+모	모	NNB	I-PER
+(	(	SS	O
+요코하마	요코하마	NNP	B-ORG
+)	)	SS	O
+,	,	SP	O
+_	_	_	O
+마쓰다	마쓰다	NNP	B-PER
+_	_	_	I-PER
+노부히로	노부히로	NNP	I-PER
+(	(	SS	O
+소프트뱅크	소프트뱅크	NNP	B-ORG
+)	)	SS	O
+_	_	_	O
+등	등	NNB	O
+이	이	JKS	O
+_	_	_	O
+뒤	뒤	NNG	O
+를	를	JKO	O
+_	_	_	O
+받칠	받치+ㄹ	VV+ETM	O
+_	_	_	O
+예정	예정	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 개성 있는 정장 변요한, 다양한 스타일 강소라 … ‘미생’이 대세
+## 개성 있는 정장 <변요한:PER>, 다양한 스타일 <강소라:PER> … ‘<미생:POH>’이 대세
+개성	개성	NNG	O
+_	_	_	O
+있	있	VA	O
+는	는	ETM	O
+_	_	_	O
+정장	정장	NNG	O
+_	_	_	O
+변요한	변요한	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+다양한	다양하+ㄴ	VA+ETM	O
+_	_	_	O
+스타일	스타일	NNG	O
+_	_	_	O
+강소라	강소라	NNP	B-PER
+_	_	_	O
+…	…	SE	O
+_	_	_	O
+‘	‘	SS	O
+미생	미생	NNG	B-POH
+’	’	SS	O
+이	이	JKS	O
+_	_	_	O
+대세	대세	NNG	O
+
+## 13
+## 글로벌 아웃도어 브랜드 머렐도 초경량 워킹화 ‘원식스에잇(1SIX8·12만9000원)’을 출시했다.
+## 글로벌 아웃도어 브랜드 <머렐도:ORG> 초경량 워킹화 ‘<원식스에잇:POH>(<1SIX8:POH>·<12만9000원:MNY>)’을 출시했다.
+글로벌	글로벌	NNG	O
+_	_	_	O
+아웃도어	아웃도어	NNG	O
+_	_	_	O
+브랜드	브랜드	NNG	O
+_	_	_	O
+머렐	머렐	NNG	B-ORG
+도	도	JX	I-ORG
+_	_	_	O
+초	초	XPN	O
+경량	경량	NNG	O
+_	_	_	O
+워킹	워킹	NNG	O
+화	화	XSN	O
+_	_	_	O
+‘	‘	SS	O
+원	원	NNB	B-POH
+식스	식스	NNG	I-POH
+에잇	에잇	IC	I-POH
+(	(	SS	O
+1	1	SN	B-POH
+SIX	SIX	SL	I-POH
+8	8	SN	I-POH
+·	·	SP	O
+12	12	SN	B-MNY
+만	만	NR	I-MNY
+9000	9000	SN	I-MNY
+원	원	NNB	I-MNY
+)	)	SS	O
+’	’	SS	O
+을	을	JKO	O
+_	_	_	O
+출시	출시하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 14
+## 대로에서 술주정뱅이처럼 미친 듯이 소리지르면 행인들을 방해했지만 경찰은 “미식축구에서 이긴 예일대 학생일 것”이라면서 지나친다.
+## 대로에서 술주정뱅이처럼 미친 듯이 소리지르면 행인들을 방해했지만 경찰은 “미식축구에서 이긴 <예일대:ORG> 학생일 것”이라면서 지나친다.
+대로	대로	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+술주정뱅이	술주정뱅이	NNG	O
+처럼	처럼	JKB	O
+_	_	_	O
+미친	미치+ㄴ	VV+ETM	O
+_	_	_	O
+듯이	듯이	NNB	O
+_	_	_	O
+소리	소리	NNG	O
+지르	지르	VV	O
+면	면	EC	O
+_	_	_	O
+행인	행인	NNG	O
+들	들	XSN	O
+을	을	JKO	O
+_	_	_	O
+방해	방해하	VV	O
+했	였	EP	O
+지만	지만	EC	O
+_	_	_	O
+경찰	경찰	NNG	O
+은	은	JX	O
+_	_	_	O
+“	“	SS	O
+미식축구	미식축구	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+이긴	이기+ㄴ	VV+ETM	O
+_	_	_	O
+예일대	예일대	NNP	B-ORG
+_	_	_	O
+학생	학생	NNG	O
+일	이+ㄹ	VCP+ETM	O
+_	_	_	O
+것	것	NNB	O
+”	”	SS	O
+이	이	VCP	O
+라면서	라면서	EC	O
+_	_	_	O
+지나친다	지나치+ㄴ다	VA+EF	O
+.	.	SF	O
+

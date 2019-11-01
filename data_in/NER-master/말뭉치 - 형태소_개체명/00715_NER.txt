@@ -1,0 +1,520 @@
+## 1
+## 청년들은 인디밴드에게 시민들이 3000원씩 후원할 수 있는 펀딩(Funding) 사이트를 만들고 싶다고 했다.
+## 청년들은 인디밴드에게 시민들이 <3000원:MNY>씩 후원할 수 있는 펀딩(Funding) 사이트를 만들고 싶다고 했다.
+청년	청년	NNG	O
+들	들	XSN	O
+은	은	JX	O
+_	_	_	O
+인디	인디	NNG	O
+밴드	밴드	NNG	O
+에게	에게	JKB	O
+_	_	_	O
+시민	시민	NNG	O
+들	들	XSN	O
+이	이	JKS	O
+_	_	_	O
+3000	3000	SN	B-MNY
+원	원	NNB	I-MNY
+씩	씩	XSN	O
+_	_	_	O
+후원할	후원하+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+는	는	ETM	O
+_	_	_	O
+펀딩	펀딩	NNG	O
+(	(	SS	O
+Funding	Funding	SL	O
+)	)	SS	O
+_	_	_	O
+사이트	사이트	NNG	O
+를	를	JKO	O
+_	_	_	O
+만들	만들	VV	O
+고	고	EC	O
+_	_	_	O
+싶	싶	VX	O
+다고	다고	EC	O
+_	_	_	O
+했	+였	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## ‘썬더볼트’ 두 주인공의 심리 드라마도 역시 묵직하다.
+## ‘<썬더볼트:POH>’ <두 주인공:NOH>의 심리 드라마도 역시 묵직하다.
+‘	‘	SS	O
+썬더볼트	썬더볼트	NNP	B-POH
+’	’	SS	O
+_	_	_	O
+두	두	MM	B-NOH
+_	_	_	I-NOH
+주인공	주인공	NNG	I-NOH
+의	의	JKG	O
+_	_	_	O
+심리	심리	NNG	O
+_	_	_	O
+드라마	드라마	NNG	O
+도	도	JX	O
+_	_	_	O
+역시	역시	MAG	O
+_	_	_	O
+묵직하	묵직하	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 2011년 3월 유전 개발 계약을 따내기 위해 UAE에 두 번째 방문했을 때야 맛볼 수 있었다.
+## <2011년 3월:DAT> 유전 개발 계약을 따내기 위해 <UAE:ORG>에 두 번째 방문했을 때야 맛볼 수 있었다.
+2011	2011	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	I-DAT
+3	3	SN	I-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+유전	유전	NNG	O
+_	_	_	O
+개발	개발	NNG	O
+_	_	_	O
+계약	계약	NNG	O
+을	을	JKO	O
+_	_	_	O
+따	따+아	VV+EC	O
+내	내	VX	O
+기	기	ETN	O
+_	_	_	O
+위해	위하+여	VV+EC	O
+_	_	_	O
+UAE	UAE	SL	B-ORG
+에	에	JKB	O
+_	_	_	O
+두	두	MM	O
+_	_	_	O
+번째	번째	NNB	O
+_	_	_	O
+방문	방문하	VV	O
+했	였	EP	O
+을	을	ETM	O
+_	_	_	O
+때	때	NNG	O
+야	야	JX	O
+_	_	_	O
+맛볼	맛보+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 그릭요거트 2주 체험 해보니… “당장 먹어봐야지”
+## 그릭요거트 <2주:DUR> 체험 해보니… “당장 먹어봐야지”
+그릭	그릭	NNP	O
+요거트	요거트	NNG	O
+_	_	_	O
+2	2	SN	B-DUR
+주	주	NNB	I-DUR
+_	_	_	O
+체험	체험	NNG	O
+_	_	_	O
+해	하+여	VV+EC	O
+보	보	VX	O
+니	니	EC	O
+…	…	SE	O
+_	_	_	O
+“	“	SS	O
+당장	당장	NNG	O
+_	_	_	O
+먹	먹	VV	O
+어	어	EC	O
+봐야지	보+아야지	VX+EF	O
+”	”	SS	O
+
+## 5
+## 올 3월 부임해 두산의 4세 경영시대를 연 박정원 두산그룹 회장은 창업 120주년보다 기업 내실 다지기가 더 중요하다고 판단하고 있다.
+## 올 <3월:DAT> 부임해 <두산:ORG>의 <4세:NOH> 경영시대를 연 <박정원:PER> <두산그룹:ORG> 회장은 창업 <120주년:NOH>보다 기업 내실 다지기가 더 중요하다고 판단하고 있다.
+올	올	NNG	O
+_	_	_	O
+3	3	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+부임해	부임하+여	VV+EC	O
+_	_	_	O
+두산	두산	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+4	4	SN	B-NOH
+세	세	NNB	I-NOH
+_	_	_	O
+경영	경영	NNG	O
+시대	시대	NNG	O
+를	를	JKO	O
+_	_	_	O
+연	열+ㄴ	VV+ETM	O
+_	_	_	O
+박정원	박정원	NNP	B-PER
+_	_	_	O
+두산그룹	두산그룹	NNP	B-ORG
+_	_	_	O
+회장	회장	NNG	O
+은	은	JX	O
+_	_	_	O
+창업	창업	NNG	O
+_	_	_	O
+120	120	SN	B-NOH
+주년	주년	NNB	I-NOH
+보다	보다	JKB	O
+_	_	_	O
+기업	기업	NNG	O
+_	_	_	O
+내실	내실	NNG	O
+_	_	_	O
+다지기	다지기	NNG	O
+가	가	JKS	O
+_	_	_	O
+더	더	MAG	O
+_	_	_	O
+중요하	중요하	VA	O
+다고	다고	EC	O
+_	_	_	O
+판단하	판단하	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 탄핵표결 자정 넘길 가능성 대비… 국민의당, 임시국회 소집 제안
+## 탄핵표결 자정 넘길 가능성 대비… <국민의당:ORG>, 임시국회 소집 제안
+탄핵	탄핵	NNG	O
+표결	표결	NNG	O
+_	_	_	O
+자정	자정	NNG	O
+_	_	_	O
+넘길	넘기+ㄹ	VV+ETM	O
+_	_	_	O
+가능성	가능성	NNG	O
+_	_	_	O
+대비	대비	NNG	O
+…	…	SE	O
+_	_	_	O
+국민	국민	NNG	B-ORG
+의당	의당	MAG	I-ORG
+,	,	SP	O
+_	_	_	O
+임시	임시	NNG	O
+국회	국회	NNG	O
+_	_	_	O
+소집	소집	NNG	O
+_	_	_	O
+제안	제안	NNG	O
+
+## 7
+## 더불어 벤제프만의 감각 있는 컬러 배색으로 수하물을 쉽게 찾을 수 있게 해주며 스타일도 살려준다.
+## 더불어 <벤제프:ORG>만의 감각 있는 컬러 배색으로 수하물을 쉽게 찾을 수 있게 해주며 스타일도 살려준다.
+더불	더불	VV	O
+어	어	EC	O
+_	_	_	O
+벤제프	벤제프	NNG	B-ORG
+만	만	JX	O
+의	의	JKG	O
+_	_	_	O
+감각	감각	NNG	O
+_	_	_	O
+있	있	VA	O
+는	는	ETM	O
+_	_	_	O
+컬러	컬러	NNG	O
+_	_	_	O
+배색	배색	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+수하물	수하물	NNG	O
+을	을	JKO	O
+_	_	_	O
+쉽	쉽	VA	O
+게	게	EC	O
+_	_	_	O
+찾	찾	VV	O
+을	을	ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+게	게	EC	O
+_	_	_	O
+해	하+여	VX+EC	O
+주	주	VX	O
+며	며	EC	O
+_	_	_	O
+스타일	스타일	NNG	O
+도	도	JX	O
+_	_	_	O
+살려	살리+어	VV+EC	O
+준다	주+ㄴ다	VX+EF	O
+.	.	SF	O
+
+## 8
+## 신 감독은 “엔트리가 18명뿐이라 멀티플레이가 가능한 선수들 위주로 선발했다.
+## <신:PER> 감독은 “엔트리가 <18명:NOH>뿐이라 멀티플레이가 가능한 선수들 위주로 선발했다.
+신	신	NNP	B-PER
+_	_	_	O
+감독	감독	NNG	O
+은	은	JX	O
+_	_	_	O
+“	“	SS	O
+엔트리	엔트리	NNG	O
+가	가	JKS	O
+_	_	_	O
+18	18	SN	B-NOH
+명	명	NNB	I-NOH
+뿐	뿐	JX	O
+이	이	VCP	O
+라	라	EC	O
+_	_	_	O
+멀티	멀티	NNG	O
+플레이	플레이	NNG	O
+가	가	JKS	O
+_	_	_	O
+가능한	가능하+ㄴ	VA+ETM	O
+_	_	_	O
+선수	선수	NNG	O
+들	들	XSN	O
+_	_	_	O
+위주	위주	NNG	O
+로	로	JKB	O
+_	_	_	O
+선발	선발하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 자유한국당은 선거비용 마련을 위해 중앙 및 시도당 당사를 담보로 250억원을 대출받은 것으로 전해졌다.
+## <자유한국당:ORG>은 선거비용 마련을 위해 중앙 및 시도당 당사를 담보로 <250억원:MNY>을 대출받은 것으로 전해졌다.
+자유	자유	NNG	B-ORG
+한국	한국	NNP	I-ORG
+당	당	XSN	I-ORG
+은	은	JX	O
+_	_	_	O
+선거	선거	NNG	O
+비용	비용	NNG	O
+_	_	_	O
+마련	마련	NNG	O
+을	을	JKO	O
+_	_	_	O
+위해	위하+여	VV+EC	O
+_	_	_	O
+중앙	중앙	NNG	O
+_	_	_	O
+및	및	MAG	O
+_	_	_	O
+시도	시도	NNG	O
+당	당	XSN	O
+_	_	_	O
+당사	당사	NNG	O
+를	를	JKO	O
+_	_	_	O
+담보	담보	NNG	O
+로	로	JKB	O
+_	_	_	O
+250	250	SN	B-MNY
+억	억	NR	I-MNY
+원	원	NNB	I-MNY
+을	을	JKO	O
+_	_	_	O
+대출	대출	NNG	O
+받	받	VV	O
+은	은	ETM	O
+_	_	_	O
+것	것	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+전해	전하	VV	O
+졌	여+지+었	EC+VX+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 공직에 처음 입문한 9급 1호봉의 임금 인상액은 26만 원으로 올해 공무원 전체 임금 인상률인 3%보다 높은 4.2% 수준이다.
+## 공직에 처음 입문한 <9급:NOH> <1호봉:NOH>의 임금 인상액은 <26만 원:MNY>으로 올해 공무원 전체 임금 인상률인 <3%:PNT>보다 높은 <4.2%:PNT> 수준이다.
+공직	공직	NNG	O
+에	에	JKB	O
+_	_	_	O
+처음	처음	NNG	O
+_	_	_	O
+입문한	입문하+ㄴ	VV+ETM	O
+_	_	_	O
+9	9	SN	B-NOH
+급	급	NNG	I-NOH
+_	_	_	O
+1	1	SN	B-NOH
+호봉	호봉	NNG	I-NOH
+의	의	JKG	O
+_	_	_	O
+임금	임금	NNG	O
+_	_	_	O
+인상액	인상액	NNG	O
+은	은	JX	O
+_	_	_	O
+26	26	SN	B-MNY
+만	만	NR	I-MNY
+_	_	_	I-MNY
+원	원	NNB	I-MNY
+으로	으로	JKB	O
+_	_	_	O
+올해	올해	NNG	O
+_	_	_	O
+공무원	공무원	NNG	O
+_	_	_	O
+전체	전체	NNG	O
+_	_	_	O
+임금	임금	NNG	O
+_	_	_	O
+인상률	인상률	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+3	3	SN	B-PNT
+%	%	SW	I-PNT
+보다	보다	JKB	O
+_	_	_	O
+높	높	VA	O
+은	은	ETM	O
+_	_	_	O
+4.2	4.2	SN	B-PNT
+%	%	SW	I-PNT
+_	_	_	O
+수준	수준	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 올해도 10월까지 10만4259채로 작년 물량을 넘어설 기세다.
+## 올해도 <10월:DAT>까지 <10만4259채:NOH>로 작년 물량을 넘어설 기세다.
+올해	올해	NNG	O
+도	도	JX	O
+_	_	_	O
+10	10	SN	B-DAT
+월	월	NNB	I-DAT
+까지	까지	JX	O
+_	_	_	O
+10	10	SN	B-NOH
+만	만	NR	I-NOH
+4259	4259	SN	I-NOH
+채	채	NNB	I-NOH
+로	로	JKB	O
+_	_	_	O
+작년	작년	NNG	O
+_	_	_	O
+물량	물량	NNG	O
+을	을	JKO	O
+_	_	_	O
+넘어설	넘어서+ㄹ	VV+ETM	O
+_	_	_	O
+기세	기세+이	NNG+VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## @gallery_in_article_tag@ 평균 초혼 연령 보니, 남녀 연령 30대 ↑…결국 돈이 문제? 평균 초혼 연령 증가 수치가 숫자로 확인됐다.
+## @gallery_in_article_tag@ 평균 초혼 연령 보니, 남녀 연령 <30대:NOH> ↑…결국 돈이 문제? 평균 초혼 연령 증가 수치가 숫자로 확인됐다.
+@	@	SW	O
+gallery	gallery	SL	O
+_	_	SW	O
+in	in	SL	O
+_	_	SW	O
+article	article	SL	O
+_	_	SW	O
+tag	tag	SL	O
+@	@	SW	O
+_	_	_	O
+평균	평균	NNG	O
+_	_	_	O
+초혼	초혼	NNP	O
+_	_	_	O
+연령	연령	NNG	O
+_	_	_	O
+보	보	VV	O
+니	니	EC	O
+,	,	SP	O
+_	_	_	O
+남녀	남녀	NNG	O
+_	_	_	O
+연령	연령	NNG	O
+_	_	_	O
+30	30	SN	B-NOH
+대	대	NNB	I-NOH
+_	_	_	O
+↑	↑	SW	O
+…	…	SE	O
+결국	결국	NNG	O
+_	_	_	O
+돈	돈	NNG	O
+이	이	JKS	O
+_	_	_	O
+문제	문제	NNG	O
+?	?	SF	O
+_	_	_	O
+평균	평균	NNG	O
+_	_	_	O
+초혼	초혼	NNP	O
+_	_	_	O
+연령	연령	NNG	O
+_	_	_	O
+증가	증가	NNG	O
+_	_	_	O
+수치	수치	NNG	O
+가	가	JKS	O
+_	_	_	O
+숫자	숫자	NNG	O
+로	로	JKB	O
+_	_	_	O
+확인	확인되	VV	O
+됐	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## 한편 김시우는 20일 PGA투어가 발표한 신인 랭킹에서 그리요를 제치고 1위에 올랐다.
+## 한편 <김시우:PER>는 <20일:DAT> <PGA투어:POH>가 발표한 신인 랭킹에서 <그리요:PER>를 제치고 <1위:NOH>에 올랐다.
+한편	한편	MAG	O
+_	_	_	O
+김시우	김시우	NNP	B-PER
+는	는	JX	O
+_	_	_	O
+20	20	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+PGA	PGA	SL	B-POH
+투어	투어	NNG	I-POH
+가	가	JKS	O
+_	_	_	O
+발표한	발표하+ㄴ	VV+ETM	O
+_	_	_	O
+신인	신인	NNG	O
+_	_	_	O
+랭킹	랭킹	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+그리	그리	MAG	B-PER
+요	요	JX	I-PER
+를	를	JKO	O
+_	_	_	O
+제치	제치	VV	O
+고	고	EC	O
+_	_	_	O
+1	1	SN	B-NOH
+위	위	NNB	I-NOH
+에	에	JKB	O
+_	_	_	O
+올	오르	VV	O
+랐	았	EP	O
+다	다	EF	O
+.	.	SF	O
+

@@ -1,0 +1,334 @@
+## 1
+## 사당종합체육관 붕괴 사고, 근로자 일부 심각한 부상
+## <사당종합체육관:LOC> 붕괴 사고, 근로자 일부 심각한 부상
+사당	사당	NNG	B-LOC
+종합	종합	NNG	I-LOC
+체육관	체육관	NNG	I-LOC
+_	_	_	O
+붕괴	붕괴	NNG	O
+_	_	_	O
+사고	사고	NNG	O
+,	,	SP	O
+_	_	_	O
+근로자	근로자	NNG	O
+_	_	_	O
+일부	일부	NNG	O
+_	_	_	O
+심각한	심각하+ㄴ	VA+ETM	O
+_	_	_	O
+부상	부상	NNG	O
+
+## 2
+## 이 선장은 “이 정도면 괜찮은 편이지요.
+## <이:PER> 선장은 “이 정도면 괜찮은 편이지요.
+이	이	MM	B-PER
+_	_	_	O
+선장	선장	NNG	O
+은	은	JX	O
+_	_	_	O
+“	“	SS	O
+이	이	MM	O
+_	_	_	O
+정도	정도+이	NNG+VCP	O
+면	면	EC	O
+_	_	_	O
+괜찮	괜찮	VA	O
+은	은	ETM	O
+_	_	_	O
+편	편	NNB	O
+이	이	VCP	O
+지요	지요	EF	O
+.	.	SF	O
+
+## 3
+## 한국토지신탁은 나이스 신용평가의 2016년 7월 기업어음 신용등급 기준 A2 등급을 받은 상장 신탁사다.
+## <한국토지신탁:ORG>은 나이스 신용평가의 <2016년 7월:DAT> 기업어음 신용등급 기준 A2 등급을 받은 상장 신탁사다.
+한국토지신탁	한국토지신탁	NNP	B-ORG
+은	은	JX	O
+_	_	_	O
+나이스	나이스	NNG	O
+_	_	_	O
+신용	신용	NNG	O
+평가	평가	NNG	O
+의	의	JKG	O
+_	_	_	O
+2016	2016	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	I-DAT
+7	7	SN	I-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+기업	기업	NNG	O
+어음	어음	NNG	O
+_	_	_	O
+신용	신용	NNG	O
+등급	등급	NNG	O
+_	_	_	O
+기준	기준	NNG	O
+_	_	_	O
+A	A	SL	O
+2	2	SN	O
+_	_	_	O
+등급	등급	NNG	O
+을	을	JKO	O
+_	_	_	O
+받	받	VV	O
+은	은	ETM	O
+_	_	_	O
+상장	상장	NNG	O
+_	_	_	O
+신탁	신탁	NNG	O
+사	사	XSN	O
+다	다	NNG	O
+.	.	SF	O
+
+## 4
+## 60년대 후반부터 본격적으로 개방을 맞은 일본 증시도 한국과 비슷한 변화를 겪었다.
+## <60년대:DUR> 후반부터 본격적으로 개방을 맞은 <일본:ORG> 증시도 <한국:ORG>과 비슷한 변화를 겪었다.
+60	60	SN	B-DUR
+년대	년대	NNB	I-DUR
+_	_	_	O
+후반	후반	NNG	O
+부터	부터	JX	O
+_	_	_	O
+본격적	본격적	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+개방	개방	NNG	O
+을	을	JKO	O
+_	_	_	O
+맞	맞	VV	O
+은	은	ETM	O
+_	_	_	O
+일본	일본	NNP	B-ORG
+_	_	_	O
+증시	증시	NNG	O
+도	도	JX	O
+_	_	_	O
+한국	한국	NNP	B-ORG
+과	과	JKB	O
+_	_	_	O
+비슷한	비슷하+ㄴ	VA+ETM	O
+_	_	_	O
+변화	변화	NNG	O
+를	를	JKO	O
+_	_	_	O
+겪	겪	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 추석연휴에도 무대인사…예매율 상승세배우 권상우(사진)가 추석 연휴 극장가에서 반전의 성공을 이룬 주인공이 됐다.
+## <추석연휴:DUR>에도 무대인사…예매율 상승세배우 <권상우:PER>(사진)가 <추석 연휴:DUR> 극장가에서 반전의 성공을 이룬 주인공이 됐다.
+추석	추석	NNG	B-DUR
+연휴	연휴	NNG	I-DUR
+에	에	JKB	O
+도	도	JX	O
+_	_	_	O
+무대	무대	NNG	O
+인사	인사	NNG	O
+…	…	SE	O
+예매	예매	NNG	O
+율	율	XSN	O
+_	_	_	O
+상승세	상승세	NNG	O
+배우	배우	NNG	O
+_	_	_	O
+권상우	권상우	NNP	B-PER
+(	(	SS	O
+사진	사진	NNG	O
+)	)	SS	O
+가	가	JKS	O
+_	_	_	O
+추석	추석	NNG	B-DUR
+_	_	_	I-DUR
+연휴	연휴	NNG	I-DUR
+_	_	_	O
+극장가	극장가	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+반전	반전	NNG	O
+의	의	JKG	O
+_	_	_	O
+성공	성공	NNG	O
+을	을	JKO	O
+_	_	_	O
+이룬	이루+ㄴ	VV+ETM	O
+_	_	_	O
+주인공	주인공	NNG	O
+이	이	JKC	O
+_	_	_	O
+됐	+었	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 하지만 주택 수요의 60.8%인 1만5가구가 실제 수요이고 나머지 39.2%인 6440가구는 가수요로 추정됐다.
+## 하지만 주택 수요의 <60.8%:PNT>인 <1만5가구:NOH>가 실제 수요이고 나머지 <39.2%:PNT>인 <6440가구:NOH>는 가수요로 추정됐다.
+하지만	하지만	MAJ	O
+_	_	_	O
+주택	주택	NNG	O
+_	_	_	O
+수요	수요	NNG	O
+의	의	JKG	O
+_	_	_	O
+60.8	60.8	SN	B-PNT
+%	%	SW	I-PNT
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+1	1	SN	B-NOH
+만	만	NR	I-NOH
+5	5	SN	I-NOH
+가구	가구	NNG	I-NOH
+가	가	JKS	O
+_	_	_	O
+실제	실제	NNG	O
+_	_	_	O
+수요	수요	NNG	O
+이	이	VCP	O
+고	고	EC	O
+_	_	_	O
+나머지	나머지	NNG	O
+_	_	_	O
+39.2	39.2	SN	B-PNT
+%	%	SW	I-PNT
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+6440	6440	SN	B-NOH
+가구	가구	NNG	I-NOH
+는	는	JX	O
+_	_	_	O
+가수요	가수요	NNG	O
+로	로	JKB	O
+_	_	_	O
+추정	추정되	VV	O
+됐	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 이 당국자는 “북측의 태도에 대해 유감스럽게 생각한다”고 덧붙였다.
+## <이:PER> 당국자는 “북측의 태도에 대해 유감스럽게 생각한다”고 덧붙였다.
+이	이	MM	B-PER
+_	_	_	O
+당국자	당국자	NNG	O
+는	는	JX	O
+_	_	_	O
+“	“	SS	O
+북	북	NNP	O
+측	측	NNB	O
+의	의	JKG	O
+_	_	_	O
+태도	태도	NNG	O
+에	에	JKB	O
+_	_	_	O
+대해	대하+여	VV+EC	O
+_	_	_	O
+유감스럽	유감스럽	VA	O
+게	게	EC	O
+_	_	_	O
+생각한다	생각하+ㄴ다	VV+EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+덧붙	덧붙이	VV	O
+였	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 올해 광화문광장에선 보이지 않았다가 5km 지점에서 첫선을 보인 참가자는 13명이다.
+## 올해 <광화문광장:LOC>에선 보이지 않았다가 <5km:NOH> 지점에서 첫선을 보인 참가자는 <13명:NOH>이다.
+올해	올해	NNG	O
+_	_	_	O
+광화문	광화문	NNP	B-LOC
+광장	광장	NNG	I-LOC
+에선	에서+ㄴ	JKB+JX	O
+_	_	_	O
+보이	보이	VV	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+았	았	EP	O
+다가	다가	EC	O
+_	_	_	O
+5	5	SN	B-NOH
+km	km	SL	I-NOH
+_	_	_	O
+지점	지점	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+첫선	첫선	NNG	O
+을	을	JKO	O
+_	_	_	O
+보인	보이+ㄴ	VV+ETM	O
+_	_	_	O
+참가자	참가자	NNG	O
+는	는	JX	O
+_	_	_	O
+13	13	SN	B-NOH
+명	명	NNB	I-NOH
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## [Biz gallery] 골든블루, ‘팬텀 더 화이트’ 첫선
+## [Biz gallery] <골든블루:ORG>, ‘<팬텀 더 화이트:POH>’ 첫선
+[	[	SS	O
+Biz	Biz	SL	O
+_	_	_	O
+gallery	gallery	SL	O
+]	]	SS	O
+_	_	_	O
+골든블루	골든블루	NNP	B-ORG
+,	,	SP	O
+_	_	_	O
+‘	‘	SS	O
+팬텀	팬텀	NNG	B-POH
+_	_	_	I-POH
+더	더	MAG	I-POH
+_	_	_	I-POH
+화이트	화이트	NNG	I-POH
+’	’	SS	O
+_	_	_	O
+첫선	첫선	NNG	O
+
+## 10
+## 정확히 15분 뒤에 돌아와 다시 숫자를 다시 보니 83.2(%)로 올라가 있었다.
+## 정확히 <15분:DUR> 뒤에 돌아와 다시 숫자를 다시 보니 <83.2:PNT>(%)로 올라가 있었다.
+정확히	정확히	MAG	O
+_	_	_	O
+15	15	SN	B-DUR
+분	분	NNB	I-DUR
+_	_	_	O
+뒤	뒤	NNG	O
+에	에	JKB	O
+_	_	_	O
+돌아	돌아오	VV	O
+와	아	EC	O
+_	_	_	O
+다시	다시	MAG	O
+_	_	_	O
+숫자	숫자	NNG	O
+를	를	JKO	O
+_	_	_	O
+다시	다시	MAG	O
+_	_	_	O
+보	보	VV	O
+니	니	EC	O
+_	_	_	O
+83.2	83.2	SN	B-PNT
+(	(	SS	O
+%	%	SW	O
+)	)	SS	O
+로	로	JKB	O
+_	_	_	O
+올라가	올라가+아	VV+EC	O
+_	_	_	O
+있	있	VX	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+

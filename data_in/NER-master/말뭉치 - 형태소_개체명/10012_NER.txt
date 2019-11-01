@@ -1,0 +1,567 @@
+## 1
+## ‘통일플랫폼’은 도라산역 1번 승강장 남쪽 240㎡(73평) 공간에 통일을 기원하는 다양한 테마를 체험할 수 있도록 만들어진다.
+## ‘통일플랫폼’은 <도라산역:LOC> <1번:NOH> 승강장 남쪽 <240㎡:NOH>(<73평:NOH>) 공간에 통일을 기원하는 다양한 테마를 체험할 수 있도록 만들어진다.
+‘	‘	SS	O
+통일	통일	NNG	O
+플랫폼	플랫폼	NNG	O
+’	’	SS	O
+은	은	JX	O
+_	_	_	O
+도라산역	도라산역	NNP	B-LOC
+_	_	_	O
+1	1	SN	B-NOH
+번	번	NNB	I-NOH
+_	_	_	O
+승강장	승강장	NNG	O
+_	_	_	O
+남쪽	남쪽	NNG	O
+_	_	_	O
+240	240	SN	B-NOH
+㎡	㎡	SW	I-NOH
+(	(	SS	O
+73	73	SN	B-NOH
+평	평	NNB	I-NOH
+)	)	SS	O
+_	_	_	O
+공간	공간	NNG	O
+에	에	JKB	O
+_	_	_	O
+통일	통일	NNG	O
+을	을	JKO	O
+_	_	_	O
+기원하	기원하	VV	O
+는	는	ETM	O
+_	_	_	O
+다양한	다양하+ㄴ	VA+ETM	O
+_	_	_	O
+테마	테마	NNG	O
+를	를	JKO	O
+_	_	_	O
+체험할	체험하+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+도록	도록	EC	O
+_	_	_	O
+만들	만들	VV	O
+어	어	EC	O
+진다	지+ㄴ다	VX+EF	O
+.	.	SF	O
+
+## 2
+## 최 대표와 김명현(21) 김혜진(20·여) 김종수(20) 김산하 씨(20) 등 5명은 올 2월 창업휴학을 하고 서울 강남 한복판에 오피스텔을 얻어 올라왔다.
+## <최:PER> 대표와 <김명현:PER>(<21:NOH>) <김혜진:PER>(<20:NOH>·여) <김종수:PER>(<20:NOH>) <김산하:PER> 씨(<20:NOH>) 등 <5명:NOH>은 올 <2월:DAT> 창업휴학을 하고 <서울 강남:LOC> 한복판에 오피스텔을 얻어 올라왔다.
+최	최	NNP	B-PER
+_	_	_	O
+대표	대표	NNG	O
+와	와	JC	O
+_	_	_	O
+김명현	김명현	NNP	B-PER
+(	(	SS	O
+21	21	SN	B-NOH
+)	)	SS	O
+_	_	_	O
+김혜진	김혜진	NNP	B-PER
+(	(	SS	O
+20	20	SN	B-NOH
+·	·	SP	O
+여	여	NNG	O
+)	)	SS	O
+_	_	_	O
+김종수	김종수	NNP	B-PER
+(	(	SS	O
+20	20	SN	B-NOH
+)	)	SS	O
+_	_	_	O
+김산하	김산하	NNP	B-PER
+_	_	_	O
+씨	씨	NNB	O
+(	(	SS	O
+20	20	SN	B-NOH
+)	)	SS	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+5	5	SN	B-NOH
+명	명	NNB	I-NOH
+은	은	JX	O
+_	_	_	O
+올	올	NNG	O
+_	_	_	O
+2	2	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+창업	창업	NNG	O
+휴학	휴학	NNG	O
+을	을	JKO	O
+_	_	_	O
+하	하	VV	O
+고	고	EC	O
+_	_	_	O
+서울	서울	NNP	B-LOC
+_	_	_	I-LOC
+강남	강남	NNP	I-LOC
+_	_	_	O
+한복판	한복판	NNG	O
+에	에	JKB	O
+_	_	_	O
+오피스텔	오피스텔	NNG	O
+을	을	JKO	O
+_	_	_	O
+얻	얻	VV	O
+어	어	EC	O
+_	_	_	O
+올라	올라오	VV	O
+왔	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 서명방법도 3가지.
+## 서명방법도 <3가지:NOH>.
+서명	서명	NNG	O
+방법	방법	NNG	O
+도	도	JX	O
+_	_	_	O
+3	3	SN	B-NOH
+가지	가지	NNB	I-NOH
+.	.	SF	O
+
+## 4
+## 서울 한양도성은 고려와 고구려의 도성 양식을 계승한 건축양식을 가지고 있다.
+## <서울:LOC> <한양도성:LOC>은 <고려:ORG>와 <고구려:ORG>의 도성 양식을 계승한 건축양식을 가지고 있다.
+서울	서울	NNP	B-LOC
+_	_	_	O
+한양	한양	NNP	B-LOC
+도성	도성	NNG	I-LOC
+은	은	JX	O
+_	_	_	O
+고려	고려	NNP	B-ORG
+와	와	JC	O
+_	_	_	O
+고구려	고구려	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+도성	도성	NNG	O
+_	_	_	O
+양식	양식	NNG	O
+을	을	JKO	O
+_	_	_	O
+계승한	계승하+ㄴ	VV+ETM	O
+_	_	_	O
+건축	건축	NNG	O
+양식	양식	NNG	O
+을	을	JKO	O
+_	_	_	O
+가지	가지	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## “내년에 한국거래소의 지주회사 전환을 마무리짓고 글로벌 거래소로 도약하고자 합니다.
+## “내년에 <한국거래소:ORG>의 지주회사 전환을 마무리짓고 글로벌 거래소로 도약하고자 합니다.
+“	“	SS	O
+내년	내년	NNG	O
+에	에	JKB	O
+_	_	_	O
+한국	한국	NNP	B-ORG
+거래소	거래소	NNG	I-ORG
+의	의	JKG	O
+_	_	_	O
+지주회사	지주회사	NNG	O
+_	_	_	O
+전환	전환	NNG	O
+을	을	JKO	O
+_	_	_	O
+마무리	마무리	NNG	O
+짓	짓	VV	O
+고	고	EC	O
+_	_	_	O
+글로벌	글로벌	NNG	O
+_	_	_	O
+거래소	거래소	NNG	O
+로	로	JKB	O
+_	_	_	O
+도약하	도약하	VV	O
+고자	고자	EC	O
+_	_	_	O
+합니다	하+ㅂ니다	VX+EF	O
+.	.	SF	O
+
+## 6
+## 추신수는 27일(한국시간) 미국 로스앤젤레스 에인절스타디움에서 열린 LA 에인절스와의 경기에 결장했다.
+## <추신수:PER>는 <27일:DAT>(<한국:LOC>시간) <미국 로스앤젤레스 에인절스타디움:ORG>에서 열린 <LA 에인절스:ORG>와의 경기에 결장했다.
+추신수	추신수	NNP	B-PER
+는	는	JX	O
+_	_	_	O
+27	27	SN	B-DAT
+일	일	NNB	I-DAT
+(	(	SS	O
+한국	한국	NNP	B-LOC
+시간	시간	NNG	O
+)	)	SS	O
+_	_	_	O
+미국	미국	NNP	B-ORG
+_	_	_	I-ORG
+로스앤젤레스	로스앤젤레스	NNP	I-ORG
+_	_	_	I-ORG
+에인절	에인절	NNP	I-ORG
+스타디움	스타디움	NNG	I-ORG
+에서	에서	JKB	O
+_	_	_	O
+열린	열리+ㄴ	VV+ETM	O
+_	_	_	O
+LA	LA	SL	B-ORG
+_	_	_	I-ORG
+에인절스	에인절스	NNP	I-ORG
+와	와	JKB	O
+의	의	JKG	O
+_	_	_	O
+경기	경기	NNG	O
+에	에	JKB	O
+_	_	_	O
+결장	결장하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 하지만, 반대로 모바일게임 시장에서는 중국에서 크게 성공한 한국 게임은 손에 꼽기도 힘든 상황이다.
+## 하지만, 반대로 모바일게임 시장에서는 <중국:ORG>에서 크게 성공한 <한국:ORG> 게임은 손에 꼽기도 힘든 상황이다.
+하	하	VV	O
+지만	지만	EC	O
+,	,	SP	O
+_	_	_	O
+반대	반대	NNG	O
+로	로	JKB	O
+_	_	_	O
+모바일	모바일	NNG	O
+게임	게임	NNG	O
+_	_	_	O
+시장	시장	NNG	O
+에서	에서	JKB	O
+는	는	JX	O
+_	_	_	O
+중국	중국	NNP	B-ORG
+에서	에서	JKB	O
+_	_	_	O
+크	크	VA	O
+게	게	EC	O
+_	_	_	O
+성공한	성공하+ㄴ	VV+ETM	O
+_	_	_	O
+한국	한국	NNP	B-ORG
+_	_	_	O
+게임	게임	NNG	O
+은	은	JX	O
+_	_	_	O
+손	손	NNG	O
+에	에	JKB	O
+_	_	_	O
+꼽	꼽	VV	O
+기	기	ETN	O
+도	도	JX	O
+_	_	_	O
+힘든	힘들+ㄴ	VA+ETM	O
+_	_	_	O
+상황	상황	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 두테르테는 이를 비판하는 호주와 미국 대사에게 “입을 닥쳐라”라면서 외교관계 단절까지 경고하기도 했다.
+## <두테르테:PER>는 이를 비판하는 <호주:ORG>와 <미국:ORG> 대사에게 “입을 닥쳐라”라면서 외교관계 단절까지 경고하기도 했다.
+두테르테	두테르테	NNG	B-PER
+는	는	JX	O
+_	_	_	O
+이	이	NP	O
+를	를	JKO	O
+_	_	_	O
+비판하	비판하	VV	O
+는	는	ETM	O
+_	_	_	O
+호주	호주	NNG	B-ORG
+와	와	JC	O
+_	_	_	O
+미국	미국	NNP	B-ORG
+_	_	_	O
+대사	대사	NNG	O
+에게	에게	JKB	O
+_	_	_	O
+“	“	SS	O
+입	입	NNG	O
+을	을	JKO	O
+_	_	_	O
+닥쳐라	닥치+어라	VV+EF	O
+”	”+이	SS+VCP	O
+라면서	라면서	EC	O
+_	_	_	O
+외교	외교	NNG	O
+관계	관계	NNG	O
+_	_	_	O
+단절	단절	NNG	O
+까지	까지	JX	O
+_	_	_	O
+경고하	경고하	VV	O
+기	기	ETN	O
+도	도	JX	O
+_	_	_	O
+했	+였	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 박슬기, 프리랜서의 고민? “일 끊길까봐 제일 고민된다”
+## <박슬기:PER>, 프리랜서의 고민? “일 끊길까봐 제일 고민된다”
+박슬기	박슬기	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+프리랜서	프리랜서	NNG	O
+의	의	JKG	O
+_	_	_	O
+고민	고민	NNG	O
+?	?	SF	O
+_	_	_	O
+“	“	SS	O
+일	일	NNG	O
+_	_	_	O
+끊길까	끊기+ㄹ까	VV+EC	O
+봐	보+아	VX+EC	O
+_	_	_	O
+제일	제일	NNG	O
+_	_	_	O
+고민	고민	NNG	O
+된다	되+ㄴ다	XSV+EF	O
+”	”	SS	O
+
+## 10
+## 그 결과 도입 찬성은 1171명(58.5%)이었고, 반대는 829명(41.5%)이었다.
+## 그 결과 도입 찬성은 <1171명:NOH>(<58.5%:PNT>)이었고, 반대는 <829명:NOH>(<41.5%:PNT>)이었다.
+그	그	MM	O
+_	_	_	O
+결과	결과	NNG	O
+_	_	_	O
+도입	도입	NNG	O
+_	_	_	O
+찬성	찬성	NNG	O
+은	은	JX	O
+_	_	_	O
+1171	1171	SN	B-NOH
+명	명	NNB	I-NOH
+(	(	SS	O
+58.5	58.5	SN	B-PNT
+%	%	SW	I-PNT
+)	)	SS	O
+이	이	VCP	O
+었	었	EP	O
+고	고	EC	O
+,	,	SP	O
+_	_	_	O
+반대	반대	NNG	O
+는	는	JX	O
+_	_	_	O
+829	829	SN	B-NOH
+명	명	NNB	I-NOH
+(	(	SS	O
+41.5	41.5	SN	B-PNT
+%	%	SW	I-PNT
+)	)	SS	O
+이	이	VCP	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 성별로는 남성 1000명 중 465명이 찬성하고 535명이 반대했다.
+## 성별로는 남성 <1000명:NOH> 중 <465명:NOH>이 찬성하고 <535명:NOH>이 반대했다.
+성별	성별	NNG	O
+로	로	JKB	O
+는	는	JX	O
+_	_	_	O
+남성	남성	NNG	O
+_	_	_	O
+1000	1000	SN	B-NOH
+명	명	NNB	I-NOH
+_	_	_	O
+중	중	NNP	O
+_	_	_	O
+465	465	SN	B-NOH
+명	명	NNB	I-NOH
+이	이	JKS	O
+_	_	_	O
+찬성하	찬성하	VV	O
+고	고	EC	O
+_	_	_	O
+535	535	SN	B-NOH
+명	명	NNB	I-NOH
+이	이	JKS	O
+_	_	_	O
+반대	반대하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 인턴들은 화학 환경공학 생명과학 바이오동물 등 분야를 전공한 취업준비생들. 한국생물안전성연구소와 대학 및 기업체 화학물질시험기관(GLP)에서 2, 3개월간 교육을 받은 뒤 관련 기관이나 회사에 지원하게 된다.
+## 인턴들은 화학 환경공학 생명과학 바이오동물 등 분야를 전공한 취업준비생들. <한국생물안전성연구소:ORG>와 대학 및 기업체 화학물질시험기관(GLP)에서 <2:NOH>, <3개월:NOH>간 교육을 받은 뒤 관련 기관이나 회사에 지원하게 된다.
+인턴	인턴	NNG	O
+들	들	XSN	O
+은	은	JX	O
+_	_	_	O
+화학	화학	NNG	O
+_	_	_	O
+환경	환경	NNG	O
+공학	공학	NNG	O
+_	_	_	O
+생명과학	생명과학	NNG	O
+_	_	_	O
+바이오	바이오	NNG	O
+동물	동물	NNG	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+분야	분야	NNG	O
+를	를	JKO	O
+_	_	_	O
+전공한	전공하+ㄴ	VV+ETM	O
+_	_	_	O
+취업	취업	NNG	O
+준비	준비	NNG	O
+생	생	XSN	O
+들	들	XSN	O
+.	.	SF	O
+_	_	_	O
+한국	한국	NNP	B-ORG
+생물	생물	NNG	I-ORG
+안전성	안전성	NNG	I-ORG
+연구소	연구소	NNG	I-ORG
+와	와	JC	O
+_	_	_	O
+대학	대학	NNG	O
+_	_	_	O
+및	및	MAG	O
+_	_	_	O
+기업체	기업체	NNG	O
+_	_	_	O
+화학물질	화학물질	NNG	O
+시험	시험	NNG	O
+기관	기관	NNG	O
+(	(	SS	O
+GLP	GLP	SL	O
+)	)	SS	O
+에서	에서	JKB	O
+_	_	_	O
+2	2	SN	B-NOH
+,	,	SP	O
+_	_	_	O
+3	3	SN	B-NOH
+개월	개월	NNB	I-NOH
+간	간	XSN	O
+_	_	_	O
+교육	교육	NNG	O
+을	을	JKO	O
+_	_	_	O
+받	받	VV	O
+은	은	ETM	O
+_	_	_	O
+뒤	뒤	NNG	O
+_	_	_	O
+관련	관련	NNG	O
+_	_	_	O
+기관	기관	NNG	O
+이나	이나	JC	O
+_	_	_	O
+회사	회사	NNG	O
+에	에	JKB	O
+_	_	_	O
+지원하	지원하	VV	O
+게	게	EC	O
+_	_	_	O
+된다	되+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 13
+## 이정은, 롯데렌터카 오픈 첫날 6언더 선두
+## <이정은:PER>, <롯데렌터카:ORG> 오픈 첫날 <6언더:NOH> 선두
+이정은	이정은	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+롯데	롯데	NNP	B-ORG
+렌터카	렌터카	NNG	I-ORG
+_	_	_	O
+오픈	오픈	NNG	O
+_	_	_	O
+첫날	첫날	NNG	O
+_	_	_	O
+6	6	SN	B-NOH
+언더	언더	NNG	I-NOH
+_	_	_	O
+선두	선두	NNG	O
+
+## 14
+## 부산 웨스틴조선호텔은 파노라마 라운지에서 내년 1월31일까지 라떼 프로모션을 진행한다.
+## <부산 웨스틴조선호텔:ORG>은 파노라마 라운지에서 내년 <1월31일:DAT>까지 라떼 프로모션을 진행한다.
+부산	부산	NNP	B-ORG
+_	_	_	I-ORG
+웨스틴조선호텔	웨스틴조선호텔	NNP	I-ORG
+은	은	JX	O
+_	_	_	O
+파노라마	파노라마	NNG	O
+_	_	_	O
+라운지	라운지	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+내년	내년	NNG	O
+_	_	_	O
+1	1	SN	B-DAT
+월	월	NNB	I-DAT
+31	31	SN	I-DAT
+일	일	NNB	I-DAT
+까지	까지	JX	O
+_	_	_	O
+라떼	라떼	NNG	O
+_	_	_	O
+프로모션	프로모션	NNG	O
+을	을	JKO	O
+_	_	_	O
+진행한다	진행하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 15
+## '아는 형님' 써니 "오랜만의 예능, 불편했다면 죄송…재밌고 좋았다"
+## '<아는 형님:POH>' <써니:PER> "오랜만의 예능, 불편했다면 죄송…재밌고 좋았다"
+'	'	SS	O
+아	알	VV	B-POH
+는	는	ETM	I-POH
+_	_	_	I-POH
+형님	형님	NNG	I-POH
+'	'	SS	O
+_	_	_	O
+써니	써니	NNP	B-PER
+_	_	_	O
+"	"	SS	O
+오랜만	오랜만	NNG	O
+의	의	JKG	O
+_	_	_	O
+예능	예능	NNG	O
+,	,	SP	O
+_	_	_	O
+불편	불편하	VA	O
+했	였	EP	O
+다면	다면	EC	O
+_	_	_	O
+죄송	죄송	NNG	O
+…	…	SE	O
+재밌	재미있	VA	O
+고	고	EC	O
+_	_	_	O
+좋	좋	VA	O
+았	았	EP	O
+다	다	EF	O
+"	"	SS	O
+

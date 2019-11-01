@@ -1,0 +1,514 @@
+## 1
+## 2005년부터는 현대차 대표 사회공헌사업인 ‘함께 움직이는 세상 공모사업’을 통해 예산이나 인력 부족으로 복지사업 전개에 어려움을 겪는 단체를 지원하고 있다.
+## <2005년:DAT>부터는 <현대차:ORG> 대표 사회공헌사업인 ‘함께 움직이는 세상 공모사업’을 통해 예산이나 인력 부족으로 복지사업 전개에 어려움을 겪는 단체를 지원하고 있다.
+2005	2005	SN	B-DAT
+년	년	NNB	I-DAT
+부터	부터	JX	O
+는	는	JX	O
+_	_	_	O
+현대차	현대차	NNP	B-ORG
+_	_	_	O
+대표	대표	NNG	O
+_	_	_	O
+사회	사회	NNG	O
+공헌	공헌	NNG	O
+사업	사업	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+‘	‘	SS	O
+함께	함께	MAG	O
+_	_	_	O
+움직이	움직이	VV	O
+는	는	ETM	O
+_	_	_	O
+세상	세상	NNG	O
+_	_	_	O
+공모	공모	NNG	O
+사업	사업	NNG	O
+’	’	SS	O
+을	을	JKO	O
+_	_	_	O
+통해	통하+여	VV+EC	O
+_	_	_	O
+예산	예산	NNG	O
+이나	이나	JC	O
+_	_	_	O
+인력	인력	NNG	O
+_	_	_	O
+부족	부족	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+복지	복지	NNG	O
+사업	사업	NNG	O
+_	_	_	O
+전개	전개	NNG	O
+에	에	JKB	O
+_	_	_	O
+어려움	어려움	NNG	O
+을	을	JKO	O
+_	_	_	O
+겪	겪	VV	O
+는	는	ETM	O
+_	_	_	O
+단체	단체	NNG	O
+를	를	JKO	O
+_	_	_	O
+지원하	지원하	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 또 한 주간 ‘베스트 or 워스트’ 스타일도 각각 꼽는다.
+## 또 <한 주:DUR>간 ‘베스트 or 워스트’ 스타일도 각각 꼽는다.
+또	또	MAG	O
+_	_	_	O
+한	한	MM	B-DUR
+_	_	_	I-DUR
+주간	주간	NNG	O
+_	_	_	O
+‘	‘	SS	O
+베스트	베스트	NNG	O
+_	_	_	O
+or	or	SL	O
+_	_	_	O
+워스트	워스트	NNP	O
+’	’	SS	O
+_	_	_	O
+스타일	스타일	NNG	O
+도	도	JX	O
+_	_	_	O
+각각	각각	MAG	O
+_	_	_	O
+꼽	꼽	VV	O
+는다	는다	EF	O
+.	.	SF	O
+
+## 3
+## 오바마는 기자회견에서 오키나와현과 중·일 영유권 분쟁 도서인 댜오위다오(일본명 센카쿠 열도)에 대해 “미·일 안보조약 5조가 적용된다”고 말했다.
+## <오바마:PER>는 기자회견에서 <오키나와현:LOC>과 <중·일:ORG> 영유권 분쟁 도서인 <댜오위다오:LOC>(일본명 <센카쿠 열도:LOC>)에 대해 “<미·일 안보조약 5조:POH>가 적용된다”고 말했다.
+오바마	오바마	NNP	B-PER
+는	는	JX	O
+_	_	_	O
+기자	기자	NNG	O
+회견	회견	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+오키나와	오키나와	NNP	B-LOC
+현	현	NNG	I-LOC
+과	과	JC	O
+_	_	_	O
+중	중	NNP	B-ORG
+·	·	SP	I-ORG
+일	일	NNP	I-ORG
+_	_	_	O
+영유	영유	NNG	O
+권	권	XSN	O
+_	_	_	O
+분쟁	분쟁	NNG	O
+_	_	_	O
+도서	도서	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+댜오위다오	댜오위다오	NNP	B-LOC
+(	(	SS	O
+일본	일본	NNP	O
+명	명	NNG	O
+_	_	_	O
+센카쿠	센카쿠	NNP	B-LOC
+_	_	_	I-LOC
+열도	열도	NNG	I-LOC
+)	)	SS	O
+에	에	JKB	O
+_	_	_	O
+대해	대하+여	VV+EC	O
+_	_	_	O
+“	“	SS	O
+미	미	NNP	B-POH
+·	·	SP	I-POH
+일	일	NNP	I-POH
+_	_	_	I-POH
+안보	안보	NNG	I-POH
+조약	조약	NNG	I-POH
+_	_	_	I-POH
+5	5	SN	I-POH
+조	조	NNB	I-POH
+가	가	JKS	O
+_	_	_	O
+적용된다	적용되+ㄴ다	VV+EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+말	말하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## TPP와 관련해서는 앞서 장관회담에서 일정한 진전이 있었지만 미국산 쌀 수입 물량과 일본산 자동차 부품에 미국이 부과하고 있는 관세 등이 현안으로 남아 있는 상태다.
+## <TPP:POH>와 관련해서는 앞서 장관회담에서 일정한 진전이 있었지만 미국산 쌀 수입 물량과 일본산 자동차 부품에 <미국:ORG>이 부과하고 있는 관세 등이 현안으로 남아 있는 상태다.
+TPP	TPP	SL	B-POH
+와	와	JC	O
+_	_	_	O
+관련해서	관련하+여서	VV+EC	O
+는	는	JX	O
+_	_	_	O
+앞서	앞서	MAG	O
+_	_	_	O
+장관	장관	NNG	O
+회담	회담	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+일정한	일정하+ㄴ	VA+ETM	O
+_	_	_	O
+진전	진전	NNG	O
+이	이	JKS	O
+_	_	_	O
+있	있	VA	O
+었	었	EP	O
+지만	지만	EC	O
+_	_	_	O
+미국	미국	NNP	O
+산	산	XSN	O
+_	_	_	O
+쌀	쌀	NNG	O
+_	_	_	O
+수입	수입	NNG	O
+_	_	_	O
+물량	물량	NNG	O
+과	과	JC	O
+_	_	_	O
+일본	일본	NNP	O
+산	산	XSN	O
+_	_	_	O
+자동차	자동차	NNG	O
+_	_	_	O
+부품	부품	NNG	O
+에	에	JKB	O
+_	_	_	O
+미국	미국	NNP	B-ORG
+이	이	JKS	O
+_	_	_	O
+부과하	부과하	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+는	는	ETM	O
+_	_	_	O
+관세	관세	NNG	O
+_	_	_	O
+등	등	NNB	O
+이	이	JKS	O
+_	_	_	O
+현안	현안	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+남	남	VV	O
+아	아	EC	O
+_	_	_	O
+있	있	VX	O
+는	는	ETM	O
+_	_	_	O
+상태	상태+이	NNG+VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 정청래 “문자 폭탄에 상처받은 그대…서로 차분해지자”
+## <정청래:PER> “문자 폭탄에 상처받은 그대…서로 차분해지자”
+정청래	정청래	NNP	B-PER
+_	_	_	O
+“	“	SS	O
+문자	문자	NNG	O
+_	_	_	O
+폭탄	폭탄	NNG	O
+에	에	JKB	O
+_	_	_	O
+상처	상처	NNG	O
+받	받	VV	O
+은	은	ETM	O
+_	_	_	O
+그대	그대	NP	O
+…	…	SE	O
+서로	서로	MAG	O
+_	_	_	O
+차분해	차분하+여	VA+EC	O
+지	지	VX	O
+자	자	EF	O
+”	”	SS	O
+
+## 6
+## 결국 지난 2월 25일 보석이 기각되자 최종 반환했다.
+## 결국 지난 <2월 25일:DAT> 보석이 기각되자 최종 반환했다.
+결국	결국	NNG	O
+_	_	_	O
+지난	지나+ㄴ	VV+ETM	O
+_	_	_	O
+2	2	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	I-DAT
+25	25	SN	I-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+보석	보석	NNG	O
+이	이	JKS	O
+_	_	_	O
+기각되	기각되	VV	O
+자	자	EC	O
+_	_	_	O
+최종	최종	NNG	O
+_	_	_	O
+반환	반환하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 이어 “5년, 10년 뒤를 내다보면서 대구의 변화와 혁신이라는 새로운 길을 찾아가자”고 강조했다.
+## 이어 “<5년:DUR>, <10년:DUR> 뒤를 내다보면서 <대구:LOC>의 변화와 혁신이라는 새로운 길을 찾아가자”고 강조했다.
+이어	이어	MAG	O
+_	_	_	O
+“	“	SS	O
+5	5	SN	B-DUR
+년	년	NNB	I-DUR
+,	,	SP	O
+_	_	_	O
+10	10	SN	B-DUR
+년	년	NNB	I-DUR
+_	_	_	O
+뒤	뒤	NNG	O
+를	를	JKO	O
+_	_	_	O
+내다보	내다보	VV	O
+면서	면서	EC	O
+_	_	_	O
+대구	대구	NNP	B-LOC
+의	의	JKG	O
+_	_	_	O
+변화	변화	NNG	O
+와	와	JC	O
+_	_	_	O
+혁신	혁신	NNG	O
+이	이	VCP	O
+라는	라는	ETM	O
+_	_	_	O
+새로	새롭	VA	O
+운	ㄴ	ETM	O
+_	_	_	O
+길	길	NNG	O
+을	을	JKO	O
+_	_	_	O
+찾아가	찾아가	VV	O
+자	자	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+강조	강조하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 민병철 교수, 중국서 선플 토론회
+## <민병철:PER> 교수, <중국:LOC>서 선플 토론회
+민병철	민병철	NNP	B-PER
+_	_	_	O
+교수	교수	NNG	O
+,	,	SP	O
+_	_	_	O
+중국	중국	NNP	B-LOC
+서	서	JKB	O
+_	_	_	O
+선	선	NNG	O
+플	플	NNG	O
+_	_	_	O
+토론회	토론회	NNG	O
+
+## 9
+## 그리곤 천천히 바닷속으로 사라졌죠. 한참을 신기하게 지켜보던 소중 학생기자들은 고성수 조사원을 따라 잠수통제실로 향했습니다.
+## 그리곤 천천히 바닷속으로 사라졌죠. 한참을 신기하게 지켜보던 소중 학생기자들은 <고성수:PER> 조사원을 따라 잠수통제실로 향했습니다.
+그리곤	그리고+ㄴ	MAJ+JX	O
+_	_	_	O
+천천히	천천히	MAG	O
+_	_	_	O
+바닷속	바닷속	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+사라	사라지	VV	O
+졌	었	EP	O
+죠	죠	EF	O
+.	.	SF	O
+_	_	_	O
+한참	한참	NNG	O
+을	을	JX	O
+_	_	_	O
+신기하	신기하	VA	O
+게	게	EC	O
+_	_	_	O
+지켜보	지켜보	VV	O
+던	던	ETM	O
+_	_	_	O
+소중	소중	NNP	O
+_	_	_	O
+학생	학생	NNG	O
+기자	기자	NNG	O
+들	들	XSN	O
+은	은	JX	O
+_	_	_	O
+고성수	고성수	NNP	B-PER
+_	_	_	O
+조사원	조사원	NNG	O
+을	을	JKO	O
+_	_	_	O
+따	따르	VV	O
+라	아	EC	O
+_	_	_	O
+잠수통	잠수통	NNG	O
+제실	제실	NNG	O
+로	로	JKB	O
+_	_	_	O
+향	향하	VV	O
+했	였	EP	O
+습니다	습니다	EF	O
+.	.	SF	O
+
+## 10
+## 방청객이 거의 10대이기 때문이다”고 말했다.
+## 방청객이 거의 <10대:NOH>이기 때문이다”고 말했다.
+방청객	방청객	NNG	O
+이	이	JKS	O
+_	_	_	O
+거의	거의	MAG	O
+_	_	_	O
+10	10	SN	B-NOH
+대	대	NNG	I-NOH
+이	이	VCP	O
+기	기	ETN	O
+_	_	_	O
+때문	때문	NNB	O
+이	이	VCP	O
+다	다	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+말	말하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 정은지는 과거 한 방송 프로그램을 통해 8세 차이 나는 어린 남동생에 대해 남다른 애정을 드러낸 바 있다.
+## <정은지:PER>는 과거 한 방송 프로그램을 통해 8세 차이 나는 어린 남동생에 대해 남다른 애정을 드러낸 바 있다.
+정은지	정은지	NNP	B-PER
+는	는	JX	O
+_	_	_	O
+과거	과거	NNG	O
+_	_	_	O
+한	한	MM	O
+_	_	_	O
+방송	방송	NNG	O
+_	_	_	O
+프로그램	프로그램	NNG	O
+을	을	JKO	O
+_	_	_	O
+통해	통하+여	VV+EC	O
+_	_	_	O
+8	8	SN	O
+세	세	NNB	O
+_	_	_	O
+차이	차이	NNG	O
+_	_	_	O
+나	나	VV	O
+는	는	ETM	O
+_	_	_	O
+어린	어리+ㄴ	VA+ETM	O
+_	_	_	O
+남동생	남동생	NNG	O
+에	에	JKB	O
+_	_	_	O
+대해	대하+여	VV+EC	O
+_	_	_	O
+남다른	남다르+ㄴ	VA+ETM	O
+_	_	_	O
+애정	애정	NNG	O
+을	을	JKO	O
+_	_	_	O
+드러낸	드러내+ㄴ	VV+ETM	O
+_	_	_	O
+바	바	NNB	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 2000안타 홍성흔, 우타자 최초 2000안타 고지 점령 두산 홍성흔(38)이 오른손 타자 최초로 프로야구 2000안타 고지에 올랐다.
+## <2000안타:NOH> <홍성흔:PER>, 우타자 최초 <2000안타:NOH> 고지 점령 <두산:ORG> <홍성흔:PER>(<38:NOH>)이 오른손 타자 최초로 프로야구 <2000안타:NOH> 고지에 올랐다.
+2000	2000	SN	B-NOH
+안타	안타	NNG	I-NOH
+_	_	_	O
+홍성흔	홍성흔	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+우	우	NNG	O
+타자	타자	NNG	O
+_	_	_	O
+최초	최초	NNG	O
+_	_	_	O
+2000	2000	SN	B-NOH
+안타	안타	NNG	I-NOH
+_	_	_	O
+고지	고지	NNG	O
+_	_	_	O
+점령	점령	NNG	O
+_	_	_	O
+두산	두산	NNP	B-ORG
+_	_	_	O
+홍성흔	홍성흔	NNP	B-PER
+(	(	SS	O
+38	38	SN	B-NOH
+)	)	SS	O
+이	이	JKS	O
+_	_	_	O
+오른손	오른손	NNG	O
+_	_	_	O
+타자	타자	NNG	O
+_	_	_	O
+최초	최초	NNG	O
+로	로	JKB	O
+_	_	_	O
+프로	프로	NNG	O
+야구	야구	NNG	O
+_	_	_	O
+2000	2000	SN	B-NOH
+안타	안타	NNG	I-NOH
+_	_	_	O
+고지	고지	NNG	O
+에	에	JKB	O
+_	_	_	O
+올	오르	VV	O
+랐	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## 「은행지점이 20, 000, 000개?」
+## 「은행지점이 <20, 000, 000개:NOH>?」
+「	「	SS	O
+은행	은행	NNG	O
+지점	지점	NNG	O
+이	이	JKS	O
+_	_	_	O
+20	20	SN	B-NOH
+,	,	SP	I-NOH
+_	_	_	I-NOH
+000	000	SN	I-NOH
+,	,	SP	I-NOH
+_	_	_	I-NOH
+000	000	SN	I-NOH
+개	개	NNB	I-NOH
+?	?	SF	O
+」	」	SS	O
+

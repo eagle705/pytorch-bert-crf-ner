@@ -1,0 +1,552 @@
+## 1
+## 남경필 경기도지사가 6일 오전 바른정당 대선 경선후보로 정식 등록하고 본격적인 경선 레이스를 시작했다.
+## <남경필:PER> <경기도:ORG>지사가 <6일:DAT> 오전 <바른정당:ORG> 대선 경선후보로 정식 등록하고 본격적인 경선 레이스를 시작했다.
+남경필	남경필	NNP	B-PER
+_	_	_	O
+경기도	경기도	NNP	B-ORG
+지사	지사	NNG	O
+가	가	JKS	O
+_	_	_	O
+6	6	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+오전	오전	NNG	O
+_	_	_	O
+바른	바른	MM	B-ORG
+정당	정당	NNG	I-ORG
+_	_	_	O
+대선	대선	NNG	O
+_	_	_	O
+경선	경선	NNG	O
+후보	후보	NNG	O
+로	로	JKB	O
+_	_	_	O
+정식	정식	NNG	O
+_	_	_	O
+등록하	등록하	VV	O
+고	고	EC	O
+_	_	_	O
+본격적	본격적	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+경선	경선	NNG	O
+_	_	_	O
+레이스	레이스	NNG	O
+를	를	JKO	O
+_	_	_	O
+시작	시작하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 지금은 2가지의 체인지업을 던질 수 있다”고 했다.
+## 지금은 <2가지:NOH>의 체인지업을 던질 수 있다”고 했다.
+지금	지금	NNG	O
+은	은	JX	O
+_	_	_	O
+2	2	SN	B-NOH
+가지	가지	NNB	I-NOH
+의	의	JKG	O
+_	_	_	O
+체인지업	체인지업	NNG	O
+을	을	JKO	O
+_	_	_	O
+던질	던지+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+했	+였	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 또 하나의 이유는 폼 교정이다.
+## 또 <하나:NOH>의 이유는 폼 교정이다.
+또	또	MAG	O
+_	_	_	O
+하나	하나	NNG	B-NOH
+의	의	JKG	O
+_	_	_	O
+이유	이유	NNG	O
+는	는	JX	O
+_	_	_	O
+폼	폼	NNG	O
+_	_	_	O
+교정	교정	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 그렇다면 대통령의 말 한마디 한마디가 시스템적 여과과정을 거침이 없이 그대로 외부 세계에 직접 드러나게 될 개연성은 더 클 것이다.
+## 그렇다면 대통령의 말 <한마디:NOH> <한마디:NOH>가 시스템적 여과과정을 거침이 없이 그대로 외부 세계에 직접 드러나게 될 개연성은 더 클 것이다.
+그렇	그렇	VA	O
+다면	다면	EC	O
+_	_	_	O
+대통령	대통령	NNG	O
+의	의	JKG	O
+_	_	_	O
+말	말	NNG	O
+_	_	_	O
+한마디	한마디	NNG	B-NOH
+_	_	_	O
+한마디	한마디	NNG	B-NOH
+가	가	JKS	O
+_	_	_	O
+시스템	시스템	NNG	O
+적	적	XSN	O
+_	_	_	O
+여과	여과	NNG	O
+과정	과정	NNG	O
+을	을	JKO	O
+_	_	_	O
+거침	거치+ㅁ	VV+ETN	O
+이	이	JKS	O
+_	_	_	O
+없이	없이	MAG	O
+_	_	_	O
+그대로	그대로	MAG	O
+_	_	_	O
+외부	외부	NNG	O
+_	_	_	O
+세계	세계	NNG	O
+에	에	JKB	O
+_	_	_	O
+직접	직접	MAG	O
+_	_	_	O
+드러나	드러나	VV	O
+게	게	EC	O
+_	_	_	O
+될	되+ㄹ	VV+ETM	O
+_	_	_	O
+개연성	개연성	NNG	O
+은	은	JX	O
+_	_	_	O
+더	더	MAG	O
+_	_	_	O
+클	크+ㄹ	VA+ETM	O
+_	_	_	O
+것	것	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 지난 17대 국회에서도 비슷한 내용의 법안이 발의됐다.
+## 지난 <17대:NOH> 국회에서도 비슷한 내용의 법안이 발의됐다.
+지난	지나+ㄴ	VV+ETM	O
+_	_	_	O
+17	17	SN	B-NOH
+대	대	NNB	I-NOH
+_	_	_	O
+국회	국회	NNG	O
+에서	에서	JKB	O
+도	도	JX	O
+_	_	_	O
+비슷한	비슷하+ㄴ	VA+ETM	O
+_	_	_	O
+내용	내용	NNG	O
+의	의	JKG	O
+_	_	_	O
+법안	법안	NNG	O
+이	이	JKS	O
+_	_	_	O
+발의	발의+되	NNG+XSV	O
+됐	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 베이스 모델인 S60보다 65mm 높아진 지상고(201mm)를 지녔다.
+## 베이스 모델인 <S60:POH>보다 <65mm:NOH> 높아진 지상고(<201mm:NOH>)를 지녔다.
+베이스	베이스	NNG	O
+_	_	_	O
+모델	모델	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+S	S	SL	B-POH
+60	60	SN	I-POH
+보다	보다	JKB	O
+_	_	_	O
+65	65	SN	B-NOH
+mm	mm	SL	I-NOH
+_	_	_	O
+높아진	높아지+ㄴ	VV+ETM	O
+_	_	_	O
+지상고	지상고	NNG	O
+(	(	SS	O
+201	201	SN	B-NOH
+mm	mm	SL	I-NOH
+)	)	SS	O
+를	를	JKO	O
+_	_	_	O
+지	지니	VV	O
+녔	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 이에 따라 8월 중국 증시 폭락으로 세계 증시가 동반 급락했던 ‘차이나 쇼크’가 재연될 수 있다는 우려가 다시 고개를 들고 있다.
+## 이에 따라 <8월:DAT> <중국:ORG> 증시 폭락으로 세계 증시가 동반 급락했던 ‘차이나 쇼크’가 재연될 수 있다는 우려가 다시 고개를 들고 있다.
+이	이	NP	O
+에	에	JKB	O
+_	_	_	O
+따	따르	VV	O
+라	아	EC	O
+_	_	_	O
+8	8	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+중국	중국	NNP	B-ORG
+_	_	_	O
+증시	증시	NNG	O
+_	_	_	O
+폭락	폭락	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+세계	세계	NNG	O
+_	_	_	O
+증시	증시	NNG	O
+가	가	JKS	O
+_	_	_	O
+동반	동반	NNG	O
+_	_	_	O
+급락	급락하	VV	O
+했	였	EP	O
+던	던	ETM	O
+_	_	_	O
+‘	‘	SS	O
+차이나	차이나	NNP	O
+_	_	_	O
+쇼크	쇼크	NNG	O
+’	’	SS	O
+가	가	JKS	O
+_	_	_	O
+재연될	재연되+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+다는	다는	ETM	O
+_	_	_	O
+우려	우려	NNG	O
+가	가	JKS	O
+_	_	_	O
+다시	다시	MAG	O
+_	_	_	O
+고개	고개	NNG	O
+를	를	JKO	O
+_	_	_	O
+들	들	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 불교 신도 10여 명이 참여했다.
+## 불교 신도 <10여 명:NOH>이 참여했다.
+불교	불교	NNG	O
+_	_	_	O
+신도	신도	NNG	O
+_	_	_	O
+10	10	SN	B-NOH
+여	여	XSN	I-NOH
+_	_	_	I-NOH
+명	명	NNB	I-NOH
+이	이	JKS	O
+_	_	_	O
+참여	참여하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 글=이경희 기자, 사진=SM엔터테인먼트, 도움말=주선희 원광디지털대 얼굴경영학과 교수 소년중앙 구독 신청 바로가기◆ 다른 멤버의 관상 보기
+## 글=<이경희:PER> 기자, 사진=<SM엔터테인먼트:ORG>, 도움말=<주선희:PER> <원광디지털대:ORG> 얼굴경영학과 교수 <소년중앙:POH> 구독 신청 바로가기◆ 다른 멤버의 관상 보기
+글	글	NNG	O
+=	=	SW	O
+이경희	이경희	NNP	B-PER
+_	_	_	O
+기자	기자	NNG	O
+,	,	SP	O
+_	_	_	O
+사진	사진	NNG	O
+=	=	SW	O
+SM	SM	SL	B-ORG
+엔터테인먼트	엔터테인먼트	NNG	I-ORG
+,	,	SP	O
+_	_	_	O
+도움말	도움말	NNG	O
+=	=	SW	O
+주선희	주선희	NNP	B-PER
+_	_	_	O
+원광	원광	NNP	B-ORG
+디지털	디지털	NNG	I-ORG
+대	대	NNG	I-ORG
+_	_	_	O
+얼굴	얼굴	NNG	O
+경영학	경영학	NNG	O
+과	과	NNG	O
+_	_	_	O
+교수	교수	NNG	O
+_	_	_	O
+소년중앙	소년중앙	NNP	B-POH
+_	_	_	O
+구독	구독	NNG	O
+_	_	_	O
+신청	신청	NNG	O
+_	_	_	O
+바로	바로	MAG	O
+가	가	VV	O
+기	기	ETN	O
+◆	◆	SW	O
+_	_	_	O
+다른	다른	MM	O
+_	_	_	O
+멤버	멤버	NNG	O
+의	의	JKG	O
+_	_	_	O
+관상	관상	NNG	O
+_	_	_	O
+보	보	VV	O
+기	기	ETN	O
+
+## 10
+## 4년 연속 10승과 2년 연속 15승 이상을 거둔 왼손 투수로는 그가 팀 최초다.
+## <4년:NOH> 연속 <10승:NOH>과 <2년:NOH> 연속 <15승:NOH> 이상을 거둔 왼손 투수로는 그가 팀 최초다.
+4	4	SN	B-NOH
+년	년	NNB	I-NOH
+_	_	_	O
+연속	연속	NNG	O
+_	_	_	O
+10	10	SN	B-NOH
+승	승	NNB	I-NOH
+과	과	JC	O
+_	_	_	O
+2	2	SN	B-NOH
+년	년	NNB	I-NOH
+_	_	_	O
+연속	연속	NNG	O
+_	_	_	O
+15	15	SN	B-NOH
+승	승	NNB	I-NOH
+_	_	_	O
+이상	이상	NNG	O
+을	을	JKO	O
+_	_	_	O
+거둔	거두+ㄴ	VV+ETM	O
+_	_	_	O
+왼손	왼손	NNG	O
+_	_	_	O
+투수	투수	NNG	O
+로	로	JKB	O
+는	는	JX	O
+_	_	_	O
+그	그	NP	O
+가	가	JKS	O
+_	_	_	O
+팀	팀	NNG	O
+_	_	_	O
+최초	최초+이	NNG+VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 우리나라는 아직까지 그런 단계에 이르지는 않았지만 적어도 그런 일을 통화정책이라고 하지는 않는다(한국은행법 제28조). 한국은행이 정부를 직접 도울 수는 있지만 가급적 자제해야 하는 일로 보는 것이다.
+## 우리나라는 아직까지 그런 단계에 이르지는 않았지만 적어도 그런 일을 통화정책이라고 하지는 않는다(<한국은행법:POH> <제28조:NOH>). <한국은행:ORG>이 정부를 직접 도울 수는 있지만 가급적 자제해야 하는 일로 보는 것이다.
+우리나라	우리나라	NNG	O
+는	는	JX	O
+_	_	_	O
+아직	아직	MAG	O
+까지	까지	JX	O
+_	_	_	O
+그런	그런	MM	O
+_	_	_	O
+단계	단계	NNG	O
+에	에	JKB	O
+_	_	_	O
+이르	이르	VV	O
+지	지	EC	O
+는	는	JX	O
+_	_	_	O
+않	않	VX	O
+았	았	EP	O
+지만	지만	EC	O
+_	_	_	O
+적어도	적어도	MAG	O
+_	_	_	O
+그런	그런	MM	O
+_	_	_	O
+일	일	NNG	O
+을	을	JKO	O
+_	_	_	O
+통화정책	통화정책	NNG	O
+이	이	VCP	O
+라고	라고	EC	O
+_	_	_	O
+하	하	VV	O
+지	지	EC	O
+는	는	JX	O
+_	_	_	O
+않	않	VX	O
+는다	는다	EF	O
+(	(	SS	O
+한국은행	한국은행	NNP	B-POH
+법	법	NNG	I-POH
+_	_	_	O
+제	제	XPN	B-NOH
+28	28	SN	I-NOH
+조	조	NNG	I-NOH
+)	)	SS	O
+.	.	SF	O
+_	_	_	O
+한국은행	한국은행	NNP	B-ORG
+이	이	JKS	O
+_	_	_	O
+정부	정부	NNG	O
+를	를	JKO	O
+_	_	_	O
+직접	직접	MAG	O
+_	_	_	O
+도	돕	VV	O
+울	ㄹ	ETM	O
+_	_	_	O
+수	수	NNB	O
+는	는	JX	O
+_	_	_	O
+있	있	VA	O
+지만	지만	EC	O
+_	_	_	O
+가급적	가급적	MAG	O
+_	_	_	O
+자제해야	자제하+여야	VV+EC	O
+_	_	_	O
+하	하	VX	O
+는	는	ETM	O
+_	_	_	O
+일	일	NNG	O
+로	로	JKB	O
+_	_	_	O
+보	보	VV	O
+는	는	ETM	O
+_	_	_	O
+것	것	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 실수로 공개된 BMW 신형 7시리즈 “국내는 언제 출시?”
+## 실수로 공개된 <BMW 신형 7시리즈:POH> “국내는 언제 출시?”
+실수	실수	NNG	O
+로	로	JKB	O
+_	_	_	O
+공개된	공개되+ㄴ	VV+ETM	O
+_	_	_	O
+BMW	BMW	SL	B-POH
+_	_	_	I-POH
+신형	신형	NNG	I-POH
+_	_	_	I-POH
+7	7	SN	I-POH
+시리즈	시리즈	NNG	I-POH
+_	_	_	O
+“	“	SS	O
+국내	국내	NNG	O
+는	는	JX	O
+_	_	_	O
+언제	언제	MAG	O
+_	_	_	O
+출시	출시	NNG	O
+?	?	SF	O
+”	”	SS	O
+
+## 13
+## 다행히 마지막 발차기는 득점으로 이어지지 않았고 그대로 김소희의 금메달이 확정됐다.
+## 다행히 마지막 발차기는 득점으로 이어지지 않았고 그대로 <김소희:PER>의 금메달이 확정됐다.
+다행히	다행히	MAG	O
+_	_	_	O
+마지막	마지막	NNG	O
+_	_	_	O
+발차기	발차기	NNG	O
+는	는	JX	O
+_	_	_	O
+득점	득점	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+이어지	이어지	VV	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+았	았	EP	O
+고	고	EC	O
+_	_	_	O
+그대로	그대로	MAG	O
+_	_	_	O
+김소희	김소희	NNP	B-PER
+의	의	JKG	O
+_	_	_	O
+금메달	금메달	NNG	O
+이	이	JKS	O
+_	_	_	O
+확정	확정되	VV	O
+됐	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 14
+## 프로필로 164㎝인 김소희는 체격 좋은 유럽 선수들과 힘겨운 경기를 펼쳤지만 강한 정신력으로 마침내 우승을 차지했다.
+## 프로필로 <164㎝:NOH>인 <김소희:PER>는 체격 좋은 <유럽:LOC> 선수들과 힘겨운 경기를 펼쳤지만 강한 정신력으로 마침내 우승을 차지했다.
+프로필	프로필	NNG	O
+로	로	JKB	O
+_	_	_	O
+164	164	SN	B-NOH
+㎝	㎝	SW	I-NOH
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+김소희	김소희	NNP	B-PER
+는	는	JX	O
+_	_	_	O
+체격	체격	NNG	O
+_	_	_	O
+좋	좋	VA	O
+은	은	ETM	O
+_	_	_	O
+유럽	유럽	NNP	B-LOC
+_	_	_	O
+선수	선수	NNG	O
+들	들	XSN	O
+과	과	JKB	O
+_	_	_	O
+힘겨	힘겹	VA	O
+운	ㄴ	ETM	O
+_	_	_	O
+경기	경기	NNG	O
+를	를	JKO	O
+_	_	_	O
+펼	펼치	VV	O
+쳤	었	EP	O
+지만	지만	EC	O
+_	_	_	O
+강한	강하+ㄴ	VA+ETM	O
+_	_	_	O
+정신력	정신력	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+마침내	마침내	MAG	O
+_	_	_	O
+우승	우승	NNG	O
+을	을	JKO	O
+_	_	_	O
+차지	차지하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+

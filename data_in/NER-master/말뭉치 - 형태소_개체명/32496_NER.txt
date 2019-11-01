@@ -1,0 +1,698 @@
+## 1
+## 현재 배석검사 1명, 참여수사관 1명과 함께 박 전 대통령을 상대로 미르·케이스포츠 재단 설립 경위 등을 캐묻고 있다.
+## 현재 배석검사 <1명:NOH>, 참여수사관 <1명:NOH>과 함께 <박:PER> 전 대통령을 상대로 <미르:ORG>·<케이스포츠 재단:ORG> 설립 경위 등을 캐묻고 있다.
+현재	현재	MAG	O
+_	_	_	O
+배석	배석	NNG	O
+검사	검사	NNG	O
+_	_	_	O
+1	1	SN	B-NOH
+명	명	NNB	I-NOH
+,	,	SP	O
+_	_	_	O
+참여	참여	NNG	O
+수사	수사	NNG	O
+관	관	XSN	O
+_	_	_	O
+1	1	SN	B-NOH
+명	명	NNB	I-NOH
+과	과	JKB	O
+_	_	_	O
+함께	함께	MAG	O
+_	_	_	O
+박	박	NNP	B-PER
+_	_	_	O
+전	전	MM	O
+_	_	_	O
+대통령	대통령	NNG	O
+을	을	JKO	O
+_	_	_	O
+상대	상대	NNG	O
+로	로	JKB	O
+_	_	_	O
+미르	미르	NNP	B-ORG
+·	·	SP	O
+케이	케이	NNG	B-ORG
+스포츠	스포츠	NNG	I-ORG
+_	_	_	I-ORG
+재단	재단	NNG	I-ORG
+_	_	_	O
+설립	설립	NNG	O
+_	_	_	O
+경위	경위	NNG	O
+_	_	_	O
+등	등	NNB	O
+을	을	JKO	O
+_	_	_	O
+캐묻	캐묻	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 김 대표는 이번 사태가 장기화할 경우 여권이 공멸할 수 있다는 점을 심각하게 우려하고 있다.
+## <김:PER> 대표는 이번 사태가 장기화할 경우 여권이 공멸할 수 있다는 점을 심각하게 우려하고 있다.
+김	김	NNP	B-PER
+_	_	_	O
+대표	대표	NNG	O
+는	는	JX	O
+_	_	_	O
+이번	이번	NNG	O
+_	_	_	O
+사태	사태	NNG	O
+가	가	JKS	O
+_	_	_	O
+장기화할	장기화하+ㄹ	VV+ETM	O
+_	_	_	O
+경우	경우	NNG	O
+_	_	_	O
+여권	여권	NNG	O
+이	이	JKS	O
+_	_	_	O
+공멸할	공멸하+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+다는	다는	ETM	O
+_	_	_	O
+점	점	NNG	O
+을	을	JKO	O
+_	_	_	O
+심각하	심각하	VA	O
+게	게	EC	O
+_	_	_	O
+우려하	우려하	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 2~30분만 투자해도…"라고 말을 줄여 이혁을 진땀 흘리게 만들었다.
+## <2:NOH>~<30분만:NOH> 투자해도…"라고 말을 줄여 <이혁:PER>을 진땀 흘리게 만들었다.
+2	2	SN	B-NOH
+~	~	SO	O
+30	30	SN	B-NOH
+분	분	NNB	I-NOH
+만	만	JX	I-NOH
+_	_	_	O
+투자해도	투자하+여도	VV+EC	O
+…	…	SE	O
+"	"	SS	O
+라고	라고	JKQ	O
+_	_	_	O
+말	말	NNG	O
+을	을	JKO	O
+_	_	_	O
+줄	줄이	VV	O
+여	어	EC	O
+_	_	_	O
+이혁	이혁	NNP	B-PER
+을	을	JKO	O
+_	_	_	O
+진땀	진땀	NNG	O
+_	_	_	O
+흘리	흘리	VV	O
+게	게	EC	O
+_	_	_	O
+만들	만들	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 중앙 또한 “차이잉원의 당선 배경엔 대만 경제의 침체”가 있다고 평가한다.
+## <중앙:ORG> 또한 “<차이잉원:PER>의 당선 배경엔 <대만:ORG> 경제의 침체”가 있다고 평가한다.
+중앙	중앙	NNG	B-ORG
+_	_	_	O
+또한	또한	MAG	O
+_	_	_	O
+“	“	SS	O
+차이	차이	NNG	B-PER
+잉원	잉원	NNG	I-PER
+의	의	JKG	O
+_	_	_	O
+당선	당선	NNG	O
+_	_	_	O
+배경	배경	NNG	O
+엔	에+ㄴ	JKB+JX	O
+_	_	_	O
+대만	대만	NNP	B-ORG
+_	_	_	O
+경제	경제	NNG	O
+의	의	JKG	O
+_	_	_	O
+침체	침체	NNG	O
+”	”	SS	O
+가	가	JKS	O
+_	_	_	O
+있	있	VA	O
+다고	다고	EC	O
+_	_	_	O
+평가한다	평가하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 5
+## 대만 경제의 어려움을 낳은 원인을 분석함에 있어서도 두 사설의 입장은 비슷하다.
+## <대만:ORG> 경제의 어려움을 낳은 원인을 분석함에 있어서도 <두 사설:NOH>의 입장은 비슷하다.
+대만	대만	NNP	B-ORG
+_	_	_	O
+경제	경제	NNG	O
+의	의	JKG	O
+_	_	_	O
+어려움	어려움	NNG	O
+을	을	JKO	O
+_	_	_	O
+낳	낳	VV	O
+은	은	ETM	O
+_	_	_	O
+원인	원인	NNG	O
+을	을	JKO	O
+_	_	_	O
+분석함	분석하+ㅁ	VV+ETN	O
+에	에	JKB	O
+_	_	_	O
+있	있	VA	O
+어서	어서	EC	O
+도	도	JX	O
+_	_	_	O
+두	두	MM	B-NOH
+_	_	_	I-NOH
+사설	사설	NNG	I-NOH
+의	의	JKG	O
+_	_	_	O
+입장	입장	NNG	O
+은	은	JX	O
+_	_	_	O
+비슷하	비슷하	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 8년 전 대만 대선에서 국민당 마잉주(馬英九) 후보는 “양안 모두 이익을 얻기 위한 출발점은 경제와 문화 교류 정상화”에 있다고 호소했다.
+## <8년:NOH> 전 <대만:ORG> 대선에서 <국민당:ORG> <마잉주:PER>(<馬英九:PER>) 후보는 “<양:NOH>안 모두 이익을 얻기 위한 출발점은 경제와 문화 교류 정상화”에 있다고 호소했다.
+8	8	SN	B-NOH
+년	년	NNB	I-NOH
+_	_	_	O
+전	전	NNG	O
+_	_	_	O
+대만	대만	NNP	B-ORG
+_	_	_	O
+대선	대선	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+국민	국민	NNG	B-ORG
+당	당	NNG	I-ORG
+_	_	_	O
+마잉주	마잉주	NNP	B-PER
+(	(	SS	O
+馬英九	馬英九	SH	B-PER
+)	)	SS	O
+_	_	_	O
+후보	후보	NNG	O
+는	는	JX	O
+_	_	_	O
+“	“	SS	O
+양안	양안	NNG	O
+_	_	_	O
+모두	모두	MAG	O
+_	_	_	O
+이익	이익	NNG	O
+을	을	JKO	O
+_	_	_	O
+얻	얻	VV	O
+기	기	ETN	O
+_	_	_	O
+위한	위하+ㄴ	VV+ETM	O
+_	_	_	O
+출발점	출발점	NNG	O
+은	은	JX	O
+_	_	_	O
+경제	경제	NNG	O
+와	와	JC	O
+_	_	_	O
+문화	문화	NNG	O
+_	_	_	O
+교류	교류	NNG	O
+_	_	_	O
+정상화	정상화	NNG	O
+”	”	SS	O
+에	에	JKB	O
+_	_	_	O
+있	있	VA	O
+다고	다고	EC	O
+_	_	_	O
+호소	호소하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 힙합프로듀서 ‘랍티미스트’의 작업실에서 여러 노래를 듣다
+## 힙합프로듀서 ‘<랍티미스트:PER>’의 작업실에서 여러 노래를 듣다
+힙합	힙합	NNG	O
+프로듀서	프로듀서	NNG	O
+_	_	_	O
+‘	‘	SS	O
+랍	랍	NNG	B-PER
+티	티	NNG	I-PER
+미스트	미스트	NNP	I-PER
+’	’	SS	O
+의	의	JKG	O
+_	_	_	O
+작업실	작업실	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+여러	여러	MM	O
+_	_	_	O
+노래	노래	NNG	O
+를	를	JKO	O
+_	_	_	O
+듣	듣	VV	O
+다	다	EF	O
+
+## 8
+## 전직 농구선수 현주엽, 가수 김태우 등 ‘거인’ 머슴들은 주인의 명령에 쉴 새 없이 사과를 딴다.
+## 전직 농구선수 <현주엽:PER>, 가수 <김태우:PER> 등 ‘거인’ 머슴들은 주인의 명령에 쉴 새 없이 사과를 딴다.
+전직	전직	NNG	O
+_	_	_	O
+농구	농구	NNG	O
+선수	선수	NNG	O
+_	_	_	O
+현주엽	현주엽	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+가수	가수	NNG	O
+_	_	_	O
+김태우	김태우	NNP	B-PER
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+‘	‘	SS	O
+거인	거인	NNG	O
+’	’	SS	O
+_	_	_	O
+머슴	머슴	NNG	O
+들	들	XSN	O
+은	은	JX	O
+_	_	_	O
+주인	주인	NNG	O
+의	의	JKG	O
+_	_	_	O
+명령	명령	NNG	O
+에	에	JKB	O
+_	_	_	O
+쉴	쉬+ㄹ	VV+ETM	O
+_	_	_	O
+새	새	NNG	O
+_	_	_	O
+없이	없이	MAG	O
+_	_	_	O
+사과	사과	NNG	O
+를	를	JKO	O
+_	_	_	O
+딴다	따+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 9
+## YES24와 함께하는 독자서평
+## <YES24:ORG>와 함께하는 독자서평
+YES	YES	SL	B-ORG
+24	24	SN	I-ORG
+와	와	JC	O
+_	_	_	O
+함께하	함께하	VV	O
+는	는	ETM	O
+_	_	_	O
+독자	독자	NNG	O
+서평	서평	NNG	O
+
+## 10
+## 2007년 성남이 개막 후 15경기(11승 4무) 연속 패하지 않았던 것이 이 부문 최다 기록이다.
+## <2007년:DAT> <성남:ORG>이 개막 후 <15경기:NOH>(<11승:NOH> <4무:NOH>) 연속 패하지 않았던 것이 이 부문 최다 기록이다.
+2007	2007	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+성남이	성남이	NNP	O
+_	_	_	O
+개막	개막	NNG	O
+_	_	_	O
+후	후	NNG	O
+_	_	_	O
+15	15	SN	B-NOH
+경기	경기	NNG	I-NOH
+(	(	SS	O
+11	11	SN	B-NOH
+승	승	NNB	I-NOH
+_	_	_	O
+4	4	SN	B-NOH
+무	무	NNG	I-NOH
+)	)	SS	O
+_	_	_	O
+연속	연속	NNG	O
+_	_	_	O
+패하	패하	VV	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+았	았	EP	O
+던	던	ETM	O
+_	_	_	O
+것	것	NNB	O
+이	이	JKS	O
+_	_	_	O
+이	이	MM	O
+_	_	_	O
+부문	부문	NNG	O
+_	_	_	O
+최다	최다	NNG	O
+_	_	_	O
+기록	기록	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 콘서트 이외에도 행사 당일 서울광장 일대에서는 다양한 이벤트가 열린다.
+## 콘서트 이외에도 행사 당일 <서울광장:LOC> 일대에서는 다양한 이벤트가 열린다.
+콘서트	콘서트	NNG	O
+_	_	_	O
+이외	이외	NNG	O
+에	에	JKB	O
+도	도	JX	O
+_	_	_	O
+행사	행사	NNG	O
+_	_	_	O
+당일	당일	NNG	O
+_	_	_	O
+서울광장	서울광장	NNP	B-LOC
+_	_	_	O
+일대	일대	NNG	O
+에서	에서	JKB	O
+는	는	JX	O
+_	_	_	O
+다양한	다양하+ㄴ	VA+ETM	O
+_	_	_	O
+이벤트	이벤트	NNG	O
+가	가	JKS	O
+_	_	_	O
+열린다	열리+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 12
+## 국세청은 A 씨 집에서 백남준의 작품 외에도 사진작가 김중만의 사진 등을 추가로 찾아내 압류했다.
+## <국세청:ORG>은 <A:PER> 씨 집에서 <백남준:PER>의 작품 외에도 사진작가 <김중만:PER>의 사진 등을 추가로 찾아내 압류했다.
+국세청	국세청	NNG	B-ORG
+은	은	JX	O
+_	_	_	O
+A	A	SL	B-PER
+_	_	_	O
+씨	씨	NNB	O
+_	_	_	O
+집	집	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+백남준	백남준	NNP	B-PER
+의	의	JKG	O
+_	_	_	O
+작품	작품	NNG	O
+_	_	_	O
+외	외	NNB	O
+에	에	JKB	O
+도	도	JX	O
+_	_	_	O
+사진	사진	NNG	O
+작가	작가	NNG	O
+_	_	_	O
+김중만	김중만	NNP	B-PER
+의	의	JKG	O
+_	_	_	O
+사진	사진	NNG	O
+_	_	_	O
+등	등	NNB	O
+을	을	JKO	O
+_	_	_	O
+추가	추가	NNG	O
+로	로	JKB	O
+_	_	_	O
+찾아내	찾아내+어	VV+EC	O
+_	_	_	O
+압류	압류하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## 중원군이 농가소득 증대사업으로 꿩 사육을 장려한 때문이다.
+## <중원군:ORG>이 농가소득 증대사업으로 꿩 사육을 장려한 때문이다.
+중원군	중원군	NNP	B-ORG
+이	이	JKS	O
+_	_	_	O
+농가	농가	NNG	O
+소득	소득	NNG	O
+_	_	_	O
+증대	증대	NNG	O
+사업	사업	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+꿩	꿩	NNG	O
+_	_	_	O
+사육	사육	NNG	O
+을	을	JKO	O
+_	_	_	O
+장려한	장려하+ㄴ	VV+ETM	O
+_	_	_	O
+때문	때문	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 14
+## 기자의 질문에 응한 12명 중 9명은 “투표할 사람이 없다”거나 “투표하기 싫다”고 손사래를 치며 대화를 시작했다.
+## 기자의 질문에 응한 <12명:NOH> 중 <9명:NOH>은 “투표할 사람이 없다”거나 “투표하기 싫다”고 손사래를 치며 대화를 시작했다.
+기자	기자	NNG	O
+의	의	JKG	O
+_	_	_	O
+질문	질문	NNG	O
+에	에	JKB	O
+_	_	_	O
+응한	응하+ㄴ	VV+ETM	O
+_	_	_	O
+12	12	SN	B-NOH
+명	명	NNB	I-NOH
+_	_	_	O
+중	중	NNB	O
+_	_	_	O
+9	9	SN	B-NOH
+명	명	NNB	I-NOH
+은	은	JX	O
+_	_	_	O
+“	“	SS	O
+투표할	투표하+ㄹ	VV+ETM	O
+_	_	_	O
+사람	사람	NNG	O
+이	이	JKS	O
+_	_	_	O
+없	없	VA	O
+다	다	EF	O
+”	”	SS	O
+거나	거나	EC	O
+_	_	_	O
+“	“	SS	O
+투표하	투표하	VV	O
+기	기	ETN	O
+_	_	_	O
+싫	싫	VA	O
+다	다	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+손사래	손사래	NNG	O
+를	를	JKO	O
+_	_	_	O
+치	치	VV	O
+며	며	EC	O
+_	_	_	O
+대화	대화	NNG	O
+를	를	JKO	O
+_	_	_	O
+시작	시작하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 15
+## 정치 음모 살인이 뒤얽힌 세계를 음산하게 그린 움베르토 에코의 신작 소설 ‘창간 준비호’(열린책들)도 6월경 만날 수 있다.
+## 정치 음모 살인이 뒤얽힌 세계를 음산하게 그린 <움베르토 에코:PER>의 신작 소설 ‘<창간 준비호:POH>’(<열린책들:ORG>)도 <6월:DAT>경 만날 수 있다.
+정치	제제	NNG	O
+_	_	_	O
+음모	음모	NNG	O
+_	_	_	O
+살인	살인	NNG	O
+이	이	JKS	O
+_	_	_	O
+뒤얽힌	뒤얽히+ㄴ	VV+ETM	O
+_	_	_	O
+세계	세계	NNG	O
+를	를	JKO	O
+_	_	_	O
+음산하	음산하	VA	O
+게	게	EC	O
+_	_	_	O
+그린	그리+ㄴ	VV+ETM	O
+_	_	_	O
+움베르토	움베르토	NNP	B-PER
+_	_	_	I-PER
+에코	에코	NNP	I-PER
+의	의	JKG	O
+_	_	_	O
+신작	신작	NNG	O
+_	_	_	O
+소설	소설	NNG	O
+_	_	_	O
+‘	‘	SS	O
+창간	창간	NNG	B-POH
+_	_	_	I-POH
+준비	준비	NNG	I-POH
+호	호	NNB	I-POH
+’	’	SS	O
+(	(	SS	O
+열린책들	열린책들	NNP	B-ORG
+)	)	SS	O
+도	도	JX	O
+_	_	_	O
+6	6	SN	B-DAT
+월	월	NNB	I-DAT
+경	경	XSN	O
+_	_	_	O
+만날	만나+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 16
+## 실제 수능 등급이 어떻게 나올지 예상하며 두근거리고 있을 고3들이 마음을 다잡기 위해 ‘쓴소리 동영상’을 찾고 있지는 않을까.
+## 실제 수능 등급이 어떻게 나올지 예상하며 두근거리고 있을 <고3:NOH>들이 마음을 다잡기 위해 ‘쓴소리 동영상’을 찾고 있지는 않을까.
+실제	실제	NNG	O
+_	_	_	O
+수능	수능	NNG	O
+_	_	_	O
+등급	등급	NNG	O
+이	이	JKS	O
+_	_	_	O
+어떻	어떻	VA	O
+게	게	EC	O
+_	_	_	O
+나올지	나오+ㄹ지	VV+EC	O
+_	_	_	O
+예상하	예상하	VV	O
+며	며	EC	O
+_	_	_	O
+두근거리	두근거리	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+을	을	ETM	O
+_	_	_	O
+고	고	JKQ	B-NOH
+3	3	SN	I-NOH
+들	들	XSN	O
+이	이	JKS	O
+_	_	_	O
+마음	마음	NNG	O
+을	을	JKO	O
+_	_	_	O
+다잡	다잡	VV	O
+기	기	ETN	O
+_	_	_	O
+위해	위하+여	VV+EC	O
+_	_	_	O
+‘	‘	SS	O
+쓴소리	쓴소리	NNG	O
+_	_	_	O
+동영상	동영상	NNG	O
+’	’	SS	O
+을	을	JKO	O
+_	_	_	O
+찾	찾	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+지	지	EC	O
+는	는	JX	O
+_	_	_	O
+않	않	VX	O
+을까	을까	EF	O
+.	.	SF	O
+
+## 17
+## 오즈번 장관은 “탄산음료가 아이들을 살찌게 하고 병들게 하면서 적잖은 사회적 비용을 유발하고 있다”고 비판했다.
+## <오즈번:PER> 장관은 “탄산음료가 아이들을 살찌게 하고 병들게 하면서 적잖은 사회적 비용을 유발하고 있다”고 비판했다.
+오즈번	오즈번	NNP	B-PER
+_	_	_	O
+장관	장관	NNG	O
+은	은	JX	O
+_	_	_	O
+“	“	SS	O
+탄산음료	탄산음료	NNG	O
+가	가	JKS	O
+_	_	_	O
+아이	아이	NNG	O
+들	들	XSN	O
+을	을	JKO	O
+_	_	_	O
+살찌	살찌	VV	O
+게	게	EC	O
+_	_	_	O
+하	하	VX	O
+고	고	EC	O
+_	_	_	O
+병들	병들	VV	O
+게	게	EC	O
+_	_	_	O
+하	하	VX	O
+면서	면서	EC	O
+_	_	_	O
+적잖	적잖	VA	O
+은	은	ETM	O
+_	_	_	O
+사회적	사회적	NNG	O
+_	_	_	O
+비용	비용	NNG	O
+을	을	JKO	O
+_	_	_	O
+유발하	유발하	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+비판	비판하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 18
+## 롯데 문규현, 2연속경기 끝내기
+## <롯데:ORG> <문규현:PER>, <2연속:NOH>경기 끝내기
+롯데	롯데	NNP	B-ORG
+_	_	_	O
+문규현	문규현	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+2	2	SN	B-NOH
+연속	연속	NNG	I-NOH
+경기	경기	NNG	O
+_	_	_	O
+끝내	끝내	VV	O
+기	기	ETN	O
+

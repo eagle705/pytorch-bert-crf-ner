@@ -1,0 +1,619 @@
+## 1
+## 경기 후 믹스트존을 지나치던 전북 선수들은 한결같이 망연자실한 표정이었다.
+## 경기 후 믹스트존을 지나치던 <전북:ORG> 선수들은 한결같이 망연자실한 표정이었다.
+경기	경기	NNG	O
+_	_	_	O
+후	후	NNG	O
+_	_	_	O
+믹스트	믹스트	NNG	O
+존	존	NNG	O
+을	을	JKO	O
+_	_	_	O
+지나치	지나치	VA	O
+던	던	ETM	O
+_	_	_	O
+전북	전북	NNP	B-ORG
+_	_	_	O
+선수	선수	NNG	O
+들	들	XSN	O
+은	은	JX	O
+_	_	_	O
+한결같이	한결같이	MAG	O
+_	_	_	O
+망연자실한	망연자실하+ㄴ	VV+ETM	O
+_	_	_	O
+표정	표정	NNG	O
+이	이	VCP	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 앞서 유승준은 LA 총영사관에 한국에 입국하기 위한 비자를 신청했으나 거부당한 바 있다.
+## 앞서 <유승준:PER>은 <LA 총영사관:ORG>에 <한국:LOC>에 입국하기 위한 비자를 신청했으나 거부당한 바 있다.
+앞서	앞서	MAG	O
+_	_	_	O
+유승준	유승준	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+LA	LA	SL	B-ORG
+_	_	_	I-ORG
+총영사관	총영사관	NNG	I-ORG
+에	에	JKB	O
+_	_	_	O
+한국	한국	NNP	B-LOC
+에	에	JKB	O
+_	_	_	O
+입국하	입국하	VV	O
+기	기	ETN	O
+_	_	_	O
+위한	위하+ㄴ	VV+ETM	O
+_	_	_	O
+비자	비자	NNG	O
+를	를	JKO	O
+_	_	_	O
+신청	신청하	VV	O
+했	였	EP	O
+으나	으나	EC	O
+_	_	_	O
+거부	거부	NNG	O
+당한	당하+ㄴ	XSV+ETM	O
+_	_	_	O
+바	바	NNB	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 유승준은 2002년 1월 한국 국적을 포기하고 미국 시민권을 얻었다.
+## <유승준:ORG>은 <2002년 1월:DAT> <한국:ORG> 국적을 포기하고 <미국:ORG> 시민권을 얻었다.
+유승준	유승준	NNP	B-ORG
+은	은	JX	O
+_	_	_	O
+2002	2002	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	I-DAT
+1	1	SN	I-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+한국	한국	NNP	B-ORG
+_	_	_	O
+국적	국적	NNG	O
+을	을	JKO	O
+_	_	_	O
+포기하	포기하	VV	O
+고	고	EC	O
+_	_	_	O
+미국	미국	NNP	B-ORG
+_	_	_	O
+시민권	시민권	NNG	O
+을	을	JKO	O
+_	_	_	O
+얻	얻	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## [단독]신동빈 “심려끼쳐 죄송… 수사 협조”
+## [단독]<신동빈:PER> “심려끼쳐 죄송… 수사 협조”
+[	[	SS	O
+단독	단독	NNG	O
+]	]	SS	O
+신동빈	신동빈	NNP	B-PER
+_	_	_	O
+“	“	SS	O
+심려	심려	NNG	O
+끼쳐	끼치+어	VV+EC	O
+_	_	_	O
+죄송	죄송	NNG	O
+…	…	SE	O
+_	_	_	O
+수사	수사	NNG	O
+_	_	_	O
+협조	협조	NNG	O
+”	”	SS	O
+
+## 5
+## 현대자동차그룹은 자립을 꿈꾸는 어려운 이웃에게 창업용 차량을 선물하는 ‘기프트카 캠페인 시즌6’를 시작한다고 24일 밝혔다.
+## <현대자동차그룹:ORG>은 자립을 꿈꾸는 어려운 이웃에게 창업용 차량을 선물하는 ‘<기프트카 캠페인 시즌6:POH>’를 시작한다고 <24일:DAT> 밝혔다.
+현대자동차그룹	현대자동차그룹	NNP	B-ORG
+은	은	JX	O
+_	_	_	O
+자립	자립	NNG	O
+을	을	JKO	O
+_	_	_	O
+꿈꾸	꿈꾸	VV	O
+는	는	ETM	O
+_	_	_	O
+어려	어렵	VA	O
+운	ㄴ	ETM	O
+_	_	_	O
+이웃	이웃	NNG	O
+에게	에게	JKB	O
+_	_	_	O
+창업	창업	NNG	O
+용	용	XSN	O
+_	_	_	O
+차량	차량	NNG	O
+을	을	JKO	O
+_	_	_	O
+선물하	선물하	VV	O
+는	는	ETM	O
+_	_	_	O
+‘	‘	SS	O
+기프트	기프트	NNG	B-POH
+카	카	NNG	I-POH
+_	_	_	I-POH
+캠페인	캠페인	NNG	I-POH
+_	_	_	I-POH
+시즌	시즌	NNG	I-POH
+6	6	SN	I-POH
+’	’	SS	O
+를	를	JKO	O
+_	_	_	O
+시작한다고	시작하+ㄴ다고	VV+EC	O
+_	_	_	O
+24	24	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+밝	밝히	VV	O
+혔	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## NASA는 “얼굴 패턴을 찾아내는 심리적 현상에 의해 화성 생명체론이 불거진 것”이라고 말했다.
+## <NASA:ORG>는 “얼굴 패턴을 찾아내는 심리적 현상에 의해 화성 생명체론이 불거진 것”이라고 말했다.
+NASA	NASA	SL	B-ORG
+는	는	JX	O
+_	_	_	O
+“	“	SS	O
+얼굴	얼굴	NNG	O
+_	_	_	O
+패턴	패턴	NNG	O
+을	을	JKO	O
+_	_	_	O
+찾아내	찾아내	VV	O
+는	는	ETM	O
+_	_	_	O
+심리적	심리적	NNG	O
+_	_	_	O
+현상	현상	NNG	O
+에	에	JKB	O
+_	_	_	O
+의해	의하+여	VV+EC	O
+_	_	_	O
+화성	화성	NNP	O
+_	_	_	O
+생명체	생명체	NNG	O
+론	론	XSN	O
+이	이	JKS	O
+_	_	_	O
+불거진	불거지+ㄴ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+”	”	SS	O
+이라고	이라고	JKQ	O
+_	_	_	O
+말	말하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 서태지와 아이들의 94년 악마 음악 논란도 파레이돌리아 현상으로 해석할 수 있다.
+## <서태지와 아이들:ORG>의 <94년:DAT> 악마 음악 논란도 파레이돌리아 현상으로 해석할 수 있다.
+서태지	서태지	NNP	B-ORG
+와	와	JC	I-ORG
+_	_	_	I-ORG
+아이	아이	NNG	I-ORG
+들	들	XSN	I-ORG
+의	의	JKG	O
+_	_	_	O
+94	94	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+악마	악마	NNG	O
+_	_	_	O
+음악	음악	NNG	O
+_	_	_	O
+논란	논란	NNG	O
+도	도	JX	O
+_	_	_	O
+파레	파레	NNP	O
+이돌	이돌	NNG	O
+리아	리아	NNP	O
+_	_	_	O
+현상	현상	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+해석할	해석하+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 조응천 “검찰, 朴 전 대통령 출국금지부터 할 것”
+## <조응천:PER> “검찰, <朴:PER> 전 대통령 출국금지부터 할 것”
+조응천	조응천	NNP	B-PER
+_	_	_	O
+“	“	SS	O
+검찰	검찰	NNG	O
+,	,	SP	O
+_	_	_	O
+朴	朴	SH	B-PER
+_	_	_	O
+전	전	MM	O
+_	_	_	O
+대통령	대통령	NNG	O
+_	_	_	O
+출국	출국	NNG	O
+금지	금지	NNG	O
+부터	부터	JX	O
+_	_	_	O
+할	하+ㄹ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+”	”	SS	O
+
+## 9
+## 그렇게 신격화시킨 공백에 그의 후계자가 차지하고도 남는 북한 백성들의 마음속의 그 방대한 여백을 무엇으로 어떻게 메울지가 문제인 것이다.
+## 그렇게 신격화시킨 공백에 그의 후계자가 차지하고도 남는 <북한:ORG> 백성들의 마음속의 그 방대한 여백을 무엇으로 어떻게 메울지가 문제인 것이다.
+그렇	그렇	VA	O
+게	게	EC	O
+_	_	_	O
+신격화	신격화	NNG	O
+시킨	시키+ㄴ	XSV+ETM	O
+_	_	_	O
+공백	공백	NNG	O
+에	에	JKB	O
+_	_	_	O
+그	그	NP	O
+의	의	JKG	O
+_	_	_	O
+후계자	후계자	NNG	O
+가	가	JKS	O
+_	_	_	O
+차지하	차지하	VV	O
+고도	고도	EC	O
+_	_	_	O
+남	남	VV	O
+는	는	ETM	O
+_	_	_	O
+북한	북한	NNP	B-ORG
+_	_	_	O
+백성	백성	NNG	O
+들	들	XSN	O
+의	의	JKG	O
+_	_	_	O
+마음속	마음속	NNG	O
+의	의	JKG	O
+_	_	_	O
+그	그	MM	O
+_	_	_	O
+방대한	방대하+ㄴ	VA+ETM	O
+_	_	_	O
+여백	여백	NNG	O
+을	을	JKO	O
+_	_	_	O
+무엇	무엇	NP	O
+으로	으로	JKB	O
+_	_	_	O
+어떻	어떻	VA	O
+게	게	EC	O
+_	_	_	O
+메울지	메우+ㄹ지	VV+EC	O
+가	가	JKS	O
+_	_	_	O
+문제	문제	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+것	것	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 후반에도 6개의 슈팅 중 유효 슈팅은 1개뿐이었다.
+## 후반에도 <6개:NOH>의 슈팅 중 유효 슈팅은 <1개:NOH>뿐이었다.
+후반	후반	NNG	O
+에	에	JKB	O
+도	도	JX	O
+_	_	_	O
+6	6	SN	B-NOH
+개	개	NNB	I-NOH
+의	의	JKG	O
+_	_	_	O
+슈팅	슈팅	NNG	O
+_	_	_	O
+중	중	NNP	O
+_	_	_	O
+유효	유효	NNG	O
+_	_	_	O
+슈팅	슈팅	NNG	O
+은	은	JX	O
+_	_	_	O
+1	1	SN	B-NOH
+개	개	NNB	I-NOH
+뿐	뿐	NNB	O
+이	이	VCP	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 그가 이 영화에서 추구한 테마는 비록 삶이 허망할지라도 한번쯤 살아볼 가치가 있다는 것.
+## 그가 이 영화에서 추구한 테마는 비록 삶이 허망할지라도 <한번:NOH>쯤 살아볼 가치가 있다는 것.
+그	그	NP	O
+가	가	JKS	O
+_	_	_	O
+이	이	MM	O
+_	_	_	O
+영화	영화	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+추구한	추구하+ㄴ	VV+ETM	O
+_	_	_	O
+테마	테마	NNG	O
+는	는	JX	O
+_	_	_	O
+비록	비록	MAG	O
+_	_	_	O
+삶	삶	NNG	O
+이	이	JKS	O
+_	_	_	O
+허망할지라도	허망하+ㄹ지라도	VA+EC	O
+_	_	_	O
+한번	한번	NNG	B-NOH
+쯤	쯤	XSN	O
+_	_	_	O
+살	살	VV	O
+아	아	EC	O
+볼	보+ㄹ	VX+ETM	O
+_	_	_	O
+가치	가치	NNG	O
+가	가	JKS	O
+_	_	_	O
+있	있	VA	O
+다는	다는	ETM	O
+_	_	_	O
+것	것	NNB	O
+.	.	SF	O
+
+## 12
+## 중국은 물론 베트남, 인도네시아 같은 후발 신흥국은 ‘세계의 공장’으로 부상했다.
+## <중국:ORG>은 물론 <베트남:ORG>, <인도네시아:ORG> 같은 후발 신흥국은 ‘세계의 공장’으로 부상했다.
+중국	중국	NNP	B-ORG
+은	은	JX	O
+_	_	_	O
+물론	물론	MAG	O
+_	_	_	O
+베트남	베트남	NNP	B-ORG
+,	,	SP	O
+_	_	_	O
+인도네시아	인도네시아	NNP	B-ORG
+_	_	_	O
+같	같	VA	O
+은	은	ETM	O
+_	_	_	O
+후발	후발	NNG	O
+_	_	_	O
+신흥	신흥	NNG	O
+국	국	XSN	O
+은	은	JX	O
+_	_	_	O
+‘	‘	SS	O
+세계	세계	NNG	O
+의	의	JKG	O
+_	_	_	O
+공장	공장	NNG	O
+’	’	SS	O
+으로	으로	JKB	O
+_	_	_	O
+부상	부상하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## 한국인 마음 온도와 관련해 각 세대가 겪고 있는 각종 사회·경제적 상황들로 인한 마음의 온도는 더 낮아질 것이라는 응답은 79.1%에 달했다.
+## 한국인 마음 온도와 관련해 각 세대가 겪고 있는 각종 사회·경제적 상황들로 인한 마음의 온도는 더 낮아질 것이라는 응답은 <79.1%:PNT>에 달했다.
+한국인	한국인	NNG	O
+_	_	_	O
+마음	마음	NNG	O
+_	_	_	O
+온도	온도	NNG	O
+와	와	JKB	O
+_	_	_	O
+관련해	관련하+여	VV+EC	O
+_	_	_	O
+각	각	MM	O
+_	_	_	O
+세대	세대	NNG	O
+가	가	JKS	O
+_	_	_	O
+겪	겪	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+는	는	ETM	O
+_	_	_	O
+각종	각종	NNG	O
+_	_	_	O
+사회	사회	NNG	O
+·	·	SP	O
+경제적	경제적	NNG	O
+_	_	_	O
+상황	상황	NNG	O
+들	들	XSN	O
+로	로	JKB	O
+_	_	_	O
+인한	인하+ㄴ	VV+ETM	O
+_	_	_	O
+마음	마음	NNG	O
+의	의	JKG	O
+_	_	_	O
+온도	온도	NNG	O
+는	는	JX	O
+_	_	_	O
+더	더	MAG	O
+_	_	_	O
+낮	낮	VA	O
+아	아	EC	O
+질	지+ㄹ	VX+ETM	O
+_	_	_	O
+것	것	NNB	O
+이	이	VCP	O
+라는	라는	ETM	O
+_	_	_	O
+응답	응답	NNG	O
+은	은	JX	O
+_	_	_	O
+79.1	79.1	SN	B-PNT
+%	%	SW	I-PNT
+에	에	JKB	O
+_	_	_	O
+달	달하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 14
+## 성별로 본 경우 고교생 여성그룹과 대학생 여성 그룹이 각각 영하 18.1도로 응답해 가장 낮았다.
+## 성별로 본 경우 고교생 여성그룹과 대학생 여성 그룹이 각각 영하 <18.1도:NOH>로 응답해 가장 낮았다.
+성별	성별	NNG	O
+로	로	JKB	O
+_	_	_	O
+본	보+ㄴ	VV+ETM	O
+_	_	_	O
+경우	경우	NNG	O
+_	_	_	O
+고교생	고교생	NNG	O
+_	_	_	O
+여성	여성	NNG	O
+그룹	그룹	NNG	O
+과	과	JC	O
+_	_	_	O
+대학생	대학생	NNG	O
+_	_	_	O
+여성	여성	NNG	O
+_	_	_	O
+그룹	그룹	NNG	O
+이	이	JKS	O
+_	_	_	O
+각각	각각	MAG	O
+_	_	_	O
+영하	영하	NNG	O
+_	_	_	O
+18.1	18.1	SN	B-NOH
+도	도	NNB	I-NOH
+로	로	JKB	O
+_	_	_	O
+응답해	응답하+여	VV+EC	O
+_	_	_	O
+가장	가장	MAG	O
+_	_	_	O
+낮	낮	VA	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 15
+## 황치열은 과거 레이디경향과 인터뷰를 진행했다.
+## <황치열:PER>은 과거 <레이디경향:ORG>과 인터뷰를 진행했다.
+황치열	황치열	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+과거	과거	NNG	O
+_	_	_	O
+레이디경향	레이디경향	NNP	B-ORG
+과	과	JKB	O
+_	_	_	O
+인터뷰	인터뷰	NNG	O
+를	를	JKO	O
+_	_	_	O
+진행	진행하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 16
+## 동아일보와 특허정보회사 광개토연구소가 2005년부터 10년간 미국에서 제기된 특허 소송을 분석한 결과 NPE의 국내 기업 특허 공격 범위가 넓어져 지난해에는 중소·중견기업이 4곳이나 포함된 것으로 나타났다.
+## <동아일보:ORG>와 특허정보회사 <광개토연구소:ORG>가 <2005년:DAT>부터 <10년간:DUR> <미국:LOC>에서 제기된 특허 소송을 분석한 결과 NPE의 국내 기업 특허 공격 범위가 넓어져 지난해에는 중소·중견기업이 <4곳:NOH>이나 포함된 것으로 나타났다.
+동아일보	동아일보	NNP	B-ORG
+와	와	JC	O
+_	_	_	O
+특허	특허	NNG	O
+정보	정보	NNG	O
+회사	회사	NNG	O
+_	_	_	O
+광개토	광개토	NNP	B-ORG
+연구소	연구소	NNG	I-ORG
+가	가	JKS	O
+_	_	_	O
+2005	2005	SN	B-DAT
+년	년	NNB	I-DAT
+부터	부터	JX	O
+_	_	_	O
+10	10	SN	B-DUR
+년	년	NNB	I-DUR
+간	간	XSN	I-DUR
+_	_	_	O
+미국	미국	NNP	B-LOC
+에서	에서	JKB	O
+_	_	_	O
+제기된	제기되+ㄴ	VV+ETM	O
+_	_	_	O
+특허	특허	NNG	O
+_	_	_	O
+소송	소송	NNG	O
+을	을	JKO	O
+_	_	_	O
+분석한	분석하+ㄴ	VV+ETM	O
+_	_	_	O
+결과	결과	NNG	O
+_	_	_	O
+NPE	NPE	SL	O
+의	의	JKG	O
+_	_	_	O
+국내	국내	NNG	O
+_	_	_	O
+기업	기업	NNG	O
+_	_	_	O
+특허	특허	NNG	O
+_	_	_	O
+공격	공격	NNG	O
+_	_	_	O
+범위	범위	NNG	O
+가	가	JKS	O
+_	_	_	O
+넓어져	넓어지+어	VV+EC	O
+_	_	_	O
+지난해	지난해	NNG	O
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+중소	중소	NNG	O
+·	·	SP	O
+중견	중견	NNG	O
+기업	기업	NNG	O
+이	이	JKS	O
+_	_	_	O
+4	4	SN	B-NOH
+곳	곳	NNG	I-NOH
+이나	이나	JX	O
+_	_	_	O
+포함된	포함되+ㄴ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+나타났	나타나+았	VV+EP	O
+다	다	EF	O
+.	.	SF	O
+

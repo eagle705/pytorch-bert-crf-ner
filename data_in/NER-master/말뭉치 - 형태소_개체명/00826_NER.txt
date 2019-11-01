@@ -1,0 +1,406 @@
+## 1
+## 올해는 허영자 이근배 유자효 강은교 송수권 등 시인들의 초청 강연과 김지혜 성우의 시 낭송 발성 강의, 시낭송 축제 등으로 진행된다.
+## 올해는 <허영자:PER> <이근배:PER> <유자효:PER> <강은교:PER> <송수권:PER> 등 시인들의 초청 강연과 <김지혜:PER> 성우의 시 낭송 발성 강의, 시낭송 축제 등으로 진행된다.
+올해	올해	NNG	O
+는	는	JX	O
+_	_	_	O
+허영자	허영자	NNP	B-PER
+_	_	_	O
+이근배	이근배	NNP	B-PER
+_	_	_	O
+유자효	유자효	NNP	B-PER
+_	_	_	O
+강은교	강은교	NNP	B-PER
+_	_	_	O
+송수권	송수권	NNP	B-PER
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+시인	시인	NNG	O
+들	들	XSN	O
+의	의	JKG	O
+_	_	_	O
+초청	초청	NNG	O
+_	_	_	O
+강연	강연	NNG	O
+과	과	JC	O
+_	_	_	O
+김지혜	김지혜	NNP	B-PER
+_	_	_	O
+성우	성우	NNG	O
+의	의	JKG	O
+_	_	_	O
+시	시	NNG	O
+_	_	_	O
+낭송	낭송	NNG	O
+_	_	_	O
+발성	발성	NNG	O
+_	_	_	O
+강의	강의	NNG	O
+,	,	SP	O
+_	_	_	O
+시	시	NNG	O
+낭송	낭송	NNG	O
+_	_	_	O
+축제	축제	NNG	O
+_	_	_	O
+등	등	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+진행된다	진행되+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 2
+## 앞서 유노윤호는 20일 제대하면서 “(최강)창민은 내게 든든한 멤버이자 지원군이다.
+## 앞서 <유노윤호:PER>는 <20일:DAT> 제대하면서 “<(최강)창민:PER>은 내게 든든한 멤버이자 지원군이다.
+앞서	앞서	MAG	O
+_	_	_	O
+유노	유노	NNG	B-PER
+윤호	윤호	NNP	I-PER
+는	는	JX	O
+_	_	_	O
+20	20	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+제대하	제대하	VV	O
+면서	면서	EC	O
+_	_	_	O
+“	“	SS	O
+(	(	SS	B-PER
+최강	최강	NNG	I-PER
+)	)	SS	I-PER
+창민	창민	NNP	I-PER
+은	은	JX	O
+_	_	_	O
+내게	나+에게	NP+JKB	O
+_	_	_	O
+든든한	든든하+ㄴ	VA+ETM	O
+_	_	_	O
+멤버	멤버	NNG	O
+이	이	VCP	O
+자	자	EC	O
+_	_	_	O
+지원군	지원군	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 공연은 5월 25일까지 계속된다.
+## 공연은 <5월 25일:DAT>까지 계속된다.
+공연	공연	NNG	O
+은	은	JX	O
+_	_	_	O
+5	5	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	I-DAT
+25	25	SN	I-DAT
+일	일	NNB	I-DAT
+까지	까지	JX	O
+_	_	_	O
+계속된다	계속되+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 4
+## 영화 '신세계' 이후 박성웅의 이미지는 무겁고 강렬했다.
+## 영화 '<신세계:POH>' 이후 <박성웅:PER>의 이미지는 무겁고 강렬했다.
+영화	영화	NNG	O
+_	_	_	O
+'	'	SS	O
+신세계	신세계	NNG	B-POH
+'	'	SS	O
+_	_	_	O
+이후	이후	NNG	O
+_	_	_	O
+박성웅	박성웅	NNP	B-PER
+의	의	JKG	O
+_	_	_	O
+이미지	이미지	NNG	O
+는	는	JX	O
+_	_	_	O
+무겁	무겁	VA	O
+고	고	EC	O
+_	_	_	O
+강렬	강렬하	VA	O
+했	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 바비의 경우처럼 낙상에 의한 뇌 손상 외에도 가정에서 휘두른 골프채나 야구 배트 등에 맞아 뇌 손상을 입는 경우가 심심치 않게 일어난다.
+## <바비:PER>의 경우처럼 낙상에 의한 뇌 손상 외에도 가정에서 휘두른 골프채나 야구 배트 등에 맞아 뇌 손상을 입는 경우가 심심치 않게 일어난다.
+바비	바비	NNP	B-PER
+의	의	JKG	O
+_	_	_	O
+경우	경우	NNG	O
+처럼	처럼	JKB	O
+_	_	_	O
+낙상	낙상	NNG	O
+에	에	JKB	O
+_	_	_	O
+의한	의하+ㄴ	VV+ETM	O
+_	_	_	O
+뇌	뇌	NNG	O
+_	_	_	O
+손상	손상	NNG	O
+_	_	_	O
+외	외	NNB	O
+에	에	JKB	O
+도	도	JX	O
+_	_	_	O
+가정	가정	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+휘두른	휘두르+ㄴ	VV+ETM	O
+_	_	_	O
+골프채	골프채	NNG	O
+나	나	JC	O
+_	_	_	O
+야구	야구	NNG	O
+_	_	_	O
+배트	배트	NNG	O
+_	_	_	O
+등	등	NNB	O
+에	에	JKB	O
+_	_	_	O
+맞	맞	VV	O
+아	고	EC	O
+_	_	_	O
+뇌	뇌	NNG	O
+_	_	_	O
+손상	손상	NNG	O
+을	을	JKO	O
+_	_	_	O
+입	입	VV	O
+는	는	ETM	O
+_	_	_	O
+경우	경우	NNG	O
+가	가	JKS	O
+_	_	_	O
+심심	심심하	VA	O
+치	지	EC	O
+_	_	_	O
+않	않	VX	O
+게	게	EC	O
+_	_	_	O
+일어난다	일어나+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 6
+## 샐리앤찰리, 인천 인재개발원 공무원 대상 ‘국제 비즈니스 전문가 과정’ 강연
+## <샐리앤찰리:ORG>, <인천 인재개발원:ORG> 공무원 대상 ‘국제 비즈니스 전문가 과정’ 강연
+샐리	샐리	NNP	B-ORG
+앤	앤	NNP	I-ORG
+찰리	찰리	NNP	I-ORG
+,	,	SP	O
+_	_	_	O
+인천	인천	NNP	B-ORG
+_	_	_	I-ORG
+인재	인재	NNG	I-ORG
+개발	개발	NNG	I-ORG
+원	원	XSN	I-ORG
+_	_	_	O
+공무원	공무원	NNG	O
+_	_	_	O
+대상	대상	NNG	O
+_	_	_	O
+‘	‘	SS	O
+국제	국제	NNG	O
+_	_	_	O
+비즈니스	비즈니스	NNG	O
+_	_	_	O
+전문가	전문가	NNG	O
+_	_	_	O
+과정	과정	NNG	O
+’	’	SS	O
+_	_	_	O
+강연	강연	NNG	O
+
+## 7
+## 데뷔전에서 입상한 7명 모두가 선행에 나섰다.
+## 데뷔전에서 입상한 <7명:NOH> 모두가 선행에 나섰다.
+데뷔	데뷔	NNG	O
+전	전	XSN	O
+에서	에서	JKB	O
+_	_	_	O
+입상한	입상하+ㄴ	VV+ETM	O
+_	_	_	O
+7	7	SN	B-NOH
+명	명	NNB	I-NOH
+_	_	_	O
+모두	모두	NNG	O
+가	가	JKS	O
+_	_	_	O
+선행	선행	NNG	O
+에	에	JKB	O
+_	_	_	O
+나섰	나서+었	VV+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## “김민지 임신, 태명 만두”
+## “<김민지:PER> 임신, 태명 <만두:PER>”
+“	“	SS	O
+김민지	김민지	NNP	B-PER
+_	_	_	O
+임신	임신	NNG	O
+,	,	SP	O
+_	_	_	O
+태명	태명	NNG	O
+_	_	_	O
+만두	만두	NNG	B-PER
+”	”	SS	O
+
+## 9
+## 시즌2 멤버는 김지영, 박하선, 강예원, 이다희, 윤보미, 엠버, 이지애까지 총 8명이다.
+## <시즌2:NOH> 멤버는 <김지영:PER>, <박하선:PER>, <강예원:PER>, <이다희:PER>, <윤보미:PER>, <엠버:PER>, <이지애:PER>까지 총 <8명:NOH>이다.
+시즌	시즌	NNG	B-NOH
+2	2	SN	I-NOH
+_	_	_	O
+멤버	멤버	NNG	O
+는	는	JX	O
+_	_	_	O
+김지영	김지영	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+박하선	박하선	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+강예원	강예원	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+이다희	이다희	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+윤보미	윤보미	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+엠버	엠버	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+이지애	이지애	NNP	B-PER
+까지	까지	JX	O
+_	_	_	O
+총	총	MM	O
+_	_	_	O
+8	8	SN	B-NOH
+명	명	NNB	I-NOH
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 다만 여성 고용 비율(32%)은 실리콘밸리(29%), 싱가포르(26%), 런던(24%)에 비해 높았다.
+## 다만 여성 고용 비율(<32%:PNT>)은 <실리콘밸리:LOC>(<29%:PNT>), <싱가포르:LOC>(<26%:PNT>), <런던:LOC>(<24%:PNT>)에 비해 높았다.
+다만	다만	MAG	O
+_	_	_	O
+여성	여성	NNG	O
+_	_	_	O
+고용	고용	NNG	O
+_	_	_	O
+비율	비율	NNG	O
+(	(	SS	O
+32	32	SN	B-PNT
+%	%	SW	I-PNT
+)	)	SS	O
+은	은	JX	O
+_	_	_	O
+실리콘밸리	실리콘밸리	NNP	B-LOC
+(	(	SS	O
+29	29	SN	B-PNT
+%	%	SW	I-PNT
+)	)	SS	O
+,	,	SP	O
+_	_	_	O
+싱가포르	싱가포르	NNP	B-LOC
+(	(	SS	O
+26	26	SN	B-PNT
+%	%	SW	I-PNT
+)	)	SS	O
+,	,	SP	O
+_	_	_	O
+런던	런던	NNP	B-LOC
+(	(	SS	O
+24	24	SN	B-PNT
+%	%	SW	I-PNT
+)	)	SS	O
+에	에	JKB	O
+_	_	_	O
+비해	비하+여	VV+EC	O
+_	_	_	O
+높	높	VA	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 조사를 담당한 한양사이버대학교 이지은 교수는 “스타트업 생태계에 여성의 참여율이 계속 높아질 것으로 기대한다”고 설명했다.
+## 조사를 담당한 <한양사이버대학교:ORG> <이지은:PER> 교수는 “스타트업 생태계에 여성의 참여율이 계속 높아질 것으로 기대한다”고 설명했다.
+조사	조사	NNG	O
+를	를	JKO	O
+_	_	_	O
+담당한	담당하+ㄴ	VV+ETM	O
+_	_	_	O
+한양	한양	NNP	B-ORG
+사이버	사이버	NNG	I-ORG
+대학교	대학교	NNG	I-ORG
+_	_	_	O
+이지은	이지은	NNP	B-PER
+_	_	_	O
+교수	교수	NNG	O
+는	는	JX	O
+_	_	_	O
+“	“	SS	O
+스타트	스타트	NNG	O
+업	업	NNG	O
+_	_	_	O
+생태계	생태계	NNG	O
+에	에	JKB	O
+_	_	_	O
+여성	여성	NNG	O
+의	의	JKG	O
+_	_	_	O
+참여	참여	NNG	O
+율	율	XSN	O
+이	이	JKS	O
+_	_	_	O
+계속	계속	MAG	O
+_	_	_	O
+높아질	높아지+ㄹ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+기대한다	기대하+ㄴ다	VV+EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+설명	설명하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 카카오택시 정식 서비스가 오늘(31일)부터 시작됐다.
+## <카카오택시:POH> 정식 서비스가 오늘(<31일:DAT>)부터 시작됐다.
+카카오	카카오	NNP	B-POH
+택시	택시	NNG	I-POH
+_	_	_	O
+정식	정식	NNG	O
+_	_	_	O
+서비스	서비스	NNG	O
+가	가	JKS	O
+_	_	_	O
+오늘	오늘	NNG	O
+(	(	SS	O
+31	31	SN	B-DAT
+일	일	NNB	I-DAT
+)	)	SS	O
+부터	부터	JX	O
+_	_	_	O
+시작	시작되	VV	O
+됐	었	EP	O
+다	다	EF	O
+.	.	SF	O
+

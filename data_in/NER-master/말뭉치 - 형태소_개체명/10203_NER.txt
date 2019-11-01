@@ -1,0 +1,509 @@
+## 1
+## 벨기에 브뤼셀 공항에서 21일(현지시간) 원인 불명의 연쇄 폭발 사고가 발생했다.
+## <벨기에:LOC> <브뤼셀 공항:LOC>에서 <21일:DAT>(현지시간) 원인 불명의 연쇄 폭발 사고가 발생했다.
+벨기에	벨기에	NNP	B-LOC
+_	_	_	O
+브뤼셀	브뤼셀	NNP	B-LOC
+_	_	_	I-LOC
+공항	공항	NNG	I-LOC
+에서	에서	JKB	O
+_	_	_	O
+21	21	SN	B-DAT
+일	일	NNB	I-DAT
+(	(	SS	O
+현지	현지	NNG	O
+시간	시간	NNG	O
+)	)	SS	O
+_	_	_	O
+원인	원인	NNG	O
+_	_	_	O
+불명	불명	NNG	O
+의	의	JKG	O
+_	_	_	O
+연쇄	연쇄	NNG	O
+_	_	_	O
+폭발	폭발	NNG	O
+_	_	_	O
+사고	사고	NNG	O
+가	가	JKS	O
+_	_	_	O
+발생	발생하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 이에 나가미네 대사는 “한국에 있는 대사관 직원들과 함께 바로 판단할 문제가 많이 있다.
+## 이에 <나가미네:PER> 대사는 “<한국:LOC>에 있는 대사관 직원들과 함께 바로 판단할 문제가 많이 있다.
+이	이	NP	O
+에	에	JKB	O
+_	_	_	O
+나가	나가	NNP	B-PER
+미	미+이	NNP+VCP	I-PER
+네	네	EC	I-PER
+_	_	_	O
+대사	대사	NNG	O
+는	는	JX	O
+_	_	_	O
+“	“	SS	O
+한국	한국	NNP	B-LOC
+에	에	JKB	O
+_	_	_	O
+있	있	VA	O
+는	는	ETM	O
+_	_	_	O
+대사관	대사관	NNG	O
+_	_	_	O
+직원	직원	NNG	O
+들	들	XSN	O
+과	과	JKB	O
+_	_	_	O
+함께	함께	MAG	O
+_	_	_	O
+바로	바로	MAG	O
+_	_	_	O
+판단할	판단하+ㄹ	VV+ETM	O
+_	_	_	O
+문제	문제	NNG	O
+가	가	JKS	O
+_	_	_	O
+많이	많이	MAG	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 아베 총리와 부인 아키에 여사는 30일까지 워싱턴에 머무는 동안 백악관 영빈관인 블레어하우스에 머문다.
+## <아베:PER> 총리와 부인 <아키에:PER> 여사는 <30일:DAT>까지 <워싱턴:LOC>에 머무는 동안 <백악관:LOC> 영빈관인 <블레어하우스:LOC>에 머문다.
+아베	아베	NNP	B-PER
+_	_	_	O
+총리	총리	NNG	O
+와	와	JC	O
+_	_	_	O
+부인	부인	NNG	O
+_	_	_	O
+아키에	아키에	NNP	B-PER
+_	_	_	O
+여사	여사	NNG	O
+는	는	JX	O
+_	_	_	O
+30	30	SN	B-DAT
+일	일	NNB	I-DAT
+까지	까지	JX	O
+_	_	_	O
+워싱턴	워싱턴	NNP	B-LOC
+에	에	JKB	O
+_	_	_	O
+머무	머물	VV	O
+는	는	ETM	O
+_	_	_	O
+동안	동안	NNG	O
+_	_	_	O
+백악관	백악관	NNP	B-LOC
+_	_	_	O
+영빈관	영빈관	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+블레어	블레어	NNP	B-LOC
+하우스	하우스	NNG	I-LOC
+에	에	JKB	O
+_	_	_	O
+머문다	머물+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 4
+## ‘크라임씬 PD 살인사건’은 실제와 가상을 오가는 페이크 다큐 형식으로 진행된다.
+## ‘<크라임씬 PD 살인사건:POH>’은 실제와 가상을 오가는 페이크 다큐 형식으로 진행된다.
+‘	‘	SS	O
+크라임	크라임	NNG	B-POH
+씬	씬	NNP	I-POH
+_	_	_	I-POH
+PD	PD	SL	I-POH
+_	_	_	I-POH
+살인	살인	NNG	I-POH
+사건	사건	NNG	I-POH
+’	’	SS	O
+은	은	JX	O
+_	_	_	O
+실제	실제	NNG	O
+와	와	JC	O
+_	_	_	O
+가상	가상	NNG	O
+을	을	JKO	O
+_	_	_	O
+오가	오가	VV	O
+는	는	ETM	O
+_	_	_	O
+페이크	페이크	NNG	O
+_	_	_	O
+다큐	다큐	NNG	O
+_	_	_	O
+형식	형식	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+진행된다	진행되+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 5
+## ‘해노랑’은 태양과 바다를 동시에 뜻하는 ‘해’와 주재료인 속노랑 고구마에서 따왔다.
+## ‘<해노랑:POH>’은 태양과 바다를 동시에 뜻하는 ‘해’와 주재료인 속노랑 고구마에서 따왔다.
+‘	‘	SS	O
+해	해	NNG	B-POH
+노랑	노랑	NNG	I-POH
+’	’	SS	O
+은	은	JX	O
+_	_	_	O
+태양	태양	NNG	O
+과	과	JC	O
+_	_	_	O
+바다	바다	NNG	O
+를	를	JKO	O
+_	_	_	O
+동시	동시	NNG	O
+에	에	JKB	O
+_	_	_	O
+뜻하	뜻하	VV	O
+는	는	ETM	O
+_	_	_	O
+‘	‘	SS	O
+해	해	NNG	O
+’	’	SS	O
+와	와	JKB	O
+_	_	_	O
+주재료	주재료	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+속	속	NNG	O
+노랑	노랑	NNG	O
+_	_	_	O
+고구마	고구마	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+따	따오	VV	O
+왔	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 이청용을 대신해 측면 공격을 맡은 이재성은 공격 첨병 역할을 소화했다.
+## <이청용:PER>을 대신해 측면 공격을 맡은 <이재성:PER>은 공격 첨병 역할을 소화했다.
+이청용	이청용	NNP	B-PER
+을	을	JKO	O
+_	_	_	O
+대신해	대신하+여	VV+EC	O
+_	_	_	O
+측면	측면	NNG	O
+_	_	_	O
+공격	공격	NNG	O
+을	을	JKO	O
+_	_	_	O
+맡	맡	VV	O
+은	은	ETM	O
+_	_	_	O
+이재성	이재성	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+공격	공격	NNG	O
+_	_	_	O
+첨병	첨병	NNG	O
+_	_	_	O
+역할	역할	NNG	O
+을	을	JKO	O
+_	_	_	O
+소화	소화하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## IS 테러리스트 리샤위는
+## <IS:ORG> 테러리스트 <리샤위:PER>는
+IS	IS	SL	B-ORG
+_	_	_	O
+테러리스트	테러리스트	NNG	O
+_	_	_	O
+리	리	NNB	B-PER
+샤위	샤위	NNP	I-PER
+는	는	JX	O
+
+## 8
+## “9800원 이상 주문에만 자체 배달서비스”
+## “<9800원:MNY> 이상 주문에만 자체 배달서비스”
+“	“	SS	O
+9800	9800	SN	B-MNY
+원	원	NNB	I-MNY
+_	_	_	O
+이상	이상	NNG	O
+_	_	_	O
+주문	주문	NNG	O
+에	에	JKB	O
+만	만	JX	O
+_	_	_	O
+자체	자체	NNG	O
+_	_	_	O
+배달	배달	NNG	O
+서비스	서비스	NNG	O
+”	”	SS	O
+
+## 9
+## 코스피와 코스닥지수 같은 시장 대표 지수는 일부 종목으로 인한 이상 현상까지 포함해야 한다는 것이다.
+## <코스피:POH>와 <코스닥지수:POH> 같은 시장 대표 지수는 일부 종목으로 인한 이상 현상까지 포함해야 한다는 것이다.
+코스피	코스피	NNG	B-POH
+와	와	JC	O
+_	_	_	O
+코스닥	코스닥	NNG	B-POH
+지수	지수	NNG	I-POH
+_	_	_	O
+같	같	VA	O
+은	은	ETM	O
+_	_	_	O
+시장	시장	NNG	O
+_	_	_	O
+대표	대표	NNG	O
+_	_	_	O
+지수	지수	NNG	O
+는	는	JX	O
+_	_	_	O
+일부	일부	NNG	O
+_	_	_	O
+종목	종목	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+인한	인하+ㄴ	VV+ETM	O
+_	_	_	O
+이상	이상	NNG	O
+_	_	_	O
+현상	현상	NNG	O
+까지	까지	JX	O
+_	_	_	O
+포함해야	포함하+여야	VV+EC	O
+_	_	_	O
+한다는	하+ㄴ다는	VX+ETM	O
+_	_	_	O
+것	것	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 중국 진출 후 1년이 채 되지 않은 기간에 주인공 자리를 잇달아 꿰차며 대륙에 안착하는 분위기다.
+## <중국:ORG> 진출 후 <1년:NOH>이 채 되지 않은 기간에 주인공 자리를 잇달아 꿰차며 대륙에 안착하는 분위기다.
+중국	중국	NNP	B-ORG
+_	_	_	O
+진출	진출	NNG	O
+_	_	_	O
+후	후	NNG	O
+_	_	_	O
+1	1	SN	B-NOH
+년	년	NNB	I-NOH
+이	이	JKC	O
+_	_	_	O
+채	채	MAG	O
+_	_	_	O
+되	되	VV	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+은	은	ETM	O
+_	_	_	O
+기간	기간	NNG	O
+에	에	JKB	O
+_	_	_	O
+주인공	주인공	NNG	O
+_	_	_	O
+자리	자리	NNG	O
+를	를	JKO	O
+_	_	_	O
+잇달	잇달	VV	O
+아	아	EC	O
+_	_	_	O
+꿰차	꿰차	VV	O
+며	며	EC	O
+_	_	_	O
+대륙	대륙	NNG	O
+에	에	JKB	O
+_	_	_	O
+안착하	안착하	VV	O
+는	는	ETM	O
+_	_	_	O
+분위기	분위기+이	NNG+VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 10대 가출소녀 11명 유인… 숙박 대가로 성매매 강요
+## <10대:NOH> 가출소녀 <11명:NOH> 유인… 숙박 대가로 성매매 강요
+10	10	SN	B-NOH
+대	대	NNB	I-NOH
+_	_	_	O
+가출	가출	NNG	O
+소녀	소녀	NNG	O
+_	_	_	O
+11	11	SN	B-NOH
+명	명	NNB	I-NOH
+_	_	_	O
+유인	유인	NNG	O
+…	…	SE	O
+_	_	_	O
+숙박	숙박	NNG	O
+_	_	_	O
+대가	대가	NNG	O
+로	로	JKB	O
+_	_	_	O
+성	성	NNG	O
+매매	매매	NNG	O
+_	_	_	O
+강요	강요	NNG	O
+
+## 12
+## 이는 제2공항 호재를 바탕으로 외지인들과 중국인 등 다수의 투자자들이 유입됐기 때문으로 풀이된다.
+## 이는 <제2:NOH>공항 호재를 바탕으로 외지인들과 중국인 등 다수의 투자자들이 유입됐기 때문으로 풀이된다.
+이	이	NP	O
+는	는	JX	O
+_	_	_	O
+제	제	XPN	B-NOH
+2	2	SN	I-NOH
+공항	공항	NNG	O
+_	_	_	O
+호재	호재	NNG	O
+를	를	JKO	O
+_	_	_	O
+바탕	바탕	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+외지인	외지인	NNG	O
+들	들	XSN	O
+과	과	JC	O
+_	_	_	O
+중국인	중국인	NNG	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+다수	다수	NNG	O
+의	의	JKG	O
+_	_	_	O
+투자자	투자자	NNG	O
+들	들	XSN	O
+이	이	JKS	O
+_	_	_	O
+유입	유입되	VV	O
+됐	었	EP	O
+기	기	ETN	O
+_	_	_	O
+때문	때문	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+풀이된다	풀이되+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 13
+## 미군 주도 연합군이 이번엔 시리아에서 오폭을 수행해 이슬람 테러단체 격퇴에 협력하는 반군 등 18명을 숨지게 했다.
+## <미군:ORG> 주도 연합군이 이번엔 <시리아:ORG>에서 오폭을 수행해 이슬람 테러단체 격퇴에 협력하는 반군 등 <18명:NOH>을 숨지게 했다.
+미군	미군	NNG	B-ORG
+_	_	_	O
+주도	주도	NNG	O
+_	_	_	O
+연합군	연합군	NNG	O
+이	이	JKS	O
+_	_	_	O
+이번	이번	NNG	O
+엔	에+ㄴ	JKB+JX	O
+_	_	_	O
+시리아	시리아	NNP	B-ORG
+에서	에서	JKB	O
+_	_	_	O
+오폭	오폭	NNG	O
+을	을	JKO	O
+_	_	_	O
+수행해	수행하+여	VV+EC	O
+_	_	_	O
+이슬람	이슬람	NNG	O
+_	_	_	O
+테러	테러	NNG	O
+단체	단체	NNG	O
+_	_	_	O
+격퇴	격퇴	NNG	O
+에	에	JKB	O
+_	_	_	O
+협력하	협력하	VV	O
+는	는	ETM	O
+_	_	_	O
+반군	반군	NNG	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+18	18	SN	B-NOH
+명	명	NNB	I-NOH
+을	을	JKO	O
+_	_	_	O
+숨지	숨지	VV	O
+게	게	EC	O
+_	_	_	O
+했	+였	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 14
+## 미 중부사령부는 13일(현지시간) 성명을 내고 “해당 공습은 이슬람국가(IS)의 진지 위치를 파악한 동맹군의 요청을 받은 결과다”며 이같이 밝혔다.
+## <미 중부사령부:ORG>는 <13일:DAT>(현지시간) 성명을 내고 “해당 공습은 <이슬람국가:ORG>(<IS:ORG>)의 진지 위치를 파악한 동맹군의 요청을 받은 결과다”며 이같이 밝혔다.
+미	미	NNP	B-ORG
+_	_	_	I-ORG
+중부	중부	NNG	I-ORG
+사령부	사령부	NNG	I-ORG
+는	는	JX	O
+_	_	_	O
+13	13	SN	B-DAT
+일	일	NNB	I-DAT
+(	(	SS	O
+현지	현지	NNG	O
+시간	시간	NNG	O
+)	)	SS	O
+_	_	_	O
+성명	성명	NNG	O
+을	을	JKO	O
+_	_	_	O
+내	내	VV	O
+고	고	EC	O
+_	_	_	O
+“	“	SS	O
+해당	해당	NNG	O
+_	_	_	O
+공습	공습	NNG	O
+은	은	JX	O
+_	_	_	O
+이슬람	이슬람	NNG	B-ORG
+국가	국가	NNG	I-ORG
+(	(	SS	O
+IS	IS	SL	B-ORG
+)	)	SS	O
+의	의	JKG	O
+_	_	_	O
+진지	진지	NNG	O
+_	_	_	O
+위치	위치	NNG	O
+를	를	JKO	O
+_	_	_	O
+파악한	파악하+ㄴ	VV+ETM	O
+_	_	_	O
+동맹군	동맹군	NNG	O
+의	의	JKG	O
+_	_	_	O
+요청	요청	NNG	O
+을	을	JKO	O
+_	_	_	O
+받	받	VV	O
+은	은	ETM	O
+_	_	_	O
+결과	결과+이	NNG+VCP	O
+다	다	EF	O
+”	”	SS	O
+며	며	EC	O
+_	_	_	O
+이같이	이같이	MAG	O
+_	_	_	O
+밝	밝히	VV	O
+혔	었	EP	O
+다	다	EF	O
+.	.	SF	O
+

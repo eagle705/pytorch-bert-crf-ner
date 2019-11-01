@@ -1,0 +1,436 @@
+## 1
+## ‘박하선 안영미, 진짜사나이’배우 박하선과 개그우먼 안영미가 ‘진짜사나이’ 여군 특집에 출연한다.
+## ‘<박하선:PER> <안영미:PER>, <진짜사나이:POH>’배우 <박하선:PER>과 개그우먼 <안영미:PER>가 ‘<진짜사나이:POH>’ 여군 특집에 출연한다.
+‘	‘	SS	O
+박하선	박하선	NNP	B-PER
+_	_	_	O
+안영미	안영미	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+진짜	진짜	NNG	B-POH
+사나이	사나이	NNG	I-POH
+’	’	SS	O
+배우	배우	NNG	O
+_	_	_	O
+박하선	박하선	NNP	B-PER
+과	과	JC	O
+_	_	_	O
+개그우먼	개그우먼	NNG	O
+_	_	_	O
+안영미	안영미	NNP	B-PER
+가	가	JKS	O
+_	_	_	O
+‘	‘	SS	O
+진짜	진짜	NNG	B-POH
+사나이	사나이	NNG	I-POH
+’	’	SS	O
+_	_	_	O
+여군	여군	NNG	O
+_	_	_	O
+특집	특집	NNG	O
+에	에	JKB	O
+_	_	_	O
+출연한다	출연하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 2
+## 2일 MBC에 따르면 박하선과 안영미는 MBC ‘일밤-진짜사나이’ 여군특집 2기 멤버로 발탁됐다.
+## <2일:DAT> <MBC:ORG>에 따르면 <박하선:PER>과 <안영미:PER>는 <MBC:ORG> ‘<일밤-진짜사나이:POH>’ 여군특집 2기 멤버로 발탁됐다.
+2	2	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+MBC	MBC	SL	B-ORG
+에	에	JKB	O
+_	_	_	O
+따르	따르	VV	O
+면	면	EC	O
+_	_	_	O
+박하선	박하선	NNP	B-PER
+과	과	JC	O
+_	_	_	O
+안영미	안영미	NNP	B-PER
+는	는	JX	O
+_	_	_	O
+MBC	MBC	SL	B-ORG
+_	_	_	O
+‘	‘	SS	O
+일	일	NNB	B-POH
+밤	밤	NNG	I-POH
+-	-	SO	I-POH
+진짜	진짜	NNG	I-POH
+사나이	사나이	NNG	I-POH
+’	’	SS	O
+_	_	_	O
+여군	여군	NNG	O
+특집	특집	NNG	O
+_	_	_	O
+2	2	SN	O
+기	기	NNG	O
+_	_	_	O
+멤버	멤버	NNG	O
+로	로	JKB	O
+_	_	_	O
+발탁	발탁되	VV	O
+됐	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 박하선, 안영미를 제외한 나머지 멤버는 입소하는 날 공개되는 것으로 전해졌다.
+## <박하선:PER>, <안영미:PER>를 제외한 나머지 멤버는 입소하는 날 공개되는 것으로 전해졌다.
+박하선	박하선	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+안영미	안영미	NNP	B-PER
+를	를	JKO	O
+_	_	_	O
+제외한	제외하+ㄴ	VV+ETM	O
+_	_	_	O
+나머지	나머지	NNG	O
+_	_	_	O
+멤버	멤버	NNG	O
+는	는	JX	O
+_	_	_	O
+입소하	입소하	VV	O
+는	는	ETM	O
+_	_	_	O
+날	날	NNG	O
+_	_	_	O
+공개되	공개되	VV	O
+는	는	ETM	O
+_	_	_	O
+것	것	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+전해	전하	VV	O
+졌	여+지+었	EC+VX+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 청약 당첨자 발표는 12일이며, 19일부터 21일까지 지정계약일이다.
+## 청약 당첨자 발표는 <12일:DAT>이며, <19일부터 21일까지:DUR> 지정계약일이다.
+청약	청약	NNG	O
+_	_	_	O
+당첨자	당첨자	NNG	O
+_	_	_	O
+발표	발표	NNG	O
+는	는	JX	O
+_	_	_	O
+12	12	SN	B-DAT
+일	일	NNB	I-DAT
+이	이	VCP	O
+며	며	EC	O
+,	,	SP	O
+_	_	_	O
+19	19	SN	B-DUR
+일	일	NNB	I-DUR
+부터	부터	JX	I-DUR
+_	_	_	I-DUR
+21	21	SN	I-DUR
+일	일	NNB	I-DUR
+까지	까지	JX	I-DUR
+_	_	_	O
+지정	지정	NNG	O
+계약	계약	NNG	O
+일	일	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 검찰, 심학봉 성폭행의혹 재수사…“2013년 친고죄 폐지” 이번 사건에 영향은?이미경 한국성폭력상담소 소장이 ‘성폭행 의혹’을 받고 있는 심학봉 의원에 대한 검찰의 재수사 방침을 반겼다.
+## 검찰, <심학봉:PER> 성폭행의혹 재수사…“<2013년:DAT> 친고죄 폐지” 이번 사건에 영향은?<이미경:PER> <한국성폭력상담소:ORG> 소장이 ‘성폭행 의혹’을 받고 있는 <심학봉:PER> 의원에 대한 검찰의 재수사 방침을 반겼다.
+검찰	검찰	NNG	O
+,	,	SP	O
+_	_	_	O
+심학봉	심학봉	NNP	B-PER
+_	_	_	O
+성폭행	성폭행	NNG	O
+의혹	의혹	NNG	O
+_	_	_	O
+재수사	재수사	NNG	O
+…	…	SE	O
+“	“	SS	O
+2013	2013	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+친고죄	친고죄	NNG	O
+_	_	_	O
+폐지	폐지	NNG	O
+”	”	SS	O
+_	_	_	O
+이번	이번	NNG	O
+_	_	_	O
+사건	사건	NNG	O
+에	에	JKB	O
+_	_	_	O
+영향	영향	NNG	O
+은	은	JX	O
+?	?	SF	O
+이미경	이미경	NNP	B-PER
+_	_	_	O
+한국	한국	NNP	B-ORG
+성폭력	성폭력	NNG	I-ORG
+상담소	상담소	NNG	I-ORG
+_	_	_	O
+소장	소장	NNG	O
+이	이	JKS	O
+_	_	_	O
+‘	‘	SS	O
+성폭행	성폭행	NNG	O
+_	_	_	O
+의혹	의혹	NNG	O
+’	’	SS	O
+을	을	JKO	O
+_	_	_	O
+받	받	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+는	는	ETM	O
+_	_	_	O
+심학봉	심학봉	NNP	B-PER
+_	_	_	O
+의원	의원	NNG	O
+에	에	JKB	O
+_	_	_	O
+대한	대하+ㄴ	VV+ETM	O
+_	_	_	O
+검찰	검찰	NNG	O
+의	의	JKG	O
+_	_	_	O
+재수사	재수사	NNG	O
+_	_	_	O
+방침	방침	NNG	O
+을	을	JKO	O
+_	_	_	O
+반	반기	VV	O
+겼	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 23일 KBS 2TV ‘용감한 가족’이 첫 방송 말미에 공개된 예고편에서 설현이 이문식이 구해 온 달걀을 실수로 떨어뜨렸다.
+## <23일:DAT> <KBS 2TV:POH> ‘<용감한 가족:POH>’이 첫 방송 말미에 공개된 예고편에서 <설현:PER>이 <이문식:PER>이 구해 온 달걀을 실수로 떨어뜨렸다.
+23	23	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+KBS	KBS	SL	B-POH
+_	_	_	I-POH
+2	2	SN	I-POH
+TV	TV	SL	I-POH
+_	_	_	O
+‘	‘	SS	O
+용감한	용감하+ㄴ	VA+ETM	B-POH
+_	_	_	I-POH
+가족	가족	NNG	I-POH
+’	’	SS	O
+이	이	JKS	O
+_	_	_	O
+첫	첫	MM	O
+_	_	_	O
+방송	방송	NNG	O
+_	_	_	O
+말미	말미	NNG	O
+에	에	JKB	O
+_	_	_	O
+공개된	공개되+ㄴ	VV+ETM	O
+_	_	_	O
+예고편	예고편	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+설현	설현	NNP	B-PER
+이	이	JKS	O
+_	_	_	O
+이문식	이문식	NNP	B-PER
+이	이	JKS	O
+_	_	_	O
+구해	구하+여	VV+EC	O
+_	_	_	O
+온	온	NNG	O
+_	_	_	O
+달걀	달걀	NNG	O
+을	을	JKO	O
+_	_	_	O
+실수	실수	NNG	O
+로	로	JKB	O
+_	_	_	O
+떨어뜨	떨어뜨리	VV	O
+렸	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 인터파크 투어는 8월 19일까지 버즈런처 홈팩 출시를 기념해 이벤트를 진행한다.
+## <인터파크 투어:POH>는 <8월 19일:DAT>까지 버즈런처 홈팩 출시를 기념해 이벤트를 진행한다.
+인터파크	인터파크	NNP	B-POH
+_	_	_	I-POH
+투어	투어	NNG	I-POH
+는	는	JX	O
+_	_	_	O
+8	8	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	I-DAT
+19	19	SN	I-DAT
+일	일	NNB	I-DAT
+까지	까지	JX	O
+_	_	_	O
+버즈런처	버즈런처	NNG	O
+_	_	_	O
+홈팩	홈팩	NNP	O
+_	_	_	O
+출시	출시	NNG	O
+를	를	JKO	O
+_	_	_	O
+기념해	기념하+여	VV+EC	O
+_	_	_	O
+이벤트	이벤트	NNG	O
+를	를	JKO	O
+_	_	_	O
+진행한다	진행하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 8
+## 안철수, 사드 추가배치 질문에 “만병통치약 아냐”
+## <안철수:PER>, <사드:POH> 추가배치 질문에 “만병통치약 아냐”
+안철수	안철수	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+사드	사드	NNP	B-POH
+_	_	_	O
+추가	추가	NNG	O
+배치	배치	NNG	O
+_	_	_	O
+질문	질문	NNG	O
+에	에	JKB	O
+_	_	_	O
+“	“	SS	O
+만병통치약	만병통치약	NNG	O
+_	_	_	O
+아	아니	VCN	O
+냐	야	EF	O
+”	”	SS	O
+
+## 9
+## "지난 2년간 모든 것을 불태워 게임을 개발해왔다는 두 대표. 실제로 두 대표는 출시일 전날까지 밤을 새운 탓인지 피곤한 기색이 역력했다.
+## "지난 <2년간:DUR> 모든 것을 불태워 게임을 개발해왔다는 <두 대표:POH>. 실제로 <두 대표:POH>는 출시일 전날까지 밤을 새운 탓인지 피곤한 기색이 역력했다.
+"	"	SS	O
+지난	지나+ㄴ	VV+ETM	O
+_	_	_	O
+2	2	SN	B-DUR
+년	년	NNB	I-DUR
+간	간	XSN	I-DUR
+_	_	_	O
+모든	모든	MM	O
+_	_	_	O
+것	것	NNB	O
+을	을	JKO	O
+_	_	_	O
+불태	불태우	VV	O
+워	어	EC	O
+_	_	_	O
+게임	게임	NNG	O
+을	을	JKO	O
+_	_	_	O
+개발해	개발하+여+오	VV+EC+VX	O
+왔	았	EP	O
+다는	다는	ETM	O
+_	_	_	O
+두	두	MM	B-POH
+_	_	_	I-POH
+대표	대표	NNG	I-POH
+.	.	SF	O
+_	_	_	O
+실제로	실제로	MAG	O
+_	_	_	O
+두	두	MM	B-POH
+_	_	_	I-POH
+대표	대표	NNG	I-POH
+는	는	JX	O
+_	_	_	O
+출시	출시	NNG	O
+일	일	NNB	O
+_	_	_	O
+전날	전날	NNG	O
+까지	까지	JX	O
+_	_	_	O
+밤	밤	NNG	O
+을	을	JKO	O
+_	_	_	O
+새운	새우+ㄴ	VV+ETM	O
+_	_	_	O
+탓	탓	NNG	O
+인지	이+ㄴ지	VCP+EC	O
+_	_	_	O
+피곤한	피곤하+ㄴ	VA+ETM	O
+_	_	_	O
+기색	기색	NNG	O
+이	이	JKS	O
+_	_	_	O
+역력	역력하	VA	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 민병헌의 2타점 우전적시타, 김현수의 1타점 우전적시타로 4-0까지 달아났다.
+## <민병헌:PER>의 <2타점:NOH> 우전적시타, <김현수:PER>의 <1타점:NOH> 우전적시타로 <4-0:NOH>까지 달아났다.
+민병헌	민병헌	NNP	B-PER
+의	의	JKG	O
+_	_	_	O
+2	2	SN	B-NOH
+타점	타점	NNG	I-NOH
+_	_	_	O
+우전	우전	NNG	O
+적시타	적시타	NNG	O
+,	,	SP	O
+_	_	_	O
+김현수	김현수	NNP	B-PER
+의	의	JKG	O
+_	_	_	O
+1	1	SN	B-NOH
+타점	타점	NNG	I-NOH
+_	_	_	O
+우전	우전	NNG	O
+적시타	적시타	NNG	O
+로	로	JKB	O
+_	_	_	O
+4	4	SN	B-NOH
+-	-	SO	I-NOH
+0	0	SN	I-NOH
+까지	까지	JX	O
+_	_	_	O
+달아났	달아나+았	VV+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## '식사하셨어요' 양동근, "식사중 정준 생각에 눈물… 이유는?"
+## '<식사하셨어요:POH>' <양동근:PER>, "식사중 <정준:PER> 생각에 눈물… 이유는?"
+'	'	SS	O
+식사하	식사하	VV	B-POH
+셨	시+었	EP+EP	I-POH
+어요	어요	EF	I-POH
+'	'	SS	O
+_	_	_	O
+양동근	양동근	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+"	"	SS	O
+식사	식사	NNG	O
+중	중	NNB	O
+_	_	_	O
+정준	정준	NNG	B-PER
+_	_	_	O
+생각	생각	NNG	O
+에	에	JKB	O
+_	_	_	O
+눈물	눈물	NNG	O
+…	…	SE	O
+_	_	_	O
+이유	이유	NNG	O
+는	는	JX	O
+?	?	SF	O
+"	"	SS	O
+

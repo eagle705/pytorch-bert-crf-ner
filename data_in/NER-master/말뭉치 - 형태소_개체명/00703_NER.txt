@@ -1,0 +1,678 @@
+## 1
+## [영상]I'm Your Father! '스타워즈'가 다가온다!
+## [영상]I'm Your Father! '<스타워즈:POH>'가 다가온다!
+[	[	SS	O
+영상	영상	NNG	O
+]	]	SS	O
+I	I	SL	O
+'	'	SS	O
+m	m	SL	O
+_	_	_	O
+Your	Your	SL	O
+_	_	_	O
+Father	Father	SL	O
+!	!	SF	O
+_	_	_	O
+'	'	SS	O
+스타워즈	스타워즈	NNP	B-POH
+'	'	SS	O
+가	가	JKS	O
+_	_	_	O
+다가온다	다가오+ㄴ다	VV+EF	O
+!	!	SF	O
+
+## 2
+## 견본주택은 경기 화성시 방교리 29-1번지에 위치해 있으며, 2018년 12월 입주예정이다.
+## 견본주택은 <경기:LOC> <화성시:LOC> <방교리 29-1번지:LOC>에 위치해 있으며, <2018년 12월:DAT> 입주예정이다.
+견본	견본	NNG	O
+주택	주택	NNG	O
+은	은	JX	O
+_	_	_	O
+경기	경기	NNP	B-LOC
+_	_	_	O
+화성시	화성시	NNP	B-LOC
+_	_	_	O
+방교리	방교리	NNP	B-LOC
+_	_	_	I-LOC
+29	29	SN	I-LOC
+-	-	SO	I-LOC
+1	1	SN	I-LOC
+번지	번지	NNG	I-LOC
+에	에	JKB	O
+_	_	_	O
+위치해	위치하+여	VV+EC	O
+_	_	_	O
+있	있	VX	O
+으며	으며	EC	O
+,	,	SP	O
+_	_	_	O
+2018	2018	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	I-DAT
+12	12	SN	I-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+입주	입주	NNG	O
+예정	예정	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 중국 인민해방군 해군 소속 함정이 1일 동중국해에서 미사일을 발사하고 있다.
+## <중국:ORG> 인민해방군 해군 소속 함정이 <1일:DAT> <동중국해:LOC>에서 미사일을 발사하고 있다.
+중국	중국	NNP	B-ORG
+_	_	_	O
+인민	인민	NNG	O
+해방군	해방군	NNG	O
+_	_	_	O
+해군	해군	NNG	O
+_	_	_	O
+소속	소속	NNG	O
+_	_	_	O
+함정	함정	NNG	O
+이	이	JKS	O
+_	_	_	O
+1	1	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+동중국해	동중국해	NNP	B-LOC
+에서	에서	JKB	O
+_	_	_	O
+미사일	미사일	NNG	O
+을	을	JKO	O
+_	_	_	O
+발사하	발사하	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 농협, 1억 보이스피싱 감지 범인검거 도와
+## <농협:ORG>, <1억:MNY> 보이스피싱 감지 범인검거 도와
+농협	농협	NNP	B-ORG
+,	,	SP	O
+_	_	_	O
+1	1	SN	B-MNY
+억	억	NR	I-MNY
+_	_	_	O
+보이스	보이스	NNG	O
+피싱	피싱	NNG	O
+_	_	_	O
+감지	감지	NNG	O
+_	_	_	O
+범인	범인	NNG	O
+검거	검거	NNG	O
+_	_	_	O
+도	돕	VV	O
+와	아	EC	O
+
+## 5
+## 전북 최강희 감독은 후반에 승부수를 띄웠다.
+## <전북:ORG> <최강희:PER> 감독은 후반에 승부수를 띄웠다.
+전북	전북	NNP	B-ORG
+_	_	_	O
+최강희	최강희	NNP	B-PER
+_	_	_	O
+감독	감독	NNG	O
+은	은	JX	O
+_	_	_	O
+후반	후반	NNG	O
+에	에	JKB	O
+_	_	_	O
+승부수	승부수	NNG	O
+를	를	JKO	O
+_	_	_	O
+띄	띄우	VV	O
+웠	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 한 영화의 배우를 주연과 조연, 단역으로 구분하는 일은 불필요하다.
+## <한:NOH> 영화의 배우를 주연과 조연, 단역으로 구분하는 일은 불필요하다.
+한	하+ㄴ	VV+ETM	B-NOH
+_	_	_	O
+영화	영화	NNG	O
+의	의	JKG	O
+_	_	_	O
+배우	배우	NNG	O
+를	를	JKO	O
+_	_	_	O
+주연	주연	NNG	O
+과	과	JC	O
+_	_	_	O
+조연	조연	NNG	O
+,	,	SP	O
+_	_	_	O
+단역	단역	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+구분하	구분하	VV	O
+는	는	ETM	O
+_	_	_	O
+일	일	NNG	O
+은	은	JX	O
+_	_	_	O
+불필요하	불필요하	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 그러다가 2012년 대선에서 박근혜, 문재인 후보의 사실상 양자 구도가 형성되면서 투표율은 다시 75.8%로 뛰어올랐다.
+## 그러다가 <2012년:DAT> 대선에서 <박근혜:PER>, <문재인:PER> 후보의 사실상 <양:NOH>자 구도가 형성되면서 투표율은 다시 <75.8%:PNT>로 뛰어올랐다.
+그러	그러	VV	O
+다가	다가	EC	O
+_	_	_	O
+2012	2012	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+대선	대선	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+박근혜	박근혜	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+문재인	문재인	NNP	B-PER
+_	_	_	O
+후보	후보	NNG	O
+의	의	JKG	O
+_	_	_	O
+사실상	사실상	NNG	O
+_	_	_	O
+양자	양자	NNG	O
+_	_	_	O
+구도	구도	NNG	O
+가	가	JKS	O
+_	_	_	O
+형성되	형성되	VV	O
+면서	면서	EC	O
+_	_	_	O
+투표율	투표율	NNG	O
+은	은	JX	O
+_	_	_	O
+다시	다시	MAG	O
+_	_	_	O
+75.8	75.8	SN	B-PNT
+%	%	SW	I-PNT
+로	로	JKB	O
+_	_	_	O
+뛰어올	뛰어오르	VV	O
+랐	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 교육부는 “컨설팅단을 구성해 사업 계획부터 추진 상황, 실적까지 상시 점검하고 대학이 도움을 받을 수 있도록 할 것”이라며 “진로교육, 취업, 창업지원은 고용노동부, 중소기업청과도 협업할 예정”이라고 밝혔다.
+## <교육부:ORG>는 “컨설팅단을 구성해 사업 계획부터 추진 상황, 실적까지 상시 점검하고 대학이 도움을 받을 수 있도록 할 것”이라며 “진로교육, 취업, 창업지원은 <고용노동부:ORG>, <중소기업청:ORG>과도 협업할 예정”이라고 밝혔다.
+교육부	교육부	NNG	B-ORG
+는	는	JX	O
+_	_	_	O
+“	“	SS	O
+컨설팅	컨설팅	NNG	O
+단	단	XSN	O
+을	을	JKO	O
+_	_	_	O
+구성해	구성하+여	VV+EC	O
+_	_	_	O
+사업	사업	NNG	O
+_	_	_	O
+계획	계획	NNG	O
+부터	부터	JX	O
+_	_	_	O
+추진	추진	NNG	O
+_	_	_	O
+상황	상황	NNG	O
+,	,	SP	O
+_	_	_	O
+실적	실적	NNG	O
+까지	까지	JX	O
+_	_	_	O
+상시	상시	NNG	O
+_	_	_	O
+점검하	점검하	VV	O
+고	고	EC	O
+_	_	_	O
+대학	대학	NNG	O
+이	이	JKS	O
+_	_	_	O
+도움	도움	NNG	O
+을	을	JKO	O
+_	_	_	O
+받	받	VV	O
+을	을	ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+도록	도록	EC	O
+_	_	_	O
+할	하+ㄹ	VX+ETM	O
+_	_	_	O
+것	것	NNB	O
+”	”	SS	O
+이	이	VCP	O
+라며	라며	EC	O
+_	_	_	O
+“	“	SS	O
+진로	진로	NNG	O
+교육	교육	NNG	O
+,	,	SP	O
+_	_	_	O
+취업	취업	NNG	O
+,	,	SP	O
+_	_	_	O
+창업	창업	NNG	O
+지원	지원	NNG	O
+은	은	JX	O
+_	_	_	O
+고용	고용	NNG	B-ORG
+노동부	노동부	NNG	I-ORG
+,	,	SP	O
+_	_	_	O
+중소기업청	중소기업청	NNG	B-ORG
+과	과	JKB	O
+도	도	JX	O
+_	_	_	O
+협업할	협업하+ㄹ	VV+ETM	O
+_	_	_	O
+예정	예정	NNG	O
+”	”	SS	O
+이라고	이라고	JKQ	O
+_	_	_	O
+밝	밝히	VV	O
+혔	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 개혁·개방 30년의 성과로 중국이 다시 굴기(崛起·우뚝 섬)했다는 사실을 세계 만방에 알리는 무대였다.
+## 개혁·개방 <30년:DAT>의 성과로 <중국:ORG>이 다시 굴기(崛起·우뚝 섬)했다는 사실을 세계 만방에 알리는 무대였다.
+개혁	개혁	NNG	O
+·	·	SP	O
+개방	개방	NNG	O
+_	_	_	O
+30	30	SN	B-DAT
+년	년	NNB	I-DAT
+의	의	JKG	O
+_	_	_	O
+성과	성과	NNG	O
+로	로	JKB	O
+_	_	_	O
+중국	중국	NNP	B-ORG
+이	이	JKS	O
+_	_	_	O
+다시	다시	MAG	O
+_	_	_	O
+굴	굴	VV	O
+기	기	ETN	O
+(	(	SS	O
+崛起	崛起	SH	O
+·	·	SP	O
+우뚝	우뚝	MAG	O
+_	_	_	O
+섬	섬	NNG	O
+)	)	SS	O
+했	하+였	XSV+EP	O
+다는	다는	ETM	O
+_	_	_	O
+사실	사실	NNG	O
+을	을	JKO	O
+_	_	_	O
+세계	세계	NNG	O
+_	_	_	O
+만방	만방	NNG	O
+에	에	JKB	O
+_	_	_	O
+알리	알리	VV	O
+는	는	ETM	O
+_	_	_	O
+무대	무대+이	NNG+VCP	O
+였	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 사안의 심각성을 뒤늦게 깨달은 검찰은 언론 보도로 최 씨가 대통령의 연설문마저 사전에 입수했다는 증거가 드러나자 당황하는 기색이 역력하다.
+## 사안의 심각성을 뒤늦게 깨달은 검찰은 언론 보도로 <최:PER> 씨가 대통령의 연설문마저 사전에 입수했다는 증거가 드러나자 당황하는 기색이 역력하다.
+사안	사안	NNG	O
+의	의	JKG	O
+_	_	_	O
+심각성	심각성	NNG	O
+을	을	JKO	O
+_	_	_	O
+뒤늦	뒤늦	VA	O
+게	게	EC	O
+_	_	_	O
+깨달	깨닫	VV	O
+은	은	ETM	O
+_	_	_	O
+검찰	검찰	NNG	O
+은	은	JX	O
+_	_	_	O
+언론	언론	NNG	O
+_	_	_	O
+보도	보도	NNG	O
+로	로	JKB	O
+_	_	_	O
+최	최	NNP	B-PER
+_	_	_	O
+씨	씨	NNB	O
+가	가	JKS	O
+_	_	_	O
+대통령	대통령	NNG	O
+의	의	JKG	O
+_	_	_	O
+연설문	연설문	NNG	O
+마저	마저	JX	O
+_	_	_	O
+사전	사전	NNG	O
+에	에	JKB	O
+_	_	_	O
+입수	입수하	VV	O
+했	였	EP	O
+다는	다는	ETM	O
+_	_	_	O
+증거	증거	NNG	O
+가	가	JKS	O
+_	_	_	O
+드러나	드러나	VV	O
+자	자	EC	O
+_	_	_	O
+당황하	당황하	VV	O
+는	는	ETM	O
+_	_	_	O
+기색	기색	NNG	O
+이	이	JKS	O
+_	_	_	O
+역력하	역력하	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 정세권은 왕십리 일대의 땅을 사들이며 일본의 계획을 막았다.
+## <정세권:PER>은 <왕십리:LOC> 일대의 땅을 사들이며 <일본:ORG>의 계획을 막았다.
+정세권	정세권	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+왕십리	왕십리	NNP	B-LOC
+_	_	_	O
+일대	일대	NNG	O
+의	의	JKG	O
+_	_	_	O
+땅	땅	NNG	O
+을	을	JKO	O
+_	_	_	O
+사들이	사들이	VV	O
+며	며	EC	O
+_	_	_	O
+일본	일본	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+계획	계획	NNG	O
+을	을	JKO	O
+_	_	_	O
+막	막	VV	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 국토부 관계자는 “해당 차량들은 이미 종합시험운전 등의 완성 검사를 모두 거쳤으므로 안전 운행에 지장이 없을 것으로 본다”고 해명했다.
+## <국토부:ORG> 관계자는 “해당 차량들은 이미 종합시험운전 등의 완성 검사를 모두 거쳤으므로 안전 운행에 지장이 없을 것으로 본다”고 해명했다.
+국토	국토	NNG	B-ORG
+부	부	XSN	I-ORG
+_	_	_	O
+관계자	관계자	NNG	O
+는	는	JX	O
+_	_	_	O
+“	“	SS	O
+해당	해당	NNG	O
+_	_	_	O
+차량	차량	NNG	O
+들	들	XSN	O
+은	은	JX	O
+_	_	_	O
+이미	이미	MAG	O
+_	_	_	O
+종합	종합	NNG	O
+시험	시험	NNG	O
+운전	운전	NNG	O
+_	_	_	O
+등	등	NNB	O
+의	의	JKG	O
+_	_	_	O
+완성	완성	NNG	O
+_	_	_	O
+검사	검사	NNG	O
+를	를	JKO	O
+_	_	_	O
+모두	모두	MAG	O
+_	_	_	O
+거	거치	VV	O
+쳤	었	EP	O
+으므로	으므로	EC	O
+_	_	_	O
+안전	안전	NNG	O
+_	_	_	O
+운행	운행	NNG	O
+에	에	JKB	O
+_	_	_	O
+지장	지장	NNG	O
+이	이	JKS	O
+_	_	_	O
+없	없	VA	O
+을	을	ETM	O
+_	_	_	O
+것	것	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+본다	보+ㄴ다	VV+EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+해명	해명하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## 외환위기로 인해 한국은행이 동전거래량을 줄였기 때문이다.
+## 외환위기로 인해 <한국은행:ORG>이 동전거래량을 줄였기 때문이다.
+외환	외환	NNG	O
+위기	위기	NNG	O
+로	로	JKB	O
+_	_	_	O
+인해	인하+여	VV+EC	O
+_	_	_	O
+한국은행	한국은행	NNP	B-ORG
+이	이	JKS	O
+_	_	_	O
+동전	동전	NNG	O
+거래량	거래량	NNG	O
+을	을	JKO	O
+_	_	_	O
+줄	줄이	VV	O
+였	었	EP	O
+기	기	ETN	O
+_	_	_	O
+때문	때문	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 14
+## ‘500원 희귀동전’의 도감가는 5만 원에 불과하지만 현재 시세는 70~80만 원에 거래되고 있다.
+## ‘<500원:MNY> 희귀동전’의 도감가는 <5만 원:MNY>에 불과하지만 현재 시세는 <70:MNY>~<80만 원:MNY>에 거래되고 있다.
+‘	‘	SS	O
+500	500	SN	B-MNY
+원	원	NNB	I-MNY
+_	_	_	O
+희귀	희귀	NNG	O
+동전	동전	NNG	O
+’	’	SS	O
+의	의	JKG	O
+_	_	_	O
+도감	도감	NNG	O
+가	가	VV	O
+는	는	ETM	O
+_	_	_	O
+5	5	SN	B-MNY
+만	만	NR	I-MNY
+_	_	_	I-MNY
+원	원	NNB	I-MNY
+에	에	JKB	O
+_	_	_	O
+불과하	불과하	VA	O
+지만	지만	EC	O
+_	_	_	O
+현재	현재	MAG	O
+_	_	_	O
+시세	시세	NNG	O
+는	는	JX	O
+_	_	_	O
+70	70	SN	B-MNY
+~	~	SO	O
+80	80	SN	B-MNY
+만	만	NR	I-MNY
+_	_	_	I-MNY
+원	원	NNB	I-MNY
+에	에	JKB	O
+_	_	_	O
+거래되	거래되	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 15
+## 배우 송혜교가 드라마 사전제작에 대한 장단점을 밝혔다.
+## 배우 <송혜교:PER>가 드라마 사전제작에 대한 장단점을 밝혔다.
+배우	배우	NNG	O
+_	_	_	O
+송혜교	송혜교	NNP	B-PER
+가	가	JKS	O
+_	_	_	O
+드라마	드라마	NNG	O
+_	_	_	O
+사전	사전	NNG	O
+제작	제작	NNG	O
+에	에	JKB	O
+_	_	_	O
+대한	대하+ㄴ	VV+ETM	O
+_	_	_	O
+장단점	장단점	NNG	O
+을	을	JKO	O
+_	_	_	O
+밝	밝히	VV	O
+혔	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 16
+## 22일 오후 서울 강남 논현동 임피리얼팰리스 호텔에서는 KBS 2TV 새 수목드라마 ‘태양의 후예’ 제작발표회가 열렸다.
+## <22일:DAT> 오후 <서울:LOC> <강남:LOC> <논현동:LOC> <임피리얼팰리스 호텔:LOC>에서는 <KBS 2TV:POH> 새 수목드라마 ‘<태양의 후예:POH>’ 제작발표회가 열렸다.
+22	22	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+오후	오후	NNG	O
+_	_	_	O
+서울	서울	NNP	B-LOC
+_	_	_	O
+강남	강남	NNP	B-LOC
+_	_	_	O
+논현동	논현동	NNP	B-LOC
+_	_	_	O
+임피리얼	임피리얼	NNP	B-LOC
+팰리스	팰리스	NNP	I-LOC
+_	_	_	I-LOC
+호텔	호텔	NNG	I-LOC
+에서	에서	JKB	O
+는	는	JX	O
+_	_	_	O
+KBS	KBS	SL	B-POH
+_	_	_	I-POH
+2	2	SN	I-POH
+TV	TV	SL	I-POH
+_	_	_	O
+새	새	MM	O
+_	_	_	O
+수	수	NNG	O
+목	목	NNG	O
+드라마	드라마	NNG	O
+_	_	_	O
+‘	‘	SS	O
+태양	태양	NNG	B-POH
+의	의	JKG	I-POH
+_	_	_	I-POH
+후예	후예	NNG	I-POH
+’	’	SS	O
+_	_	_	O
+제작	제작	NNG	O
+발표회	발표회	NNG	O
+가	가	JKS	O
+_	_	_	O
+열	열리	VV	O
+렸	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 17
+## 이날 송혜교는 “급하게 찍지 않아서 이야기 할 시간이 많아서 좋았다.
+## 이날 <송혜교:PER>는 “급하게 찍지 않아서 이야기 할 시간이 많아서 좋았다.
+이날	이날	NNG	O
+_	_	_	O
+송혜교	송혜교	NNP	B-PER
+는	는	JX	O
+_	_	_	O
+“	“	SS	O
+급하	급하	VA	O
+게	게	EC	O
+_	_	_	O
+찍	찍	VV	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+아서	아서	EC	O
+_	_	_	O
+이야기	이야기	NNG	O
+_	_	_	O
+할	하+ㄹ	VV+ETM	O
+_	_	_	O
+시간	시간	NNG	O
+이	이	JKS	O
+_	_	_	O
+많	많	VA	O
+아서	아서	EC	O
+_	_	_	O
+좋	좋	VA	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 18
+## 이 점은 아시아의 다른 신흥국가들에도 문제입니다.
+## 이 점은 <아시아:LOC>의 다른 신흥국가들에도 문제입니다.
+이	이	MM	O
+_	_	_	O
+점	점	NNG	O
+은	은	JX	O
+_	_	_	O
+아시아	아시아	NNP	B-LOC
+의	의	JKG	O
+_	_	_	O
+다른	다른	MM	O
+_	_	_	O
+신흥	신흥	NNG	O
+국가	국가	NNG	O
+들	들	XSN	O
+에	에	JKB	O
+도	도	JX	O
+_	_	_	O
+문제	문제	NNG	O
+입니다	이+ㅂ니다	VCP+EF	O
+.	.	SF	O
+

@@ -1,0 +1,547 @@
+## 1
+## 불과 반년 사이에 분위기가 확 바뀌었다.
+## 불과 <반년:DUR> 사이에 분위기가 확 바뀌었다.
+불과	불과	MAG	O
+_	_	_	O
+반년	반년	NNG	B-DUR
+_	_	_	O
+사이	사이	NNG	O
+에	에	JKB	O
+_	_	_	O
+분위기	분위기	NNG	O
+가	가	JKS	O
+_	_	_	O
+확	확	MAG	O
+_	_	_	O
+바뀌	바뀌	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 노트엣지처럼 측면 사이즈가 돌출한 형태가 아니어서 그립감, 즉 한손으로 쥐고 쓸 수 있기 편리해졌다.
+## <노트엣지:POH>처럼 측면 사이즈가 돌출한 형태가 아니어서 그립감, 즉 한손으로 쥐고 쓸 수 있기 편리해졌다.
+노트	노트	NNG	B-POH
+엣지	엣지	NNG	I-POH
+처럼	처럼	JKB	O
+_	_	_	O
+측면	측면	NNG	O
+_	_	_	O
+사이즈	사이즈	NNG	O
+가	가	JKS	O
+_	_	_	O
+돌출한	돌출하+ㄴ	VV+ETM	O
+_	_	_	O
+형태	형태	NNG	O
+가	가	JKC	O
+_	_	_	O
+아니	아니	VCN	O
+어서	어서	EC	O
+_	_	_	O
+그립	그립	NNG	O
+감	감	XSN	O
+,	,	SP	O
+_	_	_	O
+즉	즉	MAG	O
+_	_	_	O
+한	한	MM	O
+손	손	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+쥐	쥐	VV	O
+고	고	EC	O
+_	_	_	O
+쓸	쓰+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+기	기	ETN	O
+_	_	_	O
+편리해	편리하	VA	O
+졌	여+지+었	EC+VX+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 서울지방경찰청에서도 김재규 홍보담당관 등 6명이 승진했다.
+## <서울지방경찰청:ORG>에서도 <김재규:PER> 홍보담당관 등 <6명:NOH>이 승진했다.
+서울지방경찰청	서울지방경찰청	NNP	B-ORG
+에서	에서	JKB	O
+도	도	JX	O
+_	_	_	O
+김재규	김재규	NNP	B-PER
+_	_	_	O
+홍보	홍보	NNG	O
+담당관	담당관	NNG	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+6	6	SN	B-NOH
+명	명	NNB	I-NOH
+이	이	JKS	O
+_	_	_	O
+승진	승진하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 박지원 대표도 있고, 안철수 전 대표도 있다.
+## <박지원:PER> 대표도 있고, <안철수:PER> 전 대표도 있다.
+박지원	박지원	NNP	B-PER
+_	_	_	O
+대표	대표	NNG	O
+도	도	JX	O
+_	_	_	O
+있	있	VA	O
+고	고	EC	O
+,	,	SP	O
+_	_	_	O
+안철수	안철수	NNP	B-PER
+_	_	_	O
+전	전	MM	O
+_	_	_	O
+대표	대표	NNG	O
+도	도	JX	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 그동안 엑소브레인은 백과사전과 국어사전, 일반상식 등 도서 12만 권 분량에 해당하는 지식 데이터로 훈련해 왔다.
+## 그동안 <엑소브레인:POH>은 백과사전과 국어사전, 일반상식 등 도서 <12만 권:NOH> 분량에 해당하는 지식 데이터로 훈련해 왔다.
+그동안	그동안	NNG	O
+_	_	_	O
+엑소	엑소	NNP	B-POH
+브레인	브레인	NNG	I-POH
+은	은	JX	O
+_	_	_	O
+백과사전	백과사전	NNG	O
+과	과	JC	O
+_	_	_	O
+국어사전	국어사전	NNG	O
+,	,	SP	O
+_	_	_	O
+일반	일반	NNG	O
+상식	상식	NNG	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+도서	도서	NNG	O
+_	_	_	O
+12	12	SN	B-NOH
+만	만	NR	I-NOH
+_	_	_	I-NOH
+권	권	NNB	I-NOH
+_	_	_	O
+분량	분량	NNG	O
+에	에	JKB	O
+_	_	_	O
+해당하	해당하	VV	O
+는	는	ETM	O
+_	_	_	O
+지식	지식	NNG	O
+_	_	_	O
+데이터	데이터	NNG	O
+로	로	JKB	O
+_	_	_	O
+훈련해	훈련하+여	VV+EC	O
+_	_	_	O
+왔	+았	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 벤츠 코리아는 최근 마이바흐 S클래스 라인업에 사륜구동 모델인 ‘뉴 메르세데스-마이바흐 S 500 4매틱’을 더했다.
+## <벤츠 코리아:ORG>는 최근 <마이바흐 S클래스:POH> 라인업에 사륜구동 모델인 ‘<뉴 메르세데스-마이바흐 S 500 4매틱:POH>’을 더했다.
+벤츠	벤츠	NNP	B-ORG
+_	_	_	I-ORG
+코리아	코리아	NNP	I-ORG
+는	는	JX	O
+_	_	_	O
+최근	최근	NNG	O
+_	_	_	O
+마이	마이	NNG	B-POH
+바흐	바흐	NNP	I-POH
+_	_	_	I-POH
+S	S	SL	I-POH
+클래스	클래스	NNG	I-POH
+_	_	_	O
+라인업	라인업	NNG	O
+에	에	JKB	O
+_	_	_	O
+사륜	사륜	NNG	O
+구동	구동	NNG	O
+_	_	_	O
+모델	모델	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+‘	‘	SS	O
+뉴	뉴	NNG	B-POH
+_	_	_	I-POH
+메르세데스	메르세데스	NNP	I-POH
+-	-	SO	I-POH
+마이	마이	NNG	I-POH
+바흐	바흐	NNP	I-POH
+_	_	_	I-POH
+S	S	SL	I-POH
+_	_	_	I-POH
+500	500	SN	I-POH
+_	_	_	I-POH
+4	4	SN	I-POH
+매	매	NNG	I-POH
+틱	틱	NNG	I-POH
+’	’	SS	O
+을	을	JKO	O
+_	_	_	O
+더	더하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 미네소타전 1안타 1타점시범경기 처음 외야 안타 김현수(28·볼티모어·사진)가 메이저리그 시범경기에서 3연속경기안타를 이어갔다.
+## <미네소타:ORG>전 <1안타:NOH> <1타점:NOH>시범경기 처음 외야 안타 <김현수:PER>(<28:NOH>·<볼티모어:ORG>·사진)가 <메이저리그:POH> 시범경기에서 <3연속:NOH>경기안타를 이어갔다.
+미네소타	미네소타	NNP	B-ORG
+전	전	NNP	O
+_	_	_	O
+1	1	SN	B-NOH
+안타	안타	NNG	I-NOH
+_	_	_	O
+1	1	SN	B-NOH
+타점	타점	NNG	I-NOH
+시범	시범	NNG	O
+경기	경기	NNG	O
+_	_	_	O
+처음	처음	NNG	O
+_	_	_	O
+외야	외야	NNG	O
+_	_	_	O
+안타	안타	NNG	O
+_	_	_	O
+김현수	김현수	NNP	B-PER
+(	(	SS	O
+28	28	SN	B-NOH
+·	·	SP	O
+볼티모어	볼티모어	NNP	B-ORG
+·	·	SP	O
+사진	사진	NNG	O
+)	)	SS	O
+가	가	JKS	O
+_	_	_	O
+메이저리그	메이저리그	NNG	B-POH
+_	_	_	O
+시범	시범	NNG	O
+경기	경기	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+3	3	SN	B-NOH
+연속	연속	NNG	I-NOH
+경기	경기	NNG	O
+안타	안타	NNG	O
+를	를	JKO	O
+_	_	_	O
+이	잇	VV	O
+어	어+가	EC+VX	O
+갔	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 20대 후반부터 『아직도 결혼을 안했느냐』는 사회적 압력에 시달려 왔다는 윤씨는 우리 사회의 독신여성문제를 정리해 본다는 의미에서 책을 쓰게 됐다고 밝혔다.
+## <20대:NOH> 후반부터 『아직도 결혼을 안했느냐』는 사회적 압력에 시달려 왔다는 <윤:PER>씨는 우리 사회의 독신여성문제를 정리해 본다는 의미에서 책을 쓰게 됐다고 밝혔다.
+20	20	SN	B-NOH
+대	대	NNB	I-NOH
+_	_	_	O
+후반	후반	NNG	O
+부터	부터	JX	O
+_	_	_	O
+『	『	SS	O
+아직	아직	MAG	O
+도	도	JX	O
+_	_	_	O
+결혼	결혼	NNG	O
+을	을	JKO	O
+_	_	_	O
+안	안+하	MAG+VV	O
+했	였	EP	O
+느냐	느냐	EF	O
+』	』	SS	O
+는	는	JX	O
+_	_	_	O
+사회적	사회적	NNG	O
+_	_	_	O
+압력	압력	NNG	O
+에	에	JKB	O
+_	_	_	O
+시달려	시달리+어	VV+EC	O
+_	_	_	O
+왔	+았	+EP	O
+다는	다는	ETM	O
+_	_	_	O
+윤	윤	NNP	B-PER
+씨	씨	NNB	O
+는	는	JX	O
+_	_	_	O
+우리	우리	NP	O
+_	_	_	O
+사회	사회	NNG	O
+의	의	JKG	O
+_	_	_	O
+독신	독신	NNG	O
+여성	여성	NNG	O
+문제	문제	NNG	O
+를	를	JKO	O
+_	_	_	O
+정리해	정리하+여	VV+EC	O
+_	_	_	O
+본다는	보+ㄴ다는	VX+ETM	O
+_	_	_	O
+의미	의미	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+책	책	NNG	O
+을	을	JKO	O
+_	_	_	O
+쓰	쓰	VV	O
+게	게	EC	O
+_	_	_	O
+됐	+었	+EP	O
+다고	다고	EC	O
+_	_	_	O
+밝	밝히	VV	O
+혔	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 이때문에 대우경제연구소는 내년 총통화증가율이 평잔기준 14∼15%가 될 것으로 전망했다.
+## 이때문에 <대우경제연구소:ORG>는 내년 총통화증가율이 평잔기준 <14:PNT>∼<15%:PNT>가 될 것으로 전망했다.
+이	이	MM	O
+때문	때문	NNB	O
+에	에	JKB	O
+_	_	_	O
+대우경제연구소	대우경제연구소	NNP	B-ORG
+는	는	JX	O
+_	_	_	O
+내년	내년	NNG	O
+_	_	_	O
+총통화	총통화	NNG	O
+증가율	증가율	NNG	O
+이	이	JKS	O
+_	_	_	O
+평잔	평잔	NNG	O
+기준	기준	NNG	O
+_	_	_	O
+14	14	SN	B-PNT
+∼	∼	SO	O
+15	15	SN	B-PNT
+%	%	SW	I-PNT
+가	가	JKC	O
+_	_	_	O
+될	되+ㄹ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+전망	전망하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 대구의 한옥은 1만754채이다.
+## <대구:LOC>의 한옥은 <1만754채:NOH>이다.
+대구	대구	NNP	B-LOC
+의	의	JKG	O
+_	_	_	O
+한옥	한옥	NNG	O
+은	은	JX	O
+_	_	_	O
+1	1	SN	B-NOH
+만	만	NR	I-NOH
+754	754	SN	I-NOH
+채	채	NNB	I-NOH
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 지난 6일, 경찰청은 2월부터 한 달간 '데이트 폭력 집중 신고 기간'을 운영한 결과 전국에서 1,279건을 접수했다고 밝혔다.
+## 지난 <6일:DAT>, <경찰청:ORG>은 <2월:DAT>부터 <한 달간:DUR> '데이트 폭력 집중 신고 기간'을 운영한 결과 전국에서 <1,279건:NOH>을 접수했다고 밝혔다.
+지난	지나+ㄴ	VV+ETM	O
+_	_	_	O
+6	6	SN	B-DAT
+일	일	NNB	I-DAT
+,	,	SP	O
+_	_	_	O
+경찰청	경찰청	NNG	B-ORG
+은	은	JX	O
+_	_	_	O
+2	2	SN	B-DAT
+월	월	NNB	I-DAT
+부터	부터	JX	O
+_	_	_	O
+한	한	MM	B-DUR
+_	_	_	I-DUR
+달	달	NNB	I-DUR
+간	간	XSN	I-DUR
+_	_	_	O
+'	'	SS	O
+데이트	데이트	NNG	O
+_	_	_	O
+폭력	폭력	NNG	O
+_	_	_	O
+집중	집중	NNG	O
+_	_	_	O
+신고	신고	NNG	O
+_	_	_	O
+기간	기간	NNG	O
+'	'	SS	O
+을	을	JKO	O
+_	_	_	O
+운영한	운영하+ㄴ	VV+ETM	O
+_	_	_	O
+결과	결과	NNG	O
+_	_	_	O
+전국	전국	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+1,279	1,279	SN	B-NOH
+건	건	NNB	I-NOH
+을	을	JKO	O
+_	_	_	O
+접수	접수하	VV	O
+했	였	EP	O
+다고	다고	EC	O
+_	_	_	O
+밝	밝히	VV	O
+혔	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 의료계에서는 수도병원 간호장교의 출장이 없었더라도 세월호 참사 당일 청와대에서 의료 행위 자체가 없었다고는 장담하기 힘들다는 지적이 나온다.
+## 의료계에서는 <수도병원:ORG> 간호장교의 출장이 없었더라도 <세월호:POH> 참사 당일 <청와대:ORG>에서 의료 행위 자체가 없었다고는 장담하기 힘들다는 지적이 나온다.
+의료계	의료계	NNG	O
+에서	에서	JKB	O
+는	는	JX	O
+_	_	_	O
+수도	수도	NNG	B-ORG
+병원	병원	NNG	I-ORG
+_	_	_	O
+간호	간호	NNG	O
+장교	장교	NNG	O
+의	의	JKG	O
+_	_	_	O
+출장	출장	NNG	O
+이	이	JKS	O
+_	_	_	O
+없	없	VA	O
+었	었	EP	O
+더라도	더라도	EC	O
+_	_	_	O
+세월호	세월호	NNP	B-POH
+_	_	_	O
+참사	참사	NNG	O
+_	_	_	O
+당일	당일	NNG	O
+_	_	_	O
+청와대	청와대	NNP	B-ORG
+에서	에서	JKB	O
+_	_	_	O
+의료	의료	NNG	O
+_	_	_	O
+행위	행위	NNG	O
+_	_	_	O
+자체	자체	NNG	O
+가	가	JKS	O
+_	_	_	O
+없	없	VA	O
+었	었	EP	O
+다고	다고	EC	O
+는	는	JX	O
+_	_	_	O
+장담하	장담하	VV	O
+기	기	ETN	O
+_	_	_	O
+힘들	힘들	VA	O
+다는	다는	ETM	O
+_	_	_	O
+지적	지적	NNG	O
+이	이	JKS	O
+_	_	_	O
+나온다	나오+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 13
+## 박한별-정은우 결별...'돌아온 황금복' 때문에 사이 멀어졌다?
+## <박한별:PER>-<정은우:PER> 결별...'<돌아온 황금복:POH>' 때문에 사이 멀어졌다?
+박한별	박한별	NNP	B-PER
+-	-	SO	O
+정은우	정은우	NNP	B-PER
+_	_	_	O
+결별	결별	NNG	O
+.	.	SF	O
+.	.	SF	O
+.	.	SF	O
+'	'	SS	O
+돌아온	돌아오+ㄴ	VV+ETM	B-POH
+_	_	_	I-POH
+황금복	황금복	NNP	I-POH
+'	'	SS	O
+_	_	_	O
+때문	때문	NNB	O
+에	에	JKB	O
+_	_	_	O
+사이	사이	NNG	O
+_	_	_	O
+멀	멀	VA	O
+어	어	EC	O
+졌	지+었	VX+EP	O
+다	다	EF	O
+?	?	SF	O
+
+## 14
+## 거의 30분 이상 몸을 푼다.
+## 거의 <30분:DUR> 이상 몸을 푼다.
+거의	거의	MAG	O
+_	_	_	O
+30	30	SN	B-DUR
+분	분	NNB	I-DUR
+_	_	_	O
+이상	이상	NNG	O
+_	_	_	O
+몸	몸	NNG	O
+을	을	JKO	O
+_	_	_	O
+푼다	풀+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 15
+## 임수경 의원은 운동권 출신으로 주류 쪽 목소리를 내왔다.
+## <임수경:PER> 의원은 운동권 출신으로 주류 쪽 목소리를 내왔다.
+임수경	임수경	NNP	B-PER
+_	_	_	O
+의원	의원	NNG	O
+은	은	JX	O
+_	_	_	O
+운동권	운동권	NNG	O
+_	_	_	O
+출신	출신	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+주류	주류	NNG	O
+_	_	_	O
+쪽	쪽	NNB	O
+_	_	_	O
+목소리	목소리	NNG	O
+를	를	JKO	O
+_	_	_	O
+내	내오	VV	O
+왔	았	EP	O
+다	다	EF	O
+.	.	SF	O
+

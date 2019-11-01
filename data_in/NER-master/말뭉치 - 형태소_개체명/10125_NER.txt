@@ -1,0 +1,520 @@
+## 1
+## 닥터 스트레인지의 여정을 재현한 신규 콘텐츠 '에픽 퀘스트'도 오늘 오픈했다.
+## <닥터 스트레인지:PER>의 여정을 재현한 신규 콘텐츠 '에픽 퀘스트'도 오늘 오픈했다.
+닥터	닥터	NNG	B-PER
+_	_	_	I-PER
+스트레인지	스트레인지	NNG	I-PER
+의	의	JKG	O
+_	_	_	O
+여정	여정	NNG	O
+을	을	JKO	O
+_	_	_	O
+재현한	재현하+ㄴ	VV+ETM	O
+_	_	_	O
+신규	신규	NNG	O
+_	_	_	O
+콘텐츠	콘텐츠	NNG	O
+_	_	_	O
+'	'	SS	O
+에픽	에픽	NNP	O
+_	_	_	O
+퀘스트	퀘스트	NNP	O
+'	'	SS	O
+도	도	JX	O
+_	_	_	O
+오늘	오늘	NNG	O
+_	_	_	O
+오픈	오픈+하	NNG+XSV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 실업자 2000명에 2년간 지급… 구직활동 등 성과땐 확대 실시
+## 실업자 <2000명:NOH>에 <2년간:DUR> 지급… 구직활동 등 성과땐 확대 실시
+실업자	실업자	NNG	O
+_	_	_	O
+2000	2000	SN	B-NOH
+명	명	NNB	I-NOH
+에	에	JKB	O
+_	_	_	O
+2	2	SN	B-DUR
+년	년	NNB	I-DUR
+간	간	XSN	I-DUR
+_	_	_	O
+지급	지급	NNG	O
+…	…	SE	O
+_	_	_	O
+구직	구직	NNG	O
+활동	활동	NNG	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+성과	성과	NNG	O
+땐	때+ㄴ	NNG+JX	O
+_	_	_	O
+확대	확대	NNG	O
+_	_	_	O
+실시	실시	NNG	O
+
+## 3
+## 지난 1월엔 말레이시아 쿠알라룸푸르에서 있었습니다.
+## 지난 <1월:DAT>엔 <말레이시아 쿠알라룸푸르:LOC>에서 있었습니다.
+지난	지나+ㄴ	VV+ETM	O
+_	_	_	O
+1	1	SN	B-DAT
+월	월	NNB	I-DAT
+엔	에+ㄴ	JKB+JX	O
+_	_	_	O
+말레이시아	말레이시아	NNP	B-LOC
+_	_	_	I-LOC
+쿠알라룸푸르	쿠알라룸푸르	NNG	I-LOC
+에서	에서	JKB	O
+_	_	_	O
+있	있	VA	O
+었	었	EP	O
+습니다	습니다	EF	O
+.	.	SF	O
+
+## 4
+## 따라서 박 대통령 측의 변론은 위증일 가능성이 높아진다.
+## 따라서 <박:PER> 대통령 측의 변론은 위증일 가능성이 높아진다.
+따라서	따라서	MAJ	O
+_	_	_	O
+박	박	NNP	B-PER
+_	_	_	O
+대통령	대통령	NNG	O
+_	_	_	O
+측	측	NNB	O
+의	의	JKG	O
+_	_	_	O
+변론	변론	NNG	O
+은	은	JX	O
+_	_	_	O
+위	위	NNB	O
+증	증	XSN	O
+일	이+ㄹ	VCP+ETM	O
+_	_	_	O
+가능성	가능성	NNG	O
+이	이	JKS	O
+_	_	_	O
+높아진다	높아지+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 5
+## 100% 흰쌀로 만들어진 5번은 가볍고 부드러워 여성들에게 특히 인기가 높다고 한다.
+## <100%:PNT> 흰쌀로 만들어진 <5번:NOH>은 가볍고 부드러워 여성들에게 특히 인기가 높다고 한다.
+100	100	SN	B-PNT
+%	%	SW	I-PNT
+_	_	_	O
+흰쌀	흰쌀	NNG	O
+로	로	JKB	O
+_	_	_	O
+만들	만들	VV	O
+어	어	EC	O
+진	지+ㄴ	VX+ETM	O
+_	_	_	O
+5	5	SN	B-NOH
+번	번	NNB	I-NOH
+은	은	JX	O
+_	_	_	O
+가볍	가볍	VA	O
+고	고	EC	O
+_	_	_	O
+부드러	부드럽	VA	O
+워	어	EC	O
+_	_	_	O
+여성	여성	NNG	O
+들	들	XSN	O
+에게	에게	JKB	O
+_	_	_	O
+특히	특히	MAG	O
+_	_	_	O
+인기	인기	NNG	O
+가	가	JKS	O
+_	_	_	O
+높	높	VA	O
+다고	다고	EC	O
+_	_	_	O
+한다	하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 6
+## 강남구 개포 주공1단지의 경우 4월 들어 500만 원가량 매매가가 떨어졌다.
+## <강남구 개포 주공1단지:LOC>의 경우 <4월:DAT> 들어 <500만 원:MNY>가량 매매가가 떨어졌다.
+강남구	강남구	NNP	B-LOC
+_	_	_	I-LOC
+개포	개포	NNP	I-LOC
+_	_	_	I-LOC
+주공	주공	NNP	I-LOC
+1	1	SN	I-LOC
+단지	단지	NNG	I-LOC
+의	의	JKG	O
+_	_	_	O
+경우	경우	NNG	O
+_	_	_	O
+4	4	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+들	들	VV	O
+어	어	EC	O
+_	_	_	O
+500	500	SN	B-MNY
+만	만	NR	I-MNY
+_	_	_	I-MNY
+원	원	NNB	I-MNY
+가량	가량	XSN	O
+_	_	_	O
+매매	매매	NNG	O
+가	가	XSN	O
+가	가	JKS	O
+_	_	_	O
+떨어	떨어지	VV	O
+졌	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 참고로 마이크로VC 펀드는 작년 정부가 스타트업 투자 활성화 목적으로 도입한 제도다.
+## 참고로 <마이크로VC 펀드:POH>는 작년 정부가 스타트업 투자 활성화 목적으로 도입한 제도다.
+참고	참고	NNG	O
+로	로	JKB	O
+_	_	_	O
+마이크로	마이크로	NNG	B-POH
+VC	VC	SL	I-POH
+_	_	_	I-POH
+펀드	펀드	NNG	I-POH
+는	는	JX	O
+_	_	_	O
+작년	작년	NNG	O
+_	_	_	O
+정부	정부	NNG	O
+가	가	JKS	O
+_	_	_	O
+스타트	스타트	NNG	O
+업	업	NNG	O
+_	_	_	O
+투자	투자	NNG	O
+_	_	_	O
+활성화	활성화	NNG	O
+_	_	_	O
+목적	목적	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+도입한	도입하+ㄴ	VV+ETM	O
+_	_	_	O
+제도	제도+이	NNG+VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 이 사례집은 문체부가 스포츠비리신고센터에 신고된 사례를 분석해 비리 예방과 근절을 위한 자료로 활용하기 위해 제작됐다.
+## 이 사례집은 <문체부:ORG>가 스포츠비리신고센터에 신고된 사례를 분석해 비리 예방과 근절을 위한 자료로 활용하기 위해 제작됐다.
+이	이	MM	O
+_	_	_	O
+사례	사례	NNG	O
+집	집	XSN	O
+은	은	JX	O
+_	_	_	O
+문체부	문체부	NNG	B-ORG
+가	가	JKS	O
+_	_	_	O
+스포츠	스포츠	NNG	O
+비리	비리	NNG	O
+신고	신고	NNG	O
+센터	센터	NNG	O
+에	에	JKB	O
+_	_	_	O
+신고된	신고되+ㄴ	VV+ETM	O
+_	_	_	O
+사례	사례	NNG	O
+를	를	JKO	O
+_	_	_	O
+분석해	분석하+여	VV+EC	O
+_	_	_	O
+비리	비리	NNG	O
+_	_	_	O
+예방	예방	NNG	O
+과	과	JC	O
+_	_	_	O
+근절	근절	NNG	O
+을	을	JKO	O
+_	_	_	O
+위한	위하+ㄴ	VV+ETM	O
+_	_	_	O
+자료	자료	NNG	O
+로	로	JKB	O
+_	_	_	O
+활용하	활용하	VV	O
+기	기	ETN	O
+_	_	_	O
+위해	위하+여	VV+EC	O
+_	_	_	O
+제작	제작되	VV	O
+됐	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 또 다른 수사기관 고위 관계자도 "유서에 업무 내용이 포함돼 있다면 국정원장의 허가가 있어야 공개가 가능하다"
+## 또 다른 수사기관 고위 관계자도 "유서에 업무 내용이 포함돼 있다면 <국정원:ORG>장의 허가가 있어야 공개가 가능하다"
+또	또	MAG	O
+_	_	_	O
+다른	다른	MM	O
+_	_	_	O
+수사	수사	NNG	O
+기관	기관	NNG	O
+_	_	_	O
+고위	고위	NNG	O
+_	_	_	O
+관계자	관계자	NNG	O
+도	도	JX	O
+_	_	_	O
+"	"	SS	O
+유서	유서	NNG	O
+에	에	JKB	O
+_	_	_	O
+업무	업무	NNG	O
+_	_	_	O
+내용	내용	NNG	O
+이	이	JKS	O
+_	_	_	O
+포함돼	포함되+어	VV+EC	O
+_	_	_	O
+있	있	VX	O
+다면	다면	EC	O
+_	_	_	O
+국정원	국정원	NNG	B-ORG
+장	장	XSN	O
+의	의	JKG	O
+_	_	_	O
+허가	허가	NNG	O
+가	가	JKS	O
+_	_	_	O
+있	있	VA	O
+어야	어야	EC	O
+_	_	_	O
+공개	공개	NNG	O
+가	가	JKS	O
+_	_	_	O
+가능하	가능하	VA	O
+다	다	EF	O
+"	"	SS	O
+
+## 10
+## 농협중앙회 사업장관리과 이현무(이현무)과장은 『농협슈퍼에서는 수입농산물을 속아 살 염려가 없다』며 『농산물 포장방법을 개선하고 유통단계를 더욱 축소하는데 주력하고 있다』고 말했다.
+## <농협중앙회:ORG> 사업장관리과 <이현무:PER>(<이현무:PER>)과장은 『<농협슈퍼:ORG>에서는 수입농산물을 속아 살 염려가 없다』며 『농산물 포장방법을 개선하고 유통단계를 더욱 축소하는데 주력하고 있다』고 말했다.
+농협	농협	NNG	B-ORG
+중앙	중앙	NNG	I-ORG
+회	회	XSN	I-ORG
+_	_	_	O
+사업장	사업장	NNG	O
+관리	관리	NNG	O
+과	과	XSN	O
+_	_	_	O
+이현무	이현무	NNP	B-PER
+(	(	SS	O
+이현무	이현무	NNP	B-PER
+)	)	SS	O
+과장	과장	NNG	O
+은	은	JX	O
+_	_	_	O
+『	『	SS	O
+농협슈퍼	농협슈퍼	NNP	B-ORG
+에서	에서	JKB	O
+는	는	JX	O
+_	_	_	O
+수입	수입	NNG	O
+농산물	농산물	NNG	O
+을	을	JKO	O
+_	_	_	O
+속	속	VV	O
+아	아	EC	O
+_	_	_	O
+살	사+ㄹ	VV+ETM	O
+_	_	_	O
+염려	염려	NNG	O
+가	가	JKS	O
+_	_	_	O
+없	없	VA	O
+다	다	EF	O
+』	』	SS	O
+며	며	EC	O
+_	_	_	O
+『	『	SS	O
+농산물	농산물	NNG	O
+_	_	_	O
+포장	포장	NNG	O
+방법	방법	NNG	O
+을	을	JKO	O
+_	_	_	O
+개선하	개선하	VV	O
+고	고	EC	O
+_	_	_	O
+유통	유통	NNG	O
+단계	단계	NNG	O
+를	를	JKO	O
+_	_	_	O
+더욱	더욱	MAG	O
+_	_	_	O
+축소하	축소하	VV	O
+는	는	ETM	O
+데	데	NNB	O
+_	_	_	O
+주력하	주력하	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+』	』	SS	O
+고	고	JKQ	O
+_	_	_	O
+말	말하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 트럼프, 공화당 1인자 지지 철회에 “차기 대권 노리고…”
+## <트럼프:PER>, <공화당:ORG> <1인자:NOH> 지지 철회에 “차기 대권 노리고…”
+트럼프	트럼프	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+공화당	공화당	NNP	B-ORG
+_	_	_	O
+1	1	SN	B-NOH
+인	인	NNG	I-NOH
+자	자	XSN	I-NOH
+_	_	_	O
+지지	지지	NNG	O
+_	_	_	O
+철회	철회	NNG	O
+에	에	JKB	O
+_	_	_	O
+“	“	SS	O
+차기	차기	NNG	O
+_	_	_	O
+대권	대권	NNG	O
+_	_	_	O
+노리	노리	VV	O
+고	고	EC	O
+…	…	SE	O
+”	”	SS	O
+
+## 12
+## 줄리아니가 그 부분을 놓칠까봐 화살표를 그린 뒤 “루디, 당신이 최고예요! 곧 봅시다”라고 썼다(사진②). 83년 폴란드를 현장 취재한 NYT 편집인에겐 “(당신의 기사는) 감동적이고, 슬프고, 굉장했다”는 편지를 보내기도 했다.
+## <줄리아니:PER>가 그 부분을 놓칠까봐 화살표를 그린 뒤 “<루디:PER>, 당신이 최고예요! 곧 봅시다”라고 썼다(사진②). <83년:DAT> <폴란드:ORG>를 현장 취재한 <NYT:ORG> 편집인에겐 “(당신의 기사는) 감동적이고, 슬프고, 굉장했다”는 편지를 보내기도 했다.
+줄리아니	줄리아니	NNP	B-PER
+가	가	JKS	O
+_	_	_	O
+그	그	MM	O
+_	_	_	O
+부분	부분	NNG	O
+을	을	JKO	O
+_	_	_	O
+놓칠까	놓치+ㄹ까	VV+EC	O
+봐	보+아	VX+EC	O
+_	_	_	O
+화살표	화살표	NNG	O
+를	를	JKO	O
+_	_	_	O
+그린	그리+ㄴ	VV+ETM	O
+_	_	_	O
+뒤	뒤	NNG	O
+_	_	_	O
+“	“	SS	O
+루디	루디	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+당신	당신	NP	O
+이	이	JKS	O
+_	_	_	O
+최고	최고+이	NNG+VCP	O
+예요	에요	EF	O
+!	!	SF	O
+_	_	_	O
+곧	곧	MAG	O
+_	_	_	O
+봅시다	보+ㅂ시다	VV+EF	O
+”	”	SS	O
+라고	라고	JKQ	O
+_	_	_	O
+썼	+었	+EP	O
+다	다	EF	O
+(	(	SS	O
+사진	사진	NNG	O
+②	②	SW	O
+)	)	SS	O
+.	.	SF	O
+_	_	_	O
+83	83	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+폴란드	폴란드	NNP	B-ORG
+를	를	JKO	O
+_	_	_	O
+현장	현장	NNG	O
+_	_	_	O
+취재한	취재하+ㄴ	VV+ETM	O
+_	_	_	O
+NYT	NYT	SL	B-ORG
+_	_	_	O
+편집인	편집인	NNG	O
+에겐	에게+ㄴ	JKB+JX	O
+_	_	_	O
+“	“	SS	O
+(	(	SS	O
+당신	당신	NP	O
+의	의	JKG	O
+_	_	_	O
+기사	기사	NNG	O
+는	는	JX	O
+)	)	SS	O
+_	_	_	O
+감동적	감동적	NNG	O
+이	이	VCP	O
+고	고	EC	O
+,	,	SP	O
+_	_	_	O
+슬프	슬프	VA	O
+고	고	EC	O
+,	,	SP	O
+_	_	_	O
+굉장	굉장하	VA	O
+했	였	EP	O
+다	다	EF	O
+”	”	SS	O
+는	는	JX	O
+_	_	_	O
+편지	편지	NNG	O
+를	를	JKO	O
+_	_	_	O
+보내	보내	VV	O
+기	기	ETN	O
+도	도	JX	O
+_	_	_	O
+했	+였	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## 트럼프는 가끔은 일반 대중에게도 편지를 쓴다.
+## <트럼프:PER>는 가끔은 일반 대중에게도 편지를 쓴다.
+트럼프	트럼프	NNP	B-PER
+는	는	JX	O
+_	_	_	O
+가끔	가끔	MAG	O
+은	은	JX	O
+_	_	_	O
+일반	일반	NNG	O
+_	_	_	O
+대중	대중	NNG	O
+에게	에게	JKB	O
+도	도	JX	O
+_	_	_	O
+편지	편지	NNG	O
+를	를	JKO	O
+_	_	_	O
+쓴다	쓰+ㄴ다	VV+EF	O
+.	.	SF	O
+

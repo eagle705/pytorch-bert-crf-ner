@@ -1,0 +1,497 @@
+## 1
+## 대학생 윤한석(27)씨도 “향수에 관심이 많은데 정품 향수들을 다 사서 모으기엔 용돈으로 감당이 안 돼 온라인에서 거래되는 ‘소분 향수’를 즐겨 구매한다”고 했다.
+## 대학생 <윤한석:PER>(<27:NOH>)씨도 “향수에 관심이 많은데 정품 향수들을 다 사서 모으기엔 용돈으로 감당이 안 돼 온라인에서 거래되는 ‘소분 향수’를 즐겨 구매한다”고 했다.
+대학생	대학생	NNG	O
+_	_	_	O
+윤한석	윤한석	NNP	B-PER
+(	(	SS	O
+27	27	SN	B-NOH
+)	)	SS	O
+씨	씨	NNB	O
+도	도	JX	O
+_	_	_	O
+“	“	SS	O
+향수	향수	NNG	O
+에	에	JKB	O
+_	_	_	O
+관심	관심	NNG	O
+이	이	JKS	O
+_	_	_	O
+많	많	VA	O
+은데	은데	EC	O
+_	_	_	O
+정품	정품	NNG	O
+_	_	_	O
+향수	향수	NNG	O
+들	들	XSN	O
+을	을	JKO	O
+_	_	_	O
+다	다	MAG	O
+_	_	_	O
+사서	사+아서	VV+EC	O
+_	_	_	O
+모으	모으	VV	O
+기	기	ETN	O
+엔	에+ㄴ	JKB+JX	O
+_	_	_	O
+용돈	용돈	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+감당	감당	NNG	O
+이	이	JKC	O
+_	_	_	O
+안	안	MAG	O
+_	_	_	O
+돼	되+어	VV+EC	O
+_	_	_	O
+온라인	온라인	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+거래되	거래되	VV	O
+는	는	ETM	O
+_	_	_	O
+‘	‘	SS	O
+소분	소분	NNG	O
+_	_	_	O
+향수	향수	NNG	O
+’	’	SS	O
+를	를	JKO	O
+_	_	_	O
+즐겨	즐기+어	VV+EC	O
+_	_	_	O
+구매한다	구매하+ㄴ다	VV+EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+했	+였	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 팬들이 간절히 원하는 아이유와 지드래곤이 함께 노래 부르는 모습
+## 팬들이 간절히 원하는 <아이유:PER>와 <지드래곤:PER>이 함께 노래 부르는 모습
+팬	팬	NNG	O
+들	들	XSN	O
+이	이	JKS	O
+_	_	_	O
+간절히	간절히	MAG	O
+_	_	_	O
+원하	원하	VV	O
+는	는	ETM	O
+_	_	_	O
+아이유	아이유	NNP	B-PER
+와	와	JC	O
+_	_	_	O
+지드래곤	지드래곤	NNP	B-PER
+이	이	JKS	O
+_	_	_	O
+함께	함께	MAG	O
+_	_	_	O
+노래	노래	NNG	O
+_	_	_	O
+부르	부르	VV	O
+는	는	ETM	O
+_	_	_	O
+모습	모습	NNG	O
+
+## 3
+## 이곳 26동 등 3곳에 2000명 정도가 수용된 난민수용소가 마련돼 있다.
+## 이곳 <26동:NOH> 등 <3곳:NOH>에 <2000명:NOH> 정도가 수용된 난민수용소가 마련돼 있다.
+이곳	이곳	NP	O
+_	_	_	O
+26	26	SN	B-NOH
+동	동	NNG	I-NOH
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+3	3	SN	B-NOH
+곳	곳	NNG	I-NOH
+에	에	JKB	O
+_	_	_	O
+2000	2000	SN	B-NOH
+명	명	NNB	I-NOH
+_	_	_	O
+정도	정도	NNG	O
+가	가	JKS	O
+_	_	_	O
+수용된	수용되+ㄴ	VV+ETM	O
+_	_	_	O
+난민	난민	NNG	O
+수용소	수용소	NNG	O
+가	가	JKS	O
+_	_	_	O
+마련돼	마련되+어	VV+EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 성씨는 경찰 검거 당시 방탄복을 착용했던 것으로 확인됐다.
+## <성:PER>씨는 경찰 검거 당시 방탄복을 착용했던 것으로 확인됐다.
+성	성	NNP	B-PER
+씨	씨	NNB	O
+는	는	JX	O
+_	_	_	O
+경찰	경찰	NNG	O
+_	_	_	O
+검거	검거	NNG	O
+_	_	_	O
+당시	당시	NNG	O
+_	_	_	O
+방탄복	방탄복	NNG	O
+을	을	JKO	O
+_	_	_	O
+착용	착용하	VV	O
+했	였	EP	O
+던	던	ETM	O
+_	_	_	O
+것	것	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+확인	확인되	VV	O
+됐	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 즉 전용면적 58㎡의 경우 7700만원이면 추가 부담 없이 투자가 가능하고 수익률도 현재 임대료 수준을 감안했을 때 연 12%를 기대할 수 있다.
+## 즉 전용면적 <58㎡:NOH>의 경우 <7700만원:MNY>이면 추가 부담 없이 투자가 가능하고 수익률도 현재 임대료 수준을 감안했을 때 연 <12%:PNT>를 기대할 수 있다.
+즉	즉	MAG	O
+_	_	_	O
+전용면적	전용면적	NNG	O
+_	_	_	O
+58	58	SN	B-NOH
+㎡	㎡	SW	I-NOH
+의	의	JKG	O
+_	_	_	O
+경우	경우	NNG	O
+_	_	_	O
+7700	7700	SN	B-MNY
+만	만	NR	I-MNY
+원	원	NNB	I-MNY
+이	이	VCP	O
+면	면	EC	O
+_	_	_	O
+추가	추가	NNG	O
+_	_	_	O
+부담	부담	NNG	O
+_	_	_	O
+없이	없이	MAG	O
+_	_	_	O
+투자	투자	NNG	O
+가	가	JKS	O
+_	_	_	O
+가능하	가능하	VA	O
+고	고	EC	O
+_	_	_	O
+수익률	수익률	NNG	O
+도	도	JX	O
+_	_	_	O
+현재	현재	MAG	O
+_	_	_	O
+임대료	임대료	NNG	O
+_	_	_	O
+수준	수준	NNG	O
+을	을	JKO	O
+_	_	_	O
+감안	감안하	VV	O
+했	었	EP	O
+을	을	ETM	O
+_	_	_	O
+때	때	NNG	O
+_	_	_	O
+연	연	NNG	O
+_	_	_	O
+12	12	SN	B-PNT
+%	%	SW	I-PNT
+를	를	JKO	O
+_	_	_	O
+기대할	기대하+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## ‘택시’ 홍수아, 성형 루머 ‘억울함 토로’… “눈 성형만 했다”
+## ‘<택시:POH>’ <홍수아:PER>, 성형 루머 ‘억울함 토로’… “눈 성형만 했다”
+‘	‘	SS	O
+택시	택시	NNG	B-POH
+’	’	SS	O
+_	_	_	O
+홍수아	홍수아	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+성형	성형	NNG	O
+_	_	_	O
+루머	루머	NNG	O
+_	_	_	O
+‘	‘	SS	O
+억울함	억울하+ㅁ	VA+ETN	O
+_	_	_	O
+토로	토로	NNG	O
+’	’	SS	O
+…	…	SE	O
+_	_	_	O
+“	“	SS	O
+눈	눈	NNG	O
+_	_	_	O
+성형	성형	NNG	O
+만	만	JX	O
+_	_	_	O
+했	+였	+EP	O
+다	다	EF	O
+”	”	SS	O
+
+## 7
+## 2014년 드라마 ‘조선총잡이’ 때와는 또 다른 여유로움이 묻어났다.
+## <2014년:DAT> 드라마 ‘<조선총잡이:POH>’ 때와는 또 다른 여<유로:POH>움이 묻어났다.
+2014	2014	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+드라마	드라마	NNG	O
+_	_	_	O
+‘	‘	SS	O
+조선	조선	NNG	B-POH
+총잡이	총잡이	NNG	I-POH
+’	’	SS	O
+_	_	_	O
+때	때	NNG	O
+와	와	JKB	O
+는	는	JX	O
+_	_	_	O
+또	또	MAG	O
+_	_	_	O
+다른	다른	MM	O
+_	_	_	O
+여유로움	여유롭+ㅁ	VA+ETN	O
+이	이	JKS	O
+_	_	_	O
+묻어났	묻어나+았	VV+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## ‘나혼자산다’ 도끼, 엄청난 재력 화제 재산은 "한 몇십 억…" 래퍼 도끼가 '나 혼자 산다'에서 엄청난 재력을 과시했다.
+## ‘<나혼자산다:POH>’ <도끼:PER>, 엄청난 재력 화제 재산은 "한 <몇십 억:MNY>…" 래퍼 <도끼:PER>가 '<나 혼자 산다:POH>'에서 엄청난 재력을 과시했다.
+‘	‘	SS	O
+나	나	NP	B-POH
+혼자	혼자	NNG	I-POH
+산다	살+ㄴ다	VV+EF	I-POH
+’	’	SS	O
+_	_	_	O
+도끼	도끼	NNG	B-PER
+,	,	SP	O
+_	_	_	O
+엄청난	엄청나+ㄴ	VA+ETM	O
+_	_	_	O
+재력	재력	NNG	O
+_	_	_	O
+화제	화제	NNG	O
+_	_	_	O
+재산	재산	NNG	O
+은	은	JX	O
+_	_	_	O
+"	"	SS	O
+한	한	MM	O
+_	_	_	O
+몇	몇	MM	B-MNY
+십	십	NR	I-MNY
+_	_	_	I-MNY
+억	억	NR	I-MNY
+…	…	SE	O
+"	"	SS	O
+_	_	_	O
+래퍼	래퍼	NNG	O
+_	_	_	O
+도끼	도끼	NNG	B-PER
+가	가	JKS	O
+_	_	_	O
+'	'	SS	O
+나	나	NP	B-POH
+_	_	_	I-POH
+혼자	혼자	NNG	I-POH
+_	_	_	I-POH
+산다	살+ㄴ다	VV+EF	I-POH
+'	'	SS	O
+에서	에서	JKB	O
+_	_	_	O
+엄청난	엄청나+ㄴ	VA+ETM	O
+_	_	_	O
+재력	재력	NNG	O
+을	을	JKO	O
+_	_	_	O
+과시	과시하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 박 할아버지는 1915년 1월 1일생이다.
+## <박:PER> 할아버지는 <1915년 1월 1일:DAT>생이다.
+박	박	NNP	B-PER
+_	_	_	O
+할아버지	할아버지	NNG	O
+는	는	JX	O
+_	_	_	O
+1915	1915	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	I-DAT
+1	1	SN	I-DAT
+월	월	NNB	I-DAT
+_	_	_	I-DAT
+1	1	SN	I-DAT
+일	일	NNB	I-DAT
+생	생	XSN	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 차츰 꿈을 키우기 시작해 제주관광대 카지노경영과 2011학번으로 입학했다.
+## 차츰 꿈을 키우기 시작해 <제주관광대 카지노경영과:ORG> <2011학번:NOH>으로 입학했다.
+차츰	차츰	MAG	O
+_	_	_	O
+꿈	꿈	NNG	O
+을	을	JKO	O
+_	_	_	O
+키우	키우	VV	O
+기	기	ETN	O
+_	_	_	O
+시작해	시작하+여	VV+EC	O
+_	_	_	O
+제주	제주	NNG	B-ORG
+관광	관광	NNG	I-ORG
+대	대	XSN	I-ORG
+_	_	_	I-ORG
+카지노	카지노	NNG	I-ORG
+경영	경영	NNG	I-ORG
+과	과	JC	I-ORG
+_	_	_	O
+2011	2011	SN	B-NOH
+학번	학번	NNG	I-NOH
+으로	으로	JKB	O
+_	_	_	O
+입학	입학하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 이에 따라 앞으로는 식품업체들이 HACCP 인증 받기가 훨씬 수월해질 것으로 보인다.
+## 이에 따라 앞으로는 식품업체들이 <HACCP:ORG> 인증 받기가 훨씬 수월해질 것으로 보인다.
+이	이	NP	O
+에	에	JKB	O
+_	_	_	O
+따	따르	VV	O
+라	아	EC	O
+_	_	_	O
+앞	앞	NNG	O
+으로	으로	JKB	O
+는	는	JX	O
+_	_	_	O
+식품	식품	NNG	O
+업체	업체	NNG	O
+들	들	XSN	O
+이	이	JKS	O
+_	_	_	O
+HACCP	HACCP	SL	B-ORG
+_	_	_	O
+인증	인증	NNG	O
+_	_	_	O
+받	받	VV	O
+기	기	ETN	O
+가	가	JKS	O
+_	_	_	O
+훨씬	훨씬	MAG	O
+_	_	_	O
+수월해	수월하+여	VA+EC	O
+질	지+ㄹ	VX+ETM	O
+_	_	_	O
+것	것	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+보인다	보이+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 12
+## 이미 지난해 10월 미국 프로농구(NBA)가 가장 먼저 삼성전자와 손잡고 기어VR을 통해 주요 경기를 VR 중계했다.
+## 이미 지난해 <10월:DAT> <미국 프로농구:ORG>(<NBA:ORG>)가 가장 먼저 <삼성전자:ORG>와 손잡고 기어VR을 통해 주요 경기를 VR 중계했다.
+이미	이미	MAG	O
+_	_	_	O
+지난해	지난해	NNG	O
+_	_	_	O
+10	10	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+미국	미국	NNP	B-ORG
+_	_	_	I-ORG
+프로	프로	NNG	I-ORG
+농구	농구	NNG	I-ORG
+(	(	SS	O
+NBA	NBA	SL	B-ORG
+)	)	SS	O
+가	가	JKS	O
+_	_	_	O
+가장	가장	MAG	O
+_	_	_	O
+먼저	먼저	MAG	O
+_	_	_	O
+삼성전자	삼성전자	NNP	B-ORG
+와	와	JC	O
+_	_	_	O
+손잡	손잡	VV	O
+고	고	EC	O
+_	_	_	O
+기	기	VV	O
+어	어	EC	O
+VR	VR	SL	O
+을	을	JKO	O
+_	_	_	O
+통해	통하+여	VV+EC	O
+_	_	_	O
+주요	주요	NNG	O
+_	_	_	O
+경기	경기	NNG	O
+를	를	JKO	O
+_	_	_	O
+VR	VR	SL	O
+_	_	_	O
+중계	중계하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## 배 원장이 성형 없이 주름 쫙 펴는 기적의 마사지 방법을 제안한다.
+## <배:PER> 원장이 성형 없이 주름 쫙 펴는 기적의 마사지 방법을 제안한다.
+배	배	NNG	B-PER
+_	_	_	O
+원장	원장	NNG	O
+이	이	JKS	O
+_	_	_	O
+성형	성형	NNG	O
+_	_	_	O
+없이	없이	MAG	O
+_	_	_	O
+주름	주름	NNG	O
+_	_	_	O
+쫙	쫙	MAG	O
+_	_	_	O
+펴	펴	VV	O
+는	는	ETM	O
+_	_	_	O
+기적	기적	NNG	O
+의	의	JKG	O
+_	_	_	O
+마사지	마사지	NNG	O
+_	_	_	O
+방법	방법	NNG	O
+을	을	JKO	O
+_	_	_	O
+제안한다	제안하+ㄴ다	VV+EF	O
+.	.	SF	O
+

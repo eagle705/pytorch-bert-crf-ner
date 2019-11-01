@@ -1,0 +1,562 @@
+## 1
+## 전인지는 시즌 개막전 5개 대회를 뛰었고 US여자오픈과 브리티시여자오픈에 출전했다.
+## <전인지:PER>는 시즌 개막전 <5개:NOH> 대회를 뛰었고 <US여자오픈:POH>과 <브리티시여자오픈:POH>에 출전했다.
+전인지	전인지	NNP	B-PER
+는	는	JX	O
+_	_	_	O
+시즌	시즌	NNG	O
+_	_	_	O
+개막	개막	NNG	O
+전	전	XSN	O
+_	_	_	O
+5	5	SN	B-NOH
+개	개	NNB	I-NOH
+_	_	_	O
+대회	대회	NNG	O
+를	를	JKO	O
+_	_	_	O
+뛰	뛰	VV	O
+었	었	EP	O
+고	고	EC	O
+_	_	_	O
+US	US	SL	B-POH
+여자	여자	NNG	I-POH
+오픈	오픈	NNG	I-POH
+과	과	JC	O
+_	_	_	O
+브리티시	브리티시	NNP	B-POH
+여자	여자	NNG	I-POH
+오픈	오픈	NNG	I-POH
+에	에	JKB	O
+_	_	_	O
+출전	출전하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 33명 서울체고·29명 창원공고 출신…‘명문고 파워’
+## <33명:NOH> <서울체고:ORG>·<29명:NOH> <창원공고:ORG> 출신…‘명문고 파워’
+33	33	SN	B-NOH
+명	명	NNB	I-NOH
+_	_	_	O
+서울체고	서울체고	NNP	B-ORG
+·	·	SP	O
+29	29	SN	B-NOH
+명	명	NNB	I-NOH
+_	_	_	O
+창원	창원	NNP	B-ORG
+공고	공고	NNG	I-ORG
+_	_	_	O
+출신	출신	NNG	O
+…	…	SE	O
+‘	‘	SS	O
+명문	명문	NNG	O
+고	고	NNG	O
+_	_	_	O
+파워	파워	NNG	O
+’	’	SS	O
+
+## 3
+## 박 9단은 마지막 형세 판단 끝에 결심했다.
+## <박:PER> <9단:POH>은 마지막 형세 판단 끝에 결심했다.
+박	박	NNP	B-PER
+_	_	_	O
+9	9	SN	B-POH
+단	단	NNG	I-POH
+은	은	JX	O
+_	_	_	O
+마지막	마지막	NNG	O
+_	_	_	O
+형세	형세	NNG	O
+_	_	_	O
+판단	판단	NNG	O
+_	_	_	O
+끝	끝	NNG	O
+에	에	JKB	O
+_	_	_	O
+결심	결심하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 아직까지 깨지지 않고 있는 이승엽의 단일시즌 최다
+## 아직까지 깨지지 않고 있는 <이승엽:PER>의 단일시즌 최다
+아직	아직	MAG	O
+까지	까지	JX	O
+_	_	_	O
+깨지	깨지	VV	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+는	는	ETM	O
+_	_	_	O
+이승엽	이승엽	NNP	B-PER
+의	의	JKG	O
+_	_	_	O
+단일	단일	NNG	O
+시즌	시즌	NNG	O
+_	_	_	O
+최다	최다	NNG	O
+
+## 5
+## 간토대지진 조선인학살 진상규명… ‘9월…’ 펴낸 日가토 나오키씨
+## <간토대지진 조선인학살:POH> 진상규명… ‘<9월:DAT>…’ 펴낸 <日:ORG><가토 나오키:PER>씨
+간토	간토	NNP	B-POH
+대지진	대지진	NNG	I-POH
+_	_	_	I-POH
+조선	조선	NNP	I-POH
+인	인	XSN	I-POH
+학살	학살	NNG	I-POH
+_	_	_	O
+진상	진상	NNG	O
+규명	규명	NNG	O
+…	…	SE	O
+_	_	_	O
+‘	‘	SS	O
+9	9	SN	B-DAT
+월	월	NNB	I-DAT
+…	…	SE	O
+’	’	SS	O
+_	_	_	O
+펴낸	펴내+ㄴ	VV+ETM	O
+_	_	_	O
+日	日	SH	B-ORG
+가토	가토	NNP	B-PER
+_	_	_	I-PER
+나오키	나오키	NNP	I-PER
+씨	씨	NNB	O
+
+## 6
+## 장­이씨는 각각 이날 오후 6시와 6시15분쯤 서초동 검찰청사에 자진 출두했다.
+## <장:PER>­<이:PER>씨는 각각 이날 <오후 6시:TIM>와 <6시15분:TIM>쯤 <서초동 검찰청사:LOC>에 자진 출두했다.
+장	장	XPN	B-PER
+­	­	SS	O
+이	이	NNP	B-PER
+씨	씨	NNB	O
+는	는	JX	O
+_	_	_	O
+각각	각각	MAG	O
+_	_	_	O
+이날	이날	NNG	O
+_	_	_	O
+오후	오후	NNG	B-TIM
+_	_	_	I-TIM
+6	6	SN	I-TIM
+시	시	NNB	I-TIM
+와	와	JC	O
+_	_	_	O
+6	6	SN	B-TIM
+시	시	NNB	I-TIM
+15	15	SN	I-TIM
+분	분	NNB	I-TIM
+쯤	쯤	XSN	O
+_	_	_	O
+서초동	서초동	NNP	B-LOC
+_	_	_	I-LOC
+검찰	검찰	NNG	I-LOC
+청사	청사	NNG	I-LOC
+에	에	JKB	O
+_	_	_	O
+자진	자진	NNG	O
+_	_	_	O
+출두	출두하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 이란은 북부 산악지역을 제외하고 물이 귀하여 용수 공급률이 60%밖에 안 된다.
+## <이란:ORG>은 북부 산악지역을 제외하고 물이 귀하여 용수 공급률이 <60%:PNT>밖에 안 된다.
+이란	이란	NNP	B-ORG
+은	은	JX	O
+_	_	_	O
+북부	북부	NNG	O
+_	_	_	O
+산악	산악	NNG	O
+지역	지역	NNG	O
+을	을	JKO	O
+_	_	_	O
+제외하	제외하	VV	O
+고	고	EC	O
+_	_	_	O
+물	물	NNG	O
+이	이	JKS	O
+_	_	_	O
+귀하	귀하	VA	O
+여	여	EC	O
+_	_	_	O
+용수	용수	NNG	O
+_	_	_	O
+공급	공급	NNG	O
+률	률	XSN	O
+이	이	JKS	O
+_	_	_	O
+60	60	SN	B-PNT
+%	%	SW	I-PNT
+밖에	밖에	JX	O
+_	_	_	O
+안	안	MAG	O
+_	_	_	O
+된다	되+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 8
+## 볼 점유율에선 57%-43%로 앞섰지만, 슈팅수(7-16)에서 밀렸다.
+## 볼 점유율에선 <57%:PNT>-<43%:PNT>로 앞섰지만, 슈팅수(<7-16:NOH>)에서 밀렸다.
+볼	볼	NNG	O
+_	_	_	O
+점유율	점유율	NNG	O
+에선	에서+ㄴ	JKB+JX	O
+_	_	_	O
+57	57	SN	B-PNT
+%	%	SW	I-PNT
+-	-	SO	O
+43	43	SN	B-PNT
+%	%	SW	I-PNT
+로	로	JKB	O
+_	_	_	O
+앞섰	앞서+었	VV+EP	O
+지만	지만	EC	O
+,	,	SP	O
+_	_	_	O
+슈팅	슈팅	NNG	O
+수	수	NNG	O
+(	(	SS	O
+7	7	SN	B-NOH
+-	-	SO	I-NOH
+16	16	SN	I-NOH
+)	)	SS	O
+에서	에서	JKB	O
+_	_	_	O
+밀	밀리	VV	O
+렸	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 한 생존자 어머니는 떨리는 목소리로 “세월호 참사 전 활달했던 아이가 지금은 귀에 이어폰만 꽂고 다니며 혼자 있고 싶어 하는 성향이 됐다.
+## 한 생존자 어머니는 떨리는 목소리로 “<세월호 참사:POH> 전 활달했던 아이가 지금은 귀에 이어폰만 꽂고 다니며 혼자 있고 싶어 하는 성향이 됐다.
+한	한	MM	O
+_	_	_	O
+생존자	생존자	NNG	O
+_	_	_	O
+어머니	어머니	NNG	O
+는	는	JX	O
+_	_	_	O
+떨리	떨리	VV	O
+는	는	ETM	O
+_	_	_	O
+목소리	목소리	NNG	O
+로	로	JKB	O
+_	_	_	O
+“	“	SS	O
+세월호	세월호	NNP	B-POH
+_	_	_	I-POH
+참사	참사	NNG	I-POH
+_	_	_	O
+전	전	MM	O
+_	_	_	O
+활달	활달하	VA	O
+했	였	EP	O
+던	던	ETM	O
+_	_	_	O
+아이	아이	NNG	O
+가	가	JKS	O
+_	_	_	O
+지금	지금	NNG	O
+은	은	JX	O
+_	_	_	O
+귀	귀	NNG	O
+에	에	JKB	O
+_	_	_	O
+이어폰	이어폰	NNG	O
+만	만	JX	O
+_	_	_	O
+꽂	꽂	VV	O
+고	고	EC	O
+_	_	_	O
+다니	다니	VV	O
+며	며	EC	O
+_	_	_	O
+혼자	혼자	NNG	O
+_	_	_	O
+있	있	VA	O
+고	고	EC	O
+_	_	_	O
+싶	싶	VX	O
+어	어	EC	O
+_	_	_	O
+하	하	VX	O
+는	는	ETM	O
+_	_	_	O
+성향	성향	NNG	O
+이	이	JKC	O
+_	_	_	O
+됐	+었	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 교육행정정보시스템(NEIS)에 등록된 학생 환자 수인데, 의사 소견서 및 진단서를 학교에 제출한 사례를 기준으로 작성했다.
+## <교육행정정보시스템:POH>(<NEIS:POH>)에 등록된 학생 환자 수인데, 의사 소견서 및 진단서를 학교에 제출한 사례를 기준으로 작성했다.
+교육	교육	NNG	B-POH
+행정	행정	NNG	I-POH
+정보	정보	NNG	I-POH
+시스템	시스템	NNG	I-POH
+(	(	SS	O
+NEIS	NEIS	SL	B-POH
+)	)	SS	O
+에	에	JKB	O
+_	_	_	O
+등록된	등록되+ㄴ	VV+ETM	O
+_	_	_	O
+학생	학생	NNG	O
+_	_	_	O
+환자	환자	NNG	O
+_	_	_	O
+수	수	NNG	O
+인데	이+ㄴ데	VCP+EC	O
+,	,	SP	O
+_	_	_	O
+의사	의사	NNG	O
+_	_	_	O
+소견	소견	NNG	O
+서	서	XSN	O
+_	_	_	O
+및	및	MAG	O
+_	_	_	O
+진단서	진단서	NNG	O
+를	를	JKO	O
+_	_	_	O
+학교	학교	NNG	O
+에	에	JKB	O
+_	_	_	O
+제출한	제출하+ㄴ	VV+ETM	O
+_	_	_	O
+사례	사례	NNG	O
+를	를	JKO	O
+_	_	_	O
+기준	기준	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+작성	작성하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 고소영, 日대부업체 광고 촬영 논란 ‘시끌’…소속사 입장은? “기업의 상품과 무관”배우 고소영이 최근 일본계 금융업체의 광고 모델로 나서 논란이 일고 있는 가운데, 고소영 소속사 측이 “대출 상품이 아닌 종합금융기업의 브랜드에 대한 광고”라고 해명했다.
+## <고소영:PER>, <日:ORG>대부업체 광고 촬영 논란 ‘시끌’…소속사 입장은? “기업의 상품과 무관”배우 <고소영:PER>이 최근 <일본:ORG>계 금융업체의 광고 모델로 나서 논란이 일고 있는 가운데, <고소영:PER> 소속사 측이 “대출 상품이 아닌 종합금융기업의 브랜드에 대한 광고”라고 해명했다.
+고소영	고소영	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+日	日	SH	B-ORG
+대부	대부	NNG	O
+업체	업체	NNG	O
+_	_	_	O
+광고	광고	NNG	O
+_	_	_	O
+촬영	촬영	NNG	O
+_	_	_	O
+논란	논란	NNG	O
+_	_	_	O
+‘	‘	SS	O
+시	시	NNG	O
+끌	끌	NNG	O
+’	’	SS	O
+…	…	SE	O
+소속	소속	NNG	O
+사	사	XSN	O
+_	_	_	O
+입장	입장	NNG	O
+은	은	JX	O
+?	?	SF	O
+_	_	_	O
+“	“	SS	O
+기업	기업	NNG	O
+의	의	JKG	O
+_	_	_	O
+상품	상품	NNG	O
+과	과	JC	O
+_	_	_	O
+무관	무관	NNG	O
+”	”	SS	O
+배우	배우	NNG	O
+_	_	_	O
+고소영	고소영	NNP	B-PER
+이	이	JKS	O
+_	_	_	O
+최근	최근	NNG	O
+_	_	_	O
+일본	일본	NNP	B-ORG
+계	계	XSN	O
+_	_	_	O
+금융	금융	NNG	O
+업체	업체	NNG	O
+의	의	JKG	O
+_	_	_	O
+광고	광고	NNG	O
+_	_	_	O
+모델	모델	NNG	O
+로	로	JKB	O
+_	_	_	O
+나서	나서+어	VV+EC	O
+_	_	_	O
+논란	논란	NNG	O
+이	이	JKS	O
+_	_	_	O
+일	일	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+는	는	ETM	O
+_	_	_	O
+가운데	가운데	NNG	O
+,	,	SP	O
+_	_	_	O
+고소영	고소영	NNP	B-PER
+_	_	_	O
+소속	소속	NNG	O
+사	사	XSN	O
+_	_	_	O
+측	측	NNB	O
+이	이	JKS	O
+_	_	_	O
+“	“	SS	O
+대출	대출	NNG	O
+_	_	_	O
+상품	상품	NNG	O
+이	이	JKC	O
+_	_	_	O
+아닌	아니+ㄴ	VCN+ETM	O
+_	_	_	O
+종합	종합	NNG	O
+금융	금융	NNG	O
+기업	기업	NNG	O
+의	의	JKG	O
+_	_	_	O
+브랜드	브랜드	NNG	O
+에	에	JKB	O
+_	_	_	O
+대한	대하+ㄴ	VV+ETM	O
+_	_	_	O
+광고	광고	NNG	O
+”	”	SS	O
+라고	라고	JKQ	O
+_	_	_	O
+해명	해명하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 고소영은 최근 제2금융권인 일본계 J기업과 모델 계약을 체결, 지난달 한강 근처에서 기업광고 촬영까지 마친 것으로 알려졌다.
+## <고소영:PER>은 최근 <제2:NOH>금융권인 일본계 <J기업:ORG>과 모델 계약을 체결, 지난달 <한강:LOC> 근처에서 기업광고 촬영까지 마친 것으로 알려졌다.
+고소영	고소영	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+최근	최근	NNG	O
+_	_	_	O
+제	제	XPN	B-NOH
+2	2	SN	I-NOH
+금융권	금융권	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+일본	일본	NNP	O
+계	계	XSN	O
+_	_	_	O
+J	J	SL	B-ORG
+기업	기업	NNG	I-ORG
+과	과	JC	O
+_	_	_	O
+모델	모델	NNG	O
+_	_	_	O
+계약	계약	NNG	O
+을	을	JKO	O
+_	_	_	O
+체결	체결	NNG	O
+,	,	SP	O
+_	_	_	O
+지난달	지난달	NNG	O
+_	_	_	O
+한강	한강	NNP	B-LOC
+_	_	_	O
+근처	근처	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+기업	기업	NNG	O
+광고	광고	NNG	O
+_	_	_	O
+촬영	촬영	NNG	O
+까지	까지	JX	O
+_	_	_	O
+마친	마치+ㄴ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+알려	알려지	VV	O
+졌	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## 반도건설은 서해선 복선전철이 시작되는 송산신도시의 첫 아파트 ‘송산신도시 반도유보라 아이비파크’를 공급한다.
+## <반도건설:ORG>은 <서해선 복선전철:POH>이 시작되는 <송산신도시:LOC>의 첫 아파트 ‘<송산신도시 반도유보라 아이비파크:LOC>’를 공급한다.
+반도건설	반도건설	NNP	B-ORG
+은	은	JX	O
+_	_	_	O
+서해선	서해선	NNP	B-POH
+_	_	_	I-POH
+복선	복선	NNG	I-POH
+전철	전철	NNG	I-POH
+이	이	JKS	O
+_	_	_	O
+시작되	시작되	VV	O
+는	는	ETM	O
+_	_	_	O
+송산	송산	NNP	B-LOC
+신도시	신도시	NNG	I-LOC
+의	의	JKG	O
+_	_	_	O
+첫	첫	MM	O
+_	_	_	O
+아파트	아파트	NNG	O
+_	_	_	O
+‘	‘	SS	O
+송산	송산	NNP	B-LOC
+신도시	신도시	NNG	I-LOC
+_	_	_	I-LOC
+반도유보라	반도유보라	NNP	I-LOC
+_	_	_	I-LOC
+아이비파크	아이비파크	NNP	I-LOC
+’	’	SS	O
+를	를	JKO	O
+_	_	_	O
+공급한다	공급하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 14
+## 염속산, 까치산, 칠봉산 등이 대표적이다.
+## <염속산:LOC>, <까치산:LOC>, <칠봉산:LOC> 등이 대표적이다.
+염속산	염속산	NNP	B-LOC
+,	,	SP	O
+_	_	_	O
+까치산	까치산	NNP	B-LOC
+,	,	SP	O
+_	_	_	O
+칠봉산	칠봉산	NNP	B-LOC
+_	_	_	O
+등	등	NNB	O
+이	이	JKS	O
+_	_	_	O
+대표적	대표적	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+

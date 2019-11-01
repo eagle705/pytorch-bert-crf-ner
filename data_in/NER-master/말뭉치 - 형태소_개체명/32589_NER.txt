@@ -1,0 +1,400 @@
+## 1
+## 여당 의원 152명 중 108명(71%)이 초선이었다.
+## 여당 의원 <152명:NOH> 중 <108명:NOH>(<71%:PNT>)이 초선이었다.
+여당	여당	NNG	O
+_	_	_	O
+의원	의원	NNG	O
+_	_	_	O
+152	152	SN	B-NOH
+명	명	NNB	I-NOH
+_	_	_	O
+중	중	NNP	O
+_	_	_	O
+108	108	SN	B-NOH
+명	명	NNB	I-NOH
+(	(	SS	O
+71	71	SN	B-PNT
+%	%	SW	I-PNT
+)	)	SS	O
+이	이	JKS	O
+_	_	_	O
+초선	초선	NNG	O
+이	이	VCP	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 센터 관람석은 5000여 석 규모다.
+## 센터 관람석은 <5000여 석:NOH> 규모다.
+센터	센터	NNG	O
+_	_	_	O
+관람석	관람석	NNG	O
+은	은	JX	O
+_	_	_	O
+5000	5000	SN	B-NOH
+여	여	XSN	I-NOH
+_	_	_	I-NOH
+석	석	NNB	I-NOH
+_	_	_	O
+규모	규모+이	NNG+VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 당 ‘을지로위원회’(위원장 우원식 의원)는 긴급 성명을 내고 “비례대표 공천을 전면 재검토하라”고 요구했다.
+## 당 ‘<을지로위원회:ORG>’(위원장 <우원식:PER> 의원)는 긴급 성명을 내고 “비례대표 공천을 전면 재검토하라”고 요구했다.
+당	당	NNG	O
+_	_	_	O
+‘	‘	SS	O
+을지로	을지로	NNP	B-ORG
+위원회	위원회	NNG	I-ORG
+’	’	SS	O
+(	(	SS	O
+위원장	위원장	NNG	O
+_	_	_	O
+우원식	우원식	NNP	B-PER
+_	_	_	O
+의원	의원	NNG	O
+)	)	SS	O
+는	는	JX	O
+_	_	_	O
+긴급	긴급	NNG	O
+_	_	_	O
+성명	성명	NNG	O
+을	을	JKO	O
+_	_	_	O
+내	내	VV	O
+고	고	EC	O
+_	_	_	O
+“	“	SS	O
+비례대표	비례대표	NNG	O
+_	_	_	O
+공천	공천	NNG	O
+을	을	JKO	O
+_	_	_	O
+전면	전면	NNG	O
+_	_	_	O
+재검토하	재검토하	VV	O
+라	라	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+요구	요구하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 중진 의원들(박병석·원혜영·유인태·이석현·정세균·추미애)도 성명을 내놓았다.
+## 중진 의원들(<박병석:PER>·<원혜영:PER>·<유인태:PER>·<이석현:PER>·<정세균:PER>·<추미애:PER>)도 성명을 내놓았다.
+중진	중진	NNG	O
+_	_	_	O
+의원	의원	NNG	O
+들	들	XSN	O
+(	(	SS	O
+박병석	박병석	NNP	B-PER
+·	·	SP	O
+원혜영	원혜영	NNP	B-PER
+·	·	SP	O
+유인태	유인태	NNP	B-PER
+·	·	SP	O
+이석현	이석현	NNP	B-PER
+·	·	SP	O
+정세균	정세균	NNP	B-PER
+·	·	SP	O
+추미애	추미애	NNP	B-PER
+)	)	SS	O
+도	도	JX	O
+_	_	_	O
+성명	성명	NNG	O
+을	을	JKO	O
+_	_	_	O
+내놓	내놓	VV	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## ‘쇼미더머니’ 베이식 ‘좋은 날’ 우승에 거미 “나중에 또 함께”
+## ‘<쇼미더머니:POH>’ <베이식:PER> ‘<좋은 날:POH>’ 우승에 <거미:PER> “나중에 또 함께”
+‘	‘	SS	O
+쇼	쇼	NNG	B-POH
+미	미	NNP	I-POH
+더머	더머	NNG	I-POH
+니	니	JC	I-POH
+’	’	SS	O
+_	_	_	O
+베이식	베이식	NNG	B-PER
+_	_	_	O
+‘	‘	SS	O
+좋	좋	VA	B-POH
+은	은	ETM	I-POH
+_	_	_	I-POH
+날	날	NNG	I-POH
+’	’	SS	O
+_	_	_	O
+우승	우승	NNG	O
+에	에	JKB	O
+_	_	_	O
+거미	거미	NNG	B-PER
+_	_	_	O
+“	“	SS	O
+나중	나중	NNG	O
+에	에	JKB	O
+_	_	_	O
+또	또	MAG	O
+_	_	_	O
+함께	함께	MAG	O
+”	”	SS	O
+
+## 6
+## ‘키스 더 라디오’ 새 DJ 이홍기 “말 실수 하지 말자는게 목표”
+## ‘<키스 더 라디오:POH>’ 새 DJ <이홍기:PER> “말 실수 하지 말자는게 목표”
+‘	‘	SS	O
+키스	키스	NNG	B-POH
+_	_	_	I-POH
+더	더	MAG	I-POH
+_	_	_	I-POH
+라디오	라디오	NNG	I-POH
+’	’	SS	O
+_	_	_	O
+새	새	MM	O
+_	_	_	O
+DJ	DJ	SL	O
+_	_	_	O
+이홍기	이홍기	NNP	B-PER
+_	_	_	O
+“	“	SS	O
+말	말	NNG	O
+_	_	_	O
+실수	실수	NNG	O
+_	_	_	O
+하	하	VV	O
+지	지	EC	O
+_	_	_	O
+말	말	VX	O
+자는	자는	ETM	O
+게	게	EC	O
+_	_	_	O
+목표	목표	NNG	O
+”	”	SS	O
+
+## 7
+## 그 중심의 한 켠에 서태지기념사업회(서기회)가 있었다.
+## 그 중심의 <한 켠:NOH>에 <서태지기념사업회:ORG>(<서기회:ORG>)가 있었다.
+그	그	MM	O
+_	_	_	O
+중심	중심	NNG	O
+의	의	JKG	O
+_	_	_	O
+한	한	MM	B-NOH
+_	_	_	I-NOH
+켠	켠	NNB	I-NOH
+에	에	JKB	O
+_	_	_	O
+서태지	서태지	NNP	B-ORG
+기념	기념	NNG	I-ORG
+사업	사업	NNG	I-ORG
+회	회	XSN	I-ORG
+(	(	SS	O
+서기회	서기회	NNP	B-ORG
+)	)	SS	O
+가	가	JKS	O
+_	_	_	O
+있	있	VA	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 반대 여론의 경우 인천·경기가 46%, 서울과 호남이 각각 45%로 평균보다 조금 높았다.
+## 반대 여론의 경우 <인천:LOC>·<경기:LOC>가 <46%:PNT>, <서울:LOC>과 <호남:LOC>이 각각 <45%:PNT>로 평균보다 조금 높았다.
+반대	반대	NNG	O
+_	_	_	O
+여론	여론	NNG	O
+의	의	JKG	O
+_	_	_	O
+경우	경우	NNG	O
+_	_	_	O
+인천	인천	NNP	B-LOC
+·	·	SP	O
+경기	경기	NNG	B-LOC
+가	가	JKS	O
+_	_	_	O
+46	46	SN	B-PNT
+%	%	SW	I-PNT
+,	,	SP	O
+_	_	_	O
+서울	서울	NNP	B-LOC
+과	과	JC	O
+_	_	_	O
+호남	호남	NNP	B-LOC
+이	이	JKS	O
+_	_	_	O
+각각	각각	MAG	O
+_	_	_	O
+45	45	SN	B-PNT
+%	%	SW	I-PNT
+로	로	JKB	O
+_	_	_	O
+평균	평균	NNG	O
+보다	보다	JKB	O
+_	_	_	O
+조금	조금	MAG	O
+_	_	_	O
+높	높	VA	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## [기업&CEO]국내 AR·VR산업 기술 선도… ‘CES 2017’서 뜨거운 관심
+## [기업&CEO]국내 AR·VR산업 기술 선도… ‘<CES:POH> <2017:DAT>’서 뜨거운 관심
+[	[	SS	O
+기업	기업	NNG	O
+&	&	SW	O
+CEO	CEO	SL	O
+]	]	SS	O
+국내	국내	NNG	O
+_	_	_	O
+AR	AR	SL	O
+·	·	SP	O
+VR	VR	SL	O
+산업	산업	NNG	O
+_	_	_	O
+기술	기술	NNG	O
+_	_	_	O
+선도	선도	NNG	O
+…	…	SE	O
+_	_	_	O
+‘	‘	SS	O
+CES	CES	SL	B-POH
+_	_	_	O
+2017	2017	SN	B-DAT
+’	’	SS	O
+서	서	JKB	O
+_	_	_	O
+뜨거	뜨겁	VA	O
+운	ㄴ	ETM	O
+_	_	_	O
+관심	관심	NNG	O
+
+## 10
+## 반면 말레이시아는 IMF의 자본 자유화 요구를 거부하고 오히려 금리를 내렸다.
+## 반면 <말레이시아:LOC>는 <IMF:ORG>의 자본 자유화 요구를 거부하고 오히려 금리를 내렸다.
+반면	반면	NNG	O
+_	_	_	O
+말레이시아	말레이시아	NNP	B-LOC
+는	는	JX	O
+_	_	_	O
+IMF	IMF	SL	B-ORG
+의	의	JKG	O
+_	_	_	O
+자본	자본	NNG	O
+_	_	_	O
+자유화	자유화	NNG	O
+_	_	_	O
+요구	요구	NNG	O
+를	를	JKO	O
+_	_	_	O
+거부하	거부하	VV	O
+고	고	EC	O
+_	_	_	O
+오히려	오히려	MAG	O
+_	_	_	O
+금리	금리	NNG	O
+를	를	JKO	O
+_	_	_	O
+내	내리	VV	O
+렸	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 정부는 2017년부터 국민연금의 운용성과를 일본 공적연금(GPIF)이나 미국의 캘리포니아 공무원 퇴직연금(CalPERS) 등 5개 내외의 글로벌 연기금과 비교해 평가하기로 했다.
+## 정부는 <2017년:DAT>부터 <국민연금:ORG>의 운용성과를 <일본 공적연금:ORG>(<GPIF:ORG>)이나 <미국:ORG>의 <캘리포니아 공무원 퇴직연금:ORG>(<CalPERS:ORG>) 등 <5개:NOH> 내외의 글로벌 연기금과 비교해 평가하기로 했다.
+정부	정부	NNG	O
+는	는	JX	O
+_	_	_	O
+2017	2017	SN	B-DAT
+년	년	NNB	I-DAT
+부터	부터	JX	O
+_	_	_	O
+국민	국민	NNG	B-ORG
+연금	연금	NNG	I-ORG
+의	의	JKG	O
+_	_	_	O
+운용	운용	NNG	O
+성과	성과	NNG	O
+를	를	JKO	O
+_	_	_	O
+일본	일본	NNP	B-ORG
+_	_	_	I-ORG
+공적	공적	NNG	I-ORG
+연금	연금	NNG	I-ORG
+(	(	SS	O
+GPIF	GPIF	SL	B-ORG
+)	)	SS	O
+이나	이나	JC	O
+_	_	_	O
+미국	미국	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+캘리포니아	캘리포니아	NNP	B-ORG
+_	_	_	I-ORG
+공무원	공무원	NNG	I-ORG
+_	_	_	I-ORG
+퇴직연금	퇴직연금	NNG	I-ORG
+(	(	SS	O
+CalPERS	CalPERS	SL	B-ORG
+)	)	SS	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+5	5	SN	B-NOH
+개	개	NNB	I-NOH
+_	_	_	O
+내외	내외	NNG	O
+의	의	JKG	O
+_	_	_	O
+글로벌	글로벌	NNG	O
+_	_	_	O
+연	연	NNG	O
+기금	기금	NNG	O
+과	과	JKB	O
+_	_	_	O
+비교해	비교하+여	VV+EC	O
+_	_	_	O
+평가하	평가하	VV	O
+기	기	ETN	O
+로	로	JKB	O
+_	_	_	O
+했	+였	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 잘츠부르크는 고작 인구 15만 명의 작은 도시이다.
+## <잘츠부르크:LOC>는 고작 인구 <15만 명:NOH>의 작은 도시이다.
+잘츠부르크	잘츠부르크	NNP	B-LOC
+는	는	JX	O
+_	_	_	O
+고작	고작	MAG	O
+_	_	_	O
+인구	인구	NNG	O
+_	_	_	O
+15	15	SN	B-NOH
+만	만	NR	I-NOH
+_	_	_	I-NOH
+명	명	NNB	I-NOH
+의	의	JKG	O
+_	_	_	O
+작	작	VA	O
+은	은	ETM	O
+_	_	_	O
+도시	도시	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+

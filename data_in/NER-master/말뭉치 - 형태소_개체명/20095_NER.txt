@@ -1,0 +1,379 @@
+## 1
+## 제프리 색스 미국 컬럼비아대 교수(경제학)의 기조강연을 비롯해 1970년 한국에서 시작해 세계 90여 개국으로 퍼진 새마을운동의 성공요인을 분석하는 행사가 다양하게 펼쳐진다.
+## <제프리 색스:PER> <미국 컬럼비아대:ORG> 교수(경제학)의 기조강연을 비롯해 <1970년:DAT> <한국:LOC>에서 시작해 세계 <90여 개:NOH>국으로 퍼진 새마을운동의 성공요인을 분석하는 행사가 다양하게 펼쳐진다.
+제프리	제프리	NNP	B-PER
+_	_	_	I-PER
+색스	색스	NNG	I-PER
+_	_	_	O
+미국	미국	NNP	B-ORG
+_	_	_	I-ORG
+컬럼비아대	컬럼비아대	NNP	I-ORG
+_	_	_	O
+교수	교수	NNG	O
+(	(	SS	O
+경제학	경제학	NNG	O
+)	)	SS	O
+의	의	JKG	O
+_	_	_	O
+기조	기조	NNG	O
+강연	강연	NNG	O
+을	을	JKO	O
+_	_	_	O
+비롯해	비롯하+여	VV+EC	O
+_	_	_	O
+1970	1970	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+한국	한국	NNP	B-LOC
+에서	에서	JKB	O
+_	_	_	O
+시작해	시작하+여	VV+EC	O
+_	_	_	O
+세계	세계	NNG	O
+_	_	_	O
+90	90	SN	B-NOH
+여	여	XSN	I-NOH
+_	_	_	I-NOH
+개국	개국	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+퍼진	퍼지+ㄴ	VV+ETM	O
+_	_	_	O
+새마을	새마을	NNG	O
+운동	운동	NNG	O
+의	의	JKG	O
+_	_	_	O
+성공	성공	NNG	O
+요인	요인	NNG	O
+을	을	JKO	O
+_	_	_	O
+분석하	분석하	VV	O
+는	는	ETM	O
+_	_	_	O
+행사	행사	NNG	O
+가	가	JKS	O
+_	_	_	O
+다양하	다양하	VA	O
+게	게	EC	O
+_	_	_	O
+펼쳐진다	펼쳐지+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 2
+## 그만큼 바이에른 뮌헨은 분데스리가를 넘어 세계무대까지 독일축구를 알리는 데 중요한 역할을 담당해왔다.
+## 그만큼 <바이에른 뮌헨:ORG>은 <분데스리가:ORG>를 넘어 세계무대까지 <독일축구:ORG>를 알리는 데 중요한 역할을 담당해왔다.
+그만큼	그만큼	MAG	O
+_	_	_	O
+바이에른	바이에른	NNP	B-ORG
+_	_	_	I-ORG
+뮌헨	뮌헨	NNP	I-ORG
+은	은	JX	O
+_	_	_	O
+분데스리가	분데스리가	NNP	B-ORG
+를	를	JKO	O
+_	_	_	O
+넘	넘	VV	O
+어	어	EC	O
+_	_	_	O
+세계	세계	NNG	O
+무대	무대	NNG	O
+까지	까지	JX	O
+_	_	_	O
+독일	독일	NNP	B-ORG
+축구	축구	NNG	I-ORG
+를	를	JKO	O
+_	_	_	O
+알리	알리	VV	O
+는	는	ETM	O
+_	_	_	O
+데	데	NNB	O
+_	_	_	O
+중요한	중요하+ㄴ	VA+ETM	O
+_	_	_	O
+역할	역할	NNG	O
+을	을	JKO	O
+_	_	_	O
+담당해	담당하+여+오	VV+EC+VX	O
+왔	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 그러나 바이에른 뮌헨의 일강체제에는 선수독점으로 인한 분데스리가 클럽들 사이의 ‘선수격차’를 만들어냈다는 부정적 견해도 존재한다.
+## 그러나 <바이에른 뮌헨:ORG>의 일강체제에는 선수독점으로 인한 <분데스리가:ORG> 클럽들 사이의 ‘선수격차’를 만들어냈다는 부정적 견해도 존재한다.
+그러나	그러나	MAJ	O
+_	_	_	O
+바이에른	바이에른	NNP	B-ORG
+_	_	_	I-ORG
+뮌헨	뮌헨	NNP	I-ORG
+의	의	JKG	O
+_	_	_	O
+일강	일강	NNG	O
+체제	체제	NNG	O
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+선수	선수	NNG	O
+독점	독점	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+인한	인하+ㄴ	VV+ETM	O
+_	_	_	O
+분데스리가	분데스리가	NNP	B-ORG
+_	_	_	O
+클럽	클럽	NNG	O
+들	들	XSN	O
+_	_	_	O
+사이	사이	NNG	O
+의	의	JKG	O
+_	_	_	O
+‘	‘	SS	O
+선수	선수	NNG	O
+격차	격차	NNG	O
+’	’	SS	O
+를	를	JKO	O
+_	_	_	O
+만들	만들	VV	O
+어	어	EC	O
+냈	내+었	VX+EP	O
+다는	다는	ETM	O
+_	_	_	O
+부정적	부정적	NNG	O
+_	_	_	O
+견해	견해	NNG	O
+도	도	JX	O
+_	_	_	O
+존재한다	존재하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 4
+## [톡톡경제]무주택서민, 공공분양-10년임대 주택 관심을
+## [<톡톡경제:POH>]무주택서민, 공공분양-<10년:NOH>임대 주택 관심을
+[	[	SS	O
+톡톡	톡톡	MAG	B-POH
+경제	경제	NNG	I-POH
+]	]	SS	O
+무주택	무주택	NNG	O
+서민	서민	NNG	O
+,	,	SP	O
+_	_	_	O
+공공	공공	NNG	O
+분양	분양	NNG	O
+-	-	SO	O
+10	10	SN	B-NOH
+년	년	NNB	I-NOH
+임대	임대	NNG	O
+_	_	_	O
+주택	주택	NNG	O
+_	_	_	O
+관심	관심	NNG	O
+을	을	JKO	O
+
+## 5
+## 남편 황씨는 기자에게 "모든 것은 변호사를 통해서 이야기하겠다.
+## 남편 <황:PER>씨는 기자에게 "모든 것은 변호사를 통해서 이야기하겠다.
+남편	남편	NNG	O
+_	_	_	O
+황	황	NNP	B-PER
+씨	씨	NNB	O
+는	는	JX	O
+_	_	_	O
+기자	기자	NNG	O
+에게	에게	JKB	O
+_	_	_	O
+"	"	SS	O
+모든	모든	MM	O
+_	_	_	O
+것	것	NNB	O
+은	은	JX	O
+_	_	_	O
+변호사	변호사	NNG	O
+를	를	JKO	O
+_	_	_	O
+통해서	통하+여서	VV+EC	O
+_	_	_	O
+이야기하	이야기하	VV	O
+겠	겠	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 2011년 1월 새 멤버 김예원, 박세미를 영입해 새로운 음반을 냈다.
+## <2011년 1월:DAT> 새 멤버 <김예원:PER>, <박세미:PER>를 영입해 새로운 음반을 냈다.
+2011	2011	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	I-DAT
+1	1	SN	I-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+새	새	MM	O
+_	_	_	O
+멤버	멤버	NNG	O
+_	_	_	O
+김예원	김예원	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+박세미	박세미	NNP	B-PER
+를	를	JKO	O
+_	_	_	O
+영입해	영입하+여	VV+EC	O
+_	_	_	O
+새로	새롭	VA	O
+운	ㄴ	ETM	O
+_	_	_	O
+음반	음반	NNG	O
+을	을	JKO	O
+_	_	_	O
+냈	내+었	VV+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 라이브피칭 후에 몸에 아무런 이상이 없다면 13일 샌디에이고와의 야간경기인 첫 시범경기에 등판할 예정이다.
+## 라이브피칭 후에 몸에 아무런 이상이 없다면 <13일:DAT> <샌디에이고:ORG>와의 야간경기인 첫 시범경기에 등판할 예정이다.
+라이브	라이브	NNG	O
+피칭	피칭	NNG	O
+_	_	_	O
+후	후	NNG	O
+에	에	JKB	O
+_	_	_	O
+몸	몸	NNG	O
+에	에	JKB	O
+_	_	_	O
+아무런	아무런	MM	O
+_	_	_	O
+이상	이상	NNG	O
+이	이	JKS	O
+_	_	_	O
+없	없	VA	O
+다면	다면	EC	O
+_	_	_	O
+13	13	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+샌디에이고	샌디에이고	NNP	B-ORG
+와	와	JKB	O
+의	의	JKG	O
+_	_	_	O
+야간	야간	NNG	O
+경기	경기	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+첫	첫	MM	O
+_	_	_	O
+시범	시범	NNG	O
+경기	경기	NNG	O
+에	에	JKB	O
+_	_	_	O
+등판할	등판하+ㄹ	VV+ETM	O
+_	_	_	O
+예정	예정	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 현대건설은 올 시즌 범실 부문 2위에 오르며 메리트 효과를 톡톡히 보고 있다.
+## <현대건설:ORG>은 올 시즌 범실 부문 <2위:NOH>에 오르며 메리트 효과를 톡톡히 보고 있다.
+현대건설	현대건설	NNP	B-ORG
+은	은	JX	O
+_	_	_	O
+올	올	NNG	O
+_	_	_	O
+시즌	시즌	NNG	O
+_	_	_	O
+범실	범실	NNG	O
+_	_	_	O
+부문	부문	NNG	O
+_	_	_	O
+2	2	SN	B-NOH
+위	위	NNB	I-NOH
+에	에	JKB	O
+_	_	_	O
+오르	오르	VV	O
+며	며	EC	O
+_	_	_	O
+메리트	메리트	NNP	O
+_	_	_	O
+효과	효과	NNG	O
+를	를	JKO	O
+_	_	_	O
+톡톡히	톡톡히	MAG	O
+_	_	_	O
+보	보	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 가사와 수입노동을 모두 포함해 일하는 시간은 맞벌이 여성이 전업주부보다 2시간가량 많았다.
+## 가사와 수입노동을 모두 포함해 일하는 시간은 맞벌이 여성이 전업주부보다 <2시간:NOH>가량 많았다.
+가사	가사	NNG	O
+와	와	JC	O
+_	_	_	O
+수입	수입	NNG	O
+노동	노동	NNG	O
+을	을	JKO	O
+_	_	_	O
+모두	모두	MAG	O
+_	_	_	O
+포함해	포함하+여	VV+EC	O
+_	_	_	O
+일하	일하	VV	O
+는	는	ETM	O
+_	_	_	O
+시간	시간	NNG	O
+은	은	JX	O
+_	_	_	O
+맞벌이	맞벌이	NNG	O
+_	_	_	O
+여성	여성	NNG	O
+이	이	JKS	O
+_	_	_	O
+전업	전업	NNG	O
+주부	주부	NNG	O
+보다	보다	JKB	O
+_	_	_	O
+2	2	SN	B-NOH
+시간	시간	NNB	I-NOH
+가량	가량	XSN	O
+_	_	_	O
+많	많	VA	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 그러나 대부분의 사람은 1분에 12∼15회씩 얕고 빠른 호흡을 한다.
+## 그러나 대부분의 사람은 <1분:NOH>에 <12:NOH>∼<15회:NOH>씩 얕고 빠른 호흡을 한다.
+그러나	그러나	MAJ	O
+_	_	_	O
+대부분	대부분	NNG	O
+의	의	JKG	O
+_	_	_	O
+사람	사람	NNG	O
+은	은	JX	O
+_	_	_	O
+1	1	SN	B-NOH
+분	분	NNB	I-NOH
+에	에	JKB	O
+_	_	_	O
+12	12	SN	B-NOH
+∼	∼	SO	O
+15	15	SN	B-NOH
+회	회	NNB	I-NOH
+씩	씩	XSN	O
+_	_	_	O
+얕	얕	VA	O
+고	고	EC	O
+_	_	_	O
+빠른	빠르+ㄴ	VA+ETM	O
+_	_	_	O
+호흡	호흡	NNG	O
+을	을	JKO	O
+_	_	_	O
+한다	하+ㄴ다	VV+EF	O
+.	.	SF	O
+

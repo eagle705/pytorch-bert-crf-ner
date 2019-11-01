@@ -1,0 +1,440 @@
+## 1
+## 샤크라 출신이다”고 답했다.
+## <샤크라:ORG> 출신이다”고 답했다.
+샤크라	샤크라	NNP	B-ORG
+_	_	_	O
+출신	출신	NNG	O
+이	이	VCP	O
+다	다	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+답	답하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 금융감독원은 올해 1분기(1∼3월)에 ‘불법사금융 피해신고센터’에 접수된 대출사기 피해 건수가 6046건에 이르는 것으로 집계됐다고 16일 밝혔다.
+## <금융감독원:ORG>은 올해 <1분기:NOH>(<1∼3월:DUR>)에 ‘불법사금융 피해신고센터’에 접수된 대출사기 피해 건수가 <6046건:NOH>에 이르는 것으로 집계됐다고 <16일:DAT> 밝혔다.
+금융	금융	NNG	B-ORG
+감독	감독	NNG	I-ORG
+원	원	XSN	I-ORG
+은	은	JX	O
+_	_	_	O
+올해	올해	NNG	O
+_	_	_	O
+1	1	SN	B-NOH
+분기	분기	NNG	I-NOH
+(	(	SS	O
+1	1	SN	B-DUR
+∼	∼	SO	I-DUR
+3	3	SN	I-DUR
+월	월	NNB	I-DUR
+)	)	SS	O
+에	에	JKB	O
+_	_	_	O
+‘	‘	SS	O
+불법	불법	NNG	O
+사금융	사금융	NNG	O
+_	_	_	O
+피해	피해	NNG	O
+신고	신고	NNG	O
+센터	센터	NNG	O
+’	’	SS	O
+에	에	JKB	O
+_	_	_	O
+접수된	접수되+ㄴ	VV+ETM	O
+_	_	_	O
+대출	대출	NNG	O
+사기	사기	NNG	O
+_	_	_	O
+피해	피해	NNG	O
+_	_	_	O
+건수	건수	NNG	O
+가	가	JKS	O
+_	_	_	O
+6046	6046	SN	B-NOH
+건	건	NNB	I-NOH
+에	에	JKB	O
+_	_	_	O
+이르	이르	VV	O
+는	는	ETM	O
+_	_	_	O
+것	것	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+집계	집계되	VV	O
+됐	었	EP	O
+다고	다고	EC	O
+_	_	_	O
+16	16	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+밝	밝히	VV	O
+혔	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 행자부, 크기-위치 등 의견 수렴
+## <행자부:ORG>, 크기-위치 등 의견 수렴
+행자부	행자부	NNG	B-ORG
+,	,	SP	O
+_	_	_	O
+크기	크기	NNG	O
+-	-	SO	O
+위치	위치	NNG	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+의견	의견	NNG	O
+_	_	_	O
+수렴	수렴	NNG	O
+
+## 4
+## 알리샤위 석방 요구는 IS에 일석이조의 노림수인 셈이다.
+## <알리샤위:PER> 석방 요구는 <IS:ORG>에 일석이조의 노림수인 셈이다.
+알리샤	알리샤	NNP	B-PER
+위	위	NNB	I-PER
+_	_	_	O
+석방	석방	NNG	O
+_	_	_	O
+요구	요구	NNG	O
+는	는	JX	O
+_	_	_	O
+IS	IS	SL	B-ORG
+에	에	JKB	O
+_	_	_	O
+일석이조	일석이조	NNG	O
+의	의	JKG	O
+_	_	_	O
+노림수	노림수	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+셈	셈	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 이춘근 과학기술정책연구원 선임연구원은 “고농축우라늄은 적은 비용으로 대량생산이 가능한 데다
+## <이춘근:PER> <과학기술정책연구원:ORG> 선임연구원은 “고농축우라늄은 적은 비용으로 대량생산이 가능한 데다
+이춘근	이춘근	NNP	B-PER
+_	_	_	O
+과학	과학	NNG	B-ORG
+기술	기술	NNG	I-ORG
+정책	정책	NNG	I-ORG
+연구원	연구원	NNG	I-ORG
+_	_	_	O
+선임	선임	NNG	O
+연구원	연구원	NNG	O
+은	은	JX	O
+_	_	_	O
+“	“	SS	O
+고	고	XPN	O
+농축	농축	NNG	O
+우라늄	우라늄	NNG	O
+은	은	JX	O
+_	_	_	O
+적	적	VA	O
+은	은	ETM	O
+_	_	_	O
+비용	비용	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+대량	대량	NNG	O
+생산	생산	NNG	O
+이	이	JKS	O
+_	_	_	O
+가능한	가능하+ㄴ	VA+ETM	O
+_	_	_	O
+데	데	NNB	O
+다	다	JX	O
+
+## 6
+## 安 “표결 철회를” 文 “연기 불가능”
+## <安:PER> “표결 철회를” <文:PER> “연기 불가능”
+安	安	SH	B-PER
+_	_	_	O
+“	“	SS	O
+표결	표결	NNG	O
+_	_	_	O
+철회	철회	NNG	O
+를	를	JKO	O
+”	”	SS	O
+_	_	_	O
+文	文	SH	B-PER
+_	_	_	O
+“	“	SS	O
+연기	연기	NNG	O
+_	_	_	O
+불가능	불가능	NNG	O
+”	”	SS	O
+
+## 7
+## 지난 3월 오픈한 롯데 엘큐브 1호점이 그 주인공이다.
+## 지난 <3월:DAT> 오픈한 <롯데 엘큐브:ORG> <1호:NOH>점이 그 주인공이다.
+지난	지나+ㄴ	VV+ETM	O
+_	_	_	O
+3	3	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+오픈	오픈	NNG	O
+한	하+ㄴ	XSV+ETM	O
+_	_	_	O
+롯데	롯데	NNP	B-ORG
+_	_	_	I-ORG
+엘	엘	NNP	I-ORG
+큐브	큐브	NNG	I-ORG
+_	_	_	O
+1	1	SN	B-NOH
+호	호	NNB	I-NOH
+점	점	XSN	O
+이	이	JKS	O
+_	_	_	O
+그	그	MM	O
+_	_	_	O
+주인공	주인공	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 정성룡 부상 등 가용자원 부족 불구팀워크 하나로 종료직전 역전 승리 K리그 클래식(1부리그) 수원삼성은 25일 수원월드컵경기장에서 열린 우라와 레즈(일본)와의 2015 아시아축구연맹(AFC) 챔피언스리그 조별리그 G조 1차전에서 2-1 짜릿한 역전승을 거뒀다.
+## <정성룡:PER> 부상 등 가용자원 부족 불구팀워크 <하나:NOH>로 종료직전 역전 승리 <K리그 클래식:POH>(1부리그) <수원삼성:ORG>은 <25일:DAT> <수원월드컵경기장:LOC>에서 열린 <우라와 레즈:ORG>(<일본:ORG>)와의 <2015 아시아축구연맹(AFC) 챔피언스리그:POH> 조별리그 G조 <1차전:NOH>에서 <2-1:NOH> 짜릿한 역전승을 거뒀다.
+정성룡	정성룡	NNP	B-PER
+_	_	_	O
+부상	부상	NNG	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+가용	가용	NNG	O
+자원	자원	NNG	O
+_	_	_	O
+부족	부족	NNG	O
+_	_	_	O
+불구	불구	NNG	O
+팀워크	팀워크	NNG	O
+_	_	_	O
+하나	하나	NNG	B-NOH
+로	로	JKB	O
+_	_	_	O
+종료	종료	NNG	O
+직전	직전	NNG	O
+_	_	_	O
+역전	역전	NNG	O
+_	_	_	O
+승리	승리	NNG	O
+_	_	_	O
+K	K	SL	B-POH
+리그	리그	NNG	I-POH
+_	_	_	I-POH
+클래식	클래식	NNG	I-POH
+(	(	SS	O
+1	1	SN	O
+부	부	NNB	O
+리그	리그	NNG	O
+)	)	SS	O
+_	_	_	O
+수원	수원	NNP	B-ORG
+삼성	삼성	NNP	I-ORG
+은	은	JX	O
+_	_	_	O
+25	25	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+수원월드컵경기장	수원월드컵경기장	NNP	B-LOC
+에서	에서	JKB	O
+_	_	_	O
+열린	열리+ㄴ	VV+ETM	O
+_	_	_	O
+우라와	우라와	NNP	B-ORG
+_	_	_	I-ORG
+레즈	레즈	NNP	I-ORG
+(	(	SS	O
+일본	일본	NNP	B-ORG
+)	)	SS	O
+와	와	JKB	O
+의	의	JKG	O
+_	_	_	O
+2015	2015	SN	B-POH
+_	_	_	I-POH
+아시아축구연맹	아시아축구연맹	NNP	I-POH
+(	(	SS	I-POH
+AFC	AFC	SL	I-POH
+)	)	SS	I-POH
+_	_	_	I-POH
+챔피언스	챔피언스	NNG	I-POH
+리그	리그	NNG	I-POH
+_	_	_	O
+조별	조별	NNG	O
+리그	리그	NNG	O
+_	_	_	O
+G	G	SL	O
+조	조	NNG	O
+_	_	_	O
+1	1	SN	B-NOH
+차	차	NNB	I-NOH
+전	전	XSN	I-NOH
+에서	에서	JKB	O
+_	_	_	O
+2	2	SN	B-NOH
+-	-	SO	I-NOH
+1	1	SN	I-NOH
+_	_	_	O
+짜릿한	짜릿하+ㄴ	VA+ETM	O
+_	_	_	O
+역전승	역전승	NNG	O
+을	을	JKO	O
+_	_	_	O
+거	거두	VV	O
+뒀	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 신규 공무원은 국민연금처럼 소득대체율이 40%다.
+## 신규 공무원은 국민연금처럼 소득대체율이 <40%:PNT>다.
+신규	신규	NNG	O
+_	_	_	O
+공무원	공무원	NNG	O
+은	은	JX	O
+_	_	_	O
+국민	국민	NNG	O
+연금	연금	NNG	O
+처럼	처럼	JKB	O
+_	_	_	O
+소득	소득	NNG	O
+대체	대체	NNG	O
+율	율	XSN	O
+이	이	JKS	O
+_	_	_	O
+40	40	SN	B-PNT
+%	%+이	SW+VCP	I-PNT
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 강은지 기자 kej09@donga.com※독자 여러분의 의견과 제안을 e메일(change2015@donga.com)로 보내주시면 적극 반영하겠습니다.
+## <강은지:PER> 기자 <kej09@donga.com:POH>※독자 여러분의 의견과 제안을 e메일(<change2015@donga.com:POH>)로 보내주시면 적극 반영하겠습니다.
+강은지	강은지	NNP	B-PER
+_	_	_	O
+기자	기자	NNG	O
+_	_	_	O
+kej	kej	SL	B-POH
+09	09	SN	I-POH
+@	@	SW	I-POH
+donga	donga	SL	I-POH
+.	.	SF	I-POH
+com	com	SL	I-POH
+※	※	SW	O
+독자	독자	NNG	O
+_	_	_	O
+여러분	여러분	NP	O
+의	의	JKG	O
+_	_	_	O
+의견	의견	NNG	O
+과	과	JC	O
+_	_	_	O
+제안	제안	NNG	O
+을	을	JKO	O
+_	_	_	O
+e	e	SL	O
+메일	메일	NNG	O
+(	(	SS	O
+change	change	SL	B-POH
+2015	2015	SN	I-POH
+@	@	SW	I-POH
+donga	donga	SL	I-POH
+.	.	SF	I-POH
+com	com	SL	I-POH
+)	)	SS	O
+로	로	JKB	O
+_	_	_	O
+보내	보내+어	VV+EC	O
+주	주	VX	O
+시	시	EP	O
+면	면	EC	O
+_	_	_	O
+적극	적극	NNG	O
+_	_	_	O
+반영하	반영하	VV	O
+겠	겠	EP	O
+습니다	습니다	EF	O
+.	.	SF	O
+
+## 11
+## 2012년부터 광화문광장, 국회, 옥시레킷벤키저 사옥 앞으로 장소를 옮겨 3년째 시위도 계속하고 있다.
+## <2012년:DAT>부터 <광화문광장:LOC>, 국회, <옥시레킷벤키저:LOC> 사옥 앞으로 장소를 옮겨 <3년째:DUR> 시위도 계속하고 있다.
+2012	2012	SN	B-DAT
+년	년	NNB	I-DAT
+부터	부터	JX	O
+_	_	_	O
+광화문	광화문	NNP	B-LOC
+광장	광장	NNG	I-LOC
+,	,	SP	O
+_	_	_	O
+국회	국회	NNG	O
+,	,	SP	O
+_	_	_	O
+옥시레킷벤키저	옥시레킷벤키저	NNP	B-LOC
+_	_	_	O
+사옥	사옥	NNG	O
+_	_	_	O
+앞	앞	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+장소	장소	NNG	O
+를	를	JKO	O
+_	_	_	O
+옮겨	옮기+어	VV+EC	O
+_	_	_	O
+3	3	SN	B-DUR
+년	년	NNB	I-DUR
+째	째	XSN	I-DUR
+_	_	_	O
+시위	시위	NNG	O
+도	도	JX	O
+_	_	_	O
+계속하	계속하	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## ‘비정상회담’ 유시민 독일어 실력에서 진중권에 1승, 다니엘 "발음이 더 좋다"
+## ‘<비정상회담:POH>’ <유시민:PER> <독일:LOC>어 실력에서 <진중권:PER>에 <1승:NOH>, <다니엘:PER> "발음이 더 좋다"
+‘	‘	SS	O
+비정상	비정상	NNG	B-POH
+회담	회담	NNG	I-POH
+’	’	SS	O
+_	_	_	O
+유시민	유시민	NNP	B-PER
+_	_	_	O
+독일어	독일어	NNP	O
+_	_	_	O
+실력	실력	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+진중권	진중권	NNP	B-PER
+에	에	JKB	O
+_	_	_	O
+1	1	SN	B-NOH
+승	승	NNB	I-NOH
+,	,	SP	O
+_	_	_	O
+다니엘	다니엘	NNP	B-PER
+_	_	_	O
+"	"	SS	O
+발음	발음	NNG	O
+이	이	JKS	O
+_	_	_	O
+더	더	MAG	O
+_	_	_	O
+좋	좋	VA	O
+다	다	EF	O
+"	"	SS	O
+

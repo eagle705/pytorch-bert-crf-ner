@@ -1,0 +1,451 @@
+## 1
+## 그래서 인지 아니 에르노씨는 자신의 작품을 페미니즘문학이라고 자평했다.
+## 그래서 인지 <아니 에르노:PER>씨는 자신의 작품을 페미니즘문학이라고 자평했다.
+그래서	그래서	MAJ	O
+_	_	_	O
+인지	이+ㄴ지	VCP+EC	O
+_	_	_	O
+아니	아니	VCN	B-PER
+_	_	_	I-PER
+에르노	에르노	NNP	I-PER
+씨	씨	NNB	O
+는	는	JX	O
+_	_	_	O
+자신	자신	NNG	O
+의	의	JKG	O
+_	_	_	O
+작품	작품	NNG	O
+을	을	JKO	O
+_	_	_	O
+페미니즘	페미니즘	NNG	O
+문학	문학	NNG	O
+이	이	VCP	O
+라고	라고	EC	O
+_	_	_	O
+자평	자평하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 방송인 강용석의 불륜스캔들이 디스패치의 폭로로 또다시 논란이 되고 있다.
+## 방송인 <강용석:PER>의 불륜스캔들이 <디스패치:POH>의 폭로로 또다시 논란이 되고 있다.
+방송인	방송인	NNG	O
+_	_	_	O
+강용석	강용석	NNP	B-PER
+의	의	JKG	O
+_	_	_	O
+불륜	불륜	NNG	O
+스캔들	스캔들	NNG	O
+이	이	JKS	O
+_	_	_	O
+디스	디스	NNG	B-POH
+패치	패치	NNG	I-POH
+의	의	JKG	O
+_	_	_	O
+폭로	폭로	NNG	O
+로	로	JKB	O
+_	_	_	O
+또다시	또다시	MAG	O
+_	_	_	O
+논란	논란	NNG	O
+이	이	JKC	O
+_	_	_	O
+되	되	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 강용석은 디스패치 보도에 대한 입장을 밝혔다.
+## <강용석:PER>은 <디스패치:POH> 보도에 대한 입장을 밝혔다.
+강용석	강용석	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+디스	디스	NNG	B-POH
+패치	패치	NNG	I-POH
+_	_	_	O
+보도	보도	NNG	O
+에	에	JKB	O
+_	_	_	O
+대한	대하+ㄴ	VV+ETM	O
+_	_	_	O
+입장	입장	NNG	O
+을	을	JKO	O
+_	_	_	O
+밝	밝히	VV	O
+혔	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 강용석 변호사가 소속된 법무법인 넥스트로는 18일 오후 보도자료를 통해 디스패치 보도 내용을 반박했다.
+## <강용석:PER> 변호사가 소속된 법무법인 <넥스트로:ORG>는 <18일:DAT> 오후 보도자료를 통해 <디스패치:POH> 보도 내용을 반박했다.
+강용석	강용석	NNP	B-PER
+_	_	_	O
+변호사	변호사	NNG	O
+가	가	JKS	O
+_	_	_	O
+소속된	소속되+ㄴ	VV+ETM	O
+_	_	_	O
+법무	법무	NNG	O
+법인	법인	NNG	O
+_	_	_	O
+넥스트	넥스트	NNP	B-ORG
+로	로	JKB	I-ORG
+는	는	JX	O
+_	_	_	O
+18	18	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+오후	오후	NNG	O
+_	_	_	O
+보도	보도	NNG	O
+자료	자료	NNG	O
+를	를	JKO	O
+_	_	_	O
+통해	통하+여	VV+EC	O
+_	_	_	O
+디스	디스	NNG	B-POH
+패치	패치	NNG	I-POH
+_	_	_	O
+보도	보도	NNG	O
+_	_	_	O
+내용	내용	NNG	O
+을	을	JKO	O
+_	_	_	O
+반박	반박하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 강용석 측은 “법정에 제출된 사진과 디스패치가 게재한 사진이 명백히 다르다.
+## <강용석:PER> 측은 “법정에 제출된 사진과 <디스패치:POH>가 게재한 사진이 명백히 다르다.
+강용석	강용석	NNP	B-PER
+_	_	_	O
+측	측	NNB	O
+은	은	JX	O
+_	_	_	O
+“	“	SS	O
+법정	법정	NNG	O
+에	에	JKB	O
+_	_	_	O
+제출된	제출되+ㄴ	VV+ETM	O
+_	_	_	O
+사진	사진	NNG	O
+과	과	JC	O
+_	_	_	O
+디스	디스	NNG	B-POH
+패치	패치	NNG	I-POH
+가	가	JKS	O
+_	_	_	O
+게재한	게재하+ㄴ	VV+ETM	O
+_	_	_	O
+사진	사진	NNG	O
+이	이	JKS	O
+_	_	_	O
+명백히	명백히	MAG	O
+_	_	_	O
+다르	다르	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 심상철은 “운이 좋았다.
+## <심상철:PER>은 “운이 좋았다.
+심상철	심상철	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+“	“	SS	O
+운	운	NNG	O
+이	이	JKS	O
+_	_	_	O
+좋	좋	VA	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 이시욱 한국개발연구원(KDI) 정책대학원 교수는 “한국 자동차 기업의 미국 직접 투자를 확대하고 미국 현지에서 조달하는 부품의 비율도 늘릴 필요가 있다”고 말했다.
+## <이시욱:PER> <한국개발연구원(KDI) 정책대학원:ORG> 교수는 “<한국:ORG> 자동차 기업의 <미국:LOC> 직접 투자를 확대하고 <미국:LOC> 현지에서 조달하는 부품의 비율도 늘릴 필요가 있다”고 말했다.
+이	이	MM	B-PER
+시욱	시욱	NNG	I-PER
+_	_	_	O
+한국개발연구원	한국개발연구원	NNP	B-ORG
+(	(	SS	I-ORG
+KDI	KDI	SL	I-ORG
+)	)	SS	I-ORG
+_	_	_	I-ORG
+정책	정책	NNG	I-ORG
+대학원	대학원	NNG	I-ORG
+_	_	_	O
+교수	교수	NNG	O
+는	는	JX	O
+_	_	_	O
+“	“	SS	O
+한국	한국	NNP	B-ORG
+_	_	_	O
+자동차	자동차	NNG	O
+_	_	_	O
+기업	기업	NNG	O
+의	의	JKG	O
+_	_	_	O
+미국	미국	NNP	B-LOC
+_	_	_	O
+직접	직접	MAG	O
+_	_	_	O
+투자	투자	NNG	O
+를	를	JKO	O
+_	_	_	O
+확대하	확대하	VV	O
+고	고	EC	O
+_	_	_	O
+미국	미국	NNP	B-LOC
+_	_	_	O
+현지	현지	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+조달하	조달하	VV	O
+는	는	ETM	O
+_	_	_	O
+부품	부품	NNG	O
+의	의	JKG	O
+_	_	_	O
+비율	비율	NNG	O
+도	도	JX	O
+_	_	_	O
+늘릴	늘리+ㄹ	VV+ETM	O
+_	_	_	O
+필요	필요	NNG	O
+가	가	JKS	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+말	말하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 김도년 기자
+## <김도년:PER> 기자
+김도년	김도년	NNP	B-PER
+_	_	_	O
+기자	기자	NNG	O
+
+## 9
+## 고질인 허리 통증을 안고 있는 김요한은 한때 오른발에 힘이 들어가지 않는 증세 때문에 재활을 계속했다.
+## 고질인 허리 통증을 안고 있는 <김요한:PER>은 한때 오른발에 힘이 들어가지 않는 증세 때문에 재활을 계속했다.
+고질	고질	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+허리	허리	NNG	O
+_	_	_	O
+통증	통증	NNG	O
+을	을	JKO	O
+_	_	_	O
+안	안	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+는	는	ETM	O
+_	_	_	O
+김요한	김요한	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+한때	한때	NNG	O
+_	_	_	O
+오른발	오른발	NNG	O
+에	에	JKB	O
+_	_	_	O
+힘	힘	NNG	O
+이	이	JKS	O
+_	_	_	O
+들어가	들어가	VV	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+는	는	ETM	O
+_	_	_	O
+증세	증세	NNG	O
+_	_	_	O
+때문	때문	NNB	O
+에	에	JKB	O
+_	_	_	O
+재활	재활	NNG	O
+을	을	JKO	O
+_	_	_	O
+계속	계속하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 16일현재 고객예탁금은 전날보다 2백33억원 줄어든 3조2천7백47억원.
+## <16일:DAT>현재 고객예탁금은 전날보다 <2백33억원:MNY> 줄어든 <3조2천7백47억원:MNY>.
+16	16	SN	B-DAT
+일	일	NNB	I-DAT
+현재	현재	NNG	O
+_	_	_	O
+고객	고객	NNG	O
+예탁	예탁	NNG	O
+금	금	XSN	O
+은	은	JX	O
+_	_	_	O
+전날	전날	NNG	O
+보다	보다	JKB	O
+_	_	_	O
+2	2	SN	B-MNY
+백	백	NR	I-MNY
+33	33	SN	I-MNY
+억	억	NR	I-MNY
+원	원	NNB	I-MNY
+_	_	_	O
+줄어든	줄어들+ㄴ	VV+ETM	O
+_	_	_	O
+3	3	SN	B-MNY
+조	조	NNG	I-MNY
+2	2	SN	I-MNY
+천	천	NR	I-MNY
+7	7	SN	I-MNY
+백	백	NR	I-MNY
+47	47	SN	I-MNY
+억	억	NR	I-MNY
+원	원	NNB	I-MNY
+.	.	SF	O
+
+## 11
+## 처음에는 아로라 부사장도 “마사(손 마사요시)는 천재다.
+## 처음에는 <아로라:PER> 부사장도 “<마사:PER>(<손 마사요시:PER>)는 천재다.
+처음	처음	NNG	O
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+아로	아로+이	NNG+VCP	B-PER
+라	라	EC	I-PER
+_	_	_	O
+부사장	부사장	NNG	O
+도	도	JX	O
+_	_	_	O
+“	“	SS	O
+마사	마사	NNP	B-PER
+(	(	SS	O
+손	손	NNG	B-PER
+_	_	_	I-PER
+마사요시	마사요시	NNP	I-PER
+)	)	SS	O
+는	는	JX	O
+_	_	_	O
+천재	천재+이	NNG+VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 모로코(아프리카 2개국), 에콰도르(아메리카 1개국), 말레이시아, 미얀마, 네팔, 파키스탄, 스리랑카, 태국, 대한민국(아시아 7개국) 등 총 10개국 56명(선수 36명, 임원 20명)이 양궁, 휠체어테니스, 탁구, 수영, 보치아 등 5개 종목의 ‘스포츠 아카데미’에 참가한다.
+## <모로코:PER>(<아프리카:LOC> <2개국:NOH>), <에콰도르:PER>(<아메리카:LOC> <1개국:NOH>), <말레이시아:LOC>, <미얀마:LOC>, <네팔:ORG>, <파키스탄:LOC>, <스리랑카:LOC>, <태국:ORG>, <대한민국:ORG>(<아시아:LOC> <7개국:NOH>) 등 총 <10개국:NOH> <56명:NOH>(선수 <36명:NOH>, 임원 <20명:NOH>)이 양궁, 휠체어테니스, 탁구, 수영, 보치아 등 <5개:NOH> 종목의 ‘스포츠 아카데미’에 참가한다.
+모로코	모로코	NNP	B-PER
+(	(	SS	O
+아프리카	아프리카	NNP	B-LOC
+_	_	_	O
+2	2	SN	B-NOH
+개국	개국	NNB	I-NOH
+)	)	SS	O
+,	,	SP	O
+_	_	_	O
+에콰도르	에콰도르	NNP	B-PER
+(	(	SS	O
+아메리카	아메리카	NNP	B-LOC
+_	_	_	O
+1	1	SN	B-NOH
+개국	개국	NNB	I-NOH
+)	)	SS	O
+,	,	SP	O
+_	_	_	O
+말레이시아	말레이시아	NNP	B-LOC
+,	,	SP	O
+_	_	_	O
+미얀마	미얀마	NNP	B-LOC
+,	,	SP	O
+_	_	_	O
+네팔	네팔	NNP	B-ORG
+,	,	SP	O
+_	_	_	O
+파키스탄	파키스탄	NNP	B-LOC
+,	,	SP	O
+_	_	_	O
+스리랑카	스리랑카	NNP	B-LOC
+,	,	SP	O
+_	_	_	O
+태국	태국	NNP	B-ORG
+,	,	SP	O
+_	_	_	O
+대한민국	대한민국	NNP	B-ORG
+(	(	SS	O
+아시아	아시아	NNP	B-LOC
+_	_	_	O
+7	7	SN	B-NOH
+개국	개국	NNB	I-NOH
+)	)	SS	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+총	총	MM	O
+_	_	_	O
+10	10	SN	B-NOH
+개국	개국	NNB	I-NOH
+_	_	_	O
+56	56	SN	B-NOH
+명	명	NNB	I-NOH
+(	(	SS	O
+선수	선수	NNG	O
+_	_	_	O
+36	36	SN	B-NOH
+명	명	NNB	I-NOH
+,	,	SP	O
+_	_	_	O
+임원	임원	NNG	O
+_	_	_	O
+20	20	SN	B-NOH
+명	명	NNB	I-NOH
+)	)	SS	O
+이	이	JKS	O
+_	_	_	O
+양궁	양궁	NNG	O
+,	,	SP	O
+_	_	_	O
+휠체어	휠체어	NNG	O
+테니스	테니스	NNG	O
+,	,	SP	O
+_	_	_	O
+탁구	탁구	NNG	O
+,	,	SP	O
+_	_	_	O
+수영	수영	NNG	O
+,	,	SP	O
+_	_	_	O
+보치아	보치아	NNG	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+5	5	SN	B-NOH
+개	개	NNB	I-NOH
+_	_	_	O
+종목	종목	NNG	O
+의	의	JKG	O
+_	_	_	O
+‘	‘	SS	O
+스포츠	스포츠	NNG	O
+_	_	_	O
+아카데미	아카데미	NNG	O
+’	’	SS	O
+에	에	JKB	O
+_	_	_	O
+참가한다	참가하+ㄴ다	VV+EF	O
+.	.	SF	O
+

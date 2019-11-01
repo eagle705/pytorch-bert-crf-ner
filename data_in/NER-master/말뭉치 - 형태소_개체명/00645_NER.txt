@@ -1,0 +1,395 @@
+## 1
+## 세계 첫 원형 시스템 에어컨
+## 세계 <첫:NOH> 원형 시스템 에어컨
+세계	세계	NNG	O
+_	_	_	O
+첫	첫	MM	B-NOH
+_	_	_	O
+원형	원형	NNG	O
+_	_	_	O
+시스템	시스템	NNG	O
+_	_	_	O
+에어컨	에어컨	NNG	O
+
+## 2
+## ‘비선 실세’로 지목된 최순실(60)씨가 31일 오후 3시 검찰에 피의자 신분으로 출석했다.
+## ‘비선 실세’로 지목된 <최순실:PER>(<60:NOH>)씨가 <31일:DAT> <오후 3시:TIM> 검찰에 피의자 신분으로 출석했다.
+‘	‘	SS	O
+비선	비선	NNG	O
+_	_	_	O
+실세	실세	NNG	O
+’	’	SS	O
+로	로	JKB	O
+_	_	_	O
+지목된	지목되+ㄴ	VV+ETM	O
+_	_	_	O
+최순실	최순실	NNP	B-PER
+(	(	SS	O
+60	60	SN	B-NOH
+)	)	SS	O
+씨	씨	NNB	O
+가	가	JKS	O
+_	_	_	O
+31	31	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+오후	오후	NNG	B-TIM
+_	_	_	I-TIM
+3	3	SN	I-TIM
+시	시	NNB	I-TIM
+_	_	_	O
+검찰	검찰	NNG	O
+에	에	JKB	O
+_	_	_	O
+피의자	피의자	NNG	O
+_	_	_	O
+신분	신분	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+출석	출석하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 오후 2시 58분쯤 최씨는 검은색 구형 에쿠스 차량에서 내려 검찰 특별수사본부(본부장 이영렬 서울중앙지검장)가 차려진 서울 중앙지검 청사로 걸어갔다.
+## <오후 2시 58분:TIM>쯤 <최:PER>씨는 검은색 구형 <에쿠스:POH> 차량에서 내려 검찰 특별수사본부(본부장 <이영렬:PER> 서울중앙지검장)가 차려진 <서울:LOC> <중앙지검:LOC> 청사로 걸어갔다.
+오후	오후	NNG	B-TIM
+_	_	_	I-TIM
+2	2	SN	I-TIM
+시	시	NNB	I-TIM
+_	_	_	I-TIM
+58	58	SN	I-TIM
+분	분	NNB	I-TIM
+쯤	쯤	XSN	O
+_	_	_	O
+최	최	NNP	B-PER
+씨	씨	NNB	O
+는	는	JX	O
+_	_	_	O
+검은색	검은색	NNG	O
+_	_	_	O
+구형	구형	NNG	O
+_	_	_	O
+에쿠스	에쿠스	NNG	B-POH
+_	_	_	O
+차량	차량	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+내려	내리+어	VV+EC	O
+_	_	_	O
+검찰	검찰	NNG	O
+_	_	_	O
+특별	특별	NNG	O
+수사본부	수사본부	NNG	O
+(	(	SS	O
+본부	본부	NNG	O
+장	장	XSN	O
+_	_	_	O
+이영렬	이영렬	NNP	B-PER
+_	_	_	O
+서울중앙지검	서울중앙지검	NNP	O
+장	장	XPN	O
+)	)	SS	O
+가	가	JKS	O
+_	_	_	O
+차려	차리+어	VV+EC	O
+진	지+ㄴ	VX+ETM	O
+_	_	_	O
+서울	서울	NNP	B-LOC
+_	_	_	O
+중앙	중앙	NNG	B-LOC
+지검	지검	NNG	I-LOC
+_	_	_	O
+청사	청사	NNG	O
+로	로	JKB	O
+_	_	_	O
+걸어갔	걸어가+았	VV+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 국산 준중형 중 가장 높은 수준이며 이전과 비교해 10% 이상 상승했다.
+## 국산 준중형 중 가장 높은 수준이며 이전과 비교해 <10%:PNT> 이상 상승했다.
+국산	국산	NNG	O
+_	_	_	O
+준	준	XPN	O
+중형	중형	NNG	O
+_	_	_	O
+중	중	NNB	O
+_	_	_	O
+가장	가장	MAG	O
+_	_	_	O
+높	높	VA	O
+은	은	ETM	O
+_	_	_	O
+수준	수준	NNG	O
+이	이	VCP	O
+며	며	EC	O
+_	_	_	O
+이전	이전	NNG	O
+과	과	JKB	O
+_	_	_	O
+비교해	비교하+여	VV+EC	O
+_	_	_	O
+10	10	SN	B-PNT
+%	%	SW	I-PNT
+_	_	_	O
+이상	이상	NNG	O
+_	_	_	O
+상승	상승하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 힘도 이전보다 6~7% 늘어났다.
+## 힘도 이전보다 <6:PNT>~<7%:PNT> 늘어났다.
+힘	힘	NNG	O
+도	도	JX	O
+_	_	_	O
+이전	이전	NNG	O
+보다	보다	JKB	O
+_	_	_	O
+6	6	SN	B-PNT
+~	~	SO	O
+7	7	SN	B-PNT
+%	%	SW	I-PNT
+_	_	_	O
+늘어났	늘어나+았	VV+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 버락 오바마 대통령은 취임 후 이미 도장을 찍었던 한·미 자유무역협정(FTA)의 조정을 요구했고 결국 이명박 정부는 추가 협상을 해야 했다.
+## <버락 오바마:PER> 대통령은 취임 후 이미 도장을 찍었던 <한·미 자유무역협정:POH>(<FTA:POH>)의 조정을 요구했고 결국 <이명박:PER> 정부는 추가 협상을 해야 했다.
+버락	버락	NNP	B-PER
+_	_	_	I-PER
+오바마	오바마	NNP	I-PER
+_	_	_	O
+대통령	대통령	NNG	O
+은	은	JX	O
+_	_	_	O
+취임	취임	NNG	O
+_	_	_	O
+후	후	NNG	O
+_	_	_	O
+이미	이미	MAG	O
+_	_	_	O
+도장	도장	NNG	O
+을	을	JKO	O
+_	_	_	O
+찍	찍	VV	O
+었	었	EP	O
+던	던	ETM	O
+_	_	_	O
+한	한	NNP	B-POH
+·	·	SP	I-POH
+미	미	NNP	I-POH
+_	_	_	I-POH
+자유	자유	NNG	I-POH
+무역	무역	NNG	I-POH
+협정	협정	NNG	I-POH
+(	(	SS	O
+FTA	FTA	SL	B-POH
+)	)	SS	O
+의	의	JKG	O
+_	_	_	O
+조정	조정	NNG	O
+을	을	JKO	O
+_	_	_	O
+요구	요구하	VV	O
+했	였	EP	O
+고	고	EC	O
+_	_	_	O
+결국	결국	NNG	O
+_	_	_	O
+이명박	이명박	NNP	B-PER
+_	_	_	O
+정부	정부	NNG	O
+는	는	JX	O
+_	_	_	O
+추가	추가	NNG	O
+_	_	_	O
+협상	협상	NNG	O
+을	을	JKO	O
+_	_	_	O
+해야	하+여야	VV+EC	O
+_	_	_	O
+했	+였	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 엑소 레이 기자회견 불참 "중국서 영상 통화로 인사" 왜?
+## <엑소:ORG> <레이:PER> 기자회견 불참 "<중국:LOC>서 영상 통화로 인사" 왜?
+엑소	엑소	NNP	B-ORG
+_	_	_	O
+레이	레이	NNP	B-PER
+_	_	_	O
+기자	기자	NNG	O
+회견	회견	NNG	O
+_	_	_	O
+불참	불참	NNG	O
+_	_	_	O
+"	"	SS	O
+중국	중국	NNP	B-LOC
+서	서	JKB	O
+_	_	_	O
+영상	영상	NNG	O
+_	_	_	O
+통화	통화	NNG	O
+로	로	JKB	O
+_	_	_	O
+인사	인사	NNG	O
+"	"	SS	O
+_	_	_	O
+왜	왜	MAG	O
+?	?	SF	O
+
+## 8
+## 김혜은 배우에게 솔직한 답변을 원한다고 하자 거침없이 대답했다.
+## <김혜은:PER> 배우에게 솔직한 답변을 원한다고 하자 거침없이 대답했다.
+김혜은	김혜은	NNP	B-PER
+_	_	_	O
+배우	배우	NNG	O
+에게	에게	JKB	O
+_	_	_	O
+솔직한	솔직하+ㄴ	VA+ETM	O
+_	_	_	O
+답변	답변	NNG	O
+을	을	JKO	O
+_	_	_	O
+원한다고	원하+ㄴ다고	VV+EC	O
+_	_	_	O
+하	하	VV	O
+자	자	EC	O
+_	_	_	O
+거침없이	거침없이	MAG	O
+_	_	_	O
+대답	대답하	VV	O
+했	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 최소 1만 년 전에 살았던 것으로 추정되는 털매머드의 두개골·상아·피부 화석 등 30여 점을 볼 수 있어요.이번 전시는 박희원 일본 나가노현 고생물학박물관장이 기증한 신생대 빙하기 포유동물 화석 표본 1300점 중 털매머드 핵심 표본만 공개한 특별전입니다.
+## 최소 <1만 년:NOH> 전에 살았던 것으로 추정되는 털매머드의 두개골·상아·피부 화석 등 <30여 점:NOH>을 볼 수 있어요.이번 전시는 <박희원:PER> <일본:LOC> <나가노현:LOC> 고생물학박물관장이 기증한 신생대 빙하기 포유동물 화석 표본 <1300점:NOH> 중 털매머드 핵심 표본만 공개한 특별전입니다.
+최소	최소	NNG	O
+_	_	_	O
+1	1	SN	B-NOH
+만	만	NR	I-NOH
+_	_	_	I-NOH
+년	년	NNB	I-NOH
+_	_	_	O
+전	전	NNG	O
+에	에	JKB	O
+_	_	_	O
+살	살	VV	O
+았	았	EP	O
+던	던	ETM	O
+_	_	_	O
+것	것	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+추정되	추정되	VV	O
+는	는	ETM	O
+_	_	_	O
+털	털	NNG	O
+매머드	매머드	NNG	O
+의	의	JKG	O
+_	_	_	O
+두개골	두개골	NNG	O
+·	·	SP	O
+상아	상아	NNG	O
+·	·	SP	O
+피부	피부	NNG	O
+_	_	_	O
+화석	화석	NNG	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+30	30	SN	B-NOH
+여	여	XSN	I-NOH
+_	_	_	I-NOH
+점	점	NNG	I-NOH
+을	을	JKO	O
+_	_	_	O
+볼	보+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+어요	어요	EF	O
+.	.	SF	O
+이번	이번	NNG	O
+_	_	_	O
+전시	전시	NNG	O
+는	는	JX	O
+_	_	_	O
+박희원	박희원	NNP	B-PER
+_	_	_	O
+일본	일본	NNP	B-LOC
+_	_	_	O
+나가노	나가노	NNP	B-LOC
+현	현	NNG	I-LOC
+_	_	_	O
+고생물학	고생물학	NNG	O
+박물관	박물관	NNG	O
+장	장	XSN	O
+이	이	JKS	O
+_	_	_	O
+기증한	기증하+ㄴ	VV+ETM	O
+_	_	_	O
+신생대	신생대	NNG	O
+_	_	_	O
+빙하기	빙하기	NNG	O
+_	_	_	O
+포유동물	포유동물	NNG	O
+_	_	_	O
+화석	화석	NNG	O
+_	_	_	O
+표본	표본	NNG	O
+_	_	_	O
+1300	1300	SN	B-NOH
+점	점	NNB	I-NOH
+_	_	_	O
+중	중	NNP	O
+_	_	_	O
+털	털	NNG	O
+매머드	매머드	NNG	O
+_	_	_	O
+핵심	핵심	NNG	O
+_	_	_	O
+표본	표본	NNG	O
+만	만	JX	O
+_	_	_	O
+공개한	공개하+ㄴ	VV+ETM	O
+_	_	_	O
+특별	특별	NNG	O
+전	전	XSN	O
+입니다	이+ㅂ니다	VCP+EF	O
+.	.	SF	O
+
+## 10
+## 유엔을 비난하기 위한 목적이 담긴 성명이었다.
+## <유엔:ORG>을 비난하기 위한 목적이 담긴 성명이었다.
+유엔	유엔	NNP	B-ORG
+을	을	JKO	O
+_	_	_	O
+비난하	비난하	VV	O
+기	기	ETN	O
+_	_	_	O
+위한	위하+ㄴ	VV+ETM	O
+_	_	_	O
+목적	목적	NNG	O
+이	이	JKS	O
+_	_	_	O
+담긴	담기+ㄴ	VV+ETM	O
+_	_	_	O
+성명	성명	NNG	O
+이	이	VCP	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+

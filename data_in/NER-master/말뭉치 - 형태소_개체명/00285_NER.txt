@@ -1,0 +1,423 @@
+## 1
+## 가학적 영상물 퍼나른 누리꾼에 1건당 50만원 합의 종용
+## 가학적 영상물 퍼나른 누리꾼에 <1건:NOH>당 <50만원:MNY> 합의 종용
+가학적	가학적	NNG	O
+_	_	_	O
+영상물	영상물	NNG	O
+_	_	_	O
+퍼	+어	+EC	O
+나른	나르+ㄴ	VV+ETM	O
+_	_	_	O
+누리	누리	NNG	O
+꾼	꾼	XSN	O
+에	에	JKB	O
+_	_	_	O
+1	1	SN	B-NOH
+건	건	NNB	I-NOH
+당	당	XSN	O
+_	_	_	O
+50	50	SN	B-MNY
+만	만	NR	I-MNY
+원	원	NNB	I-MNY
+_	_	_	O
+합의	합의	NNG	O
+_	_	_	O
+종용	종용	NNG	O
+
+## 2
+## 특히 임지연은 특별출연을 위해 양궁 연습을 하는 등 노력을 기울이는 등 치명적인 매력을 자아내는 소식이 전해져 눈길을 끌고 있다.
+## 특히 <임지연:PER>은 특별출연을 위해 양궁 연습을 하는 등 노력을 기울이는 등 치명적인 매력을 자아내는 소식이 전해져 눈길을 끌고 있다.
+특히	특히	MAG	O
+_	_	_	O
+임지연	임지연	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+특별	특별	NNG	O
+출연	출연	NNG	O
+을	을	JKO	O
+_	_	_	O
+위해	위하+여	VV+EC	O
+_	_	_	O
+양궁	양궁	NNG	O
+_	_	_	O
+연습	연습	NNG	O
+을	을	JKO	O
+_	_	_	O
+하	하	VV	O
+는	는	ETM	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+노력	노력	NNG	O
+을	을	JKO	O
+_	_	_	O
+기울이	기울이	VV	O
+는	는	ETM	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+치명적	치명적	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+매력	매력	NNG	O
+을	을	JKO	O
+_	_	_	O
+자아내	자아내	VV	O
+는	는	ETM	O
+_	_	_	O
+소식	소식	NNG	O
+이	이	JKS	O
+_	_	_	O
+전해	전하+여	VV+EC	O
+져	지+어	VX+EC	O
+_	_	_	O
+눈길	눈길	NNG	O
+을	을	JKO	O
+_	_	_	O
+끌	끌	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 한편 임지연은 과거 자신의 인스타그램에 사진을 게시, 치명적인 미모를 자랑했다.
+## 한편 <임지연:PER>은 과거 자신의 <인스타그램:POH>에 사진을 게시, 치명적인 미모를 자랑했다.
+한편	한편	MAG	O
+_	_	_	O
+임지연	임지연	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+과거	과거	NNG	O
+_	_	_	O
+자신	자신	NNG	O
+의	의	JKG	O
+_	_	_	O
+인스타그램	인스타그램	NNG	B-POH
+에	에	JKB	O
+_	_	_	O
+사진	사진	NNG	O
+을	을	JKO	O
+_	_	_	O
+게시	게시	NNG	O
+,	,	SP	O
+_	_	_	O
+치명적	치명적	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+미모	미모	NNG	O
+를	를	JKO	O
+_	_	_	O
+자랑	자랑하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 온라인 중앙일보[사진 임지연 인스타그램]
+## 온라인 <중앙일보:ORG>[사진 <임지연:PER> <인스타그램:POH>]
+온라인	온라인	NNG	O
+_	_	_	O
+중앙일보	중앙일보	NNP	B-ORG
+[	[	SS	O
+사진	사진	NNG	O
+_	_	_	O
+임지연	임지연	NNP	B-PER
+_	_	_	O
+인스타그램	인스타그램	NNP	B-POH
+]	]	SS	O
+
+## 5
+## 이 실험은 2015년 7월 후판 공장에서 시작됐다.
+## 이 실험은 <2015년 7월:DAT> 후판 공장에서 시작됐다.
+이	이	MM	O
+_	_	_	O
+실험	실험	NNG	O
+은	은	JX	O
+_	_	_	O
+2015	2015	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	I-DAT
+7	7	SN	I-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+후판	후판	NNG	O
+_	_	_	O
+공장	공장	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+시작	시작되	VV	O
+됐	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 지자체 74곳 인건비 못대… “정부 재원, 지방으로 이전을”
+## 지자체 <74곳:NOH> 인건비 못대… “정부 재원, 지방으로 이전을”
+지자체	지자체	NNG	O
+_	_	_	O
+74	74	SN	B-NOH
+곳	곳	NNG	I-NOH
+_	_	_	O
+인건비	인건비	NNG	O
+_	_	_	O
+못대	못대	NNG	O
+…	…	SE	O
+_	_	_	O
+“	“	SS	O
+정부	정부	NNG	O
+_	_	_	O
+재원	재원	NNG	O
+,	,	SP	O
+_	_	_	O
+지방	지방	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+이전	이전	NNG	O
+을	을	JKO	O
+”	”	SS	O
+
+## 7
+## 다수당인 사회당, 의회주의자들은 기습을 당했다.
+## 다수당인 <사회당:ORG>, 의회주의자들은 기습을 당했다.
+다수당	다수당	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+사회당	사회당	NNP	B-ORG
+,	,	SP	O
+_	_	_	O
+의회주의	의회주의	NNG	O
+자	자	XSN	O
+들	들	XSN	O
+은	은	JX	O
+_	_	_	O
+기습	기습	NNG	O
+을	을	JKO	O
+_	_	_	O
+당	당하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 사드 보복, 자국 산업 보호를 위한 각종 규제 및 육성책으로 인해 변수가 많아졌다.
+## <사드:POH> 보복, 자국 산업 보호를 위한 각종 규제 및 육성책으로 인해 변수가 많아졌다.
+사드	사드	NNP	B-POH
+_	_	_	O
+보복	보복	NNG	O
+,	,	SP	O
+_	_	_	O
+자국	자국	NNG	O
+_	_	_	O
+산업	산업	NNG	O
+_	_	_	O
+보호	보호	NNG	O
+를	를	JKO	O
+_	_	_	O
+위한	위하+ㄴ	VV+ETM	O
+_	_	_	O
+각종	각종	NNG	O
+_	_	_	O
+규제	규제	NNG	O
+_	_	_	O
+및	및	MAG	O
+_	_	_	O
+육성	육성	NNG	O
+책	책	XSN	O
+으로	으로	JKB	O
+_	_	_	O
+인해	인하+여	VV+EC	O
+_	_	_	O
+변수	변수	NNG	O
+가	가	JKS	O
+_	_	_	O
+많아	많아지	VV	O
+졌	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 3m 끊긴 '점자블록' … 걸음마저 뺏긴 아들아
+## <3m:NOH> 끊긴 '점자블록' … 걸음마저 뺏긴 아들아
+3	3	SN	B-NOH
+m	m	SL	I-NOH
+_	_	_	O
+끊긴	끊기+ㄴ	VV+ETM	O
+_	_	_	O
+'	'	SS	O
+점자	점자	NNG	O
+블록	블록	NNG	O
+'	'	SS	O
+_	_	_	O
+…	…	SE	O
+_	_	_	O
+걸음	걸음	NNG	O
+마저	마저	JX	O
+_	_	_	O
+뺏긴	뺏기+ㄴ	VV+ETM	O
+_	_	_	O
+아들	아들	NNG	O
+아	아	JKV	O
+
+## 10
+## 어린이들을 위한 RC카 조종체험, 4D레이싱, 회전목마 등 놀이시설 10종도 선보인다.
+## 어린이들을 위한 RC카 조종체험, 4D레이싱, 회전목마 등 놀이시설 <10종:NOH>도 선보인다.
+어린이	어린이	NNG	O
+들	들	XSN	O
+을	을	JKO	O
+_	_	_	O
+위한	위하+ㄴ	VV+ETM	O
+_	_	_	O
+RC	RC	SL	O
+카	카	NNG	O
+_	_	_	O
+조종	조종	NNG	O
+체험	체험	NNG	O
+,	,	SP	O
+_	_	_	O
+4	4	SN	O
+D	D	SL	O
+레이싱	레이싱	NNG	O
+,	,	SP	O
+_	_	_	O
+회전목마	회전목마	NNG	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+놀이	놀이	NNG	O
+시설	시설	NNG	O
+_	_	_	O
+10	10	SN	B-NOH
+종	종	NNG	I-NOH
+도	도	JX	O
+_	_	_	O
+선보인다	선보이+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 11
+## 당시 멤버들은 "'위아래'로 기회라는 큰 선물을 받았다.
+## 당시 멤버들은 "'<위아래:POH>'로 기회라는 큰 선물을 받았다.
+당시	당시	NNG	O
+_	_	_	O
+멤버	멤버	NNG	O
+들	들	XSN	O
+은	은	JX	O
+_	_	_	O
+"	"	SS	O
+'	'	SS	O
+위아래	위아래	NNG	B-POH
+'	'	SS	O
+로	로	JKB	O
+_	_	_	O
+기회	기회+이	NNG+VCP	O
+라는	라는	ETM	O
+_	_	_	O
+큰	크+ㄴ	VA+ETM	O
+_	_	_	O
+선물	선물	NNG	O
+을	을	JKO	O
+_	_	_	O
+받	받	VV	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 고래 두 마리가 치고 받기 일보 직전인데 근처에 있는 새우 걱정 할 이유도 없다.
+## 고래 <두 마리:NOH>가 치고 받기 일보 직전인데 근처에 있는 새우 걱정 할 이유도 없다.
+고래	고래	NNG	O
+_	_	_	O
+두	두	MM	B-NOH
+_	_	_	I-NOH
+마리	마리	NNB	I-NOH
+가	가	JKS	O
+_	_	_	O
+치	치	VV	O
+고	고	EC	O
+_	_	_	O
+받	받	VV	O
+기	기	ETN	O
+_	_	_	O
+일보	일보	NNG	O
+_	_	_	O
+직전	직전	NNG	O
+인데	이+ㄴ데	VCP+EC	O
+_	_	_	O
+근처	근처	NNG	O
+에	에	JKB	O
+_	_	_	O
+있	있	VA	O
+는	는	ETM	O
+_	_	_	O
+새우	새우	NNG	O
+_	_	_	O
+걱정	걱정	NNG	O
+_	_	_	O
+할	하+ㄹ	VV+ETM	O
+_	_	_	O
+이유	이유	NNG	O
+도	도	JX	O
+_	_	_	O
+없	없	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## 대중관계를 돌아보면 한국의 지경학(地經學)적 우세가 중국특수를 가져왔다면 사드(THAAD) 배치 결정 이후에는 지정학(地政學)적 리스크로 다가왔다.
+## 대중관계를 돌아보면 <한국:ORG>의 지경학(地經學)적 우세가 <중국:ORG>특수를 가져왔다면 <사드:POH>(<THAAD:POH>) 배치 결정 이후에는 지정학(地政學)적 리스크로 다가왔다.
+대중	대중	NNG	O
+관계	관계	NNG	O
+를	를	JKO	O
+_	_	_	O
+돌아보	돌아보	VV	O
+면	면	EC	O
+_	_	_	O
+한국	한국	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+지경	지경	NNB	O
+학	학	XSN	O
+(	(	SS	O
+地經學	地經學	SH	O
+)	)	SS	O
+적	적	XSN	O
+_	_	_	O
+우세	우세	NNG	O
+가	가	JKS	O
+_	_	_	O
+중국	중국	NNP	B-ORG
+특수	특수	NNG	O
+를	를	JKO	O
+_	_	_	O
+가져	가져오	VV	O
+왔	았	EP	O
+다면	다면	EC	O
+_	_	_	O
+사드	사드	NNP	B-POH
+(	(	SS	O
+THAAD	THAAD	SL	B-POH
+)	)	SS	O
+_	_	_	O
+배치	배치	NNG	O
+_	_	_	O
+결정	결정	NNG	O
+_	_	_	O
+이후	이후	NNG	O
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+지정학	지정학	NNG	O
+(	(	SS	O
+地政學	地政學	SH	O
+)	)	SS	O
+적	적	XSN	O
+_	_	_	O
+리스크	리스크	NNG	O
+로	로	JKB	O
+_	_	_	O
+다가	다가오	VV	O
+왔	았	EP	O
+다	다	EF	O
+.	.	SF	O
+

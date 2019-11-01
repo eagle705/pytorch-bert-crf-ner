@@ -1,0 +1,673 @@
+## 1
+## 양양군이 계획안을 수립하고 국토부가 관계부처 협의와 중앙도시계획위원회, 국토정책위원회 심의를 거쳐 최종 확정했다.
+## <양양군:ORG>이 계획안을 수립하고 <국토부:ORG>가 관계부처 협의와 <중앙도시계획위원회:ORG>, <국토정책위원회:ORG> 심의를 거쳐 최종 확정했다.
+양양군	양양군	NNP	B-ORG
+이	이	JKS	O
+_	_	_	O
+계획안	계획안	NNG	O
+을	을	JKO	O
+_	_	_	O
+수립하	수립하	VV	O
+고	고	EC	O
+_	_	_	O
+국토	국토	NNG	B-ORG
+부	부	NNG	I-ORG
+가	가	JKS	O
+_	_	_	O
+관계	관계	NNG	O
+부처	부처	NNG	O
+_	_	_	O
+협의	협의	NNG	O
+와	와	JC	O
+_	_	_	O
+중앙	중앙	NNG	B-ORG
+도시	도시	NNG	I-ORG
+계획	계획	NNG	I-ORG
+위원회	위원회	NNG	I-ORG
+,	,	SP	O
+_	_	_	O
+국토	국토	NNG	B-ORG
+정책	정책	NNG	I-ORG
+위원회	위원회	NNG	I-ORG
+_	_	_	O
+심의	심의	NNG	O
+를	를	JKO	O
+_	_	_	O
+거쳐	거치+어	VV+EC	O
+_	_	_	O
+최종	최종	NNG	O
+_	_	_	O
+확정	확정하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## ‘일왕도 진심으로 사과할 게 아니면 한국을 방문할 필요 없다’는 직정(直情) 발언은 국내에선 잠시 박수를 받았을지 몰라도 이후 한일관계를 수렁으로 빠뜨렸다.
+## ‘일왕도 진심으로 사과할 게 아니면 <한국:ORG>을 방문할 필요 없다’는 직정(直情) 발언은 국내에선 잠시 박수를 받았을지 몰라도 이후 <한일:ORG>관계를 수렁으로 빠뜨렸다.
+‘	‘	SS	O
+일	일	NNP	O
+왕	왕	NNG	O
+도	도	JX	O
+_	_	_	O
+진심	진심	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+사과할	사과하+ㄹ	VV+ETM	O
+_	_	_	O
+게	것+이	NNB+JKC	O
+_	_	_	O
+아니	아니	VCN	O
+면	면	EC	O
+_	_	_	O
+한국	한국	NNP	B-ORG
+을	을	JKO	O
+_	_	_	O
+방문할	방문하+ㄹ	VV+ETM	O
+_	_	_	O
+필요	필요	NNG	O
+_	_	_	O
+없	없	VA	O
+다	다	EF	O
+’	’	SS	O
+는	는	JX	O
+_	_	_	O
+직정	직정	NNG	O
+(	(	SS	O
+直情	直情	SH	O
+)	)	SS	O
+_	_	_	O
+발언	발언	NNG	O
+은	은	JX	O
+_	_	_	O
+국내	국내	NNG	O
+에선	에서+ㄴ	JKB+JX	O
+_	_	_	O
+잠시	잠시	MAG	O
+_	_	_	O
+박수	박수	NNG	O
+를	를	JKO	O
+_	_	_	O
+받	받	VV	O
+았	았	EP	O
+을지	을지	EC	O
+_	_	_	O
+몰	모르	VV	O
+라도	아도	EC	O
+_	_	_	O
+이후	이후	NNG	O
+_	_	_	O
+한일	한일	NNP	B-ORG
+관계	관계	NNG	O
+를	를	JKO	O
+_	_	_	O
+수렁	수렁	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+빠뜨	빠뜨리	VV	O
+렸	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 막내아들은 이란 기업 서울지사에서 일한다.
+## 막내아들은 <이란:ORG> 기업 <서울:LOC>지사에서 일한다.
+막내아들	막내아들	NNG	O
+은	은	JX	O
+_	_	_	O
+이란	이란	NNP	B-ORG
+_	_	_	O
+기업	기업	NNG	O
+_	_	_	O
+서울	서울	NNP	B-LOC
+지사	지사	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+일한다	일하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 4
+## 이세형 turtle@donga.com·박용 기자
+## <이세형:PER> <turtle@donga.com:POH>·<박용:PER> 기자
+이세형	이세형	NNP	B-PER
+_	_	_	O
+turtle	turtle	SL	B-POH
+@	@	SW	I-POH
+donga	donga	SL	I-POH
+.	.	SF	I-POH
+com	com	SL	I-POH
+·	·	SP	O
+박용	박용	NNG	B-PER
+_	_	_	O
+기자	기자	NNG	O
+
+## 5
+## 9일 블룸버그에 따르면 서부 텍사스산 원유(WTI) 가격은 올해 6월 초 이후 이달까지 37% 하락했다.
+## <9일:DAT> <블룸버그:ORG>에 따르면 <서부 텍사스산 원유:POH>(<WTI:POH>) 가격은 올해 <6월:DAT> 초 이후 이달까지 <37%:PNT> 하락했다.
+9	9	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+블룸버그	블룸버그	NNP	B-ORG
+에	에	JKB	O
+_	_	_	O
+따르	따르	VV	O
+면	면	EC	O
+_	_	_	O
+서부	서부	NNG	B-POH
+_	_	_	I-POH
+텍사스	텍사스	NNP	I-POH
+산	산	NNG	I-POH
+_	_	_	I-POH
+원유	원유	NNG	I-POH
+(	(	SS	O
+WTI	WTI	SL	B-POH
+)	)	SS	O
+_	_	_	O
+가격	가격	NNG	O
+은	은	JX	O
+_	_	_	O
+올해	올해	NNG	O
+_	_	_	O
+6	6	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+초	초	NNB	O
+_	_	_	O
+이후	이후	NNG	O
+_	_	_	O
+이달	이달	NNG	O
+까지	까지	JX	O
+_	_	_	O
+37	37	SN	B-PNT
+%	%	SW	I-PNT
+_	_	_	O
+하락	하락하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 이날 정현과 만난 베를로크는 예선을 거친 선수지만, 2012년 3월 세계랭킹 37위까지 올랐던 베테랑으로 자신의 두 차례 투어대회 우승을 모두 클레이코트에서 거뒀다.
+## 이날 <정현:PER>과 만난 <베를로크:PER>는 예선을 거친 선수지만, <2012년 3월:DAT> 세계랭킹 <37위:NOH>까지 올랐던 베테랑으로 자신의 <두 차례:NOH> 투어대회 우승을 모두 클레이코트에서 거뒀다.
+이날	이날	NNG	O
+_	_	_	O
+정현	정현	NNG	B-PER
+과	과	JC	O
+_	_	_	O
+만난	만나+ㄴ	VV+ETM	O
+_	_	_	O
+베를로크	베를로크	NNG	B-PER
+는	는	JX	O
+_	_	_	O
+예선	예선	NNG	O
+을	을	JKO	O
+_	_	_	O
+거친	거치+ㄴ	VV+ETM	O
+_	_	_	O
+선수	선수+이	NNG+VCP	O
+지만	지만	EC	O
+,	,	SP	O
+_	_	_	O
+2012	2012	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	I-DAT
+3	3	SN	I-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+세계	세계	NNG	O
+랭킹	랭킹	NNG	O
+_	_	_	O
+37	37	SN	B-NOH
+위	위	NNB	I-NOH
+까지	까지	JX	O
+_	_	_	O
+올	오르	VV	O
+랐	았	EP	O
+던	던	ETM	O
+_	_	_	O
+베테랑	베테랑	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+자신	자신	NNG	O
+의	의	JKG	O
+_	_	_	O
+두	두	MM	B-NOH
+_	_	_	I-NOH
+차례	차례	NNG	I-NOH
+_	_	_	O
+투어	투어	NNG	O
+대회	대회	NNG	O
+_	_	_	O
+우승	우승	NNG	O
+을	을	JKO	O
+_	_	_	O
+모두	모두	MAG	O
+_	_	_	O
+클레이	클레이	NNP	O
+코트	코트	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+거	거두	VV	O
+뒀	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 해군, 2015년 명예 대위→소령으로 진급 임명
+## 해군, <2015년:DAT> 명예 대위→소령으로 진급 임명
+해군	해군	NNG	O
+,	,	SP	O
+_	_	_	O
+2015	2015	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+명예	명예	NNG	O
+_	_	_	O
+대위	대위	NNG	O
+→	→	SW	O
+소령	소령	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+진급	진급	NNG	O
+_	_	_	O
+임명	임명	NNG	O
+
+## 8
+## 그와 피츠버그의 계약이 성사되면 강정호는 스프링캠프에서 조디 머서와 주전 경쟁을 펼치게 된다.
+## 그와 <피츠버그:ORG>의 계약이 성사되면 <강정호:PER>는 스프링캠프에서 <조디 머서:PER>와 주전 경쟁을 펼치게 된다.
+그	그	NP	O
+와	와	JC	O
+_	_	_	O
+피츠버그	피츠버그	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+계약	계약	NNG	O
+이	이	JKS	O
+_	_	_	O
+성사되	성사되	VV	O
+면	면	EC	O
+_	_	_	O
+강정호	강정호	NNP	B-PER
+는	는	JX	O
+_	_	_	O
+스프링	스프링	NNG	O
+캠프	캠프	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+조디	조디	NNP	B-PER
+_	_	_	I-PER
+머서	머서	NNP	I-PER
+와	와	JC	O
+_	_	_	O
+주전	주전	NNG	O
+_	_	_	O
+경쟁	경쟁	NNG	O
+을	을	JKO	O
+_	_	_	O
+펼치	펼치	VV	O
+게	게	EC	O
+_	_	_	O
+된다	되+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 9
+## ‘잡스’ 노홍철 “박명수, 발전이 없더라”…박명수 답변은? ‘폭소’
+## ‘<잡스:POH>’ <노홍철:PER> “<박명수:PER>, 발전이 없더라”…<박명수:PER> 답변은? ‘폭소’
+‘	‘	SS	O
+잡스	잡스	NNP	B-POH
+’	’	SS	O
+_	_	_	O
+노홍철	노홍철	NNP	B-PER
+_	_	_	O
+“	“	SS	O
+박명수	박명수	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+발전	발전	NNG	O
+이	이	JKS	O
+_	_	_	O
+없	없	VA	O
+더라	더라	EF	O
+”	”	SS	O
+…	…	SE	O
+박명수	박명수	NNP	B-PER
+_	_	_	O
+답변	답변	NNG	O
+은	은	JX	O
+?	?	SF	O
+_	_	_	O
+‘	‘	SS	O
+폭소	폭소	NNG	O
+’	’	SS	O
+
+## 10
+## ‘언니랑 고고’ 하지원, 친언니와 함께 ‘찰칵’…눈부신 미모에 팬들 시선 ‘확’
+## ‘언니랑 고고’ <하지원:PER>, 친언니와 함께 ‘찰칵’…눈부신 미모에 팬들 시선 ‘확’
+‘	‘	SS	O
+언니	언니	NNG	O
+랑	랑	JKB	O
+_	_	_	O
+고고	고고	NNG	O
+’	’	SS	O
+_	_	_	O
+하지원	하지원	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+친언니	친언니	NNG	O
+와	와	JKB	O
+_	_	_	O
+함께	함께	MAG	O
+_	_	_	O
+‘	‘	SS	O
+찰칵	찰칵	MAG	O
+’	’	SS	O
+…	…	SE	O
+눈부신	눈부시+ㄴ	VA+ETM	O
+_	_	_	O
+미모	미모	NNG	O
+에	에	JKB	O
+_	_	_	O
+팬	팬	NNG	O
+들	들	XSN	O
+_	_	_	O
+시선	시선	NNG	O
+_	_	_	O
+‘	‘	SS	O
+확	확	NNG	O
+’	’	SS	O
+
+## 11
+## 경남 거창경찰서는 관련자들 소환 조사 및 여러 정황 분석 결과 이렇게 결론짓고 수사를 종결하기로 했다고 16일 밝혔다.
+## <경남 거창경찰서:ORG>는 관련자들 소환 조사 및 여러 정황 분석 결과 이렇게 결론짓고 수사를 종결하기로 했다고 <16일:DAT> 밝혔다.
+경남	경남	NNP	B-ORG
+_	_	_	I-ORG
+거창	거창	NNP	I-ORG
+경찰서	경찰서	NNG	I-ORG
+는	는	JX	O
+_	_	_	O
+관련자	관련자	NNG	O
+들	들	XSN	O
+_	_	_	O
+소환	소환	NNG	O
+_	_	_	O
+조사	조사	NNG	O
+_	_	_	O
+및	및	MAG	O
+_	_	_	O
+여러	여러	MM	O
+_	_	_	O
+정황	정황	NNG	O
+_	_	_	O
+분석	분석	NNG	O
+_	_	_	O
+결과	결과	NNG	O
+_	_	_	O
+이렇	이렇	VA	O
+게	게	EC	O
+_	_	_	O
+결론짓	결론짓	VV	O
+고	고	EC	O
+_	_	_	O
+수사	수사	NNG	O
+를	를	JKO	O
+_	_	_	O
+종결하	종결하	VV	O
+기	기	ETN	O
+로	로	JKB	O
+_	_	_	O
+했	+였	+EP	O
+다고	다고	EC	O
+_	_	_	O
+16	16	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+밝	밝히	VV	O
+혔	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 전여옥 전 새누리당 의원은 반기문 전 유엔 사무총장에 대해 '공감능력이 없다'고 지적했다.
+## <전여옥:PER> 전 <새누리당:ORG> 의원은 <반기문:PER> 전 <유엔:ORG> 사무총장에 대해 '공감능력이 없다'고 지적했다.
+전여옥	전여옥	NNP	B-PER
+_	_	_	O
+전	전	MM	O
+_	_	_	O
+새누리당	새누리당	NNP	B-ORG
+_	_	_	O
+의원	의원	NNG	O
+은	은	JX	O
+_	_	_	O
+반기문	반기문	NNP	B-PER
+_	_	_	O
+전	전	NNG	O
+_	_	_	O
+유엔	유엔	NNP	B-ORG
+_	_	_	O
+사무총장	사무총장	NNG	O
+에	에	JKB	O
+_	_	_	O
+대해	대하+여	VV+EC	O
+_	_	_	O
+'	'	SS	O
+공감	공감	NNG	O
+능력	능력	NNG	O
+이	이	JKS	O
+_	_	_	O
+없	없	VA	O
+다	다	EF	O
+'	'	SS	O
+고	고	JKQ	O
+_	_	_	O
+지적	지적하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## 마룬5 내한공연, 애덤 리바인 인스타 인증샷 화제
+## <마룬5:ORG> 내한공연, <애덤 리바인:PER> 인스타 인증샷 화제
+마룬	마룬	NNP	B-ORG
+5	5	SN	I-ORG
+_	_	_	O
+내한	내한	NNG	O
+공연	공연	NNG	O
+,	,	SP	O
+_	_	_	O
+애덤	애덤	NNP	B-PER
+_	_	_	I-PER
+리바인	리바인	NNP	I-PER
+_	_	_	O
+인스타	인스타	NNP	O
+_	_	_	O
+인증	인증	NNG	O
+샷	샷	NNG	O
+_	_	_	O
+화제	화제	NNG	O
+
+## 14
+## 이번 경기를 대하는 최윤 구단주의 의지도 특별하다.
+## 이번 경기를 대하는 <최윤:PER> 구단주의 의지도 특별하다.
+이번	이번	NNG	O
+_	_	_	O
+경기	경기	NNG	O
+를	를	JKO	O
+_	_	_	O
+대하	대하	VV	O
+는	는	ETM	O
+_	_	_	O
+최	최	NNP	B-PER
+윤	윤	NNP	I-PER
+_	_	_	O
+구단주	구단주	NNG	O
+의	의	JKG	O
+_	_	_	O
+의지	의지	NNG	O
+도	도	JX	O
+_	_	_	O
+특별하	특별하	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 15
+## 환경부는 이들 안전 기준을 초과하고 표기를 제대로 하지 않은 업자들에 대해서는 행정처분이 확정되는 대로 형사고발을 검토하겠다고 밝혔다.
+## <환경부:ORG>는 이들 안전 기준을 초과하고 표기를 제대로 하지 않은 업자들에 대해서는 행정처분이 확정되는 대로 형사고발을 검토하겠다고 밝혔다.
+환경부	환경부	NNG	B-ORG
+는	는	JX	O
+_	_	_	O
+이	이	NP	O
+들	들	XSN	O
+_	_	_	O
+안전	안전	NNG	O
+_	_	_	O
+기준	기준	NNG	O
+을	을	JKO	O
+_	_	_	O
+초과하	초과하	VV	O
+고	고	EC	O
+_	_	_	O
+표기	표기	NNG	O
+를	를	JKO	O
+_	_	_	O
+제대로	제대로	MAG	O
+_	_	_	O
+하	하	VV	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+은	은	ETM	O
+_	_	_	O
+업자	업자	NNG	O
+들	들	XSN	O
+에	에	JKB	O
+_	_	_	O
+대해서	대하+여서	VV+EC	O
+는	는	JX	O
+_	_	_	O
+행정	행정	NNG	O
+처분	처분	NNG	O
+이	이	JKS	O
+_	_	_	O
+확정되	확정되	VV	O
+는	는	ETM	O
+_	_	_	O
+대로	대로	NNB	O
+_	_	_	O
+형사	형사	NNG	O
+고발	고발	NNG	O
+을	을	JKO	O
+_	_	_	O
+검토하	검토하	VV	O
+겠	겠	EP	O
+다고	다고	EC	O
+_	_	_	O
+밝	밝히	VV	O
+혔	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 16
+## 심씨는 황씨를 통해 음식은 맛이 전부가 아니라는 걸 깨달았다.
+## <심:PER>씨는 <황:PER>씨를 통해 음식은 맛이 전부가 아니라는 걸 깨달았다.
+심	심	NNP	B-PER
+씨	씨	NNB	O
+는	는	JX	O
+_	_	_	O
+황	황	NNP	B-PER
+씨	씨	NNB	O
+를	를	JKO	O
+_	_	_	O
+통해	통하+여	VV+EC	O
+_	_	_	O
+음식	음식	NNG	O
+은	은	JX	O
+_	_	_	O
+맛	맛	NNG	O
+이	이	JKS	O
+_	_	_	O
+전부	전부	NNG	O
+가	가	JKC	O
+_	_	_	O
+아니	아니	VCN	O
+라는	라는	ETM	O
+_	_	_	O
+걸	것+ㄹ	NNB+JKO	O
+_	_	_	O
+깨달	깨닫	VV	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 17
+## 한편 백종원은 MBC '마리텔'에서 일시 하차했다.
+## 한편 <백종원:PER>은 <MBC:ORG> '<마리텔:POH>'에서 일시 하차했다.
+한편	한편	MAG	O
+_	_	_	O
+백종원	백종원	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+MBC	MBC	SL	B-ORG
+_	_	_	O
+'	'	SS	O
+마리	마리	NNB	B-POH
+텔	텔	NNG	I-POH
+'	'	SS	O
+에서	에서	JKB	O
+_	_	_	O
+일시	일시	MAG	O
+_	_	_	O
+하차	하차하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 18
+## [사진 아모레퍼시픽]
+## [사진 <아모레퍼시픽:ORG>]
+[	[	SS	O
+사진	사진	NNG	O
+_	_	_	O
+아모레퍼시픽	아모레퍼시픽	NNP	B-ORG
+]	]	SS	O
+
+## 19
+## “시간이 없어서.” KT가 최근 선보인 TV 광고 한편이 직장인들의 공감대를 불러일으키고 있다.
+## “시간이 없어서.” <KT:ORG>가 최근 선보인 TV 광고 한편이 직장인들의 공감대를 불러일으키고 있다.
+“	“	SS	O
+시간	시간	NNG	O
+이	이	JKS	O
+_	_	_	O
+없	없	VA	O
+어서	어서	EF	O
+.	.	SF	O
+”	”	SS	O
+_	_	_	O
+KT	KT	SL	B-ORG
+가	가	JKS	O
+_	_	_	O
+최근	최근	NNG	O
+_	_	_	O
+선보인	선보이+ㄴ	VV+ETM	O
+_	_	_	O
+TV	TV	SL	O
+_	_	_	O
+광고	광고	NNG	O
+_	_	_	O
+한	한	MM	O
+편	편	NNB	O
+이	이	JKS	O
+_	_	_	O
+직장인	직장인	NNG	O
+들	들	XSN	O
+의	의	JKG	O
+_	_	_	O
+공감대	공감대	NNG	O
+를	를	JKO	O
+_	_	_	O
+불러일으키	불러일으키	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+

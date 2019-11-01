@@ -1,0 +1,725 @@
+## 1
+## 20~40대는 "유승민 화이팅"을 외치거나 휴대전화로 함께 '셀카'를 찍곤 했다.
+## <20:NOH>~<40대:NOH>는 "<유승민:PER> 화이팅"을 외치거나 휴대전화로 함께 '셀카'를 찍곤 했다.
+20	20	SN	B-NOH
+~	~	SO	O
+40	40	SN	B-NOH
+대	대	NNB	I-NOH
+는	는	JX	O
+_	_	_	O
+"	"	SS	O
+유승민	유승민	NNP	B-PER
+_	_	_	O
+화이팅	화이팅	IC	O
+"	"	SS	O
+을	을	JKO	O
+_	_	_	O
+외치	외치	VV	O
+거나	거나	EC	O
+_	_	_	O
+휴대전화	휴대전화	NNG	O
+로	로	JKB	O
+_	_	_	O
+함께	함께	MAG	O
+_	_	_	O
+'	'	SS	O
+셀카	셀카	NNG	O
+'	'	SS	O
+를	를	JKO	O
+_	_	_	O
+찍	찍	VV	O
+곤	곤	EC	O
+_	_	_	O
+했	+였	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 이번에 나를 평양에 초대한 것도 그 일환이다.
+## 이번에 나를 <평양:LOC>에 초대한 것도 그 일환이다.
+이번	이번	NNG	O
+에	에	JKB	O
+_	_	_	O
+나	나	NP	O
+를	를	JKO	O
+_	_	_	O
+평양	평양	NNP	B-LOC
+에	에	JKB	O
+_	_	_	O
+초대한	초대하+ㄴ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+도	도	JX	O
+_	_	_	O
+그	그	MM	O
+_	_	_	O
+일환	일환	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 윤길현은 시즌 12세이브를 성공시켰지만, 마지막 세이브는 5월 19일 문학 한화전에서 거뒀다.
+## <윤길현:PER>은 시즌 <12세이브:NOH>를 성공시켰지만, 마지막 세이브는 <5월 19일:DAT> <문학:LOC> 한화전에서 거뒀다.
+윤길현	윤길현	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+시즌	시즌	NNG	O
+_	_	_	O
+12	12	SN	B-NOH
+세이브	세이브	NNG	I-NOH
+를	를	JKO	O
+_	_	_	O
+성공	성공	NNG	O
+시	시키	XSV	O
+켰	었	EP	O
+지만	지만	EC	O
+,	,	SP	O
+_	_	_	O
+마지막	마지막	NNG	O
+_	_	_	O
+세이브	세이브	NNG	O
+는	는	JX	O
+_	_	_	O
+5	5	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	I-DAT
+19	19	SN	I-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+문학	문학	NNG	B-LOC
+_	_	_	O
+한화	한화	NNP	O
+전	전	XSN	O
+에서	에서	JKB	O
+_	_	_	O
+거	거두	VV	O
+뒀	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 이렇게 모으면 1년에 240만 원, 20년이면 4800만 원 이상이 쌓여 노후 준비금이 된다.
+## 이렇게 모으면 <1년:DAT>에 <240만 원:MNY>, <20년:DAT>이면 <4800만 원:MNY> 이상이 쌓여 노후 준비금이 된다.
+이렇	이렇	VA	O
+게	게	EC	O
+_	_	_	O
+모으	모으	VV	O
+면	면	EC	O
+_	_	_	O
+1	1	SN	B-DAT
+년	년	NNB	I-DAT
+에	에	JKB	O
+_	_	_	O
+240	240	SN	B-MNY
+만	만	NR	I-MNY
+_	_	_	I-MNY
+원	원	NNB	I-MNY
+,	,	SP	O
+_	_	_	O
+20	20	SN	B-DAT
+년	년	NNB	I-DAT
+이	이	VCP	O
+면	면	EC	O
+_	_	_	O
+4800	4800	SN	B-MNY
+만	만	NR	I-MNY
+_	_	_	I-MNY
+원	원	NNB	I-MNY
+_	_	_	O
+이상	이상	NNG	O
+이	이	JKS	O
+_	_	_	O
+쌓	쌓이	VV	O
+여	어	EC	O
+_	_	_	O
+노후	노후	NNG	O
+_	_	_	O
+준비금	준비금	NNG	O
+이	이	JKC	O
+_	_	_	O
+된다	되+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 5
+## 안 후보는 이날 고려대에서 ‘4차 산업혁명과 청년’이라는 주제로 강연을 하면서 “청년들의 희망을 완전히 짓밟는 3대 비리가 입학비리, 병역비리, 취업비리다.
+## <안:PER> 후보는 이날 <고려대:ORG>에서 ‘<4차 산업혁명:POH>과 청년’이라는 주제로 강연을 하면서 “청년들의 희망을 완전히 짓밟는 <3대:NOH> 비리가 입학비리, 병역비리, 취업비리다.
+안	안	NNP	B-PER
+_	_	_	O
+후보	후보	NNG	O
+는	는	JX	O
+_	_	_	O
+이날	이날	NNG	O
+_	_	_	O
+고려대	고려대	NNP	B-ORG
+에서	에서	JKB	O
+_	_	_	O
+‘	‘	SS	O
+4	4	SN	B-POH
+차	차	NNB	I-POH
+_	_	_	I-POH
+산업	산업	NNG	I-POH
+혁명	혁명	NNG	I-POH
+과	과	JC	O
+_	_	_	O
+청년	청년	NNG	O
+’	’	SS	O
+이	이	VCP	O
+라는	라는	ETM	O
+_	_	_	O
+주제	주제	NNG	O
+로	로	JKB	O
+_	_	_	O
+강연	강연	NNG	O
+을	을	JKO	O
+_	_	_	O
+하	하	VV	O
+면서	면서	EC	O
+_	_	_	O
+“	“	SS	O
+청년	청년	NNG	O
+들	들	XSN	O
+의	의	JKG	O
+_	_	_	O
+희망	희망	NNG	O
+을	을	JKO	O
+_	_	_	O
+완전히	완전히	MAG	O
+_	_	_	O
+짓밟	짓밟	VV	O
+는	는	ETM	O
+_	_	_	O
+3	3	SN	B-NOH
+대	대	NNB	I-NOH
+_	_	_	O
+비리	비리	NNG	O
+가	가	JKS	O
+_	_	_	O
+입학	입학	NNG	O
+비리	비리	NNG	O
+,	,	SP	O
+_	_	_	O
+병역	병역	NNG	O
+비리	비리	NNG	O
+,	,	SP	O
+_	_	_	O
+취업	취업	NNG	O
+비리	비리	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 10일 광주 서구 내방로 광주시청 1층 로비에서 사랑의 릴레이 단체헌혈에 참가한 시청 공무원들이 헌혈을 하고 있다.
+## <10일:DAT> <광주:LOC> <서구:LOC> <내방로:LOC> <광주시청:LOC> 1층 로비에서 사랑의 릴레이 단체헌혈에 참가한 시청 공무원들이 헌혈을 하고 있다.
+10	10	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+광주	광주	NNP	B-LOC
+_	_	_	O
+서	서	NNG	B-LOC
+구	구	NNG	I-LOC
+_	_	_	O
+내방	내방	NNG	B-LOC
+로	로	JKB	I-LOC
+_	_	_	O
+광주시청	광주시청	NNP	B-LOC
+_	_	_	O
+1	1	SN	O
+층	층	NNG	O
+_	_	_	O
+로비	로비	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+사랑	사랑	NNG	O
+의	의	JKG	O
+_	_	_	O
+릴레이	릴레이	NNG	O
+_	_	_	O
+단체	단체	NNG	O
+헌혈	헌혈	NNG	O
+에	에	JKB	O
+_	_	_	O
+참가한	참가하+ㄴ	VV+ETM	O
+_	_	_	O
+시청	시청	NNG	O
+_	_	_	O
+공무원	공무원	NNG	O
+들	들	XSN	O
+이	이	JKS	O
+_	_	_	O
+헌혈	헌혈	NNG	O
+을	을	JKO	O
+_	_	_	O
+하	하	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 강수지는 옳고 그름이 분명한 성격이지만, 오행 중 수(水)가 부족해 몸이 약하고 차분함이나 뒷심이 다소 부족하다.
+## <강수지:PER>는 옳고 그름이 분명한 성격이지만, <오행:POH> 중 수(水)가 부족해 몸이 약하고 차분함이나 뒷심이 다소 부족하다.
+강수지	강수지	NNP	B-PER
+는	는	JX	O
+_	_	_	O
+옳	옳	VA	O
+고	고	EC	O
+_	_	_	O
+그름	그르+ㅁ	VA+ETN	O
+이	이	JKS	O
+_	_	_	O
+분명한	분명하+ㄴ	VA+ETM	O
+_	_	_	O
+성격	성격	NNG	O
+이	이	VCP	O
+지만	지만	EC	O
+,	,	SP	O
+_	_	_	O
+오행	오행	NNG	B-POH
+_	_	_	O
+중	중	NNP	O
+_	_	_	O
+수	수	NNG	O
+(	(	SS	O
+水	水	SH	O
+)	)	SS	O
+가	가	JKS	O
+_	_	_	O
+부족해	부족하+여	VA+EC	O
+_	_	_	O
+몸	몸	NNG	O
+이	이	JKS	O
+_	_	_	O
+약하	약하	VA	O
+고	고	EC	O
+_	_	_	O
+차분함	차분하+ㅁ	VA+ETN	O
+이나	이나	JC	O
+_	_	_	O
+뒷심	뒷심	NNG	O
+이	이	JKS	O
+_	_	_	O
+다소	다소	MAG	O
+_	_	_	O
+부족하	부족하	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 프랑스는 대혁명 이후 두 번의 제정(帝政), 두 번의 왕정, 그리고 가혹한 학살 사건을 곁들인 세 번의 혁명을 80여 년간 겪고 난 뒤 1870년에 와서야 현재 체제의 공화국이 들어섰다.
+## <프랑스:ORG>는 대혁명 이후 <두 번:NOH>의 제정(帝政), <두 번:NOH>의 왕정, 그리고 가혹한 학살 사건을 곁들인 <세 번:NOH>의 혁명을 <80여 년:NOH>간 겪고 난 뒤 <1870년:DAT>에 와서야 현재 체제의 공화국이 들어섰다.
+프랑스	프랑스	NNP	B-ORG
+는	는	JX	O
+_	_	_	O
+대혁명	대혁명	NNG	O
+_	_	_	O
+이후	이후	NNG	O
+_	_	_	O
+두	두	MM	B-NOH
+_	_	_	I-NOH
+번	번	NNB	I-NOH
+의	의	JKG	O
+_	_	_	O
+제정	제정	NNG	O
+(	(	SS	O
+帝政	帝政	SH	O
+)	)	SS	O
+,	,	SP	O
+_	_	_	O
+두	두	MM	B-NOH
+_	_	_	I-NOH
+번	번	NNB	I-NOH
+의	의	JKG	O
+_	_	_	O
+왕정	왕정	NNG	O
+,	,	SP	O
+_	_	_	O
+그리고	그리고	MAJ	O
+_	_	_	O
+가혹한	가혹하+ㄴ	VA+ETM	O
+_	_	_	O
+학살	학살	NNG	O
+_	_	_	O
+사건	사건	NNG	O
+을	을	JKO	O
+_	_	_	O
+곁들인	곁들이+ㄴ	VV+ETM	O
+_	_	_	O
+세	세	MM	B-NOH
+_	_	_	I-NOH
+번	번	NNB	I-NOH
+의	의	JKG	O
+_	_	_	O
+혁명	혁명	NNG	O
+을	을	JKO	O
+_	_	_	O
+80	80	SN	B-NOH
+여	여	XSN	I-NOH
+_	_	_	I-NOH
+년	년	NNB	I-NOH
+간	간	XSN	O
+_	_	_	O
+겪	겪	VV	O
+고	고	EC	O
+_	_	_	O
+난	나+ㄴ	VX+ETM	O
+_	_	_	O
+뒤	뒤	NNG	O
+_	_	_	O
+1870	1870	SN	B-DAT
+년	년	NNB	I-DAT
+에	에	JKB	O
+_	_	_	O
+와서	+아서	+EC	O
+야	야	JX	O
+_	_	_	O
+현재	현재	MAG	O
+_	_	_	O
+체제	체제	NNG	O
+의	의	JKG	O
+_	_	_	O
+공화국	공화국	NNG	O
+이	이	JKS	O
+_	_	_	O
+들어섰	들어서+었	VV+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 박정자 객원논설위원 상명대 명예교수
+## <박정자:PER> 객원논설위원 <상명대:ORG> 명예교수
+박정자	박정자	NNP	B-PER
+_	_	_	O
+객원	객원	NNG	O
+논설위원	논설위원	NNG	O
+_	_	_	O
+상명대	상명대	NNP	B-ORG
+_	_	_	O
+명예	명예	NNG	O
+교수	교수	NNG	O
+
+## 10
+## 걱정이 크다"며 "솔직히 감독이 되고 나니까 오승환이 더욱 절실하다.
+## 걱정이 크다"며 "솔직히 감독이 되고 나니까 <오승환:PER>이 더욱 절실하다.
+걱정	걱정	NNG	O
+이	이	JKS	O
+_	_	_	O
+크	크	VA	O
+다	다	EF	O
+"	"	SS	O
+며	며	EC	O
+_	_	_	O
+"	"	SS	O
+솔직히	솔직히	MAG	O
+_	_	_	O
+감독	감독	NNG	O
+이	이	JKC	O
+_	_	_	O
+되	되	VV	O
+고	고	EC	O
+_	_	_	O
+나	나	VX	O
+니까	니까	EC	O
+_	_	_	O
+오승환	오승환	NNP	B-PER
+이	이	JKS	O
+_	_	_	O
+더욱	더욱	MAG	O
+_	_	_	O
+절실하	절실하	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 중국은 28위였다.
+## <중국:ORG>은 <28위:NOH>였다.
+중국	중국	NNP	B-ORG
+은	은	JX	O
+_	_	_	O
+28	28	SN	B-NOH
+위	위+이	NNB+VCP	I-NOH
+였	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 시간되시면 전화 한 통 주세요. 기다릴게요’라고 문자했다.
+## 시간되시면 전화 <한 통:NOH> 주세요. 기다릴게요’라고 문자했다.
+시간	시간	NNG	O
+되	되	VV	O
+시	시	EP	O
+면	면	EC	O
+_	_	_	O
+전화	전화	NNG	O
+_	_	_	O
+한	한	MM	B-NOH
+_	_	_	I-NOH
+통	통	NNB	I-NOH
+_	_	_	O
+주	주	VV	O
+세요	세요	EF	O
+.	.	SF	O
+_	_	_	O
+기다릴	기다리+ㄹ	VV+ETM	O
+게	것+이	NNB+VCP	O
+요	요	EF	O
+’	’	SS	O
+라고	라고	JKQ	O
+_	_	_	O
+문자	문자하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## 충북 옥천군 동이면에 사는 60대 농부가 고향 마을의 역사를 기록한 책을 발간했다.
+## <충북:LOC> <옥천군:LOC> <동이면:LOC>에 사는 <60대:NOH> 농부가 고향 마을의 역사를 기록한 책을 발간했다.
+충북	충북	NNP	B-LOC
+_	_	_	O
+옥천군	옥천군	NNP	B-LOC
+_	_	_	O
+동이면	동이면	NNP	B-LOC
+에	에	JKB	O
+_	_	_	O
+사	살	VV	O
+는	는	ETM	O
+_	_	_	O
+60	60	SN	B-NOH
+대	대	NNB	I-NOH
+_	_	_	O
+농부	농부	NNG	O
+가	가	JKS	O
+_	_	_	O
+고향	고향	NNG	O
+_	_	_	O
+마을	마을	NNG	O
+의	의	JKG	O
+_	_	_	O
+역사	역사	NNG	O
+를	를	JKO	O
+_	_	_	O
+기록한	기록하+ㄴ	VV+ETM	O
+_	_	_	O
+책	책	NNG	O
+을	을	JKO	O
+_	_	_	O
+발간	발간하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 14
+## 30일 옥천군에 따르면 이 마을에 사는 황진상(61)씨가 동이면의 역사와 지명, 마을 주민들의 생활사를 담은 면지(面紙)를 출간했다.
+## <30일:DAT> <옥천군:LOC>에 따르면 이 마을에 사는 <황진상:PER>(<61:NOH>)씨가 <동이면:LOC>의 역사와 지명, 마을 주민들의 생활사를 담은 면지(面紙)를 출간했다.
+30	30	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+옥천군	옥천군	NNP	B-LOC
+에	에	JKB	O
+_	_	_	O
+따르	따르	VV	O
+면	면	EC	O
+_	_	_	O
+이	이	MM	O
+_	_	_	O
+마을	마을	NNG	O
+에	에	JKB	O
+_	_	_	O
+사	살	VV	O
+는	는	ETM	O
+_	_	_	O
+황진상	황진상	NNP	B-PER
+(	(	SS	O
+61	61	SN	B-NOH
+)	)	SS	O
+씨	씨	NNB	O
+가	가	JKS	O
+_	_	_	O
+동이면	동이면	NNP	B-LOC
+의	의	JKG	O
+_	_	_	O
+역사	역사	NNG	O
+와	와	JC	O
+_	_	_	O
+지명	지명	NNG	O
+,	,	SP	O
+_	_	_	O
+마을	마을	NNG	O
+_	_	_	O
+주민	주민	NNG	O
+들	들	XSN	O
+의	의	JKG	O
+_	_	_	O
+생활사	생활사	NNG	O
+를	를	JKO	O
+_	_	_	O
+담	담	VV	O
+은	은	ETM	O
+_	_	_	O
+면지	면지	NNG	O
+(	(	SS	O
+面紙	面紙	SH	O
+)	)	SS	O
+를	를	JKO	O
+_	_	_	O
+출간	출간하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 15
+## 차량 내부엔 안경 없이 실시간 3D 화면을 시청할 수 있는 ‘초다시점 인터랙티브 시스템’ 등도 설치 됐다.
+## 차량 내부엔 안경 없이 실시간 <3D:NOH> 화면을 시청할 수 있는 ‘<초다시점 인터랙티브 시스템:POH>’ 등도 설치 됐다.
+차량	차량	NNG	O
+_	_	_	O
+내부	내부	NNG	O
+엔	에+ㄴ	JKB+JX	O
+_	_	_	O
+안경	안경	NNG	O
+_	_	_	O
+없이	없이	MAG	O
+_	_	_	O
+실시간	실시간	NNG	O
+_	_	_	O
+3	3	SN	B-NOH
+D	D	SL	I-NOH
+_	_	_	O
+화면	화면	NNG	O
+을	을	JKO	O
+_	_	_	O
+시청할	시청하+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+는	는	ETM	O
+_	_	_	O
+‘	‘	SS	O
+초	초	XPN	B-POH
+다	다	XPN	I-POH
+시점	시점	NNG	I-POH
+_	_	_	I-POH
+인터랙티브	인터랙티브	NNG	I-POH
+_	_	_	I-POH
+시스템	시스템	NNG	I-POH
+’	’	SS	O
+_	_	_	O
+등	등	NNB	O
+도	도	JX	O
+_	_	_	O
+설치	설치	NNG	O
+_	_	_	O
+됐	+었	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 16
+## 앞서 부산경찰은 지난달 30일에도 해당 사건과 관련해 공식 사과한 바 있다.
+## 앞서 <부산경찰:ORG>은 지난달 <30일:DAT>에도 해당 사건과 관련해 공식 사과한 바 있다.
+앞서	앞서	MAG	O
+_	_	_	O
+부산	부산	NNP	B-ORG
+경찰	경찰	NNG	I-ORG
+은	은	JX	O
+_	_	_	O
+지난달	지난달	NNG	O
+_	_	_	O
+30	30	SN	B-DAT
+일	일	NNB	I-DAT
+에	에	JKB	O
+도	도	JX	O
+_	_	_	O
+해당	해당	NNG	O
+_	_	_	O
+사건	사건	NNG	O
+과	과	JKB	O
+_	_	_	O
+관련해	관련하+여	VV+EC	O
+_	_	_	O
+공식	공식	NNG	O
+_	_	_	O
+사과한	사과하+ㄴ	VV+ETM	O
+_	_	_	O
+바	바	NNB	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 17
+## 이어 창을 든 창지기로 무대 가장 뒤쪽의 왼편(관객 기준)에서 40분간 ‘정말 가만히’ 서 있으면 된다.
+## 이어 창을 든 창지기로 무대 가장 뒤쪽의 왼편(관객 기준)에서 <40분간:DUR> ‘정말 가만히’ 서 있으면 된다.
+이어	이어	MAG	O
+_	_	_	O
+창	창	NNG	O
+을	을	JKO	O
+_	_	_	O
+든	들+ㄴ	VV+ETM	O
+_	_	_	O
+창	창	NNG	O
+지기	지기	XSN	O
+로	로	JKB	O
+_	_	_	O
+무대	무대	NNG	O
+_	_	_	O
+가장	가장	MAG	O
+_	_	_	O
+뒤쪽	뒤쪽	NNG	O
+의	의	JKG	O
+_	_	_	O
+왼편	왼편	NNG	O
+(	(	SS	O
+관객	관객	NNG	O
+_	_	_	O
+기준	기준	NNG	O
+)	)	SS	O
+에서	에서	JKB	O
+_	_	_	O
+40	40	SN	B-DUR
+분	분	NNB	I-DUR
+간	간	XSN	I-DUR
+_	_	_	O
+‘	‘	SS	O
+정말	정말	MAG	O
+_	_	_	O
+가만히	가만히	MAG	O
+’	’	SS	O
+_	_	_	O
+서	서+어	VV+EC	O
+_	_	_	O
+있	있	VX	O
+으면	으면	EC	O
+_	_	_	O
+된다	되+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 18
+## 두 곳은 전남 AI 두 번째 발생 지역인 무안과 인접한 데다
+## 두 곳은 <전남:LOC> AI <두 번째:NOH> 발생 지역인 <무안:LOC>과 인접한 데다
+두	두	MM	O
+_	_	_	O
+곳	곳	NNG	O
+은	은	JX	O
+_	_	_	O
+전남	전남	NNP	B-LOC
+_	_	_	O
+AI	AI	SL	O
+_	_	_	O
+두	두	MM	B-NOH
+_	_	_	I-NOH
+번째	번째	NNB	I-NOH
+_	_	_	O
+발생	발생	NNG	O
+_	_	_	O
+지역	지역	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+무안	무안	NNG	B-LOC
+과	과	JC	O
+_	_	_	O
+인접한	인접하+ㄴ	VV+ETM	O
+_	_	_	O
+데	데	NNB	O
+다	다	JX	O
+

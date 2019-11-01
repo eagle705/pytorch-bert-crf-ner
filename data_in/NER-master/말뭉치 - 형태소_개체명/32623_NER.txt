@@ -1,0 +1,444 @@
+## 1
+## 횡단보도를 건너던 30대 남성을 들이받았다.
+## 횡단보도를 건너던 <30대:NOH> 남성을 들이받았다.
+횡단보도	횡단보도	NNG	O
+를	를	JKO	O
+_	_	_	O
+건너	건너	VV	O
+던	던	ETM	O
+_	_	_	O
+30	30	SN	B-NOH
+대	대	NNB	I-NOH
+_	_	_	O
+남성	남성	NNG	O
+을	을	JKO	O
+_	_	_	O
+들이받	들이받	VV	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 다행히 정수민(26)이라는 깜짝 스타가 나타나 그의 공백을 메웠지만, 에이스 없이 시즌을 치르느라 불펜에 과부하가 걸렸다.
+## 다행히 <정수민:PER>(<26:NOH>)이라는 깜짝 스타가 나타나 그의 공백을 메웠지만, 에이스 없이 시즌을 치르느라 불펜에 과부하가 걸렸다.
+다행히	다행히	MAG	O
+_	_	_	O
+정수민	정수민	NNP	B-PER
+(	(	SS	O
+26	26	SN	B-NOH
+)	)	SS	O
+이	이	VCP	O
+라는	라는	ETM	O
+_	_	_	O
+깜짝	깜짝	MAG	O
+_	_	_	O
+스타	스타	NNG	O
+가	가	JKS	O
+_	_	_	O
+나타나	나타나+아	VV+EC	O
+_	_	_	O
+그	그	NP	O
+의	의	JKG	O
+_	_	_	O
+공백	공백	NNG	O
+을	을	JKO	O
+_	_	_	O
+메	메우	VV	O
+웠	었	EP	O
+지만	지만	EC	O
+,	,	SP	O
+_	_	_	O
+에이스	에이스	NNG	O
+_	_	_	O
+없이	없이	MAG	O
+_	_	_	O
+시즌	시즌	NNG	O
+을	을	JKO	O
+_	_	_	O
+치르	치르	VV	O
+느라	느라	EC	O
+_	_	_	O
+불펜	불펜	NNG	O
+에	에	JKB	O
+_	_	_	O
+과부하	과부하	NNG	O
+가	가	JKS	O
+_	_	_	O
+걸	걸리	VV	O
+렸	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 아마존의 대자연에서 수확한 희귀한 천연 재료를 베이스로 제조된 다양한 제품이 차세대 히트 아이템 등극을 눈앞에 두고 있다.
+## <아마존:ORG>의 대자연에서 수확한 희귀한 천연 재료를 베이스로 제조된 다양한 제품이 차세대 히트 아이템 등극을 눈앞에 두고 있다.
+아마존	아마존	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+대자연	대자연	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+수확한	수확하+ㄴ	VV+ETM	O
+_	_	_	O
+희귀한	희귀하+ㄴ	VA+ETM	O
+_	_	_	O
+천연	천연	NNG	O
+_	_	_	O
+재료	재료	NNG	O
+를	를	JKO	O
+_	_	_	O
+베이스	베이스	NNG	O
+로	로	JKB	O
+_	_	_	O
+제조된	제조되+ㄴ	VV+ETM	O
+_	_	_	O
+다양한	다양하+ㄴ	VA+ETM	O
+_	_	_	O
+제품	제품	NNG	O
+이	이	JKS	O
+_	_	_	O
+차세대	차세대	NNG	O
+_	_	_	O
+히트	히트	NNG	O
+_	_	_	O
+아이템	아이템	NNG	O
+_	_	_	O
+등극	등극	NNG	O
+을	을	JKO	O
+_	_	_	O
+눈앞	눈앞	NNG	O
+에	에	JKB	O
+_	_	_	O
+두	두	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 한국에서도 먹을 수 있는 오가닉을 고집하는 미국 브랜드가 큰 인기를 얻고 있다고 들었다.
+## <한국:LOC>에서도 먹을 수 있는 오가닉을 고집하는 <미국:LOC> 브랜드가 큰 인기를 얻고 있다고 들었다.
+한국	한국	NNP	B-LOC
+에서	에서	JKB	O
+도	도	JX	O
+_	_	_	O
+먹	먹	VV	O
+을	을	ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+는	는	ETM	O
+_	_	_	O
+오가닉	오가닉	NNG	O
+을	을	JKO	O
+_	_	_	O
+고집하	고집하	VV	O
+는	는	ETM	O
+_	_	_	O
+미국	미국	NNP	B-LOC
+_	_	_	O
+브랜드	브랜드	NNG	O
+가	가	JKS	O
+_	_	_	O
+큰	크+ㄴ	VA+ETM	O
+_	_	_	O
+인기	인기	NNG	O
+를	를	JKO	O
+_	_	_	O
+얻	얻	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다고	다고	EC	O
+_	_	_	O
+들	듣	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 새마을운동은 이제 세계적으로 ‘행정한류’를 상징하는 유명 브랜드가 돼 가요. 여기에 아마 정부3.0도 새 수출품으로 장착될 겁니다.
+## <새마을운동:POH>은 이제 세계적으로 ‘행정한류’를 상징하는 유명 브랜드가 돼 가요. 여기에 아마 <정부3.0:POH>도 새 수출품으로 장착될 겁니다.
+새마을	새마을	NNG	B-POH
+운동	운동	NNG	I-POH
+은	은	JX	O
+_	_	_	O
+이제	이제	MAG	O
+_	_	_	O
+세계적	세계적	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+‘	‘	SS	O
+행정	행정	NNG	O
+한류	한류	NNG	O
+’	’	SS	O
+를	를	JKO	O
+_	_	_	O
+상징하	상징하	VV	O
+는	는	ETM	O
+_	_	_	O
+유명	유명	NNG	O
+_	_	_	O
+브랜드	브랜드	NNG	O
+가	가	JKC	O
+_	_	_	O
+돼	되+어	VV+EC	O
+_	_	_	O
+가요	가+아요	VX+EF	O
+.	.	SF	O
+_	_	_	O
+여기	여기	NP	O
+에	에	JKB	O
+_	_	_	O
+아마	아마	MAG	O
+_	_	_	O
+정부	정부	NNG	B-POH
+3.0	3.0	SN	I-POH
+도	도	NNB	O
+_	_	_	O
+새	새	MM	O
+_	_	_	O
+수출품	수출품	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+장착될	장착되+ㄹ	VV+ETM	O
+_	_	_	O
+겁니다	것+이+ㅂ니다	NNB+VCP+EF	O
+.	.	SF	O
+
+## 6
+## 김흥규 아주대 교수는 “지금은 국제 질서가 요동치면서 차기 정부에서 나라의 운명이 바뀔 수도 있는 절체절명의 시기”라며 “대선 주자들이 실리적, 현실적인 해법을 고민하는지를 검증해야 한다”고 말했다.
+## <김흥규:PER> <아주대:ORG> 교수는 “지금은 국제 질서가 요동치면서 차기 정부에서 나라의 운명이 바뀔 수도 있는 절체절명의 시기”라며 “대선 주자들이 실리적, 현실적인 해법을 고민하는지를 검증해야 한다”고 말했다.
+김흥규	김흥규	NNP	B-PER
+_	_	_	O
+아주대	아주대	NNP	B-ORG
+_	_	_	O
+교수	교수	NNG	O
+는	는	JX	O
+_	_	_	O
+“	“	SS	O
+지금	지금	NNG	O
+은	은	JX	O
+_	_	_	O
+국제	국제	NNG	O
+_	_	_	O
+질서	질서	NNG	O
+가	가	JKS	O
+_	_	_	O
+요동치	요동치	VV	O
+면서	면서	EC	O
+_	_	_	O
+차기	차기	NNG	O
+_	_	_	O
+정부	정부	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+나라	나라	NNG	O
+의	의	JKG	O
+_	_	_	O
+운명	운명	NNG	O
+이	이	JKS	O
+_	_	_	O
+바뀔	바뀌+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+도	도	JX	O
+_	_	_	O
+있	있	VA	O
+는	는	ETM	O
+_	_	_	O
+절체절명	절체절명	NNG	O
+의	의	JKG	O
+_	_	_	O
+시기	시기	NNG	O
+”	”+이	SS+VCP	O
+라며	라며	EC	O
+_	_	_	O
+“	“	SS	O
+대선	대선	NNG	O
+_	_	_	O
+주자	주자	NNG	O
+들	들	XSN	O
+이	이	JKS	O
+_	_	_	O
+실리적	실리적	NNG	O
+,	,	SP	O
+_	_	_	O
+현실적	현실적	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+해법	해법	NNG	O
+을	을	JKO	O
+_	_	_	O
+고민하	고민하	VV	O
+는지	는지	EC	O
+를	를	JKO	O
+_	_	_	O
+검증해야	검증하+여야	VV+EC	O
+_	_	_	O
+한다	하+ㄴ다	VX+EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+말	말하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 하지만 톰슨은 10초71로 가장 먼저 결승선을 통과하며 금메달 후보들을 모두 제치고 ‘깜짝 금메달’의 주인공이 됐다.
+## 하지만 <톰슨:PER>은 <10초71:NOH>로 가장 먼저 결승선을 통과하며 금메달 후보들을 모두 제치고 ‘깜짝 금메달’의 주인공이 됐다.
+하지만	하지만	MAJ	O
+_	_	_	O
+톰슨	톰슨	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+10	10	SN	B-NOH
+초	초	NNB	I-NOH
+71	71	SN	I-NOH
+로	로	JKB	O
+_	_	_	O
+가장	가장	MAG	O
+_	_	_	O
+먼저	먼저	MAG	O
+_	_	_	O
+결승선	결승선	NNG	O
+을	을	JKO	O
+_	_	_	O
+통과하	통과하	VV	O
+며	며	EC	O
+_	_	_	O
+금메달	금메달	NNG	O
+_	_	_	O
+후보	후보	NNG	O
+들	들	XSN	O
+을	을	JKO	O
+_	_	_	O
+모두	모두	MAG	O
+_	_	_	O
+제치	제치	VV	O
+고	고	EC	O
+_	_	_	O
+‘	‘	SS	O
+깜짝	깜짝	MAG	O
+_	_	_	O
+금메달	금메달	NNG	O
+’	’	SS	O
+의	의	JKG	O
+_	_	_	O
+주인공	주인공	NNG	O
+이	이	JKC	O
+_	_	_	O
+됐	+었	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 2010년 데뷔한 커피소년은 ‘아메리카노에게’ ‘웃는다’
+## <2010년:DAT> 데뷔한 <커피소년:PER>은 ‘<아메리카노에게:POH>’ ‘<웃는다:POH>’
+2010	2010	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+데뷔한	데뷔하+ㄴ	VV+ETM	O
+_	_	_	O
+커피	커피	NNG	B-PER
+소년	소년	NNG	I-PER
+은	은	JX	O
+_	_	_	O
+‘	‘	SS	O
+아메리카	아메리카	NNP	B-POH
+노	노	NNP	I-POH
+에게	에게	JKB	I-POH
+’	’	SS	O
+_	_	_	O
+‘	‘	SS	O
+웃	웃	VV	B-POH
+는다	는다	EF	I-POH
+’	’	SS	O
+
+## 9
+## -로봇수술이 주목받는 이유는. 김선한=다양한 첨단기술과 융합하는 분야다.
+## -<로봇:POH>수술이 주목받는 이유는. <김선한:PER>=다양한 첨단기술과 융합하는 분야다.
+-	-	SO	O
+로봇	로봇	NNG	B-POH
+수술	수술	NNG	O
+이	이	JKS	O
+_	_	_	O
+주목	주목	NNG	O
+받	받	VV	O
+는	는	ETM	O
+_	_	_	O
+이유	이유	NNG	O
+는	는	JX	O
+.	.	SF	O
+_	_	_	O
+김선한	김선한	NNP	B-PER
+=	=	SW	O
+다양한	다양하+ㄴ	VA+ETM	O
+_	_	_	O
+첨단	첨단	NNG	O
+기술	기술	NNG	O
+과	과	JC	O
+_	_	_	O
+융합하	융합하	VV	O
+는	는	ETM	O
+_	_	_	O
+분야	분야+이	NNG+VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 미국 개인 정치 기부금 1위다.
+## <미국:LOC> 개인 정치 기부금 <1위:NOH>다.
+미국	미국	NNP	B-LOC
+_	_	_	O
+개	개	NNB	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+정치	정치	NNG	O
+_	_	_	O
+기부금	기부금	NNG	O
+_	_	_	O
+1	1	SN	B-NOH
+위	위+이	NNB+VCP	I-NOH
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 숙련된 기술을 바탕으로 21건의 특허등록 등 혁신기술 개발에 실력을 발휘하고 있다.
+## 숙련된 기술을 바탕으로 <21건:NOH>의 특허등록 등 혁신기술 개발에 실력을 발휘하고 있다.
+숙련된	숙련되+ㄴ	VV+ETM	O
+_	_	_	O
+기술	기술	NNG	O
+을	을	JKO	O
+_	_	_	O
+바탕	바탕	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+21	21	SN	B-NOH
+건	건	NNB	I-NOH
+의	의	JKG	O
+_	_	_	O
+특허	특허	NNG	O
+등록	등록	NNG	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+혁신	혁신	NNG	O
+기술	기술	NNG	O
+_	_	_	O
+개발	개발	NNG	O
+에	에	JKB	O
+_	_	_	O
+실력	실력	NNG	O
+을	을	JKO	O
+_	_	_	O
+발휘하	발휘하	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+

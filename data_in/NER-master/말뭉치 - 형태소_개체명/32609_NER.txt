@@ -1,0 +1,389 @@
+## 1
+## 무엇을 위해 싸우는 건지, 누구와 싸우는 건지, 사람들은 정말 알기나 하는 것일까.』풍요를 마음껏 누리고 사는 한국 어린이들에게 전해주는 바가 많은 책이다.
+## 무엇을 위해 싸우는 건지, 누구와 싸우는 건지, 사람들은 정말 알기나 하는 것일까.』풍요를 마음껏 누리고 사는 <한국:ORG> 어린이들에게 전해주는 바가 많은 책이다.
+무엇	무엇	NP	O
+을	을	JKO	O
+_	_	_	O
+위해	위하+여	VV+EC	O
+_	_	_	O
+싸우	싸우	VV	O
+는	는	ETM	O
+_	_	_	O
+건지	것+이+ㄴ지	NNB+VCP+EC	O
+,	,	SP	O
+_	_	_	O
+누구	누구	NP	O
+와	와	JKB	O
+_	_	_	O
+싸우	싸우	VV	O
+는	는	ETM	O
+_	_	_	O
+건지	것+이+ㄴ지	NNB+VCP+EC	O
+,	,	SP	O
+_	_	_	O
+사람	사람	NNG	O
+들	들	XSN	O
+은	은	JX	O
+_	_	_	O
+정말	정말	MAG	O
+_	_	_	O
+알	알	VV	O
+기	기	ETN	O
+나	나	JX	O
+_	_	_	O
+하	하	VX	O
+는	는	ETM	O
+_	_	_	O
+것	것	NNB	O
+일까	이+ㄹ까	VCP+EF	O
+.	.	SF	O
+』	』	SS	O
+풍요	풍요	NNG	O
+를	를	JKO	O
+_	_	_	O
+마음껏	마음껏	MAG	O
+_	_	_	O
+누리	누리	VV	O
+고	고	EC	O
+_	_	_	O
+사	살	VV	O
+는	는	ETM	O
+_	_	_	O
+한국	한국	NNP	B-ORG
+_	_	_	O
+어린이	어린이	NNG	O
+들	들	XSN	O
+에게	에게	JKB	O
+_	_	_	O
+전해	전하+여	VV+EC	O
+주	주	VX	O
+는	는	ETM	O
+_	_	_	O
+바	바	NNB	O
+가	가	JKS	O
+_	_	_	O
+많	많	VA	O
+은	은	ETM	O
+_	_	_	O
+책	책	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 좌하귀에서 알파고는 흑 35부터 39까지 선수했다.
+## 좌하귀에서 <알파고:POH>는 <흑 35:NOH>부터 <39:NOH>까지 선수했다.
+좌	좌	NNG	O
+하	하	NNG	O
+귀	귀	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+알파	알파	NNP	B-POH
+고	고	NNP	I-POH
+는	는	JX	O
+_	_	_	O
+흑	흑	NNG	B-NOH
+_	_	_	I-NOH
+35	35	SN	I-NOH
+부터	부터	JX	O
+_	_	_	O
+39	39	SN	B-NOH
+까지	까지	JX	O
+_	_	_	O
+선수	선수하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 모두가 남자배우라면 한번쯤 꿈꾸는 배역들이다.
+## 모두가 남자배우라면 <한번:NOH>쯤 꿈꾸는 배역들이다.
+모두	모두	NNG	O
+가	가	JKS	O
+_	_	_	O
+남자	남자	NNG	O
+배우	배우+이	NNG+VCP	O
+라면	라면	EC	O
+_	_	_	O
+한번	한번	NNG	B-NOH
+쯤	쯤	XSN	O
+_	_	_	O
+꿈꾸	꿈꾸	VV	O
+는	는	ETM	O
+_	_	_	O
+배역	배역	NNG	O
+들	들	XSN	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 배에서 내리자마자 ‘百濟武寧王生誕地(백제무령왕생탄지)’라고 새겨진 커다란 기념비가 보였다.
+## 배에서 내리자마자 ‘<百濟武寧王生誕地:POH>(<백제무령왕생탄지:POH>)’라고 새겨진 커다란 기념비가 보였다.
+배	배	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+내리	내리	VV	O
+자마자	자마자	EC	O
+_	_	_	O
+‘	‘	SS	O
+百濟武寧王生誕地	百濟武寧王生誕地	SH	B-POH
+(	(	SS	O
+백제	백제	NNP	B-POH
+무령왕	무령왕	NNP	I-POH
+생탄	생탄	NNG	I-POH
+지	지	XSN	I-POH
+)	)	SS	O
+’	’	SS	O
+라고	라고	JKQ	O
+_	_	_	O
+새겨	새기+어	VV+EC	O
+진	지+ㄴ	VX+ETM	O
+_	_	_	O
+커다란	커다랗+ㄴ	VA+ETM	O
+_	_	_	O
+기념비	기념비	NNG	O
+가	가	JKS	O
+_	_	_	O
+보	보이	VV	O
+였	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 오비서관을 만나고 경찰서에 찾아가 담당자를 만나야겠다고 생각했었다.
+## <오:PER>비서관을 만나고 경찰서에 찾아가 담당자를 만나야겠다고 생각했었다.
+오	오	NNP	B-PER
+비서관	비서관	NNG	O
+을	을	JKO	O
+_	_	_	O
+만나	만나	VV	O
+고	고	EC	O
+_	_	_	O
+경찰서	경찰서	NNG	O
+에	에	JKB	O
+_	_	_	O
+찾아가	찾아가+아	VV+EC	O
+_	_	_	O
+담당자	담당자	NNG	O
+를	를	JKO	O
+_	_	_	O
+만나야	만나+아야+하	VV+EC+VX	O
+겠	겠	EP	O
+다고	다고	EC	O
+_	_	_	O
+생각	생각하	VV	O
+했었	었었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 삼성 이승엽(39)이 함께 등산을 하고 나서 “등산 안내원인 줄 알았다”고 할 정도였다.
+## <삼성:ORG> <이승엽:PER>(<39:NOH>)이 함께 등산을 하고 나서 “등산 안내원인 줄 알았다”고 할 정도였다.
+삼성	삼성	NNP	B-ORG
+_	_	_	O
+이승엽	이승엽	NNP	B-PER
+(	(	SS	O
+39	39	SN	B-NOH
+)	)	SS	O
+이	이	JKS	O
+_	_	_	O
+함께	함께	MAG	O
+_	_	_	O
+등산	등산	NNG	O
+을	을	JKO	O
+_	_	_	O
+하	하	VV	O
+고	고	EC	O
+_	_	_	O
+나서	나서+어	VV+EC	O
+_	_	_	O
+“	“	SS	O
+등산	등산	NNG	O
+_	_	_	O
+안내원	안내원	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+줄	줄	NNB	O
+_	_	_	O
+알	알	VV	O
+았	았	EP	O
+다	다	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+할	하+ㄹ	VV+ETM	O
+_	_	_	O
+정도	정도+이	NNG+VCP	O
+였	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## KBL이 홈 어드밴티지에 대해선 인정하지 않았으나, 심판들이 소문 등 무엇인가에 영향을 받을 정도로 자질이 부족하다는 것을 인정한 셈이다”고 꼬집었다.
+## <KBL:ORG>이 홈 어드밴티지에 대해선 인정하지 않았으나, 심판들이 소문 등 무엇인가에 영향을 받을 정도로 자질이 부족하다는 것을 인정한 셈이다”고 꼬집었다.
+KBL	KBL	SL	B-ORG
+이	이	JKS	O
+_	_	_	O
+홈	홈	NNG	O
+_	_	_	O
+어드밴티지	어드밴티지	NNG	O
+에	에	JKB	O
+_	_	_	O
+대해선	대하+여서+ㄴ	VV+EC+JX	O
+_	_	_	O
+인정하	인정하	VV	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+았	았	EP	O
+으나	으나	EC	O
+,	,	SP	O
+_	_	_	O
+심판	심판	NNG	O
+들	들	XSN	O
+이	이	JKS	O
+_	_	_	O
+소문	소문	NNG	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+무엇	무엇	NP	O
+인가	이+ㄴ가	VCP+EC	O
+에	에	JKB	O
+_	_	_	O
+영향	영향	NNG	O
+을	을	JKO	O
+_	_	_	O
+받	받	VV	O
+을	을	ETM	O
+_	_	_	O
+정도	정도	NNG	O
+로	로	JKB	O
+_	_	_	O
+자질	자질	NNG	O
+이	이	JKS	O
+_	_	_	O
+부족하	부족하	VA	O
+다는	다는	ETM	O
+_	_	_	O
+것	것	NNB	O
+을	을	JKO	O
+_	_	_	O
+인정한	인정하+ㄴ	VV+ETM	O
+_	_	_	O
+셈	셈	NNB	O
+이	이	VCP	O
+다	다	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+꼬집	꼬집	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 한편 이날 차기 대통령으로 누가 당선될 것으로 예측하느냐는 질문에 유 의원은 “내가 될 것”이라고 말했다.
+## 한편 이날 차기 대통령으로 누가 당선될 것으로 예측하느냐는 질문에 <유:PER> 의원은 “내가 될 것”이라고 말했다.
+한편	한편	MAG	O
+_	_	_	O
+이날	이날	NNG	O
+_	_	_	O
+차기	차기	NNG	O
+_	_	_	O
+대통령	대통령	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+누	누구	NP	O
+가	가	JKS	O
+_	_	_	O
+당선될	당선되+ㄹ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+예측하	예측하	VV	O
+느냐는	느냐는	ETM	O
+_	_	_	O
+질문	질문	NNG	O
+에	에	JKB	O
+_	_	_	O
+유	유	NNP	B-PER
+_	_	_	O
+의원	의원	NNG	O
+은	은	JX	O
+_	_	_	O
+“	“	SS	O
+내	내	NP	O
+가	가	JKC	O
+_	_	_	O
+될	되+ㄹ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+”	”	SS	O
+이라고	이라고	JKQ	O
+_	_	_	O
+말	말하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 기습 한파와 폭설에 꽁꽁 묶여있던 제주공항의 운항중단이 25일 오후 드디어 풀렸다.
+## 기습 한파와 폭설에 꽁꽁 묶여있던 <제주공항:ORG>의 운항중단이 <25일:DAT> 오후 드디어 풀렸다.
+기습	기습	NNG	O
+_	_	_	O
+한파	한파	NNG	O
+와	와	JC	O
+_	_	_	O
+폭설	폭설	NNG	O
+에	에	JKB	O
+_	_	_	O
+꽁꽁	꽁꽁	MAG	O
+_	_	_	O
+묶	묶이	VV	O
+여	어	EC	O
+있	있	VX	O
+던	던	ETM	O
+_	_	_	O
+제주	제주	NNP	B-ORG
+공항	공항	NNG	I-ORG
+의	의	JKG	O
+_	_	_	O
+운항	운항	NNG	O
+중단	중단	NNG	O
+이	이	JKS	O
+_	_	_	O
+25	25	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+오후	오후	NNG	O
+_	_	_	O
+드디어	드디어	MAG	O
+_	_	_	O
+풀	풀리	VV	O
+렸	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## “140자는 매우 강력한 의사소통 방식이다.
+## “<140자:NOH>는 매우 강력한 의사소통 방식이다.
+“	“	SS	O
+140	140	SN	B-NOH
+자	자	NNB	I-NOH
+는	는	JX	O
+_	_	_	O
+매우	매우	MAG	O
+_	_	_	O
+강력한	강력하+ㄴ	VA+ETM	O
+_	_	_	O
+의사	의사	NNG	O
+소통	소통	NNG	O
+_	_	_	O
+방식	방식	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+

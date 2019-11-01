@@ -1,0 +1,313 @@
+## 1
+## 10일 현재 4185개의 반사패널이 설치됐다.
+## <10일:DAT> 현재 <4185개:NOH>의 반사패널이 설치됐다.
+10	10	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+현재	현재	MAG	O
+_	_	_	O
+4185	4185	SN	B-NOH
+개	개	NNB	I-NOH
+의	의	JKG	O
+_	_	_	O
+반사	반사	NNG	O
+패널	패널	NNG	O
+이	이	JKS	O
+_	_	_	O
+설치	설치되	VV	O
+됐	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 울산 현대 청운고등학교 편 방송 말미에는 다음 이야기의 예고편이 공개가 되었다.
+## <울산 현대 청운고등학교:ORG> 편 방송 말미에는 다음 이야기의 예고편이 공개가 되었다.
+울산	울산	NNP	B-ORG
+_	_	_	I-ORG
+현대	현대	NNP	I-ORG
+_	_	_	I-ORG
+청운	청운	NNG	I-ORG
+고등학교	고등학교	NNG	I-ORG
+_	_	_	O
+편	편	NNB	O
+_	_	_	O
+방송	방송	NNG	O
+_	_	_	O
+말미	말미	NNG	O
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+다음	다음	NNG	O
+_	_	_	O
+이야기	이야기	NNG	O
+의	의	JKG	O
+_	_	_	O
+예고편	예고편	NNG	O
+이	이	JKC	O
+_	_	_	O
+공개	공개	NNG	O
+가	가	JKC	O
+_	_	_	O
+되	되	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## '학교 다녀오겠습니다'
+## '<학교 다녀오겠습니다:POH>'
+'	'	SS	O
+학교	학교	NNG	B-POH
+_	_	_	I-POH
+다녀오	다녀오	VV	I-POH
+겠	겠	EP	I-POH
+습니다	습니다	EF	I-POH
+'	'	SS	O
+
+## 4
+## 한편 KT는 이번 MWC에서 SK텔레콤은 물론 일본 NTT도코모, 미국 버라이즌 등 한미일 대표 통신사를 주축으로 5G시범서비스 규격연합(TSA)을 결성키로 합의했다.
+## 한편 <KT:ORG>는 이번 <MWC:ORG>에서 <SK텔레콤:ORG>은 물론 <일본 NTT도코모:ORG>, <미국 버라이즌:ORG> 등 <한미일:ORG> 대표 통신사를 주축으로 <5G시범서비스 규격연합:ORG>(<TSA:ORG>)을 결성키로 합의했다.
+한편	한편	MAG	O
+_	_	_	O
+KT	KT	SL	B-ORG
+는	는	JX	O
+_	_	_	O
+이번	이번	NNG	O
+_	_	_	O
+MWC	MWC	SL	B-ORG
+에서	에서	JKB	O
+_	_	_	O
+SK	SK	SL	B-ORG
+텔레콤	텔레콤	NNG	I-ORG
+은	은	JX	O
+_	_	_	O
+물론	물론	MAG	O
+_	_	_	O
+일본	일본	NNP	B-ORG
+_	_	_	I-ORG
+NTT	NTT	SL	I-ORG
+도코모	도코모	NNP	I-ORG
+,	,	SP	O
+_	_	_	O
+미국	미국	NNP	B-ORG
+_	_	_	I-ORG
+버라이즌	버라이즌	NNG	I-ORG
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+한미	한미	NNP	B-ORG
+일	일	NNP	I-ORG
+_	_	_	O
+대표	대표	NNG	O
+_	_	_	O
+통신사	통신사	NNG	O
+를	를	JKO	O
+_	_	_	O
+주축	주축	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+5	5	SN	B-ORG
+G	G	SL	I-ORG
+시범	시범	NNG	I-ORG
+서비스	서비스	NNG	I-ORG
+_	_	_	I-ORG
+규격	규격	NNG	I-ORG
+연합	연합	NNG	I-ORG
+(	(	SS	O
+TSA	TSA	SL	B-ORG
+)	)	SS	O
+을	을	JKO	O
+_	_	_	O
+결성	결성하	VV	O
+키	기	ETN	O
+로	로	JKB	O
+_	_	_	O
+합의	합의하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## “‘하랑’이라는 작가를 아세요?”“처음 듣는 이름인걸.”“샌드 일러스트를 하는 사람인데 혹시 버스에서 영상을 본 적 없어요?”버스라는 얘기에 귀가 번쩍 뜨였다.
+## “‘<하랑:PER>’이라는 작가를 아세요?”“처음 듣는 이름인걸.”“샌드 일러스트를 하는 사람인데 혹시 버스에서 영상을 본 적 없어요?”버스라는 얘기에 귀가 번쩍 뜨였다.
+“	“	SS	O
+‘	‘	SS	O
+하	하	XSA	B-PER
+랑	랑	JKB	I-PER
+’	’	SS	O
+이	이	VCP	O
+라는	라는	ETM	O
+_	_	_	O
+작가	작가	NNG	O
+를	를	JKO	O
+_	_	_	O
+아	알	VV	O
+세요	세요	EF	O
+?	?	SF	O
+”	”	SS	O
+“	“	SS	O
+처음	처음	NNG	O
+_	_	_	O
+듣	듣	VV	O
+는	는	ETM	O
+_	_	_	O
+이름	이름	NNG	O
+인걸	이+ㄴ걸	VCP+EF	O
+.	.	SF	O
+”	”	SS	O
+“	“	SS	O
+샌드	샌드	NNG	O
+_	_	_	O
+일러스트	일러스트	NNG	O
+를	를	JKO	O
+_	_	_	O
+하	하	VV	O
+는	는	ETM	O
+_	_	_	O
+사람	사람	NNG	O
+인데	이+ㄴ데	VCP+EC	O
+_	_	_	O
+혹시	혹시	MAG	O
+_	_	_	O
+버스	버스	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+영상	영상	NNG	O
+을	을	JKO	O
+_	_	_	O
+본	보+ㄴ	VV+ETM	O
+_	_	_	O
+적	적	NNB	O
+_	_	_	O
+없	없	VA	O
+어요	어요	EF	O
+?	?	SF	O
+”	”	SS	O
+버스	버스+이	NNG+VCP	O
+라는	라는	ETM	O
+_	_	_	O
+얘기	얘기	NNG	O
+에	에	JKB	O
+_	_	_	O
+귀	귀	NNG	O
+가	가	JKS	O
+_	_	_	O
+번쩍	번쩍	MAG	O
+_	_	_	O
+뜨	뜨이	VV	O
+였	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 모래를 흩뿌리고 손으로 쓱싹 쓱싹하면 남산타워가 되고,또 손이 왔다 갔다 하면 남대문이 떡하니 나타났다.
+## 모래를 흩뿌리고 손으로 쓱싹 쓱싹하면 <남산타워:LOC>가 되고,또 손이 왔다 갔다 하면 <남대문:LOC>이 떡하니 나타났다.
+모래	모래	NNG	O
+를	를	JKO	O
+_	_	_	O
+흩뿌리	흩뿌리	VV	O
+고	고	EC	O
+_	_	_	O
+손	손	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+쓱싹	쓱싹	MAG	O
+_	_	_	O
+쓱싹하	쓱싹하	VV	O
+면	면	EC	O
+_	_	_	O
+남산	남산	NNG	B-LOC
+타워	타워	NNG	I-LOC
+가	가	JKC	O
+_	_	_	O
+되	되	VV	O
+고	고	EC	O
+,	,	SP	O
+또	또	MAG	O
+_	_	_	O
+손	손	NNB	O
+이	이	JKS	O
+_	_	_	O
+왔	+았	+EP	O
+다	다	EC	O
+_	_	_	O
+갔	가+았	VV+EP	O
+다	다	EC	O
+_	_	_	O
+하	하	VV	O
+면	면	EC	O
+_	_	_	O
+남대문	남대문	NNP	B-LOC
+이	이	JKS	O
+_	_	_	O
+떡하니	떡하니	MAG	O
+_	_	_	O
+나타났	나타나+았	VV+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 마법 같던 그 손의 주인공이 “하랑’이라는 얘기였다.
+## 마법 같던 그 손의 주인공이 “<하랑:PER>’이라는 얘기였다.
+마법	마법	NNG	O
+_	_	_	O
+같	같	VA	O
+던	던	ETM	O
+_	_	_	O
+그	그	MM	O
+_	_	_	O
+손	손	NNG	O
+의	의	JKG	O
+_	_	_	O
+주인공	주인공	NNG	O
+이	이	JKS	O
+_	_	_	O
+“	“	SS	O
+하	하	XSA	B-PER
+랑	랑	JKB	I-PER
+’	’	SS	O
+이	이	VCP	O
+라는	라는	ETM	O
+_	_	_	O
+얘기	얘기+이	NNG+VCP	O
+였	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 취재차 그의 작업실을 방문하기 전에 ‘하랑’이라는 단어로 검색을 해보았다.
+## 취재차 그의 작업실을 방문하기 전에 ‘<하랑:PER>’이라는 단어로 검색을 해보았다.
+취재	취재	NNG	O
+차	차	XSN	O
+_	_	_	O
+그	그	NP	O
+의	의	JKG	O
+_	_	_	O
+작업실	작업실	NNG	O
+을	을	JKO	O
+_	_	_	O
+방문하	방문하	VV	O
+기	기	ETN	O
+_	_	_	O
+전	전	NNG	O
+에	에	JKB	O
+_	_	_	O
+‘	‘	SS	O
+하	하	XSA	B-PER
+랑	랑	JKB	I-PER
+’	’	SS	O
+이	이	VCP	O
+라는	라는	ETM	O
+_	_	_	O
+단어	단어	NNG	O
+로	로	JKB	O
+_	_	_	O
+검색	검색	NNG	O
+을	을	JKO	O
+_	_	_	O
+해	하+여	VV+EC	O
+보	보	VX	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+

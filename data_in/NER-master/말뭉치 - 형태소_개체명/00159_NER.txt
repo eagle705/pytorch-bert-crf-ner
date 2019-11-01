@@ -1,0 +1,409 @@
+## 1
+## 지금도 머스크가 어디선가 엉뚱한 공상으로 임직원을 닦달하고 있는 한 말이다.
+## 지금도 <머스크:PER>가 어디선가 엉뚱한 공상으로 임직원을 닦달하고 있는 한 말이다.
+지금	지금	NNG	O
+도	도	JX	O
+_	_	_	O
+머스크	머스크	NNP	B-PER
+가	가	JKS	O
+_	_	_	O
+어디	어디	NP	O
+선가	서+이+ㄴ가	JKB+VCP+EC	O
+_	_	_	O
+엉뚱한	엉뚱하+ㄴ	VA+ETM	O
+_	_	_	O
+공상	공상	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+임직원	임직원	NNG	O
+을	을	JKO	O
+_	_	_	O
+닦달하	닦달하	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+는	는	ETM	O
+_	_	_	O
+한	한	MM	O
+_	_	_	O
+말	말	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 회원이 페이스북에 ‘누가 됐건 무슬림은 다 죽었네’라는 댓글을 올렸다.
+## 회원이 <페이스북:POH>에 ‘누가 됐건 <무슬림:ORG>은 다 죽었네’라는 댓글을 올렸다.
+회원	회원	NNG	O
+이	이	JKC	O
+_	_	_	O
+페이스북	페이스북	NNP	B-POH
+에	에	JKB	O
+_	_	_	O
+‘	‘	SS	O
+누	누구	NP	O
+가	가	JKC	O
+_	_	_	O
+됐	+었	+EP	O
+건	건	EC	O
+_	_	_	O
+무슬림	무슬림	NNG	B-ORG
+은	은	JX	O
+_	_	_	O
+다	다	MAG	O
+_	_	_	O
+죽	죽	VV	O
+었	었	EP	O
+네	네	EF	O
+’	’+이	SS+VCP	O
+라는	라는	ETM	O
+_	_	_	O
+댓글	댓글	NNG	O
+을	을	JKO	O
+_	_	_	O
+올	올리	VV	O
+렸	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## [화제의 분양현장]동작 ‘보라매 파크시티’
+## [화제의 분양현장]<동작:LOC> ‘<보라매 파크시티:POH>’
+[	[	SS	O
+화제	화제	NNG	O
+의	의	JKG	O
+_	_	_	O
+분양	분양	NNG	O
+현장	현장	NNG	O
+]	]	SS	O
+동작	동작	NNG	B-LOC
+_	_	_	O
+‘	‘	SS	O
+보라매	보라매	NNP	B-POH
+_	_	_	I-POH
+파크시티	파크시티	NNP	I-POH
+’	’	SS	O
+
+## 4
+## 자기유체는 나노미터(㎚, 1㎚=10억 분의 1m) 크기의 산화철이 들어있어 외부에서 자기장을 걸면 마치 자석처럼 바뀌는 액체를 가리킨다.
+## 자기유체는 나노미터(㎚, <1㎚:NOH>=<10억 분의 1m:PNT>) 크기의 산화철이 들어있어 외부에서 자기장을 걸면 마치 자석처럼 바뀌는 액체를 가리킨다.
+자기	자기	NNG	O
+유체	유체	NNG	O
+는	는	JX	O
+_	_	_	O
+나노미터	나노미터	NNB	O
+(	(	SS	O
+㎚	㎚	SW	O
+,	,	SP	O
+_	_	_	O
+1	1	SN	B-NOH
+㎚	㎚	SW	I-NOH
+=	=	SW	O
+10	10	SN	B-PNT
+억	억	NR	I-PNT
+_	_	_	I-PNT
+분	분	XSN	I-PNT
+의	의	JKG	I-PNT
+_	_	_	I-PNT
+1	1	SN	I-PNT
+m	m	SL	I-PNT
+)	)	SS	O
+_	_	_	O
+크기	크기	NNG	O
+의	의	JKG	O
+_	_	_	O
+산화철	산화철	NNG	O
+이	이	JKS	O
+_	_	_	O
+들	들	VV	O
+어	어	EC	O
+있	있	VX	O
+어	어	EC	O
+_	_	_	O
+외부	외부	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+자기장	자기장	NNG	O
+을	을	JKO	O
+_	_	_	O
+걸	걸	VV	O
+면	면	EC	O
+_	_	_	O
+마치	마치	MAG	O
+_	_	_	O
+자석	자석	NNG	O
+처럼	처럼	JKB	O
+_	_	_	O
+바뀌	바뀌	VV	O
+는	는	ETM	O
+_	_	_	O
+액체	액체	NNG	O
+를	를	JKO	O
+_	_	_	O
+가리킨다	가리키+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 5
+## 삼광글라스(대표 이도행)는 독일 프랑크푸르트에서 열리는 ‘2016 독일 엠비엔테(2016 Ambiente)’ 전시회에 참가한다고 15일 밝혔다.
+## <삼광글라스:ORG>(대표 <이도행:PER>)는 <독일 프랑크푸르트:LOC>에서 열리는 ‘<2016:DAT> <독일 엠비엔테:POH>(<2016:DAT> <Ambiente:POH>)’ 전시회에 참가한다고 <15일:DAT> 밝혔다.
+삼광	삼광	NNP	B-ORG
+글라스	글라스	NNG	I-ORG
+(	(	SS	O
+대표	대표	NNG	O
+_	_	_	O
+이도행	이도행	NNP	B-PER
+)	)	SS	O
+는	는	JX	O
+_	_	_	O
+독일	독일	NNP	B-LOC
+_	_	_	I-LOC
+프랑크푸르트	프랑크푸르트	NNP	I-LOC
+에서	에서	JKB	O
+_	_	_	O
+열리	열리	VV	O
+는	는	ETM	O
+_	_	_	O
+‘	‘	SS	O
+2016	2016	SN	B-DAT
+_	_	_	O
+독일	독일	NNP	B-POH
+_	_	_	I-POH
+엠비엔	엠비엔	NNP	I-POH
+테	터+이	NNB+VCP	I-POH
+(	(	SS	O
+2016	2016	SN	B-DAT
+_	_	_	O
+Ambiente	Ambiente	SL	B-POH
+)	)	SS	O
+’	’	SS	O
+_	_	_	O
+전시회	전시회	NNG	O
+에	에	JKB	O
+_	_	_	O
+참가한다고	참가하+ㄴ다고	VV+EC	O
+_	_	_	O
+15	15	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+밝	밝히	VV	O
+혔	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 특히 박 전 대표의 ‘성추행’ 의혹이 그랬다.
+## 특히 <박:PER> 전 대표의 ‘성추행’ 의혹이 그랬다.
+특히	특히	MAG	O
+_	_	_	O
+박	박	NNP	B-PER
+_	_	_	O
+전	전	MM	O
+_	_	_	O
+대표	대표	NNG	O
+의	의	JKG	O
+_	_	_	O
+‘	‘	SS	O
+성추행	성추행	NNG	O
+’	’	SS	O
+_	_	_	O
+의혹	의혹	NNG	O
+이	이	JKS	O
+_	_	_	O
+그	그렇	VA	O
+랬	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 네 차례에 걸쳐 진행되는 지역 순회 경선은 27일 광주부터 시작된다.
+## <네 차례:NOH>에 걸쳐 진행되는 지역 순회 경선은 <27일:DAT> <광주:LOC>부터 시작된다.
+네	네	MM	B-NOH
+_	_	_	I-NOH
+차례	차례	NNG	I-NOH
+에	에	JKB	O
+_	_	_	O
+걸쳐	걸치+어	VV+EC	O
+_	_	_	O
+진행되	진행되	VV	O
+는	는	ETM	O
+_	_	_	O
+지역	지역	NNG	O
+_	_	_	O
+순회	순회	NNG	O
+_	_	_	O
+경선	경선	NNG	O
+은	은	JX	O
+_	_	_	O
+27	27	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+광주	광주	NNP	B-LOC
+부터	부터	JX	O
+_	_	_	O
+시작된다	시작되+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 8
+## 특히 추석을 앞두고 다양한 구성의 글라스락 홈세트는 매일 판매 1시간 만에 매진되는 등 큰 인기를 끌었다.
+## 특히 <추석:DAT>을 앞두고 다양한 구성의 글라스락 홈세트는 매일 판매 <1시간:DUR> 만에 매진되는 등 큰 인기를 끌었다.
+특히	특히	MAG	O
+_	_	_	O
+추석	추석	NNG	B-DAT
+을	을	JKO	O
+_	_	_	O
+앞두	앞두	VV	O
+고	고	EC	O
+_	_	_	O
+다양한	다양하+ㄴ	VA+ETM	O
+_	_	_	O
+구성	구성	NNG	O
+의	의	JKG	O
+_	_	_	O
+글라스	글라스	NNG	O
+락	락	NNG	O
+_	_	_	O
+홈	홈	NNG	O
+세트	세트	NNG	O
+는	는	JX	O
+_	_	_	O
+매일	매일	MAG	O
+_	_	_	O
+판매	판매	NNG	O
+_	_	_	O
+1	1	SN	B-DUR
+시간	시간	NNB	I-DUR
+_	_	_	O
+만	만	NNB	O
+에	에	JKB	O
+_	_	_	O
+매진되	매진되	VV	O
+는	는	ETM	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+큰	크+ㄴ	VA+ETM	O
+_	_	_	O
+인기	인기	NNG	O
+를	를	JKO	O
+_	_	_	O
+끌	끌	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 알리바바닷컴의 Wholesale는 중소기업들이 브랜드 관리 능력을 인정받은 전세계 50개 기업을 통해 브랜드 상품을 구입할 수 있도록 한 것인데, 여기에 멤버쉽컴퍼니가 포함됐다.
+## <알리바바닷컴:ORG>의 Wholesale는 중소기업들이 브랜드 관리 능력을 인정받은 전세계 <50개:NOH> 기업을 통해 브랜드 상품을 구입할 수 있도록 한 것인데, 여기에 <멤버쉽컴퍼니:ORG>가 포함됐다.
+알리바바	알리바바	NNP	B-ORG
+닷컴	닷컴	NNG	I-ORG
+의	의	JKG	O
+_	_	_	O
+Wholesale	Wholesale	SL	O
+는	는	JX	O
+_	_	_	O
+중소기업	중소기업	NNG	O
+들	들	XSN	O
+이	이	JKS	O
+_	_	_	O
+브랜드	브랜드	NNG	O
+_	_	_	O
+관리	관리	NNG	O
+_	_	_	O
+능력	능력	NNG	O
+을	을	JKO	O
+_	_	_	O
+인정받	인정받	VV	O
+은	은	ETM	O
+_	_	_	O
+전	전	MM	O
+세계	세계	NNG	O
+_	_	_	O
+50	50	SN	B-NOH
+개	개	NNB	I-NOH
+_	_	_	O
+기업	기업	NNG	O
+을	을	JKO	O
+_	_	_	O
+통해	통하+여	VV+EC	O
+_	_	_	O
+브랜드	브랜드	NNG	O
+_	_	_	O
+상품	상품	NNG	O
+을	을	JKO	O
+_	_	_	O
+구입할	구입하+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+도록	도록	EC	O
+_	_	_	O
+한	하+ㄴ	VX+ETM	O
+_	_	_	O
+것	것	NNB	O
+인데	이+ㄴ데	VCP+EC	O
+,	,	SP	O
+_	_	_	O
+여기	여기	NP	O
+에	에	JKB	O
+_	_	_	O
+멤버	멤버	NNG	B-ORG
+쉽	쉽	NNG	I-ORG
+컴퍼니	컴퍼니	NNG	I-ORG
+가	가	JKS	O
+_	_	_	O
+포함	포함되	VV	O
+됐	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 윤석민 복귀 내막… 이미 지난달 협상 완료?
+## <윤석민:PER> 복귀 내막… 이미 지난달 협상 완료?
+윤석민	윤석민	NNP	B-PER
+_	_	_	O
+복귀	복귀	NNG	O
+_	_	_	O
+내막	내막	NNG	O
+…	…	SE	O
+_	_	_	O
+이미	이미	MAG	O
+_	_	_	O
+지난달	지난달	NNG	O
+_	_	_	O
+협상	협상	NNG	O
+_	_	_	O
+완료	완료	NNG	O
+?	?	SF	O
+
+## 11
+## 내 활동 초기에 200만∼300만 원이었는데 별로 오르지 않았다.
+## 내 활동 초기에 <200만:MNY>∼<300만 원:MNY>이었는데 별로 오르지 않았다.
+내	나+의	NP+JKG	O
+_	_	_	O
+활동	활동	NNG	O
+_	_	_	O
+초기	초기	NNG	O
+에	에	JKB	O
+_	_	_	O
+200	200	SN	B-MNY
+만	만	NR	I-MNY
+∼	∼	SO	O
+300	300	SN	B-MNY
+만	만	NR	I-MNY
+_	_	_	I-MNY
+원	원	NNB	I-MNY
+이	이	VCP	O
+었	었	EP	O
+는데	는데	EC	O
+_	_	_	O
+별로	별로	MAG	O
+_	_	_	O
+오르	오르	VV	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+

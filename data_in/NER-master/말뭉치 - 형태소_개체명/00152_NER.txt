@@ -1,0 +1,450 @@
+## 1
+## ” 변호사 신모 씨(52)는 2008년 7월 서울 영등포구치소에서 사기 혐의 등으로 구속돼 있던 오모 씨를 접견해 이같이 말하며 로비 명목으로 1억 원을 요구했다.
+## ” 변호사 <신모:PER> 씨(<52:NOH>)는 <2008년 7월:DAT> <서울 영등포구치소:ORG>에서 사기 혐의 등으로 구속돼 있던 <오모:PER> 씨를 접견해 이같이 말하며 로비 명목으로 <1억 원:MNY>을 요구했다.
+”	”	SS	O
+_	_	_	O
+변호사	변호사	NNG	O
+_	_	_	O
+신	신	XPN	B-PER
+모	모	NNG	I-PER
+_	_	_	O
+씨	씨	NNB	O
+(	(	SS	O
+52	52	SN	B-NOH
+)	)	SS	O
+는	는	JX	O
+_	_	_	O
+2008	2008	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	I-DAT
+7	7	SN	I-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+서울	서울	NNP	B-ORG
+_	_	_	I-ORG
+영등포	영등포	NNP	I-ORG
+구치소	구치소	NNG	I-ORG
+에서	에서	JKB	O
+_	_	_	O
+사기	사기	NNG	O
+_	_	_	O
+혐의	혐의	NNG	O
+_	_	_	O
+등	등	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+구속돼	구속되+어	VV+EC	O
+_	_	_	O
+있	있	VX	O
+던	던	ETM	O
+_	_	_	O
+오	오	NNP	B-PER
+모	모	NP	I-PER
+_	_	_	O
+씨	씨	NNG	O
+를	를	JKO	O
+_	_	_	O
+접견해	접견하+여	VV+EC	O
+_	_	_	O
+이	이	NP	O
+같이	같이	JKB	O
+_	_	_	O
+말하	말하	VV	O
+며	며	EC	O
+_	_	_	O
+로비	로비	NNG	O
+_	_	_	O
+명목	명목	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+1	1	SN	B-MNY
+억	억	NR	I-MNY
+_	_	_	I-MNY
+원	원	NNB	I-MNY
+을	을	JKO	O
+_	_	_	O
+요구	요구하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 경찰은 A 씨에 대한 음주측정 결과 혈중알코올 농도가 면허정지에 해당하는 수치가 나왔다고 밝혔다.
+## 경찰은 <A:PER> 씨에 대한 음주측정 결과 혈중알코올 농도가 면허정지에 해당하는 수치가 나왔다고 밝혔다.
+경찰	경찰	NNG	O
+은	은	JX	O
+_	_	_	O
+A	A	SL	B-PER
+_	_	_	O
+씨	씨	NNB	O
+에	에	JKB	O
+_	_	_	O
+대한	대하+ㄴ	VV+ETM	O
+_	_	_	O
+음주	음주	NNG	O
+측정	측정	NNG	O
+_	_	_	O
+결과	결과	NNG	O
+_	_	_	O
+혈중	혈중	NNG	O
+알코올	알코올	NNG	O
+_	_	_	O
+농도	농도	NNG	O
+가	가	JKS	O
+_	_	_	O
+면허	면허	NNG	O
+정지	정지	NNG	O
+에	에	JKB	O
+_	_	_	O
+해당하	해당하	VV	O
+는	는	ETM	O
+_	_	_	O
+수치	수치	NNG	O
+가	가	JKS	O
+_	_	_	O
+나	나오	VV	O
+왔	았	EP	O
+다고	다고	EC	O
+_	_	_	O
+밝	밝히	VV	O
+혔	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 미국프로골프(PGA) 투어에서도 다양한 스포츠 뉴트리션 제품을 먹으면서 움직인다.
+## <미국프로골프:ORG>(<PGA:ORG>) 투어에서도 다양한 스포츠 뉴트리션 제품을 먹으면서 움직인다.
+미국	미국	NNP	B-ORG
+프로	프로	NNG	I-ORG
+골프	골프	NNG	I-ORG
+(	(	SS	O
+PGA	PGA	SL	B-ORG
+)	)	SS	O
+_	_	_	O
+투어	투어	NNG	O
+에서	에서	JKB	O
+도	도	JX	O
+_	_	_	O
+다양한	다양하+ㄴ	VA+ETM	O
+_	_	_	O
+스포츠	스포츠	NNG	O
+_	_	_	O
+뉴트리	뉴트리	NNP	O
+션	션	NNP	O
+_	_	_	O
+제품	제품	NNG	O
+을	을	JKO	O
+_	_	_	O
+먹	먹	VV	O
+으면서	으면서	EC	O
+_	_	_	O
+움직인다	움직이+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 4
+## 랍스터는 5㎞ 이내 연안에서 잡는다.
+## 랍스터는 <5㎞:NOH> 이내 연안에서 잡는다.
+랍스터	랍스터	NNG	O
+는	는	JX	O
+_	_	_	O
+5	5	SN	B-NOH
+㎞	㎞	SW	I-NOH
+_	_	_	O
+이내	이내	MAG	O
+_	_	_	O
+연안	연안	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+잡	잡	VV	O
+는다	는다	EF	O
+.	.	SF	O
+
+## 5
+## 더민주로 가는 걸 언론을 통해 알았기 때문에 말릴 틈이 없었다.
+## <더민주:ORG>로 가는 걸 언론을 통해 알았기 때문에 말릴 틈이 없었다.
+더민	더미+ㄴ	VV+ETM	B-ORG
+주로	주로	MAG	O
+_	_	_	O
+가	가	VV	O
+는	는	ETM	O
+_	_	_	O
+걸	것+ㄹ	NNB+JKO	O
+_	_	_	O
+언론	언론	NNG	O
+을	을	JKO	O
+_	_	_	O
+통해	통하+여	VV+EC	O
+_	_	_	O
+알	알	VV	O
+았	았	EP	O
+기	기	ETN	O
+_	_	_	O
+때문	때문	NNB	O
+에	에	JKB	O
+_	_	_	O
+말릴	말리+ㄹ	VV+ETM	O
+_	_	_	O
+틈	틈	NNG	O
+이	이	JKS	O
+_	_	_	O
+없	없	VA	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 국민의당 박지원 비상대책위원장 겸 원내대표는 이날 민주당 퇴진운동본부 출범을 두고 “시민사회단체와 연대 기구를 만들 필요성을 못 느낀다”고 선을 그었다.
+## <국민의당:ORG> <박지원:PER> 비상대책위원장 겸 원내대표는 이날 <민주당:ORG> 퇴진운동본부 출범을 두고 “시민사회단체와 연대 기구를 만들 필요성을 못 느낀다”고 선을 그었다.
+국민	국민	NNG	B-ORG
+의당	의당	MAG	I-ORG
+_	_	_	O
+박지원	박지원	NNP	B-PER
+_	_	_	O
+비상	비상	NNG	O
+대책	대책	NNG	O
+위원장	위원장	NNG	O
+_	_	_	O
+겸	겸	NNB	O
+_	_	_	O
+원내	원내	NNG	O
+대표	대표	NNG	O
+는	는	JX	O
+_	_	_	O
+이날	이날	NNG	O
+_	_	_	O
+민주당	민주당	NNP	B-ORG
+_	_	_	O
+퇴진	퇴진	NNG	O
+운동	운동	NNG	O
+본부	본부	NNG	O
+_	_	_	O
+출범	출범	NNG	O
+을	을	JKO	O
+_	_	_	O
+두	두	VV	O
+고	고	EC	O
+_	_	_	O
+“	“	SS	O
+시민	시민	NNG	O
+사회단체	사회단체	NNG	O
+와	와	JKB	O
+_	_	_	O
+연대	연대	NNG	O
+_	_	_	O
+기구	기구	NNG	O
+를	를	JKO	O
+_	_	_	O
+만들	만들+ㄹ	VV+ETM	O
+_	_	_	O
+필요성	필요성	NNG	O
+을	을	JKO	O
+_	_	_	O
+못	못	MAG	O
+_	_	_	O
+느낀다	느끼+ㄴ다	VV+EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+선	선	NNG	O
+을	을	JKO	O
+_	_	_	O
+그	긋	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 한국 토종 반도체 전문가인 그에게는 늘 ‘세계 최초’라는 수식어가 따라다닌다.
+## <한국:ORG> 토종 반도체 전문가인 그에게는 늘 ‘세계 최초’라는 수식어가 따라다닌다.
+한국	한국	NNP	B-ORG
+_	_	_	O
+토종	토종	NNG	O
+_	_	_	O
+반도체	반도체	NNG	O
+_	_	_	O
+전문가	전문가	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+그	그	NP	O
+에게	에게	JKB	O
+는	는	JX	O
+_	_	_	O
+늘	늘	MAG	O
+_	_	_	O
+‘	‘	SS	O
+세계	세계	NNG	O
+_	_	_	O
+최초	최초	NNG	O
+’	’+이	SS+VCP	O
+라는	라는	ETM	O
+_	_	_	O
+수식어	수식어	NNG	O
+가	가	JKS	O
+_	_	_	O
+따라다닌다	따라다니+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 8
+## 금강주택 2015년 2355채 분양
+## <금강주택:ORG> <2015년:DAT> <2355채:NOH> 분양
+금강	금강	NNP	B-ORG
+주택	주택	NNG	I-ORG
+_	_	_	O
+2015	2015	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+2355	2355	SN	B-NOH
+채	채	NNB	I-NOH
+_	_	_	O
+분양	분양	NNG	O
+
+## 9
+## 테마 전시관 ‘이노베이션 시티(Innovation City)’에 전시관을 마련하는 KT의 주제는 ‘5G를 통한 생활 혁신(Life Innovation by 5G)’이다.
+## 테마 전시관 ‘이노베이션 시티(Innovation City)’에 전시관을 마련하는 <KT:ORG>의 주제는 ‘5G를 통한 생활 혁신(Life Innovation by 5G)’이다.
+테마	테마	NNG	O
+_	_	_	O
+전시관	전시관	NNG	O
+_	_	_	O
+‘	‘	SS	O
+이노베이션	이노베이션	NNG	O
+_	_	_	O
+시티	시티	NNG	O
+(	(	SS	O
+Innovation	Innovation	SL	O
+_	_	_	O
+City	City	SL	O
+)	)	SS	O
+’	’	SS	O
+에	에	JKB	O
+_	_	_	O
+전시관	전시관	NNG	O
+을	을	JKO	O
+_	_	_	O
+마련하	마련하	VV	O
+는	는	ETM	O
+_	_	_	O
+KT	KT	SL	B-ORG
+의	의	JKG	O
+_	_	_	O
+주제	주제	NNG	O
+는	는	JX	O
+_	_	_	O
+‘	‘	SS	O
+5	5	SN	O
+G	G	SL	O
+를	를	JKO	O
+_	_	_	O
+통한	통하+ㄴ	VV+ETM	O
+_	_	_	O
+생활	생활	NNG	O
+_	_	_	O
+혁신	혁신	NNG	O
+(	(	SS	O
+Life	Life	SL	O
+_	_	_	O
+Innovation	Innovation	SL	O
+_	_	_	O
+by	by	SL	O
+_	_	_	O
+5	5	SN	O
+G	G	SL	O
+)	)	SS	O
+’	’	SS	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## ● 빠른 투구 템포 11일 LG 타선을 상대한 레일리는 빠른 투구 템포와 간결한 투구 폼이 가장 먼저 눈에 띄었다.
+## ● 빠른 투구 템포 <11일:DAT> <LG:ORG> 타선을 상대한 <레일리:PER>는 빠른 투구 템포와 간결한 투구 폼이 가장 먼저 눈에 띄었다.
+●	●	SW	O
+_	_	_	O
+빠른	빠르+ㄴ	VA+ETM	O
+_	_	_	O
+투구	투구	NNG	O
+_	_	_	O
+템포	템포	NNG	O
+_	_	_	O
+11	11	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+LG	LG	SL	B-ORG
+_	_	_	O
+타선	타선	NNG	O
+을	을	JKO	O
+_	_	_	O
+상대한	상대하+ㄴ	VV+ETM	O
+_	_	_	O
+레일리	레일리	NNP	B-PER
+는	는	JX	O
+_	_	_	O
+빠른	빠르+ㄴ	VA+ETM	O
+_	_	_	O
+투구	투구	NNG	O
+_	_	_	O
+템포	템포	NNG	O
+와	와	JKB	O
+_	_	_	O
+간결한	간결하+ㄴ	VA+ETM	O
+_	_	_	O
+투구	투구	NNG	O
+_	_	_	O
+폼	폼	NNG	O
+이	이	JKS	O
+_	_	_	O
+가장	가장	MAG	O
+_	_	_	O
+먼저	먼저	MAG	O
+_	_	_	O
+눈	눈	NNG	O
+에	에	JKB	O
+_	_	_	O
+띄	띄	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 노사연, “심각한 부부갈등 노래로 회복했다”
+## <노사연:PER>, “심각한 부부갈등 노래로 회복했다”
+노사연	노사연	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+“	“	SS	O
+심각한	심각하+ㄴ	VA+ETM	O
+_	_	_	O
+부부	부부	NNG	O
+갈등	갈등	NNG	O
+_	_	_	O
+노래	노래	NNG	O
+로	로	JKB	O
+_	_	_	O
+회복	회복하	VV	O
+했	였	EP	O
+다	다	EF	O
+”	”	SS	O
+
+## 12
+## 대체로 유럽 사람들은 성적으로 조숙했던 것 같다.
+## 대체로 <유럽:LOC> 사람들은 성적으로 조숙했던 것 같다.
+대체로	대체로	MAG	O
+_	_	_	O
+유럽	유럽	NNP	B-LOC
+_	_	_	O
+사람	사람	NNG	O
+들	들	XSN	O
+은	은	JX	O
+_	_	_	O
+성적	성적	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+조숙	조숙하	VV	O
+했	였	EP	O
+던	던	ETM	O
+_	_	_	O
+것	것	NNB	O
+_	_	_	O
+같	같	VA	O
+다	다	EF	O
+.	.	SF	O
+

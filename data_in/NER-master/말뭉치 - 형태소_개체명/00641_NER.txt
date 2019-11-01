@@ -1,0 +1,566 @@
+## 1
+## 특히 잔뜩 찌푸린 광희의 표정이 눈길을 끈다.
+## 특히 잔뜩 찌푸린 <광희:PER>의 표정이 눈길을 끈다.
+특히	특히	MAG	O
+_	_	_	O
+잔뜩	잔뜩	MAG	O
+_	_	_	O
+찌푸린	찌푸리+ㄴ	VV+ETM	O
+_	_	_	O
+광희	광희	NNG	B-PER
+의	의	JKG	O
+_	_	_	O
+표정	표정	NNG	O
+이	이	JKS	O
+_	_	_	O
+눈길	눈길	NNG	O
+을	을	JKO	O
+_	_	_	O
+끈다	끌+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 2
+## 앞서 광희는 21일 오후 방송된 ‘무한도전’의 ‘자선 경매쇼 무도 드림’에서 230만원에 ‘그린실버 고향이 좋다’팀에 낙찰됐다.
+## 앞서 <광희:PER>는 <21일:DAT> 오후 방송된 ‘<무한도전:POH>’의 ‘자선 경매쇼 무도 드림’에서 <230만원:MNY>에 ‘<그린실버 고향이 좋다:POH>’팀에 낙찰됐다.
+앞서	앞서	MAG	O
+_	_	_	O
+광희	광희	NNG	B-PER
+는	는	JX	O
+_	_	_	O
+21	21	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+오후	오후	NNG	O
+_	_	_	O
+방송된	방송되+ㄴ	VV+ETM	O
+_	_	_	O
+‘	‘	SS	O
+무한도전	무한도전	NNP	B-POH
+’	’	SS	O
+의	의	JKG	O
+_	_	_	O
+‘	‘	SS	O
+자선	자선	NNG	O
+_	_	_	O
+경매	경매	NNG	O
+쇼	쇼	NNG	O
+_	_	_	O
+무도	무도	NNG	O
+_	_	_	O
+드림	드리+ㅁ	VV+ETN	O
+’	’	SS	O
+에서	에서	JKB	O
+_	_	_	O
+230	230	SN	B-MNY
+만	만	NR	I-MNY
+원	원	NNB	I-MNY
+에	에	JKB	O
+_	_	_	O
+‘	‘	SS	O
+그린	그린	NNP	B-POH
+실버	실버	NNG	I-POH
+_	_	_	I-POH
+고향	고향	NNG	I-POH
+이	이	JKS	I-POH
+_	_	_	I-POH
+좋	좋	VA	I-POH
+다	다	EF	I-POH
+’	’	SS	O
+팀	팀	NNG	O
+에	에	JKB	O
+_	_	_	O
+낙찰	낙찰되	VV	O
+됐	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 광희가 출연한 MBC ‘그린실버 고향이 좋다’는 이날 오전 11시에 전파를 탔다.
+## <광희:PER>가 출연한 <MBC:ORG> ‘<그린실버 고향이 좋다:POH>’는 이날 <오전 11시:TIM>에 전파를 탔다.
+광희	광희	NNG	B-PER
+가	가	JKS	O
+_	_	_	O
+출연한	출연하+ㄴ	VV+ETM	O
+_	_	_	O
+MBC	MBC	SL	B-ORG
+_	_	_	O
+‘	‘	SS	O
+그린	그린	NNP	B-POH
+실버	실버	NNG	I-POH
+_	_	_	I-POH
+고향	고향	NNG	I-POH
+이	이	JKS	I-POH
+_	_	_	I-POH
+좋	좋	VA	I-POH
+다	다	EF	I-POH
+’	’	SS	O
+는	는	JX	O
+_	_	_	O
+이날	이날	NNG	O
+_	_	_	O
+오전	오전	NNG	B-TIM
+_	_	_	I-TIM
+11	11	SN	I-TIM
+시	시	NNB	I-TIM
+에	에	JKB	O
+_	_	_	O
+전파	전파	NNG	O
+를	를	JKO	O
+_	_	_	O
+탔	타+았	VV+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 37개 기관에서 귀농기초반부터 귀농심화반까지 42개 과정을 열어 교육을 하고 있다.
+## <37개:NOH> 기관에서 귀농기초반부터 귀농심화반까지 <42개:NOH> 과정을 열어 교육을 하고 있다.
+37	37	SN	B-NOH
+개	개	NNB	I-NOH
+_	_	_	O
+기관	기관	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+귀농	귀농	NNG	O
+기초	기초	NNG	O
+반	반	NNG	O
+부터	부터	JX	O
+_	_	_	O
+귀농	귀농	NNG	O
+심화	심화	NNG	O
+반	반	NNG	O
+까지	까지	JX	O
+_	_	_	O
+42	42	SN	B-NOH
+개	개	NNB	I-NOH
+_	_	_	O
+과정	과정	NNG	O
+을	을	JKO	O
+_	_	_	O
+열	열	VV	O
+어	어	EC	O
+_	_	_	O
+교육	교육	NNG	O
+을	을	JKO	O
+_	_	_	O
+하	하	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 우선 지하철 1호선 명학역 바로 앞에 들어서는 초역세권 아파트다.
+## 우선 지하철 <1호선:NOH> <명학역:LOC> 바로 앞에 들어서는 초역세권 아파트다.
+우선	우선	MAG	O
+_	_	_	O
+지하철	지하철	NNG	O
+_	_	_	O
+1	1	SN	B-NOH
+호	호	NNB	I-NOH
+선	선	XSN	I-NOH
+_	_	_	O
+명학	명학	NNG	B-LOC
+역	역	NNG	I-LOC
+_	_	_	O
+바로	바로	MAG	O
+_	_	_	O
+앞	앞	NNG	O
+에	에	JKB	O
+_	_	_	O
+들어서	들어서	VV	O
+는	는	ETM	O
+_	_	_	O
+초	초	XPN	O
+역세권	역세권	NNG	O
+_	_	_	O
+아파트	아파트+이	NNG+VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 맞은편 남자는 이 씨를 따라 두 팔을 번쩍 들었다.
+## 맞은편 남자는 <이:PER> 씨를 따라 <두 팔:NOH>을 번쩍 들었다.
+맞은편	맞은편	NNG	O
+_	_	_	O
+남자	남자	NNG	O
+는	는	JX	O
+_	_	_	O
+이	이	MM	B-PER
+_	_	_	O
+씨	씨	NNB	O
+를	를	JKO	O
+_	_	_	O
+따	따르	VV	O
+라	아	EC	O
+_	_	_	O
+두	두	MM	B-NOH
+_	_	_	I-NOH
+팔	팔	NNG	I-NOH
+을	을	JKO	O
+_	_	_	O
+번쩍	번쩍	MAG	O
+_	_	_	O
+들	들	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 결혼 2년차인 차미진 씨(32·여)는 2주일에 한 번꼴로 대형마트를 찾아 반(半)건조 생선을 산다.
+## 결혼 <2년:DAT>차인 <차미진:PER> 씨(<32:NOH>·여)는 <2주일:DAT>에 <한 번:NOH>꼴로 대형마트를 찾아 반(半)건조 생선을 산다.
+결혼	결혼	NNG	O
+_	_	_	O
+2	2	SN	B-DAT
+년	년	NNB	I-DAT
+차	차	NNB	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+차미진	차미진	NNP	B-PER
+_	_	_	O
+씨	씨	NNB	O
+(	(	SS	O
+32	32	SN	B-NOH
+·	·	SP	O
+여	여	NNG	O
+)	)	SS	O
+는	는	JX	O
+_	_	_	O
+2	2	SN	B-DAT
+주일	주일	NNB	I-DAT
+에	에	JKB	O
+_	_	_	O
+한	한	MM	B-NOH
+_	_	_	I-NOH
+번	번	NNB	I-NOH
+꼴	꼴	XSN	O
+로	로	JKB	O
+_	_	_	O
+대형	대형	NNG	O
+마트	마트	NNG	O
+를	를	JKO	O
+_	_	_	O
+찾	찾	VV	O
+아	아	EC	O
+_	_	_	O
+반	반	NNG	O
+(	(	SS	O
+半	半	SH	O
+)	)	SS	O
+건조	건조	NNG	O
+_	_	_	O
+생선	생선	NNG	O
+을	을	JKO	O
+_	_	_	O
+산다	사+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 8
+## 당초 재활등판을 총 5회 소화한 뒤 6월11∼13일 샌프란시스코 원정 3연전에서 복귀가 점쳐졌으나, 롱토스 단계로 다시 돌아간 것이다.
+## 당초 재활등판을 총 <5회:NOH> 소화한 뒤 <6월11∼13일:DUR> <샌프란시스코:LOC> 원정 <3연전:NOH>에서 복귀가 점쳐졌으나, 롱토스 단계로 다시 돌아간 것이다.
+당초	당초	NNG	O
+_	_	_	O
+재활	재활	NNG	O
+등판	등판	NNG	O
+을	을	JKO	O
+_	_	_	O
+총	총	MM	O
+_	_	_	O
+5	5	SN	B-NOH
+회	회	NNB	I-NOH
+_	_	_	O
+소화한	소화하+ㄴ	VV+ETM	O
+_	_	_	O
+뒤	뒤	NNG	O
+_	_	_	O
+6	6	SN	B-DUR
+월	월	NNB	I-DUR
+11	11	SN	I-DUR
+∼	∼	SO	I-DUR
+13	13	SN	I-DUR
+일	일	NNB	I-DUR
+_	_	_	O
+샌프란시스코	샌프란시스코	NNP	B-LOC
+_	_	_	O
+원정	원정	NNG	O
+_	_	_	O
+3	3	SN	B-NOH
+연전	연전	NNG	I-NOH
+에서	에서	JKB	O
+_	_	_	O
+복귀	복귀	NNG	O
+가	가	JKS	O
+_	_	_	O
+점쳐	점치+어+지	VV+EC+VX	O
+졌	었	EP	O
+으나	으나	EC	O
+,	,	SP	O
+_	_	_	O
+롱	롱	NNG	O
+토스	토스	NNG	O
+_	_	_	O
+단계	단계	NNG	O
+로	로	JKB	O
+_	_	_	O
+다시	다시	MAG	O
+_	_	_	O
+돌아간	돌아가+ㄴ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 이재명 시장, 15분간 원고없이 술술 강연
+## <이재명:PER> 시장, <15분:DUR>간 원고없이 술술 강연
+이재명	이재명	NNP	B-PER
+_	_	_	O
+시장	시장	NNG	O
+,	,	SP	O
+_	_	_	O
+15	15	SN	B-DUR
+분	분	NNB	I-DUR
+간	간	XSN	O
+_	_	_	O
+원고	원고	NNG	O
+없이	없이	MAG	O
+_	_	_	O
+술술	술술	MAG	O
+_	_	_	O
+강연	강연	NNG	O
+
+## 10
+## [부고]최영민 영선 영동 영 부친상·이종헌 장인상
+## [부고]<최영민:PER> 영선 영동 영 부친상·<이종헌:PER> 장인상
+[	[	SS	O
+부고	부고	NNG	O
+]	]	SS	O
+최영민	최영민	NNP	B-PER
+_	_	_	O
+영선	영선	NNG	O
+_	_	_	O
+영동	영동	NNP	O
+_	_	_	O
+영	영	MAG	O
+_	_	_	O
+부친상	부친상	NNG	O
+·	·	SP	O
+이종헌	이종헌	NNP	B-PER
+_	_	_	O
+장인상	장인상	NNP	O
+
+## 11
+## 한편 6회 마지막에서는 혜정이 부탁한 할머니 말순의 수술자료를 건넨 지홍이 빗속에서 혜정에게 입맞춤하는 장면으로 끝을 맺으며 ‘닥터스’ 팬들의 화요일 밤을 잠 못 이루는 밤으로 만들었다.
+## 한편 <6회:NOH> 마지막에서는 <혜정:PER>이 부탁한 할머니 <말순:PER>의 수술자료를 건넨 <지홍:PER>이 빗속에서 <혜정:PER>에게 입맞춤하는 장면으로 끝을 맺으며 ‘<닥터스:POH>’ 팬들의 화요일 밤을 잠 못 이루는 밤으로 만들었다.
+한편	한편	MAG	O
+_	_	_	O
+6	6	SN	B-NOH
+회	회	NNB	I-NOH
+_	_	_	O
+마지막	마지막	NNG	O
+에서	에서	JKB	O
+는	는	JX	O
+_	_	_	O
+혜정이	혜정이	NNP	O
+_	_	_	O
+부탁한	부탁하+ㄴ	VV+ETM	O
+_	_	_	O
+할머니	할머니	NNG	O
+_	_	_	O
+말순	말순	NNP	B-PER
+의	의	JKG	O
+_	_	_	O
+수술	수술	NNG	O
+자료	자료	NNG	O
+를	를	JKO	O
+_	_	_	O
+건넨	건네+ㄴ	VV+ETM	O
+_	_	_	O
+지홍	지홍	NNP	B-PER
+이	이	JKS	O
+_	_	_	O
+빗속	빗속	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+혜정	혜정	NNP	B-PER
+에게	에게	JKB	O
+_	_	_	O
+입맞춤하	입맞춤하	VV	O
+는	는	ETM	O
+_	_	_	O
+장면	장면	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+끝	끝	NNG	O
+을	을	JKO	O
+_	_	_	O
+맺	맺	VV	O
+으며	으며	EC	O
+_	_	_	O
+‘	‘	SS	O
+닥터	닥터	NNG	B-POH
+스	스	NNG	I-POH
+’	’	SS	O
+_	_	_	O
+팬	팬	NNG	O
+들	들	XSN	O
+의	의	JKG	O
+_	_	_	O
+화요일	화요일	NNG	O
+_	_	_	O
+밤	밤	NNG	O
+을	을	JKO	O
+_	_	_	O
+잠	잠	NNG	O
+_	_	_	O
+못	못	MAG	O
+_	_	_	O
+이루	이루	VV	O
+는	는	ETM	O
+_	_	_	O
+밤	밤	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+만들	만들	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 보는 사람의 심장도 떨리게 만드는 김래원, 박신혜의 강력한 케미와 가슴을 파고드는 공감 가는 대사로 회를 거듭할수록 사랑 받고 있는 ‘닥터스’는 7월 11일 월요일 밤 10시 7회가 방송된다.
+## 보는 사람의 심장도 떨리게 만드는 <김래원:PER>, <박신혜:PER>의 강력한 케미와 가슴을 파고드는 공감 가는 대사로 회를 거듭할수록 사랑 받고 있는 ‘<닥터스:POH>’는 <7월 11일 월요일:DAT> <밤 10시:TIM> <7회:NOH>가 방송된다.
+보	보	VV	O
+는	는	ETM	O
+_	_	_	O
+사람	사람	NNG	O
+의	의	JKG	O
+_	_	_	O
+심장	심장	NNG	O
+도	도	JX	O
+_	_	_	O
+떨리	떨리	VV	O
+게	게	EC	O
+_	_	_	O
+만드	만들	VV	O
+는	는	ETM	O
+_	_	_	O
+김래원	김래원	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+박신혜	박신혜	NNP	B-PER
+의	의	JKG	O
+_	_	_	O
+강력한	강력하+ㄴ	VA+ETM	O
+_	_	_	O
+케미	케미	NNG	O
+와	와	JC	O
+_	_	_	O
+가슴	가슴	NNG	O
+을	을	JKO	O
+_	_	_	O
+파고드	파고들	VV	O
+는	는	ETM	O
+_	_	_	O
+공감	공감	NNG	O
+_	_	_	O
+가	가	VV	O
+는	는	ETM	O
+_	_	_	O
+대사	대사	NNG	O
+로	로	JKB	O
+_	_	_	O
+회	회	NNB	O
+를	를	JKO	O
+_	_	_	O
+거듭할수록	거듭하+ㄹ수록	VV+EC	O
+_	_	_	O
+사랑	사랑	NNG	O
+_	_	_	O
+받	받	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+는	는	ETM	O
+_	_	_	O
+‘	‘	SS	O
+닥터	닥터	NNG	B-POH
+스	스	NNG	I-POH
+’	’	SS	O
+는	는	JX	O
+_	_	_	O
+7	7	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	I-DAT
+11	11	SN	I-DAT
+일	일	NNB	I-DAT
+_	_	_	I-DAT
+월요일	월요일	NNG	I-DAT
+_	_	_	O
+밤	밤	NNG	B-TIM
+_	_	_	I-TIM
+10	10	SN	I-TIM
+시	시	NNB	I-TIM
+_	_	_	O
+7	7	SN	B-NOH
+회	회	NNB	I-NOH
+가	가	JKS	O
+_	_	_	O
+방송된다	방송되+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 13
+## 20여 칸의 룸이 미로처럼 얽혀 있었다.
+## <20여 칸:NOH>의 룸이 미로처럼 얽혀 있었다.
+20	20	SN	B-NOH
+여	여	XSN	I-NOH
+_	_	_	I-NOH
+칸	칸	NNG	I-NOH
+의	의	JKG	O
+_	_	_	O
+룸	룸	NNG	O
+이	이	JKS	O
+_	_	_	O
+미로	미로	NNG	O
+처럼	처럼	JKB	O
+_	_	_	O
+얽혀	얽히+어	VV+EC	O
+_	_	_	O
+있	있	VX	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 14
+## 포탄은 장산곶 서북쪽 해상에 떨어져 서해 북방한계선(NLL)을 넘어오지는 않았다.
+## 포탄은 <장산곶:LOC> 서북쪽 해상에 떨어져 <서해 북방한계선:POH>(<NLL:POH>)을 넘어오지는 않았다.
+포탄	포탄	NNG	O
+은	은	JX	O
+_	_	_	O
+장산곶	장산곶	NNP	B-LOC
+_	_	_	O
+서북쪽	서북쪽	NNG	O
+_	_	_	O
+해상	해상	NNG	O
+에	에	JKB	O
+_	_	_	O
+떨어져	떨어지+어	VV+EC	O
+_	_	_	O
+서해	서해	NNP	B-POH
+_	_	_	I-POH
+북방	북방	NNG	I-POH
+한계선	한계선	NNG	I-POH
+(	(	SS	O
+NLL	NLL	SL	B-POH
+)	)	SS	O
+을	을	JKO	O
+_	_	_	O
+넘어오	넘어오	VV	O
+지	지	EC	O
+는	는	JX	O
+_	_	_	O
+않	않	VX	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+

@@ -1,0 +1,566 @@
+## 1
+## 아우디폭스바겐코리아가 판매한 티구안 등 4개 차종 승용차는 어린이 보호 잠금장치 부품 결함으로 안전사고 가능성이 있는 것으로 나타났다.
+## <아우디폭스바겐코리아:ORG>가 판매한 티구안 등 <4개:NOH> 차종 승용차는 어린이 보호 잠금장치 부품 결함으로 안전사고 가능성이 있는 것으로 나타났다.
+아우디	아우디	NNP	B-ORG
+폭스바겐	폭스바겐	NNP	I-ORG
+코리아	코리아	NNP	I-ORG
+가	가	JKS	O
+_	_	_	O
+판매한	판매하+ㄴ	VV+ETM	O
+_	_	_	O
+티	티	NNG	O
+구안	구안	NNG	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+4	4	SN	B-NOH
+개	개	NNB	I-NOH
+_	_	_	O
+차종	차종	NNG	O
+_	_	_	O
+승용차	승용차	NNG	O
+는	는	JX	O
+_	_	_	O
+어린이	어린이	NNG	O
+_	_	_	O
+보호	보호	NNG	O
+_	_	_	O
+잠금장치	잠금장치	NNG	O
+_	_	_	O
+부품	부품	NNG	O
+_	_	_	O
+결함	결함	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+안전	안전	NNG	O
+사고	사고	NNG	O
+_	_	_	O
+가능성	가능성	NNG	O
+이	이	JKS	O
+_	_	_	O
+있	있	VA	O
+는	는	ETM	O
+_	_	_	O
+것	것	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+나타났	나타나+았	VV+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 중국 국가여유국은 최근 베이징 일대 상위 20개 여행사 관계자들을 소집해 한국 여행상품 판매 중단을 지시했다.
+## <중국:ORG> 국가여유국은 최근 <베이징:LOC> 일대 상위 <20개:NOH> 여행사 관계자들을 소집해 <한국:LOC> 여행상품 판매 중단을 지시했다.
+중국	중국	NNP	B-ORG
+_	_	_	O
+국가여유국	국가여유국	NNP	O
+은	은	JX	O
+_	_	_	O
+최근	최근	NNG	O
+_	_	_	O
+베이징	베이징	NNP	B-LOC
+_	_	_	O
+일대	일대	NNG	O
+_	_	_	O
+상위	상위	NNG	O
+_	_	_	O
+20	20	SN	B-NOH
+개	개	NNB	I-NOH
+_	_	_	O
+여행사	여행사	NNG	O
+_	_	_	O
+관계자	관계자	NNG	O
+들	들	XSN	O
+을	을	JKO	O
+_	_	_	O
+소집해	소집하+여	VV+EC	O
+_	_	_	O
+한국	한국	NNP	B-LOC
+_	_	_	O
+여행	여행	NNG	O
+상품	상품	NNG	O
+_	_	_	O
+판매	판매	NNG	O
+_	_	_	O
+중단	중단	NNG	O
+을	을	JKO	O
+_	_	_	O
+지시	지시하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 지금은 대척점에 서 있지만 유 의원을 따라가다 보면 박 대통령이 보인다.
+## 지금은 대척점에 서 있지만 <유:PER> 의원을 따라가다 보면 <박:PER> 대통령이 보인다.
+지금	지금	NNG	O
+은	은	JX	O
+_	_	_	O
+대척점	대척점	NNG	O
+에	에	JKB	O
+_	_	_	O
+서	서+어	VV+EC	O
+_	_	_	O
+있	있	VX	O
+지만	지만	EC	O
+_	_	_	O
+유	유	NNP	B-PER
+_	_	_	O
+의원	의원	NNG	O
+을	을	JKO	O
+_	_	_	O
+따라가	따라가	VV	O
+다	다	EC	O
+_	_	_	O
+보	보	VX	O
+면	면	EC	O
+_	_	_	O
+박	박	NNP	B-PER
+_	_	_	O
+대통령	대통령	NNG	O
+이	이	JKS	O
+_	_	_	O
+보인다	보이+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 4
+## ‘1988년생 동갑내기’ 이보미, 김하늘, 신지애, 그리고 베테랑 전미정(35)과 이지희(38)가 여전히 건재하다.
+## ‘<1988년생:NOH> 동갑내기’ <이보미:PER>, <김하늘:PER>, <신지애:PER>, 그리고 베테랑 <전미정:PER>(<35:NOH>)과 <이지희:PER>(<38:NOH>)가 여전히 건재하다.
+‘	‘	SS	O
+1988	1988	SN	B-NOH
+년	년	NNB	I-NOH
+생	생	XSN	I-NOH
+_	_	_	O
+동갑내기	동갑내기	NNG	O
+’	’	SS	O
+_	_	_	O
+이보미	이보미	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+김하늘	김하늘	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+신지애	신지애	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+그리고	그리고	MAJ	O
+_	_	_	O
+베테랑	베테랑	NNG	O
+_	_	_	O
+전미정	전미정	NNP	B-PER
+(	(	SS	O
+35	35	SN	B-NOH
+)	)	SS	O
+과	과	JKB	O
+_	_	_	O
+이지희	이지희	NNP	B-PER
+(	(	SS	O
+38	38	SN	B-NOH
+)	)	SS	O
+가	가	JKS	O
+_	_	_	O
+여전히	여전히	MAG	O
+_	_	_	O
+건재하	건재하	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 佛작전 지원… 2차대전후 최대규모
+## <佛:ORG>작전 지원… <2차대전:POH>후 최대규모
+佛	佛	SH	B-ORG
+작전	작전	NNG	O
+_	_	_	O
+지원	지원	NNG	O
+…	…	SE	O
+_	_	_	O
+2	2	SN	B-POH
+차	차	NNB	I-POH
+대전	대전	NNG	I-POH
+후	후	NNG	O
+_	_	_	O
+최대	최대	NNG	O
+규모	규모	NNG	O
+
+## 6
+## 그는 “그릿은 한계 지점에 다다랐을 때 한 발짝, 두 걸음 더 버티는 인내력”이라고 정의했다.
+## 그는 “그릿은 한계 지점에 다다랐을 때 <한 발짝:NOH>, <두 걸음:NOH> 더 버티는 인내력”이라고 정의했다.
+그	그	NP	O
+는	는	JX	O
+_	_	_	O
+“	“	SS	O
+그릿	그릿	NNG	O
+은	은	JX	O
+_	_	_	O
+한계	한계	NNG	O
+_	_	_	O
+지점	지점	NNG	O
+에	에	JKB	O
+_	_	_	O
+다다	다다르	VV	O
+랐	았	EP	O
+을	을	ETM	O
+_	_	_	O
+때	때	NNG	O
+_	_	_	O
+한	한	MM	B-NOH
+_	_	_	I-NOH
+발짝	발짝	NNB	I-NOH
+,	,	SP	O
+_	_	_	O
+두	두	MM	B-NOH
+_	_	_	I-NOH
+걸음	걸음	NNG	I-NOH
+_	_	_	O
+더	더	MAG	O
+_	_	_	O
+버티	버티	VV	O
+는	는	ETM	O
+_	_	_	O
+인내력	인내력	NNG	O
+”	”	SS	O
+이라고	이라고	JKQ	O
+_	_	_	O
+정의	정의하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 신 교수는 “엄청난 충격과 상처를 받은 시민들은 마음의 근력이 단단했기에 상처를 건강하게 극복함과 동시에 새로운 문화를 만들어낼 수 있었다”고 말했다.
+## <신:PER> 교수는 “엄청난 충격과 상처를 받은 시민들은 마음의 근력이 단단했기에 상처를 건강하게 극복함과 동시에 새로운 문화를 만들어낼 수 있었다”고 말했다.
+신	신	NNP	B-PER
+_	_	_	O
+교수	교수	NNG	O
+는	는	JX	O
+_	_	_	O
+“	“	SS	O
+엄청난	엄청나+ㄴ	VA+ETM	O
+_	_	_	O
+충격	충격	NNG	O
+과	과	JC	O
+_	_	_	O
+상처	상처	NNG	O
+를	를	JKO	O
+_	_	_	O
+받	받	VV	O
+은	은	ETM	O
+_	_	_	O
+시민	시민	NNG	O
+들	들	XSN	O
+은	은	JX	O
+_	_	_	O
+마음	마음	NNG	O
+의	의	JKG	O
+_	_	_	O
+근력	근력	NNG	O
+이	이	JKS	O
+_	_	_	O
+단단	단단하	VA	O
+했	었	EP	O
+기	기	ETN	O
+에	에	JKB	O
+_	_	_	O
+상처	상처	NNG	O
+를	를	JKO	O
+_	_	_	O
+건강하	건강하	VA	O
+게	게	EC	O
+_	_	_	O
+극복함	극복하+ㅁ	VV+ETN	O
+과	과	JKB	O
+_	_	_	O
+동시	동시	NNG	O
+에	에	JKB	O
+_	_	_	O
+새로	새롭	VA	O
+운	ㄴ	ETM	O
+_	_	_	O
+문화	문화	NNG	O
+를	를	JKO	O
+_	_	_	O
+만들	만들	VV	O
+어	어	EC	O
+낼	내+ㄹ	VX+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+었	었	EP	O
+다	다	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+말	말하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 시민들의 건강한 그릿은 대통령 퇴진 시위를 평화의 축제로, 형식적 민주주의에 머물렀던 87년 체제를 민주주의의 완성으로 일궈냈다.
+## 시민들의 건강한 그릿은 대통령 퇴진 시위를 평화의 축제로, 형식적 민주주의에 머물렀던 <87년:DAT> 체제를 민주주의의 완성으로 일궈냈다.
+시민	시민	NNG	O
+들	들	XSN	O
+의	의	JKG	O
+_	_	_	O
+건강	건강	NNG	O
+한	한	NNG	O
+_	_	_	O
+그릿	그릿	NNG	O
+은	은	JX	O
+_	_	_	O
+대통령	대통령	NNG	O
+_	_	_	O
+퇴진	퇴진	NNG	O
+_	_	_	O
+시위	시위	NNG	O
+를	를	JKO	O
+_	_	_	O
+평화	평화	NNG	O
+의	의	JKG	O
+_	_	_	O
+축제	축제	NNG	O
+로	로	JKB	O
+,	,	SP	O
+_	_	_	O
+형식적	형식적	NNG	O
+_	_	_	O
+민주주의	민주주의	NNG	O
+에	에	JKB	O
+_	_	_	O
+머물	머무르	VV	O
+렀	었	EP	O
+던	던	ETM	O
+_	_	_	O
+87	87	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+체제	체제	NNG	O
+를	를	JKO	O
+_	_	_	O
+민주주의	민주주의	NNG	O
+의	의	JKG	O
+_	_	_	O
+완성	완성	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+일궈	일구+어	VV+EC	O
+냈	내+었	VX+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## [부산/경남/동서남북]홍준표-안상수 ‘상생의 길’로 가야
+## [<부산:LOC>/<경남:LOC>/동서남북]<홍준표:PER>-<안상수:PER> ‘상생의 길’로 가야
+[	[	SS	O
+부산	부산	NNP	B-LOC
+/	/	SP	O
+경남	경남	NNP	B-LOC
+/	/	SP	O
+동서남북	동서남북	NNG	O
+]	]	SS	O
+홍준표	홍준표	NNP	B-PER
+-	-	SO	O
+안상수	안상수	NNP	B-PER
+_	_	_	O
+‘	‘	SS	O
+상생	상생	NNG	O
+의	의	JKG	O
+_	_	_	O
+길	길	NNG	O
+’	’	SS	O
+로	로	JKB	O
+_	_	_	O
+가야	가+아야	VV+EC	O
+
+## 10
+## 이 때문에 각 구단은 점점 2군 선수 육성과 유망주 발굴에 신경 쓰기 시작했다.
+## 이 때문에 각 구단은 점점 <2군:NOH> 선수 육성과 유망주 발굴에 신경 쓰기 시작했다.
+이	이	MM	O
+_	_	_	O
+때문	때문	NNB	O
+에	에	JKB	O
+_	_	_	O
+각	각	MM	O
+_	_	_	O
+구단	구단	NNG	O
+은	은	JX	O
+_	_	_	O
+점점	점점	MAG	O
+_	_	_	O
+2	2	SN	B-NOH
+군	군	NNG	I-NOH
+_	_	_	O
+선수	선수	NNG	O
+_	_	_	O
+육성	육성	NNG	O
+과	과	JC	O
+_	_	_	O
+유망주	유망주	NNG	O
+_	_	_	O
+발굴	발굴	NNG	O
+에	에	JKB	O
+_	_	_	O
+신경	신경	NNG	O
+_	_	_	O
+쓰	쓰	VV	O
+기	기	ETN	O
+_	_	_	O
+시작	시작하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 더불어민주당과 치열한 경쟁 끝에 국민의당이 결국 호남을 품었다.
+## <더불어민주당:ORG>과 치열한 경쟁 끝에 <국민의당:ORG>이 결국 <호남:LOC>을 품었다.
+더불	더불	VV	B-ORG
+어	어	EC	I-ORG
+민주당	민주당	NNP	I-ORG
+과	과	JC	O
+_	_	_	O
+치열한	치열하+ㄴ	VA+ETM	O
+_	_	_	O
+경쟁	경쟁	NNG	O
+_	_	_	O
+끝	끝	NNG	O
+에	에	JKB	O
+_	_	_	O
+국민	국민	NNG	B-ORG
+의	의	NNG	I-ORG
+당	당	NNG	I-ORG
+이	이	JKS	O
+_	_	_	O
+결국	결국	NNG	O
+_	_	_	O
+호남	호남	NNP	B-LOC
+을	을	JKO	O
+_	_	_	O
+품	품	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 살아남은 더민주당 의원들은 예고된 ‘2차 공습’ 때문에 웃지 못하고 있고, 새누리당과 국민의당 현역 의원들도 곧 닥칠 태풍에 떨고 있다.
+## 살아남은 <더민주당:ORG> 의원들은 예고된 ‘<2차:NOH> 공습’ 때문에 웃지 못하고 있고, <새누리당:ORG>과 <국민의당:ORG> 현역 의원들도 곧 닥칠 태풍에 떨고 있다.
+살아남	살아남	VV	O
+은	은	ETM	O
+_	_	_	O
+더	더	MAG	B-ORG
+민주당	민주당	NNP	I-ORG
+_	_	_	O
+의원	의원	NNG	O
+들	들	XSN	O
+은	은	JX	O
+_	_	_	O
+예고된	예고되+ㄴ	VV+ETM	O
+_	_	_	O
+‘	‘	SS	O
+2	2	SN	B-NOH
+차	차	NNB	I-NOH
+_	_	_	O
+공습	공습	NNG	O
+’	’	SS	O
+_	_	_	O
+때문	때문	NNB	O
+에	에	JKB	O
+_	_	_	O
+웃	웃	VV	O
+지	지	EC	O
+_	_	_	O
+못하	못하	VX	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+고	고	EC	O
+,	,	SP	O
+_	_	_	O
+새누리당	새누리당	NNP	B-ORG
+과	과	JC	O
+_	_	_	O
+국민	국민	NNG	B-ORG
+의당	의당	MAG	I-ORG
+_	_	_	O
+현역	현역	NNG	O
+_	_	_	O
+의원	의원	NNG	O
+들	들	XSN	O
+도	도	JX	O
+_	_	_	O
+곧	곧	MAG	O
+_	_	_	O
+닥칠	닥치+ㄹ	VV+ETM	O
+_	_	_	O
+태풍	태풍	NNG	O
+에	에	JKB	O
+_	_	_	O
+떨	떨	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## 맥도날드 본사에서도 그녀의 공로를 인정해 세계 맥도날드 직원 1백90만여 명 중 0.01%만이 선정된다는 ‘프레지던트 어워드’를 수여했다.
+## <맥도날드:ORG> 본사에서도 그녀의 공로를 인정해 세계 <맥도날드:ORG> 직원 <1백90만여 명:NOH> 중 <0.01%:PNT>만이 선정된다는 ‘<프레지던트 어워드:POH>’를 수여했다.
+맥도날드	맥도날드	NNP	B-ORG
+_	_	_	O
+본사	본사	NNG	O
+에서	에서	JKB	O
+도	도	JX	O
+_	_	_	O
+그녀	그녀	NP	O
+의	의	JKG	O
+_	_	_	O
+공로	공로	NNG	O
+를	를	JKO	O
+_	_	_	O
+인정해	인정하+여	VV+EC	O
+_	_	_	O
+세계	세계	NNG	O
+_	_	_	O
+맥도날드	맥도날드	NNP	B-ORG
+_	_	_	O
+직원	직원	NNG	O
+_	_	_	O
+1	1	SN	B-NOH
+백	백	NR	I-NOH
+90	90	SN	I-NOH
+만	만	NR	I-NOH
+여	여	XSN	I-NOH
+_	_	_	I-NOH
+명	명	NNB	I-NOH
+_	_	_	O
+중	중	NNB	O
+_	_	_	O
+0.01	0.01	SN	B-PNT
+%	%	SW	I-PNT
+만	만	JX	O
+이	이	JKS	O
+_	_	_	O
+선정된다는	선정되+ㄴ다는	VV+ETM	O
+_	_	_	O
+‘	‘	SS	O
+프레지던트	프레지던트	NNG	B-POH
+_	_	_	I-POH
+어워드	어워드	NNG	I-POH
+’	’	SS	O
+를	를	JKO	O
+_	_	_	O
+수여	수여하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 14
+## [인사]한국거래소 外
+## [인사]<한국거래소:ORG> 外
+[	[	SS	O
+인사	인사	NNG	O
+]	]	SS	O
+한국거래소	한국거래소	NNP	B-ORG
+_	_	_	O
+外	外	SH	O
+

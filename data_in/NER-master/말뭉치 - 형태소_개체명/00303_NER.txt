@@ -1,0 +1,556 @@
+## 1
+## 91년 국립현대미술관이 한국과학기술연구원(KIST)과 국립과학수사연구원에 감정을 의뢰했지만 사실상 감정 불가 판정이 나오면서 혼란을 부추겼다.
+## <91년:DAT> <국립현대미술관:ORG>이 <한국과학기술연구원:ORG>(<KIST:ORG>)과 <국립과학수사연구원:ORG>에 감정을 의뢰했지만 사실상 감정 불가 판정이 나오면서 혼란을 부추겼다.
+91	91	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+국립현대미술관	국립현대미술관	NNP	B-ORG
+이	이	JKS	O
+_	_	_	O
+한국	한국	NNP	B-ORG
+과학	과학	NNG	I-ORG
+기술	기술	NNG	I-ORG
+연구원	연구원	NNG	I-ORG
+(	(	SS	O
+KIST	KIST	SL	B-ORG
+)	)	SS	O
+과	과	JKB	O
+_	_	_	O
+국립	국립	NNG	B-ORG
+과학	과학	NNG	I-ORG
+수사	수사	NNG	I-ORG
+연구원	연구원	NNG	I-ORG
+에	에	JKB	O
+_	_	_	O
+감정	감정	NNG	O
+을	을	JKO	O
+_	_	_	O
+의뢰	의뢰하	VV	O
+했	였	EP	O
+지만	지만	EC	O
+_	_	_	O
+사실상	사실상	NNG	O
+_	_	_	O
+감정	감정	NNG	O
+_	_	_	O
+불가	불가	NNG	O
+_	_	_	O
+판정	판정	NNG	O
+이	이	JKS	O
+_	_	_	O
+나오	나오	VV	O
+면서	면서	EC	O
+_	_	_	O
+혼란	혼란	NNG	O
+을	을	JKO	O
+_	_	_	O
+부추	부추기	VV	O
+겼	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 앞서 검찰은 분석 기술이 향상된 국과수에 DNA 분석 검사를 맡겼지만 다시 실패하면서 수사는 난항을 겪어 왔다.
+## 앞서 검찰은 분석 기술이 향상된 <국과수:ORG>에 DNA 분석 검사를 맡겼지만 다시 실패하면서 수사는 난항을 겪어 왔다.
+앞서	앞서+어	VV+EC	O
+_	_	_	O
+검찰	검찰	NNG	O
+은	은	JX	O
+_	_	_	O
+분석	분석	NNG	O
+_	_	_	O
+기술	기술	NNG	O
+이	이	JKS	O
+_	_	_	O
+향상된	향상되+ㄴ	VV+ETM	O
+_	_	_	O
+국과수	국과수	NNP	B-ORG
+에	에	JKB	O
+_	_	_	O
+DNA	DNA	SL	O
+_	_	_	O
+분석	분석	NNG	O
+_	_	_	O
+검사	검사	NNG	O
+를	를	JKO	O
+_	_	_	O
+맡	맡기	VV	O
+겼	었	EP	O
+지만	지만	EC	O
+_	_	_	O
+다시	다시	MAG	O
+_	_	_	O
+실패하	실패하	VV	O
+면서	면서	EC	O
+_	_	_	O
+수사	수사	NNG	O
+는	는	JX	O
+_	_	_	O
+난항	난항	NNG	O
+을	을	JKO	O
+_	_	_	O
+겪	겪	VV	O
+어	어	EC	O
+_	_	_	O
+왔	+았	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 질병관리본부는 이날까지 28건의 지카 바이러스 감염 의심 사례가 접수됐지만 모두 음성으로 나왔다고 밝혔다.
+## <질병관리본부:ORG>는 이날까지 <28건:NOH>의 지카 바이러스 감염 의심 사례가 접수됐지만 모두 음성으로 나왔다고 밝혔다.
+질병	질병	NNG	B-ORG
+관리	관리	NNG	I-ORG
+본부	본부	NNG	I-ORG
+는	는	JX	O
+_	_	_	O
+이날	이날	NNG	O
+까지	까지	JX	O
+_	_	_	O
+28	28	SN	B-NOH
+건	건	NNB	I-NOH
+의	의	JKG	O
+_	_	_	O
+지카	지카	NNP	O
+_	_	_	O
+바이러스	바이러스	NNG	O
+_	_	_	O
+감염	감염	NNG	O
+_	_	_	O
+의심	의심	NNG	O
+_	_	_	O
+사례	사례	NNG	O
+가	가	JKS	O
+_	_	_	O
+접수	접수+되	NNG+XSV	O
+됐	었	EP	O
+지만	지만	EC	O
+_	_	_	O
+모두	모두	MAG	O
+_	_	_	O
+음성	음성	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+나	나오	VV	O
+왔	았	EP	O
+다고	다고	EC	O
+_	_	_	O
+밝	밝히	VV	O
+혔	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 독일은 징병제도 논의 중이다.
+## <독일:ORG>은 징병제도 논의 중이다.
+독일	독일	NNP	B-ORG
+은	은	JX	O
+_	_	_	O
+징병	징병	NNG	O
+제도	제도	NNG	O
+_	_	_	O
+논의	논의	NNG	O
+_	_	_	O
+중	중	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## ‘그랜드세이코(GS)’라는 상위 브랜드 제품을 국내에 들여온 것. 지난해 롯데백화점 부산본점과 신세계백화점 센텀시티점에 단독 매장을 잇달아 냈다.
+## ‘<그랜드세이코:ORG>(<GS:ORG>)’라는 상위 브랜드 제품을 국내에 들여온 것. 지난해 <롯데백화점:ORG> 부산본점과 <신세계백화점:ORG> 센텀시티점에 단독 매장을 잇달아 냈다.
+‘	‘	SS	O
+그랜드	그랜드	NNG	B-ORG
+세이코	세이코	NNP	I-ORG
+(	(	SS	O
+GS	GS	SL	B-ORG
+)	)	SS	O
+’	’+이	SS+VCP	O
+라는	라는	ETM	O
+_	_	_	O
+상위	상위	NNG	O
+_	_	_	O
+브랜드	브랜드	NNG	O
+_	_	_	O
+제품	제품	NNG	O
+을	을	JKO	O
+_	_	_	O
+국내	국내	NNG	O
+에	에	JKB	O
+_	_	_	O
+들여온	들여오+ㄴ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+.	.	SF	O
+_	_	_	O
+지난해	지난해	NNG	O
+_	_	_	O
+롯데백화점	롯데백화점	NNP	B-ORG
+_	_	_	O
+부산	부산	NNP	O
+본점	본점	NNG	O
+과	과	JC	O
+_	_	_	O
+신세계백화점	신세계백화점	NNP	B-ORG
+_	_	_	O
+센텀시티	센텀시티	NNP	O
+점	점	NNG	O
+에	에	JKB	O
+_	_	_	O
+단독	단독	NNG	O
+_	_	_	O
+매장	매장	NNG	O
+을	을	JKO	O
+_	_	_	O
+잇달	잇달	VV	O
+아	아	EC	O
+_	_	_	O
+냈	내+었	VV+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 나머지는 서울·인천 거주자에게 돌아간다.
+## 나머지는 <서울:LOC>·<인천:LOC> 거주자에게 돌아간다.
+나머지	나머지	NNG	O
+는	는	JX	O
+_	_	_	O
+서울	서울	NNP	B-LOC
+·	·	SP	O
+인천	인천	NNP	B-LOC
+_	_	_	O
+거주자	거주자	NNG	O
+에게	에게	JKB	O
+_	_	_	O
+돌아간다	돌아가+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 7
+## 이는 평범한 경주마의 두 배정도에 달하는 엄청난 무게이다.
+## 이는 평범한 경주마의 <두 배:PNT>정도에 달하는 엄청난 무게이다.
+이	이	NP	O
+는	는	JX	O
+_	_	_	O
+평범한	평범하+ㄴ	VA+ETM	O
+_	_	_	O
+경주마	경주마	NNG	O
+의	의	JKG	O
+_	_	_	O
+두	두	MM	B-PNT
+_	_	_	I-PNT
+배	배	NNG	I-PNT
+정도	정도	NNG	O
+에	에	JKB	O
+_	_	_	O
+달하	달하	VV	O
+는	는	ETM	O
+_	_	_	O
+엄청난	엄청나+ㄴ	VA+ETM	O
+_	_	_	O
+무게	무게	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 에인절스 외에도 나머지 AL 서부지구에 속한 팀들에게도 그레이는 비교적 강한 모습을 보이고 있다.
+## <에인절스:ORG> 외에도 나머지 <AL:POH> 서부지구에 속한 팀들에게도 <그레이:PER>는 비교적 강한 모습을 보이고 있다.
+에인절스	에인절스	NNP	B-ORG
+_	_	_	O
+외	외	NNB	O
+에	에	JKB	O
+도	도	JX	O
+_	_	_	O
+나머지	나머지	NNG	O
+_	_	_	O
+AL	AL	SL	B-POH
+_	_	_	O
+서부	서부	NNG	O
+지구	지구	NNG	O
+에	에	JKB	O
+_	_	_	O
+속한	속하+ㄴ	VV+ETM	O
+_	_	_	O
+팀	팀	NNG	O
+들	들	XSN	O
+에게	에게	JKB	O
+도	도	JX	O
+_	_	_	O
+그레이	그레이	NNP	B-PER
+는	는	JX	O
+_	_	_	O
+비교적	비교적	MAG	O
+_	_	_	O
+강한	강하+ㄴ	VA+ETM	O
+_	_	_	O
+모습	모습	NNG	O
+을	을	JKO	O
+_	_	_	O
+보이	보이	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 뮤 레전드·레볼루션 등 체험장 인기‘VR 특별관’ 등 콘텐츠 다양화 적중 ‘플랫폼의 다변화 흐름을 엿보다’. 2017년 게임 트렌드를 한 눈에 미리 볼 수 있는 국내 최대 전시회 ‘지스타’가 17일 부산 벡스코에서 개막했다.
+## <뮤 레전드·레볼루션:POH> 등 체험장 인기‘VR 특별관’ 등 콘텐츠 다양화 적중 ‘플랫폼의 다변화 흐름을 엿보다’. <2017년:DAT> 게임 트렌드를 한 눈에 미리 볼 수 있는 국내 최대 전시회 ‘<지스타:POH>’가 <17일:DAT> <부산 벡스코:LOC>에서 개막했다.
+뮤	뮤	NNG	B-POH
+_	_	_	I-POH
+레전드	레전드	NNG	I-POH
+·	·	SP	I-POH
+레볼루션	레볼루션	NNG	I-POH
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+체험	체험	NNG	O
+장	장	XSN	O
+_	_	_	O
+인기	인기	NNG	O
+‘	‘	SS	O
+VR	VR	SL	O
+_	_	_	O
+특별	특별	NNG	O
+관	관	XSN	O
+’	’	SS	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+콘텐츠	콘텐츠	NNG	O
+_	_	_	O
+다양화	다양화	NNG	O
+_	_	_	O
+적중	적중	NNG	O
+_	_	_	O
+‘	‘	SS	O
+플랫폼	플랫폼	NNG	O
+의	의	JKG	O
+_	_	_	O
+다변화	다변화	NNG	O
+_	_	_	O
+흐름	흐름	NNG	O
+을	을	JKO	O
+_	_	_	O
+엿보	엿보	VV	O
+다	다	EF	O
+’	’	SS	O
+.	.	SF	O
+_	_	_	O
+2017	2017	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+게임	게임	NNG	O
+_	_	_	O
+트렌드	트렌드	NNG	O
+를	를	JKO	O
+_	_	_	O
+한	한	MM	O
+_	_	_	O
+눈	눈	NNG	O
+에	에	JKB	O
+_	_	_	O
+미리	미리	MAG	O
+_	_	_	O
+볼	보+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+는	는	ETM	O
+_	_	_	O
+국내	국내	NNG	O
+_	_	_	O
+최대	최대	NNG	O
+_	_	_	O
+전시회	전시회	NNG	O
+_	_	_	O
+‘	‘	SS	O
+지	지	NNB	B-POH
+스타	스타	NNG	I-POH
+’	’	SS	O
+가	가	JKS	O
+_	_	_	O
+17	17	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+부산	부산	NNP	B-LOC
+_	_	_	I-LOC
+벡스코	벡스코	NNP	I-LOC
+에서	에서	JKB	O
+_	_	_	O
+개막	개막하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 한국 관광객은 거의 찾지 않는 곳이다.
+## <한국:ORG> 관광객은 거의 찾지 않는 곳이다.
+한국	한국	NNP	B-ORG
+_	_	_	O
+관광객	관광객	NNG	O
+은	은	JX	O
+_	_	_	O
+거의	거의	MAG	O
+_	_	_	O
+찾	찾	VV	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+는	는	ETM	O
+_	_	_	O
+곳	곳	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 친구는 "(너가) 너무 핸드폰만 보고 있다"고 수지의 행동을 지적했다.
+## 친구는 "(너가) 너무 핸드폰만 보고 있다"고 <수지:PER>의 행동을 지적했다.
+친구	친구	NNG	O
+는	는	JX	O
+_	_	_	O
+"	"	SS	O
+(	(	SS	O
+너	너	NP	O
+가	가	JKS	O
+)	)	SS	O
+_	_	_	O
+너무	너무	MAG	O
+_	_	_	O
+핸드폰	핸드폰	NNG	O
+만	만	JX	O
+_	_	_	O
+보	보	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+"	"	SS	O
+고	고	JKQ	O
+_	_	_	O
+수지	수지	NNG	B-PER
+의	의	JKG	O
+_	_	_	O
+행동	행동	NNG	O
+을	을	JKO	O
+_	_	_	O
+지적	지적하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 앞줄 중앙부터 시계방향으로 강민석 팀장, 김경희·강태화·안효성·이지상 기자. 김경빈 기자
+## 앞줄 중앙부터 시계방향으로 <강민석:PER> 팀장, <김경희:PER>·<강태화:PER>·<안효성:PER>·<이지상:PER> 기자. <김경빈:PER> 기자
+앞줄	앞줄	NNG	O
+_	_	_	O
+중앙	중앙	NNG	O
+부터	부터	JX	O
+_	_	_	O
+시계	시계	NNG	O
+방향	방향	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+강민석	강민석	NNP	B-PER
+_	_	_	O
+팀장	팀장	NNG	O
+,	,	SP	O
+_	_	_	O
+김경희	김경희	NNP	B-PER
+·	·	SP	O
+강태화	강태화	NNP	B-PER
+·	·	SP	O
+안효성	안효성	NNP	B-PER
+·	·	SP	O
+이지상	이지상	NNP	B-PER
+_	_	_	O
+기자	기자	NNG	O
+.	.	SF	O
+_	_	_	O
+김경빈	김경빈	NNP	B-PER
+_	_	_	O
+기자	기자	NNG	O
+
+## 13
+## 런닝맨 신다은, 이광수와 썸 타던 사이? “나한테 고백했잖아” 폭로
+## <런닝맨:POH> <신다은:PER>, <이광수:PER>와 썸 타던 사이? “나한테 고백했잖아” 폭로
+런닝맨	런닝맨	NNP	B-POH
+_	_	_	O
+신다	시+ㄴ다	EP+EC	B-PER
+은	은	JX	I-PER
+,	,	SP	O
+_	_	_	O
+이광수	이광수	NNP	B-PER
+와	와	JC	O
+_	_	_	O
+썸	썸	NNG	O
+_	_	_	O
+타	타	VV	O
+던	던	ETM	O
+_	_	_	O
+사이	사이	NNG	O
+?	?	SF	O
+_	_	_	O
+“	“	SS	O
+나	나	NP	O
+한테	한테	JKB	O
+_	_	_	O
+고백	고백하	VV	O
+했	였+지	EP+EC	O
+잖	않	VX	O
+아	아	EF	O
+”	”	SS	O
+_	_	_	O
+폭로	폭로	NNG	O
+
+## 14
+## 지난달 29일(현지시간) 뉴욕타임스는 “도널드 트럼프 미국 대통령의 맏딸 이방카가 백악관 보좌관에 공식 임명됐다”고 보도했다.
+## 지난달 <29일:DAT>(현지시간) <뉴욕타임스:ORG>는 “<도널드 트럼프:PER> <미국:ORG> 대통령의 맏딸 <이방카:PER>가 <백악관:ORG> 보좌관에 공식 임명됐다”고 보도했다.
+지난달	지난달	NNG	O
+_	_	_	O
+29	29	SN	B-DAT
+일	일	NNB	I-DAT
+(	(	SS	O
+현지	현지	NNG	O
+시간	시간	NNG	O
+)	)	SS	O
+_	_	_	O
+뉴욕타임스	뉴욕타임스	NNP	B-ORG
+는	는	JX	O
+_	_	_	O
+“	“	SS	O
+도널드	도널드	NNP	B-PER
+_	_	_	I-PER
+트럼프	트럼프	NNP	I-PER
+_	_	_	O
+미국	미국	NNP	B-ORG
+_	_	_	O
+대통령	대통령	NNG	O
+의	의	JKG	O
+_	_	_	O
+맏딸	맏딸	NNG	O
+_	_	_	O
+이방	이방	NNG	B-PER
+카	카	NNP	I-PER
+가	가	JKS	O
+_	_	_	O
+백악관	백악관	NNP	B-ORG
+_	_	_	O
+보좌관	보좌관	NNG	O
+에	에	JKB	O
+_	_	_	O
+공식	공식	NNG	O
+_	_	_	O
+임명	임명되	VV	O
+됐	었	EP	O
+다	다	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+보도	보도하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+

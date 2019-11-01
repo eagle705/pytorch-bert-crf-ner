@@ -1,0 +1,557 @@
+## 1
+## 뮤지컬보다 영화(1992)가 먼저 만들어졌다.
+## 뮤지컬보다 영화(<1992:DAT>)가 먼저 만들어졌다.
+뮤지컬	뮤지컬	NNG	O
+보다	보다	JKB	O
+_	_	_	O
+영화	영화	NNG	O
+(	(	SS	O
+1992	1992	SN	B-DAT
+)	)	SS	O
+가	가	JKS	O
+_	_	_	O
+먼저	먼저	MAG	O
+_	_	_	O
+만들	만들	VV	O
+어	어	EC	O
+졌	지+었	VX+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 이날 축사를 한 김난도 서울대 소비자아동학부 교수는 “성장의 시대에서 침체의 시대로 접어들고 있다.
+## 이날 축사를 한 <김난도:PER> <서울대 소비자아동학부:ORG> 교수는 “성장의 시대에서 침체의 시대로 접어들고 있다.
+이날	이날	NNG	O
+_	_	_	O
+축사	축사	NNG	O
+를	를	JKO	O
+_	_	_	O
+한	한	NNP	O
+_	_	_	O
+김난	김난	NNP	B-PER
+도	도	JX	I-PER
+_	_	_	O
+서울대	서울대	NNP	B-ORG
+_	_	_	I-ORG
+소비자	소비자	NNG	I-ORG
+아동학	아동학	NNG	I-ORG
+부	부	XSN	I-ORG
+_	_	_	O
+교수	교수	NNG	O
+는	는	JX	O
+_	_	_	O
+“	“	SS	O
+성장	성장	NNG	O
+의	의	JKG	O
+_	_	_	O
+시대	시대	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+침체	침체	NNG	O
+의	의	JKG	O
+_	_	_	O
+시대	시대	NNG	O
+로	로	JKB	O
+_	_	_	O
+접어들	접어들	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 이어 “손흥민이 한 단계 도약할 수 있는 계기가 됐으면 좋겠다.
+## 이어 “<손흥민:PER>이 <한 단계:NOH> 도약할 수 있는 계기가 됐으면 좋겠다.
+이어	이어	MAG	O
+_	_	_	O
+“	“	SS	O
+손흥민	손흥민	NNP	B-PER
+이	이	JKS	O
+_	_	_	O
+한	한	MM	B-NOH
+_	_	_	I-NOH
+단계	단계	NNG	I-NOH
+_	_	_	O
+도약할	도약하+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+는	는	ETM	O
+_	_	_	O
+계기	계기	NNG	O
+가	가	JKC	O
+_	_	_	O
+됐	+었	+EP	O
+으면	으면	EC	O
+_	_	_	O
+좋	좋	VA	O
+겠	겠	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 결과는 4월8일 홈페이지를 통해 발표될 예정이다.
+## 결과는 <4월8일:DAT> 홈페이지를 통해 발표될 예정이다.
+결과	결과	NNG	O
+는	는	JX	O
+_	_	_	O
+4	4	SN	B-DAT
+월	월	NNB	I-DAT
+8	8	SN	I-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+홈페이지	홈페이지	NNG	O
+를	를	JKO	O
+_	_	_	O
+통해	통하+여	VV+EC	O
+_	_	_	O
+발표될	발표되+ㄹ	VV+ETM	O
+_	_	_	O
+예정	예정	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 장수원이 13세 연하 여자친구를 공개했다.
+## <장수원:PER>이 <13세:NOH> 연하 여자친구를 공개했다.
+장수원	장수원	NNP	B-PER
+이	이	JKS	O
+_	_	_	O
+13	13	SN	B-NOH
+세	세	NNB	I-NOH
+_	_	_	O
+연하	연하	NNG	O
+_	_	_	O
+여자	여자	NNG	O
+친구	친구	NNG	O
+를	를	JKO	O
+_	_	_	O
+공개	공개하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 현대차 관계자는 “정숙성을 자랑하는 렉서스 ES300h와 비교해도 주행 소음이 적을 정도로 경쟁력을 갖췄다”고 설명했다.
+## <현대차:ORG> 관계자는 “정숙성을 자랑하는 <렉서스 ES300h:POH>와 비교해도 주행 소음이 적을 정도로 경쟁력을 갖췄다”고 설명했다.
+현대차	현대차	NNP	B-ORG
+_	_	_	O
+관계자	관계자	NNG	O
+는	는	JX	O
+_	_	_	O
+“	“	SS	O
+정숙	정숙	NNG	O
+성	성	XSN	O
+을	을	JKO	O
+_	_	_	O
+자랑하	자랑하	VV	O
+는	는	ETM	O
+_	_	_	O
+렉서스	렉서스	NNP	B-POH
+_	_	_	I-POH
+ES	ES	SL	I-POH
+300	300	SN	I-POH
+h	h	SL	I-POH
+와	와	JC	O
+_	_	_	O
+비교해도	비교하+여도	VV+EC	O
+_	_	_	O
+주행	주행	NNG	O
+_	_	_	O
+소음	소음	NNG	O
+이	이	JKS	O
+_	_	_	O
+적	적	VA	O
+을	을	ETM	O
+_	_	_	O
+정도	정도	NNG	O
+로	로	JKB	O
+_	_	_	O
+경쟁력	경쟁력	NNG	O
+을	을	JKO	O
+_	_	_	O
+갖	갖추	VV	O
+췄	었	EP	O
+다	다	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+설명	설명하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 한국GM은 1회 충전시 국내 최장 주행거리(383㎞)를 자랑하는 전기차 ‘볼트’를 처음 선보인다.
+## <한국GM:ORG>은 <1회:NOH> 충전시 국내 최장 주행거리(<383㎞:NOH>)를 자랑하는 전기차 ‘<볼트:POH>’를 처음 선보인다.
+한국	한국	NNP	B-ORG
+GM	GM	SL	I-ORG
+은	은	JX	O
+_	_	_	O
+1	1	SN	B-NOH
+회	회	NNB	I-NOH
+_	_	_	O
+충전	충전	NNG	O
+시	시	NNB	O
+_	_	_	O
+국내	국내	NNG	O
+_	_	_	O
+최장	최장	NNG	O
+_	_	_	O
+주행	주행	NNG	O
+거리	거리	NNG	O
+(	(	SS	O
+383	383	SN	B-NOH
+㎞	㎞	SW	I-NOH
+)	)	SS	O
+를	를	JKO	O
+_	_	_	O
+자랑하	자랑하	VV	O
+는	는	ETM	O
+_	_	_	O
+전기	전기	NNG	O
+차	차	NNG	O
+_	_	_	O
+‘	‘	SS	O
+볼트	볼트	NNB	B-POH
+’	’	SS	O
+를	를	JKO	O
+_	_	_	O
+처음	처음	NNG	O
+_	_	_	O
+선보인다	선보이+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 8
+## 이번 제50회 슈퍼볼은 내년 2월 7일 산타클라라 리바이스 스타디움에서 열린다.
+## 이번 <제50회:NOH> <슈퍼볼:POH>은 내년 <2월 7일:DAT> <산타클라라:LOC> <리바이스 스타디움:LOC>에서 열린다.
+이번	이번	NNG	O
+_	_	_	O
+제	제	XPN	B-NOH
+50	50	SN	I-NOH
+회	회	NNB	I-NOH
+_	_	_	O
+슈퍼볼	슈퍼볼	NNG	B-POH
+은	은	JX	O
+_	_	_	O
+내년	내년	NNG	O
+_	_	_	O
+2	2	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	I-DAT
+7	7	SN	I-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+산타클라라	산타클라라	NNP	B-LOC
+_	_	_	O
+리바이스	리바이스	NNP	B-LOC
+_	_	_	I-LOC
+스타디움	스타디움	NNG	I-LOC
+에서	에서	JKB	O
+_	_	_	O
+열린다	열리+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 9
+## 단지 바로 앞에 벨레상스서울호텔 개발 계획과 가까운 곳에 현대자동차 글로벌 비즈니스센터 사업도 진행 중이다.
+## 단지 바로 앞에 <벨레상스서울호텔:LOC> 개발 계획과 가까운 곳에 <현대자동차 글로벌 비즈니스센터:LOC> 사업도 진행 중이다.
+단지	단지	NNG	O
+_	_	_	O
+바로	바로	MAG	O
+_	_	_	O
+앞	앞	NNG	O
+에	에	JKB	O
+_	_	_	O
+벨레	벨레	NNP	B-LOC
+상스	상스	NNP	I-LOC
+서울	서울	NNP	I-LOC
+호텔	호텔	NNG	I-LOC
+_	_	_	O
+개발	개발	NNG	O
+_	_	_	O
+계획	계획	NNG	O
+과	과	JC	O
+_	_	_	O
+가까	가깝	VA	O
+운	ㄴ	ETM	O
+_	_	_	O
+곳	곳	NNG	O
+에	에	JKB	O
+_	_	_	O
+현대자동차	현대자동차	NNP	B-LOC
+_	_	_	I-LOC
+글로벌	글로벌	NNG	I-LOC
+_	_	_	I-LOC
+비즈니스	비즈니스	NNG	I-LOC
+센터	센터	NNG	I-LOC
+_	_	_	O
+사업	사업	NNG	O
+도	도	JX	O
+_	_	_	O
+진행	진행	NNG	O
+_	_	_	O
+중	중	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## "제2의 전성기" 지석진, FNC엔터테인먼트와 전속계약 체결
+## "<제2의:NOH> 전성기" <지석진:PER>, <FNC엔터테인먼트:ORG>와 전속계약 체결
+"	"	SS	O
+제	제	XPN	B-NOH
+2	2	SN	I-NOH
+의	의	JKG	I-NOH
+_	_	_	O
+전성기	전성기	NNG	O
+"	"	SS	O
+_	_	_	O
+지석진	지석진	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+FNC	FNC	SL	B-ORG
+엔터테인먼트	엔터테인먼트	NNG	I-ORG
+와	와	JC	O
+_	_	_	O
+전속	전속	NNG	O
+계약	계약	NNG	O
+_	_	_	O
+체결	체결	NNG	O
+
+## 11
+## 새누리당 윤상현 의원이 김무성 전 대표에게 욕설을 날린 전화 막말이 녹취돼 총선 공천에서 탈락했고, 지난달엔 윤 의원과 최경환 의원, 현기환 전 청와대 정무수석이 김성회 전 의원에게 총선 지역구 변경을 요구한 전화 녹취록이 또다시 공개됐다.
+## <새누리당:ORG> <윤상현:PER> 의원이 <김무성:PER> 전 대표에게 욕설을 날린 전화 막말이 녹취돼 총선 공천에서 탈락했고, 지난달엔 <윤:PER> 의원과 <최경환:PER> 의원, <현기환:PER> 전 <청와대:ORG> 정무수석이 <김성회:PER> 전 의원에게 총선 지역구 변경을 요구한 전화 녹취록이 또다시 공개됐다.
+새누리당	새누리당	NNP	B-ORG
+_	_	_	O
+윤상현	윤상현	NNP	B-PER
+_	_	_	O
+의원	의원	NNG	O
+이	이	JKS	O
+_	_	_	O
+김무성	김무성	NNP	B-PER
+_	_	_	O
+전	전	MM	O
+_	_	_	O
+대표	대표	NNG	O
+에게	에게	JKB	O
+_	_	_	O
+욕설	욕설	NNG	O
+을	을	JKO	O
+_	_	_	O
+날린	날리+ㄴ	VV+ETM	O
+_	_	_	O
+전화	전화	NNG	O
+_	_	_	O
+막말	막말	NNG	O
+이	이	JKS	O
+_	_	_	O
+녹취돼	녹취되+어	VV+EC	O
+_	_	_	O
+총선	총선	NNG	O
+_	_	_	O
+공천	공천	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+탈락	탈락하	VV	O
+했	였	EP	O
+고	고	EC	O
+,	,	SP	O
+_	_	_	O
+지난달	지난달	NNG	O
+엔	에+ㄴ	JKB+JX	O
+_	_	_	O
+윤	윤	NNP	B-PER
+_	_	_	O
+의원	의원	NNG	O
+과	과	JC	O
+_	_	_	O
+최경환	최경환	NNP	B-PER
+_	_	_	O
+의원	의원	NNG	O
+,	,	SP	O
+_	_	_	O
+현기환	현기환	NNP	B-PER
+_	_	_	O
+전	전	MM	O
+_	_	_	O
+청와대	청와대	NNP	B-ORG
+_	_	_	O
+정무	정무	NNG	O
+수석	수석	NNG	O
+이	이	JKS	O
+_	_	_	O
+김성회	김성회	NNP	B-PER
+_	_	_	O
+전	전	MM	O
+_	_	_	O
+의원	의원	NNG	O
+에게	에게	JKB	O
+_	_	_	O
+총선	총선	NNG	O
+_	_	_	O
+지역구	지역구	NNG	O
+_	_	_	O
+변경	변경	NNG	O
+을	을	JKO	O
+_	_	_	O
+요구한	요구하+ㄴ	VV+ETM	O
+_	_	_	O
+전화	전화	NNG	O
+_	_	_	O
+녹취	녹취	NNG	O
+록	록	XSN	O
+이	이	JKS	O
+_	_	_	O
+또다시	또다시	MAG	O
+_	_	_	O
+공개	공개되	VV	O
+됐	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 닐슨코리아 조사에서는 모바일 쇼핑만을 이용하는 소비자 중 여성의 비율(62%)이 남성(38%)보다 훨씬 높았으며, 연령별로는 30대(32%)가 가장 많았기 때문이다.
+## <닐슨코리아:ORG> 조사에서는 모바일 쇼핑만을 이용하는 소비자 중 여성의 비율(<62%:PNT>)이 남성(<38%:PNT>)보다 훨씬 높았으며, 연령별로는 <30대:NOH>(<32%:PNT>)가 가장 많았기 때문이다.
+닐슨코리아	닐슨코리아	NNP	B-ORG
+_	_	_	O
+조사	조사	NNG	O
+에서	에서	JKB	O
+는	는	JX	O
+_	_	_	O
+모바일	모바일	NNG	O
+_	_	_	O
+쇼핑	쇼핑	NNG	O
+만	만	JX	O
+을	을	JKO	O
+_	_	_	O
+이용하	이용하	VV	O
+는	는	ETM	O
+_	_	_	O
+소비자	소비자	NNG	O
+_	_	_	O
+중	중	NNB	O
+_	_	_	O
+여성	여성	NNG	O
+의	의	JKG	O
+_	_	_	O
+비율	비율	NNG	O
+(	(	SS	O
+62	62	SN	B-PNT
+%	%	SW	I-PNT
+)	)	SS	O
+이	이	JKS	O
+_	_	_	O
+남성	남성	NNG	O
+(	(	SS	O
+38	38	SN	B-PNT
+%	%	SW	I-PNT
+)	)	SS	O
+보다	보다	JKB	O
+_	_	_	O
+훨씬	훨씬	MAG	O
+_	_	_	O
+높	높	VA	O
+았	았	EP	O
+으며	으며	EC	O
+,	,	SP	O
+_	_	_	O
+연령	연령	NNG	O
+별	별	XSN	O
+로	로	JKB	O
+는	는	JX	O
+_	_	_	O
+30	30	SN	B-NOH
+대	대	NNB	I-NOH
+(	(	SS	O
+32	32	SN	B-PNT
+%	%	SW	I-PNT
+)	)	SS	O
+가	가	JKS	O
+_	_	_	O
+가장	가장	MAG	O
+_	_	_	O
+많	많	VA	O
+았	았	EP	O
+기	기	ETN	O
+_	_	_	O
+때문	때문	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## 방식은 4대4, 2대2, 1대1 등 3가지 형태로 제공된다.
+## 방식은 <4대4:NOH>, <2대2:NOH>, <1대1:NOH> 등 <3가지:NOH> 형태로 제공된다.
+방식	방식	NNG	O
+은	은	JX	O
+_	_	_	O
+4	4	SN	B-NOH
+대	대	NNB	I-NOH
+4	4	SN	I-NOH
+,	,	SP	O
+_	_	_	O
+2	2	SN	B-NOH
+대	대	NNB	I-NOH
+2	2	SN	I-NOH
+,	,	SP	O
+_	_	_	O
+1	1	SN	B-NOH
+대	대	NNB	I-NOH
+1	1	SN	I-NOH
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+3	3	SN	B-NOH
+가지	가지	NNB	I-NOH
+_	_	_	O
+형태	형태	NNG	O
+로	로	JKB	O
+_	_	_	O
+제공된다	제공되+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 14
+## 1골 1도움을 올린 손흥민의 맹활약에 토트넘은 왓포드에 전반에만 3-0으로 앞선 채 마쳤다.
+## <1골:NOH> <1도움:NOH>을 올린 <손흥민:PER>의 맹활약에 <토트넘:ORG>은 <왓포드:ORG>에 전반에만 <3-0:NOH>으로 앞선 채 마쳤다.
+1	1	SN	B-NOH
+골	골	NNG	I-NOH
+_	_	_	O
+1	1	SN	B-NOH
+도움	도움	NNG	I-NOH
+을	을	JKO	O
+_	_	_	O
+올린	올리+ㄴ	VV+ETM	O
+_	_	_	O
+손흥민	손흥민	NNP	B-PER
+의	의	JKG	O
+_	_	_	O
+맹활약	맹활약	NNG	O
+에	에	JKB	O
+_	_	_	O
+토트넘	토트넘	NNP	B-ORG
+은	은	JX	O
+_	_	_	O
+왓포드	왓포드	NNG	B-ORG
+에	에	JKB	O
+_	_	_	O
+전반	전반	NNG	O
+에	에	JKB	O
+만	만	JX	O
+_	_	_	O
+3	3	SN	B-NOH
+-	-	SO	I-NOH
+0	0	SN	I-NOH
+으로	으로	JKB	O
+_	_	_	O
+앞선	앞서+ㄴ	VV+ETM	O
+_	_	_	O
+채	채	NNB	O
+_	_	_	O
+마	마치	VV	O
+쳤	었	EP	O
+다	다	EF	O
+.	.	SF	O
+

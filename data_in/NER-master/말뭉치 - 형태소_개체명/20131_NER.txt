@@ -1,0 +1,472 @@
+## 1
+## 김유정, 구체적인 이상형?… “허스키한 목소리에 노래 잘 하는 사람”배우 김유정이 방송을 통해 이상형을 밝혀 관심이 집중됐다.
+## <김유정:PER>, 구체적인 이상형?… “허스키한 목소리에 노래 잘 하는 사람”배우 <김유정:PER>이 방송을 통해 이상형을 밝혀 관심이 집중됐다.
+김유정	김유정	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+구체적	구체적	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+이상	이상	NNG	O
+형	형	XSN	O
+?	?	SF	O
+…	…	SE	O
+_	_	_	O
+“	“	SS	O
+허스키한	허스키하+ㄴ	VA+ETM	O
+_	_	_	O
+목소리	목소리	NNG	O
+에	에	JKB	O
+_	_	_	O
+노래	노래	NNG	O
+_	_	_	O
+잘	잘	MAG	O
+_	_	_	O
+하	하	VV	O
+는	는	ETM	O
+_	_	_	O
+사람	사람	NNG	O
+”	”	SS	O
+배우	배우	NNG	O
+_	_	_	O
+김유정	김유정	NNP	B-PER
+이	이	JKS	O
+_	_	_	O
+방송	방송	NNG	O
+을	을	JKO	O
+_	_	_	O
+통해	통하+여	VV+EC	O
+_	_	_	O
+이상형	이상형	NNG	O
+을	을	JKO	O
+_	_	_	O
+밝혀	밝히+어	VV+EC	O
+_	_	_	O
+관심	관심	NNG	O
+이	이	JKS	O
+_	_	_	O
+집중	집중되	VV	O
+됐	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 지난 30일 방송된 SBS ‘한밤의 TV연예’에서는 배우 김유정의 인터뷰 모습이 방송됐다.
+## 지난 <30일:DAT> 방송된 <SBS:POH> ‘<한밤의 TV연예:POH>’에서는 배우 <김유정:PER>의 인터뷰 모습이 방송됐다.
+지난	지나+ㄴ	VV+ETM	O
+_	_	_	O
+30	30	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+방송된	방송되+ㄴ	VV+ETM	O
+_	_	_	O
+SBS	SBS	SL	B-POH
+_	_	_	O
+‘	‘	SS	O
+한밤	한밤	NNG	B-POH
+의	의	JKG	I-POH
+_	_	_	I-POH
+TV	TV	SL	I-POH
+연예	연예	NNG	I-POH
+’	’	SS	O
+에서	에서	JKB	O
+는	는	JX	O
+_	_	_	O
+배우	배우	NNG	O
+_	_	_	O
+김유정	김유정	NNP	B-PER
+의	의	JKG	O
+_	_	_	O
+인터뷰	인터뷰	NNG	O
+_	_	_	O
+모습	모습	NNG	O
+이	이	JKS	O
+_	_	_	O
+방송	방송되	VV	O
+됐	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 이날 김유정은 최근에 뭔가 달라졌다는 질문에 “얼굴에 젖살이 조금 빠진 것 같다”며 좀 더 성숙해진 자신의 모습을 어필하며 수줍은 미소를 지었다.
+## 이날 <김유정:PER>은 최근에 뭔가 달라졌다는 질문에 “얼굴에 젖살이 조금 빠진 것 같다”며 좀 더 성숙해진 자신의 모습을 어필하며 수줍은 미소를 지었다.
+이날	이날	NNG	O
+_	_	_	O
+김유정	김유정	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+최근	최근	NNG	O
+에	에	JKB	O
+_	_	_	O
+뭔가	뭐+이+ㄴ가	NP+VCP+EC	O
+_	_	_	O
+달라	달라지	VV	O
+졌	었	EP	O
+다는	다는	ETM	O
+_	_	_	O
+질문	질문	NNG	O
+에	에	JKB	O
+_	_	_	O
+“	“	SS	O
+얼굴	얼굴	NNG	O
+에	에	JKB	O
+_	_	_	O
+젖살	젖살	NNG	O
+이	이	JKS	O
+_	_	_	O
+조금	조금	MAG	O
+_	_	_	O
+빠진	빠지+ㄴ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+_	_	_	O
+같	같	VA	O
+다	다	EF	O
+”	”	SS	O
+며	며	EC	O
+_	_	_	O
+좀	좀	MAG	O
+_	_	_	O
+더	더	MAG	O
+_	_	_	O
+성숙해	성숙하+여	VV+EC	O
+진	지+ㄴ	VX+ETM	O
+_	_	_	O
+자신	자신	NNG	O
+의	의	JKG	O
+_	_	_	O
+모습	모습	NNG	O
+을	을	JKO	O
+_	_	_	O
+어필하	어필하	VV	O
+며	며	EC	O
+_	_	_	O
+수줍	수줍	VA	O
+은	은	ETM	O
+_	_	_	O
+미소	미소	NNG	O
+를	를	JKO	O
+_	_	_	O
+지	짓	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 또한 김유정은 아릅답게 자랐단는 말에 “더 아름답게 자라겠다”고 말해 눈길을 끌었다.
+## 또한 <김유정:PER>은 아릅답게 자랐단는 말에 “더 아름답게 자라겠다”고 말해 눈길을 끌었다.
+또한	또한	MAG	O
+_	_	_	O
+김유정	김유정	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+아릅답게	아릅답게	NNG	O
+_	_	_	O
+자랐	자라+았	VV+EP	O
+단	단	MAG	O
+는	는	JX	O
+_	_	_	O
+말	말	NNG	O
+에	에	JKB	O
+_	_	_	O
+“	“	SS	O
+더	더	MAG	O
+_	_	_	O
+아름답	아름답	VA	O
+게	게	EC	O
+_	_	_	O
+자라	자라	VV	O
+겠	겠	EP	O
+다	다	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+말해	말하+여	VV+EC	O
+_	_	_	O
+눈길	눈길	NNG	O
+을	을	JKO	O
+_	_	_	O
+끌	끌	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 한편 김유정이 출연한 영화‘비밀’이 10월 개봉할 예정이다.
+## 한편 <김유정:PER>이 출연한 영화‘<비밀:POH>’이 <10월:DAT> 개봉할 예정이다.
+한편	한편	MAG	O
+_	_	_	O
+김유정	김유정	NNP	B-PER
+이	이	JKS	O
+_	_	_	O
+출연한	출연하+ㄴ	VV+ETM	O
+_	_	_	O
+영화	영화	NNG	O
+‘	‘	SS	O
+비밀	비밀	NNG	B-POH
+’	’	SS	O
+이	이	JKS	O
+_	_	_	O
+10	10	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+개봉할	개봉하+ㄹ	VV+ETM	O
+_	_	_	O
+예정	예정	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## ‘비밀’은 전국을 떠들썩하게 만든 연쇄 살인사건을 다룬 영화로, 극적으로 범인을 검거한 형사가 남겨진 살인자의 딸을 데려다 키우며 일어나는 일들을 다룬 영화다.
+## ‘<비밀:POH>’은 전국을 떠들썩하게 만든 연쇄 살인사건을 다룬 영화로, 극적으로 범인을 검거한 형사가 남겨진 살인자의 딸을 데려다 키우며 일어나는 일들을 다룬 영화다.
+‘	‘	SS	O
+비밀	비밀	NNG	B-POH
+’	’	SS	O
+은	은	JX	O
+_	_	_	O
+전국	전국	NNG	O
+을	을	JKO	O
+_	_	_	O
+떠들썩하	떠들썩하	VA	O
+게	게	EC	O
+_	_	_	O
+만든	만들+ㄴ	VV+ETM	O
+_	_	_	O
+연쇄	연쇄	NNG	O
+_	_	_	O
+살인	살인	NNG	O
+사건	사건	NNG	O
+을	을	JKO	O
+_	_	_	O
+다룬	다루+ㄴ	VV+ETM	O
+_	_	_	O
+영화	영화	NNG	O
+로	로	JKB	O
+,	,	SP	O
+_	_	_	O
+극적	극적	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+범인	범인	NNG	O
+을	을	JKO	O
+_	_	_	O
+검거한	검거하+ㄴ	VV+ETM	O
+_	_	_	O
+형사	형사	NNG	O
+가	가	JKS	O
+_	_	_	O
+남겨진	남겨지+ㄴ	VV+ETM	O
+_	_	_	O
+살인자	살인자	NNG	O
+의	의	JKG	O
+_	_	_	O
+딸	딸	NNG	O
+을	을	JKO	O
+_	_	_	O
+데려다	데리+어다	VV+EC	O
+_	_	_	O
+키우	키우	VV	O
+며	며	EC	O
+_	_	_	O
+일어나	일어나	VV	O
+는	는	ETM	O
+_	_	_	O
+일	일	NNG	O
+들	들	XSN	O
+을	을	JKO	O
+_	_	_	O
+다룬	다루+ㄴ	VV+ETM	O
+_	_	_	O
+영화	영화+이	NNG+VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## ‘제터’ 재킷은 군더더기 없는 깔끔한 디자인과 모던한 색상으로 운동할 때뿐만 아니라 일상에서도 입기 좋다.
+## ‘<제터:POH>’ 재킷은 군더더기 없는 깔끔한 디자인과 모던한 색상으로 운동할 때뿐만 아니라 일상에서도 입기 좋다.
+‘	‘	SS	O
+제터	제터	NNP	B-POH
+’	’	SS	O
+_	_	_	O
+재킷	재킷	NNG	O
+은	은	JX	O
+_	_	_	O
+군더더기	군더더기	NNG	O
+_	_	_	O
+없	없	VA	O
+는	는	ETM	O
+_	_	_	O
+깔끔한	깔끔하+ㄴ	VA+ETM	O
+_	_	_	O
+디자인	디자인	NNG	O
+과	과	JC	O
+_	_	_	O
+모던	모던	NNG	O
+한	하+ㄴ	XSA+ETM	O
+_	_	_	O
+색상	색상	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+운동할	운동하+ㄹ	VV+ETM	O
+_	_	_	O
+때	때	NNG	O
+뿐	뿐	JX	O
+만	만	JX	O
+_	_	_	O
+아니	아니	VCN	O
+라	라	EC	O
+_	_	_	O
+일상	일상	NNG	O
+에서	에서	JKB	O
+도	도	JX	O
+_	_	_	O
+입	입	VV	O
+기	기	ETN	O
+_	_	_	O
+좋	좋	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 안심전환대출은 20조원 한도로 판매되는 상품이라 조기 소진될 수 있어서다.
+## <안심전환대출:POH>은 <20조원:MNY> 한도로 판매되는 상품이라 조기 소진될 수 있어서다.
+안심	안심	NNG	B-POH
+전환	전환	NNG	I-POH
+대출	대출	NNG	I-POH
+은	은	JX	O
+_	_	_	O
+20	20	SN	B-MNY
+조	조	NR	I-MNY
+원	원	NNB	I-MNY
+_	_	_	O
+한도	한도	NNG	O
+로	로	JKB	O
+_	_	_	O
+판매되	판매되	VV	O
+는	는	ETM	O
+_	_	_	O
+상품	상품	NNG	O
+이	이	VCP	O
+라	라	EC	O
+_	_	_	O
+조기	조기	NNG	O
+_	_	_	O
+소진될	소진되+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+어서	어서+이	EC+VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 고민하던 이씨는 바로 안심전환대출로 갈아타기로 했다.
+## 고민하던 <이씨:PER>는 바로 <안심전환대출:POH>로 갈아타기로 했다.
+고민하	고민하	VV	O
+던	던	ETM	O
+_	_	_	O
+이	이	NNP	B-PER
+씨	씨	NNB	I-PER
+는	는	JX	O
+_	_	_	O
+바로	바로	MAG	O
+_	_	_	O
+안심	안심	NNG	B-POH
+전환	전환	NNG	I-POH
+대출	대출	NNG	I-POH
+로	로	JKB	O
+_	_	_	O
+갈아타	갈아타	VV	O
+기	기	ETN	O
+로	로	JKB	O
+_	_	_	O
+했	+였	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 힐링캠프 핑클걸그룹 ‘핑클’ 출신 옥주현, 성유리, 이효리가 불화설에 입을 열었다.
+## <힐링캠프:POH> <핑클:ORG>걸그룹 ‘<핑클:ORG>’ 출신 <옥주현:PER>, <성유리:PER>, <이효리:PER>가 불화설에 입을 열었다.
+힐링	힐링	NNG	B-POH
+캠프	캠프	NNG	I-POH
+_	_	_	O
+핑클	핑클	NNP	B-ORG
+걸	걸	NNG	O
+그룹	그룹	NNG	O
+_	_	_	O
+‘	‘	SS	O
+핑클	핑클	NNP	B-ORG
+’	’	SS	O
+_	_	_	O
+출신	출신	NNG	O
+_	_	_	O
+옥주현	옥주현	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+성유리	성유리	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+이효리	이효리	NNP	B-PER
+가	가	JKS	O
+_	_	_	O
+불화	불화	NNG	O
+설	설	XSN	O
+에	에	JKB	O
+_	_	_	O
+입	입	NNG	O
+을	을	JKO	O
+_	_	_	O
+열	열	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 온라인 중앙일보'음식 중독 의미' [사진
+## <온라인 중앙일보:POH>'음식 중독 의미' [사진
+온라인	온라인	NNG	B-POH
+_	_	_	I-POH
+중앙일보	중앙일보	NNP	I-POH
+'	'	SS	O
+음식	음식	NNG	O
+_	_	_	O
+중독	중독	NNG	O
+_	_	_	O
+의미	의미	NNG	O
+'	'	SS	O
+_	_	_	O
+[	[	SS	O
+사진	사진	NNG	O
+
+## 12
+## 약 아스피린, 임신에 탁월한 도움… 대조군 비해 성공률 17% 높아
+## 약 <아스피린:POH>, 임신에 탁월한 도움… 대조군 비해 성공률 <17%:PNT> 높아
+약	약	MM	O
+_	_	_	O
+아스피린	아스피린	NNG	B-POH
+,	,	SP	O
+_	_	_	O
+임신	임신	NNG	O
+에	에	JKB	O
+_	_	_	O
+탁월한	탁월하+ㄴ	VA+ETM	O
+_	_	_	O
+도움	도움	NNG	O
+…	…	SE	O
+_	_	_	O
+대조	대조	NNG	O
+군	군	NNG	O
+_	_	_	O
+비해	비하+여	VV+EC	O
+_	_	_	O
+성공	성공	NNG	O
+률	률	XSN	O
+_	_	_	O
+17	17	SN	B-PNT
+%	%	SW	I-PNT
+_	_	_	O
+높	높	VA	O
+아	아	EC	O
+

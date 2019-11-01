@@ -1,0 +1,512 @@
+## 1
+## “지금은 몸매 좋다란 얘기를 듣지만, 나 역시 4년전만 해도 콤플렉스 덩어리였다.
+## “지금은 몸매 좋다란 얘기를 듣지만, 나 역시 <4년:NOH>전만 해도 콤플렉스 덩어리였다.
+“	“	SS	O
+지금	지금	NNG	O
+은	은	JX	O
+_	_	_	O
+몸매	몸매	NNG	O
+_	_	_	O
+좋	좋	VA	O
+다란	다란	EC	O
+_	_	_	O
+얘기	얘기	NNG	O
+를	를	JKO	O
+_	_	_	O
+듣	듣	VV	O
+지만	지만	EC	O
+,	,	SP	O
+_	_	_	O
+나	나	NP	O
+_	_	_	O
+역시	역시	MAG	O
+_	_	_	O
+4	4	SN	B-NOH
+년	년	NNB	I-NOH
+전	전	NNG	O
+만	만	JX	O
+_	_	_	O
+해도	하+여도	VV+EC	O
+_	_	_	O
+콤플렉스	콤플렉스	NNG	O
+_	_	_	O
+덩어리	덩어리+이	NNG+VCP	O
+였	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 삼성물산은 이에 대해 지난해 33조7000억 원이었던 매출액이 시너지 효과에 힘입어 2020년에는 60조 원 수준으로 확대될 것이라고 자신한 바 있다.
+## <삼성물산:ORG>은 이에 대해 지난해 <33조7000억 원:MNY>이었던 매출액이 시너지 효과에 힘입어 <2020년:DAT>에는 <60조 원:MNY> 수준으로 확대될 것이라고 자신한 바 있다.
+삼성물산	삼성물산	NNP	B-ORG
+은	은	JX	O
+_	_	_	O
+이	이	NP	O
+에	에	JKB	O
+_	_	_	O
+대해	대하+여	VV+EC	O
+_	_	_	O
+지난해	지난해	NNG	O
+_	_	_	O
+33	33	SN	B-MNY
+조	조	NNG	I-MNY
+7000	7000	SN	I-MNY
+억	억	NR	I-MNY
+_	_	_	I-MNY
+원	원	NNB	I-MNY
+이	이	VCP	O
+었	었	EP	O
+던	던	ETM	O
+_	_	_	O
+매출액	매출액	NNG	O
+이	이	JKS	O
+_	_	_	O
+시너지	시너지	NNG	O
+_	_	_	O
+효과	효과	NNG	O
+에	에	JKB	O
+_	_	_	O
+힘입	힘입	VV	O
+어	어	EC	O
+_	_	_	O
+2020	2020	SN	B-DAT
+년	년	NNB	I-DAT
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+60	60	SN	B-MNY
+조	조	NNG	I-MNY
+_	_	_	I-MNY
+원	원	NNB	I-MNY
+_	_	_	O
+수준	수준	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+확대될	확대되+ㄹ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+이	이	VCP	O
+라고	라고	EC	O
+_	_	_	O
+자신	자신	NNG	O
+한	한	NNG	O
+_	_	_	O
+바	바	NNB	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 그리고 아무래도 아이폰의 경우에는 메탈 API 때문에 더욱 부드럽게 구동된다.
+## 그리고 아무래도 <아이폰:POH>의 경우에는 메탈 API 때문에 더욱 부드럽게 구동된다.
+그리고	그리고	MAJ	O
+_	_	_	O
+아무래도	아무래도	MAG	O
+_	_	_	O
+아이폰	아이폰	NNG	B-POH
+의	의	JKG	O
+_	_	_	O
+경우	경우	NNG	O
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+메탈	메탈	NNG	O
+_	_	_	O
+API	API	SL	O
+_	_	_	O
+때문	때문	NNB	O
+에	에	JKB	O
+_	_	_	O
+더욱	더욱	MAG	O
+_	_	_	O
+부드럽	부드럽	VA	O
+게	게	EC	O
+_	_	_	O
+구동	구동	NNG	O
+된다	되+ㄴ다	XSV+EF	O
+.	.	SF	O
+
+## 4
+## 12개월 뒤 동급 신차를 구입해도 계속해서 무이자 할부 혜택을 받을 수 있다.
+## <12개월:NOH> 뒤 동급 신차를 구입해도 계속해서 무이자 할부 혜택을 받을 수 있다.
+12	12	SN	B-NOH
+개월	개월	NNB	I-NOH
+_	_	_	O
+뒤	뒤	NNG	O
+_	_	_	O
+동급	동급	NNG	O
+_	_	_	O
+신차	신차	NNG	O
+를	를	JKO	O
+_	_	_	O
+구입해도	구입하+여도	VV+EC	O
+_	_	_	O
+계속해서	계속하+여서	VV+EC	O
+_	_	_	O
+무이자	무이자	NNG	O
+_	_	_	O
+할부	할부	NNG	O
+_	_	_	O
+혜택	혜택	NNG	O
+을	을	JKO	O
+_	_	_	O
+받	받	VV	O
+을	을	ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 소비자 입장에서는 1년 전에 만들어진 차를 제값을 다주고 사야하기 때문이다.
+## 소비자 입장에서는 <1년:NOH> 전에 만들어진 차를 제값을 다주고 사야하기 때문이다.
+소비자	소비자	NNG	O
+_	_	_	O
+입장	입장	NNG	O
+에서	에서	JKB	O
+는	는	JX	O
+_	_	_	O
+1	1	SN	B-NOH
+년	년	NNB	I-NOH
+_	_	_	O
+전	전	NNG	O
+에	에	JKB	O
+_	_	_	O
+만들	만들	VV	O
+어	어	EC	O
+진	지+ㄴ	VX+ETM	O
+_	_	_	O
+차	차	NNG	O
+를	를	JKO	O
+_	_	_	O
+제값	제값	NNG	O
+을	을	JKO	O
+_	_	_	O
+다주	다주	NNG	O
+고	고	JKQ	O
+_	_	_	O
+사야	사+아야	VV+EC	O
+하	하	VX	O
+기	기	ETN	O
+_	_	_	O
+때문	때문	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 현대카드는 새로운 자체 미디어를 통해 자신들의 철학이 담긴 영상 컨텐트를 직접 제공한다.
+## <현대카드:ORG>는 새로운 자체 미디어를 통해 자신들의 철학이 담긴 영상 컨텐트를 직접 제공한다.
+현대카드	현대카드	NNP	B-ORG
+는	는	JX	O
+_	_	_	O
+새로	새롭	VA	O
+운	ㄴ	ETM	O
+_	_	_	O
+자체	자체	NNG	O
+_	_	_	O
+미디어	미디어	NNG	O
+를	를	JKO	O
+_	_	_	O
+통해	통하+여	VV+EC	O
+_	_	_	O
+자신	자신	NNG	O
+들	들	XSN	O
+의	의	JKG	O
+_	_	_	O
+철학	철학	NNG	O
+이	이	JKS	O
+_	_	_	O
+담긴	담기+ㄴ	VV+ETM	O
+_	_	_	O
+영상	영상	NNG	O
+_	_	_	O
+컨텐트	컨텐트	NNG	O
+를	를	JKO	O
+_	_	_	O
+직접	직접	MAG	O
+_	_	_	O
+제공한다	제공하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 7
+## 다양한 스타일의 5개 프로그램으로 구성돼 있다.
+## 다양한 스타일의 <5개:NOH> 프로그램으로 구성돼 있다.
+다양한	다양하+ㄴ	VA+ETM	O
+_	_	_	O
+스타일	스타일	NNG	O
+의	의	JKG	O
+_	_	_	O
+5	5	SN	B-NOH
+개	개	NNB	I-NOH
+_	_	_	O
+프로그램	프로그램	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+구성돼	구성되+어	VV+EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## ‘나눔 딜라이트’ 발광다이오드(LED) 테이블 조명은 폴리에스테르 부직포로 제작된 전등갓이 13단계로 다채롭게 변화하고 그에 따라 조도도 달라져 다양한 분위기 연출이 가능하다.
+## ‘<나눔 딜라이트:POH>’ 발광다이오드(LED) 테이블 조명은 폴리에스테르 부직포로 제작된 전등갓이 <13단계:NOH>로 다채롭게 변화하고 그에 따라 조도도 달라져 다양한 분위기 연출이 가능하다.
+‘	‘	SS	O
+나눔	나누+ㅁ	VV+ETN	B-POH
+_	_	_	I-POH
+딜	딜	NNG	I-POH
+라이트	라이트	NNG	I-POH
+’	’	SS	O
+_	_	_	O
+발광	발광	NNG	O
+다이오드	다이오드	NNG	O
+(	(	SS	O
+LED	LED	SL	O
+)	)	SS	O
+_	_	_	O
+테이블	테이블	NNG	O
+_	_	_	O
+조명	조명	NNG	O
+은	은	JX	O
+_	_	_	O
+폴리에스테르	폴리에스테르	NNG	O
+_	_	_	O
+부직포	부직포	NNG	O
+로	로	JKB	O
+_	_	_	O
+제작된	제작되+ㄴ	VV+ETM	O
+_	_	_	O
+전등갓	전등갓	NNG	O
+이	이	JKS	O
+_	_	_	O
+13	13	SN	B-NOH
+단계	단계	NNG	I-NOH
+로	로	JKB	O
+_	_	_	O
+다채롭	다채롭	VA	O
+게	게	EC	O
+_	_	_	O
+변화하	변화하	VV	O
+고	고	EC	O
+_	_	_	O
+그	그	NP	O
+에	에	JKB	O
+_	_	_	O
+따	따르	VV	O
+라	아	EC	O
+_	_	_	O
+조도도	조도도	NNP	O
+_	_	_	O
+달라져	달라지+어	VV+EC	O
+_	_	_	O
+다양한	다양하+ㄴ	VA+ETM	O
+_	_	_	O
+분위기	분위기	NNG	O
+_	_	_	O
+연출	연출	NNG	O
+이	이	JKS	O
+_	_	_	O
+가능하	가능하	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 하지만 감사원은 “실제 해외자원 개발사업을 통한 자원 확보량은 미미했다”고 밝혔다.
+## 하지만 <감사원:ORG>은 “실제 해외자원 개발사업을 통한 자원 확보량은 미미했다”고 밝혔다.
+하지만	하지만	MAJ	O
+_	_	_	O
+감사원	감사원	NNG	B-ORG
+은	은	JX	O
+_	_	_	O
+“	“	SS	O
+실제	실제	NNG	O
+_	_	_	O
+해외	해외	NNG	O
+자원	자원	NNG	O
+_	_	_	O
+개발	개발	NNG	O
+사업	사업	NNG	O
+을	을	JKO	O
+_	_	_	O
+통한	통하+ㄴ	VV+ETM	O
+_	_	_	O
+자원	자원	NNG	O
+_	_	_	O
+확보	확보	NNG	O
+량	량	NNG	O
+은	은	JX	O
+_	_	_	O
+미미	미미하	VA	O
+했	었	EP	O
+다	다	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+밝	밝히	VV	O
+혔	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 분양가는 3.3㎡당 평균 999만 원이다.
+## 분양가는 <3.3㎡:NOH>당 평균 <999만 원:MNY>이다.
+분양가	분양가	NNG	O
+는	는	JX	O
+_	_	_	O
+3.3	3.3	SN	B-NOH
+㎡	㎡	SW	I-NOH
+당	당	XSN	O
+_	_	_	O
+평균	평균	NNG	O
+_	_	_	O
+999	999	SN	B-MNY
+만	만	NR	I-MNY
+_	_	_	I-MNY
+원	원	NNB	I-MNY
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 지난 50년이후 미국에서는 모두 12차례의 중간선거가 치러졌다.
+## 지난 <50년:NOH>이후 <미국:ORG>에서는 모두 <12차례:NOH>의 중간선거가 치러졌다.
+지난	지나+ㄴ	VV+ETM	O
+_	_	_	O
+50	50	SN	B-NOH
+년	년	NNB	I-NOH
+이후	이후	NNG	O
+_	_	_	O
+미국	미국	NNP	B-ORG
+에서	에서	JKB	O
+는	는	JX	O
+_	_	_	O
+모두	모두	MAG	O
+_	_	_	O
+12	12	SN	B-NOH
+차례	차례	NNG	I-NOH
+의	의	JKG	O
+_	_	_	O
+중간	중간	NNG	O
+선거	선거	NNG	O
+가	가	JKS	O
+_	_	_	O
+치	치르	VV	O
+러	어+지	EC+VX	O
+졌	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 중학교 자유학기제 기간 시범운영댄스·서킷 프로그램 등 총 14주 대한체육회(회장 김정행·강영중)가 ‘미드림(美Dream) 스포츠 프로그램’을 운영한다.
+## 중학교 자유학기제 기간 시범운영댄스·서킷 프로그램 등 총 <14주:NOH> <대한체육회:ORG>(회장 <김정행:PER>·<강영중:PER>)가 ‘<미드림(美Dream) 스포츠 프로그램:POH>’을 운영한다.
+중학교	중학교	NNG	O
+_	_	_	O
+자유	자유	NNG	O
+학기제	학기제	NNG	O
+_	_	_	O
+기간	기간	NNG	O
+_	_	_	O
+시범	시범	NNG	O
+운영	운영	NNG	O
+댄스	댄스	NNG	O
+·	·	SP	O
+서킷	서킷	NNG	O
+_	_	_	O
+프로그램	프로그램	NNG	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+총	총	MM	O
+_	_	_	O
+14	14	SN	B-NOH
+주	주	NNB	I-NOH
+_	_	_	O
+대한체육회	대한체육회	NNP	B-ORG
+(	(	SS	O
+회장	회장	NNG	O
+_	_	_	O
+김정행	김정행	NNP	B-PER
+·	·	SP	O
+강영중	강영중	NNP	B-PER
+)	)	SS	O
+가	가	JKS	O
+_	_	_	O
+‘	‘	SS	O
+미	미	NNP	B-POH
+드림	드림	NNG	I-POH
+(	(	SS	I-POH
+美	美	SH	I-POH
+Dream	Dream	SL	I-POH
+)	)	SS	I-POH
+_	_	_	I-POH
+스포츠	스포츠	NNG	I-POH
+_	_	_	I-POH
+프로그램	프로그램	NNG	I-POH
+’	’	SS	O
+을	을	JKO	O
+_	_	_	O
+운영한다	운영하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 13
+## 그동안 탐방로가 단조로워 한정된 경관을 보여줬지만 백록담 남벽분기점에서 정상까지 남벽구간(0.7km)이 재개방되면 한라산 탐방이 ‘사통팔달’로 열린다.
+## 그동안 탐방로가 단조로워 한정된 경관을 보여줬지만 <백록담 남벽분기점:LOC>에서 정상까지 남벽구간(<0.7km:NOH>)이 재개방되면 <한라산:LOC> 탐방이 ‘사통팔달’로 열린다.
+그동안	그동안	NNG	O
+_	_	_	O
+탐방	탐방	NNG	O
+로	로	XSN	O
+가	가	JKS	O
+_	_	_	O
+단조로	단조롭	VA	O
+워	어	EC	O
+_	_	_	O
+한정된	한정되+ㄴ	VV+ETM	O
+_	_	_	O
+경관	경관	NNG	O
+을	을	JKO	O
+_	_	_	O
+보	보이	VV	O
+여	어+주	EC+VX	O
+줬	었	EP	O
+지만	지만	EC	O
+_	_	_	O
+백록담	백록담	NNP	B-LOC
+_	_	_	I-LOC
+남	남	NNG	I-LOC
+벽	벽	NNG	I-LOC
+분기점	분기점	NNG	I-LOC
+에서	에서	JKB	O
+_	_	_	O
+정상	정상	NNG	O
+까지	까지	JX	O
+_	_	_	O
+남	남	NNG	O
+벽	벽	NNG	O
+구간	구간	NNG	O
+(	(	SS	O
+0.7	0.7	SN	B-NOH
+km	km	SL	I-NOH
+)	)	SS	O
+이	이	JKS	O
+_	_	_	O
+재	재	XPN	O
+개방되	개방되	VV	O
+면	면	EC	O
+_	_	_	O
+한라산	한라산	NNP	B-LOC
+_	_	_	O
+탐방	탐방	NNG	O
+이	이	JKS	O
+_	_	_	O
+‘	‘	SS	O
+사통팔달	사통팔달	NNG	O
+’	’	SS	O
+로	로	JKB	O
+_	_	_	O
+열린다	열리+ㄴ다	VV+EF	O
+.	.	SF	O
+

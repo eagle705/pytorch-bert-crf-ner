@@ -1,0 +1,567 @@
+## 1
+## 청양·김제·수원=신진호·김준희·김민욱 기자 kim.minwook@joongang.co.kr사진=송봉근 기자
+## <청양:LOC>·<김제:LOC>·<수원:LOC>=<신진호:PER>·<김준희:PER>·<김민욱:PER> 기자 <kim.minwook@joongang.co.kr:POH>사진=<송봉근:PER> 기자
+청양	청양	NNP	B-LOC
+·	·	SP	O
+김제	김제	NNP	B-LOC
+·	·	SP	O
+수원	수원	NNP	B-LOC
+=	=	SW	O
+신진호	신진호	NNP	B-PER
+·	·	SP	O
+김준희	김준희	NNP	B-PER
+·	·	SP	O
+김민욱	김민욱	NNP	B-PER
+_	_	_	O
+기자	기자	NNG	O
+_	_	_	O
+kim	kim	SL	B-POH
+.	.	SF	I-POH
+minwook	minwook	SL	I-POH
+@	@	SW	I-POH
+joongang	joongang	SL	I-POH
+.	.	SF	I-POH
+co	co	SL	I-POH
+.	.	SF	I-POH
+kr	kr	SL	I-POH
+사진	사진	NNG	O
+=	=	SW	O
+송봉근	송봉근	NNP	B-PER
+_	_	_	O
+기자	기자	NNG	O
+
+## 2
+## 국민의당 양순필 부대변인은 “국민적 열망인 정권 교체를 부정한 정치 교체 발언은 저의를 의심케 한다”고만 했다.
+## <국민의당:ORG> <양순필:PER> 부대변인은 “국민적 열망인 정권 교체를 부정한 정치 교체 발언은 저의를 의심케 한다”고만 했다.
+국민	국민	NNG	B-ORG
+의당	의당	MAG	I-ORG
+_	_	_	O
+양순필	양순필	NNP	B-PER
+_	_	_	O
+부	부	XPN	O
+대변인	대변인	NNG	O
+은	은	JX	O
+_	_	_	O
+“	“	SS	O
+국민적	국민적	NNG	O
+_	_	_	O
+열망	열망	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+정권	정권	NNG	O
+_	_	_	O
+교체	교체	NNG	O
+를	를	JKO	O
+_	_	_	O
+부정한	부정하+ㄴ	VA+ETM	O
+_	_	_	O
+정치	정치	NNG	O
+_	_	_	O
+교체	교체	NNG	O
+_	_	_	O
+발언	발언	NNG	O
+은	은	JX	O
+_	_	_	O
+저의	저의	NNG	O
+를	를	JKO	O
+_	_	_	O
+의심	의심하	VV	O
+케	게	EC	O
+_	_	_	O
+한다	하+ㄴ다	VX+EF	O
+”	”	SS	O
+고	고	JKQ	O
+만	만	JX	O
+_	_	_	O
+했	+였	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 첫 출근길을 맞은 14일 오전 이미 예상됐던 정체현상이 일부 생겼지만 교통대란까지는 일어나지 않았다.
+## 첫 출근길을 맞은 <14일:DAT> 오전 이미 예상됐던 정체현상이 일부 생겼지만 교통대란까지는 일어나지 않았다.
+첫	첫	MM	O
+_	_	_	O
+출근길	출근길	NNG	O
+을	을	JKO	O
+_	_	_	O
+맞	맞	VV	O
+은	은	ETM	O
+_	_	_	O
+14	14	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+오전	오전	NNG	O
+_	_	_	O
+이미	이미	MAG	O
+_	_	_	O
+예상	예상되	VV	O
+됐	었	EP	O
+던	던	ETM	O
+_	_	_	O
+정체	정체	NNG	O
+현상	현상	NNG	O
+이	이	JKS	O
+_	_	_	O
+일부	일부	NNG	O
+_	_	_	O
+생	생기	VV	O
+겼	었	EP	O
+지만	지만	EC	O
+_	_	_	O
+교통	교통	NNG	O
+대란	대란	NNG	O
+까지	까지	JX	O
+는	는	JX	O
+_	_	_	O
+일어나	일어나	VV	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 이날 오전 6시45분께 우회도로 중 하나인 서울스퀘어 앞에서 퇴계로 진입 부분은 약간의 정체현상이 빚어졌다.
+## 이날 <오전 6시45분:TIM>께 우회도로 중 하나인 <서울스퀘어:LOC> 앞에서 <퇴계로:LOC> 진입 부분은 약간의 정체현상이 빚어졌다.
+이날	이날	NNG	O
+_	_	_	O
+오전	오전	NNG	B-TIM
+_	_	_	I-TIM
+6	6	SN	I-TIM
+시	시	NNB	I-TIM
+45	45	SN	I-TIM
+분	분	NNB	I-TIM
+께	께	XSN	O
+_	_	_	O
+우회	우회	NNG	O
+도로	도로	NNG	O
+_	_	_	O
+중	중	NNB	O
+_	_	_	O
+하나	하나	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+서울	서울	NNP	B-LOC
+스퀘어	스퀘어	NNG	I-LOC
+_	_	_	O
+앞	앞	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+퇴계로	퇴계로	NNP	B-LOC
+_	_	_	O
+진입	진입	NNG	O
+_	_	_	O
+부분	부분	NNG	O
+은	은	JX	O
+_	_	_	O
+약간	약간	NNG	O
+의	의	JKG	O
+_	_	_	O
+정체	정체	NNG	O
+현상	현상	NNG	O
+이	이	JKS	O
+_	_	_	O
+빚어	빚어지	VV	O
+졌	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 최창렬 용인대 정치학과 교수는 “선거와 무관한 발언이라도 유권자에게는 대통령의 메시지로 인식돼 표심에 작용할 확률이 높다”며 “상식적으로 논란이 제기될 수밖에 없는 시점에 굳이 부산을 방문해야 했느냐”고 지적했다.
+## <최창렬:PER> <용인대 정치학과:ORG> 교수는 “선거와 무관한 발언이라도 유권자에게는 대통령의 메시지로 인식돼 표심에 작용할 확률이 높다”며 “상식적으로 논란이 제기될 수밖에 없는 시점에 굳이 <부산:LOC>을 방문해야 했느냐”고 지적했다.
+최창렬	최창렬	NNP	B-PER
+_	_	_	O
+용인대	용인대	NNP	B-ORG
+_	_	_	I-ORG
+정치학	정치학	NNG	I-ORG
+과	과	NNG	I-ORG
+_	_	_	O
+교수	교수	NNG	O
+는	는	JX	O
+_	_	_	O
+“	“	SS	O
+선거	선거	NNG	O
+와	와	JKB	O
+_	_	_	O
+무관한	무관하+ㄴ	VA+ETM	O
+_	_	_	O
+발언	발언	NNG	O
+이라도	이라도	JX	O
+_	_	_	O
+유권자	유권자	NNG	O
+에게	에게	JKB	O
+는	는	JX	O
+_	_	_	O
+대통령	대통령	NNG	O
+의	의	JKG	O
+_	_	_	O
+메시지	메시지	NNG	O
+로	로	JKB	O
+_	_	_	O
+인식돼	인식되+어	VV+EC	O
+_	_	_	O
+표	표	NNG	O
+심	심	XSN	O
+에	에	JKB	O
+_	_	_	O
+작용할	작용하+ㄹ	VV+ETM	O
+_	_	_	O
+확률	확률	NNG	O
+이	이	JKS	O
+_	_	_	O
+높	높	VA	O
+다	다	EF	O
+”	”	SS	O
+며	며	EC	O
+_	_	_	O
+“	“	SS	O
+상식적	상식적	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+논란	논란	NNG	O
+이	이	JKS	O
+_	_	_	O
+제기될	제기되+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+밖에	밖에	JX	O
+_	_	_	O
+없	없	VA	O
+는	는	ETM	O
+_	_	_	O
+시점	시점	NNG	O
+에	에	JKB	O
+_	_	_	O
+굳이	굳이	MAG	O
+_	_	_	O
+부산	부산	NNP	B-LOC
+을	을	JKO	O
+_	_	_	O
+방문해야	방문하+여야	VV+EC	O
+_	_	_	O
+했	+었	+EP	O
+느냐	느냐	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+지적	지적하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 150억원에 상징적인 이대호 영입한 롯데LG와 KIA가 전력강화에 앞장서자 롯데도 비장의 카드를 꺼내들었다.
+## <150억원:MNY>에 상징적인 <이대호:PER> 영입한 <롯데:ORG><LG:ORG>와 <KIA:ORG>가 전력강화에 앞장서자 <롯데:ORG>도 비장의 카드를 꺼내들었다.
+150	150	SN	B-MNY
+억	억	NR	I-MNY
+원	원	NNB	I-MNY
+에	에	JKB	O
+_	_	_	O
+상징적	상징적	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+이대호	이대호	NNP	B-PER
+_	_	_	O
+영입한	영입하+ㄴ	VV+ETM	O
+_	_	_	O
+롯데	롯데	NNP	B-ORG
+LG	LG	SL	B-ORG
+와	와	JC	O
+_	_	_	O
+KIA	KIA	SL	B-ORG
+가	가	JKS	O
+_	_	_	O
+전력	전력	NNG	O
+강화	강화	NNG	O
+에	에	JKB	O
+_	_	_	O
+앞장서	앞장서	VV	O
+자	자	EC	O
+_	_	_	O
+롯데	롯데	NNP	B-ORG
+도	도	JX	O
+_	_	_	O
+비장	비장	NNG	O
+의	의	JKG	O
+_	_	_	O
+카드	카드	NNG	O
+를	를	JKO	O
+_	_	_	O
+꺼내	꺼내+어	VV+EC	O
+들	들	VX	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 면허가 필요 없는 산탄총의 경우 오스트리아 총기상들이 보유한 재고가 모두 바닥난 상태다.
+## 면허가 필요 없는 산탄총의 경우 <오스트리아:ORG> 총기상들이 보유한 재고가 모두 바닥난 상태다.
+면허	면허	NNG	O
+가	가	JKS	O
+_	_	_	O
+필요	필요	NNG	O
+_	_	_	O
+없	없	VA	O
+는	는	ETM	O
+_	_	_	O
+산탄총	산탄총	NNG	O
+의	의	JKG	O
+_	_	_	O
+경우	경우	NNG	O
+_	_	_	O
+오스트리아	오스트리아	NNP	B-ORG
+_	_	_	O
+총기	총기	NNG	O
+상	상	XSN	O
+들	들	XSN	O
+이	이	JKS	O
+_	_	_	O
+보유한	보유하+ㄴ	VV+ETM	O
+_	_	_	O
+재고	재고	NNG	O
+가	가	JKS	O
+_	_	_	O
+모두	모두	MAG	O
+_	_	_	O
+바닥난	바닥나+ㄴ	VV+ETM	O
+_	_	_	O
+상태	상태+이	NNG+VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 온라인 중앙일보‘허미영’. [사진 조윤호 인스타그램]
+## 온라인 <중앙일보:ORG>‘<허미영:PER>’. [사진 <조윤호:PER> <인스타그램:POH>]
+온라인	온라인	NNG	O
+_	_	_	O
+중앙일보	중앙일보	NNP	B-ORG
+‘	‘	SS	O
+허미영	허미영	NNP	B-PER
+’	’	SS	O
+.	.	SF	O
+_	_	_	O
+[	[	SS	O
+사진	사진	NNG	O
+_	_	_	O
+조윤호	조윤호	NNP	B-PER
+_	_	_	O
+인스타그램	인스타그램	NNP	B-POH
+]	]	SS	O
+
+## 9
+## 이진우 기자 [사진 SBS ‘너를 사랑한 시간’ 방송화면 캡처]
+## <이진우:PER> 기자 [사진 <SBS:POH> ‘<너를 사랑한 시간:POH>’ 방송화면 캡처]
+이진우	이진우	NNP	B-PER
+_	_	_	O
+기자	기자	NNG	O
+_	_	_	O
+[	[	SS	O
+사진	사진	NNG	O
+_	_	_	O
+SBS	SBS	SL	B-POH
+_	_	_	O
+‘	‘	SS	O
+너	너	NP	B-POH
+를	를	JKO	I-POH
+_	_	_	I-POH
+사랑한	사랑하+ㄴ	VV+ETM	I-POH
+_	_	_	I-POH
+시간	시간	NNG	I-POH
+’	’	SS	O
+_	_	_	O
+방송	방송	NNG	O
+화면	화면	NNG	O
+_	_	_	O
+캡처	캡처	NNG	O
+]	]	SS	O
+
+## 10
+## 두 번째는 조선 민족에게 독립 열정을 자극하기 위해서고, 세 번째는 일본 사회운동가들에게 혁명적 기운을 불어넣기 위해서다.
+## <두 번째:NOH>는 <조선:ORG> 민족에게 독립 열정을 자극하기 위해서고, <세 번째:NOH>는 <일본:ORG> 사회운동가들에게 혁명적 기운을 불어넣기 위해서다.
+두	두	MM	B-NOH
+_	_	_	I-NOH
+번째	번째	NNB	I-NOH
+는	는	JX	O
+_	_	_	O
+조선	조선	NNP	B-ORG
+_	_	_	O
+민족	민족	NNG	O
+에게	에게	JKB	O
+_	_	_	O
+독립	독립	NNG	O
+_	_	_	O
+열정	열정	NNG	O
+을	을	JKO	O
+_	_	_	O
+자극하	자극하	VV	O
+기	기	ETN	O
+_	_	_	O
+위해서	위하+여서+이	VV+EC+VCP	O
+고	고	EC	O
+,	,	SP	O
+_	_	_	O
+세	세	MM	B-NOH
+_	_	_	I-NOH
+번째	번째	NNB	I-NOH
+는	는	JX	O
+_	_	_	O
+일본	일본	NNP	B-ORG
+_	_	_	O
+사회	사회	NNG	O
+운동가	운동가	NNG	O
+들	들	XSN	O
+에게	에게	JKB	O
+_	_	_	O
+혁명적	혁명적	NNG	O
+_	_	_	O
+기운	기운	NNG	O
+을	을	JKO	O
+_	_	_	O
+불어넣	불어넣	VV	O
+기	기	ETN	O
+_	_	_	O
+위해서	위하+여서+이	VV+EC+VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 신기남 의원, 아들 로스쿨 구제 압력 행사?…“부모 된 마음에…” 해명
+## <신기남:PER> 의원, 아들 로스쿨 구제 압력 행사?…“부모 된 마음에…” 해명
+신기남	신기남	NNP	B-PER
+_	_	_	O
+의원	의원	NNG	O
+,	,	SP	O
+_	_	_	O
+아들	아들	NNG	O
+_	_	_	O
+로스쿨	로스쿨	NNG	O
+_	_	_	O
+구제	구제	NNG	O
+_	_	_	O
+압력	압력	NNG	O
+_	_	_	O
+행사	행사	NNG	O
+?	?	SF	O
+…	…	SE	O
+“	“	SS	O
+부모	부모	NNG	O
+_	_	_	O
+된	되+ㄴ	VV+ETM	O
+_	_	_	O
+마음	마음	NNG	O
+에	에	JKB	O
+…	…	SE	O
+”	”	SS	O
+_	_	_	O
+해명	해명	NNG	O
+
+## 12
+## “다음 달 8일 열리는 총학생회 출범식은 2만 학우가 학교 발전을 위해 뜻을 모으는 소중한 자리가 될 겁니다.
+## “다음 달 <8일:DAT> 열리는 총학생회 출범식은 <2만:NOH> 학우가 학교 발전을 위해 뜻을 모으는 소중한 자리가 될 겁니다.
+“	“	SS	O
+다음	다음	NNG	O
+_	_	_	O
+달	달	NNG	O
+_	_	_	O
+8	8	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+열리	열리	VV	O
+는	는	ETM	O
+_	_	_	O
+총학생회	총학생회	NNG	O
+_	_	_	O
+출범식	출범식	NNG	O
+은	은	JX	O
+_	_	_	O
+2	2	SN	B-NOH
+만	만	NR	I-NOH
+_	_	_	O
+학우	학우	NNG	O
+가	가	JKS	O
+_	_	_	O
+학교	학교	NNG	O
+_	_	_	O
+발전	발전	NNG	O
+을	을	JKO	O
+_	_	_	O
+위해	위하+여	VV+EC	O
+_	_	_	O
+뜻	뜻	NNG	O
+을	을	JKO	O
+_	_	_	O
+모으	모으	VV	O
+는	는	ETM	O
+_	_	_	O
+소중한	소중하+ㄴ	VA+ETM	O
+_	_	_	O
+자리	자리	NNG	O
+가	가	JKC	O
+_	_	_	O
+될	되+ㄹ	VV+ETM	O
+_	_	_	O
+겁니다	것+이+ㅂ니다	NNB+VCP+EF	O
+.	.	SF	O
+
+## 13
+## 웨스트게이트는 2013년 9월 알샤바브가 난입해 살상극을 벌였던 나이로비의 쇼핑몰이다.
+## <웨스트게이트:ORG>는 <2013년 9월:DAT> <알샤바브:ORG>가 난입해 살상극을 벌였던 <나이로비:LOC>의 쇼핑몰이다.
+웨스트	웨스트	NNG	B-ORG
+게이트	게이트	NNG	I-ORG
+는	는	JX	O
+_	_	_	O
+2013	2013	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	I-DAT
+9	9	SN	I-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+알샤바브	알샤바브	NNP	B-ORG
+가	가	JKS	O
+_	_	_	O
+난입해	난입하+여	VV+EC	O
+_	_	_	O
+살상	살상	NNG	O
+극	극	NNG	O
+을	을	JKO	O
+_	_	_	O
+벌	벌이	VV	O
+였	었	EP	O
+던	던	ETM	O
+_	_	_	O
+나이로비	나이로비	NNP	B-LOC
+의	의	JKG	O
+_	_	_	O
+쇼핑몰	쇼핑몰	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 14
+## 이 과정에서 남한 측 병사 이병헌은 심각한 부상을 입는다.
+## 이 과정에서 <남한:ORG> 측 병사 <이병헌:PER>은 심각한 부상을 입는다.
+이	이	MM	O
+_	_	_	O
+과정	과정	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+남한	남한	NNP	B-ORG
+_	_	_	O
+측	측	NNB	O
+_	_	_	O
+병사	병사	NNG	O
+_	_	_	O
+이병헌	이병헌	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+심각한	심각하+ㄴ	VA+ETM	O
+_	_	_	O
+부상	부상	NNG	O
+을	을	JKO	O
+_	_	_	O
+입	입	VV	O
+는다	는다	EF	O
+.	.	SF	O
+

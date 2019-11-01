@@ -1,0 +1,383 @@
+## 1
+## 현직 드라마PD가 보는 박근혜와 길라임의 평행이론
+## 현직 드라마PD가 보는 <박근혜:PER>와 <길라임:PER>의 평행이론
+현직	현직	NNG	O
+_	_	_	O
+드라마	드라마	NNG	O
+PD	PD	SL	O
+가	가	JKS	O
+_	_	_	O
+보	보	VV	O
+는	는	ETM	O
+_	_	_	O
+박근혜	박근혜	NNP	B-PER
+와	와	JC	O
+_	_	_	O
+길라	길라	NNP	B-PER
+임의	임의	NNG	O
+_	_	_	O
+평행	평행	NNG	O
+이론	이론	NNG	O
+
+## 2
+## 공동주택의 하자담보책임과 관련해 2012년 집합건물법이 개정되면서 새로운 논란이 발생하고 있는 실정이다.
+## 공동주택의 하자담보책임과 관련해 <2012년:DAT> 집합건물법이 개정되면서 새로운 논란이 발생하고 있는 실정이다.
+공동	공동	NNG	O
+주택	주택	NNG	O
+의	의	JKG	O
+_	_	_	O
+하자담보	하자담보	NNG	O
+책임	책임	NNG	O
+과	과	JKB	O
+_	_	_	O
+관련해	관련하+여	VV+EC	O
+_	_	_	O
+2012	2012	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+집합	집합	NNG	O
+건물	건물	NNG	O
+법	법	NNG	O
+이	이	JKS	O
+_	_	_	O
+개정되	개정되	VV	O
+면서	면서	EC	O
+_	_	_	O
+새로	새롭	VA	O
+운	ㄴ	ETM	O
+_	_	_	O
+논란	논란	NNG	O
+이	이	JKS	O
+_	_	_	O
+발생하	발생하	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+는	는	ETM	O
+_	_	_	O
+실정	실정	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 60세이후에는 보다 적극적으로 이들 비타민을 섭취하도록 한다.
+## <60세:NOH>이후에는 보다 적극적으로 이들 비타민을 섭취하도록 한다.
+60	60	SN	B-NOH
+세	세	NNB	I-NOH
+이후	이후	NNG	O
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+보다	보다	MAG	O
+_	_	_	O
+적극적	적극적	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+이	이	NP	O
+들	들	XSN	O
+_	_	_	O
+비타민	비타민	NNG	O
+을	을	JKO	O
+_	_	_	O
+섭취하	섭취하	VV	O
+도록	도록	EC	O
+_	_	_	O
+한다	하+ㄴ다	VX+EF	O
+.	.	SF	O
+
+## 4
+## 이에 한혜진은 “아이고, 두 번은 못 보겠더라”며 너스레를 떨었다.
+## 이에 <한혜진:PER>은 “아이고, <두 번:NOH>은 못 보겠더라”며 너스레를 떨었다.
+이	이	NP	O
+에	에	JKB	O
+_	_	_	O
+한혜진	한혜진	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+“	“	SS	O
+아이고	아이고	IC	O
+,	,	SP	O
+_	_	_	O
+두	두	MM	B-NOH
+_	_	_	I-NOH
+번	번	NNB	I-NOH
+은	은	JX	O
+_	_	_	O
+못	못	MAG	O
+_	_	_	O
+보	보	VV	O
+겠	겠	EP	O
+더라	더라	EF	O
+”	”	SS	O
+며	며	EC	O
+_	_	_	O
+너스레	너스레	NNG	O
+를	를	JKO	O
+_	_	_	O
+떨	떨	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## MC들은 “지금 영국에 있냐”고 물었고 한혜진은 “지금 한국에 있다.
+## MC들은 “지금 <영국:LOC>에 있냐”고 물었고 <한혜진:PER>은 “지금 <한국:LOC>에 있다.
+MC	MC	SL	O
+들	들	XSN	O
+은	은	JX	O
+_	_	_	O
+“	“	SS	O
+지금	지금	MAG	O
+_	_	_	O
+영국	영국	NNP	B-LOC
+에	에	JKB	O
+_	_	_	O
+있	있	VA	O
+냐	냐	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+물	묻	VV	O
+었	었	EP	O
+고	고	EC	O
+_	_	_	O
+한혜진	한혜진	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+“	“	SS	O
+지금	지금	MAG	O
+_	_	_	O
+한국	한국	NNP	B-LOC
+에	에	JKB	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 1등 당첨자 1명에게는 1억 원에 달하는 금을, 2등 당첨자 20명에게는 각 1000만 원 상당의 금을 증정했다.
+## <1등:NOH> 당첨자 <1명:NOH>에게는 <1억 원:MNY>에 달하는 금을, <2등:NOH> 당첨자 <20명:NOH>에게는 각 <1000만 원:MNY> 상당의 금을 증정했다.
+1	1	SN	B-NOH
+등	등	NNB	I-NOH
+_	_	_	O
+당첨자	당첨자	NNG	O
+_	_	_	O
+1	1	SN	B-NOH
+명	명	NNB	I-NOH
+에게	에게	JKB	O
+는	는	JX	O
+_	_	_	O
+1	1	SN	B-MNY
+억	억	NR	I-MNY
+_	_	_	I-MNY
+원	원	NNB	I-MNY
+에	에	JKB	O
+_	_	_	O
+달하	달하	VV	O
+는	는	ETM	O
+_	_	_	O
+금	금	NNG	O
+을	을	JKO	O
+,	,	SP	O
+_	_	_	O
+2	2	SN	B-NOH
+등	등	NNB	I-NOH
+_	_	_	O
+당첨자	당첨자	NNG	O
+_	_	_	O
+20	20	SN	B-NOH
+명	명	NNB	I-NOH
+에게	에게	JKB	O
+는	는	JX	O
+_	_	_	O
+각	각	MM	O
+_	_	_	O
+1000	1000	SN	B-MNY
+만	만	NR	I-MNY
+_	_	_	I-MNY
+원	원	NNB	I-MNY
+_	_	_	O
+상당	상당	NNG	O
+의	의	JKG	O
+_	_	_	O
+금	금	NNG	O
+을	을	JKO	O
+_	_	_	O
+증정	증정하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 2007년 바다가 오랜만에 뮤지컬 무대로 돌아오며 택한 작품 역시 ‘노담’이었다.
+## <2007년:DAT> <바다:PER>가 오랜만에 뮤지컬 무대로 돌아오며 택한 작품 역시 ‘<노담:POH>’이었다.
+2007	2007	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+바다	바다	NNG	B-PER
+가	가	JKS	O
+_	_	_	O
+오랜만	오랜만	NNG	O
+에	에	JKB	O
+_	_	_	O
+뮤지컬	뮤지컬	NNG	O
+_	_	_	O
+무대	무대	NNG	O
+로	로	JKB	O
+_	_	_	O
+돌아오	돌아오	VV	O
+며	며	EC	O
+_	_	_	O
+택한	택하+ㄴ	VV+ETM	O
+_	_	_	O
+작품	작품	NNG	O
+_	_	_	O
+역시	역시	MAG	O
+_	_	_	O
+‘	‘	SS	O
+노담	노담	NNG	B-POH
+’	’	SS	O
+이	이	VCP	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 김재영 redfoot@donga.com / 뉴욕=부형권 특파원 / 신나리 기자
+## <김재영:PER> <redfoot@donga.com:POH> / <뉴욕:LOC>=<부형권:PER> 특파원 / <신나리:PER> 기자
+김재영	김재영	NNP	B-PER
+_	_	_	O
+redfoot	redfoot	SL	B-POH
+@	@	SW	I-POH
+donga	donga	SL	I-POH
+.	.	SF	I-POH
+com	com	SL	I-POH
+_	_	_	O
+/	/	SP	O
+_	_	_	O
+뉴욕	뉴욕	NNP	B-LOC
+=	=	SW	O
+부형	부형	NNG	B-PER
+권	권	XSN	I-PER
+_	_	_	O
+특파원	특파원	NNG	O
+_	_	_	O
+/	/	SP	O
+_	_	_	O
+신나리	신나리	NNP	B-PER
+_	_	_	O
+기자	기자	NNG	O
+
+## 9
+## 후순위채 3491억원을 빌려주고 연 36% 이자를 받고 있다.
+## 후순위채 <3491억원:MNY>을 빌려주고 연 <36%:PNT> 이자를 받고 있다.
+후	후	NNG	O
+순위	순위	NNG	O
+채	채	NNG	O
+_	_	_	O
+3491	3491	SN	B-MNY
+억	억	NR	I-MNY
+원	원	NNB	I-MNY
+을	을	JKO	O
+_	_	_	O
+빌려	빌리+어	VV+EC	O
+주	주	VV	O
+고	고	EC	O
+_	_	_	O
+연	연	NNG	O
+_	_	_	O
+36	36	SN	B-PNT
+%	%	SW	I-PNT
+_	_	_	O
+이자	이자	NNG	O
+를	를	JKO	O
+_	_	_	O
+받	받	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 화면에 잡힌 두 사람의 모습은 마치 아침에 나갈 준비를 하는 부부의 모습처럼 보여 묘한 분위기를 자아냈다.
+## 화면에 잡힌 <두 사람:NOH>의 모습은 마치 아침에 나갈 준비를 하는 부부의 모습처럼 보여 묘한 분위기를 자아냈다.
+화면	화면	NNG	O
+에	에	JKB	O
+_	_	_	O
+잡힌	잡히+ㄴ	VV+ETM	O
+_	_	_	O
+두	두	MM	B-NOH
+_	_	_	I-NOH
+사람	사람	NNG	I-NOH
+의	의	JKG	O
+_	_	_	O
+모습	모습	NNG	O
+은	은	JX	O
+_	_	_	O
+마치	마치	MAG	O
+_	_	_	O
+아침	아침	NNG	O
+에	에	JKB	O
+_	_	_	O
+나갈	나가+ㄹ	VV+ETM	O
+_	_	_	O
+준비	준비	NNG	O
+를	를	JKO	O
+_	_	_	O
+하	하	VV	O
+는	는	ETM	O
+_	_	_	O
+부부	부부	NNG	O
+의	의	JKG	O
+_	_	_	O
+모습	모습	NNG	O
+처럼	처럼	JKB	O
+_	_	_	O
+보	보이	VV	O
+여	어	EC	O
+_	_	_	O
+묘한	묘하+ㄴ	VA+ETM	O
+_	_	_	O
+분위기	분위기	NNG	O
+를	를	JKO	O
+_	_	_	O
+자아냈	자아내+었	VV+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 매달 원리금 상환 부담액이 도시근로자 월소득의 20% 정도인 90만원 선이다.
+## 매달 원리금 상환 부담액이 도시근로자 월소득의 <20%:PNT> 정도인 <90만원:MNY> 선이다.
+매달	매달	MAG	O
+_	_	_	O
+원리금	원리금	NNG	O
+_	_	_	O
+상환	상환	NNG	O
+_	_	_	O
+부담액	부담액	NNG	O
+이	이	JKS	O
+_	_	_	O
+도시	도시	NNG	O
+근로자	근로자	NNG	O
+_	_	_	O
+월	월	NNG	O
+소득	소득	NNG	O
+의	의	JKG	O
+_	_	_	O
+20	20	SN	B-PNT
+%	%	SW	I-PNT
+_	_	_	O
+정도	정도	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+90	90	SN	B-MNY
+만	만	NR	I-MNY
+원	원	NNB	I-MNY
+_	_	_	O
+선	선	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+

@@ -1,0 +1,379 @@
+## 1
+## 2013년 공모를 통해 설계 당선작을 선정했지만 지난해 사업이 전면 보류됐다.
+## <2013년:DAT> 공모를 통해 설계 당선작을 선정했지만 지난해 사업이 전면 보류됐다.
+2013	2013	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+공모	공모	NNG	O
+를	를	JKO	O
+_	_	_	O
+통해	통하+여	VV+EC	O
+_	_	_	O
+설계	설계	NNG	O
+_	_	_	O
+당선작	당선작	NNG	O
+을	을	JKO	O
+_	_	_	O
+선정	선정하	VV	O
+했	였	EP	O
+지만	지만	EC	O
+_	_	_	O
+지난해	지난해	NNG	O
+_	_	_	O
+사업	사업	NNG	O
+이	이	JKS	O
+_	_	_	O
+전면	전면	NNG	O
+_	_	_	O
+보류	보류되	VV	O
+됐	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 국내 지휘자는 20명 포함됐다.
+## 국내 지휘자는 <20명:NOH> 포함됐다.
+국내	국내	NNG	O
+_	_	_	O
+지휘자	지휘자	NNG	O
+는	는	JX	O
+_	_	_	O
+20	20	SN	B-NOH
+명	명	NNB	I-NOH
+_	_	_	O
+포함	포함되	VV	O
+됐	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 정부는 ‘창조경제’의 성과를 위해서 금전적 지원을 하는 것에 더해 창의성이 발현되는 사회구조와 문화를 확산하는 것에도 더 애를 써야 한다.이규태 서강대 기술경영전문대학원 교수
+## 정부는 ‘<창조경제:POH>’의 성과를 위해서 금전적 지원을 하는 것에 더해 창의성이 발현되는 사회구조와 문화를 확산하는 것에도 더 애를 써야 한다.<이규태:PER> <서강대 기술경영전문대학원:ORG> 교수
+정부	정부	NNG	O
+는	는	JX	O
+_	_	_	O
+‘	‘	SS	O
+창조	창조	NNG	B-POH
+경제	경제	NNG	I-POH
+’	’	SS	O
+의	의	JKG	O
+_	_	_	O
+성과	성과	NNG	O
+를	를	JKO	O
+_	_	_	O
+위해서	위하+여서	VV+EC	O
+_	_	_	O
+금전	금전	NNG	O
+적	적	XSN	O
+_	_	_	O
+지원	지원	NNG	O
+을	을	JKO	O
+_	_	_	O
+하	하	VV	O
+는	는	ETM	O
+_	_	_	O
+것	것	NNB	O
+에	에	JKB	O
+_	_	_	O
+더해	더하+여	VV+EC	O
+_	_	_	O
+창의성	창의성	NNG	O
+이	이	JKS	O
+_	_	_	O
+발현되	발현되	VV	O
+는	는	ETM	O
+_	_	_	O
+사회	사회	NNG	O
+구조	구조	NNG	O
+와	와	JC	O
+_	_	_	O
+문화	문화	NNG	O
+를	를	JKO	O
+_	_	_	O
+확산하	확산하	VV	O
+는	는	ETM	O
+_	_	_	O
+것	것	NNB	O
+에	에	JKB	O
+도	도	JX	O
+_	_	_	O
+더	더	MAG	O
+_	_	_	O
+애	애	NNG	O
+를	를	JKO	O
+_	_	_	O
+써야	+어야	+EC	O
+_	_	_	O
+한다	하+ㄴ다	VX+EF	O
+.	.	SF	O
+이규태	이규태	NNP	B-PER
+_	_	_	O
+서강대	서강대	NNP	B-ORG
+_	_	_	I-ORG
+기술	기술	NNG	I-ORG
+경영	경영	NNG	I-ORG
+전문	전문	NNG	I-ORG
+대학원	대학원	NNG	I-ORG
+_	_	_	O
+교수	교수	NNG	O
+
+## 4
+## 이현이, 훈남 남편과 데이트… “배우 못지않은 비주얼”
+## <이현이:PER>, 훈남 남편과 데이트… “배우 못지않은 비주얼”
+이현	이현	NNP	B-PER
+이	이	JKS	I-PER
+,	,	SP	O
+_	_	_	O
+훈	훈	NNP	O
+남	남	NNG	O
+_	_	_	O
+남편	남편	NNG	O
+과	과	JKB	O
+_	_	_	O
+데이트	데이트	NNG	O
+…	…	SE	O
+_	_	_	O
+“	“	SS	O
+배우	배우	NNG	O
+_	_	_	O
+못지않	못지않	VA	O
+은	은	ETM	O
+_	_	_	O
+비주얼	비주얼	NNG	O
+”	”	SS	O
+
+## 5
+## 이심 대한노인회 회장(사진)이 건국대 개교 70주년을 맞아 모교인 건국대에 장학기금 1억 원을 20일 기부했다.
+## <이심:PER> <대한노인회:ORG> 회장(사진)이 <건국대:ORG> 개교 <70주년:NOH>을 맞아 모교인 <건국대:ORG>에 장학기금 <1억 원:MNY>을 <20일:DAT> 기부했다.
+이심	이심	NNG	B-PER
+_	_	_	O
+대한노인회	대한노인회	NNP	B-ORG
+_	_	_	O
+회장	회장	NNG	O
+(	(	SS	O
+사진	사진	NNG	O
+)	)	SS	O
+이	이	JKS	O
+_	_	_	O
+건국대	건국대	NNP	B-ORG
+_	_	_	O
+개	개	NNB	O
+교	교	NNG	O
+_	_	_	O
+70	70	SN	B-NOH
+주년	주년	NNB	I-NOH
+을	을	JKO	O
+_	_	_	O
+맞	맞	VV	O
+아	고	EC	O
+_	_	_	O
+모교	모교	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+건국대	건국대	NNP	B-ORG
+에	에	JKB	O
+_	_	_	O
+장학	장학	NNG	O
+기금	기금	NNG	O
+_	_	_	O
+1	1	SN	B-MNY
+억	억	NR	I-MNY
+_	_	_	I-MNY
+원	원	NNB	I-MNY
+을	을	JKO	O
+_	_	_	O
+20	20	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+기부	기부하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 기원전 8∼9세기 무렵 두 지역에서 비슷한 유형의 사회적 변환기를 맞았다는 정황을 보여주는 흔적도 나왔다.
+## 기원전 <8∼9세기:DUR> 무렵 두 지역에서 비슷한 유형의 사회적 변환기를 맞았다는 정황을 보여주는 흔적도 나왔다.
+기원전	기원전	NNG	O
+_	_	_	O
+8	8	SN	B-DUR
+∼	∼	SO	I-DUR
+9	9	SN	I-DUR
+세기	세기	NNG	I-DUR
+_	_	_	O
+무렵	무렵	NNB	O
+_	_	_	O
+두	두	MM	O
+_	_	_	O
+지역	지역	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+비슷한	비슷하+ㄴ	VA+ETM	O
+_	_	_	O
+유형	유형	NNG	O
+의	의	JKG	O
+_	_	_	O
+사회적	사회적	NNG	O
+_	_	_	O
+변환기	변환기	NNG	O
+를	를	JKO	O
+_	_	_	O
+맞	맞	VV	O
+았	았	EP	O
+다는	다는	ETM	O
+_	_	_	O
+정황	정황	NNG	O
+을	을	JKO	O
+_	_	_	O
+보	보이	VV	O
+여	어	EC	O
+주	주	VX	O
+는	는	ETM	O
+_	_	_	O
+흔적	흔적	NNG	O
+도	도	JX	O
+_	_	_	O
+나	나오	VV	O
+왔	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 8일 수원월드컵경기장에서 열린 수원 삼성과 포항 스틸러스의 K리그 클래식 1라운드는 해빙기에 접어든 프로축구의 봄을 실감할 수 있는 무대였다.
+## <8일:DAT> <수원월드컵경기장:LOC>에서 열린 <수원 삼성:ORG>과 <포항 스틸러스:ORG>의 <K리그 클래식:ORG> <1라운드:NOH>는 해빙기에 접어든 프로축구의 봄을 실감할 수 있는 무대였다.
+8	8	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+수원월드컵경기장	수원월드컵경기장	NNP	B-LOC
+에서	에서	JKB	O
+_	_	_	O
+열린	열리+ㄴ	VV+ETM	O
+_	_	_	O
+수원	수원	NNP	B-ORG
+_	_	_	I-ORG
+삼성	삼성	NNP	I-ORG
+과	과	JC	O
+_	_	_	O
+포항	포항	NNP	B-ORG
+_	_	_	I-ORG
+스틸러스	스틸러스	NNP	I-ORG
+의	의	JKG	O
+_	_	_	O
+K	K	SL	B-ORG
+리그	리그	NNG	I-ORG
+_	_	_	I-ORG
+클래식	클래식	NNG	I-ORG
+_	_	_	O
+1	1	SN	B-NOH
+라운드	라운드	NNG	I-NOH
+는	는	JX	O
+_	_	_	O
+해빙기	해빙기	NNG	O
+에	에	JKB	O
+_	_	_	O
+접어든	접어들+ㄴ	VV+ETM	O
+_	_	_	O
+프로	프로	NNG	O
+축구	축구	NNG	O
+의	의	JKG	O
+_	_	_	O
+봄	봄	NNG	O
+을	을	JKO	O
+_	_	_	O
+실감할	실감하+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+는	는	ETM	O
+_	_	_	O
+무대	무대+이	NNG+VCP	O
+였	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 이번 시즌 3호 홈런이다.
+## 이번 시즌 <3호:NOH> 홈런이다.
+이번	이번	NNG	O
+_	_	_	O
+시즌	시즌	NNG	O
+_	_	_	O
+3	3	SN	B-NOH
+호	호	NNB	I-NOH
+_	_	_	O
+홈런	홈런	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 올해 대학수학능력시험도 쉽게 나올 것이 거의 확실시되기 때문이다.
+## 올해 <대학수학능력시험:POH>도 쉽게 나올 것이 거의 확실시되기 때문이다.
+올해	올해	NNG	O
+_	_	_	O
+대학	대학	NNG	B-POH
+수학	수학	NNG	I-POH
+능력	능력	NNG	I-POH
+시험	시험	NNG	I-POH
+도	도	JX	O
+_	_	_	O
+쉽	쉽	VA	O
+게	게	EC	O
+_	_	_	O
+나올	나오+ㄹ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+이	이	JKS	O
+_	_	_	O
+거의	거의	MAG	O
+_	_	_	O
+확실시되	확실시되	VV	O
+기	기	ETN	O
+_	_	_	O
+때문	때문	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 김하늘은 SBS ‘신사의 품격’ 이후 4년만 안방극장 복귀작으로 ‘공항 가는 길’을 선택했다.
+## <김하늘:PER>은 <SBS:POH> ‘<신사의 품격:POH>’ 이후 <4년:NOH>만 안방극장 복귀작으로 ‘<공항 가는 길:POH>’을 선택했다.
+김하늘	김하늘	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+SBS	SBS	SL	B-POH
+_	_	_	O
+‘	‘	SS	O
+신사	신사	NNG	B-POH
+의	의	JKG	I-POH
+_	_	_	I-POH
+품격	품격	NNG	I-POH
+’	’	SS	O
+_	_	_	O
+이후	이후	NNG	O
+_	_	_	O
+4	4	SN	B-NOH
+년	년	NNB	I-NOH
+만	만	JX	O
+_	_	_	O
+안방극장	안방극장	NNG	O
+_	_	_	O
+복귀	복귀	NNG	O
+작	작	XSN	O
+으로	으로	JKB	O
+_	_	_	O
+‘	‘	SS	O
+공항	공항	NNG	B-POH
+_	_	_	I-POH
+가	가	VV	I-POH
+는	는	ETM	I-POH
+_	_	_	I-POH
+길	길	NNG	I-POH
+’	’	SS	O
+을	을	JKO	O
+_	_	_	O
+선택	선택하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+

@@ -1,0 +1,526 @@
+## 1
+## 중국프로축구팀들은 시진핑 국가주석이 2013년 취임한 뒤 거액을 쏟아붓고 있다.
+## <중국:LOC>프로축구팀들은 <시진핑:PER> 국가주석이 <2013년:DAT> 취임한 뒤 거액을 쏟아붓고 있다.
+중국	중국	NNP	B-LOC
+프로	프로	NNG	O
+축구	축구	NNG	O
+팀	팀	NNG	O
+들	들	XSN	O
+은	은	JX	O
+_	_	_	O
+시진핑	시진핑	NNP	B-PER
+_	_	_	O
+국가주석	국가주석	NNG	O
+이	이	JKS	O
+_	_	_	O
+2013	2013	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+취임한	취임하+ㄴ	VV+ETM	O
+_	_	_	O
+뒤	뒤	NNG	O
+_	_	_	O
+거액	거액	NNG	O
+을	을	JKO	O
+_	_	_	O
+쏟	쏟	VV	O
+아	아	EC	O
+붓	붓	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 알 리가 녹음한 노래는 김태우의 신곡 ‘시원해’로 T-WITH 프로젝트의 다섯 번째 콜라보 작품 중 두 번째 신곡이다.
+## <알 리:PER>가 녹음한 노래는 <김태우:PER>의 신곡 ‘<시원해:POH>’로 <T-WITH 프로젝트:POH>의 다섯 번째 콜라보 작품 중 두 번째 신곡이다.
+알	알+ㄹ	VV+ETM	B-PER
+_	_	_	I-PER
+리	리	NNB	I-PER
+가	가	JKS	O
+_	_	_	O
+녹음한	녹음하+ㄴ	VV+ETM	O
+_	_	_	O
+노래	노래	NNG	O
+는	는	JX	O
+_	_	_	O
+김태우	김태우	NNP	B-PER
+의	의	JKG	O
+_	_	_	O
+신곡	신곡	NNG	O
+_	_	_	O
+‘	‘	SS	O
+시원해	시원하+여	VA+EF	B-POH
+’	’	SS	O
+로	로	JKB	O
+_	_	_	O
+T	T	SL	B-POH
+-	-	SO	I-POH
+WITH	WITH	SL	I-POH
+_	_	_	I-POH
+프로젝트	프로젝트	NNG	I-POH
+의	의	JKG	O
+_	_	_	O
+다섯	다섯	NR	O
+_	_	_	O
+번째	번째	NNB	O
+_	_	_	O
+콜라	콜라	NNG	O
+보	보	VV	O
+_	_	_	O
+작품	작품	NNG	O
+_	_	_	O
+중	중	NNB	O
+_	_	_	O
+두	두	MM	O
+_	_	_	O
+번째	번째	NNB	O
+_	_	_	O
+신곡	신곡	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 심형탁이 화제다.
+## <심형탁:PER>이 화제다.
+심형탁	심형탁	NNG	B-PER
+이	이	JKS	O
+_	_	_	O
+화제	화제+이	NNG+VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## ‘명동 호텔 전쟁’이 새해부터 뜨거워진다.
+## ‘<명동:LOC> 호텔 전쟁’이 새해부터 뜨거워진다.
+‘	‘	SS	O
+명동	명동	NNP	B-LOC
+_	_	_	O
+호텔	호텔	NNG	O
+_	_	_	O
+전쟁	전쟁	NNG	O
+’	’	SS	O
+이	이	JKS	O
+_	_	_	O
+새해	새해	NNG	O
+부터	부터	JX	O
+_	_	_	O
+뜨거워진다	뜨거워지+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 5
+## 일본 총무성의 사회생활조사에 따르면 일본인이 교제에 들이는 시간은 2011년 하루 19분으로 10년 전보다 약 30% 줄었다.
+## <일본 총무성:ORG>의 사회생활조사에 따르면 일본인이 교제에 들이는 시간은 <2011년:DAT> 하루 <19분:NOH>으로 <10년:NOH> 전보다 약 <30%:PNT> 줄었다.
+일본	일본	NNP	B-ORG
+_	_	_	I-ORG
+총무	총무	NNG	I-ORG
+성의	성의	NNG	O
+_	_	_	O
+사회	사회	NNG	O
+생활	생활	NNG	O
+조사	조사	NNG	O
+에	에	JKB	O
+_	_	_	O
+따르	따르	VV	O
+면	면	EC	O
+_	_	_	O
+일본인	일본인	NNG	O
+이	이	JKS	O
+_	_	_	O
+교제	교제	NNG	O
+에	에	JKB	O
+_	_	_	O
+들이	들이	VV	O
+는	는	ETM	O
+_	_	_	O
+시간	시간	NNG	O
+은	은	JX	O
+_	_	_	O
+2011	2011	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+하루	하루	NNG	O
+_	_	_	O
+19	19	SN	B-NOH
+분	분	NNB	I-NOH
+으로	으로	JKB	O
+_	_	_	O
+10	10	SN	B-NOH
+년	년	NNB	I-NOH
+_	_	_	O
+전	전	NNG	O
+보다	보다	JKB	O
+_	_	_	O
+약	약	MM	O
+_	_	_	O
+30	30	SN	B-PNT
+%	%	SW	I-PNT
+_	_	_	O
+줄	줄	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## “모터 단 바퀴… VR내비… 현대모비스가 만들것”
+## “모터 단 바퀴… VR내비… <현대모비스:ORG>가 만들것”
+“	“	SS	O
+모터	모터	NNG	O
+_	_	_	O
+단	달+ㄴ	VV+ETM	O
+_	_	_	O
+바퀴	바퀴	NNG	O
+…	…	SE	O
+_	_	_	O
+VR	VR	SL	O
+내비	내비	NNG	O
+…	…	SE	O
+_	_	_	O
+현대모비스	현대모비스	NNP	B-ORG
+가	가	JKS	O
+_	_	_	O
+만들	만들+ㄹ	VV+ETM	O
+것	것	NNB	O
+”	”	SS	O
+
+## 7
+## 그 결과 ‘참여할 의사가 있다’는 응답자가 91.5%로 대부분을 차지했다.
+## 그 결과 ‘참여할 의사가 있다’는 응답자가 <91.5%:PNT>로 대부분을 차지했다.
+그	그	MM	O
+_	_	_	O
+결과	결과	NNG	O
+_	_	_	O
+‘	‘	SS	O
+참여할	참여하+ㄹ	VV+ETM	O
+_	_	_	O
+의사	의사	NNG	O
+가	가	JKS	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+’	’	SS	O
+는	는	JX	O
+_	_	_	O
+응답자	응답자	NNG	O
+가	가	JKS	O
+_	_	_	O
+91.5	91.5	SN	B-PNT
+%	%	SW	I-PNT
+로	로	JKB	O
+_	_	_	O
+대부분	대부분	NNG	O
+을	을	JKO	O
+_	_	_	O
+차지	차지하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 프린스의 왕자, 신예 우혁 vs FT아일랜드 최종훈…'누가 진자 왕자가 될까'
+## <프린스의 왕자:POH>, 신예 <우혁:PER> vs <FT아일랜드:POH> <최종훈:PER>…'누가 진자 왕자가 될까'
+프린스	프린스	NNP	B-POH
+의	의	JKG	I-POH
+_	_	_	I-POH
+왕자	왕자	NNG	I-POH
+,	,	SP	O
+_	_	_	O
+신예	신예	NNG	O
+_	_	_	O
+우혁	우혁	NNP	B-PER
+_	_	_	O
+vs	vs	SL	O
+_	_	_	O
+FT	FT	SL	B-POH
+아일랜드	아일랜드	NNP	I-POH
+_	_	_	O
+최종훈	최종훈	NNP	B-PER
+…	…	SE	O
+'	'	SS	O
+누	누구	NP	O
+가	가	JKS	O
+_	_	_	O
+진자	진자	NNG	O
+_	_	_	O
+왕자	왕자	NNG	O
+가	가	JKC	O
+_	_	_	O
+될까	되+ㄹ까	VV+EF	O
+'	'	SS	O
+
+## 9
+## 박 대통령이 대통령 선거공약으로 현직 검사의 청와대 파견을 금지하겠다는 약속을 하게 된 것도 이런 이유에서다.
+## <박:PER> 대통령이 대통령 선거공약으로 현직 검사의 <청와대:ORG> 파견을 금지하겠다는 약속을 하게 된 것도 이런 이유에서다.
+박	박	NNP	B-PER
+_	_	_	O
+대통령	대통령	NNG	O
+이	이	JKS	O
+_	_	_	O
+대통령	대통령	NNG	O
+_	_	_	O
+선거	선거	NNG	O
+공약	공약	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+현직	현직	NNG	O
+_	_	_	O
+검사	검사	NNG	O
+의	의	JKG	O
+_	_	_	O
+청와대	청와대	NNP	B-ORG
+_	_	_	O
+파견	파견	NNG	O
+을	을	JKO	O
+_	_	_	O
+금지하	금지하	VV	O
+겠	겠	EP	O
+다는	다는	ETM	O
+_	_	_	O
+약속	약속	NNG	O
+을	을	JKO	O
+_	_	_	O
+하	하	VV	O
+게	게	EC	O
+_	_	_	O
+된	되+ㄴ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+도	도	JX	O
+_	_	_	O
+이런	이런	MM	O
+_	_	_	O
+이유	이유	NNG	O
+에서	에서+이	JKB+VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## '출발드림팀' 유승옥, 섹시한 룸바 댄스… 요염한 몸짓에 男心 '후끈'
+## '<출발드림팀:POH>' <유승옥:PER>, 섹시한 룸바 댄스… 요염한 몸짓에 男心 '후끈'
+'	'	SS	O
+출발	출발	NNG	B-POH
+드림	드림	NNG	I-POH
+팀	팀	NNG	I-POH
+'	'	SS	O
+_	_	_	O
+유승옥	유승옥	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+섹시한	섹시하+ㄴ	VA+ETM	O
+_	_	_	O
+룸바	룸바	NNG	O
+_	_	_	O
+댄스	댄스	NNG	O
+…	…	SE	O
+_	_	_	O
+요염한	요염하+ㄴ	VA+ETM	O
+_	_	_	O
+몸짓	몸짓	NNG	O
+에	에	JKB	O
+_	_	_	O
+男心	男心	SH	O
+_	_	_	O
+'	'	SS	O
+후끈	후끈	MAG	O
+'	'	SS	O
+
+## 11
+## 데뷔 3년 차인 배선우(21)가 생애 첫 우승을 노렸지만 역부족이었다.
+## 데뷔 <3년 차:NOH>인 <배선우:PER>(<21:NOH>)가 생애 첫 우승을 노렸지만 역부족이었다.
+데뷔	데뷔	NNG	O
+_	_	_	O
+3	3	SN	B-NOH
+년	년	NNB	I-NOH
+_	_	_	I-NOH
+차인	차이+ㄴ	VV+ETM	O
+_	_	_	O
+배선우	배선우	NNP	B-PER
+(	(	SS	O
+21	21	SN	B-NOH
+)	)	SS	O
+가	가	JKS	O
+_	_	_	O
+생애	생애	NNG	O
+_	_	_	O
+첫	첫	MM	O
+_	_	_	O
+우승	우승	NNG	O
+을	을	JKO	O
+_	_	_	O
+노	노리	VV	O
+렸	었	EP	O
+지만	지만	EC	O
+_	_	_	O
+역부족	역부족	NNG	O
+이	이	VCP	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 실업급여 인상, 실직 전 평균임금의 50%→60%…지급 요건-절차는 엄격해진다?실업급여 인상사회 보장성 강화 측면에서 실업급여의 지급수준은 올라가고 지급 기간도 늘어나지만 지급 요건은 까다로워진다.
+## 실업급여 인상, 실직 전 평균임금의 <50%:PNT>→<60%:PNT>…지급 요건-절차는 엄격해진다?실업급여 인상사회 보장성 강화 측면에서 실업급여의 지급수준은 올라가고 지급 기간도 늘어나지만 지급 요건은 까다로워진다.
+실업	실업	NNG	O
+급여	급여	NNG	O
+_	_	_	O
+인상	인상	NNG	O
+,	,	SP	O
+_	_	_	O
+실직	실직	NNG	O
+_	_	_	O
+전	전	NNG	O
+_	_	_	O
+평균	평균	NNG	O
+임금	임금	NNG	O
+의	의	JKG	O
+_	_	_	O
+50	50	SN	B-PNT
+%	%	SW	I-PNT
+→	→	SW	O
+60	60	SN	B-PNT
+%	%	SW	I-PNT
+…	…	SE	O
+지급	지급	NNG	O
+_	_	_	O
+요건	요건	NNG	O
+-	-	SO	O
+절차	절차	NNG	O
+는	는	JX	O
+_	_	_	O
+엄격해	엄격하+여	VA+EC	O
+진다	지+ㄴ다	VX+EF	O
+?	?	SF	O
+실업	실업	NNG	O
+급여	급여	NNG	O
+_	_	_	O
+인상	인상	NNG	O
+사회	사회	NNG	O
+_	_	_	O
+보장	보장	NNG	O
+성	성	XSN	O
+_	_	_	O
+강화	강화	NNG	O
+_	_	_	O
+측면	측면	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+실업	실업	NNG	O
+급여	급여	NNG	O
+의	의	JKG	O
+_	_	_	O
+지급	지급	NNG	O
+수준	수준	NNG	O
+은	은	JX	O
+_	_	_	O
+올라가	올라가	VV	O
+고	고	EC	O
+_	_	_	O
+지급	지급	NNG	O
+_	_	_	O
+기간	기간	NNG	O
+도	도	JX	O
+_	_	_	O
+늘어나	늘어나	VV	O
+지만	지만	EC	O
+_	_	_	O
+지급	지급	NNG	O
+_	_	_	O
+요건	요건	NNG	O
+은	은	JX	O
+_	_	_	O
+까다로	까다롭	VA	O
+워	어	EC	O
+진다	지+ㄴ다	VX+EF	O
+.	.	SF	O
+
+## 13
+## 고용노동부는 지난달 새누리당이 노동개혁 5대 법안의 하나로 발의한 ‘고용보험법 개정안’이 이 같은 내용을 주 골자로 하고 있다고 6일 밝혔다.
+## <고용노동부:ORG>는 지난달 <새누리당:ORG>이 노동개혁 <5대:NOH> 법안의 <하나:NOH>로 발의한 ‘고용보험법 개정안’이 이 같은 내용을 주 골자로 하고 있다고 <6일:DAT> 밝혔다.
+고용	고용	NNG	B-ORG
+노동부	노동부	NNG	I-ORG
+는	는	JX	O
+_	_	_	O
+지난달	지난달	NNG	O
+_	_	_	O
+새누리당	새누리당	NNP	B-ORG
+이	이	JKS	O
+_	_	_	O
+노동	노동	NNG	O
+개혁	개혁	NNG	O
+_	_	_	O
+5	5	SN	B-NOH
+대	대	NNB	I-NOH
+_	_	_	O
+법안	법안	NNG	O
+의	의	JKG	O
+_	_	_	O
+하나	하나	NNG	B-NOH
+로	로	JKB	O
+_	_	_	O
+발의한	발의하+ㄴ	VV+ETM	O
+_	_	_	O
+‘	‘	SS	O
+고용	고용	NNG	O
+보험법	보험법	NNG	O
+_	_	_	O
+개정안	개정안	NNG	O
+’	’	SS	O
+이	이	JKS	O
+_	_	_	O
+이	이	NP	O
+_	_	_	O
+같	같	VA	O
+은	은	ETM	O
+_	_	_	O
+내용	내용	NNG	O
+을	을	JKO	O
+_	_	_	O
+주	주	NNP	O
+_	_	_	O
+골자	골자	NNG	O
+로	로	JKB	O
+_	_	_	O
+하	하	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다고	다고	EC	O
+_	_	_	O
+6	6	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+밝	밝히	VV	O
+혔	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 14
+## 구직급여 상한액은 하루 4만3000원에서 5만원으로 높였다.
+## 구직급여 상한액은 하루 <4만3000원:MNY>에서 <5만원:MNY>으로 높였다.
+구직	구직	NNG	O
+급여	급여	NNG	O
+_	_	_	O
+상한	상한	NNG	O
+액	액	XSN	O
+은	은	JX	O
+_	_	_	O
+하루	하루	NNG	O
+_	_	_	O
+4	4	SN	B-MNY
+만	만	NR	I-MNY
+3000	3000	SN	I-MNY
+원	원	NNB	I-MNY
+에서	에서	JKB	O
+_	_	_	O
+5	5	SN	B-MNY
+만	만	NR	I-MNY
+원	원	NNB	I-MNY
+으로	으로	JKB	O
+_	_	_	O
+높	높이	VV	O
+였	었	EP	O
+다	다	EF	O
+.	.	SF	O
+

@@ -1,0 +1,470 @@
+## 1
+## [인사] 조이제약 外
+## [인사] <조이제약:ORG> 外
+[	[	SS	O
+인사	인사	NNG	O
+]	]	SS	O
+_	_	_	O
+조이	조이	NNP	B-ORG
+제약	제약	NNG	I-ORG
+_	_	_	O
+外	外	SH	O
+
+## 2
+## 도요타는 자사 하이브리드 기술력의 상징인 소형차 프리우스의 4세대 모델을 선보인다.
+## <도요타:ORG>는 자사 하이브리드 기술력의 상징인 소형차 <프리우스:PER>의 <4세대:NOH> 모델을 선보인다.
+도요타	도요타	NNP	B-ORG
+는	는	JX	O
+_	_	_	O
+자사	자사	NNG	O
+_	_	_	O
+하이브리드	하이브리드	NNG	O
+_	_	_	O
+기술력	기술력	NNG	O
+의	의	JKG	O
+_	_	_	O
+상징	상징	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+소형차	소형차	NNG	O
+_	_	_	O
+프리	프리	NNG	B-PER
+우스	우스	NNP	I-PER
+의	의	JKG	O
+_	_	_	O
+4	4	SN	B-NOH
+세대	세대	NNG	I-NOH
+_	_	_	O
+모델	모델	NNG	O
+을	을	JKO	O
+_	_	_	O
+선보인다	선보이+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 3
+## 교육특구로 꼽히는 송파구·양천구·노원구도 양상은 비슷하다.
+## 교육특구로 꼽히는 <송파구:LOC>·<양천구:LOC>·<노원구:LOC>도 양상은 비슷하다.
+교육	교육	NNG	O
+특구	특구	NNG	O
+로	로	JKB	O
+_	_	_	O
+꼽히	꼽히	VV	O
+는	는	ETM	O
+_	_	_	O
+송파구	송파구	NNP	B-LOC
+·	·	SP	O
+양천구	양천구	NNP	B-LOC
+·	·	SP	O
+노원구	노원구	NNP	B-LOC
+도	도	JX	O
+_	_	_	O
+양상	양상	NNG	O
+은	은	JX	O
+_	_	_	O
+비슷하	비슷하	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 이준식 사회부총리 겸 교육부 장관이 24일 오후 전남도립대학교(총장 김왕복) 유니테크사업단 협약기업인 (유)기아자동차 오토큐 남광주서비스를 방문하여 실무진의 목소리를 청취하기 위해 현장에서 대학 및 고교 관계자, 기업 대표, 현장 교사, 학생, 학부모가 참석하는 실무 간담회를 개최한다.
+## <이준식:PER> 사회부총리 겸 <교육부:ORG> 장관이 <24일:DAT> 오후 <전남도립대학교:ORG>(총장 김왕복) <유니테크사업단:ORG> 협약기업인 <(유)기아자동차 오토큐 남광주서비스:ORG>를 방문하여 실무진의 목소리를 청취하기 위해 현장에서 대학 및 고교 관계자, 기업 대표, 현장 교사, 학생, 학부모가 참석하는 실무 간담회를 개최한다.
+이준식	이준식	NNP	B-PER
+_	_	_	O
+사회	사회	NNG	O
+부총리	부총리	NNG	O
+_	_	_	O
+겸	겸	NNB	O
+_	_	_	O
+교육부	교육부	NNG	B-ORG
+_	_	_	O
+장관	장관	NNG	O
+이	이	JKS	O
+_	_	_	O
+24	24	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+오후	오후	NNG	O
+_	_	_	O
+전남	전남	NNP	B-ORG
+도립	도립	NNG	I-ORG
+대학교	대학교	NNG	I-ORG
+(	(	SS	O
+총장	총장	NNG	O
+_	_	_	O
+김왕복	김왕복	NNP	O
+)	)	SS	O
+_	_	_	O
+유니	유니	NNG	B-ORG
+테크	테크	NNG	I-ORG
+사업단	사업단	NNG	I-ORG
+_	_	_	O
+협약	협약	NNG	O
+기업인	기업인	NNG	O
+_	_	_	O
+(	(	SS	B-ORG
+유	유	NNP	I-ORG
+)	)	SS	I-ORG
+기아자동차	기아자동차	NNP	I-ORG
+_	_	_	I-ORG
+오토큐	오토큐	NNP	I-ORG
+_	_	_	I-ORG
+남광주	남광주	NNP	I-ORG
+서비스	서비스	NNG	I-ORG
+를	를	JKO	O
+_	_	_	O
+방문하	방문하	VV	O
+여	여	EC	O
+_	_	_	O
+실무	실무	NNG	O
+진	진	XSN	O
+의	의	JKG	O
+_	_	_	O
+목소리	목소리	NNG	O
+를	를	JKO	O
+_	_	_	O
+청취하	청취하	VV	O
+기	기	ETN	O
+_	_	_	O
+위해	위하+여	VV+EC	O
+_	_	_	O
+현장	현장	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+대학	대학	NNG	O
+_	_	_	O
+및	및	MAG	O
+_	_	_	O
+고교	고교	NNG	O
+_	_	_	O
+관계자	관계자	NNG	O
+,	,	SP	O
+_	_	_	O
+기업	기업	NNG	O
+_	_	_	O
+대표	대표	NNG	O
+,	,	SP	O
+_	_	_	O
+현장	현장	NNG	O
+_	_	_	O
+교사	교사	NNG	O
+,	,	SP	O
+_	_	_	O
+학생	학생	NNG	O
+,	,	SP	O
+_	_	_	O
+학부모	학부모	NNG	O
+가	가	JKS	O
+_	_	_	O
+참석하	참석하	VV	O
+는	는	ETM	O
+_	_	_	O
+실무	실무	NNG	O
+_	_	_	O
+간담회	간담회	NNG	O
+를	를	JKO	O
+_	_	_	O
+개최한다	개최하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 5
+## 계나는 쥐와 바퀴벌레가 들끓고 개미가 나오는 집에서 태어나 자랐다.
+## <계나:PER>는 쥐와 바퀴벌레가 들끓고 개미가 나오는 집에서 태어나 자랐다.
+계	계	XSN	B-PER
+나	나	NP	I-PER
+는	는	JX	O
+_	_	_	O
+쥐	쥐	NNG	O
+와	와	JC	O
+_	_	_	O
+바퀴벌레	바퀴벌레	NNG	O
+가	가	JKS	O
+_	_	_	O
+들끓	들끓	VV	O
+고	고	EC	O
+_	_	_	O
+개미	개미	NNG	O
+가	가	JKS	O
+_	_	_	O
+나오	나오	VV	O
+는	는	ETM	O
+_	_	_	O
+집	집	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+태어나	태어나+아	VV+EC	O
+_	_	_	O
+자랐	자라+았	VV+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 백 70이 우변 변화의 방점을 찍은 수. 백이 훨훨 날아가는 듯하다.
+## <백 70:NOH>이 우변 변화의 방점을 찍은 수. 백이 훨훨 날아가는 듯하다.
+백	백	NR	B-NOH
+_	_	_	I-NOH
+70	70	SN	I-NOH
+이	이	JKC	O
+_	_	_	O
+우변	우변	NNG	O
+_	_	_	O
+변화	변화	NNG	O
+의	의	JKG	O
+_	_	_	O
+방점	방점	NNG	O
+을	을	JKO	O
+_	_	_	O
+찍	찍	VV	O
+은	은	ETM	O
+_	_	_	O
+수	수	NNG	O
+.	.	SF	O
+_	_	_	O
+백	백	NNG	O
+이	이	JKS	O
+_	_	_	O
+훨훨	훨훨	MAG	O
+_	_	_	O
+날아가	날아가	VV	O
+는	는	ETM	O
+_	_	_	O
+듯하	듯하	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## IS, 테러 대상에 한국 포함 “전쟁으로 너희를 불태울 것”
+## <IS:ORG>, 테러 대상에 <한국:ORG> 포함 “전쟁으로 너희를 불태울 것”
+IS	IS	SL	B-ORG
+,	,	SP	O
+_	_	_	O
+테러	테러	NNG	O
+_	_	_	O
+대상	대상	NNG	O
+에	에	JKB	O
+_	_	_	O
+한국	한국	NNP	B-ORG
+_	_	_	O
+포함	포함	NNG	O
+_	_	_	O
+“	“	SS	O
+전쟁	전쟁	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+너희	너희	NP	O
+를	를	JKO	O
+_	_	_	O
+불태울	불태우+ㄹ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+”	”	SS	O
+
+## 8
+## 이에 유병재와 박두식은 실제 수염을 밀었다.
+## 이에 <유병재:PER>와 <박두식:PER>은 실제 수염을 밀었다.
+이	이	NP	O
+에	에	JKB	O
+_	_	_	O
+유병재	유병재	NNP	B-PER
+와	와	JC	O
+_	_	_	O
+박두식	박두식	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+실제	실제	NNG	O
+_	_	_	O
+수염	수염	NNG	O
+을	을	JKO	O
+_	_	_	O
+밀	밀	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 최적의 속눈썹 길이는 눈 폭 3분의 1 정도…더 길면 '안구 건조증'이
+## 최적의 속눈썹 길이는 눈 폭 <3분의 1:PNT> 정도…더 길면 '안구 건조증'이
+최적	최적	NNG	O
+의	의	JKG	O
+_	_	_	O
+속눈썹	속눈썹	NNG	O
+_	_	_	O
+길이	길이	NNG	O
+는	는	JX	O
+_	_	_	O
+눈	눈	NNG	O
+_	_	_	O
+폭	폭	NNG	O
+_	_	_	O
+3	3	SN	B-PNT
+분	분	XSN	I-PNT
+의	의	JKG	I-PNT
+_	_	_	I-PNT
+1	1	SN	I-PNT
+_	_	_	O
+정도	정도	NNG	O
+…	…	SE	O
+더	더	MAG	O
+_	_	_	O
+길	길	VA	O
+면	면	EC	O
+_	_	_	O
+'	'	SS	O
+안구	안구	NNG	O
+_	_	_	O
+건조증	건조증	NNG	O
+'	'	SS	O
+이	이	JKS	O
+
+## 10
+## 길가에서 장사를 하던 40개의 노점은 구청과 협의를 거쳐 푸드트럭을 운영하거나 구청이 허락한 부스형 판매대로 옮겨가기로 했다.
+## 길가에서 장사를 하던 <40개:NOH>의 노점은 구청과 협의를 거쳐 푸드트럭을 운영하거나 구청이 허락한 부스형 판매대로 옮겨가기로 했다.
+길가	길가	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+장사	장사	NNG	O
+를	를	JKO	O
+_	_	_	O
+하	하	VV	O
+던	던	ETM	O
+_	_	_	O
+40	40	SN	B-NOH
+개	개	NNB	I-NOH
+의	의	JKG	O
+_	_	_	O
+노점	노점	NNG	O
+은	은	JX	O
+_	_	_	O
+구청	구청	NNG	O
+과	과	JKB	O
+_	_	_	O
+협의	협의	NNG	O
+를	를	JKO	O
+_	_	_	O
+거쳐	거치+어	VV+EC	O
+_	_	_	O
+푸드	푸드	NNG	O
+트럭	트럭	NNG	O
+을	을	JKO	O
+_	_	_	O
+운영하	운영하	VV	O
+거나	거나	EC	O
+_	_	_	O
+구청	구청	NNG	O
+이	이	JKS	O
+_	_	_	O
+허락한	허락하+ㄴ	VV+ETM	O
+_	_	_	O
+부스	부스	NNG	O
+형	형	XSN	O
+_	_	_	O
+판매대	판매대	NNG	O
+로	로	JKB	O
+_	_	_	O
+옮겨	옮기+어	VV+EC	O
+가	가	VV	O
+기	기	ETN	O
+로	로	JKB	O
+_	_	_	O
+했	+였	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 서초구가 강남대로 옆 보행로 정비에 나선 건 이번이 처음이 아니다.
+## <서초구:LOC>가 <강남대로:LOC> 옆 보행로 정비에 나선 건 이번이 처음이 아니다.
+서초구	서초구	NNP	B-LOC
+가	가	JKS	O
+_	_	_	O
+강남	강남	NNP	B-LOC
+대로	대로	NNG	I-LOC
+_	_	_	O
+옆	옆	NNG	O
+_	_	_	O
+보행로	보행로	NNG	O
+_	_	_	O
+정비	정비	NNG	O
+에	에	JKB	O
+_	_	_	O
+나선	나서+ㄴ	VV+ETM	O
+_	_	_	O
+건	것+ㄴ	NNB+JX	O
+_	_	_	O
+이번	이번	NNG	O
+이	이	JKS	O
+_	_	_	O
+처음	처음	NNG	O
+이	이	JKC	O
+_	_	_	O
+아니	아니	VCN	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 컴퓨터 디자인, 뷰티 메이크업, 경제 지도사 과정 등 매달 30여 개 강좌를 연중 진행한다.
+## 컴퓨터 디자인, 뷰티 메이크업, 경제 지도사 과정 등 매달 <30여 개:NOH> 강좌를 연중 진행한다.
+컴퓨터	컴퓨터	NNG	O
+_	_	_	O
+디자인	디자인	NNG	O
+,	,	SP	O
+_	_	_	O
+뷰티	뷰티	NNG	O
+_	_	_	O
+메이크업	메이크업	NNG	O
+,	,	SP	O
+_	_	_	O
+경제	경제	NNG	O
+_	_	_	O
+지도	지도	NNG	O
+사	사	XSN	O
+_	_	_	O
+과정	과정	NNG	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+매달	매달	MAG	O
+_	_	_	O
+30	30	SN	B-NOH
+여	여	XSN	I-NOH
+_	_	_	I-NOH
+개	개	NNB	I-NOH
+_	_	_	O
+강좌	강좌	NNG	O
+를	를	JKO	O
+_	_	_	O
+연중	연중	NNG	O
+_	_	_	O
+진행한다	진행하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 13
+## 시신이 홍 씨로 확인되면 올해만 필리핀에서 피살된 한국인은 10명으로 늘어난다.
+## 시신이 <홍:PER> 씨로 확인되면 올해만 <필리핀:LOC>에서 피살된 한국인은 <10명:NOH>으로 늘어난다.
+시신	시신	NNG	O
+이	이	JKS	O
+_	_	_	O
+홍	홍	NNP	B-PER
+_	_	_	O
+씨	씨	NNB	O
+로	로	JKB	O
+_	_	_	O
+확인되	확인되	VV	O
+면	면	EC	O
+_	_	_	O
+올해	올해	NNG	O
+만	만	JX	O
+_	_	_	O
+필리핀	필리핀	NNP	B-LOC
+에서	에서	JKB	O
+_	_	_	O
+피살된	피살되+ㄴ	VV+ETM	O
+_	_	_	O
+한국인	한국인	NNG	O
+은	은	JX	O
+_	_	_	O
+10	10	SN	B-NOH
+명	명	NNB	I-NOH
+으로	으로	JKB	O
+_	_	_	O
+늘어난다	늘어나+ㄴ다	VV+EF	O
+.	.	SF	O
+

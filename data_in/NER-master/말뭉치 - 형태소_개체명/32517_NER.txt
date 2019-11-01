@@ -1,0 +1,435 @@
+## 1
+## 장기휴재 끝에 웹툰 ‘찌질의 역시 시즌3’를 다시 연재하고 있는 김풍. 기다려준 독자들에게 감사하다는 말을 연이어 전하던 그에게 휴재에 대한 이야기를 빼놓을 수 없었다.
+## 장기휴재 끝에 웹툰 ‘<찌질의 역시 시즌3:POH>’를 다시 연재하고 있는 <김풍:PER>. 기다려준 독자들에게 감사하다는 말을 연이어 전하던 그에게 휴재에 대한 이야기를 빼놓을 수 없었다.
+장기	장기	NNG	O
+휴	휴	NNG	O
+재	재	XPN	O
+_	_	_	O
+끝	끝	NNG	O
+에	에	JKB	O
+_	_	_	O
+웹	웹	NNG	O
+툰	툰	NNP	O
+_	_	_	O
+‘	‘	SS	O
+찌	찌	NNG	B-POH
+질의	질의	NNG	I-POH
+_	_	_	I-POH
+역시	역시	MAG	I-POH
+_	_	_	I-POH
+시즌	시즌	NNG	I-POH
+3	3	SN	I-POH
+’	’	SS	O
+를	를	JKO	O
+_	_	_	O
+다시	다시	MAG	O
+_	_	_	O
+연재하	연재하	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+는	는	ETM	O
+_	_	_	O
+김풍	김풍	NNP	B-PER
+.	.	SF	O
+_	_	_	O
+기다려	기다리+어	VV+EC	O
+준	주+ㄴ	VX+ETM	O
+_	_	_	O
+독자	독자	NNG	O
+들	들	XSN	O
+에게	에게	JKB	O
+_	_	_	O
+감사하	감사하	VV	O
+다는	다는	ETM	O
+_	_	_	O
+말	말	NNG	O
+을	을	JKO	O
+_	_	_	O
+연이	연잇	VV	O
+어	어	EC	O
+_	_	_	O
+전하	전하	VV	O
+던	던	ETM	O
+_	_	_	O
+그	그	NP	O
+에게	에게	JKB	O
+_	_	_	O
+휴재	휴재	NNG	O
+에	에	JKB	O
+_	_	_	O
+대한	대하+ㄴ	VV+ETM	O
+_	_	_	O
+이야기	이야기	NNG	O
+를	를	JKO	O
+_	_	_	O
+빼놓	빼놓	VV	O
+을	을	ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+없	없	VA	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 그는 “내가 초심으로 돌아가기에 딱 좋았던 작품이 ‘찌질의 역사’였다.
+## 그는 “내가 초심으로 돌아가기에 딱 좋았던 작품이 ‘<찌질의 역사:POH>’였다.
+그	그	NP	O
+는	는	JX	O
+_	_	_	O
+“	“	SS	O
+내	내	NP	O
+가	가	JKS	O
+_	_	_	O
+초심	초심	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+돌아가	돌아가	VV	O
+기	기	ETN	O
+에	에	JKB	O
+_	_	_	O
+딱	딱	MAG	O
+_	_	_	O
+좋	좋	VA	O
+았	았	EP	O
+던	던	ETM	O
+_	_	_	O
+작품	작품	NNG	O
+이	이	JKS	O
+_	_	_	O
+‘	‘	SS	O
+찌	찌	NNG	B-POH
+질의	질의	NNG	I-POH
+_	_	_	I-POH
+역사	역사	NNG	I-POH
+’	’+이	SS+VCP	O
+였	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 대구 관광의 상징이 된 근대골목투어의 밤거리를 활용한다.
+## <대구:LOC> 관광의 상징이 된 <근대골목투어:POH>의 밤거리를 활용한다.
+대구	대구	NNP	B-LOC
+_	_	_	O
+관광	관광	NNG	O
+의	의	JKG	O
+_	_	_	O
+상징	상징	NNG	O
+이	이	JKC	O
+_	_	_	O
+된	되+ㄴ	VV+ETM	O
+_	_	_	O
+근대	근대	NNG	B-POH
+골목	골목	NNG	I-POH
+투어	투어	NNG	I-POH
+의	의	JKG	O
+_	_	_	O
+밤거리	밤거리	NNG	O
+를	를	JKO	O
+_	_	_	O
+활용한다	활용하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 4
+## 하지만 유독 한 건물 앞 200여 m 구간 앞에는 전봇대가 하나도 없다.
+## 하지만 유독 <한:NOH> 건물 앞 <200여 m:NOH> 구간 앞에는 전봇대가 <하나:NOH>도 없다.
+하	하	VV	O
+지만	지만	EC	O
+_	_	_	O
+유독	유독	MAG	O
+_	_	_	O
+한	한	MM	B-NOH
+_	_	_	O
+건물	건물	NNG	O
+_	_	_	O
+앞	앞	NNG	O
+_	_	_	O
+200	200	SN	B-NOH
+여	여	XSN	I-NOH
+_	_	_	I-NOH
+m	m	SL	I-NOH
+_	_	_	O
+구간	구간	NNG	O
+_	_	_	O
+앞	앞	NNG	O
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+전봇대	전봇대	NNG	O
+가	가	JKS	O
+_	_	_	O
+하나	하나	NNG	B-NOH
+도	도	JX	O
+_	_	_	O
+없	없	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 대부분 86세대다.
+## 대부분 <86세대:NOH>다.
+대부분	대부분	NNG	O
+_	_	_	O
+86	86	SN	B-NOH
+세대	세대+이	NNG+VCP	I-NOH
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 수도 레이캬비크는 연기를 뜻하는 ‘레이캬’와 비크의 합성어다.
+## 수도 <레이캬비크:LOC>는 연기를 뜻하는 ‘레이캬’와 비크의 합성어다.
+수도	수도	NNG	O
+_	_	_	O
+레이캬비크	레이캬비크	NNP	B-LOC
+는	는	JX	O
+_	_	_	O
+연기	연기	NNG	O
+를	를	JKO	O
+_	_	_	O
+뜻하	뜻하	VV	O
+는	는	ETM	O
+_	_	_	O
+‘	‘	SS	O
+레이	레이	NNP	O
+캬	캬	IC	O
+’	’	SS	O
+와	와	JKB	O
+_	_	_	O
+비크	비크	NNP	O
+의	의	JKG	O
+_	_	_	O
+합성어	합성어	NNG	O
+다	다	NNG	O
+.	.	SF	O
+
+## 7
+## 30일 장마전선에서 발달한 저기압 영향으로 전국에 비가 내릴 것으로 보인다.
+## <30일:DAT> 장마전선에서 발달한 저기압 영향으로 전국에 비가 내릴 것으로 보인다.
+30	30	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+장마	장마	NNG	O
+전선	전선	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+발달한	발달하+ㄴ	VV+ETM	O
+_	_	_	O
+저기압	저기압	NNG	O
+_	_	_	O
+영향	영향	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+전국	전국	NNG	O
+에	에	JKB	O
+_	_	_	O
+비	비	NNG	O
+가	가	JKS	O
+_	_	_	O
+내릴	내리+ㄹ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+보인다	보이+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 8
+## 수수료는 납입금액의 1%. 현대증권, 대구은행, 한국투자증권, 유안타증권, 유진투자증권, IBK투자증권에서 가입할 수 있다.
+## 수수료는 납입금액의 <1%:PNT>. <현대증권:ORG>, <대구은행:ORG>, <한국투자증권:ORG>, <유안타증권:ORG>, <유진투자증권:ORG>, <IBK투자증권:ORG>에서 가입할 수 있다.
+수수료	수수료	NNG	O
+는	는	JX	O
+_	_	_	O
+납입금	납입금	NNG	O
+액	액	XSN	O
+의	의	JKG	O
+_	_	_	O
+1	1	SN	B-PNT
+%	%	SW	I-PNT
+.	.	SF	O
+_	_	_	O
+현대증권	현대증권	NNP	B-ORG
+,	,	SP	O
+_	_	_	O
+대구은행	대구은행	NNP	B-ORG
+,	,	SP	O
+_	_	_	O
+한국	한국	NNP	B-ORG
+투자	투자	NNG	I-ORG
+증권	증권	NNG	I-ORG
+,	,	SP	O
+_	_	_	O
+유안타증권	유안타증권	NNP	B-ORG
+,	,	SP	O
+_	_	_	O
+유진투자증권	유진투자증권	NNP	B-ORG
+,	,	SP	O
+_	_	_	O
+IBK	IBK	SL	B-ORG
+투자	투자	NNG	I-ORG
+증권	증권	NNG	I-ORG
+에서	에서	JKB	O
+_	_	_	O
+가입할	가입하+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 울랄라 세션이라는 그룹을 가지고 이야기를 할 수 있는, 그런 가수가 한국에 존재했었다고 말할 수 있는 그런 가수가 되고 싶다고 답하며 인터뷰를 마쳤다.
+## <울랄라 세션:ORG>이라는 그룹을 가지고 이야기를 할 수 있는, 그런 가수가 <한국:LOC>에 존재했었다고 말할 수 있는 그런 가수가 되고 싶다고 답하며 인터뷰를 마쳤다.
+울랄라	울랄라	NNP	B-ORG
+_	_	_	I-ORG
+세션	세션	NNG	I-ORG
+이	이	VCP	O
+라는	라는	ETM	O
+_	_	_	O
+그룹	그룹	NNG	O
+을	을	JKO	O
+_	_	_	O
+가지	가지	VV	O
+고	고	EC	O
+_	_	_	O
+이야기	이야기	NNG	O
+를	를	JKO	O
+_	_	_	O
+할	하+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+는	는	ETM	O
+,	,	SP	O
+_	_	_	O
+그런	그런	MM	O
+_	_	_	O
+가수	가수	NNG	O
+가	가	JKS	O
+_	_	_	O
+한국	한국	NNP	B-LOC
+에	에	JKB	O
+_	_	_	O
+존재	존재하	VV	O
+했었	었었	EP	O
+다고	다고	EC	O
+_	_	_	O
+말할	말하+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+는	는	ETM	O
+_	_	_	O
+그런	그런	MM	O
+_	_	_	O
+가수	가수	NNG	O
+가	가	JKC	O
+_	_	_	O
+되	되	VV	O
+고	고	EC	O
+_	_	_	O
+싶	싶	VX	O
+다고	다고	EC	O
+_	_	_	O
+답하	답하	VV	O
+며	며	EC	O
+_	_	_	O
+인터뷰	인터뷰	NNG	O
+를	를	JKO	O
+_	_	_	O
+마	마치	VV	O
+쳤	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 이 전무는 디자인 석사 학위를 김 사장이 교수를 지낸 중앙대 대학원서 받았다.
+## <이:PER> 전무는 디자인 석사 학위를 <김:PER> 사장이 교수를 지낸 <중앙대:ORG> <대학:POH>원서 받았다.
+이	이	MM	B-PER
+_	_	_	O
+전무	전무	NNG	O
+는	는	JX	O
+_	_	_	O
+디자인	디자인	NNG	O
+_	_	_	O
+석사	석사	NNG	O
+_	_	_	O
+학위	학위	NNG	O
+를	를	JKO	O
+_	_	_	O
+김	김	NNP	B-PER
+_	_	_	O
+사장	사장	NNG	O
+이	이	JKS	O
+_	_	_	O
+교수	교수	NNG	O
+를	를	JKO	O
+_	_	_	O
+지낸	지내+ㄴ	VV+ETM	O
+_	_	_	O
+중앙대	중앙대	NNP	B-ORG
+_	_	_	O
+대학원	대학원	NNG	O
+서	서	JKB	O
+_	_	_	O
+받	받	VV	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 피츠버그로선 홈 이점을 갖는다 해도 아리에타라는 확실한 에이스를 보유한 컵스가 부담스러울 수밖에 없다.
+## <피츠버그:ORG>로선 홈 이점을 갖는다 해도 <아리에타:PER>라는 확실한 에이스를 보유한 <컵스:ORG>가 부담스러울 수밖에 없다.
+피츠버그	피츠버그	NNP	B-ORG
+로선	로서+ㄴ	JKB+JX	O
+_	_	_	O
+홈	홈	NNG	O
+_	_	_	O
+이점	이점	NNG	O
+을	을	JKO	O
+_	_	_	O
+갖	갖	VV	O
+는다	는다	EC	O
+_	_	_	O
+해도	하+여도	VV+EC	O
+_	_	_	O
+아리에타	아리에타+이	NNP+VCP	B-PER
+라는	라는	ETM	O
+_	_	_	O
+확실한	확실하+ㄴ	VA+ETM	O
+_	_	_	O
+에이스	에이스	NNG	O
+를	를	JKO	O
+_	_	_	O
+보유한	보유하+ㄴ	VV+ETM	O
+_	_	_	O
+컵스	컵스	NNP	B-ORG
+가	가	JKS	O
+_	_	_	O
+부담스러	부담스럽	VA	O
+울	ㄹ	ETM	O
+_	_	_	O
+수	수	NNB	O
+밖에	밖에	JX	O
+_	_	_	O
+없	없	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 손건영 스포츠동아 미국 통신원
+## <손건영:PER> <스포츠동아:ORG> <미국:LOC> 통신원
+손건영	손건영	NNP	B-PER
+_	_	_	O
+스포츠	스포츠	NNG	B-ORG
+동아	동아	NNP	I-ORG
+_	_	_	O
+미국	미국	NNP	B-LOC
+_	_	_	O
+통신원	통신원	NNG	O
+

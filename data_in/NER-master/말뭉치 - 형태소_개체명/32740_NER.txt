@@ -1,0 +1,338 @@
+## 1
+## 이를 위해 삼성전자와 파나소닉은 기존 BMW의 협력사이자 미국 음성인식 기술업체 뉘앙스와 협력하게 된다.
+## 이를 위해 <삼성전자:ORG>와 <파나소닉:ORG>은 기존 <BMW:ORG>의 협력사이자 <미국:LOC> 음성인식 기술업체 <뉘앙스:ORG>와 협력하게 된다.
+이	이	NP	O
+를	를	JKO	O
+_	_	_	O
+위해	위하+여	VV+EC	O
+_	_	_	O
+삼성전자	삼성전자	NNP	B-ORG
+와	와	JC	O
+_	_	_	O
+파나소닉	파나소닉	NNP	B-ORG
+은	은	JX	O
+_	_	_	O
+기존	기존	NNG	O
+_	_	_	O
+BMW	BMW	SL	B-ORG
+의	의	JKG	O
+_	_	_	O
+협력	협력	NNG	O
+사	사	XSN	O
+이	이	VCP	O
+자	자	EC	O
+_	_	_	O
+미국	미국	NNP	B-LOC
+_	_	_	O
+음성	음성	NNG	O
+인식	인식	NNG	O
+_	_	_	O
+기술	기술	NNG	O
+업체	업체	NNG	O
+_	_	_	O
+뉘앙스	뉘앙스	NNG	B-ORG
+와	와	JKB	O
+_	_	_	O
+협력하	협력하	VV	O
+게	게	EC	O
+_	_	_	O
+된다	되+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 2
+## 신카이 마코토 감독ㆍ배우 한예리··· ‘너의 이름은’ 메가토크에서 만나요!
+## <신카이 마코토:PER> 감독ㆍ배우 <한예리:PER>··· ‘<너의 이름은:POH>’ <메가토크:POH>에서 만나요!
+신	신	NNG	B-PER
+카이	카이	NNG	I-PER
+_	_	_	I-PER
+마코토	마코토	NNP	I-PER
+_	_	_	O
+감독	감독	NNG	O
+ㆍ	ㆍ	SP	O
+배우	배우	NNG	O
+_	_	_	O
+한	한	NNP	B-PER
+예리	예리	NNP	I-PER
+·	·	SP	O
+·	·	SP	O
+·	·	SP	O
+_	_	_	O
+‘	‘	SS	O
+너	너	NP	B-POH
+의	의	JKG	I-POH
+_	_	_	I-POH
+이름	이름	NNG	I-POH
+은	은	JX	I-POH
+’	’	SS	O
+_	_	_	O
+메가	메가	NNB	B-POH
+토크	토크	NNG	I-POH
+에서	에서	JKB	O
+_	_	_	O
+만나요	만나+아요	VV+EF	O
+!	!	SF	O
+
+## 3
+## 금융감독원은 보험료 할인 특약과 관련한 유익한 정보를 3일 소개했다.
+## <금융감독원:ORG>은 보험료 할인 특약과 관련한 유익한 정보를 <3일:DAT> 소개했다.
+금융	금융	NNG	B-ORG
+감독	감독	NNG	I-ORG
+원	원	XSN	I-ORG
+은	은	JX	O
+_	_	_	O
+보험료	보험료	NNG	O
+_	_	_	O
+할인	할인	NNG	O
+_	_	_	O
+특약	특약	NNG	O
+과	과	JKB	O
+_	_	_	O
+관련한	관련하+ㄴ	VV+ETM	O
+_	_	_	O
+유익한	유익하+ㄴ	VA+ETM	O
+_	_	_	O
+정보	정보	NNG	O
+를	를	JKO	O
+_	_	_	O
+3	3	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+소개	소개하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 때리고 달랜 이정현 “나를 主敵 삼아 돌팔매 던져라”
+## 때리고 달랜 <이정현:PER> “나를 主敵 삼아 돌팔매 던져라”
+때리	때리	VV	O
+고	고	EC	O
+_	_	_	O
+달랜	달래+ㄴ	VV+ETM	O
+_	_	_	O
+이정현	이정현	NNP	B-PER
+_	_	_	O
+“	“	SS	O
+나	나	NP	O
+를	를	JKO	O
+_	_	_	O
+主敵	主敵	SH	O
+_	_	_	O
+삼	삼	VV	O
+아	아	EC	O
+_	_	_	O
+돌팔매	돌팔매	NNG	O
+_	_	_	O
+던져라	던지+어라	VV+EF	O
+”	”	SS	O
+
+## 5
+## 만만치 않은 경쟁자의 등장으로 이청용은 주전 자리를 놓고 치열한 경쟁을 펼쳐야 할 것으로 보인다.
+## 만만치 않은 경쟁자의 등장으로 <이청용:PER>은 주전 자리를 놓고 치열한 경쟁을 펼쳐야 할 것으로 보인다.
+만만	만만하	VA	O
+치	지	EC	O
+_	_	_	O
+않	않	VX	O
+은	은	ETM	O
+_	_	_	O
+경쟁자	경쟁자	NNG	O
+의	의	JKG	O
+_	_	_	O
+등장	등장	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+이청용	이청용	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+주전	주전	NNG	O
+_	_	_	O
+자리	자리	NNG	O
+를	를	JKO	O
+_	_	_	O
+놓	놓	VV	O
+고	고	EC	O
+_	_	_	O
+치열한	치열하+ㄴ	VA+ETM	O
+_	_	_	O
+경쟁	경쟁	NNG	O
+을	을	JKO	O
+_	_	_	O
+펼쳐야	펼치+어야	VV+EC	O
+_	_	_	O
+할	하+ㄹ	VX+ETM	O
+_	_	_	O
+것	것	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+보인다	보이+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 6
+## 조선·철강 등 중공업 분야의 수많은 기업이 위기에 처한 상황에서 국내 유일의 완제기 제조업체인 KAI의 성장은 눈에 띈다.
+## 조선·철강 등 중공업 분야의 수많은 기업이 위기에 처한 상황에서 국내 유일의 완제기 제조업체인 <KAI:ORG>의 성장은 눈에 띈다.
+조선	조선	NNP	O
+·	·	SP	O
+철강	철강	NNG	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+중공업	중공업	NNG	O
+_	_	_	O
+분야	분야	NNG	O
+의	의	JKG	O
+_	_	_	O
+수많	수많	VA	O
+은	은	ETM	O
+_	_	_	O
+기업	기업	NNG	O
+이	이	JKS	O
+_	_	_	O
+위기	위기	NNG	O
+에	에	JKB	O
+_	_	_	O
+처한	처하+ㄴ	VV+ETM	O
+_	_	_	O
+상황	상황	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+국내	국내	NNG	O
+_	_	_	O
+유일	유일	NNG	O
+의	의	JKG	O
+_	_	_	O
+완제	완제	NNG	O
+기	기	XSN	O
+_	_	_	O
+제조	제조	NNG	O
+업체	업체	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+KAI	KAI	SL	B-ORG
+의	의	JKG	O
+_	_	_	O
+성장	성장	NNG	O
+은	은	JX	O
+_	_	_	O
+눈	눈	NNG	O
+에	에	JKB	O
+_	_	_	O
+띈다	띄+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 7
+## 카를 마르크스도 하부구조(경제)가 상부구조(정치)를 지배한다고 하지 않았는가.이철호 논설실장
+## <카를 마르크스:PER>도 하부구조(경제)가 상부구조(정치)를 지배한다고 하지 않았는가.<이철호:PER> 논설실장
+카를	카를	NNP	B-PER
+_	_	_	I-PER
+마르크스	마르크스	NNP	I-PER
+도	도	JX	O
+_	_	_	O
+하부	하부	NNG	O
+구조	구조	NNG	O
+(	(	SS	O
+경제	경제	NNG	O
+)	)	SS	O
+가	가	JKS	O
+_	_	_	O
+상부	상부	NNG	O
+구조	구조	NNG	O
+(	(	SS	O
+정치	정치	NNG	O
+)	)	SS	O
+를	를	JKO	O
+_	_	_	O
+지배한다고	지배하+ㄴ다고	VV+EC	O
+_	_	_	O
+하	하	VV	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+았	았	EP	O
+는가	는가	EF	O
+.	.	SF	O
+이철호	이철호	NNP	B-PER
+_	_	_	O
+논설	논설	NNG	O
+실장	실장	NNG	O
+
+## 8
+## 이런 중국의 광폭 행보에 심기 불편한 미국이 신경 쓰이기는 영국도 마찬가지일 터. 두 정상이 마신 맥주는 ‘그린 킹 IPA’였다.
+## 이런 <중국:ORG>의 광폭 행보에 심기 불편한 <미국:ORG>이 신경 쓰이기는 <영국:ORG>도 마찬가지일 터. <두 정상:NOH>이 마신 맥주는 ‘<그린 킹 IPA:POH>’였다.
+이런	이런	MM	O
+_	_	_	O
+중국	중국	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+광폭	광폭	NNG	O
+_	_	_	O
+행보	행보	NNG	O
+에	에	JKB	O
+_	_	_	O
+심	심	VV	O
+기	기	ETN	O
+_	_	_	O
+불편한	불편하+ㄴ	VA+ETM	O
+_	_	_	O
+미국	미국	NNP	B-ORG
+이	이	JKS	O
+_	_	_	O
+신경	신경	NNG	O
+_	_	_	O
+쓰이	쓰이	VV	O
+기	기	ETN	O
+는	는	JX	O
+_	_	_	O
+영국	영국	NNP	B-ORG
+도	도	JX	O
+_	_	_	O
+마찬가지	마찬가지	NNG	O
+일	이+ㄹ	VCP+ETM	O
+_	_	_	O
+터	터	NNB	O
+.	.	SF	O
+_	_	_	O
+두	두	MM	B-NOH
+_	_	_	I-NOH
+정상	정상	NNG	I-NOH
+이	이	JKS	O
+_	_	_	O
+마신	마시+ㄴ	VV+ETM	O
+_	_	_	O
+맥주	맥주	NNG	O
+는	는	JX	O
+_	_	_	O
+‘	‘	SS	O
+그린	그린	NNG	B-POH
+_	_	_	I-POH
+킹	킹	NNP	I-POH
+_	_	_	I-POH
+IPA	IPA	SL	I-POH
+’	’+이	SS+VCP	O
+였	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 당뇨병뿐 아니라 CI보험의 기본적인 기능도 강화했다.
+## 당뇨병뿐 아니라 <CI보험:POH>의 기본적인 기능도 강화했다.
+당뇨병	당뇨병	NNG	O
+뿐	뿐	JX	O
+_	_	_	O
+아니	아니	VCN	O
+라	라	EC	O
+_	_	_	O
+CI	CI	SL	B-POH
+보험	보험	NNG	I-POH
+의	의	JKG	O
+_	_	_	O
+기본적	기본적	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+기능	기능	NNG	O
+도	도	JX	O
+_	_	_	O
+강화	강화하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+

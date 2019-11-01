@@ -1,0 +1,596 @@
+## 1
+## 개나리 개화 시기, 서울은 4월 2일~3일 꽃놀이 가면 ‘딱’올해 개나리 개화 시기는 평년보다 1~2일 빠를 전망이다.
+## 개나리 개화 시기, <서울:LOC>은 <4월 2일~3일:DUR> 꽃놀이 가면 ‘딱’올해 개나리 개화 시기는 평년보다 <1:NOH>~<2일:NOH> 빠를 전망이다.
+개나리	개나리	NNG	O
+_	_	_	O
+개화	개화	NNG	O
+_	_	_	O
+시기	시기	NNG	O
+,	,	SP	O
+_	_	_	O
+서울	서울	NNP	B-LOC
+은	은	JX	O
+_	_	_	O
+4	4	SN	B-DUR
+월	월	NNB	I-DUR
+_	_	_	I-DUR
+2	2	SN	I-DUR
+일	일	NNB	I-DUR
+~	~	SO	I-DUR
+3	3	SN	I-DUR
+일	일	NNB	I-DUR
+_	_	_	O
+꽃놀이	꽃놀이	NNG	O
+_	_	_	O
+가	가	VV	O
+면	면	EC	O
+_	_	_	O
+‘	‘	SS	O
+딱	딱	MAG	O
+’	’	SS	O
+올해	올해	NNG	O
+_	_	_	O
+개나리	개나리	NNG	O
+_	_	_	O
+개화	개화	NNG	O
+_	_	_	O
+시기	시기	NNG	O
+는	는	JX	O
+_	_	_	O
+평년	평년	NNG	O
+보다	보다	JKB	O
+_	_	_	O
+1	1	SN	B-NOH
+~	~	SO	O
+2	2	SN	B-NOH
+일	일	NNB	I-NOH
+_	_	_	O
+빠를	빠르+ㄹ	VA+ETM	O
+_	_	_	O
+전망	전망	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 민간기상업체 케이웨더는 17일 홈페이지를 통해 2016년 주요도시 봄꽃(개나리, 진달래) 개화시기 정보를 발표했다.
+## 민간기상업체 <케이웨더:ORG>는 <17일:DAT> 홈페이지를 통해 <2016년:DAT> 주요도시 봄꽃(개나리, 진달래) 개화시기 정보를 발표했다.
+민간기	민간기	NNG	O
+상업	상업	NNG	O
+체	체	XSN	O
+_	_	_	O
+케이웨더	케이웨더	NNP	B-ORG
+는	는	JX	O
+_	_	_	O
+17	17	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+홈페이지	홈페이지	NNG	O
+를	를	JKO	O
+_	_	_	O
+통해	통하+여	VV+EC	O
+_	_	_	O
+2016	2016	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+주요	주요	NNG	O
+도시	도시	NNG	O
+_	_	_	O
+봄꽃	봄꽃	NNG	O
+(	(	SS	O
+개나리	개나리	NNG	O
+,	,	SP	O
+_	_	_	O
+진달래	진달래	NNG	O
+)	)	SS	O
+_	_	_	O
+개화	개화	NNG	O
+시기	시기	NNG	O
+_	_	_	O
+정보	정보	NNG	O
+를	를	JKO	O
+_	_	_	O
+발표	발표하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 케이웨더는 이달 하순과 3월 기온이 평년보다 조금 높을 것으로 예측돼 올해 평년보다 꽃 피는 시기가 빨라질 것으로 예측했다.
+## <케이웨더:ORG>는 이달 하순과 <3월:DAT> 기온이 평년보다 조금 높을 것으로 예측돼 올해 평년보다 꽃 피는 시기가 빨라질 것으로 예측했다.
+케이웨더	케이웨더	NNP	B-ORG
+는	는	JX	O
+_	_	_	O
+이달	이달	NNG	O
+_	_	_	O
+하순	하순	NNG	O
+과	과	JC	O
+_	_	_	O
+3	3	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+기온	기온	NNG	O
+이	이	JKS	O
+_	_	_	O
+평년	평년	NNG	O
+보다	보다	JKB	O
+_	_	_	O
+조금	조금	MAG	O
+_	_	_	O
+높	높	VA	O
+을	을	ETM	O
+_	_	_	O
+것	것	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+예측돼	예측되+어	VV+EC	O
+_	_	_	O
+올해	올해	NNG	O
+_	_	_	O
+평년	평년	NNG	O
+보다	보다	JKB	O
+_	_	_	O
+꽃	꽃	NNG	O
+_	_	_	O
+피	피	VV	O
+는	는	ETM	O
+_	_	_	O
+시기	시기	NNG	O
+가	가	JKS	O
+_	_	_	O
+빨	빠르	VA	O
+라	아	EC	O
+질	지+ㄹ	VX+ETM	O
+_	_	_	O
+것	것	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+예측	예측하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 장애인에게 서울은 결코 다니기 좋은 곳이 아니다.
+## 장애인에게 <서울:LOC>은 결코 다니기 좋은 곳이 아니다.
+장애인	장애인	NNG	O
+에게	에게	JKB	O
+_	_	_	O
+서울	서울	NNP	B-LOC
+은	은	JX	O
+_	_	_	O
+결코	결코	MAG	O
+_	_	_	O
+다니	다니	VV	O
+기	기	ETN	O
+_	_	_	O
+좋	좋	VA	O
+은	은	ETM	O
+_	_	_	O
+곳	곳	NNG	O
+이	이	JKC	O
+_	_	_	O
+아니	아니	VCN	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 조기자 : 저도 그랬던 기억이 납니다.
+## <조:PER>기자 : 저도 그랬던 기억이 납니다.
+조	조	NNP	B-PER
+기자	기자	NNG	O
+_	_	_	O
+:	:	SP	O
+_	_	_	O
+저	저	NP	O
+도	도	JX	O
+_	_	_	O
+그	그렇	VA	O
+랬	었	EP	O
+던	던	ETM	O
+_	_	_	O
+기억	기억	NNG	O
+이	이	JKS	O
+_	_	_	O
+납니다	나+ㅂ니다	VV+EF	O
+.	.	SF	O
+
+## 6
+## 다행히 올해 7월부터 보건복지부가 말기 암 환자의 호스피스 의료비에 건강보험을 적용했다.
+## 다행히 올해 <7월:DAT>부터 <보건복지부:ORG>가 말기 암 환자의 호스피스 의료비에 건강보험을 적용했다.
+다행히	다행히	MAG	O
+_	_	_	O
+올해	올해	NNG	O
+_	_	_	O
+7	7	SN	B-DAT
+월	월	NNB	I-DAT
+부터	부터	JX	O
+_	_	_	O
+보건복지부	보건복지부	NNG	B-ORG
+가	가	JKS	O
+_	_	_	O
+말기	말기	NNG	O
+_	_	_	O
+암	암	NNG	O
+_	_	_	O
+환자	환자	NNG	O
+의	의	JKG	O
+_	_	_	O
+호스피스	호스피스	NNG	O
+_	_	_	O
+의료비	의료비	NNG	O
+에	에	JKB	O
+_	_	_	O
+건강	건강	NNG	O
+보험	보험	NNG	O
+을	을	JKO	O
+_	_	_	O
+적용	적용하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 독일 레버쿠젠 소속인 류승우는 31일 오전 2시5분 항공기편으로 프랑크푸르트로 날아간다.
+## <독일 레버쿠젠:ORG> 소속인 <류승우:PER>는 <31일:DAT> <오전 2시5분:TIM> 항공기편으로 <프랑크푸르트:LOC>로 날아간다.
+독일	독일	NNP	B-ORG
+_	_	_	I-ORG
+레버쿠젠	레버쿠젠	NNP	I-ORG
+_	_	_	O
+소속	소속	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+류승우	류승우	NNP	B-PER
+는	는	JX	O
+_	_	_	O
+31	31	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+오전	오전	NNG	B-TIM
+_	_	_	I-TIM
+2	2	SN	I-TIM
+시	시	NNB	I-TIM
+5	5	SN	I-TIM
+분	분	NNB	I-TIM
+_	_	_	O
+항공기	항공기	NNG	O
+편	편	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+프랑크푸르트	프랑크푸르트	NNP	B-LOC
+로	로	JKB	O
+_	_	_	O
+날아간다	날아가+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 8
+## 간선급행버스(BRT) 정류장은 단지와 150m 정도 떨어져 있다.
+## 간선급행버스(BRT) 정류장은 단지와 <150m:NOH> 정도 떨어져 있다.
+간선	간선	NNG	O
+급행	급행	NNG	O
+버스	버스	NNG	O
+(	(	SS	O
+BRT	BRT	SL	O
+)	)	SS	O
+_	_	_	O
+정류장	정류장	NNG	O
+은	은	JX	O
+_	_	_	O
+단지	단지	NNG	O
+와	와	JC	O
+_	_	_	O
+150	150	SN	B-NOH
+m	m	SL	I-NOH
+_	_	_	O
+정도	정도	NNG	O
+_	_	_	O
+떨어져	떨어지+어	VV+EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 먼저 윤리적인 측면에서 법륜 스님은 인간은 ”욕망을 가진 존재“라는 것을 인정하는 데서부터 출발했습니다.
+## 먼저 윤리적인 측면에서 <법륜:PER> 스님은 인간은 ”욕망을 가진 존재“라는 것을 인정하는 데서부터 출발했습니다.
+먼저	먼저	MAG	O
+_	_	_	O
+윤리적	윤리적	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+측면	측면	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+법륜	법륜	NNG	B-PER
+_	_	_	O
+스님	스님	NNG	O
+은	은	JX	O
+_	_	_	O
+인간	인간	NNG	O
+은	은	JX	O
+_	_	_	O
+”	”	SS	O
+욕망	욕망	NNG	O
+을	을	JKO	O
+_	_	_	O
+가진	가지+ㄴ	VV+ETM	O
+_	_	_	O
+존재	존재	NNG	O
+“	“+이	SS+VCP	O
+라는	라는	ETM	O
+_	_	_	O
+것	것	NNB	O
+을	을	JKO	O
+_	_	_	O
+인정하	인정하	VV	O
+는	는	ETM	O
+_	_	_	O
+데	데	NNB	O
+서부터	서부터	JKB	O
+_	_	_	O
+출발	출발하	VV	O
+했	였	EP	O
+습니다	습니다	EF	O
+.	.	SF	O
+
+## 10
+## 주당국은 지금까지 뉴델리지역 환자중 26명만이 양성이었다며 전염병의 확산을 막을수 있기 때문에 지난달 28일부터 시작된 휴교를 더이상 계속할 필요가 없다고 말했다.
+## 주당국은 지금까지 <뉴델리:LOC>지역 환자중 <26명:NOH>만이 양성이었다며 전염병의 확산을 막을수 있기 때문에 지난달 <28일:DAT>부터 시작된 휴교를 더이상 계속할 필요가 없다고 말했다.
+주	주	NNG	O
+당국	당국	NNG	O
+은	은	JX	O
+_	_	_	O
+지금	지금	NNG	O
+까지	까지	JX	O
+_	_	_	O
+뉴델리	뉴델리	NNP	B-LOC
+지역	지역	NNG	O
+_	_	_	O
+환자	환자	NNG	O
+중	중	NNB	O
+_	_	_	O
+26	26	SN	B-NOH
+명	명	NNB	I-NOH
+만	만	JX	O
+이	이	JKS	O
+_	_	_	O
+양성	양성	NNG	O
+이	이	VCP	O
+었	었	EP	O
+다며	다며	EC	O
+_	_	_	O
+전염병	전염병	NNG	O
+의	의	JKG	O
+_	_	_	O
+확산	확산	NNG	O
+을	을	JKO	O
+_	_	_	O
+막	막	VV	O
+을	을	ETM	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+기	기	ETN	O
+_	_	_	O
+때문	때문	NNB	O
+에	에	JKB	O
+_	_	_	O
+지난달	지난달	NNG	O
+_	_	_	O
+28	28	SN	B-DAT
+일	일	NNB	I-DAT
+부터	부터	JX	O
+_	_	_	O
+시작된	시작되+ㄴ	VV+ETM	O
+_	_	_	O
+휴교	휴교	NNG	O
+를	를	JKO	O
+_	_	_	O
+더	더	MAG	O
+이상	이상	NNG	O
+_	_	_	O
+계속할	계속하+ㄹ	VV+ETM	O
+_	_	_	O
+필요	필요	NNG	O
+가	가	JKS	O
+_	_	_	O
+없	없	VA	O
+다고	다고	EC	O
+_	_	_	O
+말	말하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## '항아리 천사' 소보면에 나타나
+## '<항아리 천사:POH>' <소보면:LOC>에 나타나
+'	'	SS	O
+항아리	항아리	NNG	B-POH
+_	_	_	I-POH
+천사	천사	NNG	I-POH
+'	'	SS	O
+_	_	_	O
+소보면	소보면	NNP	B-LOC
+에	에	JKB	O
+_	_	_	O
+나타나	나타나+아	VV+EC	O
+
+## 12
+## 정관장에서 지난 2013년에 출시한 ‘홍삼쿨’은 장소를 가리지 않고 다양한 방법으로 홍삼을 즐길 수 있게 만들었다.
+## <정관장:ORG>에서 지난 <2013년:DAT>에 출시한 ‘<홍삼쿨:POH>’은 장소를 가리지 않고 다양한 방법으로 홍삼을 즐길 수 있게 만들었다.
+정관장	정관장	NNP	B-ORG
+에서	에서	JKB	O
+_	_	_	O
+지난	지나+ㄴ	VV+ETM	O
+_	_	_	O
+2013	2013	SN	B-DAT
+년	년	NNB	I-DAT
+에	에	JKB	O
+_	_	_	O
+출시한	출시하+ㄴ	VV+ETM	O
+_	_	_	O
+‘	‘	SS	O
+홍삼	홍삼	NNG	B-POH
+쿨	쿨	NNP	I-POH
+’	’	SS	O
+은	은	JX	O
+_	_	_	O
+장소	장소	NNG	O
+를	를	JKO	O
+_	_	_	O
+가리	가리	VV	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+고	고	EC	O
+_	_	_	O
+다양한	다양하+ㄴ	VA+ETM	O
+_	_	_	O
+방법	방법	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+홍삼	홍삼	NNG	O
+을	을	JKO	O
+_	_	_	O
+즐길	즐기+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+게	게	EC	O
+_	_	_	O
+만들	만들	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## 여기에 67년 수에즈 운하 폐쇄는 몰타 경제에 결정타였다.
+## 여기에 <67년:DAT> <수에즈 운하 폐쇄:POH>는 <몰타:ORG> 경제에 결정타였다.
+여기	여기	NP	O
+에	에	JKB	O
+_	_	_	O
+67	67	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+수에즈	수에즈	NNP	B-POH
+_	_	_	I-POH
+운하	운하	NNG	I-POH
+_	_	_	I-POH
+폐쇄	폐쇄	NNG	I-POH
+는	는	JX	O
+_	_	_	O
+몰타	몰타	NNP	B-ORG
+_	_	_	O
+경제	경제	NNG	O
+에	에	JKB	O
+_	_	_	O
+결정타	결정타+이	NNG+VCP	O
+였	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 14
+## 공식 온라인쇼핑몰 X-shop을 비롯해 AS와 체험, 구매까지 원스톱으로 가능한 후지필름 스퀘어 군자점, 그 외 전국 주요 백화점과 대형마트, 온라인쇼핑몰 등 온·오프라인 채널에서 구매 가능하다.
+## 공식 온라인쇼핑몰 <X-shop:POH>을 비롯해 AS와 체험, 구매까지 원스톱으로 가능한 <후지필름 스퀘어 군자점:ORG>, 그 외 전국 주요 백화점과 대형마트, 온라인쇼핑몰 등 온·오프라인 채널에서 구매 가능하다.
+공식	공식	NNG	O
+_	_	_	O
+온라인	온라인	NNG	O
+쇼핑몰	쇼핑몰	NNG	O
+_	_	_	O
+X	X	SL	B-POH
+-	-	SO	I-POH
+shop	shop	SL	I-POH
+을	을	JKO	O
+_	_	_	O
+비롯해	비롯하+여	VV+EC	O
+_	_	_	O
+AS	AS	SL	O
+와	와	JC	O
+_	_	_	O
+체험	체험	NNG	O
+,	,	SP	O
+_	_	_	O
+구매	구매	NNG	O
+까지	까지	JX	O
+_	_	_	O
+원스톱	원스톱	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+가능한	가능하+ㄴ	VA+ETM	O
+_	_	_	O
+후지필름	후지필름	NNP	B-ORG
+_	_	_	I-ORG
+스퀘어	스퀘어	NNG	I-ORG
+_	_	_	I-ORG
+군자	군자	NNG	I-ORG
+점	점	NNB	I-ORG
+,	,	SP	O
+_	_	_	O
+그	그	MM	O
+_	_	_	O
+외	외	NNB	O
+_	_	_	O
+전국	전국	NNG	O
+_	_	_	O
+주요	주요	NNG	O
+_	_	_	O
+백화점	백화점	NNG	O
+과	과	JC	O
+_	_	_	O
+대형	대형	NNG	O
+마트	마트	NNG	O
+,	,	SP	O
+_	_	_	O
+온라인	온라인	NNG	O
+쇼핑몰	쇼핑몰	NNG	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+온	온	NNG	O
+·	·	SP	O
+오프라인	오프라인	NNG	O
+_	_	_	O
+채널	채널	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+구매	구매	NNG	O
+_	_	_	O
+가능하	가능하	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 15
+## '엽기적인 그녀2' 차태현, '스태프들에게 금 두돈 선물…5000만원 썼다'
+## '<엽기적인 그녀2:POH>' <차태현:PER>, '스태프들에게 금 <두돈:NOH> 선물…<5000만원:MNY> 썼다'
+'	'	SS	O
+엽기적	엽기적	NNG	B-POH
+인	이+ㄴ	VCP+ETM	I-POH
+_	_	_	I-POH
+그녀	그녀	NP	I-POH
+2	2	SN	I-POH
+'	'	SS	O
+_	_	_	O
+차태현	차태현	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+'	'	SS	O
+스태프	스태프	NNG	O
+들	들	XSN	O
+에게	에게	JKB	O
+_	_	_	O
+금	금	NNG	O
+_	_	_	O
+두돈	두돈	NNG	B-NOH
+_	_	_	O
+선물	선물	NNG	O
+…	…	SE	O
+5000	5000	SN	B-MNY
+만	만	NR	I-MNY
+원	원	NNB	I-MNY
+_	_	_	O
+썼	+었	+EP	O
+다	다	EF	O
+'	'	SS	O
+

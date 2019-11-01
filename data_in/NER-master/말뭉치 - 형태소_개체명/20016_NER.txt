@@ -1,0 +1,472 @@
+## 1
+## 메시지는 태릉선수촌과 진천선수촌에 설치된 응원 담벼락을 통해 선수들에게 바로 전달된다.
+## 메시지는 <태릉선수촌:LOC>과 <진천선수촌:LOC>에 설치된 응원 담벼락을 통해 선수들에게 바로 전달된다.
+메시지	메시지	NNG	O
+는	는	JX	O
+_	_	_	O
+태릉	태릉	NNP	B-LOC
+선수촌	선수촌	NNG	I-LOC
+과	과	JC	O
+_	_	_	O
+진천	진천	NNP	B-LOC
+선수촌	선수촌	NNG	I-LOC
+에	에	JKB	O
+_	_	_	O
+설치된	설치되+ㄴ	VV+ETM	O
+_	_	_	O
+응원	응원	NNG	O
+_	_	_	O
+담벼락	담벼락	NNG	O
+을	을	JKO	O
+_	_	_	O
+통해	통하+여	VV+EC	O
+_	_	_	O
+선수	선수	NNG	O
+들	들	XSN	O
+에게	에게	JKB	O
+_	_	_	O
+바로	바로	MAG	O
+_	_	_	O
+전달된다	전달되+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 2
+## RFA “북, 탄핵 이후 진보세력 집권 도울 것” 보도
+## <RFA:POH> “<북:ORG>, 탄핵 이후 진보세력 집권 도울 것” 보도
+RFA	RFA	SL	B-POH
+_	_	_	O
+“	“	SS	O
+북	북	NNP	B-ORG
+,	,	SP	O
+_	_	_	O
+탄핵	탄핵	NNG	O
+_	_	_	O
+이후	이후	NNG	O
+_	_	_	O
+진보	진보	NNG	O
+세력	세력	NNG	O
+_	_	_	O
+집권	집권	NNG	O
+_	_	_	O
+도	돕	VV	O
+울	ㄹ	ETM	O
+_	_	_	O
+것	것	NNB	O
+”	”	SS	O
+_	_	_	O
+보도	보도	NNG	O
+
+## 3
+## 칵스의 다섯 멤버는 호원대 실용학과에서 만났다.
+## <칵스:PER>의 다섯 멤버는 <호원대 실용학과:ORG>에서 만났다.
+칵스	칵스	NNP	B-PER
+의	의	JKG	O
+_	_	_	O
+다섯	다섯	NR	O
+_	_	_	O
+멤버	멤버	NNG	O
+는	는	JX	O
+_	_	_	O
+호원대	호원대	NNP	B-ORG
+_	_	_	I-ORG
+실용	실용	NNG	I-ORG
+학과	학과	NNG	I-ORG
+에서	에서	JKB	O
+_	_	_	O
+만났	만나+았	VV+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 영주시는 앞으로도 풍기인삼을 현장체험, 관광, 가공 등 다양한 분야에 접목시켜 6차 산업으로서의 부가가치를 극대화 하는 데 주력할 방침이다.
+## <영주시:LOC>는 앞으로도 풍기인삼을 현장체험, 관광, 가공 등 다양한 분야에 접목시켜 <6차:NOH> 산업으로서의 부가가치를 극대화 하는 데 주력할 방침이다.
+영주시	영주시	NNP	B-LOC
+는	는	JX	O
+_	_	_	O
+앞	앞	NNG	O
+으로	으로	JKB	O
+도	도	JX	O
+_	_	_	O
+풍기	풍기	NNG	O
+인삼	인삼	NNG	O
+을	을	JKO	O
+_	_	_	O
+현장	현장	NNG	O
+체험	체험	NNG	O
+,	,	SP	O
+_	_	_	O
+관광	관광	NNG	O
+,	,	SP	O
+_	_	_	O
+가공	가공	NNG	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+다양한	다양하+ㄴ	VA+ETM	O
+_	_	_	O
+분야	분야	NNG	O
+에	에	JKB	O
+_	_	_	O
+접목	접목	NNG	O
+시켜	시키+어	XSV+EC	O
+_	_	_	O
+6	6	SN	B-NOH
+차	차	NNB	I-NOH
+_	_	_	O
+산업	산업	NNG	O
+으로서	으로서	JKB	O
+의	의	JKG	O
+_	_	_	O
+부가	부가	NNG	O
+가치	가치	NNG	O
+를	를	JKO	O
+_	_	_	O
+극대화	극대화	NNG	O
+_	_	_	O
+하	하	VV	O
+는	는	ETM	O
+_	_	_	O
+데	데	NNB	O
+_	_	_	O
+주력할	주력하+ㄹ	VV+ETM	O
+_	_	_	O
+방침	방침	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 광희 라디오쇼, "유재석 VS 박명수" … 누구 선택했나보니
+## <광희:PER> 라디오쇼, "<유재석:PER> VS <박명수:PER>" … 누구 선택했나보니
+광희	광희	NNP	B-PER
+_	_	_	O
+라디오	라디오	NNG	O
+쇼	쇼	NNG	O
+,	,	SP	O
+_	_	_	O
+"	"	SS	O
+유재석	유재석	NNP	B-PER
+_	_	_	O
+VS	VS	SL	O
+_	_	_	O
+박명수	박명수	NNP	B-PER
+"	"	SS	O
+_	_	_	O
+…	…	SE	O
+_	_	_	O
+누구	누구	NP	O
+_	_	_	O
+선택	선택하	VV	O
+했	였	EP	O
+나	나	EC	O
+보	보	VX	O
+니	니	EC	O
+
+## 6
+## 이를테면 ‘Don‘t Hurt Yourself’는 합작한 잭 화이트의 앨범에 실렸대도 이상할 게 없다.
+## 이를테면 ‘<Don‘t Hurt Yourself:POH>’는 합작한 <잭 화이트:PER>의 앨범에 실렸대도 이상할 게 없다.
+이를테면	이를테면	MAG	O
+_	_	_	O
+‘	‘	SS	O
+Don	Don	SL	B-POH
+‘	‘	SS	I-POH
+t	t	SL	I-POH
+_	_	_	I-POH
+Hurt	Hurt	SL	I-POH
+_	_	_	I-POH
+Yourself	Yourself	SL	I-POH
+’	’	SS	O
+는	는	JX	O
+_	_	_	O
+합작한	합작하+ㄴ	VV+ETM	O
+_	_	_	O
+잭	잭	NNP	B-PER
+_	_	_	I-PER
+화이트	화이트	NNP	I-PER
+의	의	JKG	O
+_	_	_	O
+앨범	앨범	NNG	O
+에	에	JKB	O
+_	_	_	O
+실	실리	VV	O
+렸	었	EP	O
+대도	대+어도	VX+EC	O
+_	_	_	O
+이상할	이상하+ㄹ	VA+ETM	O
+_	_	_	O
+게	것+이	NNB+JKS	O
+_	_	_	O
+없	없	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## ▲서중석(성균관대 교수)=당시 서로 대립적인 관계에 있었던 개화사상, 동학사상, 위정척사사상을 모두 민족주의로 볼 수 있는가.
+## ▲<서중석:PER>(<성균관대:ORG> 교수)=당시 서로 대립적인 관계에 있었던 개화사상, 동학사상, 위정척사사상을 모두 민족주의로 볼 수 있는가.
+▲	▲	SW	O
+서중석	서중석	NNP	B-PER
+(	(	SS	O
+성균관대	성균관대	NNP	B-ORG
+_	_	_	O
+교수	교수	NNG	O
+)	)	SS	O
+=	=	SW	O
+당시	당시	NNG	O
+_	_	_	O
+서로	서로	MAG	O
+_	_	_	O
+대립적	대립적	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+관계	관계	NNG	O
+에	에	JKB	O
+_	_	_	O
+있	있	VA	O
+었	었	EP	O
+던	던	ETM	O
+_	_	_	O
+개화사상	개화사상	NNG	O
+,	,	SP	O
+_	_	_	O
+동학사상	동학사상	NNG	O
+,	,	SP	O
+_	_	_	O
+위정척사	위정척사	NNG	O
+사상	사상	NNG	O
+을	을	JKO	O
+_	_	_	O
+모두	모두	MAG	O
+_	_	_	O
+민족주의	민족주의	NNG	O
+로	로	JKB	O
+_	_	_	O
+볼	보+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+는가	는가	EF	O
+.	.	SF	O
+
+## 8
+## 경륜훈련원 MTB코스는 국내 최초 MTB 전용코스로 한국산악자전거연맹 공인 1등급 코스다.
+## 경륜훈련원 MTB코스는 국내 최초 MTB 전용코스로 <한국산악자전거연맹:ORG> 공인 <1등급:NOH> 코스다.
+경륜	경륜	NNG	O
+훈련원	훈련원	NNG	O
+_	_	_	O
+MTB	MTB	SL	O
+코스	코스	NNG	O
+는	는	JX	O
+_	_	_	O
+국내	국내	NNG	O
+_	_	_	O
+최초	최초	NNG	O
+_	_	_	O
+MTB	MTB	SL	O
+_	_	_	O
+전용	전용	NNG	O
+코스	코스	NNG	O
+로	로	JKB	O
+_	_	_	O
+한국	한국	NNP	B-ORG
+산악자전거	산악자전거	NNG	I-ORG
+연맹	연맹	NNG	I-ORG
+_	_	_	O
+공인	공인	NNG	O
+_	_	_	O
+1	1	SN	B-NOH
+등급	등급	NNG	I-NOH
+_	_	_	O
+코스	코스+이	NNG+VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 황교안 국무총리 후보자가 18일 박근혜 대통령에게서 임명장을 받고 44대 총리로 취임했다.
+## <황교안:PER> 국무총리 후보자가 <18일:DAT> <박근혜:PER> 대통령에게서 임명장을 받고 <44대:NOH> 총리로 취임했다.
+황교안	황교안	NNP	B-PER
+_	_	_	O
+국무총리	국무총리	NNG	O
+_	_	_	O
+후보자	후보자	NNG	O
+가	가	JKS	O
+_	_	_	O
+18	18	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+박근혜	박근혜	NNP	B-PER
+_	_	_	O
+대통령	대통령	NNG	O
+에게서	에게서	JKB	O
+_	_	_	O
+임명장	임명장	NNG	O
+을	을	JKO	O
+_	_	_	O
+받	받	VV	O
+고	고	EC	O
+_	_	_	O
+44	44	SN	B-NOH
+대	대	NNB	I-NOH
+_	_	_	O
+총리	총리	NNG	O
+로	로	JKB	O
+_	_	_	O
+취임	취임하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 도별로는 평안북도 951개, 경기 844개, 함경남도 817개, 경남 707개, 충남 697개, 강원 652개, 전남 629개 등으로 드러났다.
+## 도별로는 <평안북도:LOC> <951개:NOH>, <경기:LOC> <844개:NOH>, <함경남도:LOC> <817개:NOH>, <경남:LOC> <707개:NOH>, <충남:LOC> <697개:NOH>, <강원:LOC> <652개:NOH>, <전남:LOC> <629개:NOH> 등으로 드러났다.
+도	도	NNG	O
+별	별	XSN	O
+로	로	JKB	O
+는	는	JX	O
+_	_	_	O
+평안북도	평안북도	NNP	B-LOC
+_	_	_	O
+951	951	SN	B-NOH
+개	개	NNB	I-NOH
+,	,	SP	O
+_	_	_	O
+경기	경기	NNP	B-LOC
+_	_	_	O
+844	844	SN	B-NOH
+개	개	NNB	I-NOH
+,	,	SP	O
+_	_	_	O
+함경남도	함경남도	NNP	B-LOC
+_	_	_	O
+817	817	SN	B-NOH
+개	개	NNB	I-NOH
+,	,	SP	O
+_	_	_	O
+경남	경남	NNP	B-LOC
+_	_	_	O
+707	707	SN	B-NOH
+개	개	NNB	I-NOH
+,	,	SP	O
+_	_	_	O
+충남	충남	NNP	B-LOC
+_	_	_	O
+697	697	SN	B-NOH
+개	개	NNB	I-NOH
+,	,	SP	O
+_	_	_	O
+강원	강원	NNG	B-LOC
+_	_	_	O
+652	652	SN	B-NOH
+개	개	NNB	I-NOH
+,	,	SP	O
+_	_	_	O
+전남	전남	NNP	B-LOC
+_	_	_	O
+629	629	SN	B-NOH
+개	개	NNB	I-NOH
+_	_	_	O
+등	등	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+드러났	드러나+았	VV+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 경찰은 황 씨에게 경범죄 처벌법상 불안감 조성 혐의로 통고 처분을 했으며 범칙금 5만 원을 매겼다.
+## 경찰은 <황:PER> 씨에게 경범죄 처벌법상 불안감 조성 혐의로 통고 처분을 했으며 범칙금 <5만 원:MNY>을 매겼다.
+경찰	경찰	NNG	O
+은	은	JX	O
+_	_	_	O
+황	황	NNP	B-PER
+_	_	_	O
+씨	씨	NNB	O
+에게	에게	JKB	O
+_	_	_	O
+경범죄	경범죄	NNG	O
+_	_	_	O
+처벌	처벌	NNG	O
+법	법	NNG	O
+상	상	XSN	O
+_	_	_	O
+불안감	불안감	NNG	O
+_	_	_	O
+조성	조성	NNG	O
+_	_	_	O
+혐의	혐의	NNG	O
+로	로	JKB	O
+_	_	_	O
+통고	통고	NNG	O
+_	_	_	O
+처분	처분	NNG	O
+을	을	JKO	O
+_	_	_	O
+했	+였	+EP	O
+으며	으며	EC	O
+_	_	_	O
+범칙금	범칙금	NNG	O
+_	_	_	O
+5	5	SN	B-MNY
+만	만	NR	I-MNY
+_	_	_	I-MNY
+원	원	NNB	I-MNY
+을	을	JKO	O
+_	_	_	O
+매	매기	VV	O
+겼	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 지난 9일(수) 진행된 1순위 청약접수 결과 총 573가구(특별공급 제외) 모집에 2040명이 몰리면서 전 주택형이 마감됐다.
+## 지난 <9일:DAT>(<수:DAT>) 진행된 <1순위:NOH> 청약접수 결과 총 <573가구:NOH>(특별공급 제외) 모집에 <2040명:NOH>이 몰리면서 전 주택형이 마감됐다.
+지난	지나+ㄴ	VV+ETM	O
+_	_	_	O
+9	9	SN	B-DAT
+일	일	NNB	I-DAT
+(	(	SS	O
+수	수	NNG	B-DAT
+)	)	SS	O
+_	_	_	O
+진행된	진행되+ㄴ	VV+ETM	O
+_	_	_	O
+1	1	SN	B-NOH
+순위	순위	NNG	I-NOH
+_	_	_	O
+청약	청약	NNG	O
+접수	접수	NNG	O
+_	_	_	O
+결과	결과	NNG	O
+_	_	_	O
+총	총	XPN	O
+_	_	_	O
+573	573	SN	B-NOH
+가구	가구	NNG	I-NOH
+(	(	SS	O
+특별	특별	NNG	O
+공급	공급	NNG	O
+_	_	_	O
+제외	제외	NNG	O
+)	)	SS	O
+_	_	_	O
+모집	모집	NNG	O
+에	에	JKB	O
+_	_	_	O
+2040	2040	SN	B-NOH
+명	명	NNB	I-NOH
+이	이	JKS	O
+_	_	_	O
+몰리	몰리	VV	O
+면서	면서	EC	O
+_	_	_	O
+전	전	MM	O
+_	_	_	O
+주택	주택	NNG	O
+형	형	XSN	O
+이	이	JKS	O
+_	_	_	O
+마감	마감되	VV	O
+됐	었	EP	O
+다	다	EF	O
+.	.	SF	O
+

@@ -1,0 +1,578 @@
+## 1
+## 이번 앨범의 거의 모든 곡에 작곡자로 참여해 자신의 음악적 감성을 담아낸 알리는 ‘화이트 홀’을 통해 짙은 호소력과 마음을 울리는 감성 발라드를 전할 것으로 보인다.
+## 이번 앨범의 거의 모든 곡에 작곡자로 참여해 자신의 음악적 감성을 담아낸 <알리:PER>는 ‘<화이트 홀:POH>’을 통해 짙은 호소력과 마음을 울리는 감성 발라드를 전할 것으로 보인다.
+이번	이번	NNG	O
+_	_	_	O
+앨범	앨범	NNG	O
+의	의	JKG	O
+_	_	_	O
+거의	거의	MAG	O
+_	_	_	O
+모든	모든	MM	O
+_	_	_	O
+곡	곡	NNG	O
+에	에	JKB	O
+_	_	_	O
+작곡자	작곡자	NNG	O
+로	로	JKB	O
+_	_	_	O
+참여해	참여하+여	VV+EC	O
+_	_	_	O
+자신	자신	NNG	O
+의	의	JKG	O
+_	_	_	O
+음악적	음악적	NNG	O
+_	_	_	O
+감성	감성	NNG	O
+을	을	JKO	O
+_	_	_	O
+담아낸	담아내+ㄴ	VV+ETM	O
+_	_	_	O
+알리	알리	VV	B-PER
+는	는	ETM	O
+_	_	_	O
+‘	‘	SS	O
+화이트	화이트	NNG	B-POH
+_	_	_	I-POH
+홀	홀	NNG	I-POH
+’	’	SS	O
+을	을	JKO	O
+_	_	_	O
+통해	통하+여	VV+EC	O
+_	_	_	O
+짙	짙	VA	O
+은	은	ETM	O
+_	_	_	O
+호소력	호소력	NNG	O
+과	과	JC	O
+_	_	_	O
+마음	마음	NNG	O
+을	을	JKO	O
+_	_	_	O
+울리	울리	VV	O
+는	는	ETM	O
+_	_	_	O
+감성	감성	NNG	O
+_	_	_	O
+발라드	발라드	NNG	O
+를	를	JKO	O
+_	_	_	O
+전할	전하+ㄹ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+보인다	보이+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 2
+## 알리는 새 앨범 홍보에도 여념이 없다.
+## <알리:PER>는 새 앨범 홍보에도 여념이 없다.
+알리	알리	VV	B-PER
+는	는	ETM	O
+_	_	_	O
+새	새	MM	O
+_	_	_	O
+앨범	앨범	NNG	O
+_	_	_	O
+홍보	홍보	NNG	O
+에	에	JKB	O
+도	도	JX	O
+_	_	_	O
+여념	여념	NNG	O
+이	이	JKS	O
+_	_	_	O
+없	없	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 조 의원은 연단에 올라 자신을 '박 대통령의 탄핵소추안을 막지 못한 죄인'이라고 밝힌 뒤 "뇌물죄와 블랙리스트는 탄핵 사유가 될 수 없다.
+## <조:PER> 의원은 연단에 올라 자신을 '<박:PER> 대통령의 탄핵소추안을 막지 못한 죄인'이라고 밝힌 뒤 "뇌물죄와 블랙리스트는 탄핵 사유가 될 수 없다.
+조	조	NNP	B-PER
+_	_	_	O
+의원	의원	NNG	O
+은	은	JX	O
+_	_	_	O
+연단	연단	NNG	O
+에	에	JKB	O
+_	_	_	O
+올	오르	VV	O
+라	아	EC	O
+_	_	_	O
+자신	자신	NNG	O
+을	을	JKO	O
+_	_	_	O
+'	'	SS	O
+박	박	NNP	B-PER
+_	_	_	O
+대통령	대통령	NNG	O
+의	의	JKG	O
+_	_	_	O
+탄핵	탄핵	NNG	O
+소추	소추	NNG	O
+안	안	NNG	O
+을	을	JKO	O
+_	_	_	O
+막	막	VV	O
+지	지	EC	O
+_	_	_	O
+못한	못하+ㄴ	VX+ETM	O
+_	_	_	O
+죄인	죄인	NNG	O
+'	'	SS	O
+이라고	이라고	JKQ	O
+_	_	_	O
+밝힌	밝히+ㄴ	VV+ETM	O
+_	_	_	O
+뒤	뒤	NNG	O
+_	_	_	O
+"	"	SS	O
+뇌물죄	뇌물죄	NNG	O
+와	와	JC	O
+_	_	_	O
+블랙리스트	블랙리스트	NNG	O
+는	는	JX	O
+_	_	_	O
+탄핵	탄핵	NNG	O
+_	_	_	O
+사유	사유	NNG	O
+가	가	JKC	O
+_	_	_	O
+될	되+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+없	없	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 앞서 이날 스포츠동아는 20일 가요 관계자의 말을 인용해 JYP엔터테인먼트에서 한솥밥을 먹었던 예은과 정진운이 3년째 열애 중이라고 단독 보도했다.
+## 앞서 이날 <스포츠동아:ORG>는 <20일:DAT> 가요 관계자의 말을 인용해 <JYP엔터테인먼트:ORG>에서 한솥밥을 먹었던 <예은:PER>과 <정진운:PER>이 <3년째:DUR> 열애 중이라고 단독 보도했다.
+앞서	앞서+어	VV+EC	O
+_	_	_	O
+이날	이날	NNG	O
+_	_	_	O
+스포츠	스포츠	NNG	B-ORG
+동아	동아	NNP	I-ORG
+는	는	JX	O
+_	_	_	O
+20	20	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+가요	가요	NNG	O
+_	_	_	O
+관계자	관계자	NNG	O
+의	의	JKG	O
+_	_	_	O
+말	말	NNG	O
+을	을	JKO	O
+_	_	_	O
+인용해	인용하+여	VV+EC	O
+_	_	_	O
+JYP	JYP	SL	B-ORG
+엔터테인먼트	엔터테인먼트	NNG	I-ORG
+에서	에서	JKB	O
+_	_	_	O
+한솥밥	한솥밥	NNG	O
+을	을	JKO	O
+_	_	_	O
+먹	먹	VV	O
+었	었	EP	O
+던	던	ETM	O
+_	_	_	O
+예	예	NNG	B-PER
+은	은	NNG	I-PER
+과	과	JC	O
+_	_	_	O
+정진운	정진운	NNP	B-PER
+이	이	JKS	O
+_	_	_	O
+3	3	SN	B-DUR
+년	년	NNB	I-DUR
+째	째	XSN	I-DUR
+_	_	_	O
+열애	열애	NNG	O
+_	_	_	O
+중	중	NNB	O
+이	이	VCP	O
+라고	라고	EC	O
+_	_	_	O
+단독	단독	NNG	O
+_	_	_	O
+보도	보도하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 예은은 2007년 원더걸스로 데뷔했으며, 2014년 핫펠트란 예명으로 솔로 가수 활동도 시작했다.
+## <예은:PER>은 <2007년:DAT> <원더걸스:ORG>로 데뷔했으며, <2014년:DAT> <핫펠트:PER>란 예명으로 솔로 가수 활동도 시작했다.
+예	예	NNG	B-PER
+은은	은은	NNG	O
+_	_	_	O
+2007	2007	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+원더	원더	NNP	B-ORG
+걸스	걸스	NNG	I-ORG
+로	로	JKB	O
+_	_	_	O
+데뷔	데뷔하	VV	O
+했	였	EP	O
+으며	으며	EC	O
+,	,	SP	O
+_	_	_	O
+2014	2014	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+핫펠트	핫펠트	NNG	B-PER
+란	란	JX	O
+_	_	_	O
+예명	예명	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+솔로	솔로	NNG	O
+_	_	_	O
+가수	가수	NNG	O
+_	_	_	O
+활동	활동	NNG	O
+도	도	JX	O
+_	_	_	O
+시작	시작하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 역도 원정식(26), 윤진희(31) 부부는 이번 대회 유일한 부부 참가자로 선수단에 이름을 올렸다.
+## 역도 <원정식:PER>(<26:NOH>), <윤진희:PER>(<31:NOH>) 부부는 이번 대회 유일한 부부 참가자로 선수단에 이름을 올렸다.
+역도	역도	NNG	O
+_	_	_	O
+원정식	원정식	NNP	B-PER
+(	(	SS	O
+26	26	SN	B-NOH
+)	)	SS	O
+,	,	SP	O
+_	_	_	O
+윤진희	윤진희	NNP	B-PER
+(	(	SS	O
+31	31	SN	B-NOH
+)	)	SS	O
+_	_	_	O
+부부	부부	NNG	O
+는	는	JX	O
+_	_	_	O
+이번	이번	NNG	O
+_	_	_	O
+대회	대회	NNG	O
+_	_	_	O
+유일한	유일하+ㄴ	VA+ETM	O
+_	_	_	O
+부부	부부	NNG	O
+_	_	_	O
+참가자	참가자	NNG	O
+로	로	JKB	O
+_	_	_	O
+선수단	선수단	NNG	O
+에	에	JKB	O
+_	_	_	O
+이름	이름	NNG	O
+을	을	JKO	O
+_	_	_	O
+올	올리	VV	O
+렸	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 이는 2012∼2016년 저소득 계층 학생 수학여행 지원비 18만5000원에 비해 104%, 수련활동 지원비 8만6000원에 비해 46% 인상된 금액이다.
+## 이는 <2012∼2016년:DUR> 저소득 계층 학생 수학여행 지원비 <18만5000원:MNY>에 비해 <104%:PNT>, 수련활동 지원비 <8만6000원:MNY>에 비해 <46%:PNT> 인상된 금액이다.
+이	이	NP	O
+는	는	JX	O
+_	_	_	O
+2012	2012	SN	B-DUR
+∼	∼	SO	I-DUR
+2016	2016	SN	I-DUR
+년	년	NNB	I-DUR
+_	_	_	O
+저소득	저소득	NNG	O
+_	_	_	O
+계층	계층	NNG	O
+_	_	_	O
+학생	학생	NNG	O
+_	_	_	O
+수학여행	수학여행	NNG	O
+_	_	_	O
+지원	지원	NNG	O
+비	비	XSN	O
+_	_	_	O
+18	18	SN	B-MNY
+만	만	NR	I-MNY
+5000	5000	SN	I-MNY
+원	원	NNB	I-MNY
+에	에	JKB	O
+_	_	_	O
+비해	비하+여	VV+EC	O
+_	_	_	O
+104	104	SN	B-PNT
+%	%	SW	I-PNT
+,	,	SP	O
+_	_	_	O
+수련	수련	NNG	O
+활동	활동	NNG	O
+_	_	_	O
+지원	지원	NNG	O
+비	비	XSN	O
+_	_	_	O
+8	8	SN	B-MNY
+만	만	NR	I-MNY
+6000	6000	SN	I-MNY
+원	원	NNB	I-MNY
+에	에	JKB	O
+_	_	_	O
+비해	비하+여	VV+EC	O
+_	_	_	O
+46	46	SN	B-PNT
+%	%	SW	I-PNT
+_	_	_	O
+인상된	인상되+ㄴ	VV+ETM	O
+_	_	_	O
+금액	금액	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## [경북정신]국학 연구 대중화의 요람
+## [<경북정신:POH>]국학 연구 대중화의 요람
+[	[	SS	O
+경북	경북	NNP	B-POH
+정신	정신	NNG	I-POH
+]	]	SS	O
+국학	국학	NNG	O
+_	_	_	O
+연구	연구	NNG	O
+_	_	_	O
+대중화	대중화	NNG	O
+의	의	JKG	O
+_	_	_	O
+요람	요람	NNG	O
+
+## 9
+## 온라인 중앙일보‘봄꽃 개화시기’[사진 기상청·네이버 캡처]
+## 온라인 <중앙일보:POH>‘봄꽃 개화시기’[사진 <기상청:ORG>·<네이버:ORG> 캡처]
+온라인	온라인	NNG	O
+_	_	_	O
+중앙일보	중앙일보	NNP	B-POH
+‘	‘	SS	O
+봄꽃	봄꽃	NNG	O
+_	_	_	O
+개화	개화	NNG	O
+시기	시기	NNG	O
+’	’	SS	O
+[	[	SS	O
+사진	사진	NNG	O
+_	_	_	O
+기상청	기상청	NNG	B-ORG
+·	·	SP	O
+네이버	네이버	NNP	B-ORG
+_	_	_	O
+캡처	캡처	NNG	O
+]	]	SS	O
+
+## 10
+## [2017 국가브랜드대상] 5가지 자연유래 솔루션으로 신생아도 안전하게
+## [<2017 국가브랜드대상:POH>] <5가지:NOH> 자연유래 솔루션으로 신생아도 안전하게
+[	[	SS	O
+2017	2017	SN	B-POH
+_	_	_	I-POH
+국가	국가	NNG	I-POH
+브랜드	브랜드	NNG	I-POH
+대상	대상	NNG	I-POH
+]	]	SS	O
+_	_	_	O
+5	5	SN	B-NOH
+가지	가지	NNB	I-NOH
+_	_	_	O
+자연	자연	NNG	O
+유래	유래	NNG	O
+_	_	_	O
+솔루션	솔루션	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+신생아	신생아	NNG	O
+도	도	JX	O
+_	_	_	O
+안전하	안전하	VA	O
+게	게	EC	O
+
+## 11
+## 제일모직 물류창고 화재 방화 추정…사람 잃은 비극
+## <제일모직:ORG> 물류창고 화재 방화 추정…사람 잃은 비극
+제일모직	제일모직	NNP	B-ORG
+_	_	_	O
+물류	물류	NNG	O
+창고	창고	NNG	O
+_	_	_	O
+화재	화재	NNG	O
+_	_	_	O
+방화	방화	NNG	O
+_	_	_	O
+추정	추정	NNG	O
+…	…	SE	O
+사람	사람	NNG	O
+_	_	_	O
+잃	잃	VV	O
+은	은	ETM	O
+_	_	_	O
+비극	비극	NNG	O
+
+## 12
+## 2면(사진)은 아프리카 9개국 정상과 찍은 사진 9장으로 1개 면을 거의 다 메웠다.
+## <2면:NOH>(사진)은 <아프리카:LOC> <9개:NOH>국 정상과 찍은 사진 <9장:NOH>으로 <1개:NOH> 면을 거의 다 메웠다.
+2	2	SN	B-NOH
+면	면	NNG	I-NOH
+(	(	SS	O
+사진	사진	NNG	O
+)	)	SS	O
+은	은	JX	O
+_	_	_	O
+아프리카	아프리카	NNP	B-LOC
+_	_	_	O
+9	9	SN	B-NOH
+개국	개국	NNB	O
+_	_	_	O
+정상	정상	NNG	O
+과	과	JC	O
+_	_	_	O
+찍	찍	VV	O
+은	은	ETM	O
+_	_	_	O
+사진	사진	NNG	O
+_	_	_	O
+9	9	SN	B-NOH
+장	장	NNG	I-NOH
+으로	으로	JKB	O
+_	_	_	O
+1	1	SN	B-NOH
+개	개	NNB	I-NOH
+_	_	_	O
+면	면	NNG	O
+을	을	JKO	O
+_	_	_	O
+거의	거의	MAG	O
+_	_	_	O
+다	다	MAG	O
+_	_	_	O
+메	메우	VV	O
+웠	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## 박 대통령은 이전에도 명절이면 경호 담당 직원 등 최소 인력을 대동한 채 성묘를 해왔다.
+## <박:PER> 대통령은 이전에도 명절이면 경호 담당 직원 등 최소 인력을 대동한 채 성묘를 해왔다.
+박	박	NNP	B-PER
+_	_	_	O
+대통령	대통령	NNG	O
+은	은	JX	O
+_	_	_	O
+이전	이전	NNG	O
+에	에	JKB	O
+도	도	JX	O
+_	_	_	O
+명절	명절	NNG	O
+이	이	VCP	O
+면	면	EC	O
+_	_	_	O
+경호	경호	NNG	O
+_	_	_	O
+담당	담당	NNG	O
+_	_	_	O
+직원	직원	NNG	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+최소	최소	NNG	O
+_	_	_	O
+인력	인력	NNG	O
+을	을	JKO	O
+_	_	_	O
+대동한	대동하+ㄴ	VV+ETM	O
+_	_	_	O
+채	채	NNB	O
+_	_	_	O
+성묘	성묘	NNG	O
+를	를	JKO	O
+_	_	_	O
+해	하+여+오	VV+EC+VX	O
+왔	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 14
+## ‘찬밥’ 대접받던 푸틴, 외교무대 파워맨으로
+## ‘찬밥’ 대접받던 <푸틴:PER>, 외교무대 파워맨으로
+‘	‘	SS	O
+찬밥	찬밥	NNG	O
+’	’	SS	O
+_	_	_	O
+대접받	대접받	VV	O
+던	던	ETM	O
+_	_	_	O
+푸틴	푸틴	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+외교	외교	NNG	O
+무대	무대	NNG	O
+_	_	_	O
+파워맨	파워맨	NNP	O
+으로	으로	JKB	O
+
+## 15
+## 요르단의 공습은 요르단 국왕이 IS에 대한 ‘가차 없는 전쟁’을 선포한 지 하루 만에 이루어진 것이다.
+## <요르단:LOC>의 공습은 <요르단:ORG> 국왕이 <IS:ORG>에 대한 ‘가차 없는 전쟁’을 선포한 지 하루 만에 이루어진 것이다.
+요르단	요르단	NNP	B-LOC
+의	의	JKG	O
+_	_	_	O
+공습	공습	NNG	O
+은	은	JX	O
+_	_	_	O
+요르단	요르단	NNP	B-ORG
+_	_	_	O
+국왕	국왕	NNG	O
+이	이	JKS	O
+_	_	_	O
+IS	IS	SL	B-ORG
+에	에	JKB	O
+_	_	_	O
+대한	대하+ㄴ	VV+ETM	O
+_	_	_	O
+‘	‘	SS	O
+가차	가차	NNG	O
+_	_	_	O
+없	없	VA	O
+는	는	ETM	O
+_	_	_	O
+전쟁	전쟁	NNG	O
+’	’	SS	O
+을	을	JKO	O
+_	_	_	O
+선포한	선포하+ㄴ	VV+ETM	O
+_	_	_	O
+지	지	NNB	O
+_	_	_	O
+하루	하루	NNG	O
+_	_	_	O
+만	만	NNB	O
+에	에	JKB	O
+_	_	_	O
+이루어진	이루어지+ㄴ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+

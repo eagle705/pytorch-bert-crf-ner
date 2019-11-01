@@ -1,0 +1,507 @@
+## 1
+## 통상 1월은 대출 비수기로 꼽힌다.
+## 통상 <1월:DAT>은 대출 비수기로 꼽힌다.
+통상	통상	NNG	O
+_	_	_	O
+1	1	SN	B-DAT
+월	월	NNB	I-DAT
+은	은	JX	O
+_	_	_	O
+대출	대출	NNG	O
+_	_	_	O
+비수기	비수기	NNG	O
+로	로	JKB	O
+_	_	_	O
+꼽힌다	꼽히+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 2
+## 류정한, 뮤지컬 ‘레베카’ 공연 티켓 기부…따뜻한 나눔 활동
+## <류정한:PER>, 뮤지컬 ‘<레베카:POH>’ 공연 티켓 기부…따뜻한 나눔 활동
+류정한	류정한	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+뮤지컬	뮤지컬	NNG	O
+_	_	_	O
+‘	‘	SS	O
+레베카	레베카	NNP	B-POH
+’	’	SS	O
+_	_	_	O
+공연	공연	NNG	O
+_	_	_	O
+티켓	티켓	NNG	O
+_	_	_	O
+기부	기부	NNG	O
+…	…	SE	O
+따뜻한	따뜻하+ㄴ	VA+ETM	O
+_	_	_	O
+나눔	나누+ㅁ	VV+ETN	O
+_	_	_	O
+활동	활동	NNG	O
+
+## 3
+## 사거리가 300km가 넘는 것으로 알려진 YJ-62는 중국 해군의 052C급 구축함에서 운용되는 것으로 알려졌다.
+## 사거리가 <300km:NOH>가 넘는 것으로 알려진 <YJ-62:POH>는 <중국 해군:ORG>의 <052C:NOH>급 구축함에서 운용되는 것으로 알려졌다.
+사거리	사거리	NNG	O
+가	가	JKS	O
+_	_	_	O
+300	300	SN	B-NOH
+km	km	SL	I-NOH
+가	가	JKS	O
+_	_	_	O
+넘	넘	VV	O
+는	는	ETM	O
+_	_	_	O
+것	것	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+알려진	알려지+ㄴ	VV+ETM	O
+_	_	_	O
+YJ	YJ	SL	B-POH
+-	-	SO	I-POH
+62	62	SN	I-POH
+는	는	JX	O
+_	_	_	O
+중국	중국	NNP	B-ORG
+_	_	_	I-ORG
+해군	해군	NNG	I-ORG
+의	의	JKG	O
+_	_	_	O
+052	052	SN	B-NOH
+C	C	SL	I-NOH
+급	급	NNG	O
+_	_	_	O
+구축함	구축함	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+운용되	운용되	VV	O
+는	는	ETM	O
+_	_	_	O
+것	것	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+알려	알려지	VV	O
+졌	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 장윤정 엄마, “도경완, 사위라고 참 어색한 얘긴데 부족한 윤정이 보듬어줘 감사”
+## <장윤정:PER> 엄마, “<도경완:PER>, 사위라고 참 어색한 얘긴데 부족한 <윤정:PER>이 보듬어줘 감사”
+장윤정	장윤정	NNP	B-PER
+_	_	_	O
+엄마	엄마	NNG	O
+,	,	SP	O
+_	_	_	O
+“	“	SS	O
+도경완	도경완	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+사위	사위	NNG	O
+라고	라고	JX	O
+_	_	_	O
+참	참	MAG	O
+_	_	_	O
+어색한	어색하+ㄴ	VA+ETM	O
+_	_	_	O
+얘긴데	얘기+이+ㄴ데	NNG+VCP+EC	O
+_	_	_	O
+부족한	부족하+ㄴ	VA+ETM	O
+_	_	_	O
+윤정이	윤정이	NNP	O
+_	_	_	O
+보듬	보듬	VV	O
+어	어	EC	O
+줘	주	VX	O
+_	_	_	O
+감사	감사	NNG	O
+”	”	SS	O
+
+## 5
+## ‘미생 시즌2’ 연재...윤태호 “시즌1과 이어지는 모습 그린다”
+## ‘<미생 시즌2:POH>’ 연재...<윤태호:PER> “시즌1과 이어지는 모습 그린다”
+‘	‘	SS	O
+미생	미생	NNG	B-POH
+_	_	_	I-POH
+시즌	시즌	NNG	I-POH
+2	2	SN	I-POH
+’	’	SS	O
+_	_	_	O
+연재	연재	NNG	O
+.	.	SF	O
+.	.	SF	O
+.	.	SF	O
+윤태호	윤태호	NNP	B-PER
+_	_	_	O
+“	“	SS	O
+시즌	시즌	NNG	O
+1	1	SN	O
+과	과	JC	O
+_	_	_	O
+이어지	이어지	VV	O
+는	는	ETM	O
+_	_	_	O
+모습	모습	NNG	O
+_	_	_	O
+그린다	그리+ㄴ다	VV+EF	O
+”	”	SS	O
+
+## 6
+## 서울 남대문시장은 그의 주요 범행 장소였다.
+## <서울 남대문시장:LOC>은 그의 주요 범행 장소였다.
+서울	서울	NNP	B-LOC
+_	_	_	I-LOC
+남대문	남대문	NNP	I-LOC
+시장	시장	NNG	I-LOC
+은	은	JX	O
+_	_	_	O
+그	그	NP	O
+의	의	JKG	O
+_	_	_	O
+주요	주요	NNG	O
+_	_	_	O
+범행	범행	NNG	O
+_	_	_	O
+장소	장소+이	NNG+VCP	O
+였	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 이 과정에서 김 실장과 김 수석의 ‘감정’이 쌓여 왔고, 9일 사건의 한 배경이 되었다는 것이다.
+## 이 과정에서 <김:PER> 실장과 <김:PER> 수석의 ‘감정’이 쌓여 왔고, <9일:DAT> 사건의 한 배경이 되었다는 것이다.
+이	이	MM	O
+_	_	_	O
+과정	과정	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+김	김	NNP	B-PER
+_	_	_	O
+실장	실장	NNG	O
+과	과	JC	O
+_	_	_	O
+김	김	NNP	B-PER
+_	_	_	O
+수석	수석	NNG	O
+의	의	JKG	O
+_	_	_	O
+‘	‘	SS	O
+감정	감정	NNG	O
+’	’	SS	O
+이	이	JKS	O
+_	_	_	O
+쌓	쌓이	VV	O
+여	어	EC	O
+_	_	_	O
+왔	+았	+EP	O
+고	고	EC	O
+,	,	SP	O
+_	_	_	O
+9	9	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+사건	사건	NNG	O
+의	의	JKG	O
+_	_	_	O
+한	한	MM	O
+_	_	_	O
+배경	배경	NNG	O
+이	이	JKC	O
+_	_	_	O
+되	되	VV	O
+었	었	EP	O
+다는	다는	ETM	O
+_	_	_	O
+것	것	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 20분의 1 가격으로 전문가가 찍은 사진을 얻은 것이다.
+## <20분의 1:PNT> 가격으로 전문가가 찍은 사진을 얻은 것이다.
+20	20	SN	B-PNT
+분	분	XSN	I-PNT
+의	의	JKG	I-PNT
+_	_	_	I-PNT
+1	1	SN	I-PNT
+_	_	_	O
+가격	가격	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+전문가	전문가	NNG	O
+가	가	JKS	O
+_	_	_	O
+찍	찍	VV	O
+은	은	ETM	O
+_	_	_	O
+사진	사진	NNG	O
+을	을	JKO	O
+_	_	_	O
+얻	얻	VV	O
+은	은	ETM	O
+_	_	_	O
+것	것	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 이번 강의는 서울을 시작으로 인천, 수원, 부산, 대전, 광주 등 전국 주요 도시 투어 형식으로 진행할 예정이다.참석자 전원에게 전국15일 경매정보이용권과 추천도서 1권이 제공된다.
+## 이번 강의는 <서울:LOC>을 시작으로 <인천:LOC>, <수원:LOC>, <부산:LOC>, <대전:LOC>, <광주:LOC> 등 전국 주요 도시 투어 형식으로 진행할 예정이다.참석자 전원에게 전국<15일:DAT> 경매정보이용권과 추천도서 <1권:NOH>이 제공된다.
+이번	이번	NNG	O
+_	_	_	O
+강의	강의	NNG	O
+는	는	JX	O
+_	_	_	O
+서울	서울	NNP	B-LOC
+을	을	JKO	O
+_	_	_	O
+시작	시작	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+인천	인천	NNP	B-LOC
+,	,	SP	O
+_	_	_	O
+수원	수원	NNP	B-LOC
+,	,	SP	O
+_	_	_	O
+부산	부산	NNP	B-LOC
+,	,	SP	O
+_	_	_	O
+대전	대전	NNP	B-LOC
+,	,	SP	O
+_	_	_	O
+광주	광주	NNP	B-LOC
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+전국	전국	NNG	O
+_	_	_	O
+주요	주요	NNG	O
+_	_	_	O
+도시	도시	NNG	O
+_	_	_	O
+투어	투어	NNG	O
+_	_	_	O
+형식	형식	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+진행할	진행하+ㄹ	VV+ETM	O
+_	_	_	O
+예정	예정	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+참석자	참석자	NNG	O
+_	_	_	O
+전원	전원	NNG	O
+에게	에게	JKB	O
+_	_	_	O
+전국	전국	NNG	O
+15	15	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+경매	경매	NNG	O
+정보	정보	NNG	O
+이용	이용	NNG	O
+권	권	XSN	O
+과	과	JC	O
+_	_	_	O
+추천	추천	NNG	O
+도서	도서	NNG	O
+_	_	_	O
+1	1	SN	B-NOH
+권	권	NNB	I-NOH
+이	이	JKS	O
+_	_	_	O
+제공된다	제공되+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 10
+## 보고서는 2030년이면 이곳의 60세 이상 인구가 전체 선진국 도시 지출의 51%, 전 세계 도시 지출의 19%를 차지할 것으로 예측했다.
+## 보고서는 <2030년:DAT>이면 이곳의 <60세:NOH> 이상 인구가 전체 선진국 도시 지출의 <51%:PNT>, 전 세계 도시 지출의 <19%:PNT>를 차지할 것으로 예측했다.
+보고서	보고서	NNG	O
+는	는	JX	O
+_	_	_	O
+2030	2030	SN	B-DAT
+년	년	NNB	I-DAT
+이	이	VCP	O
+면	면	EC	O
+_	_	_	O
+이곳	이곳	NP	O
+의	의	JKG	O
+_	_	_	O
+60	60	SN	B-NOH
+세	세	NNB	I-NOH
+_	_	_	O
+이상	이상	NNG	O
+_	_	_	O
+인구	인구	NNG	O
+가	가	JKS	O
+_	_	_	O
+전체	전체	NNG	O
+_	_	_	O
+선진국	선진국	NNG	O
+_	_	_	O
+도시	도시	NNG	O
+_	_	_	O
+지출	지출	NNG	O
+의	의	JKG	O
+_	_	_	O
+51	51	SN	B-PNT
+%	%	SW	I-PNT
+,	,	SP	O
+_	_	_	O
+전	전	MM	O
+_	_	_	O
+세계	세계	NNG	O
+_	_	_	O
+도시	도시	NNG	O
+_	_	_	O
+지출	지출	NNG	O
+의	의	JKG	O
+_	_	_	O
+19	19	SN	B-PNT
+%	%	SW	I-PNT
+를	를	JKO	O
+_	_	_	O
+차지할	차지하+ㄹ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+예측	예측하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 홍준표 ‘서문시장’ 발언에 박사모 발끈 “막말 말고 김진태에 양보하라”
+## <홍준표:PER> ‘<서문시장:LOC>’ 발언에 <박사모:ORG> 발끈 “막말 말고 <김진태:PER>에 양보하라”
+홍준표	홍준표	NNP	B-PER
+_	_	_	O
+‘	‘	SS	O
+서문시장	서문시장	NNP	B-LOC
+’	’	SS	O
+_	_	_	O
+발언	발언	NNG	O
+에	에	JKB	O
+_	_	_	O
+박사모	박사모	NNP	B-ORG
+_	_	_	O
+발끈	발끈	MAG	O
+_	_	_	O
+“	“	SS	O
+막말	막말	NNG	O
+_	_	_	O
+말	말	VV	O
+고	고	EC	O
+_	_	_	O
+김진태	김진태	NNP	B-PER
+에	에	JKB	O
+_	_	_	O
+양보하	양보하	VV	O
+라	라	EF	O
+”	”	SS	O
+
+## 12
+## 대한민국에선 사고도 있었다.
+## <대한민국:LOC>에선 사고도 있었다.
+대한민국	대한민국	NNP	B-LOC
+에선	에서+ㄴ	JKB+JX	O
+_	_	_	O
+사고	사고	NNG	O
+도	도	JX	O
+_	_	_	O
+있	있	VA	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## 일단 ‘내부자들’을 향한 분위기는 긍정적이다.
+## 일단 ‘<내부자들:POH>’을 향한 분위기는 긍정적이다.
+일단	일단	MAG	O
+_	_	_	O
+‘	‘	SS	O
+내부	내부	NNG	B-POH
+자	자	XSN	I-POH
+들	들	XSN	I-POH
+’	’	SS	O
+을	을	JKO	O
+_	_	_	O
+향한	향하+ㄴ	VV+ETM	O
+_	_	_	O
+분위기	분위기	NNG	O
+는	는	JX	O
+_	_	_	O
+긍정적	긍정적	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 14
+## 수원~광명 고속도로도 개통(2016년 4월)을 앞두고 있다.
+## <수원~광명 고속도로:LOC>도 개통(<2016년 4월:DAT>)을 앞두고 있다.
+수원	수원	NNP	B-LOC
+~	~	SO	I-LOC
+광명	광명	NNP	I-LOC
+_	_	_	I-LOC
+고속도로	고속도로	NNG	I-LOC
+도	도	JX	O
+_	_	_	O
+개통	개통	NNG	O
+(	(	SS	O
+2016	2016	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	I-DAT
+4	4	SN	I-DAT
+월	월	NNB	I-DAT
+)	)	SS	O
+을	을	JKO	O
+_	_	_	O
+앞두	앞두	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 15
+## 이정현 여우주연상, 눈물의 수상소감… “너무 작은 작품이라 상 받을지 몰랐다”
+## <이정현:PER> 여우주연상, 눈물의 수상소감… “너무 작은 작품이라 상 받을지 몰랐다”
+이정현	이정현	NNP	B-PER
+_	_	_	O
+여우	여우	NNG	O
+주연	주연	NNG	O
+상	상	NNG	O
+,	,	SP	O
+_	_	_	O
+눈물	눈물	NNG	O
+의	의	JKG	O
+_	_	_	O
+수상	수상	NNG	O
+소감	소감	NNG	O
+…	…	SE	O
+_	_	_	O
+“	“	SS	O
+너무	너무	MAG	O
+_	_	_	O
+작	작	VA	O
+은	은	ETM	O
+_	_	_	O
+작품	작품	NNG	O
+이	이	VCP	O
+라	라	EC	O
+_	_	_	O
+상	상	NNG	O
+_	_	_	O
+받	받	VV	O
+을지	을지	EC	O
+_	_	_	O
+몰	모르	VV	O
+랐	았	EP	O
+다	다	EF	O
+”	”	SS	O
+

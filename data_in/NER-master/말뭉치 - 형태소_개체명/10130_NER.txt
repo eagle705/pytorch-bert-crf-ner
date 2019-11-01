@@ -1,0 +1,526 @@
+## 1
+## 한편 이날 Mnet 측은 정상수의 ‘쇼미더머니6’ 출연 여부에 관해 “경찰 조사가 끝나지 않았다.
+## 한편 이날 <Mnet:POH> 측은 <정상수:PER>의 ‘<쇼미더머니6:POH>’ 출연 여부에 관해 “경찰 조사가 끝나지 않았다.
+한편	한편	MAG	O
+_	_	_	O
+이날	이날	NNG	O
+_	_	_	O
+Mnet	Mnet	SL	B-POH
+_	_	_	O
+측	측	NNB	O
+은	은	JX	O
+_	_	_	O
+정상수	정상수	NNP	B-PER
+의	의	JKG	O
+_	_	_	O
+‘	‘	SS	O
+쇼	쇼	NNG	B-POH
+미	미	NNP	I-POH
+더머	더머	NNG	I-POH
+니	니	JC	I-POH
+6	6	SN	I-POH
+’	’	SS	O
+_	_	_	O
+출연	출연	NNG	O
+_	_	_	O
+여부	여부	NNG	O
+에	에	JKB	O
+_	_	_	O
+관해	관하+여	VV+EC	O
+_	_	_	O
+“	“	SS	O
+경찰	경찰	NNG	O
+_	_	_	O
+조사	조사	NNG	O
+가	가	JKS	O
+_	_	_	O
+끝나	끝나	VV	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 버버리의 헤리티지 체크와 데님, 스웨이드 등 다양한 소재가 특징적이다.
+## <버버리:ORG>의 헤리티지 체크와 데님, 스웨이드 등 다양한 소재가 특징적이다.
+버버리	버버리	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+헤리티지	헤리티지	NNP	O
+_	_	_	O
+체크	체크	NNG	O
+와	와	JC	O
+_	_	_	O
+데님	데님	NNG	O
+,	,	SP	O
+_	_	_	O
+스웨이드	스웨이드	NNG	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+다양한	다양하+ㄴ	VA+ETM	O
+_	_	_	O
+소재	소재	NNG	O
+가	가	JKS	O
+_	_	_	O
+특징적	특징적	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## ―숙원이었던 환기미술관도 개관이 됐고, 또 이 미술관에서 고인의 20주기 회고전을 열게 돼 감회가 깊으시겠습니다.
+## ―숙원이었던 <환기미술관:ORG>도 개관이 됐고, 또 이 미술관에서 고인의 <20주기:NOH> 회고전을 열게 돼 감회가 깊으시겠습니다.
+―	―	SS	O
+숙원	숙원	NNG	O
+이	이	VCP	O
+었	었	EP	O
+던	던	ETM	O
+_	_	_	O
+환기미술관	환기미술관	NNP	B-ORG
+도	도	JX	O
+_	_	_	O
+개	개	NNB	O
+관	관	XSN	O
+이	이	JKC	O
+_	_	_	O
+됐	+었	+EP	O
+고	고	EC	O
+,	,	SP	O
+_	_	_	O
+또	또	MAG	O
+_	_	_	O
+이	이	MM	O
+_	_	_	O
+미술관	미술관	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+고인	고인	NNG	O
+의	의	JKG	O
+_	_	_	O
+20	20	SN	B-NOH
+주기	주기	NNB	I-NOH
+_	_	_	O
+회고	회고	NNG	O
+전	전	XSN	O
+을	을	JKO	O
+_	_	_	O
+열	열	VV	O
+게	게	EC	O
+_	_	_	O
+돼	되+어	VV+EC	O
+_	_	_	O
+감회	감회	NNG	O
+가	가	JKS	O
+_	_	_	O
+깊	깊	VA	O
+으시	으시	EP	O
+겠	겠	EP	O
+습니다	습니다	EF	O
+.	.	SF	O
+
+## 4
+## 동원F&B는 실버베이 씨푸드 투자 계약 체결과 함께 ‘동원 알래스카연어’ 4종(‘동원 알래스카 연어 살코기’ ‘동원 알래스카 연어 통살’ ‘동원 알래스카 연어 매운고추’ ‘동원 알래스카 연어 데리야끼’)을 출시했다.
+## <동원F&B:ORG>는 <실버베이:ORG> 씨푸드 투자 계약 체결과 함께 ‘<동원 알래스카연어:POH>’ <4종:NOH>(‘<동원 알래스카 연어 살코기:POH>’ ‘<동원 알래스카 연어 통살:POH>’ ‘<동원 알래스카 연어 매운고추:POH>’ ‘<동원 알래스카 연어 데리야끼:POH>’)을 출시했다.
+동원	동원	NNG	B-ORG
+F	F	SL	I-ORG
+&	&	SW	I-ORG
+B	B	SL	I-ORG
+는	는	JX	O
+_	_	_	O
+실버	실버	NNG	B-ORG
+베이	베이	NNP	I-ORG
+_	_	_	O
+씨푸드	씨푸드	NNP	O
+_	_	_	O
+투자	투자	NNG	O
+_	_	_	O
+계약	계약	NNG	O
+_	_	_	O
+체결	체결	NNG	O
+과	과	JKB	O
+_	_	_	O
+함께	함께	MAG	O
+_	_	_	O
+‘	‘	SS	O
+동원	동원	NNP	B-POH
+_	_	_	I-POH
+알래스카	알래스카	NNP	I-POH
+연어	연어	NNG	I-POH
+’	’	SS	O
+_	_	_	O
+4	4	SN	B-NOH
+종	종	NNG	I-NOH
+(	(	SS	O
+‘	‘	SS	O
+동원	동원	NNP	B-POH
+_	_	_	I-POH
+알래스카	알래스카	NNP	I-POH
+_	_	_	I-POH
+연어	연어	NNG	I-POH
+_	_	_	I-POH
+살코기	살코기	NNG	I-POH
+’	’	SS	O
+_	_	_	O
+‘	‘	SS	O
+동원	동원	NNP	B-POH
+_	_	_	I-POH
+알래스카	알래스카	NNP	I-POH
+_	_	_	I-POH
+연어	연어	NNG	I-POH
+_	_	_	I-POH
+통살	통살	NNG	I-POH
+’	’	SS	O
+_	_	_	O
+‘	‘	SS	O
+동원	동원	NNP	B-POH
+_	_	_	I-POH
+알래스카	알래스카	NNP	I-POH
+_	_	_	I-POH
+연어	연어	NNG	I-POH
+_	_	_	I-POH
+매운고추	매운고추	NNG	I-POH
+’	’	SS	O
+_	_	_	O
+‘	‘	SS	O
+동원	동원	NNP	B-POH
+_	_	_	I-POH
+알래스카	알래스카	NNP	I-POH
+_	_	_	I-POH
+연어	연어	NNG	I-POH
+_	_	_	I-POH
+데리야끼	데리야끼	NNG	I-POH
+’	’	SS	O
+)	)	SS	O
+을	을	JKO	O
+_	_	_	O
+출시	출시하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 지난 8일 방송된 tvN ‘수요미식회’에서는 씨엔블루 강민혁과 모델 이현이가 게스트로 출연해 ‘피자’를 주제로 미식 토크를 펼쳤다.
+## 지난 <8일:DAT> 방송된 <tvN:POH> ‘<수요미식회:POH>’에서는 <씨엔블루:ORG> <강민혁:PER>과 모델 <이현이:PER>가 게스트로 출연해 ‘피자’를 주제로 미식 토크를 펼쳤다.
+지난	지나+ㄴ	VV+ETM	O
+_	_	_	O
+8	8	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+방송된	방송되+ㄴ	VV+ETM	O
+_	_	_	O
+tvN	tvN	SL	B-POH
+_	_	_	O
+‘	‘	SS	O
+수요미식회	수요미식회	NNP	B-POH
+’	’	SS	O
+에서	에서	JKB	O
+는	는	JX	O
+_	_	_	O
+씨엔블루	씨엔블루	NNP	B-ORG
+_	_	_	O
+강민혁	강민혁	NNP	B-PER
+과	과	JC	O
+_	_	_	O
+모델	모델	NNG	O
+_	_	_	O
+이현이	이현이	NNP	B-PER
+가	가	JKS	O
+_	_	_	O
+게스트	게스트	NNG	O
+로	로	JKB	O
+_	_	_	O
+출연해	출연하+여	VV+EC	O
+_	_	_	O
+‘	‘	SS	O
+피자	피자	NNG	O
+’	’	SS	O
+를	를	JKO	O
+_	_	_	O
+주제	주제	NNG	O
+로	로	JKB	O
+_	_	_	O
+미식	미식	NNG	O
+_	_	_	O
+토크	토크	NNG	O
+를	를	JKO	O
+_	_	_	O
+펼	펼치	VV	O
+쳤	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 연간 12만 명이 참여했으며 11만7000여 명을 대상으로 금융교육을 진행했다.
+## 연간 <12만 명:NOH>이 참여했으며 <11만7000여 명:NOH>을 대상으로 금융교육을 진행했다.
+연간	연간	NNG	O
+_	_	_	O
+12	12	SN	B-NOH
+만	만	NR	I-NOH
+_	_	_	I-NOH
+명	명	NNB	I-NOH
+이	이	JKS	O
+_	_	_	O
+참여	참여하	VV	O
+했	였	EP	O
+으며	으며	EC	O
+_	_	_	O
+11	11	SN	B-NOH
+만	만	NR	I-NOH
+7000	7000	SN	I-NOH
+여	여	XSN	I-NOH
+_	_	_	I-NOH
+명	명	NNB	I-NOH
+을	을	JKO	O
+_	_	_	O
+대상	대상	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+금융	금융	NNG	O
+교육	교육	NNG	O
+을	을	JKO	O
+_	_	_	O
+진행	진행하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 2011년 제15회 카타르대회 준결승에선 숙적 일본과 2-2로 비긴 뒤 역시 승부차기에서 0-3으로 고개를 숙였다.
+## <2011년:DAT> <제15회:NOH> <카타르대회:POH> 준결승에선 숙적 <일본:ORG>과 <2-2:NOH>로 비긴 뒤 역시 승부차기에서 <0-3:NOH>으로 고개를 숙였다.
+2011	2011	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+제	제	XPN	B-NOH
+15	15	SN	I-NOH
+회	회	NNB	I-NOH
+_	_	_	O
+카타르	카타르	NNP	B-POH
+대회	대회	NNG	I-POH
+_	_	_	O
+준결승	준결승	NNG	O
+에선	에서+ㄴ	JKB+JX	O
+_	_	_	O
+숙적	숙적	NNG	O
+_	_	_	O
+일본	일본	NNP	B-ORG
+과	과	XSN	O
+_	_	_	O
+2	2	SN	B-NOH
+-	-	SO	I-NOH
+2	2	SN	I-NOH
+로	로	JKB	O
+_	_	_	O
+비긴	비기+ㄴ	VV+ETM	O
+_	_	_	O
+뒤	뒤	NNG	O
+_	_	_	O
+역시	역시	MAG	O
+_	_	_	O
+승부차기	승부차기	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+0	0	SN	B-NOH
+-	-	SO	I-NOH
+3	3	SN	I-NOH
+으로	으로	JKB	O
+_	_	_	O
+고개	고개	NNG	O
+를	를	JKO	O
+_	_	_	O
+숙	숙이	VV	O
+였	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 차움 간호사가 최씨에게 이 주사를 놓다가 정맥 혈관을 못 찾아서 혈관을 터뜨린 모양이다.
+## 차움 간호사가 <최:PER>씨에게 이 주사를 놓다가 정맥 혈관을 못 찾아서 혈관을 터뜨린 모양이다.
+차	차	NNB	O
+움	움	NNG	O
+_	_	_	O
+간호사	간호사	NNG	O
+가	가	JKS	O
+_	_	_	O
+최	최	NNP	B-PER
+씨	씨	NNB	O
+에게	에게	JKB	O
+_	_	_	O
+이	이	MM	O
+_	_	_	O
+주사	주사	NNG	O
+를	를	JKO	O
+_	_	_	O
+놓	놓	VV	O
+다가	다가	EC	O
+_	_	_	O
+정맥	정맥	NNG	O
+_	_	_	O
+혈관	혈관	NNG	O
+을	을	JKO	O
+_	_	_	O
+못	못	MAG	O
+_	_	_	O
+찾	찾	VV	O
+아서	아서	EC	O
+_	_	_	O
+혈관	혈관	NNG	O
+을	을	JKO	O
+_	_	_	O
+터뜨린	터뜨리+ㄴ	VV+ETM	O
+_	_	_	O
+모양	모양	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 전체 반려견의 28%는 찰리·잭·루시·데이지 등 완전히 사람 이름과 같았다.
+## 전체 반려견의 <28%:PNT>는 <찰리:PER>·<잭:PER>·<루시:PER>·<데이지:PER> 등 완전히 사람 이름과 같았다.
+전체	전체	NNG	O
+_	_	_	O
+반려	반려	NNG	O
+견	견	NNG	O
+의	의	JKG	O
+_	_	_	O
+28	28	SN	B-PNT
+%	%	SW	I-PNT
+는	는	JX	O
+_	_	_	O
+찰리	찰리	NNP	B-PER
+·	·	SP	O
+잭	잭	NNP	B-PER
+·	·	SP	O
+루시	루시	NNP	B-PER
+·	·	SP	O
+데이지	데이지	NNG	B-PER
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+완전히	완전히	MAG	O
+_	_	_	O
+사람	사람	NNG	O
+_	_	_	O
+이름	이름	NNG	O
+과	과	JKB	O
+_	_	_	O
+같	같	VA	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 2007년 시작해 매년 3월에 열린다.
+## <2007년:DAT> 시작해 매년 <3월:DAT>에 열린다.
+2007	2007	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+시작해	시작하+여	VV+EC	O
+_	_	_	O
+매년	매년	MAG	O
+_	_	_	O
+3	3	SN	B-DAT
+월	월	NNB	I-DAT
+에	에	JKB	O
+_	_	_	O
+열린다	열리+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 11
+## 반면, 카터의 방북에 갖는 우려도 적지않다.
+## 반면, <카터:PER>의 방북에 갖는 우려도 적지않다.
+반면	반면	NNG	O
+,	,	SP	O
+_	_	_	O
+카터	카터	NNP	B-PER
+의	의	JKG	O
+_	_	_	O
+방북	방북	NNG	O
+에	에	JKB	O
+_	_	_	O
+갖	갖	VV	O
+는	는	ETM	O
+_	_	_	O
+우려	우려	NNG	O
+도	도	JX	O
+_	_	_	O
+적	적	VA	O
+지	지	EC	O
+않	않	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 중간평가 지표는 서울대의 연구 환경, 발전 현황, 행정 등 총장 직무수행 전반을 아우르는 내용으로 구성된다.
+## 중간평가 지표는 <서울대:ORG>의 연구 환경, 발전 현황, 행정 등 총장 직무수행 전반을 아우르는 내용으로 구성된다.
+중간	중간	NNG	O
+평가	평가	NNG	O
+_	_	_	O
+지표	지표	NNG	O
+는	는	JX	O
+_	_	_	O
+서울대	서울대	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+연구	연구	NNG	O
+_	_	_	O
+환경	환경	NNG	O
+,	,	SP	O
+_	_	_	O
+발전	발전	NNG	O
+_	_	_	O
+현황	현황	NNG	O
+,	,	SP	O
+_	_	_	O
+행정	행정	NNG	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+총장	총장	NNG	O
+_	_	_	O
+직무	직무	NNG	O
+수행	수행	NNG	O
+_	_	_	O
+전반	전반	NNG	O
+을	을	JKO	O
+_	_	_	O
+아우르	아우르	VV	O
+는	는	ETM	O
+_	_	_	O
+내용	내용	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+구성된다	구성되+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 13
+## [양형모의 아이러브 스테이지] 아날로그적 감성 필요할땐 ‘벽뚫남’을 찾으세요
+## [<양형모의 아이러브 스테이지:POH>] 아날로그적 감성 필요할땐 ‘벽뚫남’을 찾으세요
+[	[	SS	O
+양형모	양형모	NNP	B-POH
+의	의	JKG	I-POH
+_	_	_	I-POH
+아이	아이	NNG	I-POH
+러브	러브	NNG	I-POH
+_	_	_	I-POH
+스테이지	스테이지	NNG	I-POH
+]	]	SS	O
+_	_	_	O
+아날로그	아날로그	NNG	O
+적	적	XSN	O
+_	_	_	O
+감성	감성	NNG	O
+_	_	_	O
+필요할	필요하+ㄹ	VA+ETM	O
+땐	때+ㄴ	NNG+JX	O
+_	_	_	O
+‘	‘	SS	O
+벽뚫남	벽뚫남	NNG	O
+’	’	SS	O
+을	을	JKO	O
+_	_	_	O
+찾	찾	VV	O
+으세요	으시+어요	EP+EF	O
+

@@ -1,0 +1,534 @@
+## 1
+## 이만우 SK그룹 PR팀장(부사장)은 “SK는 전국 각지에 생산기지를 확충해 침체된 국내 경제 활성화에 일조할 것”이라며 “그룹의 미래 성장동력을 확보하는 것은 물론이고 지역경제 활성화와 수출 증대라는 세 마리 토끼를 모두 잡을 것”이라고 강조했다.
+## 이만우 <SK그룹:ORG> PR팀장(부사장)은 “<SK:ORG>는 전국 각지에 생산기지를 확충해 침체된 국내 경제 활성화에 일조할 것”이라며 “그룹의 미래 성장동력을 확보하는 것은 물론이고 지역경제 활성화와 수출 증대라는 세 마리 토끼를 모두 잡을 것”이라고 강조했다.
+이만우	이만우	NNP	O
+_	_	_	O
+SK	SK	SL	B-ORG
+그룹	그룹	NNG	I-ORG
+_	_	_	O
+PR	PR	SL	O
+팀장	팀장	NNG	O
+(	(	SS	O
+부사장	부사장	NNG	O
+)	)	SS	O
+은	은	JX	O
+_	_	_	O
+“	“	SS	O
+SK	SK	SL	B-ORG
+는	는	JX	O
+_	_	_	O
+전국	전국	NNG	O
+_	_	_	O
+각지	각지	NNG	O
+에	에	JKB	O
+_	_	_	O
+생산	생산	NNG	O
+기지	기지	NNG	O
+를	를	JKO	O
+_	_	_	O
+확충해	확충하+여	VV+EC	O
+_	_	_	O
+침체된	침체되+ㄴ	VV+ETM	O
+_	_	_	O
+국내	국내	NNG	O
+_	_	_	O
+경제	경제	NNG	O
+_	_	_	O
+활성화	활성화	NNG	O
+에	에	JKB	O
+_	_	_	O
+일조할	일조하+ㄹ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+”	”	SS	O
+이	이	VCP	O
+라며	라며	EC	O
+_	_	_	O
+“	“	SS	O
+그룹	그룹	NNG	O
+의	의	JKG	O
+_	_	_	O
+미래	미래	NNG	O
+_	_	_	O
+성장	성장	NNG	O
+동력	동력	NNG	O
+을	을	JKO	O
+_	_	_	O
+확보하	확보하	VV	O
+는	는	ETM	O
+_	_	_	O
+것	것	NNB	O
+은	은	JX	O
+_	_	_	O
+물론	물론	NNG	O
+이	이	VCP	O
+고	고	EC	O
+_	_	_	O
+지역	지역	NNG	O
+경제	경제	NNG	O
+_	_	_	O
+활성화	활성화	NNG	O
+와	와	JC	O
+_	_	_	O
+수출	수출	NNG	O
+_	_	_	O
+증대	증대+이	NNG+VCP	O
+라는	라는	ETM	O
+_	_	_	O
+세	세	MM	O
+_	_	_	O
+마리	마리	NNB	O
+_	_	_	O
+토끼	토끼	NNG	O
+를	를	JKO	O
+_	_	_	O
+모두	모두	MAG	O
+_	_	_	O
+잡	잡	VV	O
+을	을	ETM	O
+_	_	_	O
+것	것	NNB	O
+”	”	SS	O
+이라고	이라고	JKQ	O
+_	_	_	O
+강조	강조하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 비응급이나 경증 환자가 대형 병원 응급실을 이용하는 것도 제한된다.
+## 비응급이나 경증 환자가 대형 병원 <응급실:POH>을 이용하는 것도 제한된다.
+비	비	XPN	O
+응급	응급	NNG	O
+이나	이나	JC	O
+_	_	_	O
+경증	경증	NNG	O
+_	_	_	O
+환자	환자	NNG	O
+가	가	JKS	O
+_	_	_	O
+대형	대형	NNG	O
+_	_	_	O
+병원	병원	NNG	O
+_	_	_	O
+응급실	응급실	NNG	B-POH
+을	을	JKO	O
+_	_	_	O
+이용하	이용하	VV	O
+는	는	ETM	O
+_	_	_	O
+것	것	NNB	O
+도	도	JX	O
+_	_	_	O
+제한된다	제한되+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 3
+## 공교롭게도 이 전시회가 한창일 때 빌 클린턴 대통령과 여비서 모니카 르윈스키 사이의 섹스 스캔들이 터졌다.
+## 공교롭게도 이 전시회가 한창일 때 <빌 클린턴:PER> 대통령과 여비서 <모니카 르윈스키:PER> 사이의 섹스 스캔들이 터졌다.
+공교롭	공교롭	VA	O
+게	게	EC	O
+도	도	JX	O
+_	_	_	O
+이	이	MM	O
+_	_	_	O
+전시회	전시회	NNG	O
+가	가	JKS	O
+_	_	_	O
+한창	한창	NNG	O
+일	이+ㄹ	VCP+ETM	O
+_	_	_	O
+때	때	NNG	O
+_	_	_	O
+빌	빌	NNP	B-PER
+_	_	_	I-PER
+클린턴	클린턴	NNP	I-PER
+_	_	_	O
+대통령	대통령	NNG	O
+과	과	JC	O
+_	_	_	O
+여비서	여비서	NNG	O
+_	_	_	O
+모니카	모니카	NNP	B-PER
+_	_	_	I-PER
+르윈스키	르윈스키	NNP	I-PER
+_	_	_	O
+사이	사이	NNG	O
+의	의	JKG	O
+_	_	_	O
+섹스	섹스	NNG	O
+_	_	_	O
+스캔들	스캔들	NNG	O
+이	이	JKS	O
+_	_	_	O
+터	터지	VV	O
+졌	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 일본 관광객도 지난해보다 2배 가량 늘었다.
+## <일본:LOC> 관광객도 지난해보다 2배 가량 늘었다.
+일본	일본	NNP	B-LOC
+_	_	_	O
+관광객	관광객	NNG	O
+도	도	JX	O
+_	_	_	O
+지난해	지난해	NNG	O
+보다	보다	JKB	O
+_	_	_	O
+2	2	SN	O
+배	배	NNG	O
+_	_	_	O
+가량	가량	XSN	O
+_	_	_	O
+늘	늘	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 트럼프의 미국과 블라디미르 푸틴의 러시아가 접근하면 과연 중국이 백기를 들고 나올까? 그것이 문제다.
+## <트럼프:PER>의 <미국:ORG>과 <블라디미르 푸틴:PER>의 <러시아:ORG>가 접근하면 과연 <중국:ORG>이 백기를 들고 나올까? 그것이 문제다.
+트럼프	트럼프	NNG	B-PER
+의	의	JKG	O
+_	_	_	O
+미국	미국	NNP	B-ORG
+과	과	JC	O
+_	_	_	O
+블라디미르	블라디미르	NNP	B-PER
+_	_	_	I-PER
+푸틴	푸틴	NNP	I-PER
+의	의	JKG	O
+_	_	_	O
+러시아	러시아	NNP	B-ORG
+가	가	JKS	O
+_	_	_	O
+접근하	접근하	VV	O
+면	면	EC	O
+_	_	_	O
+과연	과연	MAG	O
+_	_	_	O
+중국	중국	NNP	B-ORG
+이	이	JKS	O
+_	_	_	O
+백기	백기	NNG	O
+를	를	JKO	O
+_	_	_	O
+들	들	VV	O
+고	고	EC	O
+_	_	_	O
+나올까	나오+ㄹ까	VV+EF	O
+?	?	SF	O
+_	_	_	O
+그것	그것	NP	O
+이	이	JKS	O
+_	_	_	O
+문제	문제+이	NNG+VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## [단신]두산인프라코어, 佛 자회사 매각
+## [단신]<두산인프라코어:ORG>, <佛:LOC> 자회사 매각
+[	[	SS	O
+단신	단신	NNG	O
+]	]	SS	O
+두산	두산	NNP	B-ORG
+인프라	인프라	NNG	I-ORG
+코어	코어	NNG	I-ORG
+,	,	SP	O
+_	_	_	O
+佛	佛	SH	B-LOC
+_	_	_	O
+자회사	자회사	NNG	O
+_	_	_	O
+매각	매각	NNG	O
+
+## 7
+## 장관석 jks@donga.com·김준일 기자
+## <장관석:PER> <jks@donga.com:POH>·<김준일:PER> 기자
+장관	장관	NNG	B-PER
+석	석	XSN	I-PER
+_	_	_	O
+jks	jks	SL	B-POH
+@	@	SW	I-POH
+donga	donga	SL	I-POH
+.	.	SF	I-POH
+com	com	SL	I-POH
+·	·	SP	O
+김준일	김준일	NNP	B-PER
+_	_	_	O
+기자	기자	NNG	O
+
+## 8
+## 선데이뉴스쇼 (20일 일요일 오전 8시 10분)
+## <선데이뉴스쇼:POH> (<20일:DAT> <일요일:DAT> <오전 8시 10분:TIM>)
+선데이	선데이	NNP	B-POH
+뉴스쇼	뉴스쇼	NNG	I-POH
+_	_	_	O
+(	(	SS	O
+20	20	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+일요일	일요일	NNG	B-DAT
+_	_	_	O
+오전	오전	NNG	B-TIM
+_	_	_	I-TIM
+8	8	SN	I-TIM
+시	시	NNB	I-TIM
+_	_	_	I-TIM
+10	10	SN	I-TIM
+분	분	NNB	I-TIM
+)	)	SS	O
+
+## 9
+## 매장 하루 방문객은 60만명에 달한다.
+## 매장 하루 방문객은 <60만명:NOH>에 달한다.
+매장	매장	NNG	O
+_	_	_	O
+하루	하루	NNG	O
+_	_	_	O
+방문객	방문객	NNG	O
+은	은	JX	O
+_	_	_	O
+60	60	SN	B-NOH
+만	만	NR	I-NOH
+명	명	NNB	I-NOH
+에	에	JKB	O
+_	_	_	O
+달한다	달하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 10
+## 성장의 비결을 묻자 박 회장은 “철저하게 균일가숍을 고수했기 때문”이라고 말했다.
+## 성장의 비결을 묻자 <박:PER> 회장은 “철저하게 균일가숍을 고수했기 때문”이라고 말했다.
+성장	성장	NNG	O
+의	의	JKG	O
+_	_	_	O
+비결	비결	NNG	O
+을	을	JKO	O
+_	_	_	O
+묻	묻	VV	O
+자	자	EC	O
+_	_	_	O
+박	박	NNP	B-PER
+_	_	_	O
+회장	회장	NNG	O
+은	은	JX	O
+_	_	_	O
+“	“	SS	O
+철저하	철저하	VA	O
+게	게	EC	O
+_	_	_	O
+균일	균일	NNG	O
+가	가	XSN	O
+숍	숍	NNG	O
+을	을	JKO	O
+_	_	_	O
+고수	고수하	VV	O
+했	였	EP	O
+기	기	ETN	O
+_	_	_	O
+때문	때문	NNB	O
+”	”	SS	O
+이라고	이라고	JKQ	O
+_	_	_	O
+말	말하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 벳푸가 일찌감치 일본을 대표하는 온천으로 알려졌고 규모가 크고 남성적인 분위기라면 유후인은 인구가 4만 명에 불과하고 소박한 농촌의 정취를 고스란히 간직한 여성적인 분위기의 마을이다.
+## <벳푸:LOC>가 일찌감치 <일본:LOC>을 대표하는 온천으로 알려졌고 규모가 크고 남성적인 분위기라면 <유후인:LOC>은 인구가 4만 명에 불과하고 소박한 농촌의 정취를 고스란히 간직한 여성적인 분위기의 마을이다.
+벳푸	벳푸	NNP	B-LOC
+가	가	JKS	O
+_	_	_	O
+일찌감치	일찌감치	MAG	O
+_	_	_	O
+일본	일본	NNP	B-LOC
+을	을	JKO	O
+_	_	_	O
+대표하	대표하	VV	O
+는	는	ETM	O
+_	_	_	O
+온천	온천	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+알려	알려지	VV	O
+졌	었	EP	O
+고	고	EC	O
+_	_	_	O
+규모	규모	NNG	O
+가	가	JKS	O
+_	_	_	O
+크	크	VA	O
+고	고	EC	O
+_	_	_	O
+남성적	남성적	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+분위기	분위기+이	NNG+VCP	O
+라면	라면	EC	O
+_	_	_	O
+유후인	유후인	NNP	B-LOC
+은	은	JX	O
+_	_	_	O
+인구	인구	NNG	O
+가	가	JKS	O
+_	_	_	O
+4	4	SN	O
+만	만	NR	O
+_	_	_	O
+명	명	NNB	O
+에	에	JKB	O
+_	_	_	O
+불과하	불과하	VA	O
+고	고	EC	O
+_	_	_	O
+소박한	소박하+ㄴ	VA+ETM	O
+_	_	_	O
+농촌	농촌	NNG	O
+의	의	JKG	O
+_	_	_	O
+정취	정취	NNG	O
+를	를	JKO	O
+_	_	_	O
+고스란히	고스란히	MAG	O
+_	_	_	O
+간직한	간직하+ㄴ	VV+ETM	O
+_	_	_	O
+여성적	여성적	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+분위기	분위기	NNG	O
+의	의	JKG	O
+_	_	_	O
+마을	마을	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 동남아·중국 시장 겨냥한 교육 콘텐트를 개발하는 한편, 예스24 사업의 새로운 축으로 세운 엔터테인먼트 부문을 강화해 공연·영화·음반 등의 해외 진출을 적극적으로 펼칠 계획이다.
+## <동남아:ORG>·<중국:ORG> 시장 겨냥한 교육 콘텐트를 개발하는 한편, <예스24:ORG> 사업의 새로운 축으로 세운 엔터테인먼트 부문을 강화해 공연·영화·음반 등의 해외 진출을 적극적으로 펼칠 계획이다.
+동남아	동남아	NNP	B-ORG
+·	·	SP	O
+중국	중국	NNP	B-ORG
+_	_	_	O
+시장	시장	NNG	O
+_	_	_	O
+겨냥한	겨냥하+ㄴ	VV+ETM	O
+_	_	_	O
+교육	교육	NNG	O
+_	_	_	O
+콘텐트	콘텐트	NNG	O
+를	를	JKO	O
+_	_	_	O
+개발하	개발하	VV	O
+는	는	ETM	O
+_	_	_	O
+한편	한편	NNG	O
+,	,	SP	O
+_	_	_	O
+예스	예스	NNG	B-ORG
+24	24	SN	I-ORG
+_	_	_	O
+사업	사업	NNG	O
+의	의	JKG	O
+_	_	_	O
+새로	새롭	VA	O
+운	ㄴ	ETM	O
+_	_	_	O
+축	축	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+세운	세우+ㄴ	VV+ETM	O
+_	_	_	O
+엔터테인먼트	엔터테인먼트	NNG	O
+_	_	_	O
+부문	부문	NNG	O
+을	을	JKO	O
+_	_	_	O
+강화해	강화하+여	VV+EC	O
+_	_	_	O
+공연	공연	NNG	O
+·	·	SP	O
+영화	영화	NNG	O
+·	·	SP	O
+음반	음반	NNG	O
+_	_	_	O
+등	등	NNB	O
+의	의	JKG	O
+_	_	_	O
+해외	해외	NNG	O
+_	_	_	O
+진출	진출	NNG	O
+을	을	JKO	O
+_	_	_	O
+적극적	적극적	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+펼칠	펼치+ㄹ	VV+ETM	O
+_	_	_	O
+계획	계획	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## 심지어 한국의 일부 뉴스 사이트도 제대로 보기가 힘들었다.
+## 심지어 <한국:ORG>의 일부 뉴스 사이트도 제대로 보기가 힘들었다.
+심지어	심지어	MAG	O
+_	_	_	O
+한국	한국	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+일부	일부	NNG	O
+_	_	_	O
+뉴스	뉴스	NNG	O
+_	_	_	O
+사이트	사이트	NNG	O
+도	도	JX	O
+_	_	_	O
+제대로	제대로	MAG	O
+_	_	_	O
+보	보	VV	O
+기	기	ETN	O
+가	가	JKS	O
+_	_	_	O
+힘들	힘들	VA	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 14
+## 13년을 준비한 2018 평창 겨울올림픽이 500일 앞으로 다가왔다.
+## <13년:NOH>을 준비한 <2018:NOH> <평창 겨울올림픽:POH>이 <500일:NOH> 앞으로 다가왔다.
+13	13	SN	B-NOH
+년	년	NNB	I-NOH
+을	을	JKO	O
+_	_	_	O
+준비한	준비하+ㄴ	VV+ETM	O
+_	_	_	O
+2018	2018	SN	B-NOH
+_	_	_	O
+평창	평창	NNP	B-POH
+_	_	_	I-POH
+겨울	겨울	NNG	I-POH
+올림픽	올림픽	NNG	I-POH
+이	이	JKS	O
+_	_	_	O
+500	500	SN	B-NOH
+일	일	NNB	I-NOH
+_	_	_	O
+앞	앞	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+다가	다가오	VV	O
+왔	았	EP	O
+다	다	EF	O
+.	.	SF	O
+

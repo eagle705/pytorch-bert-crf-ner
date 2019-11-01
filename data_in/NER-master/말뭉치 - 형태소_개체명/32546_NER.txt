@@ -1,0 +1,669 @@
+## 1
+## 혼마는 일본의 유명 골프클럽 제조업체로 2010년 중국의 머라이언 홀딩스에 인수됐다.
+## <혼마:ORG>는 <일본:LOC>의 유명 골프클럽 제조업체로 <2010년:DAT> <중국:LOC>의 <머라이언 홀딩스:ORG>에 인수됐다.
+혼마	혼마	NNP	B-ORG
+는	는	JX	O
+_	_	_	O
+일본	일본	NNP	B-LOC
+의	의	JKG	O
+_	_	_	O
+유명	유명	NNG	O
+_	_	_	O
+골프	골프	NNG	O
+클럽	클럽	NNG	O
+_	_	_	O
+제조	제조	NNG	O
+업체	업체	NNG	O
+로	로	JKB	O
+_	_	_	O
+2010	2010	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+중국	중국	NNP	B-LOC
+의	의	JKG	O
+_	_	_	O
+머	머	NNG	B-ORG
+라이언	라이언	NNP	I-ORG
+_	_	_	I-ORG
+홀딩스	홀딩스	NNP	I-ORG
+에	에	JKB	O
+_	_	_	O
+인수	인수되	VV	O
+됐	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 인민망은 중국제가 된 혼마 골프채를 아베가 트럼프에게 선물한 것에는 아베 총리가 보호무역주의자인 트럼프 당선인에게 보내는 경고의 의미가 은밀하게 담겨 있다고 분석했다.
+## <인민망:ORG>은 중국제가 된 <혼마:ORG> 골프채를 <아베:PER>가 <트럼프:PER>에게 선물한 것에는 <아베:PER> 총리가 보호무역주의자인 <트럼프:PER> 당선인에게 보내는 경고의 의미가 은밀하게 담겨 있다고 분석했다.
+인민	인민	NNG	B-ORG
+망	망	NNG	I-ORG
+은	은	JX	O
+_	_	_	O
+중국	중국	NNP	O
+제	제	XSN	O
+가	가	JKC	O
+_	_	_	O
+된	되+ㄴ	VV+ETM	O
+_	_	_	O
+혼마	혼마	NNP	B-ORG
+_	_	_	O
+골프채	골프채	NNG	O
+를	를	JKO	O
+_	_	_	O
+아베	아베	NNP	B-PER
+가	가	JKS	O
+_	_	_	O
+트럼프	트럼프	NNP	B-PER
+에게	에게	JKB	O
+_	_	_	O
+선물한	선물하+ㄴ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+아베	아베	NNP	B-PER
+_	_	_	O
+총리	총리	NNG	O
+가	가	JKS	O
+_	_	_	O
+보호	보호	NNG	O
+무역	무역	NNG	O
+주의자	주의자	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+트럼프	트럼프	NNP	B-PER
+_	_	_	O
+당선인	당선인	NNG	O
+에게	에게	JKB	O
+_	_	_	O
+보내	보내	VV	O
+는	는	ETM	O
+_	_	_	O
+경고	경고	NNG	O
+의	의	JKG	O
+_	_	_	O
+의미	의미	NNG	O
+가	가	JKS	O
+_	_	_	O
+은밀하	은밀하	VA	O
+게	게	EC	O
+_	_	_	O
+담겨	담기+어	VV+EC	O
+_	_	_	O
+있	있	VX	O
+다고	다고	EC	O
+_	_	_	O
+분석	분석하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 이제는 중국 기업이 된 일본 기업의 제품을 통해 글로벌화 되고 있는 세계 시장의 중요성을 알리려고 했다는 해석이다.
+## 이제는 <중국:LOC> 기업이 된 <일본:LOC> 기업의 제품을 통해 글로벌화 되고 있는 세계 시장의 중요성을 알리려고 했다는 해석이다.
+이제	이제	NNG	O
+는	는	JX	O
+_	_	_	O
+중국	중국	NNP	B-LOC
+_	_	_	O
+기업	기업	NNG	O
+이	이	JKC	O
+_	_	_	O
+된	되+ㄴ	VV+ETM	O
+_	_	_	O
+일본	일본	NNP	B-LOC
+_	_	_	O
+기업	기업	NNG	O
+의	의	JKG	O
+_	_	_	O
+제품	제품	NNG	O
+을	을	JKO	O
+_	_	_	O
+통해	통하+여	VV+EC	O
+_	_	_	O
+글로벌	글로벌	NNG	O
+화	화	XSN	O
+_	_	_	O
+되	되	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+는	는	ETM	O
+_	_	_	O
+세계	세계	NNG	O
+_	_	_	O
+시장	시장	NNG	O
+의	의	JKG	O
+_	_	_	O
+중요성	중요성	NNG	O
+을	을	JKO	O
+_	_	_	O
+알리	알리	VV	O
+려고	려고	EC	O
+_	_	_	O
+했	+였	+EP	O
+다는	다는	ETM	O
+_	_	_	O
+해석	해석	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 이동통신3사가 직영 온라인 쇼핑몰 경쟁에 돌입했다.
+## 이동통신<3사:NOH>가 직영 온라인 쇼핑몰 경쟁에 돌입했다.
+이동	이동	NNG	O
+통신	통신	NNG	O
+3	3	SN	B-NOH
+사	사	NNG	I-NOH
+가	가	JKS	O
+_	_	_	O
+직영	직영	NNG	O
+_	_	_	O
+온라인	온라인	NNG	O
+_	_	_	O
+쇼핑몰	쇼핑몰	NNG	O
+_	_	_	O
+경쟁	경쟁	NNG	O
+에	에	JKB	O
+_	_	_	O
+돌입	돌입하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 서울변회 “의원 자녀 취업 공개토록 법개정 추진”
+## <서울변회:ORG> “의원 자녀 취업 공개토록 법개정 추진”
+서울	서울	NNP	B-ORG
+변	변	NNG	I-ORG
+회	회	XSN	I-ORG
+_	_	_	O
+“	“	SS	O
+의원	의원	NNG	O
+_	_	_	O
+자녀	자녀	NNG	O
+_	_	_	O
+취업	취업	NNG	O
+_	_	_	O
+공개	공개하	VV	O
+토록	도록	EC	O
+_	_	_	O
+법	법	NNG	O
+개정	개정	NNG	O
+_	_	_	O
+추진	추진	NNG	O
+”	”	SS	O
+
+## 6
+## 3월 신학기가 코앞으로 다가왔다.
+## <3월:DAT> 신학기가 코앞으로 다가왔다.
+3	3	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+신학기	신학기	NNG	O
+가	가	JKS	O
+_	_	_	O
+코앞	코앞	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+다가	다가오	VV	O
+왔	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 기술 수준도 한국 업체를 위협할 수준까지 왔다는 평이다.
+## 기술 수준도 <한국:LOC> 업체를 위협할 수준까지 왔다는 평이다.
+기술	기술	NNG	O
+_	_	_	O
+수준	수준	NNG	O
+도	도	JX	O
+_	_	_	O
+한국	한국	NNP	B-LOC
+_	_	_	O
+업체	업체	NNG	O
+를	를	JKO	O
+_	_	_	O
+위협할	위협하+ㄹ	VV+ETM	O
+_	_	_	O
+수준	수준	NNG	O
+까지	까지	JX	O
+_	_	_	O
+왔	+았	+EP	O
+다는	다는	ETM	O
+_	_	_	O
+평	평	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 김영삼대통령과 50년 지기인 때문이지요.
+## <김영삼:PER>대통령과 <50년:NOH> 지기인 때문이지요.
+김영삼	김영삼	NNP	B-PER
+대통령	대통령	NNG	O
+과	과	JC	O
+_	_	_	O
+50	50	SN	B-NOH
+년	년	NNB	I-NOH
+_	_	_	O
+지기	지기	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+때문	때문	NNB	O
+이	이	VCP	O
+지요	지요	EF	O
+.	.	SF	O
+
+## 9
+## 반면 삼성, 선경, 대우, 대한항공, 코오롱 등은 직원 사기를 위해 TV시청을 암묵적으로 허용할 방침이다.
+## 반면 <삼성:ORG>, <선경:ORG>, <대우:ORG>, <대한항공:ORG>, <코오롱:ORG> 등은 직원 사기를 위해 TV시청을 암묵적으로 허용할 방침이다.
+반면	반면	NNG	O
+_	_	_	O
+삼성	삼성	NNP	B-ORG
+,	,	SP	O
+_	_	_	O
+선경	선경	NNP	B-ORG
+,	,	SP	O
+_	_	_	O
+대우	대우	NNP	B-ORG
+,	,	SP	O
+_	_	_	O
+대한항공	대한항공	NNP	B-ORG
+,	,	SP	O
+_	_	_	O
+코오롱	코오롱	NNP	B-ORG
+_	_	_	O
+등	등	NNB	O
+은	은	JX	O
+_	_	_	O
+직원	직원	NNG	O
+_	_	_	O
+사기	사기	NNG	O
+를	를	JKO	O
+_	_	_	O
+위해	위하+여	VV+EC	O
+_	_	_	O
+TV	TV	SL	O
+시청	시청	NNG	O
+을	을	JKO	O
+_	_	_	O
+암묵	암묵	NNG	O
+적	적	XSN	O
+으로	으로	JKB	O
+_	_	_	O
+허용할	허용하+ㄹ	VV+ETM	O
+_	_	_	O
+방침	방침	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 한국 정부가 내놓은 ‘2030년 온실가스배출전망치(BAU) 대비 37% 감축’이라는 목표를 달성하려면 고강도 에너지 다이어트가 시급하기 때문이다.
+## <한국 정부:ORG>가 내놓은 ‘<2030년:DAT> 온실가스배출전망치(BAU) 대비 <37%:PNT> 감축’이라는 목표를 달성하려면 고강도 에너지 다이어트가 시급하기 때문이다.
+한국	한국	NNP	B-ORG
+_	_	_	I-ORG
+정부	정부	NNG	I-ORG
+가	가	JKS	O
+_	_	_	O
+내놓	내놓	VV	O
+은	은	ETM	O
+_	_	_	O
+‘	‘	SS	O
+2030	2030	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+온실	온실	NNG	O
+가스	가스	NNG	O
+배출	배출	NNG	O
+전망	전망	NNG	O
+치	치	XSN	O
+(	(	SS	O
+BAU	BAU	SL	O
+)	)	SS	O
+_	_	_	O
+대비	대비	NNG	O
+_	_	_	O
+37	37	SN	B-PNT
+%	%	SW	I-PNT
+_	_	_	O
+감축	감축	NNG	O
+’	’	SS	O
+이	이	VCP	O
+라는	라는	ETM	O
+_	_	_	O
+목표	목표	NNG	O
+를	를	JKO	O
+_	_	_	O
+달성하	달성하	VV	O
+려면	려면	EC	O
+_	_	_	O
+고강도	고강도	NNG	O
+_	_	_	O
+에너지	에너지	NNG	O
+_	_	_	O
+다이어트	다이어트	NNG	O
+가	가	JKS	O
+_	_	_	O
+시급하	시급하	VA	O
+기	기	ETN	O
+_	_	_	O
+때문	때문	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 한 쌍이 한국에 온다.
+## <한 쌍:NOH>이 <한국:LOC>에 온다.
+한	한	MM	B-NOH
+_	_	_	I-NOH
+쌍	쌍	NNG	I-NOH
+이	이	JKS	O
+_	_	_	O
+한국	한국	NNP	B-LOC
+에	에	JKB	O
+_	_	_	O
+온다	오+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 12
+## 통관인증제를 통해 국내로 들어온 제품 건수는 제도가 처음 도입된 2012년 1만3492건에서 지난해 170만7591건으로 증가했다.
+## 통관인증제를 통해 국내로 들어온 제품 건수는 제도가 처음 도입된 <2012년:DAT> <1만3492건:NOH>에서 지난해 <170만7591건:NOH>으로 증가했다.
+통관	통관	NNG	O
+인증	인증	NNG	O
+제	제	XSN	O
+를	를	JKO	O
+_	_	_	O
+통해	통하+여	VV+EC	O
+_	_	_	O
+국내	국내	NNG	O
+로	로	JKB	O
+_	_	_	O
+들어온	들어오+ㄴ	VV+ETM	O
+_	_	_	O
+제품	제품	NNG	O
+_	_	_	O
+건수	건수	NNG	O
+는	는	JX	O
+_	_	_	O
+제도	제도	NNG	O
+가	가	JKS	O
+_	_	_	O
+처음	처음	NNG	O
+_	_	_	O
+도입된	도입되+ㄴ	VV+ETM	O
+_	_	_	O
+2012	2012	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+1	1	SN	B-NOH
+만	만	NR	I-NOH
+3492	3492	SN	I-NOH
+건	건	NNB	I-NOH
+에서	에서	JKB	O
+_	_	_	O
+지난해	지난해	NNG	O
+_	_	_	O
+170	170	SN	B-NOH
+만	만	NR	I-NOH
+7591	7591	SN	I-NOH
+건	건	NNB	I-NOH
+으로	으로	JKB	O
+_	_	_	O
+증가	증가하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## 르노삼성자동차에는 ‘고급형 타이어 공기압 자동감지 시스템’이 기본으로 장착돼 있다.
+## <르노삼성자동차:ORG>에는 ‘고급형 타이어 공기압 자동감지 시스템’이 기본으로 장착돼 있다.
+르노삼성자동차	르노삼성자동차	NNP	B-ORG
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+‘	‘	SS	O
+고급	고급	NNG	O
+형	형	XSN	O
+_	_	_	O
+타이어	타이어	NNG	O
+_	_	_	O
+공기압	공기압	NNG	O
+_	_	_	O
+자동	자동	NNG	O
+감지	감지	NNG	O
+_	_	_	O
+시스템	시스템	NNG	O
+’	’	SS	O
+이	이	JKS	O
+_	_	_	O
+기본	기본	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+장착돼	장착되+어	VV+EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 14
+## 최성 “특검 박근혜 300억 수수 확인, 다시는 ‘범법자’ 대통령 나와선 안 돼”
+## 최성 “특검 <박근혜:PER> <300억:MNY> 수수 확인, 다시는 ‘범법자’ 대통령 나와선 안 돼”
+최성	최성	NNG	O
+_	_	_	O
+“	“	SS	O
+특검	특검	NNG	O
+_	_	_	O
+박근혜	박근혜	NNP	B-PER
+_	_	_	O
+300	300	SN	B-MNY
+억	억	NR	I-MNY
+_	_	_	O
+수수	수수	NNG	O
+_	_	_	O
+확인	확인	NNG	O
+,	,	SP	O
+_	_	_	O
+다시	다시	MAG	O
+는	는	JX	O
+_	_	_	O
+‘	‘	SS	O
+범법자	범법자	NNG	O
+’	’	SS	O
+_	_	_	O
+대통령	대통령	NNG	O
+_	_	_	O
+나	나오	VV	O
+와선	아서+ㄴ	EC+JX	O
+_	_	_	O
+안	안	MAG	O
+_	_	_	O
+돼	되+어	VV+EF	O
+”	”	SS	O
+
+## 15
+## 광주 군 공항 이전을 위한 범시민추진위원회(위원장 신원형)는 대구공항과 동일하게 광주 공항에도 범정부 차원의 지원을 요구하는 건의문을 국방부에 전달했다고 18일 밝혔다.
+## <광주 군 공항:LOC> 이전을 위한 <범시민추진위원회:ORG>(위원장 <신원형:PER>)는 <대구공항:LOC>과 동일하게 <광주 공항:LOC>에도 범정부 차원의 지원을 요구하는 건의문을 <국방부:ORG>에 전달했다고 <18일:DAT> 밝혔다.
+광주	광주	NNP	B-LOC
+_	_	_	I-LOC
+군	군	NNG	I-LOC
+_	_	_	I-LOC
+공항	공항	NNG	I-LOC
+_	_	_	O
+이전	이전	NNG	O
+을	을	JKO	O
+_	_	_	O
+위한	위하+ㄴ	VV+ETM	O
+_	_	_	O
+범	범	XPN	B-ORG
+시민	시민	NNG	I-ORG
+추진	추진	NNG	I-ORG
+위원회	위원회	NNG	I-ORG
+(	(	SS	O
+위원장	위원장	NNG	O
+_	_	_	O
+신	신	NNG	B-PER
+원형	원형	NNG	I-PER
+)	)	SS	O
+는	는	JX	O
+_	_	_	O
+대구	대구	NNP	B-LOC
+공항	공항	NNG	I-LOC
+과	과	JKB	O
+_	_	_	O
+동일하	동일하	VA	O
+게	게	EC	O
+_	_	_	O
+광주	광주	NNP	B-LOC
+_	_	_	I-LOC
+공항	공항	NNG	I-LOC
+에	에	JKB	O
+도	도	JX	O
+_	_	_	O
+범	범	XPN	O
+정부	정부	NNG	O
+_	_	_	O
+차원	차원	NNG	O
+의	의	JKG	O
+_	_	_	O
+지원	지원	NNG	O
+을	을	JKO	O
+_	_	_	O
+요구하	요구하	VV	O
+는	는	ETM	O
+_	_	_	O
+건의문	건의문	NNG	O
+을	을	JKO	O
+_	_	_	O
+국방부	국방부	NNG	B-ORG
+에	에	JKB	O
+_	_	_	O
+전달	전달하	VV	O
+했	였	EP	O
+다고	다고	EC	O
+_	_	_	O
+18	18	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+밝	밝히	VV	O
+혔	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 16
+## 무대에 설 수 있는 최대 인원은 24명으로 체임버 오케스트라 규모의 연주가 가능하다.
+## 무대에 설 수 있는 최대 인원은 <24명:NOH>으로 체임버 오케스트라 규모의 연주가 가능하다.
+무대	무대	NNG	O
+에	에	JKB	O
+_	_	_	O
+설	서+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+는	는	ETM	O
+_	_	_	O
+최대	최대	NNG	O
+_	_	_	O
+인원	인원	NNG	O
+은	은	JX	O
+_	_	_	O
+24	24	SN	B-NOH
+명	명	NNB	I-NOH
+으로	으로	JKB	O
+_	_	_	O
+체임버	체임버	NNG	O
+_	_	_	O
+오케스트라	오케스트라	NNG	O
+_	_	_	O
+규모	규모	NNG	O
+의	의	JKG	O
+_	_	_	O
+연주	연주	NNG	O
+가	가	JKS	O
+_	_	_	O
+가능하	가능하	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 17
+## 과거 ‘패스트 팔로어(Fast Follower·발 빠른 추격자)’였던 중국 기업이 업계 혁신을 주도하는 ‘퍼스트 무버(First Mover·시장 선도자)’로 올라섰음을 잘 보여주는 사례가 바로 이항이다.
+## 과거 ‘패스트 팔로어(Fast Follower·발 빠른 추격자)’였던 <중국:LOC> 기업이 업계 혁신을 주도하는 ‘퍼스트 무버(First Mover·시장 선도자)’로 올라섰음을 잘 보여주는 사례가 바로 이항이다.
+과거	과거	NNG	O
+_	_	_	O
+‘	‘	SS	O
+패스트	패스트	NNG	O
+_	_	_	O
+팔로어	팔로어	NNG	O
+(	(	SS	O
+Fast	Fast	SL	O
+_	_	_	O
+Follower	Follower	SL	O
+·	·	SP	O
+발	발	NNG	O
+_	_	_	O
+빠른	빠르+ㄴ	VA+ETM	O
+_	_	_	O
+추격자	추격자	NNG	O
+)	)	SS	O
+’	’+이	SS+VCP	O
+였	었	EP	O
+던	던	ETM	O
+_	_	_	O
+중국	중국	NNP	B-LOC
+_	_	_	O
+기업	기업	NNG	O
+이	이	JKS	O
+_	_	_	O
+업계	업계	NNG	O
+_	_	_	O
+혁신	혁신	NNG	O
+을	을	JKO	O
+_	_	_	O
+주도하	주도하	VV	O
+는	는	ETM	O
+_	_	_	O
+‘	‘	SS	O
+퍼스트	퍼스트	NNG	O
+_	_	_	O
+무	무	XPN	O
+버	버	NNG	O
+(	(	SS	O
+First	First	SL	O
+_	_	_	O
+Mover	Mover	SL	O
+·	·	SP	O
+시장	시장	NNG	O
+_	_	_	O
+선도	선도	NNG	O
+자	자	XSN	O
+)	)	SS	O
+’	’	SS	O
+로	로	JKB	O
+_	_	_	O
+올라섰	올라서+었	VV+EP	O
+음	음	ETN	O
+을	을	JKO	O
+_	_	_	O
+잘	잘	MAG	O
+_	_	_	O
+보	보이	VV	O
+여	어	EC	O
+주	주	VX	O
+는	는	ETM	O
+_	_	_	O
+사례	사례	NNG	O
+가	가	JKS	O
+_	_	_	O
+바로	바로	MAG	O
+_	_	_	O
+이항	이항	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+

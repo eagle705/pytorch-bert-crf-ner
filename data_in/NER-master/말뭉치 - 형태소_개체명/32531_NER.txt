@@ -1,0 +1,401 @@
+## 1
+## 그러나 코웨이 측의 해명에도 불구하고 소셜미디어에 게시된 사과문에는 코웨이의 늑장대응을 비판하는 댓글로 채워지고 있다.
+## 그러나 <코웨이:ORG> 측의 해명에도 불구하고 소셜미디어에 게시된 사과문에는 <코웨이:ORG>의 늑장대응을 비판하는 댓글로 채워지고 있다.
+그러나	그러나	MAJ	O
+_	_	_	O
+코웨이	코웨이	NNP	B-ORG
+_	_	_	O
+측	측	NNB	O
+의	의	JKG	O
+_	_	_	O
+해명	해명	NNG	O
+에	에	JKB	O
+도	도	JX	O
+_	_	_	O
+불구하	불구하	VV	O
+고	고	EC	O
+_	_	_	O
+소셜	소셜	NNG	O
+미디어	미디어	NNG	O
+에	에	JKB	O
+_	_	_	O
+게시된	게시되+ㄴ	VV+ETM	O
+_	_	_	O
+사과문	사과문	NNG	O
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+코웨이	코웨이	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+늑장	늑장	NNG	O
+대응	대응	NNG	O
+을	을	JKO	O
+_	_	_	O
+비판하	비판하	VV	O
+는	는	ETM	O
+_	_	_	O
+댓글	댓글	NNG	O
+로	로	JKB	O
+_	_	_	O
+채	채우	VV	O
+워	어	EC	O
+지	지	VX	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 코웨이측 사과문에 진정성이 없다는 의견도 보인다.
+## <코웨이:ORG>측 사과문에 진정성이 없다는 의견도 보인다.
+코웨이	코웨이	NNP	B-ORG
+측	측	NNB	O
+_	_	_	O
+사과문	사과문	NNG	O
+에	에	JKB	O
+_	_	_	O
+진정	진정	NNG	O
+성	성	XSN	O
+이	이	JKS	O
+_	_	_	O
+없	없	VA	O
+다는	다는	ETM	O
+_	_	_	O
+의견	의견	NNG	O
+도	도	JX	O
+_	_	_	O
+보인다	보이+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 3
+## 섐블리가 차량 트렁크에 불을 내는 장면은 인근 감시카메라에 고스란히 포착됐다.
+## <섐블리:PER>가 차량 트렁크에 불을 내는 장면은 인근 감시카메라에 고스란히 포착됐다.
+섐블리	섐블리	NNG	B-PER
+가	가	JKS	O
+_	_	_	O
+차량	차량	NNG	O
+_	_	_	O
+트렁크	트렁크	NNG	O
+에	에	JKB	O
+_	_	_	O
+불	불	NNG	O
+을	을	JKO	O
+_	_	_	O
+내	내	VV	O
+는	는	ETM	O
+_	_	_	O
+장면	장면	NNG	O
+은	은	JX	O
+_	_	_	O
+인근	인근	NNG	O
+_	_	_	O
+감시	감시	NNG	O
+카메라	카메라	NNG	O
+에	에	JKB	O
+_	_	_	O
+고스란히	고스란히	MAG	O
+_	_	_	O
+포착	포착되	VV	O
+됐	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 엄마를 위해 아들이 특별한 이벤트를 준비하는데, 바로 아빠 조관우의 콘서트에서 펼쳐진다.
+## 엄마를 위해 아들이 특별한 이벤트를 준비하는데, 바로 아빠 <조관우의:PER> 콘서트에서 펼쳐진다.
+엄마	엄마	NNG	O
+를	를	JKO	O
+_	_	_	O
+위해	위하+여	VV+EC	O
+_	_	_	O
+아들	아들	NNG	O
+이	이	JKS	O
+_	_	_	O
+특별한	특별하+ㄴ	VA+ETM	O
+_	_	_	O
+이벤트	이벤트	NNG	O
+를	를	JKO	O
+_	_	_	O
+준비하	준비하	VV	O
+는데	는데	EC	O
+,	,	SP	O
+_	_	_	O
+바로	바로	MAG	O
+_	_	_	O
+아빠	아빠	NNG	O
+_	_	_	O
+조관우	조관우	NNP	B-PER
+의	의	JKG	I-PER
+_	_	_	O
+콘서트	콘서트	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+펼쳐진다	펼쳐지+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 5
+## 프로스포츠 7개 단체, 27일 마케팅 워크숍
+## 프로스포츠 <7개:NOH> 단체, <27일:DAT> 마케팅 워크숍
+프로	프로	NNG	O
+스포츠	스포츠	NNG	O
+_	_	_	O
+7	7	SN	B-NOH
+개	개	NNB	I-NOH
+_	_	_	O
+단체	단체	NNG	O
+,	,	SP	O
+_	_	_	O
+27	27	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+마케팅	마케팅	NNG	O
+_	_	_	O
+워크숍	워크숍	NNG	O
+
+## 6
+## 팬들에겐 트레이 힐만 감독 이하 선수단과 악수를 하고, 하이파이브를 할 기회다.
+## 팬들에겐 <트레이 힐만:PER> 감독 이하 선수단과 악수를 하고, 하이파이브를 할 기회다.
+팬	팬	NNG	O
+들	들	XSN	O
+에겐	에게+ㄴ	JKB+JX	O
+_	_	_	O
+트레이	트레이	NNP	B-PER
+_	_	_	I-PER
+힐	힐	NNG	I-PER
+만	만	JX	I-PER
+_	_	_	O
+감독	감독	NNG	O
+_	_	_	O
+이하	이하	NNG	O
+_	_	_	O
+선수단	선수단	NNG	O
+과	과	JKB	O
+_	_	_	O
+악수	악수	NNG	O
+를	를	JKO	O
+_	_	_	O
+하	하	VV	O
+고	고	EC	O
+,	,	SP	O
+_	_	_	O
+하이파이브	하이파이브	NNG	O
+를	를	JKO	O
+_	_	_	O
+할	하+ㄹ	VV+ETM	O
+_	_	_	O
+기회	기회+이	NNG+VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 해군사관학교는 28일 본고사 성적 60%, 내신성적 40%의 비율로 수능시험성적 반영없이 신입생을 선발하는 것을 골자로 하는 95학년도 신입생모집 요강을 확정, 발표했다.
+## <해군사관학교:ORG>는 <28일:DAT> 본고사 성적 <60%:PNT>, 내신성적 <40%:PNT>의 비율로 수능시험성적 반영없이 신입생을 선발하는 것을 골자로 하는 <95학년도:DUR> 신입생모집 요강을 확정, 발표했다.
+해군	해군	NNG	B-ORG
+사관	사관	NNG	I-ORG
+학교	학교	NNG	I-ORG
+는	는	JX	O
+_	_	_	O
+28	28	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+본고사	본고사	NNG	O
+_	_	_	O
+성적	성적	NNG	O
+_	_	_	O
+60	60	SN	B-PNT
+%	%	SW	I-PNT
+,	,	SP	O
+_	_	_	O
+내신	내신	NNG	O
+성적	성적	NNG	O
+_	_	_	O
+40	40	SN	B-PNT
+%	%	SW	I-PNT
+의	의	JKG	O
+_	_	_	O
+비율	비율	NNG	O
+로	로	JKB	O
+_	_	_	O
+수능	수능	NNG	O
+시험	시험	NNG	O
+성적	성적	NNG	O
+_	_	_	O
+반영	반영	NNG	O
+없이	없이	MAG	O
+_	_	_	O
+신입생	신입생	NNG	O
+을	을	JKO	O
+_	_	_	O
+선발하	선발하	VV	O
+는	는	ETM	O
+_	_	_	O
+것	것	NNB	O
+을	을	JKO	O
+_	_	_	O
+골자	골자	NNG	O
+로	로	JKB	O
+_	_	_	O
+하	하	VV	O
+는	는	ETM	O
+_	_	_	O
+95	95	SN	B-DUR
+학년도	학년도	NNG	I-DUR
+_	_	_	O
+신입생	신입생	NNG	O
+모집	모집	NNG	O
+_	_	_	O
+요강	요강	NNG	O
+을	을	JKO	O
+_	_	_	O
+확정	확정	NNG	O
+,	,	SP	O
+_	_	_	O
+발표	발표하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 가장 주목받는 인물은 레오폴도 로페스(44) 민중의지당 대표다.
+## 가장 주목받는 인물은 <레오폴도 로페스:PER>(<44:NOH>) 민중의지당 대표다.
+가장	가장	MAG	O
+_	_	_	O
+주목	주목	NNG	O
+받	받	VV	O
+는	는	ETM	O
+_	_	_	O
+인물	인물	NNG	O
+은	은	JX	O
+_	_	_	O
+레오폴도	레오폴도	NNP	B-PER
+_	_	_	I-PER
+로페스	로페스	NNP	I-PER
+(	(	SS	O
+44	44	SN	B-NOH
+)	)	SS	O
+_	_	_	O
+민중	민중	NNG	O
+의지	의지	NNG	O
+당	당	XSN	O
+_	_	_	O
+대표	대표+이	NNG+VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 박근혜 대통령의 탄핵에 따라 2선으로 후퇴하며 몸을 낮췄던 친박(親박근혜)계 인사들이 속속 정치적 활동을 재개하고 있다.
+## <박근혜:PER> 대통령의 탄핵에 따라 <2선:NOH>으로 후퇴하며 몸을 낮췄던 친박(親<박근혜:PER>)계 인사들이 속속 정치적 활동을 재개하고 있다.
+박근혜	박근혜	NNP	B-PER
+_	_	_	O
+대통령	대통령	NNG	O
+의	의	JKG	O
+_	_	_	O
+탄핵	탄핵	NNG	O
+에	에	JKB	O
+_	_	_	O
+따	따르	VV	O
+라	아	EC	O
+_	_	_	O
+2	2	SN	B-NOH
+선	선	NNG	I-NOH
+으로	으로	JKB	O
+_	_	_	O
+후퇴하	후퇴하	VV	O
+며	며	EC	O
+_	_	_	O
+몸	몸	NNG	O
+을	을	JKO	O
+_	_	_	O
+낮	낮추	VV	O
+췄	었	EP	O
+던	던	ETM	O
+_	_	_	O
+친	친	XPN	O
+박	박	NNP	O
+(	(	SS	O
+親	親	SH	O
+박근혜	박근혜	NNP	B-PER
+)	)	SS	O
+계	계	XSN	O
+_	_	_	O
+인사	인사	NNG	O
+들	들	XSN	O
+이	이	JKS	O
+_	_	_	O
+속속	속속	MAG	O
+_	_	_	O
+정치적	정치적	NNG	O
+_	_	_	O
+활동	활동	NNG	O
+을	을	JKO	O
+_	_	_	O
+재개하	재개하	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 수요미식회 간장게장 3대 맛집이 공개됐다.
+## <수요미식회:POH> 간장게장 <3대:NOH> 맛집이 공개됐다.
+수요미식회	수요미식회	NNP	B-POH
+_	_	_	O
+간장	간장	NNG	O
+게장	게장	NNG	O
+_	_	_	O
+3	3	SN	B-NOH
+대	대	NNB	I-NOH
+_	_	_	O
+맛집	맛집	NNG	O
+이	이	JKS	O
+_	_	_	O
+공개	공개되	VV	O
+됐	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 이 땅(1237㎡, 374평)은 2002년 이 후보자의 부인을 거쳐 2011년 차남에게 다시 증여됐다.
+## 이 땅(<1237㎡:NOH>, <374평:NOH>)은 <2002년:DAT> <이:PER> 후보자의 부인을 거쳐 <2011년:DAT> 차남에게 다시 증여됐다.
+이	이	MM	O
+_	_	_	O
+땅	땅	NNG	O
+(	(	SS	O
+1237	1237	SN	B-NOH
+㎡	㎡	SW	I-NOH
+,	,	SP	O
+_	_	_	O
+374	374	SN	B-NOH
+평	평	NNB	I-NOH
+)	)	SS	O
+은	은	JX	O
+_	_	_	O
+2002	2002	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+이	이	NNP	B-PER
+_	_	_	O
+후보자	후보자	NNG	O
+의	의	JKG	O
+_	_	_	O
+부인	부인	NNG	O
+을	을	JKO	O
+_	_	_	O
+거쳐	거치+어	VV+EC	O
+_	_	_	O
+2011	2011	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+차남	차남	NNG	O
+에게	에게	JKB	O
+_	_	_	O
+다시	다시	MAG	O
+_	_	_	O
+증여	증여되	VV	O
+됐	었	EP	O
+다	다	EF	O
+.	.	SF	O
+

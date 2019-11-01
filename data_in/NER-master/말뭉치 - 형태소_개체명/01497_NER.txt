@@ -1,0 +1,574 @@
+## 1
+## 늘어나는 관광객 수에 비해 제주 내 숙박시설은 부족한 실정이다.
+## 늘어나는 관광객 수에 비해 <제주:LOC> 내 숙박시설은 부족한 실정이다.
+늘어나	늘어나	VV	O
+는	는	ETM	O
+_	_	_	O
+관광객	관광객	NNG	O
+_	_	_	O
+수	수	NNG	O
+에	에	JKB	O
+_	_	_	O
+비해	비하+여	VV+EC	O
+_	_	_	O
+제주	제주	NNP	B-LOC
+_	_	_	O
+내	나+의	NP+JKG	O
+_	_	_	O
+숙박	숙박	NNG	O
+시설	시설	NNG	O
+은	은	JX	O
+_	_	_	O
+부족한	부족하+ㄴ	VA+ETM	O
+_	_	_	O
+실정	실정	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 서성건 변호사(56·17기) 손범규 변호사(50·28기) 채명성 변호사(38·36기) 등 4명이 선임계를 냈고 전직 헌법재판관 등 중량감 있는 인사도 참여할 예정이다.
+## <서성건:PER> 변호사(<56:NOH>·<17기:NOH>) <손범규:PER> 변호사(<50:NOH>·<28기:NOH>) <채명성:PER> 변호사(<38:NOH>·<36기:NOH>) 등 <4명:NOH>이 선임계를 냈고 전직 헌법재판관 등 중량감 있는 인사도 참여할 예정이다.
+서성건	서성건	NNP	B-PER
+_	_	_	O
+변호사	변호사	NNG	O
+(	(	SS	O
+56	56	SN	B-NOH
+·	·	SP	O
+17	17	SN	B-NOH
+기	기	NNG	I-NOH
+)	)	SS	O
+_	_	_	O
+손범규	손범규	NNP	B-PER
+_	_	_	O
+변호사	변호사	NNG	O
+(	(	SS	O
+50	50	SN	B-NOH
+·	·	SP	O
+28	28	SN	B-NOH
+기	기	NNG	I-NOH
+)	)	SS	O
+_	_	_	O
+채명성	채명성	NNP	B-PER
+_	_	_	O
+변호사	변호사	NNG	O
+(	(	SS	O
+38	38	SN	B-NOH
+·	·	SP	O
+36	36	SN	B-NOH
+기	기	NNG	I-NOH
+)	)	SS	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+4	4	SN	B-NOH
+명	명	NNB	I-NOH
+이	이	JKS	O
+_	_	_	O
+선임	선임	NNG	O
+계	계	XSN	O
+를	를	JKO	O
+_	_	_	O
+냈	내+었	VV+EP	O
+고	고	EC	O
+_	_	_	O
+전직	전직	NNG	O
+_	_	_	O
+헌법	헌법	NNG	O
+재판관	재판관	NNG	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+중량감	중량감	NNG	O
+_	_	_	O
+있	있	VA	O
+는	는	ETM	O
+_	_	_	O
+인사	인사	NNG	O
+도	도	JX	O
+_	_	_	O
+참여할	참여하+ㄹ	VV+ETM	O
+_	_	_	O
+예정	예정	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 새정치민주연합이 ‘트리플 딜레마’에 빠져 있다.
+## <새정치민주연합:ORG>이 ‘트리플 딜레마’에 빠져 있다.
+새정치민주연합	새정치민주연합	NNP	B-ORG
+이	이	JKS	O
+_	_	_	O
+‘	‘	SS	O
+트리플	트리플	NNG	O
+_	_	_	O
+딜레마	딜레마	NNG	O
+’	’	SS	O
+에	에	JKB	O
+_	_	_	O
+빠져	빠지+어	VV+EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 금강제화는 1일 서울 중구 명동 본점에서 ‘로얄 에디션’ 등 신제품 출시를 기념하는 행사를 가졌다.
+## <금강제화:ORG>는 <1일:DAT> <서울:LOC> <중구:LOC> <명동:LOC> 본점에서 ‘<로얄 에디션:POH>’ 등 신제품 출시를 기념하는 행사를 가졌다.
+금강제화	금강제화	NNP	B-ORG
+는	는	JX	O
+_	_	_	O
+1	1	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+서울	서울	NNP	B-LOC
+_	_	_	O
+중	중	NNG	B-LOC
+구	구	NNG	I-LOC
+_	_	_	O
+명동	명동	NNP	B-LOC
+_	_	_	O
+본점	본점	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+‘	‘	SS	O
+로얄	로얄	NNG	B-POH
+_	_	_	I-POH
+에디션	에디션	NNG	I-POH
+’	’	SS	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+신제품	신제품	NNG	O
+_	_	_	O
+출시	출시	NNG	O
+를	를	JKO	O
+_	_	_	O
+기념하	기념하	VV	O
+는	는	ETM	O
+_	_	_	O
+행사	행사	NNG	O
+를	를	JKO	O
+_	_	_	O
+가	가지	VV	O
+졌	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 그중에서도 터키와 아이슬란드는 국정교과서와 민간 발행 교과서를 혼용하고 있다.
+## 그중에서도 <터키:LOC>와 <아이슬란드:LOC>는 국정교과서와 민간 발행 교과서를 혼용하고 있다.
+그중	그중	NNG	O
+에서	에서	JKB	O
+도	도	JX	O
+_	_	_	O
+터키	터키	NNP	B-LOC
+와	와	JC	O
+_	_	_	O
+아이슬란드	아이슬란드	NNP	B-LOC
+는	는	JX	O
+_	_	_	O
+국정	국정	NNG	O
+교과서	교과서	NNG	O
+와	와	JC	O
+_	_	_	O
+민간	민간	NNG	O
+_	_	_	O
+발행	발행	NNG	O
+_	_	_	O
+교과서	교과서	NNG	O
+를	를	JKO	O
+_	_	_	O
+혼용하	혼용하	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 광복 이후 70년간 한국의 소비자물가는 급격한 변동을 겪었다.
+## <광복:DAT> 이후 <70년간:DUR> <한국:ORG>의 소비자물가는 급격한 변동을 겪었다.
+광복	광복	NNG	B-DAT
+_	_	_	O
+이후	이후	NNG	O
+_	_	_	O
+70	70	SN	B-DUR
+년	년	NNB	I-DUR
+간	간	XSN	I-DUR
+_	_	_	O
+한국	한국	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+소비자	소비자	NNG	O
+물가	물가	NNG	O
+는	는	JX	O
+_	_	_	O
+급격한	급격하+ㄴ	VA+ETM	O
+_	_	_	O
+변동	변동	NNG	O
+을	을	JKO	O
+_	_	_	O
+겪	겪	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 앞서 중앙일보가 지난해 초 진행한 ‘올해의 차’(Car of The Year)에서도 같은 차량을 수상작으로 뽑았다.최근엔 친환경 자동차의 관심이 높아지는 흐름을 감안해 2006년부터 ‘올해의 친환경 차(Green Car of the Year)’ 시상도 등장했다.
+## 앞서 <중앙일보:ORG>가 지난해 초 진행한 ‘<올해의 차:POH>’(<Car of The Year:POH>)에서도 같은 차량을 수상작으로 뽑았다.최근엔 친환경 자동차의 관심이 높아지는 흐름을 감안해 <2006년:DAT>부터 ‘<올해의 친환경 차:POH>(<Green Car of the Year:POH>)’ 시상도 등장했다.
+앞서	앞서	MAG	O
+_	_	_	O
+중앙일보	중앙일보	NNP	B-ORG
+가	가	JKS	O
+_	_	_	O
+지난해	지난해	NNG	O
+_	_	_	O
+초	초	NNB	O
+_	_	_	O
+진행한	진행하+ㄴ	VV+ETM	O
+_	_	_	O
+‘	‘	SS	O
+올해	올해	NNG	B-POH
+의	의	JKG	I-POH
+_	_	_	I-POH
+차	차	NNB	I-POH
+’	’	SS	O
+(	(	SS	O
+Car	Car	SL	B-POH
+_	_	_	I-POH
+of	of	SL	I-POH
+_	_	_	I-POH
+The	The	SL	I-POH
+_	_	_	I-POH
+Year	Year	SL	I-POH
+)	)	SS	O
+에서	에서	JKB	O
+도	도	JX	O
+_	_	_	O
+같	같	VA	O
+은	은	ETM	O
+_	_	_	O
+차량	차량	NNG	O
+을	을	JKO	O
+_	_	_	O
+수상	수상	NNG	O
+작	작	XSN	O
+으로	으로	JKB	O
+_	_	_	O
+뽑	뽑	VV	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+최근	최근	NNG	O
+엔	에+ㄴ	JKB+JX	O
+_	_	_	O
+친환경	친환경	NNG	O
+_	_	_	O
+자동차	자동차	NNG	O
+의	의	JKG	O
+_	_	_	O
+관심	관심	NNG	O
+이	이	JKS	O
+_	_	_	O
+높아지	높아지	VV	O
+는	는	ETM	O
+_	_	_	O
+흐름	흐름	NNG	O
+을	을	JKO	O
+_	_	_	O
+감안해	감안하+여	VV+EC	O
+_	_	_	O
+2006	2006	SN	B-DAT
+년	년	NNB	I-DAT
+부터	부터	JX	O
+_	_	_	O
+‘	‘	SS	O
+올해	올해	NNG	B-POH
+의	의	JKG	I-POH
+_	_	_	I-POH
+친환경	친환경	NNG	I-POH
+_	_	_	I-POH
+차	차	NNB	I-POH
+(	(	SS	O
+Green	Green	SL	B-POH
+_	_	_	I-POH
+Car	Car	SL	I-POH
+_	_	_	I-POH
+of	of	SL	I-POH
+_	_	_	I-POH
+the	the	SL	I-POH
+_	_	_	I-POH
+Year	Year	SL	I-POH
+)	)	SS	O
+’	’	SS	O
+_	_	_	O
+시상	시상	NNG	O
+도	도	JX	O
+_	_	_	O
+등장	등장하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 나렌드라 모디 인도 총리(사진)가 12일 사흘간 이어지는 영국 국빈 방문 일정을 시작했다.
+## <나렌드라 모디:PER> <인도:LOC> 총리(사진)가 <12일:DAT> 사흘간 이어지는 <영국:LOC> 국빈 방문 일정을 시작했다.
+나렌드라	나렌드라	NNP	B-PER
+_	_	_	I-PER
+모디	모디	NNP	I-PER
+_	_	_	O
+인도	인도	NNP	B-LOC
+_	_	_	O
+총리	총리	NNG	O
+(	(	SS	O
+사진	사진	NNG	O
+)	)	SS	O
+가	가	JKS	O
+_	_	_	O
+12	12	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+사흘	사흘	NNG	O
+간	간	XSN	O
+_	_	_	O
+이어지	이어지	VV	O
+는	는	ETM	O
+_	_	_	O
+영국	영국	NNP	B-LOC
+_	_	_	O
+국빈	국빈	NNG	O
+_	_	_	O
+방문	방문	NNG	O
+_	_	_	O
+일정	일정	NNG	O
+을	을	JKO	O
+_	_	_	O
+시작	시작하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 낮 12시30분부터 시작된 이날 행사에는 어린이 환우 70명과 가족들이 참가해 즐거운 시간을 보냈다.
+## <낮 12시30분:TIM>부터 시작된 이날 행사에는 어린이 환우 <70명:NOH>과 가족들이 참가해 즐거운 시간을 보냈다.
+낮	낮	NNG	B-TIM
+_	_	_	I-TIM
+12	12	SN	I-TIM
+시	시	NNB	I-TIM
+30	30	SN	I-TIM
+분	분	NNB	I-TIM
+부터	부터	JX	O
+_	_	_	O
+시작된	시작되+ㄴ	VV+ETM	O
+_	_	_	O
+이날	이날	NNG	O
+_	_	_	O
+행사	행사	NNG	O
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+어린이	어린이	NNG	O
+_	_	_	O
+환우	환우	NNG	O
+_	_	_	O
+70	70	SN	B-NOH
+명	명	NNB	I-NOH
+과	과	JC	O
+_	_	_	O
+가족	가족	NNG	O
+들	들	XSN	O
+이	이	JKS	O
+_	_	_	O
+참가해	참가하+여	VV+EC	O
+_	_	_	O
+즐거	즐겁	VA	O
+운	ㄴ	ETM	O
+_	_	_	O
+시간	시간	NNG	O
+을	을	JKO	O
+_	_	_	O
+보냈	보내+었	VV+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 국내에도 소개된 ‘호밀빵 햄 샌드위치’에서도 작가의 이런 철학을 엿볼 수 있다.
+## 국내에도 소개된 ‘<호밀빵 햄 샌드위치:POH>’에서도 작가의 이런 철학을 엿볼 수 있다.
+국내	국내	NNG	O
+에	에	JKB	O
+도	도	JX	O
+_	_	_	O
+소개된	소개되+ㄴ	VV+ETM	O
+_	_	_	O
+‘	‘	SS	O
+호	호	NNB	B-POH
+밀	밀	NNG	I-POH
+빵	빵	NNG	I-POH
+_	_	_	I-POH
+햄	햄	NNG	I-POH
+_	_	_	I-POH
+샌드위치	샌드위치	NNG	I-POH
+’	’	SS	O
+에서	에서	JKB	O
+도	도	JX	O
+_	_	_	O
+작가	작가	NNG	O
+의	의	JKG	O
+_	_	_	O
+이런	이런	MM	O
+_	_	_	O
+철학	철학	NNG	O
+을	을	JKO	O
+_	_	_	O
+엿볼	엿보+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 부디 박 대통령이 일본의 경험을 살펴봤으면 한다.
+## 부디 <박:PER> 대통령이 <일본:ORG>의 경험을 살펴봤으면 한다.
+부디	부디	MAG	O
+_	_	_	O
+박	박	NNP	B-PER
+_	_	_	O
+대통령	대통령	NNG	O
+이	이	JKS	O
+_	_	_	O
+일본	일본	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+경험	경험	NNG	O
+을	을	JKO	O
+_	_	_	O
+살펴	살펴보	VV	O
+봤	았	EP	O
+으면	으면	EC	O
+_	_	_	O
+한다	하+ㄴ다	VX+EF	O
+.	.	SF	O
+
+## 12
+## 이로서 메시는 4경기 연속 골을 성공시켰다.
+## 이로서 <메시:PER>는 <4경기:NOH> 연속 골을 성공시켰다.
+이	이	NP	O
+로서	로서	JKB	O
+_	_	_	O
+메시	메시	NNP	B-PER
+는	는	JX	O
+_	_	_	O
+4	4	SN	B-NOH
+경기	경기	NNG	I-NOH
+_	_	_	O
+연속	연속	NNG	O
+_	_	_	O
+골	골	NNG	O
+을	을	JKO	O
+_	_	_	O
+성공	성공	NNG	O
+시	시키	XSV	O
+켰	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## 초대형 럭셔리 세단 『EQ900』 출시
+## 초대형 럭셔리 세단 『<EQ900:POH>』 출시
+초대형	초대형	NNG	O
+_	_	_	O
+럭셔리	럭셔리	NNG	O
+_	_	_	O
+세단	세단	NNG	O
+_	_	_	O
+『	『	SS	O
+EQ	EQ	SL	B-POH
+900	900	SN	I-POH
+』	』	SS	O
+_	_	_	O
+출시	출시	NNG	O
+
+## 14
+## NC 나성범이 투수와 타자 양 쪽에 재능을 가지고 있지만 김경문 감독은 타자로 전념하기를 원했습니다.
+## <NC:ORG> <나성범:PER>이 투수와 타자 양 쪽에 재능을 가지고 있지만 <김경문:PER> 감독은 타자로 전념하기를 원했습니다.
+NC	NC	SL	B-ORG
+_	_	_	O
+나성범	나성범	NNP	B-PER
+이	이	JKS	O
+_	_	_	O
+투수	투수	NNG	O
+와	와	JC	O
+_	_	_	O
+타자	타자	NNG	O
+_	_	_	O
+양	양	MM	O
+_	_	_	O
+쪽	쪽	NNB	O
+에	에	JKB	O
+_	_	_	O
+재능	재능	NNG	O
+을	을	JKO	O
+_	_	_	O
+가지	가지	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+지만	지만	EC	O
+_	_	_	O
+김경문	김경문	NNP	B-PER
+_	_	_	O
+감독	감독	NNG	O
+은	은	JX	O
+_	_	_	O
+타자	타자	NNG	O
+로	로	JKB	O
+_	_	_	O
+전념하	전념하	VV	O
+기	기	ETN	O
+를	를	JKO	O
+_	_	_	O
+원	원하	VV	O
+했	였	EP	O
+습니다	습니다	EF	O
+.	.	SF	O
+
+## 15
+## 미 연방수사국(FBI)은 “해킹된 내용에 기밀정보는 없다”며 진화에 나섰다.
+## <미 연방수사국:ORG>(<FBI:ORG>)은 “해킹된 내용에 기밀정보는 없다”며 진화에 나섰다.
+미	미	NNP	B-ORG
+_	_	_	I-ORG
+연방	연방	NNG	I-ORG
+수사	수사	NNG	I-ORG
+국	국	XSN	I-ORG
+(	(	SS	O
+FBI	FBI	SL	B-ORG
+)	)	SS	O
+은	은	JX	O
+_	_	_	O
+“	“	SS	O
+해킹	해킹	NNG	O
+된	되+ㄴ	XSV+ETM	O
+_	_	_	O
+내용	내용	NNG	O
+에	에	JKB	O
+_	_	_	O
+기밀	기밀	NNG	O
+정보	정보	NNG	O
+는	는	JX	O
+_	_	_	O
+없	없	VA	O
+다	다	EF	O
+”	”	SS	O
+며	며	EC	O
+_	_	_	O
+진화	진화	NNG	O
+에	에	JKB	O
+_	_	_	O
+나섰	나서+었	VV+EP	O
+다	다	EF	O
+.	.	SF	O
+

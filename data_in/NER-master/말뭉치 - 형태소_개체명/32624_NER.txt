@@ -1,0 +1,461 @@
+## 1
+## 목포축구센터에서 3경기 모두를 소화한다.
+## <목포축구센터:LOC>에서 <3경기:NOH> 모두를 소화한다.
+목포	목포	NNP	B-LOC
+축구	축구	NNG	I-LOC
+센터	센터	NNG	I-LOC
+에서	에서	JKB	O
+_	_	_	O
+3	3	SN	B-NOH
+경기	경기	NNG	I-NOH
+_	_	_	O
+모두	모두	NNG	O
+를	를	JKO	O
+_	_	_	O
+소화한다	소화하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 2
+## 토성 위성 해저 온천은 지름 약 500㎞ 크기의 엔켈라두스는 표면이 두꺼운 얼음층으로 덮여 있다고 연구팀은 주장했다.
+## 토성 위성 해저 온천은 지름 약 <500㎞:NOH> 크기의 <엔켈라두스:LOC>는 표면이 두꺼운 얼음층으로 덮여 있다고 연구팀은 주장했다.
+토성	토성	NNG	O
+_	_	_	O
+위성	위성	NNG	O
+_	_	_	O
+해저	해저	NNG	O
+_	_	_	O
+온천	온천	NNG	O
+은	은	JX	O
+_	_	_	O
+지름	지름	NNG	O
+_	_	_	O
+약	약	MM	O
+_	_	_	O
+500	500	SN	B-NOH
+㎞	㎞	SW	I-NOH
+_	_	_	O
+크기	크기	NNG	O
+의	의	JKG	O
+_	_	_	O
+엔켈라두스	엔켈라두스	NNG	B-LOC
+는	는	JX	O
+_	_	_	O
+표면	표면	NNG	O
+이	이	JKS	O
+_	_	_	O
+두꺼	두껍	VA	O
+운	ㄴ	ETM	O
+_	_	_	O
+얼음	얼음	NNG	O
+층	층	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+덮	덮이	VV	O
+여	어	EC	O
+_	_	_	O
+있	있	VX	O
+다고	다고	EC	O
+_	_	_	O
+연구	연구	NNG	O
+팀	팀	NNG	O
+은	은	JX	O
+_	_	_	O
+주장	주장하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 앞서 마이너스 금리를 도입한 유럽의 경우도 반드시 효과적이지는 않았다.
+## 앞서 마이너스 금리를 도입한 <유럽:LOC>의 경우도 반드시 효과적이지는 않았다.
+앞서	앞서	MAG	O
+_	_	_	O
+마이너스	마이너스	NNG	O
+_	_	_	O
+금리	금리	NNG	O
+를	를	JKO	O
+_	_	_	O
+도입한	도입하+ㄴ	VV+ETM	O
+_	_	_	O
+유럽	유럽	NNP	B-LOC
+의	의	JKG	O
+_	_	_	O
+경우	경우	NNG	O
+도	도	JX	O
+_	_	_	O
+반드시	반드시	MAG	O
+_	_	_	O
+효과적	효과적	NNG	O
+이	이	VCP	O
+지	지	EC	O
+는	는	JX	O
+_	_	_	O
+않	않	VX	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 공격수 오군지미는 국제축구연맹(FIFA) 1위인 벨기에의 국가대표 출신이다.
+## 공격수 <오군지미:PER>는 <국제축구연맹:ORG>(<FIFA:ORG>) <1위:NOH>인 <벨기에:ORG>의 국가대표 출신이다.
+공격수	공격수	NNG	O
+_	_	_	O
+오군	오군	NNG	B-PER
+지미	지미	NNP	I-PER
+는	는	JX	O
+_	_	_	O
+국제축구연맹	국제축구연맹	NNP	B-ORG
+(	(	SS	O
+FIFA	FIFA	SL	B-ORG
+)	)	SS	O
+_	_	_	O
+1	1	SN	B-NOH
+위	위	NNB	I-NOH
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+벨기에	벨기에	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+국가	국가	NNG	O
+대표	대표	NNG	O
+_	_	_	O
+출신	출신	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 전반 25분 프리킥 상황에서 히로시마 지바 가쓰히코에게 헤딩슛으로 골을 허용했다.
+## <전반 25분:TIM> 프리킥 상황에서 <히로시마:ORG> <지바 가쓰히코:PER>에게 헤딩슛으로 골을 허용했다.
+전반	전반	NNG	B-TIM
+_	_	_	I-TIM
+25	25	SN	I-TIM
+분	분	NNB	I-TIM
+_	_	_	O
+프리킥	프리킥	NNG	O
+_	_	_	O
+상황	상황	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+히로시마	히로시마	NNP	B-ORG
+_	_	_	O
+지바	지바	NNP	B-PER
+_	_	_	I-PER
+가쓰	가쓰	NNP	I-PER
+히코	히코	NNP	I-PER
+에게	에게	JKB	O
+_	_	_	O
+헤딩슛	헤딩슛	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+골	골	NNG	O
+을	을	JKO	O
+_	_	_	O
+허용	허용하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 이중 이휘재는 물고기에 부쩍 관심이 생긴 쌍둥이를 위해 수산시장 나들이 했다.
+## 이중 <이휘재:PER>는 물고기에 부쩍 관심이 생긴 쌍둥이를 위해 수산시장 나들이 했다.
+이	이	MM	O
+중	중	NNB	O
+_	_	_	O
+이휘재	이휘재	NNP	B-PER
+는	는	JX	O
+_	_	_	O
+물고기	물고기	NNG	O
+에	에	JKB	O
+_	_	_	O
+부쩍	부쩍	MAG	O
+_	_	_	O
+관심	관심	NNG	O
+이	이	JKS	O
+_	_	_	O
+생긴	생기+ㄴ	VV+ETM	O
+_	_	_	O
+쌍둥이	쌍둥이	NNG	O
+를	를	JKO	O
+_	_	_	O
+위해	위하+여	VV+EC	O
+_	_	_	O
+수산	수산	NNG	O
+시장	시장	NNG	O
+_	_	_	O
+나들이	나들이	NNG	O
+_	_	_	O
+했	+였	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 그러나 송호정 한국교원대 역사교육과 교수는 이날 대회에서 “하가점하층 문화는 채색토기나 나무 판재로 무덤곽을 짜서 매장하는 등 비교적 중원문화와 유사성을 보이며, 지석묘나 석관묘를 주로 만든 예맥족의 문화나 한반도 지역의 문화와는 다른 특성을 보인다”고 말했다.
+## 그러나 <송호정:PER> <한국교원대 역사교육과:ORG> 교수는 이날 대회에서 “<하가점하층 문화:POH>는 채색토기나 나무 판재로 무덤곽을 짜서 매장하는 등 비교적 중원문화와 유사성을 보이며, 지석묘나 석관묘를 주로 만든 예맥족의 문화나 <한반도:LOC> 지역의 문화와는 다른 특성을 보인다”고 말했다.
+그러나	그러나	MAJ	O
+_	_	_	O
+송	송	NNP	B-PER
+호정	호정	NNP	I-PER
+_	_	_	O
+한국교원대	한국교원대	NNP	B-ORG
+_	_	_	I-ORG
+역사	역사	NNG	I-ORG
+교육	교육	NNG	I-ORG
+과	과	NNG	I-ORG
+_	_	_	O
+교수	교수	NNG	O
+는	는	JX	O
+_	_	_	O
+이날	이날	NNG	O
+_	_	_	O
+대회	대회	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+“	“	SS	O
+하가	하가	NNG	B-POH
+점	점	NNB	I-POH
+하층	하층	NNG	I-POH
+_	_	_	I-POH
+문화	문화	NNG	I-POH
+는	는	JX	O
+_	_	_	O
+채색	채색	NNG	O
+토기	토기	NNG	O
+나	나	JC	O
+_	_	_	O
+나무	나무	NNG	O
+_	_	_	O
+판재	판재	NNG	O
+로	로	JKB	O
+_	_	_	O
+무덤곽	무덤곽	NNG	O
+을	을	JKO	O
+_	_	_	O
+짜서	짜+아서	VV+EC	O
+_	_	_	O
+매장하	매장하	VV	O
+는	는	ETM	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+비교적	비교적	NNG	O
+_	_	_	O
+중원	중원	NNP	O
+문화	문화	NNG	O
+와	와	JC	O
+_	_	_	O
+유사성	유사성	NNG	O
+을	을	JKO	O
+_	_	_	O
+보이	보이	VV	O
+며	며	EC	O
+,	,	SP	O
+_	_	_	O
+지석묘	지석묘	NNG	O
+나	나	JC	O
+_	_	_	O
+석관묘	석관묘	NNG	O
+를	를	JKO	O
+_	_	_	O
+주로	주로	MAG	O
+_	_	_	O
+만든	만들+ㄴ	VV+ETM	O
+_	_	_	O
+예맥족	예맥족	NNP	O
+의	의	JKG	O
+_	_	_	O
+문화	문화	NNG	O
+나	나	JC	O
+_	_	_	O
+한반도	한반도	NNP	B-LOC
+_	_	_	O
+지역	지역	NNG	O
+의	의	JKG	O
+_	_	_	O
+문화	문화	NNG	O
+와	와	JKB	O
+는	는	JX	O
+_	_	_	O
+다른	다르+ㄴ	VA+ETM	O
+_	_	_	O
+특성	특성	NNG	O
+을	을	JKO	O
+_	_	_	O
+보인다	보이+ㄴ다	VV+EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+말	말하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 최 건축가는 “사람은 자신의 기억으로 미래를 만든다”고 강조했다.
+## <최:PER> 건축가는 “사람은 자신의 기억으로 미래를 만든다”고 강조했다.
+최	최	NNP	B-PER
+_	_	_	O
+건축가	건축가	NNG	O
+는	는	JX	O
+_	_	_	O
+“	“	SS	O
+사람	사람	NNG	O
+은	은	JX	O
+_	_	_	O
+자신	자신	NNG	O
+의	의	JKG	O
+_	_	_	O
+기억	기억	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+미래	미래	NNG	O
+를	를	JKO	O
+_	_	_	O
+만든다	만들+ㄴ다	VV+EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+강조	강조하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## [사진 각 회사]사진 5 메르세데스-벤츠가 선보인 전기차. 차고 바닥에 설치한 무선충전 장치 위에 주차하면 충전이 된다.
+## [사진 각 회사]<사진 5:NOH> <메르세데스-벤츠:ORG>가 선보인 전기차. 차고 바닥에 설치한 무선충전 장치 위에 주차하면 충전이 된다.
+[	[	SS	O
+사진	사진	NNG	O
+_	_	_	O
+각	각	MM	O
+_	_	_	O
+회사	회사	NNG	O
+]	]	SS	O
+사진	사진	NNG	B-NOH
+_	_	_	I-NOH
+5	5	SN	I-NOH
+_	_	_	O
+메르세데스	메르세데스	NNP	B-ORG
+-	-	SO	I-ORG
+벤츠	벤츠	NNP	I-ORG
+가	가	JKS	O
+_	_	_	O
+선보인	선보이+ㄴ	VV+ETM	O
+_	_	_	O
+전기	전기	NNG	O
+차	차	NNG	O
+.	.	SF	O
+_	_	_	O
+차	차	VA	O
+고	고	EC	O
+_	_	_	O
+바닥	바닥	NNG	O
+에	에	JKB	O
+_	_	_	O
+설치한	설치하+ㄴ	VV+ETM	O
+_	_	_	O
+무선	무선	NNG	O
+충전	충전	NNG	O
+_	_	_	O
+장치	장치	NNG	O
+_	_	_	O
+위	위	NNG	O
+에	에	JKB	O
+_	_	_	O
+주차하	주차하	VV	O
+면	면	EC	O
+_	_	_	O
+충전	충전	NNG	O
+이	이	JKC	O
+_	_	_	O
+된다	되+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 10
+## 하지만 A 씨의 혈액과 소변이 국립보건연구원에 도착한 것은 사흘이나 지난 26일이었다.
+## 하지만 <A:PER> 씨의 혈액과 소변이 <국립보건연구원:ORG>에 도착한 것은 사흘이나 지난 <26일:DAT>이었다.
+하지만	하지만	MAJ	O
+_	_	_	O
+A	A	SL	B-PER
+_	_	_	O
+씨	씨	NNB	O
+의	의	JKG	O
+_	_	_	O
+혈액	혈액	NNG	O
+과	과	JC	O
+_	_	_	O
+소변	소변	NNG	O
+이	이	JKS	O
+_	_	_	O
+국립	국립	NNG	B-ORG
+보건	보건	NNG	I-ORG
+연구원	연구원	NNG	I-ORG
+에	에	JKB	O
+_	_	_	O
+도착한	도착하+ㄴ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+은	은	JX	O
+_	_	_	O
+사흘	사흘	NNG	O
+이나	이나	JX	O
+_	_	_	O
+지난	지나+ㄴ	VV+ETM	O
+_	_	_	O
+26	26	SN	B-DAT
+일	일	NNB	I-DAT
+이	이	VCP	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 선두주자는 「아이후루 홈 테크놀로지」.
+## 선두주자는 「<아이후루 홈 테크놀로지:ORG>」.
+선두	선두	NNG	O
+주자	주자	NNG	O
+는	는	JX	O
+_	_	_	O
+「	「	SS	O
+아이	아이	NNG	B-ORG
+후	후	NNG	I-ORG
+루	루	JKB	I-ORG
+_	_	_	I-ORG
+홈	홈	NNG	I-ORG
+_	_	_	I-ORG
+테크놀로지	테크놀로지	NNG	I-ORG
+」	」	SS	O
+.	.	SF	O
+
+## 12
+## “김성규, 목소리가 너무 좋네요, 잘 됐으면” 등의 반응을 보였다.
+## “<김성규:PER>, 목소리가 너무 좋네요, 잘 됐으면” 등의 반응을 보였다.
+“	“	SS	O
+김성규	김성규	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+목소리	목소리	NNG	O
+가	가	JKS	O
+_	_	_	O
+너무	너무	MAG	O
+_	_	_	O
+좋	좋	VA	O
+네요	네요	EC	O
+,	,	SP	O
+_	_	_	O
+잘	잘	MAG	O
+_	_	_	O
+됐	+었	+EP	O
+으면	으면	EF	O
+”	”	SS	O
+_	_	_	O
+등	등	NNB	O
+의	의	JKG	O
+_	_	_	O
+반응	반응	NNG	O
+을	을	JKO	O
+_	_	_	O
+보	보이	VV	O
+였	었	EP	O
+다	다	EF	O
+.	.	SF	O
+

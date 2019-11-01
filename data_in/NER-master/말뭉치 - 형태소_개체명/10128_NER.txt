@@ -1,0 +1,559 @@
+## 1
+## 핵을 포기하지 않겠다는 선언으로 이번 당대회에서 ‘북한=핵보유국’을 기정사실화하겠다는 의도다.
+## 핵을 포기하지 않겠다는 선언으로 이번 당대회에서 ‘<북한:ORG>=핵보유국’을 기정사실화하겠다는 의도다.
+핵	핵	NNG	O
+을	을	JKO	O
+_	_	_	O
+포기하	포기하	VV	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+겠	겠	EP	O
+다는	다는	ETM	O
+_	_	_	O
+선언	선언	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+이번	이번	NNG	O
+_	_	_	O
+당대회	당대회	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+‘	‘	SS	O
+북한	북한	NNP	B-ORG
+=	=	SW	O
+핵보유국	핵보유국	NNG	O
+’	’	SS	O
+을	을	JKO	O
+_	_	_	O
+기정사실화하	기정사실화하	VV	O
+겠	겠	EP	O
+다는	다는	ETM	O
+_	_	_	O
+의도	의도+이	NNG+VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 또 김정은은 “국제사회 앞에 지닌 핵 전파 방지 의무를 성실히 리행(이행)하고 세계의 비핵화를 실현하기 위하여 노력할 것”이라고 말했다.
+## 또 <김정은:PER>은 “국제사회 앞에 지닌 핵 전파 방지 의무를 성실히 리행(이행)하고 세계의 비핵화를 실현하기 위하여 노력할 것”이라고 말했다.
+또	또	MAG	O
+_	_	_	O
+김정은	김정은	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+“	“	SS	O
+국제	국제	NNG	O
+사회	사회	NNG	O
+_	_	_	O
+앞	앞	NNG	O
+에	에	JKB	O
+_	_	_	O
+지닌	지니+ㄴ	VV+ETM	O
+_	_	_	O
+핵	핵	NNG	O
+_	_	_	O
+전파	전파	NNG	O
+_	_	_	O
+방지	방지	NNG	O
+_	_	_	O
+의무	의무	NNG	O
+를	를	JKO	O
+_	_	_	O
+성실히	성실히	MAG	O
+_	_	_	O
+리행	리행	NNG	O
+(	(	SS	O
+이행	이행	NNG	O
+)	)	SS	O
+하	하	VV	O
+고	고	EC	O
+_	_	_	O
+세계	세계	NNG	O
+의	의	JKG	O
+_	_	_	O
+비	비	XPN	O
+핵	핵	NNG	O
+화	화	XSN	O
+를	를	JKO	O
+_	_	_	O
+실현하	실현하	VV	O
+기	기	ETN	O
+_	_	_	O
+위하	위하	VV	O
+여	여	EC	O
+_	_	_	O
+노력할	노력하+ㄹ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+”	”	SS	O
+이라고	이라고	JKQ	O
+_	_	_	O
+말	말하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 인천연고구단 전체로 확대하면 1998∼1999시즌 대우 제우스와 타이기록이다.
+## <인천:ORG>연고구단 전체로 확대하면 <1998∼1999시즌:NOH> <대우 제우스:ORG>와 타이기록이다.
+인천	인천	NNP	B-ORG
+연고	연고	NNG	O
+구단	구단	NNG	O
+_	_	_	O
+전체	전체	NNG	O
+로	로	JKB	O
+_	_	_	O
+확대하	확대하	VV	O
+면	면	EC	O
+_	_	_	O
+1998	1998	SN	B-NOH
+∼	∼	SO	I-NOH
+1999	1999	SN	I-NOH
+시즌	시즌	NNG	I-NOH
+_	_	_	O
+대우	대우	NNP	B-ORG
+_	_	_	I-ORG
+제우스	제우스	NNG	I-ORG
+와	와	JC	O
+_	_	_	O
+타이기록	타이기록	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 구소련의 제1적대국은 두말할 것 없이 미국이었다.
+## <구소련:ORG>의 <제1적대국:NOH>은 두말할 것 없이 <미국:ORG>이었다.
+구소련	구소련	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+제	제	XPN	B-NOH
+1	1	SN	I-NOH
+적대국	적대국	NNG	I-NOH
+은	은	JX	O
+_	_	_	O
+두말할	두말하+ㄹ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+_	_	_	O
+없이	없이	MAG	O
+_	_	_	O
+미국	미국	NNP	B-ORG
+이	이	VCP	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 이승준은 최근 KBS 2TV '태양의 후예'에 송 닥터 역으로 등장하며 유명세를 떨친 배우,26년 만에 만나 반가워하는 유재석과 달리, 이승준은 어색한 듯이 유재석을 대했다.
+## <이승준:PER>은 최근 <KBS 2TV:POH> '<태양의 후예:POH>'에 <송:PER> 닥터 역으로 등장하며 유명세를 떨친 배우,<26년:NOH> 만에 만나 반가워하는 <유재석:PER>과 달리, <이승준:PER>은 어색한 듯이 <유재석:PER>을 대했다.
+이승준	이승준	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+최근	최근	NNG	O
+_	_	_	O
+KBS	KBS	SL	B-POH
+_	_	_	I-POH
+2	2	SN	I-POH
+TV	TV	SL	I-POH
+_	_	_	O
+'	'	SS	O
+태양	태양	NNG	B-POH
+의	의	JKG	I-POH
+_	_	_	I-POH
+후예	후예	NNG	I-POH
+'	'	SS	O
+에	에	JKB	O
+_	_	_	O
+송	송	NNP	B-PER
+_	_	_	O
+닥터	닥터	NNG	O
+_	_	_	O
+역	역	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+등장하	등장하	VV	O
+며	며	EC	O
+_	_	_	O
+유명세	유명세	NNG	O
+를	를	JKO	O
+_	_	_	O
+떨친	떨치+ㄴ	VV+ETM	O
+_	_	_	O
+배우	배우	NNG	O
+,	,	SP	O
+26	26	SN	B-NOH
+년	년	NNB	I-NOH
+_	_	_	O
+만	만	NNB	O
+에	에	JKB	O
+_	_	_	O
+만나	만나+아	VV+EC	O
+_	_	_	O
+반가	반갑	VA	O
+워	아	EC	O
+하	하	VV	O
+는	는	ETM	O
+_	_	_	O
+유재석	유재석	NNP	B-PER
+과	과	JKB	O
+_	_	_	O
+달리	달리	MAG	O
+,	,	SP	O
+_	_	_	O
+이승준	이승준	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+어색한	어색하+ㄴ	VA+ETM	O
+_	_	_	O
+듯이	듯이	NNB	O
+_	_	_	O
+유재석	유재석	NNP	B-PER
+을	을	JKO	O
+_	_	_	O
+대	대하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 새누리당은 국회선진화법 개정을 ‘정치 공약 1호’로 내걸었다.
+## <새누리당:ORG>은 <국회선진화법:POH> 개정을 ‘정치 공약 <1호:NOH>’로 내걸었다.
+새누리당	새누리당	NNP	B-ORG
+은	은	JX	O
+_	_	_	O
+국회	국회	NNG	B-POH
+선진화	선진화	NNG	I-POH
+법	법	NNG	I-POH
+_	_	_	O
+개정	개정	NNG	O
+을	을	JKO	O
+_	_	_	O
+‘	‘	SS	O
+정치	정치	NNG	O
+_	_	_	O
+공약	공약	NNG	O
+_	_	_	O
+1	1	SN	B-NOH
+호	호	NNB	I-NOH
+’	’	SS	O
+로	로	JKB	O
+_	_	_	O
+내걸	내걸	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 결국 법대로 한다면 신 전 대법관은 법무법인 광장에서 변호사로 활동할 수 있게 된다.
+## 결국 법대로 한다면 <신:PER> 전 대법관은 법무법인 <광장:ORG>에서 변호사로 활동할 수 있게 된다.
+결국	결국	NNG	O
+_	_	_	O
+법	법	NNG	O
+대로	대로	JX	O
+_	_	_	O
+한다면	하+ㄴ다면	VV+EC	O
+_	_	_	O
+신	신	NNP	B-PER
+_	_	_	O
+전	전	MM	O
+_	_	_	O
+대법관	대법관	NNG	O
+은	은	JX	O
+_	_	_	O
+법무	법무	NNG	O
+법인	법인	NNG	O
+_	_	_	O
+광장	광장	NNG	B-ORG
+에서	에서	JKB	O
+_	_	_	O
+변호사	변호사	NNG	O
+로	로	JKB	O
+_	_	_	O
+활동할	활동하+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+게	게	EC	O
+_	_	_	O
+된다	되+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 8
+## 이승만은 환은을 해체키로 결심했다.
+## <이승만:PER>은 <환은:ORG>을 해체키로 결심했다.
+이승만	이승만	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+환은	환은	NNG	B-ORG
+을	을	JKO	O
+_	_	_	O
+해체	해체하	VV	O
+키	기	ETN	O
+로	로	JKB	O
+_	_	_	O
+결심	결심하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 애타던 득점포가 터지지 않아 답답하던 흐름을 바꾼 것은 마타였다.
+## 애타던 득점포가 터지지 않아 답답하던 흐름을 바꾼 것은 <마타:PER>였다.
+애타	애타	VV	O
+던	던	ETM	O
+_	_	_	O
+득점포	득점포	NNG	O
+가	가	JKS	O
+_	_	_	O
+터지	터지	VV	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+아	아	EC	O
+_	_	_	O
+답답하	답답하	VA	O
+던	던	ETM	O
+_	_	_	O
+흐름	흐름	NNG	O
+을	을	JKO	O
+_	_	_	O
+바꾼	바꾸+ㄴ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+은	은	JX	O
+_	_	_	O
+마타	마타+이	NNP+VCP	B-PER
+였	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 이날 오후 2시40분쯤 북방1터널(강원도 홍천군 성동리)에선 스포츠유틸리티차량(SUV)이 갑자기 좌우로 왔다 갔다 하는 위험천만한 모습이 포착됐다.
+## 이날 <오후 2시40분:TIM>쯤 <북방1터널:LOC>(<강원도 홍천군 성동리:LOC>)에선 스포츠유틸리티차량(SUV)이 갑자기 좌우로 왔다 갔다 하는 위험천만한 모습이 포착됐다.
+이날	이날	NNG	O
+_	_	_	O
+오후	오후	NNG	B-TIM
+_	_	_	I-TIM
+2	2	SN	I-TIM
+시	시	NNB	I-TIM
+40	40	SN	I-TIM
+분	분	NNB	I-TIM
+쯤	쯤	XSN	O
+_	_	_	O
+북방	북방	NNG	B-LOC
+1	1	SN	I-LOC
+터널	터널	NNG	I-LOC
+(	(	SS	O
+강원도	강원도	NNP	B-LOC
+_	_	_	I-LOC
+홍천군	홍천군	NNP	I-LOC
+_	_	_	I-LOC
+성동리	성동리	NNP	I-LOC
+)	)	SS	O
+에선	에서+ㄴ	JKB+JX	O
+_	_	_	O
+스포츠	스포츠	NNG	O
+유틸리티	유틸리티	NNG	O
+차량	차량	NNG	O
+(	(	SS	O
+SUV	SUV	SL	O
+)	)	SS	O
+이	이	JKS	O
+_	_	_	O
+갑자기	갑자기	MAG	O
+_	_	_	O
+좌우	좌우	NNG	O
+로	로	JKB	O
+_	_	_	O
+왔	+았	+EP	O
+다	다	EC	O
+_	_	_	O
+갔	가+았	VV+EP	O
+다	다	EC	O
+_	_	_	O
+하	하	VV	O
+는	는	ETM	O
+_	_	_	O
+위험천만한	위험천만하+ㄴ	VA+ETM	O
+_	_	_	O
+모습	모습	NNG	O
+이	이	JKS	O
+_	_	_	O
+포착	포착되	VV	O
+됐	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 좁게는 문혁 이전 국장(局長)급 이상 고위 간부의 자제들을 홍이대라 부른다.
+## 좁게는 <문혁:PER> 이전 국장(局長)급 이상 고위 간부의 자제들을 <홍이대:ORG>라 부른다.
+좁	좁	VA	O
+게는	게는	EC	O
+_	_	_	O
+문혁	문혁	NNG	B-PER
+_	_	_	O
+이전	이전	NNG	O
+_	_	_	O
+국장	국장	NNG	O
+(	(	SS	O
+局長	局長	SH	O
+)	)	SS	O
+급	급	NNG	O
+_	_	_	O
+이상	이상	NNG	O
+_	_	_	O
+고위	고위	NNG	O
+_	_	_	O
+간부	간부	NNG	O
+의	의	JKG	O
+_	_	_	O
+자제	자제	NNG	O
+들	들	XSN	O
+을	을	JKO	O
+_	_	_	O
+홍이	홍이	NNP	B-ORG
+대	대	VV	I-ORG
+라	라	EC	O
+_	_	_	O
+부른다	부르+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 12
+## 김 후보는 테이블에 있는 물을 마셨고 홍 후보는 말없이 다른 곳을 응시했다.
+## <김:PER> 후보는 테이블에 있는 물을 마셨고 <홍:PER> 후보는 말없이 다른 곳을 응시했다.
+김	김	NNP	B-PER
+_	_	_	O
+후보	후보	NNG	O
+는	는	JX	O
+_	_	_	O
+테이블	테이블	NNG	O
+에	에	JKB	O
+_	_	_	O
+있	있	VA	O
+는	는	ETM	O
+_	_	_	O
+물	물	NNG	O
+을	을	JKO	O
+_	_	_	O
+마	마시	VV	O
+셨	었	EP	O
+고	고	EC	O
+_	_	_	O
+홍	홍	NNP	B-PER
+_	_	_	O
+후보	후보	NNG	O
+는	는	JX	O
+_	_	_	O
+말없이	말없이	MAG	O
+_	_	_	O
+다른	다른	MM	O
+_	_	_	O
+곳	곳	NNG	O
+을	을	JKO	O
+_	_	_	O
+응시	응시하	VV	O
+했	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## 혼잣말 자제력 향상 도움, "○○아, 할 수 있어" 2인칭 혼잣말 효과상승↑
+## 혼잣말 자제력 향상 도움, "○○아, 할 수 있어" <2인칭:NOH> 혼잣말 효과상승↑
+혼잣말	혼잣말	NNG	O
+_	_	_	O
+자제력	자제력	NNG	O
+_	_	_	O
+향상	향상	NNG	O
+_	_	_	O
+도움	도움	NNG	O
+,	,	SP	O
+_	_	_	O
+"	"	SS	O
+○	○	SW	O
+○	○	SW	O
+아	아	JKV	O
+,	,	SP	O
+_	_	_	O
+할	하+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+어	어	EF	O
+"	"	SS	O
+_	_	_	O
+2	2	SN	B-NOH
+인칭	인칭	NNG	I-NOH
+_	_	_	O
+혼잣말	혼잣말	NNG	O
+_	_	_	O
+효과	효과	NNG	O
+상승	상승	NNG	O
+↑	↑	SW	O
+
+## 14
+## 다만 삼성과 LG 등 국내 IT 기업들은 아직 스마트카 분야에서 갈 길이 멀다.
+## 다만 <삼성:ORG>과 <LG:ORG> 등 국내 IT 기업들은 아직 스마트카 분야에서 갈 길이 멀다.
+다만	다만	MAG	O
+_	_	_	O
+삼성	삼성	NNP	B-ORG
+과	과	JC	O
+_	_	_	O
+LG	LG	SL	B-ORG
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+국내	국내	NNG	O
+_	_	_	O
+IT	IT	SL	O
+_	_	_	O
+기업	기업	NNG	O
+들	들	XSN	O
+은	은	JX	O
+_	_	_	O
+아직	아직	MAG	O
+_	_	_	O
+스마트	스마트	NNG	O
+카	카	NNG	O
+_	_	_	O
+분야	분야	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+갈	가+ㄹ	VV+ETM	O
+_	_	_	O
+길	길	NNG	O
+이	이	JKS	O
+_	_	_	O
+멀	멀	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 15
+## 같은 대한민국 국적인 현대차가 애플과 구글을 선택할 정도다.
+## 같은 <대한민국:ORG> 국적인 <현대차:ORG>가 <애플:ORG>과 <구글:ORG>을 선택할 정도다.
+같	같	VA	O
+은	은	ETM	O
+_	_	_	O
+대한민국	대한민국	NNP	B-ORG
+_	_	_	O
+국적	국적	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+현대차	현대차	NNP	B-ORG
+가	가	JKS	O
+_	_	_	O
+애플	애플	NNP	B-ORG
+과	과	JC	O
+_	_	_	O
+구글	구글	NNG	B-ORG
+을	을	JKO	O
+_	_	_	O
+선택할	선택하+ㄹ	VV+ETM	O
+_	_	_	O
+정도	정도+이	NNG+VCP	O
+다	다	EF	O
+.	.	SF	O
+

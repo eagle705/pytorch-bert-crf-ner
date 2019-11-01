@@ -1,0 +1,569 @@
+## 1
+## 국방부 일각에서는 최근 상록수부대의 조기철수 주장이 꾸준히 제기돼 왔었다.
+## <국방부:ORG> 일각에서는 최근 <상록수부대:ORG>의 조기철수 주장이 꾸준히 제기돼 왔었다.
+국방부	국방부	NNG	B-ORG
+_	_	_	O
+일각	일각	NNG	O
+에서	에서	JKB	O
+는	는	JX	O
+_	_	_	O
+최근	최근	NNG	O
+_	_	_	O
+상록수부대	상록수부대	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+조기	조기	NNG	O
+철수	철수	NNG	O
+_	_	_	O
+주장	주장	NNG	O
+이	이	JKS	O
+_	_	_	O
+꾸준히	꾸준히	MAG	O
+_	_	_	O
+제기돼	제기되+어	VV+EC	O
+_	_	_	O
+왔었	+았었	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 요금은 4천9백원.
+## 요금은 <4천9백원:MNY>.
+요금	요금	NNG	O
+은	은	JX	O
+_	_	_	O
+4	4	SN	B-MNY
+천	천	NR	I-MNY
+9	9	SN	I-MNY
+백	백	NR	I-MNY
+원	원	NNB	I-MNY
+.	.	SF	O
+
+## 3
+## 하지만 ‘중국인 인기 관광 코스’가 된 이화여대 앞 노점들은 내년이면 철거될 운명에 처해 있다.
+## 하지만 ‘중국인 인기 관광 코스’가 된 <이화여대:LOC> 앞 노점들은 내년이면 철거될 운명에 처해 있다.
+하지만	하지만	MAJ	O
+_	_	_	O
+‘	‘	SS	O
+중국인	중국인	NNG	O
+_	_	_	O
+인기	인기	NNG	O
+_	_	_	O
+관광	관광	NNG	O
+_	_	_	O
+코스	코스	NNG	O
+’	’	SS	O
+가	가	JKC	O
+_	_	_	O
+된	되+ㄴ	VV+ETM	O
+_	_	_	O
+이화여대	이화여대	NNP	B-LOC
+_	_	_	O
+앞	앞	NNG	O
+_	_	_	O
+노점	노점	NNG	O
+들	들	XSN	O
+은	은	JX	O
+_	_	_	O
+내년	내년	NNG	O
+이	이	VCP	O
+면	면	EC	O
+_	_	_	O
+철거될	철거되+ㄹ	VV+ETM	O
+_	_	_	O
+운명	운명	NNG	O
+에	에	JKB	O
+_	_	_	O
+처해	처하+여	VV+EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## [포토]BMW, 6세대 뉴 7시리즈 ‘뒷자리에 앉아보니 여유로운 미소…’
+## [포토]<BMW:ORG>, <6세대:NOH> <뉴 7시리즈:NOH> ‘뒷자리에 앉아보니 여유로운 <미소:PER>…’
+[	[	SS	O
+포토	포토	NNG	O
+]	]	SS	O
+BMW	BMW	SL	B-ORG
+,	,	SP	O
+_	_	_	O
+6	6	SN	B-NOH
+세대	세대	NNG	I-NOH
+_	_	_	O
+뉴	뉴	NNG	B-NOH
+_	_	_	I-NOH
+7	7	SN	I-NOH
+시리즈	시리즈	NNG	I-NOH
+_	_	_	O
+‘	‘	SS	O
+뒷자리	뒷자리	NNG	O
+에	에	JKB	O
+_	_	_	O
+앉	앉	VV	O
+아	아	EC	O
+보	보	VX	O
+니	니	EC	O
+_	_	_	O
+여유로	여유롭	VA	O
+운	ㄴ	ETM	O
+_	_	_	O
+미소	미소	NNG	B-PER
+…	…	SE	O
+’	’	SS	O
+
+## 5
+## SK텔레콤이 T맵을 통해 동부화재와 개발한 UBI상품이 금융감독원 승인을 앞두고 있다.
+## <SK텔레콤:ORG>이 <T맵:POH>을 통해 <동부화재:ORG>와 개발한 UBI상품이 <금융감독원:ORG> 승인을 앞두고 있다.
+SK	SK	SL	B-ORG
+텔레콤	텔레콤	NNG	I-ORG
+이	이	JKS	O
+_	_	_	O
+T	T	SL	B-POH
+맵	맵	NNG	I-POH
+을	을	JKO	O
+_	_	_	O
+통해	통하+여	VV+EC	O
+_	_	_	O
+동부화재	동부화재	NNP	B-ORG
+와	와	JC	O
+_	_	_	O
+개발한	개발하+ㄴ	VV+ETM	O
+_	_	_	O
+UBI	UBI	SL	O
+상품	상품	NNG	O
+이	이	JKS	O
+_	_	_	O
+금융감독원	금융감독원	NNG	B-ORG
+_	_	_	O
+승인	승인	NNG	O
+을	을	JKO	O
+_	_	_	O
+앞두	앞두	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## LG전자, ‘LG V20’ 출하가 89만9800원 확정…29일 이통3사 통해 출시
+## <LG전자:ORG>, ‘<LG:ORG> <V20:POH>’ 출하가 <89만9800원:MNY> 확정…<29일:DAT> 이통<3사:NOH> 통해 출시
+LG	LG	SL	B-ORG
+전자	전자	NNG	I-ORG
+,	,	SP	O
+_	_	_	O
+‘	‘	SS	O
+LG	LG	SL	B-ORG
+_	_	_	O
+V	V	SL	B-POH
+20	20	SN	I-POH
+’	’	SS	O
+_	_	_	O
+출하	출하	NNG	O
+가	가	JKS	O
+_	_	_	O
+89	89	SN	B-MNY
+만	만	NR	I-MNY
+9800	9800	SN	I-MNY
+원	원	NNB	I-MNY
+_	_	_	O
+확정	확정	NNG	O
+…	…	SE	O
+29	29	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+이통	이통	NNG	O
+3	3	SN	B-NOH
+사	사	NNG	I-NOH
+_	_	_	O
+통해	통하+여	VV+EC	O
+_	_	_	O
+출시	출시	NNG	O
+
+## 7
+## 이닝당 출루허용수도 1.04로 수준급이다.
+## 이닝당 출루허용수도 <1.04:NOH>로 수준급이다.
+이닝	이닝	NNG	O
+당	당	XSN	O
+_	_	_	O
+출루	출루	NNG	O
+허용수	허용수	NNP	O
+도	도	JX	O
+_	_	_	O
+1.04	1.04	SN	B-NOH
+로	로	JKB	O
+_	_	_	O
+수준급	수준급	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 김씨가 평양산원에서 먹은 음식은 칠색송어탕, 칠색송어찜, 칠색송어기름구이 등 송어요리와 꿀을 비롯한 보약 등이다.
+## <김:PER>씨가 <평양산원:LOC>에서 먹은 음식은 칠색송어탕, 칠색송어찜, 칠색송어기름구이 등 송어요리와 꿀을 비롯한 보약 등이다.
+김	김	NNP	B-PER
+씨	씨	NNB	O
+가	가	JKS	O
+_	_	_	O
+평양산원	평양산원	NNP	B-LOC
+에서	에서	JKB	O
+_	_	_	O
+먹	먹	VV	O
+은	은	ETM	O
+_	_	_	O
+음식	음식	NNG	O
+은	은	JX	O
+_	_	_	O
+칠색송어	칠색송어	NNG	O
+탕	탕	XSN	O
+,	,	SP	O
+_	_	_	O
+칠색송어	칠색송어	NNG	O
+찜	찜	NNG	O
+,	,	SP	O
+_	_	_	O
+칠색송어	칠색송어	NNG	O
+기름구이	기름구이	NNG	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+송어	송어	NNG	O
+요리	요리	NNG	O
+와	와	JC	O
+_	_	_	O
+꿀	꿀	NNG	O
+을	을	JKO	O
+_	_	_	O
+비롯한	비롯하+ㄴ	VV+ETM	O
+_	_	_	O
+보약	보약	NNG	O
+_	_	_	O
+등	등	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 유환익 전경련 산업본부장은 “지난달 주요 그룹 사장단 성명서를 통해 약속한 경제위기 극복과 내수 활성화에 앞장서겠다는 방침을 지키기 위한 행보”라고 설명했다.
+## <유환익:PER> <전경련:ORG> 산업본부장은 “지난달 주요 그룹 사장단 성명서를 통해 약속한 경제위기 극복과 내수 활성화에 앞장서겠다는 방침을 지키기 위한 행보”라고 설명했다.
+유환익	유환익	NNP	B-PER
+_	_	_	O
+전경련	전경련	NNP	B-ORG
+_	_	_	O
+산업	산업	NNG	O
+본부	본부	NNG	O
+장	장	XSN	O
+은	은	JX	O
+_	_	_	O
+“	“	SS	O
+지난달	지난달	NNG	O
+_	_	_	O
+주요	주요	NNG	O
+_	_	_	O
+그룹	그룹	NNG	O
+_	_	_	O
+사장	사장	NNG	O
+단	단	XSN	O
+_	_	_	O
+성명서	성명서	NNG	O
+를	를	JKO	O
+_	_	_	O
+통해	통하+여	VV+EC	O
+_	_	_	O
+약속한	약속하+ㄴ	VV+ETM	O
+_	_	_	O
+경제	경제	NNG	O
+위기	위기	NNG	O
+_	_	_	O
+극복	극복	NNG	O
+과	과	JC	O
+_	_	_	O
+내수	내수	NNG	O
+_	_	_	O
+활성화	활성화	NNG	O
+에	에	JKB	O
+_	_	_	O
+앞장서	앞장서	VV	O
+겠	겠	EP	O
+다는	다는	ETM	O
+_	_	_	O
+방침	방침	NNG	O
+을	을	JKO	O
+_	_	_	O
+지키	지키	VV	O
+기	기	ETN	O
+_	_	_	O
+위한	위하+ㄴ	VV+ETM	O
+_	_	_	O
+행보	행보	NNG	O
+”	”	SS	O
+라고	라고	JKQ	O
+_	_	_	O
+설명	설명하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 한국야쿠르트 ‘콜드브루 by 바빈스키 앰플’ 한국야쿠르트에서 출시한 ‘콜드브루 by 바빈스키 앰플’은 같은 라인의 완제품 2종과 달리 콜드브루 원액을 넣어 콜드브루의 진한 맛을 그대로 담은 제품이다.
+## <한국야쿠르트:ORG> ‘<콜드브루 by 바빈스키 앰플:POH>’ <한국야쿠르트:ORG>에서 출시한 ‘<콜드브루 by 바빈스키 앰플:POH>’은 같은 라인의 완제품 <2종:NOH>과 달리 콜드브루 원액을 넣어 콜드브루의 진한 맛을 그대로 담은 제품이다.
+한국야쿠르트	한국야쿠르트	NNP	B-ORG
+_	_	_	O
+‘	‘	SS	O
+콜드	콜드	NNG	B-POH
+브루	브루	NNP	I-POH
+_	_	_	I-POH
+by	by	SL	I-POH
+_	_	_	I-POH
+바빈스키	바빈스키	NNP	I-POH
+_	_	_	I-POH
+앰플	앰플	NNG	I-POH
+’	’	SS	O
+_	_	_	O
+한국야쿠르트	한국야쿠르트	NNP	B-ORG
+에서	에서	JKB	O
+_	_	_	O
+출시한	출시하+ㄴ	VV+ETM	O
+_	_	_	O
+‘	‘	SS	O
+콜드	콜드	NNG	B-POH
+브루	브루	NNP	I-POH
+_	_	_	I-POH
+by	by	SL	I-POH
+_	_	_	I-POH
+바빈스키	바빈스키	NNP	I-POH
+_	_	_	I-POH
+앰플	앰플	NNG	I-POH
+’	’	SS	O
+은	은	JX	O
+_	_	_	O
+같	같	VA	O
+은	은	ETM	O
+_	_	_	O
+라인	라인	NNG	O
+의	의	JKG	O
+_	_	_	O
+완제품	완제품	NNG	O
+_	_	_	O
+2	2	SN	B-NOH
+종	종	NNG	I-NOH
+과	과	JKB	O
+_	_	_	O
+달리	달리	MAG	O
+_	_	_	O
+콜드	콜드	NNG	O
+브루	브루	NNP	O
+_	_	_	O
+원액	원액	NNG	O
+을	을	JKO	O
+_	_	_	O
+넣	넣	VV	O
+어	어	EC	O
+_	_	_	O
+콜드	콜드	NNG	O
+브루	브루	NNP	O
+의	의	JKG	O
+_	_	_	O
+진한	진하+ㄴ	VA+ETM	O
+_	_	_	O
+맛	맛	NNG	O
+을	을	JKO	O
+_	_	_	O
+그대로	그대로	MAG	O
+_	_	_	O
+담	담	VV	O
+은	은	ETM	O
+_	_	_	O
+제품	제품	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 여기에 국내 시공능력평가 상위 10위 권 내의 두 대형건설사가 힘을 합쳐 선보이는 만큼 향후 해당 지역의 랜드마크 단지로 자리매김할 것으로 예상된다.
+## 여기에 국내 시공능력평가 상위 <10위:NOH> 권 내의 두 대형건설사가 힘을 합쳐 선보이는 만큼 향후 해당 지역의 랜드마크 단지로 자리매김할 것으로 예상된다.
+여기	여기	NP	O
+에	에	JKB	O
+_	_	_	O
+국내	국내	NNG	O
+_	_	_	O
+시공	시공	NNG	O
+능력	능력	NNG	O
+평가	평가	NNG	O
+_	_	_	O
+상위	상위	NNG	O
+_	_	_	O
+10	10	SN	B-NOH
+위	위	NNB	I-NOH
+_	_	_	O
+권	권	NNB	O
+_	_	_	O
+내의	내의	NNG	O
+_	_	_	O
+두	두	MM	O
+_	_	_	O
+대형	대형	NNG	O
+건설	건설	NNG	O
+사	사	XSN	O
+가	가	JKS	O
+_	_	_	O
+힘	힘	NNG	O
+을	을	JKO	O
+_	_	_	O
+합쳐	합치+어	VV+EC	O
+_	_	_	O
+선보이	선보이	VV	O
+는	는	ETM	O
+_	_	_	O
+만큼	만큼	NNB	O
+_	_	_	O
+향후	향후	NNG	O
+_	_	_	O
+해당	해당	NNG	O
+_	_	_	O
+지역	지역	NNG	O
+의	의	JKG	O
+_	_	_	O
+랜드마크	랜드마크	NNG	O
+_	_	_	O
+단지	단지	NNG	O
+로	로	JKB	O
+_	_	_	O
+자리	자리	NNG	O
+매김	매기+ㅁ	VV+ETN	O
+할	하+ㄹ	XSV+ETM	O
+_	_	_	O
+것	것	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+예상된다	예상되+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 12
+## 단지는 인천광역시 영종하늘도시 A27블록에 위치한다.
+## 단지는 <인천광역시:LOC> <영종하늘도시:LOC> <A27블록:NOH>에 위치한다.
+단지	단지	NNG	O
+는	는	JX	O
+_	_	_	O
+인천광역시	인천광역시	NNP	B-LOC
+_	_	_	O
+영종	영종	NNP	B-LOC
+하늘	하늘	NNG	I-LOC
+도시	도시	NNG	I-LOC
+_	_	_	O
+A	A	SL	B-NOH
+27	27	SN	I-NOH
+블록	블록	NNG	I-NOH
+에	에	JKB	O
+_	_	_	O
+위치한다	위치하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 13
+## 삼성전자는 지난달 25일 2017년형 ‘무풍에어컨’ 신규 라인업을 출시했다.
+## <삼성전자:ORG>는 지난달 <25일:DAT> <2017년:DAT>형 ‘무풍에어컨’ 신규 라인업을 출시했다.
+삼성전자	삼성전자	NNP	B-ORG
+는	는	JX	O
+_	_	_	O
+지난달	지난달	NNG	O
+_	_	_	O
+25	25	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+2017	2017	SN	B-DAT
+년	년	NNB	I-DAT
+형	형	XSN	O
+_	_	_	O
+‘	‘	SS	O
+무풍	무풍	NNP	O
+에어컨	에어컨	NNG	O
+’	’	SS	O
+_	_	_	O
+신규	신규	NNG	O
+_	_	_	O
+라인업	라인업	NNG	O
+을	을	JKO	O
+_	_	_	O
+출시	출시하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 14
+## MS는 앞서 2014년부터 서울 근교 지역에 데이터센터한 곳을 운영하고 있다.
+## <MS:ORG>는 앞서 <2014년:DAT>부터 <서울:LOC> 근교 지역에 데이터센터한 곳을 운영하고 있다.
+MS	MS	SL	B-ORG
+는	는	JX	O
+_	_	_	O
+앞서	앞서+어	VV+EC	O
+_	_	_	O
+2014	2014	SN	B-DAT
+년	년	NNB	I-DAT
+부터	부터	JX	O
+_	_	_	O
+서울	서울	NNP	B-LOC
+_	_	_	O
+근교	근교	NNG	O
+_	_	_	O
+지역	지역	NNG	O
+에	에	JKB	O
+_	_	_	O
+데이터	데이터	NNG	O
+센터	센터	NNG	O
+한	한	NNP	O
+_	_	_	O
+곳	곳	NNG	O
+을	을	JKO	O
+_	_	_	O
+운영하	운영하	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 15
+## 파리바게뜨는 전체 서비스 업종 중에서 롯데면세점과 함께 가장 높은 수준의 NBCI 평가를 받은 것으로 나타났다.
+## <파리바게뜨:ORG>는 전체 서비스 업종 중에서 <롯데면세점:ORG>과 함께 가장 높은 수준의 <NBCI 평가:POH>를 받은 것으로 나타났다.
+파리바게뜨	파리바게뜨	NNP	B-ORG
+는	는	JX	O
+_	_	_	O
+전체	전체	NNG	O
+_	_	_	O
+서비스	서비스	NNG	O
+_	_	_	O
+업종	업종	NNG	O
+_	_	_	O
+중	중	NNB	O
+에서	에서	JKB	O
+_	_	_	O
+롯데면세점	롯데면세점	NNP	B-ORG
+과	과	JKB	O
+_	_	_	O
+함께	함께	MAG	O
+_	_	_	O
+가장	가장	MAG	O
+_	_	_	O
+높	높	VA	O
+은	은	ETM	O
+_	_	_	O
+수준	수준	NNG	O
+의	의	JKG	O
+_	_	_	O
+NBCI	NBCI	SL	B-POH
+_	_	_	I-POH
+평가	평가	NNG	I-POH
+를	를	JKO	O
+_	_	_	O
+받	받	VV	O
+은	은	ETM	O
+_	_	_	O
+것	것	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+나타났	나타나+았	VV+EP	O
+다	다	EF	O
+.	.	SF	O
+

@@ -1,0 +1,606 @@
+## 1
+## 웹버족 의미 "이런 뜻인지 전혀 몰랐네" 5년만에 2배 훌쩍?
+## <웹버족:ORG> 의미 "이런 뜻인지 전혀 몰랐네" <5년:DUR>만에 <2배:PNT> 훌쩍?
+웹버족	웹버족	NNG	B-ORG
+_	_	_	O
+의미	의미	NNG	O
+_	_	_	O
+"	"	SS	O
+이런	이런	MM	O
+_	_	_	O
+뜻	뜻	NNG	O
+인지	이+ㄴ지	VCP+EC	O
+_	_	_	O
+전혀	전혀	MAG	O
+_	_	_	O
+몰	모르	VV	O
+랐	았	EP	O
+네	네	EF	O
+"	"	SS	O
+_	_	_	O
+5	5	SN	B-DUR
+년	년	NNB	I-DUR
+만	만	NNB	O
+에	에	JKB	O
+_	_	_	O
+2	2	SN	B-PNT
+배	배	NNG	I-PNT
+_	_	_	O
+훌쩍	훌쩍	MAG	O
+?	?	SF	O
+
+## 2
+## 프랑스의 작곡가 브누아 카레였다.
+## <프랑스:ORG>의 작곡가 <브누아 카레:PER>였다.
+프랑스	프랑스	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+작곡가	작곡가	NNG	O
+_	_	_	O
+브누아	브누아	NNP	B-PER
+_	_	_	I-PER
+카레	카레+이	NNG+VCP	I-PER
+였	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 플로머신이 작곡한 두 곡의 제목은 각각 ‘아빠의 차(Daddy’s Car)’와 ‘미스터 섀도의 노래(The Ballad of Mr Shadow)’였다.
+## <플로머신:PER>이 작곡한 <두 곡:NOH>의 제목은 각각 ‘<아빠의 차:POH>(<Daddy’s Car:POH>)’와 ‘<미스터 섀도의 노래:POH>(<The Ballad of Mr Shadow:POH>)’였다.
+플로	플로	NNG	B-PER
+머신	머신	NNG	I-PER
+이	이	JKS	O
+_	_	_	O
+작곡한	작곡하+ㄴ	VV+ETM	O
+_	_	_	O
+두	두	MM	B-NOH
+_	_	_	I-NOH
+곡	곡	NNG	I-NOH
+의	의	JKG	O
+_	_	_	O
+제목	제목	NNG	O
+은	은	JX	O
+_	_	_	O
+각각	각각	MAG	O
+_	_	_	O
+‘	‘	SS	O
+아빠	아빠	NNG	B-POH
+의	의	JKG	I-POH
+_	_	_	I-POH
+차	차	NNB	I-POH
+(	(	SS	O
+Daddy	Daddy	SL	B-POH
+’	’	SS	I-POH
+s	s	SL	I-POH
+_	_	_	I-POH
+Car	Car	SL	I-POH
+)	)	SS	O
+’	’	SS	O
+와	와	JC	O
+_	_	_	O
+‘	‘	SS	O
+미스터	미스터	NNG	B-POH
+_	_	_	I-POH
+섀도	섀도	NNG	I-POH
+의	의	JKG	I-POH
+_	_	_	I-POH
+노래	노래	NNG	I-POH
+(	(	SS	O
+The	The	SL	B-POH
+_	_	_	I-POH
+Ballad	Ballad	SL	I-POH
+_	_	_	I-POH
+of	of	SL	I-POH
+_	_	_	I-POH
+Mr	Mr	SL	I-POH
+_	_	_	I-POH
+Shadow	Shadow	SL	I-POH
+)	)	SS	O
+’	’+이	SS+VCP	O
+였	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## ‘아빠의 차’는 영국의 전설적 록밴드 비틀즈 스타일의 곡이다.
+## ‘<아빠의 차:POH>’는 <영국:ORG>의 전설적 록밴드 <비틀즈:ORG> 스타일의 곡이다.
+‘	‘	SS	O
+아빠	아빠	NNG	B-POH
+의	의	JKG	I-POH
+_	_	_	I-POH
+차	차	NNB	I-POH
+’	’	SS	O
+는	는	JX	O
+_	_	_	O
+영국	영국	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+전설적	전설적	NNG	O
+_	_	_	O
+록	록	NNG	O
+밴드	밴드	NNG	O
+_	_	_	O
+비틀즈	비틀즈	NNP	B-ORG
+_	_	_	O
+스타일	스타일	NNG	O
+의	의	JKG	O
+_	_	_	O
+곡	곡	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 지난해 7월부터는 사무직 직원들도 10~15%의 임금을 반납했다.
+## 지난해 <7월:DAT>부터는 사무직 직원들도 <10:PNT>~<15%:PNT>의 임금을 반납했다.
+지난해	지난해	NNG	O
+_	_	_	O
+7	7	SN	B-DAT
+월	월	NNB	I-DAT
+부터	부터	JX	O
+는	는	JX	O
+_	_	_	O
+사무직	사무직	NNG	O
+_	_	_	O
+직원	직원	NNG	O
+들	들	XSN	O
+도	도	JX	O
+_	_	_	O
+10	10	SN	B-PNT
+~	~	SO	O
+15	15	SN	B-PNT
+%	%	SW	I-PNT
+의	의	JKG	O
+_	_	_	O
+임금	임금	NNG	O
+을	을	JKO	O
+_	_	_	O
+반납	반납하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 강원도 정선 강원랜드의 전통한식당 운암정이 환경개선공사를 마치고 6월 1일부터 정상영업을 재개한다.
+## <강원도 정선:LOC> <강원랜드:ORG>의 전통한식당 <운암정:ORG>이 환경개선공사를 마치고 <6월 1일:DAT>부터 정상영업을 재개한다.
+강원도	강원도	NNP	B-LOC
+_	_	_	I-LOC
+정선	정선	NNP	I-LOC
+_	_	_	O
+강원랜드	강원랜드	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+전통	전통	NNG	O
+한식	한식	NNG	O
+당	당	NNG	O
+_	_	_	O
+운암정	운암정	NNP	B-ORG
+이	이	JKS	O
+_	_	_	O
+환경	환경	NNG	O
+개선	개선	NNG	O
+공사	공사	NNG	O
+를	를	JKO	O
+_	_	_	O
+마치	마치	VV	O
+고	고	EC	O
+_	_	_	O
+6	6	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	I-DAT
+1	1	SN	I-DAT
+일	일	NNB	I-DAT
+부터	부터	JX	O
+_	_	_	O
+정상	정상	NNG	O
+영업	영업	NNG	O
+을	을	JKO	O
+_	_	_	O
+재개한다	재개하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 7
+## 한편 ‘집밥 백선생’ 백종원은 ‘슈가보이’라는 별명답게 설탕을 애용했다.
+## 한편 ‘<집밥 백선생:POH>’ <백종원:PER>은 ‘<슈가보이:PER>’라는 별명답게 설탕을 애용했다.
+한편	한편	MAG	O
+_	_	_	O
+‘	‘	SS	O
+집	집	NNG	B-POH
+밥	밥	NNG	I-POH
+_	_	_	I-POH
+백	백	NNP	I-POH
+선생	선생	NNG	I-POH
+’	’	SS	O
+_	_	_	O
+백종원	백종원	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+‘	‘	SS	O
+슈가	슈가	NNG	B-PER
+보이	보이	NNG	I-PER
+’	’+이	SS+VCP	O
+라는	라는	ETM	O
+_	_	_	O
+별명	별명	NNG	O
+답	답	XSA	O
+게	게	EC	O
+_	_	_	O
+설탕	설탕	NNG	O
+을	을	JKO	O
+_	_	_	O
+애용	애용하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 신 회장을 포함해 롯데비리로 기소된 피고인들은 혐의를 모두 부인하며 무죄를 주장하는 입장이다.
+## <신:PER> 회장을 포함해 롯데비리로 기소된 피고인들은 혐의를 모두 부인하며 무죄를 주장하는 입장이다.
+신	신	NNP	B-PER
+_	_	_	O
+회장	회장	NNG	O
+을	을	JKO	O
+_	_	_	O
+포함해	포함하+여	VV+EC	O
+_	_	_	O
+롯데	롯데	NNP	O
+비리	비리	NNG	O
+로	로	JKB	O
+_	_	_	O
+기소된	기소되+ㄴ	VV+ETM	O
+_	_	_	O
+피고인	피고인	NNG	O
+들	들	XSN	O
+은	은	JX	O
+_	_	_	O
+혐의	혐의	NNG	O
+를	를	JKO	O
+_	_	_	O
+모두	모두	MAG	O
+_	_	_	O
+부인하	부인하	VV	O
+며	며	EC	O
+_	_	_	O
+무죄	무죄	NNG	O
+를	를	JKO	O
+_	_	_	O
+주장하	주장하	VV	O
+는	는	ETM	O
+_	_	_	O
+입장	입장	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 신 회장은 2009년 9월~2015년 7월 계열사 끼워넣기 등 방법으로 회사에 471억원의 손해를 끼친 혐의로 기소됐다.
+## <신:PER> 회장은 <2009년 9월~2015년 7월:DUR> 계열사 끼워넣기 등 방법으로 회사에 <471억원:MNY>의 손해를 끼친 혐의로 기소됐다.
+신	신	NNP	B-PER
+_	_	_	O
+회장	회장	NNG	O
+은	은	JX	O
+_	_	_	O
+2009	2009	SN	B-DUR
+년	년	NNB	I-DUR
+_	_	_	I-DUR
+9	9	SN	I-DUR
+월	월	NNB	I-DUR
+~	~	SO	I-DUR
+2015	2015	SN	I-DUR
+년	년	NNB	I-DUR
+_	_	_	I-DUR
+7	7	SN	I-DUR
+월	월	NNB	I-DUR
+_	_	_	O
+계열사	계열사	NNG	O
+_	_	_	O
+끼	끼우	VV	O
+워	어	EC	O
+넣	넣	VV	O
+기	기	ETN	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+방법	방법	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+회사	회사	NNG	O
+에	에	JKB	O
+_	_	_	O
+471	471	SN	B-MNY
+억	억	NR	I-MNY
+원	원	NNB	I-MNY
+의	의	JKG	O
+_	_	_	O
+손해	손해	NNG	O
+를	를	JKO	O
+_	_	_	O
+끼친	끼치+ㄴ	VV+ETM	O
+_	_	_	O
+혐의	혐의	NNG	O
+로	로	JKB	O
+_	_	_	O
+기소	기소되	VV	O
+됐	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 또 신 총괄회장과 공모해 신 이사장과 서씨, 서씨의 딸 신유미씨가 운영하는 회사에 사업권을 몰아줘 774억원의 손해를 가하고, 신 전 부회장에게 391억원, 서씨 모녀에게 117억원 등 총 508억원의 급여를 부당하게 지급한 혐의도 있다.
+## 또 <신:PER> 총괄회장과 공모해 <신:PER> 이사장과 <서:PER>씨, <서:PER>씨의 딸 <신유미:PER>씨가 운영하는 회사에 사업권을 몰아줘 <774억원:MNY>의 손해를 가하고, <신:PER> 전 부회장에게 <391억원:MNY>, <서:PER>씨 모녀에게 <117억원:MNY> 등 총 <508억원:MNY>의 급여를 부당하게 지급한 혐의도 있다.
+또	또	MAG	O
+_	_	_	O
+신	신	NNG	B-PER
+_	_	_	O
+총괄	총괄	NNG	O
+회장	회장	NNG	O
+과	과	JC	O
+_	_	_	O
+공모해	공모하+여	VV+EC	O
+_	_	_	O
+신	신	NNG	B-PER
+_	_	_	O
+이사장	이사장	NNG	O
+과	과	JC	O
+_	_	_	O
+서	서	NNP	B-PER
+씨	씨	NNB	O
+,	,	SP	O
+_	_	_	O
+서	서	NNP	B-PER
+씨	씨	NNB	O
+의	의	JKG	O
+_	_	_	O
+딸	딸	NNG	O
+_	_	_	O
+신유미	신유미	NNP	B-PER
+씨	씨	NNB	O
+가	가	JKS	O
+_	_	_	O
+운영하	운영하	VV	O
+는	는	ETM	O
+_	_	_	O
+회사	회사	NNG	O
+에	에	JKB	O
+_	_	_	O
+사업	사업	NNG	O
+권	권	XSN	O
+을	을	JKO	O
+_	_	_	O
+몰아줘	몰아주	VV	O
+_	_	_	O
+774	774	SN	B-MNY
+억	억	NR	I-MNY
+원	원	NNB	I-MNY
+의	의	JKG	O
+_	_	_	O
+손해	손해	NNG	O
+를	를	JKO	O
+_	_	_	O
+가하	가하	VV	O
+고	고	EC	O
+,	,	SP	O
+_	_	_	O
+신	신	NNP	B-PER
+_	_	_	O
+전	전	MM	O
+_	_	_	O
+부회장	부회장	NNG	O
+에게	에게	JKB	O
+_	_	_	O
+391	391	SN	B-MNY
+억	억	NR	I-MNY
+원	원	NNB	I-MNY
+,	,	SP	O
+_	_	_	O
+서	서	NNP	B-PER
+씨	씨	NNB	O
+_	_	_	O
+모녀	모녀	NNG	O
+에게	에게	JKB	O
+_	_	_	O
+117	117	SN	B-MNY
+억	억	NR	I-MNY
+원	원	NNB	I-MNY
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+총	총	MM	O
+_	_	_	O
+508	508	SN	B-MNY
+억	억	NR	I-MNY
+원	원	NNB	I-MNY
+의	의	JKG	O
+_	_	_	O
+급여	급여	NNG	O
+를	를	JKO	O
+_	_	_	O
+부당하	부당하	VA	O
+게	게	EC	O
+_	_	_	O
+지급한	지급하+ㄴ	VV+ETM	O
+_	_	_	O
+혐의	혐의	NNG	O
+도	도	JX	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## (서울=뉴스1)
+## (<서울:LOC>=<뉴스1:ORG>)
+(	(	SS	O
+서울	서울	NNP	B-LOC
+=	=	SW	O
+뉴스	뉴스	NNG	B-ORG
+1	1	SN	I-ORG
+)	)	SS	O
+
+## 12
+## 선관위 홈페이지를 겨냥한 디도스 공격은 2012년 19대 총선 당시 선거 전날 밤 두 차례에 걸쳐 발생한 적이 있다.
+## <선관위:ORG> 홈페이지를 겨냥한 디도스 공격은 <2012년:DAT> <19대:NOH> 총선 당시 선거 전날 밤 <두 차례:NOH>에 걸쳐 발생한 적이 있다.
+선관위	선관위	NNG	B-ORG
+_	_	_	O
+홈페이지	홈페이지	NNG	O
+를	를	JKO	O
+_	_	_	O
+겨냥한	겨냥하+ㄴ	VV+ETM	O
+_	_	_	O
+디도스	디도스	NNG	O
+_	_	_	O
+공격	공격	NNG	O
+은	은	JX	O
+_	_	_	O
+2012	2012	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+19	19	SN	B-NOH
+대	대	NNB	I-NOH
+_	_	_	O
+총선	총선	NNG	O
+_	_	_	O
+당시	당시	NNG	O
+_	_	_	O
+선거	선거	NNG	O
+_	_	_	O
+전날	전날	NNG	O
+_	_	_	O
+밤	밤	NNG	O
+_	_	_	O
+두	두	MM	B-NOH
+_	_	_	I-NOH
+차례	차례	NNG	I-NOH
+에	에	JKB	O
+_	_	_	O
+걸쳐	걸치+어	VV+EC	O
+_	_	_	O
+발생한	발생하+ㄴ	VV+ETM	O
+_	_	_	O
+적	적	NNB	O
+이	이	JKS	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## 신라스테이 제주는 동탄·역삼점에 이어 미니멀리즘 대가로 불리는 이탈리아 디자이너 피에로 리쏘니가 디자인을 맡아 실용적이면서도 고급스러운 분위기를 느낄 수 있다.
+## <신라스테이 제주:ORG>는 <동탄:ORG>·<역삼점:ORG>에 이어 미니멀리즘 대가로 불리는 <이탈리아:ORG> 디자이너 <피에로 리쏘니:PER>가 디자인을 맡아 실용적이면서도 고급스러운 분위기를 느낄 수 있다.
+신라	신라	NNP	B-ORG
+스테이	스테이	NNG	I-ORG
+_	_	_	I-ORG
+제주	제주	NNG	I-ORG
+는	는	JX	O
+_	_	_	O
+동탄	동탄	NNP	B-ORG
+·	·	SP	O
+역삼	역삼	NNP	B-ORG
+점	점	NNG	I-ORG
+에	에	JKB	O
+_	_	_	O
+이어	이어	MAG	O
+_	_	_	O
+미니멀리즘	미니멀리즘	NNG	O
+_	_	_	O
+대가	대가	NNG	O
+로	로	JKB	O
+_	_	_	O
+불리	불리	VV	O
+는	는	ETM	O
+_	_	_	O
+이탈리아	이탈리아	NNP	B-ORG
+_	_	_	O
+디자이너	디자이너	NNG	O
+_	_	_	O
+피에로	피에로	NNG	B-PER
+_	_	_	I-PER
+리	리	NNB	I-PER
+쏘니	쏘니	NNP	I-PER
+가	가	JKS	O
+_	_	_	O
+디자인	디자인	NNG	O
+을	을	JKO	O
+_	_	_	O
+맡	맡	VV	O
+아	아	EC	O
+_	_	_	O
+실용적	실용적	NNG	O
+이	이	VCP	O
+면서	면서	EC	O
+도	도	JX	O
+_	_	_	O
+고급스러	고급스럽	VA	O
+운	ㄴ	ETM	O
+_	_	_	O
+분위기	분위기	NNG	O
+를	를	JKO	O
+_	_	_	O
+느낄	느끼+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 14
+## 반면 노 관장의 귀책사유는 아직 드러난 바가 없다.
+## 반면 <노:PER> 관장의 귀책사유는 아직 드러난 바가 없다.
+반면	반면	NNG	O
+_	_	_	O
+노	노	XPN	B-PER
+_	_	_	O
+관장	관장	NNG	O
+의	의	JKG	O
+_	_	_	O
+귀책사유	귀책사유	NNG	O
+는	는	JX	O
+_	_	_	O
+아직	아직	MAG	O
+_	_	_	O
+드러난	드러나+ㄴ	VV+ETM	O
+_	_	_	O
+바	바	NNB	O
+가	가	JKS	O
+_	_	_	O
+없	없	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 15
+## 지난 9월 판결에서 대법원이 파탄주의 인정 가능성을 과거보다는 다소 확대하기는 했다.
+## 지난 <9월:DAT> 판결에서 <대법원:ORG>이 파탄주의 인정 가능성을 과거보다는 다소 확대하기는 했다.
+지난	지나+ㄴ	VV+ETM	O
+_	_	_	O
+9	9	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+판결	판결	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+대법원	대법원	NNG	B-ORG
+이	이	JKS	O
+_	_	_	O
+파탄	파탄	NNG	O
+주의	주의	NNG	O
+_	_	_	O
+인정	인정	NNG	O
+_	_	_	O
+가능성	가능성	NNG	O
+을	을	JKO	O
+_	_	_	O
+과거	과거	NNG	O
+보다	보다	JKB	O
+는	는	JX	O
+_	_	_	O
+다소	다소	MAG	O
+_	_	_	O
+확대하	확대하	VV	O
+기	기	ETN	O
+는	는	JX	O
+_	_	_	O
+했	+였	+EP	O
+다	다	EF	O
+.	.	SF	O
+

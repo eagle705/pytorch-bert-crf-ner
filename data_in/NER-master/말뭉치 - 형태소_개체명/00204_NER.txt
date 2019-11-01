@@ -1,0 +1,280 @@
+## 1
+## ○ 종합예술을 전수 아스카사는 일본 불교의 공식 탄생을 알리는 기념비적 건물이자 당시로서는 최첨단 건물이었다.
+## ○ 종합예술을 전수 <아스카사:LOC>는 <일본:ORG> 불교의 공식 탄생을 알리는 기념비적 건물이자 당시로서는 최첨단 건물이었다.
+○	○	SW	O
+_	_	_	O
+종합	종합	NNG	O
+예술	예술	NNG	O
+을	을	JKO	O
+_	_	_	O
+전수	전수	NNG	O
+_	_	_	O
+아스카	아스카	NNP	B-LOC
+사	사	XSN	I-LOC
+는	는	JX	O
+_	_	_	O
+일본	일본	NNP	B-ORG
+_	_	_	O
+불교	불교	NNG	O
+의	의	JKG	O
+_	_	_	O
+공식	공식	NNG	O
+_	_	_	O
+탄생	탄생	NNG	O
+을	을	JKO	O
+_	_	_	O
+알리	알리	VV	O
+는	는	ETM	O
+_	_	_	O
+기념비적	기념비적	NNG	O
+_	_	_	O
+건물	건물	NNG	O
+이	이	VCP	O
+자	자	EC	O
+_	_	_	O
+당시	당시	NNG	O
+로서	로서	JKB	O
+는	는	JX	O
+_	_	_	O
+최첨단	최첨단	NNG	O
+_	_	_	O
+건물	건물	NNG	O
+이	이	VCP	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 트로이 왕자 헥토르는 전쟁을 끝내고 싶었다.
+## 트로이 왕자 <헥토르:PER>는 전쟁을 끝내고 싶었다.
+트로이	트로이	NNP	O
+_	_	_	O
+왕자	왕자	NNG	O
+_	_	_	O
+헥토르	헥토르	NNP	B-PER
+는	는	JX	O
+_	_	_	O
+전쟁	전쟁	NNG	O
+을	을	JKO	O
+_	_	_	O
+끝내	끝내	VV	O
+고	고	EC	O
+_	_	_	O
+싶	싶	VX	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 올해 진행 중인 LOL 대회 챔피언스코리아 우승상금은 1억 원이다.
+## 올해 진행 중인 <LOL:POH> 대회 <챔피언스코리아:ORG> 우승상금은 <1억 원:MNY>이다.
+올해	올해	NNG	O
+_	_	_	O
+진행	진행	NNG	O
+_	_	_	O
+중	중	NNB	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+LOL	LOL	SL	B-POH
+_	_	_	O
+대회	대회	NNG	O
+_	_	_	O
+챔피언스	챔피언스	NNG	B-ORG
+코리아	코리아	NNP	I-ORG
+_	_	_	O
+우승	우승	NNG	O
+상금	상금	NNG	O
+은	은	JX	O
+_	_	_	O
+1	1	SN	B-MNY
+억	억	NR	I-MNY
+_	_	_	I-MNY
+원	원	NNB	I-MNY
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 반면 고액연봉을 줄 바에는 유출을 감수하거나(SK·넥센), 기존 마무리의 선발 전환을 시도하는 팀들(KIA·LG·kt)도 적지 않았다.
+## 반면 고액연봉을 줄 바에는 유출을 감수하거나(<SK:ORG>·<넥센:ORG>), 기존 마무리의 선발 전환을 시도하는 팀들(<KIA:ORG>·<LG:ORG>·<kt:ORG>)도 적지 않았다.
+반면	반면	NNG	O
+_	_	_	O
+고액	고액	NNG	O
+연봉	연봉	NNG	O
+을	을	JKO	O
+_	_	_	O
+줄	주+ㄹ	VV+ETM	O
+_	_	_	O
+바	바	NNB	O
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+유출	유출	NNG	O
+을	을	JKO	O
+_	_	_	O
+감수하	감수하	VV	O
+거나	거나	EF	O
+(	(	SS	O
+SK	SK	SL	B-ORG
+·	·	SP	O
+넥센	넥센	NNP	B-ORG
+)	)	SS	O
+,	,	SP	O
+_	_	_	O
+기존	기존	NNG	O
+_	_	_	O
+마무리	마무리	NNG	O
+의	의	JKG	O
+_	_	_	O
+선발	선발	NNG	O
+_	_	_	O
+전환	전환	NNG	O
+을	을	JKO	O
+_	_	_	O
+시도하	시도하	VV	O
+는	는	ETM	O
+_	_	_	O
+팀	팀	NNG	O
+들	들	XSN	O
+(	(	SS	O
+KIA	KIA	SL	B-ORG
+·	·	SP	O
+LG	LG	SL	B-ORG
+·	·	SP	O
+kt	kt	SL	B-ORG
+)	)	SS	O
+도	도	JX	O
+_	_	_	O
+적	적	VA	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 그중에서도 강 센터장은 냉동만두에 주목했다.
+## 그중에서도 <강:PER> 센터장은 냉동만두에 주목했다.
+그중	그중	NNG	O
+에서	에서	JKB	O
+도	도	JX	O
+_	_	_	O
+강	강	NNG	B-PER
+_	_	_	O
+센터	센터	NNG	O
+장	장	XSN	O
+은	은	JX	O
+_	_	_	O
+냉동	냉동	NNG	O
+만두	만두	NNG	O
+에	에	JKB	O
+_	_	_	O
+주목	주목하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 아드리아노는 올 시즌 개막 이후 좋은 활약을 펼쳤다.
+## <아드리아노:PER>는 올 시즌 개막 이후 좋은 활약을 펼쳤다.
+아드리아노	아드리아노	NNP	B-PER
+는	는	JX	O
+_	_	_	O
+올	올	NNG	O
+_	_	_	O
+시즌	시즌	NNG	O
+_	_	_	O
+개막	개막	NNG	O
+_	_	_	O
+이후	이후	NNG	O
+_	_	_	O
+좋	좋	VA	O
+은	은	ETM	O
+_	_	_	O
+활약	활약	NNG	O
+을	을	JKO	O
+_	_	_	O
+펼	펼치	VV	O
+쳤	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## ‘해운산업 경쟁력 강화방안’에 따르면, 정부는 해운산업에 총 6조5000억원 규모의 금융 지원을 실시한다.
+## ‘해운산업 경쟁력 강화방안’에 따르면, 정부는 해운산업에 총 <6조5000억원:MNY> 규모의 금융 지원을 실시한다.
+‘	‘	SS	O
+해운	해운	NNG	O
+산업	산업	NNG	O
+_	_	_	O
+경쟁력	경쟁력	NNG	O
+_	_	_	O
+강화	강화	NNG	O
+방안	방안	NNG	O
+’	’	SS	O
+에	에	JKB	O
+_	_	_	O
+따르	따르	VV	O
+면	면	EC	O
+,	,	SP	O
+_	_	_	O
+정부	정부	NNG	O
+는	는	JX	O
+_	_	_	O
+해운	해운	NNG	O
+산업	산업	NNG	O
+에	에	JKB	O
+_	_	_	O
+총	총	XPN	O
+_	_	_	O
+6	6	SN	B-MNY
+조	조	NNG	I-MNY
+5000	5000	SN	I-MNY
+억	억	NR	I-MNY
+원	원	NNB	I-MNY
+_	_	_	O
+규모	규모	NNG	O
+의	의	JKG	O
+_	_	_	O
+금융	금융	NNG	O
+_	_	_	O
+지원	지원	NNG	O
+을	을	JKO	O
+_	_	_	O
+실시한다	실시하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 8
+## ‘슈퍼스타K7’ 케빈오, 우승으로 상금 5억원+재규어XE+음반 발매 등 ‘엄청나네’
+## ‘<슈퍼스타K7:POH>’ <케빈오:PER>, 우승으로 상금 <5억원:MNY>+<재규어XE:POH>+음반 발매 등 ‘엄청나네’
+‘	‘	SS	O
+슈퍼스타	슈퍼스타	NNG	B-POH
+K	K	SL	I-POH
+7	7	SN	I-POH
+’	’	SS	O
+_	_	_	O
+케빈	케빈	NNP	B-PER
+오	오	NNP	I-PER
+,	,	SP	O
+_	_	_	O
+우승	우승	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+상금	상금	NNG	O
+_	_	_	O
+5	5	SN	B-MNY
+억	억	NR	I-MNY
+원+	원++	NNB+SW	O
+재규어	재규어	NNG	B-POH
+XE+	XE++	SL+SW	O
+음반	음반	NNG	O
+_	_	_	O
+발매	발매	NNG	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+‘	‘	SS	O
+엄청나	엄청나	VA	O
+네	네	EF	O
+’	’	SS	O
+

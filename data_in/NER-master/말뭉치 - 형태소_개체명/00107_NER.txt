@@ -1,0 +1,512 @@
+## 1
+## 문의 : 02-3463-9326<본 자료는 해당기관에서 제공한 보도 자료입니다.
+## 문의 : <02-3463-9326:POH><본 자료는 해당기관에서 제공한 보도 자료입니다.
+문의	문의	NNG	O
+_	_	_	O
+:	:	SP	O
+_	_	_	O
+02	02	SN	B-POH
+-	-	SO	I-POH
+3463	3463	SN	I-POH
+-	-	SO	I-POH
+9326	9326	SN	I-POH
+<	<	SS	O
+본	본	MM	O
+_	_	_	O
+자료	자료	NNG	O
+는	는	JX	O
+_	_	_	O
+해당	해당	NNG	O
+기관	기관	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+제공한	제공하+ㄴ	VV+ETM	O
+_	_	_	O
+보도	보도	NNG	O
+_	_	_	O
+자료	자료	NNG	O
+입니다	이+ㅂ니다	VCP+EF	O
+.	.	SF	O
+
+## 2
+## 하지만 지난해 7월 대표 취임 이후 ‘노련한 갈등 조율사, 보수혁신의 아이콘’ 이미지로 그는 여권 내 선두 자리를 지키고 있다.
+## 하지만 지난해 <7월:DAT> 대표 취임 이후 ‘노련한 갈등 조율사, 보수혁신의 아이콘’ 이미지로 그는 여권 내 선두 자리를 지키고 있다.
+하지만	하지만	MAJ	O
+_	_	_	O
+지난해	지난해	NNG	O
+_	_	_	O
+7	7	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+대표	대표	NNG	O
+_	_	_	O
+취임	취임	NNG	O
+_	_	_	O
+이후	이후	NNG	O
+_	_	_	O
+‘	‘	SS	O
+노련한	노련하+ㄴ	VA+ETM	O
+_	_	_	O
+갈등	갈등	NNG	O
+_	_	_	O
+조율사	조율사	NNG	O
+,	,	SP	O
+_	_	_	O
+보수	보수	NNG	O
+혁신	혁신	NNG	O
+의	의	JKG	O
+_	_	_	O
+아이콘	아이콘	NNG	O
+’	’	SS	O
+_	_	_	O
+이미지	이미지	NNG	O
+로	로	JKB	O
+_	_	_	O
+그	그	NP	O
+는	는	JX	O
+_	_	_	O
+여권	여권	NNG	O
+_	_	_	O
+내	나+의	NP+JKG	O
+_	_	_	O
+선두	선두	NNG	O
+_	_	_	O
+자리	자리	NNG	O
+를	를	JKO	O
+_	_	_	O
+지키	지키	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 다저스는 오프 시즌 동안 핸리 라미레스가 FA로 팀을 떠났고, 맷 켐프가 샌디에이고 파드리스로 이적했다.
+## <다저스:ORG>는 오프 시즌 동안 <핸리 라미레스:PER>가 <FA:ORG>로 팀을 떠났고, <맷 켐프:PER>가 <샌디에이고 파드리스:ORG>로 이적했다.
+다저스	다저스	NNP	B-ORG
+는	는	JX	O
+_	_	_	O
+오프	오프	NNG	O
+_	_	_	O
+시즌	시즌	NNG	O
+_	_	_	O
+동안	동안	NNG	O
+_	_	_	O
+핸리	핸리	NNP	B-PER
+_	_	_	I-PER
+라미레스	라미레스	NNP	I-PER
+가	가	JKS	O
+_	_	_	O
+FA	FA	SL	B-ORG
+로	로	JKB	O
+_	_	_	O
+팀	팀	NNG	O
+을	을	JKO	O
+_	_	_	O
+떠났	떠나+았	VV+EP	O
+고	고	EC	O
+,	,	SP	O
+_	_	_	O
+맷	맷	NNP	B-PER
+_	_	_	I-PER
+켐프	켐프	NNP	I-PER
+가	가	JKS	O
+_	_	_	O
+샌디에이고	샌디에이고	NNP	B-ORG
+_	_	_	I-ORG
+파드리스	파드리스	NNP	I-ORG
+로	로	JKB	O
+_	_	_	O
+이적	이적하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 글로벌 공유 오피스 기업인 ‘위워크’ 등 10여 개 업체가 사업을 벌이고 있고, 올해 초 현대카드도 ‘스튜디오블랙’이란 이름으로 시장에 뛰어들었다.
+## 글로벌 공유 오피스 기업인 ‘<위워크:ORG>’ 등 <10여 개:NOH> 업체가 사업을 벌이고 있고, 올해 초 <현대카드:ORG>도 ‘<스튜디오블랙:POH>’이란 이름으로 시장에 뛰어들었다.
+글로벌	글로벌	NNG	O
+_	_	_	O
+공유	공유	NNG	O
+_	_	_	O
+오피스	오피스	NNG	O
+_	_	_	O
+기업인	기업인	NNG	O
+_	_	_	O
+‘	‘	SS	O
+위	위	NNB	B-ORG
+워크	워크	NNG	I-ORG
+’	’	SS	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+10	10	SN	B-NOH
+여	여	XSN	I-NOH
+_	_	_	I-NOH
+개	개	NNB	I-NOH
+_	_	_	O
+업체	업체	NNG	O
+가	가	JKS	O
+_	_	_	O
+사업	사업	NNG	O
+을	을	JKO	O
+_	_	_	O
+벌이	벌이	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+고	고	EC	O
+,	,	SP	O
+_	_	_	O
+올해	올해	NNG	O
+_	_	_	O
+초	초	NNB	O
+_	_	_	O
+현대카드	현대카드	NNP	B-ORG
+도	도	JX	O
+_	_	_	O
+‘	‘	SS	O
+스튜디오	스튜디오	NNG	B-POH
+블랙	블랙	NNG	I-POH
+’	’	SS	O
+이	이	VCP	O
+란	란	ETM	O
+_	_	_	O
+이름	이름	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+시장	시장	NNG	O
+에	에	JKB	O
+_	_	_	O
+뛰어들	뛰어들	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## “정상회담 시기상조” 대북소신 불변/안무혁-민자의원(요즘…)
+## “정상회담 시기상조” 대북소신 불변/<안무혁:PER>-민자의원(요즘…)
+“	“	SS	O
+정상	정상	NNG	O
+회담	회담	NNG	O
+_	_	_	O
+시기상조	시기상조	NNG	O
+”	”	SS	O
+_	_	_	O
+대북	대북	NNG	O
+소신	소신	NNG	O
+_	_	_	O
+불변	불변	NNG	O
+/	/	SP	O
+안무혁	안무혁	NNP	B-PER
+-	-	SO	O
+민자	민자	NNP	O
+의원	의원	NNG	O
+(	(	SS	O
+요즘	요즘	NNG	O
+…	…	SE	O
+)	)	SS	O
+
+## 6
+## 김혜원 어린이도서평론가
+## <김혜원:PER> 어린이도서평론가
+김혜원	김혜원	NNP	B-PER
+_	_	_	O
+어린이	어린이	NNG	O
+도서	도서	NNG	O
+평론가	평론가	NNG	O
+
+## 7
+## 유럽 여러 나라에선 시리자와 비슷한 주장을 하는 정당이 지지율을 높여 왔다.
+## <유럽:LOC> 여러 나라에선 <시리자:ORG>와 비슷한 주장을 하는 정당이 지지율을 높여 왔다.
+유럽	유럽	NNP	B-LOC
+_	_	_	O
+여러	여러	MM	O
+_	_	_	O
+나라	나라	NNG	O
+에선	에서+ㄴ	JKB+JX	O
+_	_	_	O
+시리자	시리자	NNP	B-ORG
+와	와	JC	O
+_	_	_	O
+비슷한	비슷하+ㄴ	VA+ETM	O
+_	_	_	O
+주장	주장	NNG	O
+을	을	JKO	O
+_	_	_	O
+하	하	VV	O
+는	는	ETM	O
+_	_	_	O
+정당	정당	NNG	O
+이	이	JKS	O
+_	_	_	O
+지지율	지지율	NNG	O
+을	을	JKO	O
+_	_	_	O
+높	높이	VV	O
+여	어	EC	O
+_	_	_	O
+왔	+았	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## ‘천원 호텔 프로모션’은 올해로 3회를 맞은 익스피디아 대표 할인 이벤트이다.
+## ‘천원 호텔 프로모션’은 올해로 <3회:NOH>를 맞은 <익스피디아:ORG> 대표 할인 이벤트이다.
+‘	‘	SS	O
+천	천	NR	O
+원	원	NNB	O
+_	_	_	O
+호텔	호텔	NNG	O
+_	_	_	O
+프로모션	프로모션	NNG	O
+’	’	SS	O
+은	은	JX	O
+_	_	_	O
+올해	올해	NNG	O
+로	로	JKB	O
+_	_	_	O
+3	3	SN	B-NOH
+회	회	NNB	I-NOH
+를	를	JKO	O
+_	_	_	O
+맞	맞	VV	O
+은	은	ETM	O
+_	_	_	O
+익	익	NNG	B-ORG
+스피디	스피디	NNG	I-ORG
+아	아	XSN	I-ORG
+_	_	_	O
+대표	대표	NNG	O
+_	_	_	O
+할인	할인	NNG	O
+_	_	_	O
+이벤트	이벤트	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 자신이 개발한 소프트웨어에 바흐나 모차르트의 작곡 스타일을 학습시킨 뒤 작곡을 의뢰한다.
+## 자신이 개발한 소프트웨어에 <바흐:PER>나 <모차르트:PER>의 작곡 스타일을 학습시킨 뒤 작곡을 의뢰한다.
+자신	자신	NNG	O
+이	이	JKS	O
+_	_	_	O
+개발한	개발하+ㄴ	VV+ETM	O
+_	_	_	O
+소프트웨어	소프트웨어	NNG	O
+에	에	JKB	O
+_	_	_	O
+바흐	바흐	NNP	B-PER
+나	나	JC	O
+_	_	_	O
+모차르트	모차르트	NNP	B-PER
+의	의	JKG	O
+_	_	_	O
+작곡	작곡	NNG	O
+_	_	_	O
+스타일	스타일	NNG	O
+을	을	JKO	O
+_	_	_	O
+학습	학습	NNG	O
+시킨	시키+ㄴ	XSV+ETM	O
+_	_	_	O
+뒤	뒤	NNG	O
+_	_	_	O
+작곡	작곡	NNG	O
+을	을	JKO	O
+_	_	_	O
+의뢰한다	의뢰하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 10
+## 2001년 미국 응급의료서비스(EMS) 전시회에서 앰뷸런스와 응급 구조장비를 보고 동행한 임원에게 말했다.
+## <2001년:DAT> <미국 응급의료서비스(EMS) 전시회:POH>에서 앰뷸런스와 응급 구조장비를 보고 동행한 임원에게 말했다.
+2001	2001	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+미국	미국	NNP	B-POH
+_	_	_	I-POH
+응급	응급	NNG	I-POH
+의료	의료	NNG	I-POH
+서비스	서비스	NNG	I-POH
+(	(	SS	I-POH
+EMS	EMS	SL	I-POH
+)	)	SS	I-POH
+_	_	_	I-POH
+전시회	전시회	NNG	I-POH
+에서	에서	JKB	O
+_	_	_	O
+앰뷸런스	앰뷸런스	NNG	O
+와	와	JC	O
+_	_	_	O
+응급	응급	NNG	O
+_	_	_	O
+구조	구조	NNG	O
+장비	장비	NNG	O
+를	를	JKO	O
+_	_	_	O
+보	보	VV	O
+고	고	EC	O
+_	_	_	O
+동행한	동행하+ㄴ	VV+ETM	O
+_	_	_	O
+임원	임원	NNG	O
+에게	에게	JKB	O
+_	_	_	O
+말	말하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## [뉴스클립] Special Knowledge ＜584＞ 생태관광
+## [뉴스클립] Special Knowledge ＜<584:NOH>＞ 생태관광
+[	[	SS	O
+뉴스	뉴스	NNG	O
+클립	클립	NNG	O
+]	]	SS	O
+_	_	_	O
+Special	Special	SL	O
+_	_	_	O
+Knowledge	Knowledge	SL	O
+_	_	_	O
+＜	＜	SS	O
+584	584	SN	B-NOH
+＞	＞	SS	O
+_	_	_	O
+생태	생태	NNG	O
+관광	관광	NNG	O
+
+## 12
+## 박 원장은 당류의 단맛, 소금의 짠맛, 지방의 고소한 맛의 적절한 조합이 음식 중독자에게 중독으로 가는 쾌미(快味)를 안겨 준다고 설명한다.
+## <박:PER> 원장은 당류의 단맛, 소금의 짠맛, 지방의 고소한 맛의 적절한 조합이 음식 중독자에게 중독으로 가는 쾌미(快味)를 안겨 준다고 설명한다.
+박	박	NNP	B-PER
+_	_	_	O
+원장	원장	NNG	O
+은	은	JX	O
+_	_	_	O
+당류	당류	NNG	O
+의	의	JKG	O
+_	_	_	O
+단맛	단맛	NNG	O
+,	,	SP	O
+_	_	_	O
+소금	소금	NNG	O
+의	의	JKG	O
+_	_	_	O
+짠맛	짠맛	NNG	O
+,	,	SP	O
+_	_	_	O
+지방	지방	NNG	O
+의	의	JKG	O
+_	_	_	O
+고소한	고소하+ㄴ	VA+ETM	O
+_	_	_	O
+맛	맛	NNG	O
+의	의	JKG	O
+_	_	_	O
+적절한	적절하+ㄴ	VA+ETM	O
+_	_	_	O
+조합	조합	NNG	O
+이	이	JKS	O
+_	_	_	O
+음식	음식	NNG	O
+_	_	_	O
+중독자	중독자	NNG	O
+에게	에게	JKB	O
+_	_	_	O
+중독	중독	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+가	가	VV	O
+는	는	ETM	O
+_	_	_	O
+쾌미	쾌미	NNG	O
+(	(	SS	O
+快味	快味	SH	O
+)	)	SS	O
+를	를	JKO	O
+_	_	_	O
+안겨	안기+어	VV+EC	O
+_	_	_	O
+준다고	주+ㄴ다고	VX+EC	O
+_	_	_	O
+설명한다	설명하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 13
+## 에코 브리지/분당에 생태계 연결도로
+## 에코 브리지/<분당:LOC>에 생태계 연결도로
+에코	에코	NNP	O
+_	_	_	O
+브리지	브리지	NNG	O
+/	/	SP	O
+분당	분당	NNP	B-LOC
+에	에	JKB	O
+_	_	_	O
+생태계	생태계	NNG	O
+_	_	_	O
+연결	연결	NNG	O
+도로	도로	NNG	O
+
+## 14
+## 4월24일 시애틀전에선 첫 안타를 신고하기도 했다.
+## <4월24일:DAT> <시애틀:ORG>전에선 첫 안타를 신고하기도 했다.
+4	4	SN	B-DAT
+월	월	NNB	I-DAT
+24	24	SN	I-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+시애틀	시애틀	NNP	B-ORG
+전	전	NNG	O
+에선	에서+ㄴ	JKB+JX	O
+_	_	_	O
+첫	첫	MM	O
+_	_	_	O
+안타	안타	NNG	O
+를	를	JKO	O
+_	_	_	O
+신고하	신고하	VV	O
+기	기	ETN	O
+도	도	JX	O
+_	_	_	O
+했	+였	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 15
+## 그러나 최지만은 이후 선발보단 경기 막판 출전하며 좀처럼 타격감을 끌어올리지 못했다.
+## 그러나 <최지만:PER>은 이후 선발보단 경기 막판 출전하며 좀처럼 타격감을 끌어올리지 못했다.
+그러나	그러나	MAJ	O
+_	_	_	O
+최지만	최지만	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+이후	이후	NNG	O
+_	_	_	O
+선발	선발	NNG	O
+보단	보다+ㄴ	JKB+JX	O
+_	_	_	O
+경기	경기	NNG	O
+_	_	_	O
+막판	막판	NNG	O
+_	_	_	O
+출전하	출전하	VV	O
+며	며	EC	O
+_	_	_	O
+좀처럼	좀처럼	MAG	O
+_	_	_	O
+타격	타격	NNG	O
+감	감	XSN	O
+을	을	JKO	O
+_	_	_	O
+끌어올리	끌어올리	VV	O
+지	지	EC	O
+_	_	_	O
+못	못하	VX	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+

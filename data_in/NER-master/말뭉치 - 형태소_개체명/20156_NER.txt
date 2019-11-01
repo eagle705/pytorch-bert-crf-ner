@@ -1,0 +1,447 @@
+## 1
+## 그러나 유먼의 공이 볼 판정을 받았기 때문에 이 상황은 인플레이 상황이었고, 정범모가 홈을 비운 사이 2루 주자 정성훈까지 그 틈을 파고들어 홈으로 향했다.
+## 그러나 <유먼:PER>의 공이 볼 판정을 받았기 때문에 이 상황은 인플레이 상황이었고, <정범모:PER>가 홈을 비운 사이 <2루:NOH> 주자 <정성훈:PER>까지 그 틈을 파고들어 홈으로 향했다.
+그러나	그러나	MAJ	O
+_	_	_	O
+유먼	유먼	NNP	B-PER
+의	의	JKG	O
+_	_	_	O
+공	공	NNP	O
+이	이	JKS	O
+_	_	_	O
+볼	보+ㄹ	VV+ETM	O
+_	_	_	O
+판정	판정	NNG	O
+을	을	JKO	O
+_	_	_	O
+받	받	VV	O
+았	았	EP	O
+기	기	ETN	O
+_	_	_	O
+때문	때문	NNB	O
+에	에	JKB	O
+_	_	_	O
+이	이	MM	O
+_	_	_	O
+상황	상황	NNG	O
+은	은	JX	O
+_	_	_	O
+인	인	NNG	O
+플레이	플레이	NNG	O
+_	_	_	O
+상황	상황	NNG	O
+이	이	VCP	O
+었	었	EP	O
+고	고	EC	O
+,	,	SP	O
+_	_	_	O
+정범모	정범모	NNP	B-PER
+가	가	JKS	O
+_	_	_	O
+홈	홈	NNG	O
+을	을	JKO	O
+_	_	_	O
+비운	비우+ㄴ	VV+ETM	O
+_	_	_	O
+사이	사이	NNG	O
+_	_	_	O
+2	2	SN	B-NOH
+루	루	NNG	I-NOH
+_	_	_	O
+주자	주자	NNG	O
+_	_	_	O
+정성훈	정성훈	NNP	B-PER
+까지	까지	JX	O
+_	_	_	O
+그	그	MM	O
+_	_	_	O
+틈	틈	NNG	O
+을	을	JKO	O
+_	_	_	O
+파고들	파고들	VV	O
+어	어	EC	O
+_	_	_	O
+홈	홈	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+향	향하	VV	O
+했	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 특히, 3on3 프리스타일은 B2C 전시관에 부스를 마련한 소니의 플레이스테이션 부스에서도 시연되며 중국 콘솔게임 마니아들을 사로잡았다.
+## 특히, <3on3 프리스타일:ORG>은 B2C 전시관에 부스를 마련한 <소니:ORG>의 <플레이스테이션:POH> 부스에서도 시연되며 <중국:ORG> 콘솔게임 마니아들을 사로잡았다.
+특히	특히	MAG	O
+,	,	SP	O
+_	_	_	O
+3	3	SN	B-ORG
+on	on	SL	I-ORG
+3	3	SN	I-ORG
+_	_	_	I-ORG
+프리스타일	프리스타일	NNG	I-ORG
+은	은	JX	O
+_	_	_	O
+B	B	SL	O
+2	2	SN	O
+C	C	SL	O
+_	_	_	O
+전시관	전시관	NNG	O
+에	에	JKB	O
+_	_	_	O
+부스	부스	NNG	O
+를	를	JKO	O
+_	_	_	O
+마련한	마련하+ㄴ	VV+ETM	O
+_	_	_	O
+소니	소니	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+플레이스테이션	플레이스테이션	NNG	B-POH
+_	_	_	O
+부스	부스	NNG	O
+에서	에서	JKB	O
+도	도	JX	O
+_	_	_	O
+시연되	시연되	VV	O
+며	며	EC	O
+_	_	_	O
+중국	중국	NNP	B-ORG
+_	_	_	O
+콘솔	콘솔	NNG	O
+게임	게임	NNG	O
+_	_	_	O
+마니아	마니아	NNG	O
+들	들	XSN	O
+을	을	JKO	O
+_	_	_	O
+사로잡	사로잡	VV	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 오랜 기간 한국의 온라인게임을 서비스해온 세기천성은 한국게임을 대거 선보였다.
+## 오랜 기간 <한국:ORG>의 온라인게임을 서비스해온 <세기천성:ORG>은 <한국:ORG>게임을 대거 선보였다.
+오랜	오랜	MM	O
+_	_	_	O
+기간	기간	NNG	O
+_	_	_	O
+한국	한국	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+온라인	온라인	NNG	O
+게임	게임	NNG	O
+을	을	JKO	O
+_	_	_	O
+서비스해	서비스하+여	VV+EC	O
+온	오+ㄴ	VX+ETM	O
+_	_	_	O
+세기	세기	NNG	B-ORG
+천성	천성	NNG	I-ORG
+은	은	JX	O
+_	_	_	O
+한국	한국	NNP	B-ORG
+게임	게임	NNG	O
+을	을	JKO	O
+_	_	_	O
+대거	대거	MAG	O
+_	_	_	O
+선보	선보이	VV	O
+였	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 이에 이번 ‘삐콤씨 액티브’ 출시로 진화한 제품력은 물론 소비자의 변화하는 성향에 따른 선택의 폭을 한층 넓히게 된 것이다.
+## 이에 이번 ‘<삐콤씨 액티브:POH>’ 출시로 진화한 제품력은 물론 소비자의 변화하는 성향에 따른 선택의 폭을 한층 넓히게 된 것이다.
+이	이	NP	O
+에	에	JKB	O
+_	_	_	O
+이번	이번	NNG	O
+_	_	_	O
+‘	‘	SS	O
+삐콤씨	삐콤씨	NNP	B-POH
+_	_	_	I-POH
+액티브	액티브	NNG	I-POH
+’	’	SS	O
+_	_	_	O
+출시	출시	NNG	O
+로	로	JKB	O
+_	_	_	O
+진화한	진화하+ㄴ	VV+ETM	O
+_	_	_	O
+제품력	제품력	NNG	O
+은	은	JX	O
+_	_	_	O
+물론	물론	MAG	O
+_	_	_	O
+소비자	소비자	NNG	O
+의	의	JKG	O
+_	_	_	O
+변화하	변화하	VV	O
+는	는	ETM	O
+_	_	_	O
+성향	성향	NNG	O
+에	에	JKB	O
+_	_	_	O
+따른	따르+ㄴ	VV+ETM	O
+_	_	_	O
+선택	선택	NNG	O
+의	의	JKG	O
+_	_	_	O
+폭	폭	NNG	O
+을	을	JKO	O
+_	_	_	O
+한층	한층	MAG	O
+_	_	_	O
+넓히	넓히	VV	O
+게	게	EC	O
+_	_	_	O
+된	되+ㄴ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 법원이 신격호 롯데그룹 총괄회장(94·사진)의 한정 후견 개시 결정을 내렸다.
+## 법원이 <신격호:PER> <롯데그룹:ORG> 총괄회장(<94:NOH>·사진)의 한정 후견 개시 결정을 내렸다.
+법원	법원	NNG	O
+이	이	JKS	O
+_	_	_	O
+신격호	신격호	NNP	B-PER
+_	_	_	O
+롯데	롯데	NNP	B-ORG
+그룹	그룹	NNG	I-ORG
+_	_	_	O
+총괄	총괄	NNG	O
+회장	회장	NNG	O
+(	(	SS	O
+94	94	SN	B-NOH
+·	·	SP	O
+사진	사진	NNG	O
+)	)	SS	O
+의	의	JKG	O
+_	_	_	O
+한정	한정	NNG	O
+_	_	_	O
+후견	후견	NNG	O
+_	_	_	O
+개시	개시	NNG	O
+_	_	_	O
+결정	결정	NNG	O
+을	을	JKO	O
+_	_	_	O
+내	내리	VV	O
+렸	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## [열린 시선/홍익태]피서철 바닷가 안전사고 철저히 막아야
+## [열린 시선/<홍익태:PER>]피서철 바닷가 안전사고 철저히 막아야
+[	[	SS	O
+열린	열리+ㄴ	VV+ETM	O
+_	_	_	O
+시선	시선	NNG	O
+/	/	SP	O
+홍익태	홍익태	NNP	B-PER
+]	]	SS	O
+피서	피서	NNG	O
+철	철	NNG	O
+_	_	_	O
+바닷가	바닷가	NNG	O
+_	_	_	O
+안전사고	안전사고	NNG	O
+_	_	_	O
+철저히	철저히	MAG	O
+_	_	_	O
+막	막	VV	O
+아야	아야	EC	O
+
+## 7
+## 일을 시작하고 체중이 4kg이나 빠졌다.
+## 일을 시작하고 체중이 <4kg:NOH>이나 빠졌다.
+일	일	NNG	O
+을	을	JKO	O
+_	_	_	O
+시작하	시작하	VV	O
+고	고	EC	O
+_	_	_	O
+체중	체중	NNG	O
+이	이	JKS	O
+_	_	_	O
+4	4	SN	B-NOH
+kg	kg	SL	I-NOH
+이나	이나	JX	O
+_	_	_	O
+빠	빠지	VV	O
+졌	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 전업작가가 되면 현실 문제로부터 유리될까 걱정이라면서도, 2013년 전업작가가 됐다.
+## 전업작가가 되면 현실 문제로부터 유리될까 걱정이라면서도, <2013년:DAT> 전업작가가 됐다.
+전업	전업	NNG	O
+작가	작가	NNG	O
+가	가	JKC	O
+_	_	_	O
+되	되	VV	O
+면	면	EC	O
+_	_	_	O
+현실	현실	NNG	O
+_	_	_	O
+문제	문제	NNG	O
+로부터	로부터	JKB	O
+_	_	_	O
+유리될까	유리되+ㄹ까	VV+EC	O
+_	_	_	O
+걱정	걱정	NNG	O
+이	이	VCP	O
+라면서	라면서	EC	O
+도	도	JX	O
+,	,	SP	O
+_	_	_	O
+2013	2013	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+전업	전업	NNG	O
+작가	작가	NNG	O
+가	가	JKC	O
+_	_	_	O
+됐	+었	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 4대 개혁 완수 다짐으로 화답한 새누리당 박 대통령과 함께 헤드테이블에 앉은 새누리당 지도부는 일제히 박 대통령에게 힘을 실어줬다.
+## <4대:NOH> 개혁 완수 다짐으로 화답한 <새누리당:ORG> <박:PER> 대통령과 함께 헤드테이블에 앉은 <새누리당:ORG> 지도부는 일제히 <박:PER> 대통령에게 힘을 실어줬다.
+4	4	SN	B-NOH
+대	대	NNG	I-NOH
+_	_	_	O
+개혁	개혁	NNG	O
+_	_	_	O
+완수	완수	NNG	O
+_	_	_	O
+다짐	다짐	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+화답한	화답하+ㄴ	VV+ETM	O
+_	_	_	O
+새누리당	새누리당	NNP	B-ORG
+_	_	_	O
+박	박	NNP	B-PER
+_	_	_	O
+대통령	대통령	NNG	O
+과	과	JKB	O
+_	_	_	O
+함께	함께	MAG	O
+_	_	_	O
+헤드	헤드	NNG	O
+테이블	테이블	NNG	O
+에	에	JKB	O
+_	_	_	O
+앉	앉	VV	O
+은	은	ETM	O
+_	_	_	O
+새누리당	새누리당	NNP	B-ORG
+_	_	_	O
+지도부	지도부	NNG	O
+는	는	JX	O
+_	_	_	O
+일제히	일제히	MAG	O
+_	_	_	O
+박	박	NNP	B-PER
+_	_	_	O
+대통령	대통령	NNG	O
+에게	에게	JKB	O
+_	_	_	O
+힘	힘	NNG	O
+을	을	JKO	O
+_	_	_	O
+실	싣	VV	O
+어	어+주	EC+VX	O
+줬	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 게다가 이번 수상에 직접 관계된 김경인의 근래의 주목할만한 변신의 작품들인 「소나무」 연작의 사념성 짙은 표현주의 작업에서도 기묘한 인연관계가 말해질만하다.
+## 게다가 이번 수상에 직접 관계된 <김경인:PER>의 근래의 주목할만한 변신의 작품들인 「<소나무:POH>」 연작의 사념성 짙은 표현주의 작업에서도 기묘한 인연관계가 말해질만하다.
+게다가	게다가	MAG	O
+_	_	_	O
+이번	이번	NNG	O
+_	_	_	O
+수상	수상	NNG	O
+에	에	JKB	O
+_	_	_	O
+직접	직접	MAG	O
+_	_	_	O
+관계된	관계되+ㄴ	VV+ETM	O
+_	_	_	O
+김경인	김경인	NNP	B-PER
+의	의	JKG	O
+_	_	_	O
+근래	근래	NNG	O
+의	의	JKG	O
+_	_	_	O
+주목할	주목하+ㄹ	VV+ETM	O
+만한	만하+ㄴ	VX+ETM	O
+_	_	_	O
+변신	변신	NNG	O
+의	의	JKG	O
+_	_	_	O
+작품	작품	NNG	O
+들	들	XSN	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+「	「	SS	O
+소나무	소나무	NNG	B-POH
+」	」	SS	O
+_	_	_	O
+연작	연작	NNG	O
+의	의	JKG	O
+_	_	_	O
+사념	사념	NNG	O
+성	성	NNG	O
+_	_	_	O
+짙	짙	VA	O
+은	은	ETM	O
+_	_	_	O
+표현주의	표현주의	NNG	O
+_	_	_	O
+작업	작업	NNG	O
+에서	에서	JKB	O
+도	도	JX	O
+_	_	_	O
+기묘한	기묘하+ㄴ	VA+ETM	O
+_	_	_	O
+인연	인연	NNG	O
+관계	관계	NNG	O
+가	가	JKS	O
+_	_	_	O
+말해	말하+여	VV+EC	O
+질	지+ㄹ	VX+ETM	O
+만하	만하	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 보훈처 감사결과… 인사비리 사실로
+## <보훈처:ORG> 감사결과… 인사비리 사실로
+보훈	보훈	NNG	B-ORG
+처	처	XSN	I-ORG
+_	_	_	O
+감사	감사	NNG	O
+결과	결과	NNG	O
+…	…	SE	O
+_	_	_	O
+인사	인사	NNG	O
+비리	비리	NNG	O
+_	_	_	O
+사실	사실	NNG	O
+로	로	JKB	O
+

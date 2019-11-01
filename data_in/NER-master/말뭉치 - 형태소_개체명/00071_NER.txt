@@ -1,0 +1,319 @@
+## 1
+## 18일 밤9시에 함흥에서 혜산으로 가는 기차를 타 19일 저녁 5시에 혜산에 도착했다.
+## <18일:DAT> <밤9시:TIM>에 <함흥:LOC>에서 <혜산:LOC>으로 가는 기차를 타 <19일:DAT> <저녁 5시:TIM>에 <혜산:LOC>에 도착했다.
+18	18	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+밤	밤	NNG	B-TIM
+9	9	SN	I-TIM
+시	시	NNB	I-TIM
+에	에	JKB	O
+_	_	_	O
+함흥	함흥	NNP	B-LOC
+에서	에서	JKB	O
+_	_	_	O
+혜산	혜산	NNP	B-LOC
+으로	으로	JKB	O
+_	_	_	O
+가	가	VV	O
+는	는	ETM	O
+_	_	_	O
+기차	기차	NNG	O
+를	를	JKO	O
+_	_	_	O
+타	타+아	VV+EC	O
+_	_	_	O
+19	19	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+저녁	저녁	NNG	B-TIM
+_	_	_	I-TIM
+5	5	SN	I-TIM
+시	시	NNB	I-TIM
+에	에	JKB	O
+_	_	_	O
+혜산	혜산	NNP	B-LOC
+에	에	JKB	O
+_	_	_	O
+도착	도착하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## (서울=뉴스1)
+## (<서울:LOC>=<뉴스1:ORG>)
+(	(	SS	O
+서울	서울	NNP	B-LOC
+=	=	SW	O
+뉴스	뉴스	NNG	B-ORG
+1	1	SN	I-ORG
+)	)	SS	O
+
+## 3
+## 세계적인 석학 등 국내외 유명 지식인 21명의 강연을 직접 듣고 2016년 새해를 남다르게 출발해보자. ‘그랜드 마스터 클래스: 빅 퀘스천 2016(GRAND MASTER CLASS: BIG QUESTION 2016)’이 2016년 1월 29일(금)∼31일(일) 매일 낮 12시∼오후 8시 서울 동대문구 경희대 평화의 전당에서 열린다.
+## 세계적인 석학 등 국내외 유명 지식인 <21명:NOH>의 강연을 직접 듣고 <2016년:DAT> 새해를 남다르게 출발해보자. ‘<그랜드 마스터 클래스: 빅 퀘스천 2016:POH>(<GRAND MASTER CLASS: BIG QUESTION 2016:POH>)’이 <2016년 1월 29일(금)∼31일(일):DUR> 매일 <낮 12시∼오후 8시:DUR> <서울:LOC> <동대문구:LOC> <경희대 평화의 전당:LOC>에서 열린다.
+세계적	세계적	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+석학	석학	NNG	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+국내외	국내외	NNG	O
+_	_	_	O
+유명	유명	NNG	O
+_	_	_	O
+지식인	지식인	NNG	O
+_	_	_	O
+21	21	SN	B-NOH
+명	명	NNB	I-NOH
+의	의	JKG	O
+_	_	_	O
+강연	강연	NNG	O
+을	을	JKO	O
+_	_	_	O
+직접	직접	MAG	O
+_	_	_	O
+듣	듣	VV	O
+고	고	EC	O
+_	_	_	O
+2016	2016	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+새해	새해	NNG	O
+를	를	JKO	O
+_	_	_	O
+남다르	남다르	VA	O
+게	게	EC	O
+_	_	_	O
+출발해	출발하+여	VV+EC	O
+보	보	VX	O
+자	자	EF	O
+.	.	SF	O
+_	_	_	O
+‘	‘	SS	O
+그랜드	그랜드	NNG	B-POH
+_	_	_	I-POH
+마스터	마스터	NNG	I-POH
+_	_	_	I-POH
+클래스	클래스	NNG	I-POH
+:	:	SP	I-POH
+_	_	_	I-POH
+빅	빅	NNG	I-POH
+_	_	_	I-POH
+퀘스천	퀘스천	NNG	I-POH
+_	_	_	I-POH
+2016	2016	SN	I-POH
+(	(	SS	O
+GRAND	GRAND	SL	B-POH
+_	_	_	I-POH
+MASTER	MASTER	SL	I-POH
+_	_	_	I-POH
+CLASS	CLASS	SL	I-POH
+:	:	SP	I-POH
+_	_	_	I-POH
+BIG	BIG	SL	I-POH
+_	_	_	I-POH
+QUESTION	QUESTION	SL	I-POH
+_	_	_	I-POH
+2016	2016	SN	I-POH
+)	)	SS	O
+’	’	SS	O
+이	이	JKS	O
+_	_	_	O
+2016	2016	SN	B-DUR
+년	년	NNB	I-DUR
+_	_	_	I-DUR
+1	1	SN	I-DUR
+월	월	NNB	I-DUR
+_	_	_	I-DUR
+29	29	SN	I-DUR
+일	일	NNB	I-DUR
+(	(	SS	I-DUR
+금	금	NNG	I-DUR
+)	)	SS	I-DUR
+∼	∼	SO	I-DUR
+31	31	SN	I-DUR
+일	일	NNB	I-DUR
+(	(	SS	I-DUR
+일	일	NNP	I-DUR
+)	)	SS	I-DUR
+_	_	_	O
+매일	매일	MAG	O
+_	_	_	O
+낮	낮	NNG	B-DUR
+_	_	_	I-DUR
+12	12	SN	I-DUR
+시	시	NNB	I-DUR
+∼	∼	SO	I-DUR
+오후	오후	NNG	I-DUR
+_	_	_	I-DUR
+8	8	SN	I-DUR
+시	시	NNB	I-DUR
+_	_	_	O
+서울	서울	NNP	B-LOC
+_	_	_	O
+동대문구	동대문구	NNP	B-LOC
+_	_	_	O
+경희대	경희대	NNP	B-LOC
+_	_	_	I-LOC
+평화	평화	NNG	I-LOC
+의	의	JKG	I-LOC
+_	_	_	I-LOC
+전당	전당	NNG	I-LOC
+에서	에서	JKB	O
+_	_	_	O
+열린다	열리+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 4
+## 정치권에서는 5월9일을 유력한 조기 대선일로 전망하고 있다.
+## 정치권에서는 <5월9일:DAT>을 유력한 조기 대선일로 전망하고 있다.
+정치권	정치권	NNG	O
+에서	에서	JKB	O
+는	는	JX	O
+_	_	_	O
+5	5	SN	B-DAT
+월	월	NNB	I-DAT
+9	9	SN	I-DAT
+일	일	NNB	I-DAT
+을	을	JKO	O
+_	_	_	O
+유력한	유력하+ㄴ	VA+ETM	O
+_	_	_	O
+조기	조기	NNG	O
+_	_	_	O
+대선	대선	NNG	O
+일	일	XSN	O
+로	로	JKB	O
+_	_	_	O
+전망하	전망하	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 유람선 불 10여명사망/어제오후/충주호/백34명 승선…20여명부상
+## 유람선 불 <10여명:NOH>사망/어제오후/<충주호:LOC>/<백34명:NOH> 승선…<20여명:NOH>부상
+유람선	유람선	NNG	O
+_	_	_	O
+불	불	NNG	O
+_	_	_	O
+10	10	SN	B-NOH
+여	여	XSN	I-NOH
+명	명	NNB	I-NOH
+사망	사망	NNG	O
+/	/	SP	O
+어제	어제	NNG	O
+오후	오후	NNG	O
+/	/	SP	O
+충주호	충주호	NNP	B-LOC
+/	/	SP	O
+백	백	NR	B-NOH
+34	34	SN	I-NOH
+명	명	NNB	I-NOH
+_	_	_	O
+승선	승선	NNG	O
+…	…	SE	O
+20	20	SN	B-NOH
+여	여	NNG	I-NOH
+명부	명부	NNG	O
+상	상	XSN	O
+
+## 6
+## 한편 권다현과 미쓰라진은 오는 10월 결혼식을 올린다고 한다.
+## 한편 <권다현:PER>과 <미쓰라진:PER>은 오는 <10월:DAT> 결혼식을 올린다고 한다.
+한편	한편	MAG	O
+_	_	_	O
+권다현	권다현	NNP	B-PER
+과	과	JC	O
+_	_	_	O
+미쓰	미스	NNG	B-PER
+라진	라진	NNP	I-PER
+은	은	JX	O
+_	_	_	O
+오	오	VV	O
+는	는	ETM	O
+_	_	_	O
+10	10	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+결혼식	결혼식	NNG	O
+을	을	JKO	O
+_	_	_	O
+올린다고	올리+ㄴ다고	VV+EC	O
+_	_	_	O
+한다	하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 7
+## 자녀장려금 1인 최대 50만원 9월 16일께 저소득층에 지급
+## 자녀장려금 <1인:NOH> 최대 <50만원:MNY> <9월 16일:DAT>께 저소득층에 지급
+자녀	자녀	NNG	O
+장려금	장려금	NNG	O
+_	_	_	O
+1	1	SN	B-NOH
+인	인	NNG	I-NOH
+_	_	_	O
+최대	최대	NNG	O
+_	_	_	O
+50	50	SN	B-MNY
+만	만	NR	I-MNY
+원	원	NNB	I-MNY
+_	_	_	O
+9	9	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	I-DAT
+16	16	SN	I-DAT
+일	일	NNB	I-DAT
+께	께	XSN	O
+_	_	_	O
+저소득층	저소득층	NNG	O
+에	에	JKB	O
+_	_	_	O
+지급	지급	NNG	O
+
+## 8
+## 유니온페이 카드는 전 세계적으로 46억 장이 발급됐다.
+## <유니온페이:ORG> 카드는 전 세계적으로 <46억 장:NOH>이 발급됐다.
+유니온	유니온	NNG	B-ORG
+페이	페이	NNG	I-ORG
+_	_	_	O
+카드	카드	NNG	O
+는	는	JX	O
+_	_	_	O
+전	전	MM	O
+_	_	_	O
+세계적	세계적	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+46	46	SN	B-NOH
+억	억	NR	I-NOH
+_	_	_	I-NOH
+장	장	NNB	I-NOH
+이	이	JKS	O
+_	_	_	O
+발급	발급되	VV	O
+됐	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 본격적인 추위는 28일부터 시작된다.
+## 본격적인 추위는 <28일:DAT>부터 시작된다.
+본격적	본격적	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+추위	추위	NNG	O
+는	는	JX	O
+_	_	_	O
+28	28	SN	B-DAT
+일	일	NNB	I-DAT
+부터	부터	JX	O
+_	_	_	O
+시작된다	시작되+ㄴ다	VV+EF	O
+.	.	SF	O
+

@@ -1,0 +1,524 @@
+## 1
+## 이번 강의는 서울을 시작으로 인천, 수원, 부산, 대전, 광주 등 전국 주요 도시 투어 형식으로 진행할 예정이다.
+## 이번 강의는 <서울:LOC>을 시작으로 <인천:LOC>, <수원:LOC>, <부산:LOC>, <대전:LOC>, <광주:LOC> 등 전국 주요 도시 투어 형식으로 진행할 예정이다.
+이번	이번	NNG	O
+_	_	_	O
+강의	강의	NNG	O
+는	는	JX	O
+_	_	_	O
+서울	서울	NNP	B-LOC
+을	을	JKO	O
+_	_	_	O
+시작	시작	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+인천	인천	NNP	B-LOC
+,	,	SP	O
+_	_	_	O
+수원	수원	NNP	B-LOC
+,	,	SP	O
+_	_	_	O
+부산	부산	NNP	B-LOC
+,	,	SP	O
+_	_	_	O
+대전	대전	NNP	B-LOC
+,	,	SP	O
+_	_	_	O
+광주	광주	NNP	B-LOC
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+전국	전국	NNG	O
+_	_	_	O
+주요	주요	NNG	O
+_	_	_	O
+도시	도시	NNG	O
+_	_	_	O
+투어	투어	NNG	O
+_	_	_	O
+형식	형식	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+진행할	진행하+ㄹ	VV+ETM	O
+_	_	_	O
+예정	예정	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 참석자 전원에게 전국15일 경매정보이용권과 추천도서 1권이 제공된다.
+## 참석자 전원에게 전국<15일:DAT> 경매정보이용권과 추천도서 <1권:NOH>이 제공된다.
+참석자	참석자	NNG	O
+_	_	_	O
+전원	전원	NNG	O
+에게	에게	JKB	O
+_	_	_	O
+전국	전국	NNG	O
+15	15	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+경매	경매	NNG	O
+정보	정보	NNG	O
+이용	이용	NNG	O
+권	권	XSN	O
+과	과	JC	O
+_	_	_	O
+추천	추천	NNG	O
+도서	도서	NNG	O
+_	_	_	O
+1	1	SN	B-NOH
+권	권	NNB	I-NOH
+이	이	JKS	O
+_	_	_	O
+제공된다	제공되+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 3
+## 보고서는 2030년이면 이곳의 60세 이상 인구가 전체 선진국 도시 지출의 51%, 전 세계 도시 지출의 19%를 차지할 것으로 예측했다.
+## 보고서는 <2030년:DAT>이면 이곳의 <60세:NOH> 이상 인구가 전체 선진국 도시 지출의 <51%:PNT>, 전 세계 도시 지출의 <19%:PNT>를 차지할 것으로 예측했다.
+보고서	보고서	NNG	O
+는	는	JX	O
+_	_	_	O
+2030	2030	SN	B-DAT
+년	년	NNB	I-DAT
+이	이	VCP	O
+면	면	EC	O
+_	_	_	O
+이곳	이곳	NP	O
+의	의	JKG	O
+_	_	_	O
+60	60	SN	B-NOH
+세	세	NNB	I-NOH
+_	_	_	O
+이상	이상	NNG	O
+_	_	_	O
+인구	인구	NNG	O
+가	가	JKS	O
+_	_	_	O
+전체	전체	NNG	O
+_	_	_	O
+선진국	선진국	NNG	O
+_	_	_	O
+도시	도시	NNG	O
+_	_	_	O
+지출	지출	NNG	O
+의	의	JKG	O
+_	_	_	O
+51	51	SN	B-PNT
+%	%	SW	I-PNT
+,	,	SP	O
+_	_	_	O
+전	전	MM	O
+_	_	_	O
+세계	세계	NNG	O
+_	_	_	O
+도시	도시	NNG	O
+_	_	_	O
+지출	지출	NNG	O
+의	의	JKG	O
+_	_	_	O
+19	19	SN	B-PNT
+%	%	SW	I-PNT
+를	를	JKO	O
+_	_	_	O
+차지할	차지하+ㄹ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+예측	예측하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 홍준표 ‘서문시장’ 발언에 박사모 발끈 “막말 말고 김진태에 양보하라”
+## <홍준표:PER> ‘<서문시장:LOC>’ 발언에 <박사모:ORG> 발끈 “막말 말고 <김진태:PER>에 양보하라”
+홍준표	홍준표	NNP	B-PER
+_	_	_	O
+‘	‘	SS	O
+서문시장	서문시장	NNP	B-LOC
+’	’	SS	O
+_	_	_	O
+발언	발언	NNG	O
+에	에	JKB	O
+_	_	_	O
+박사모	박사모	NNP	B-ORG
+_	_	_	O
+발끈	발끈	MAG	O
+_	_	_	O
+“	“	SS	O
+막말	막말	NNG	O
+_	_	_	O
+말	말	VV	O
+고	고	EC	O
+_	_	_	O
+김진태	김진태	NNP	B-PER
+에	에	JKB	O
+_	_	_	O
+양보하	양보하	VV	O
+라	라	EF	O
+”	”	SS	O
+
+## 5
+## 수원~광명 고속도로도 개통(2016년 4월)을 앞두고 있다.
+## <수원:LOC>~<광명:LOC> 고속도로도 개통(<2016년 4월:DAT>)을 앞두고 있다.
+수원	수원	NNP	B-LOC
+~	~	SO	O
+광명	광명	NNP	B-LOC
+_	_	_	O
+고속도로	고속도로	NNG	O
+도	도	JX	O
+_	_	_	O
+개통	개통	NNG	O
+(	(	SS	O
+2016	2016	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	I-DAT
+4	4	SN	I-DAT
+월	월	NNB	I-DAT
+)	)	SS	O
+을	을	JKO	O
+_	_	_	O
+앞두	앞두	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 이정현 여우주연상, 눈물의 수상소감… “너무 작은 작품이라 상 받을지 몰랐다”
+## <이정현:PER> 여우주연상, 눈물의 수상소감… “너무 작은 작품이라 상 받을지 몰랐다”
+이정현	이정현	NNP	B-PER
+_	_	_	O
+여우	여우	NNG	O
+주연	주연	NNG	O
+상	상	NNG	O
+,	,	SP	O
+_	_	_	O
+눈물	눈물	NNG	O
+의	의	JKG	O
+_	_	_	O
+수상	수상	NNG	O
+소감	소감	NNG	O
+…	…	SE	O
+_	_	_	O
+“	“	SS	O
+너무	너무	MAG	O
+_	_	_	O
+작	작	VA	O
+은	은	ETM	O
+_	_	_	O
+작품	작품	NNG	O
+이	이	VCP	O
+라	라	EC	O
+_	_	_	O
+상	상	NNG	O
+_	_	_	O
+받	받	VV	O
+을지	을지	EC	O
+_	_	_	O
+몰	모르	VV	O
+랐	았	EP	O
+다	다	EF	O
+”	”	SS	O
+
+## 7
+## [바다로, 세계로! 名品 부울경]29일부터 해운대 모래축제
+## [바다로, 세계로! 名品 부울경]<29일:DAT>부터 <해운대:LOC> 모래축제
+[	[	SS	O
+바다	바다	NNG	O
+로	로	JKB	O
+,	,	SP	O
+_	_	_	O
+세계	세계	NNG	O
+로	로	JKB	O
+!	!	SF	O
+_	_	_	O
+名品	名品	SH	O
+_	_	_	O
+부울	부울	NNP	O
+경	경	XSN	O
+]	]	SS	O
+29	29	SN	B-DAT
+일	일	NNB	I-DAT
+부터	부터	JX	O
+_	_	_	O
+해운대	해운대	NNP	B-LOC
+_	_	_	O
+모래	모래	NNG	O
+축제	축제	NNG	O
+
+## 8
+## 명종은 임금에게 충성하며 문신과 무신의 균형을 통해 국가의 질서를 바로잡으려던 무신정권의 세 번째 집권자 경대승도 외면했다.
+## <명종:PER>은 임금에게 충성하며 문신과 무신의 균형을 통해 국가의 질서를 바로잡으려던 무신정권의 세 번째 집권자 <경대승:PER>도 외면했다.
+명종	명종	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+임금	임금	NNG	O
+에게	에게	JKB	O
+_	_	_	O
+충성하	충성하	VV	O
+며	며	EC	O
+_	_	_	O
+문신	문신	NNG	O
+과	과	JC	O
+_	_	_	O
+무신	무신	NNG	O
+의	의	JKG	O
+_	_	_	O
+균형	균형	NNG	O
+을	을	JKO	O
+_	_	_	O
+통해	통하+여	VV+EC	O
+_	_	_	O
+국가	국가	NNG	O
+의	의	JKG	O
+_	_	_	O
+질서	질서	NNG	O
+를	를	JKO	O
+_	_	_	O
+바로잡	바로잡	VV	O
+으려던	으려던	ETM	O
+_	_	_	O
+무신	무신	NNG	O
+정권	정권	NNG	O
+의	의	JKG	O
+_	_	_	O
+세	세	MM	O
+_	_	_	O
+번째	번째	NNB	O
+_	_	_	O
+집권자	집권자	NNG	O
+_	_	_	O
+경대승	경대승	NNP	B-PER
+도	도	JX	O
+_	_	_	O
+외면	외면하	VV	O
+했	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 이달 말까지 열리는 금원산 얼음축제에 가면 얼음 조각 원숭이를 볼 수 있다.
+## 이달 말까지 열리는 <금원산:LOC> 얼음축제에 가면 얼음 조각 원숭이를 볼 수 있다.
+이달	이달	NNG	O
+_	_	_	O
+말	말	NNB	O
+까지	까지	JX	O
+_	_	_	O
+열리	열리	VV	O
+는	는	ETM	O
+_	_	_	O
+금원산	금원산	NNP	B-LOC
+_	_	_	O
+얼음	얼음	NNG	O
+축제	축제	NNG	O
+에	에	JKB	O
+_	_	_	O
+가	가	VV	O
+면	면	EC	O
+_	_	_	O
+얼음	얼음	NNG	O
+_	_	_	O
+조각	조각	NNG	O
+_	_	_	O
+원숭이	원숭이	NNG	O
+를	를	JKO	O
+_	_	_	O
+볼	보+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 끊임없는 혁명에 동참하도록 마오쩌둥 주석이 강한 드라이브를 걸었다.
+## 끊임없는 혁명에 동참하도록 <마오쩌둥:PER> 주석이 강한 드라이브를 걸었다.
+끊임없	끊임없	VA	O
+는	는	ETM	O
+_	_	_	O
+혁명	혁명	NNG	O
+에	에	JKB	O
+_	_	_	O
+동참하	동참하	VV	O
+도록	도록	EC	O
+_	_	_	O
+마오쩌둥	마오쩌둥	NNP	B-PER
+_	_	_	O
+주석	주석	NNG	O
+이	이	JKS	O
+_	_	_	O
+강한	강하+ㄴ	VA+ETM	O
+_	_	_	O
+드라이브	드라이브	NNG	O
+를	를	JKO	O
+_	_	_	O
+걸	걸	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 현행 방식은 제도의 취지와 달리 교직 사회를 혼란스럽게 하기 때문에 교사의 사기를 진작할 수 있는 방식으로 개선돼야 한다는 것. 하 회장은 교육 현장을 무너뜨리는 포퓰리즘적 정책에 대해 반대 입장을 분명히 밝혔다.
+## 현행 방식은 제도의 취지와 달리 교직 사회를 혼란스럽게 하기 때문에 교사의 사기를 진작할 수 있는 방식으로 개선돼야 한다는 것. <하:PER> 회장은 교육 현장을 무너뜨리는 포퓰리즘적 정책에 대해 반대 입장을 분명히 밝혔다.
+현행	현행	NNG	O
+_	_	_	O
+방식	방식	NNG	O
+은	은	JX	O
+_	_	_	O
+제도	제도	NNG	O
+의	의	JKG	O
+_	_	_	O
+취지	취지	NNG	O
+와	와	JKB	O
+_	_	_	O
+달리	달리	MAG	O
+_	_	_	O
+교직	교직	NNG	O
+_	_	_	O
+사회	사회	NNG	O
+를	를	JKO	O
+_	_	_	O
+혼란스럽	혼란스럽	VA	O
+게	게	EC	O
+_	_	_	O
+하	하	VX	O
+기	기	ETN	O
+_	_	_	O
+때문	때문	NNB	O
+에	에	JKB	O
+_	_	_	O
+교사	교사	NNG	O
+의	의	JKG	O
+_	_	_	O
+사기	사기	NNG	O
+를	를	JKO	O
+_	_	_	O
+진작할	진작하+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+는	는	ETM	O
+_	_	_	O
+방식	방식	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+개선돼야	개선되+어야	VV+EC	O
+_	_	_	O
+한다는	하+ㄴ다는	VX+ETM	O
+_	_	_	O
+것	것	NNB	O
+.	.	SF	O
+_	_	_	O
+하	하	NNP	B-PER
+_	_	_	O
+회장	회장	NNG	O
+은	은	JX	O
+_	_	_	O
+교육	교육	NNG	O
+_	_	_	O
+현장	현장	NNG	O
+을	을	JKO	O
+_	_	_	O
+무너뜨리	무너뜨리	VV	O
+는	는	ETM	O
+_	_	_	O
+포퓰리즘	포퓰리즘	NNG	O
+적	적	XSN	O
+_	_	_	O
+정책	정책	NNG	O
+에	에	JKB	O
+_	_	_	O
+대해	대하+여	VV+EC	O
+_	_	_	O
+반대	반대	NNG	O
+_	_	_	O
+입장	입장	NNG	O
+을	을	JKO	O
+_	_	_	O
+분명히	분명히	MAG	O
+_	_	_	O
+밝	밝히	VV	O
+혔	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 후보 난립 탓에 트럼프가 독주한다며 루비오와 크루즈가 단일화해야 한다는 견해도 나온다.
+## 후보 난립 탓에 <트럼프:PER>가 독주한다며 <루비오:PER>와 <크루즈:PER>가 단일화해야 한다는 견해도 나온다.
+후보	후보	NNG	O
+_	_	_	O
+난립	난립	NNG	O
+_	_	_	O
+탓	탓	NNG	O
+에	에	JKB	O
+_	_	_	O
+트럼프	트럼프	NNP	B-PER
+가	가	JKS	O
+_	_	_	O
+독주한다며	독주하+ㄴ다며	VV+EC	O
+_	_	_	O
+루비오	루비오	NNP	B-PER
+와	와	JC	O
+_	_	_	O
+크루즈	크루즈	NNG	B-PER
+가	가	JKS	O
+_	_	_	O
+단일화해야	단일화하+여야	VV+EC	O
+_	_	_	O
+한다는	하+ㄴ다는	VX+ETM	O
+_	_	_	O
+견해	견해	NNG	O
+도	도	JX	O
+_	_	_	O
+나온다	나오+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 13
+## 트럼프의 네바다 승리 직후 LA타임스는 이를 주장하는 미 보수 칼럼니스트 조나 골드버그의 칼럼을 실었다.
+## <트럼프:PER>의 <네바다:LOC> 승리 직후 <LA타임스:ORG>는 이를 주장하는 미 보수 칼럼니스트 <조나 골드버그:PER>의 칼럼을 실었다.
+트럼프	트럼프	NNG	B-PER
+의	의	JKG	O
+_	_	_	O
+네바다	네바다	NNP	B-LOC
+_	_	_	O
+승리	승리	NNG	O
+_	_	_	O
+직후	직후	NNG	O
+_	_	_	O
+LA	LA	SL	B-ORG
+타임스	타임스	NNG	I-ORG
+는	는	JX	O
+_	_	_	O
+이	이	NP	O
+를	를	JKO	O
+_	_	_	O
+주장하	주장하	VV	O
+는	는	ETM	O
+_	_	_	O
+미	미	NNP	O
+_	_	_	O
+보수	보수	NNG	O
+_	_	_	O
+칼럼니스트	칼럼니스트	NNG	O
+_	_	_	O
+조	조	NNG	B-PER
+나	나	JC	I-PER
+_	_	_	I-PER
+골드버그	골드버그	NNP	I-PER
+의	의	JKG	O
+_	_	_	O
+칼럼	칼럼	NNG	O
+을	을	JKO	O
+_	_	_	O
+실	싣	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+

@@ -1,0 +1,515 @@
+## 1
+## 플로리다 주정부는 클럭스턴에게 사면을 통고하면서 몇가지 조건을 달았다.
+## <플로리다 주정부:ORG>는 <클럭스턴:PER>에게 사면을 통고하면서 몇가지 조건을 달았다.
+플로리다	플로리다	NNP	B-ORG
+_	_	_	I-ORG
+주	주	NNG	I-ORG
+정부	정부	NNG	I-ORG
+는	는	JX	O
+_	_	_	O
+클럭	클럭	NNG	B-PER
+스턴	스턴	NNP	I-PER
+에게	에게	JKB	O
+_	_	_	O
+사면	사면	NNG	O
+을	을	JKO	O
+_	_	_	O
+통고하	통고하	VV	O
+면서	면서	EC	O
+_	_	_	O
+몇	몇	MM	O
+가지	가지	NNB	O
+_	_	_	O
+조건	조건	NNG	O
+을	을	JKO	O
+_	_	_	O
+달	달	VV	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## ○ 1937년 10월: 급사에서 의사로 소년은 급사(給仕)였다.
+## ○ <1937년 10월:DAT>: 급사에서 의사로 소년은 급사(給仕)였다.
+○	○	SW	O
+_	_	_	O
+1937	1937	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	I-DAT
+10	10	SN	I-DAT
+월	월	NNB	I-DAT
+:	:	SP	O
+_	_	_	O
+급사	급사	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+의사	의사	NNG	O
+로	로	JKB	O
+_	_	_	O
+소년	소년	NNG	O
+은	은	JX	O
+_	_	_	O
+급사	급사	NNG	O
+(	(	SS	O
+給仕	給仕	SH	O
+)	)+이	SS+VCP	O
+였	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## “피해자-유가족에 진심으로 죄송”… 檢, 제품개발 연구원 2명도 소환
+## “피해자-유가족에 진심으로 죄송”… 檢, 제품개발 연구원 <2명:NOH>도 소환
+“	“	SS	O
+피해자	피해자	NNG	O
+-	-	SO	O
+유가족	유가족	NNG	O
+에	에	JKB	O
+_	_	_	O
+진심	진심	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+죄송	죄송	NNG	O
+”	”	SS	O
+…	…	SE	O
+_	_	_	O
+檢	檢	SH	O
+,	,	SP	O
+_	_	_	O
+제품	제품	NNG	O
+개발	개발	NNG	O
+_	_	_	O
+연구원	연구원	NNG	O
+_	_	_	O
+2	2	SN	B-NOH
+명	명	NNB	I-NOH
+도	도	JX	O
+_	_	_	O
+소환	소환	NNG	O
+
+## 4
+## 지난해말까지 말레이시아가 확보하고 있는 호텔객실은 모두 5만 7천실.
+## 지난해말까지 <말레이시아:ORG>가 확보하고 있는 호텔객실은 모두 <5만 7천실:NOH>.
+지난해	지난해	NNG	O
+말	말	NNB	O
+까지	까지	JX	O
+_	_	_	O
+말레이시아	말레이시아	NNP	B-ORG
+가	가	JKS	O
+_	_	_	O
+확보하	확보하	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+는	는	ETM	O
+_	_	_	O
+호텔	호텔	NNG	O
+객실	객실	NNG	O
+은	은	JX	O
+_	_	_	O
+모두	모두	MAG	O
+_	_	_	O
+5	5	SN	B-NOH
+만	만	NR	I-NOH
+_	_	_	I-NOH
+7	7	SN	I-NOH
+천	천	NR	I-NOH
+실	실	NNG	I-NOH
+.	.	SF	O
+
+## 5
+## 대표 메뉴: 한우양념갈비(150g) 5만8000원, 불고기 3만5000원, 갈비탕 1만3000원○
+## 대표 메뉴: 한우양념갈비(<150g:NOH>) <5만8000원:MNY>, 불고기 <3만5000원:MNY>, 갈비탕 <1만3000원:MNY>○
+대표	대표	NNG	O
+_	_	_	O
+메뉴	메뉴	NNG	O
+:	:	SP	O
+_	_	_	O
+한우	한우	NNG	O
+양념	양념	NNG	O
+갈비	갈비	NNG	O
+(	(	SS	O
+150	150	SN	B-NOH
+g	g	SL	I-NOH
+)	)	SS	O
+_	_	_	O
+5	5	SN	B-MNY
+만	만	NR	I-MNY
+8000	8000	SN	I-MNY
+원	원	NNB	I-MNY
+,	,	SP	O
+_	_	_	O
+불고기	불고기	NNG	O
+_	_	_	O
+3	3	SN	B-MNY
+만	만	NR	I-MNY
+5000	5000	SN	I-MNY
+원	원	NNB	I-MNY
+,	,	SP	O
+_	_	_	O
+갈비탕	갈비탕	NNG	O
+_	_	_	O
+1	1	SN	B-MNY
+만	만	NR	I-MNY
+3000	3000	SN	I-MNY
+원	원	NNB	I-MNY
+○	○	SW	O
+
+## 6
+## 두 회사는 새 사업장과 가까운 남대문·동대문시장을 관광 명소로 만들겠다는 전략을 내세운 게 적중했다는 평가가 나온다.
+## <두 회사:NOH>는 새 사업장과 가까운 <남대문:LOC>·<동대문시장:LOC>을 관광 명소로 만들겠다는 전략을 내세운 게 적중했다는 평가가 나온다.
+두	두	MM	B-NOH
+_	_	_	I-NOH
+회사	회사	NNG	I-NOH
+는	는	JX	O
+_	_	_	O
+새	새	MM	O
+_	_	_	O
+사업장	사업장	NNG	O
+과	과	JC	O
+_	_	_	O
+가까	가깝	VA	O
+운	ㄴ	ETM	O
+_	_	_	O
+남대문	남대문	NNP	B-LOC
+·	·	SP	O
+동대문	동대문	NNP	B-LOC
+시장	시장	NNG	I-LOC
+을	을	JKO	O
+_	_	_	O
+관광	관광	NNG	O
+_	_	_	O
+명소	명소	NNG	O
+로	로	JKB	O
+_	_	_	O
+만들	만들	VV	O
+겠	겠	EP	O
+다는	다는	ETM	O
+_	_	_	O
+전략	전략	NNG	O
+을	을	JKO	O
+_	_	_	O
+내세운	내세우+ㄴ	VV+ETM	O
+_	_	_	O
+게	것+이	NNB+JKS	O
+_	_	_	O
+적중	적중하	VV	O
+했	었	EP	O
+다는	다는	ETM	O
+_	_	_	O
+평가	평가	NNG	O
+가	가	JKS	O
+_	_	_	O
+나온다	나오+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 7
+## 2013년 26경기에 나갔지만 1승2패, 1홀드, 방어율 4.50으로 평범했다.
+## <2013년:DAT> <26경기:NOH>에 나갔지만 <1승:NOH><2패:NOH>, <1홀드:NOH>, 방어율 <4.50:NOH>으로 평범했다.
+2013	2013	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+26	26	SN	B-NOH
+경기	경기	NNG	I-NOH
+에	에	JKB	O
+_	_	_	O
+나갔	나가+았	VV+EP	O
+지만	지만	EC	O
+_	_	_	O
+1	1	SN	B-NOH
+승	승	NNB	I-NOH
+2	2	SN	B-NOH
+패	패	NNB	I-NOH
+,	,	SP	O
+_	_	_	O
+1	1	SN	B-NOH
+홀드	홀드	NNG	I-NOH
+,	,	SP	O
+_	_	_	O
+방어율	방어율	NNG	O
+_	_	_	O
+4.50	4.50	SN	B-NOH
+으로	으로	JKB	O
+_	_	_	O
+평범	평범하	VA	O
+했	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 유 작가가 거듭 강조한 것은 ‘매력적인 캐릭터’였다.
+## <유:PER> 작가가 거듭 강조한 것은 ‘매력적인 캐릭터’였다.
+유	유	NNP	B-PER
+_	_	_	O
+작가	작가	NNG	O
+가	가	JKS	O
+_	_	_	O
+거듭	거듭	MAG	O
+_	_	_	O
+강조한	강조하+ㄴ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+은	은	JX	O
+_	_	_	O
+‘	‘	SS	O
+매력적	매력적	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+캐릭터	캐릭터	NNG	O
+’	’+이	SS+VCP	O
+였	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 25일 문화재청 경복궁 관리소는 다음달 1일부터 10월 31일까지 7개월간 경회루(국보 제 224호) 내부를 특별관람을 실시한다고 밝혔다.
+## <25일:DAT> <문화재청:ORG> <경복궁:LOC> 관리소는 다음달 <1일:DAT>부터 <10월 31일:DAT>까지 <7개월:DUR>간 <경회루:POH>(<국보 제 224호:POH>) 내부를 특별관람을 실시한다고 밝혔다.
+25	25	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+문화재청	문화재청	NNG	B-ORG
+_	_	_	O
+경복궁	경복궁	NNP	B-LOC
+_	_	_	O
+관리	관리	NNG	O
+소	소	XSN	O
+는	는	JX	O
+_	_	_	O
+다음	다음	NNG	O
+달	달	NNG	O
+_	_	_	O
+1	1	SN	B-DAT
+일	일	NNB	I-DAT
+부터	부터	JX	O
+_	_	_	O
+10	10	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	I-DAT
+31	31	SN	I-DAT
+일	일	NNB	I-DAT
+까지	까지	JX	O
+_	_	_	O
+7	7	SN	B-DUR
+개월	개월	NNB	I-DUR
+간	간	XSN	O
+_	_	_	O
+경회루	경회루	NNP	B-POH
+(	(	SS	O
+국보	국보	NNG	B-POH
+_	_	_	I-POH
+제	제	XPN	I-POH
+_	_	_	I-POH
+224	224	SN	I-POH
+호	호	NNB	I-POH
+)	)	SS	O
+_	_	_	O
+내부	내부	NNG	O
+를	를	JKO	O
+_	_	_	O
+특별	특별	NNG	O
+관람	관람	NNG	O
+을	을	JKO	O
+_	_	_	O
+실시한다고	실시하+ㄴ다고	VV+EC	O
+_	_	_	O
+밝	밝히	VV	O
+혔	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 또 이때 직접 개발하지 않은 기술은 인정하지 않는 현상을 가리키는 NIH(Not-invented Here) 신드롬이 강하게 나타났다.
+## 또 이때 직접 개발하지 않은 기술은 인정하지 않는 현상을 가리키는 <NIH:POH>(<Not-invented Here:POH>) 신드롬이 강하게 나타났다.
+또	또	MAG	O
+_	_	_	O
+이때	이때	NNG	O
+_	_	_	O
+직접	직접	MAG	O
+_	_	_	O
+개발하	개발하	VV	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+은	은	ETM	O
+_	_	_	O
+기술	기술	NNG	O
+은	은	JX	O
+_	_	_	O
+인정하	인정하	VV	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+는	는	ETM	O
+_	_	_	O
+현상	현상	NNG	O
+을	을	JKO	O
+_	_	_	O
+가리키	가리키	VV	O
+는	는	ETM	O
+_	_	_	O
+NIH	NIH	SL	B-POH
+(	(	SS	O
+Not	Not	SL	B-POH
+-	-	SO	I-POH
+invented	invented	SL	I-POH
+_	_	_	I-POH
+Here	Here	SL	I-POH
+)	)	SS	O
+_	_	_	O
+신드롬	신드롬	NNG	O
+이	이	JKS	O
+_	_	_	O
+강하	강하	VA	O
+게	게	EC	O
+_	_	_	O
+나타났	나타나+았	VV+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 한 골을 내주더라도 2∼3골씩 몰아칠 수 있는 화력을 향한 기대감이다.
+## <한:NOH> 골을 내주더라도 <2:NOH>∼<3골:NOH>씩 몰아칠 수 있는 화력을 향한 기대감이다.
+한	한	MM	B-NOH
+_	_	_	O
+골	골	NNG	O
+을	을	JKO	O
+_	_	_	O
+내주	내주	VV	O
+더라도	더라도	EC	O
+_	_	_	O
+2	2	SN	B-NOH
+∼	∼	SO	O
+3	3	SN	B-NOH
+골	골	NNG	I-NOH
+씩	씩	XSN	O
+_	_	_	O
+몰아칠	몰아치+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+는	는	ETM	O
+_	_	_	O
+화력	화력	NNG	O
+을	을	JKO	O
+_	_	_	O
+향한	향하+ㄴ	VV+ETM	O
+_	_	_	O
+기대감	기대감	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 더불어민주당 대선 경선 후보인 안희정 충남지사 지지 선언을 위한 제주지역 청년명단이 조작됐다는 의혹과 관련해 경찰과 제주도선거관리위원회가 진위 파악에 나선 것으로 확인됐다.
+## <더불어민주당:ORG> 대선 경선 후보인 <안희정:PER> <충남:LOC>지사 지지 선언을 위한 <제주:LOC>지역 청년명단이 조작됐다는 의혹과 관련해 경찰과 <제주도선거관리위원회:ORG>가 진위 파악에 나선 것으로 확인됐다.
+더불	더불	VV	B-ORG
+어	어	EC	I-ORG
+민주당	민주당	NNP	I-ORG
+_	_	_	O
+대선	대선	NNG	O
+_	_	_	O
+경선	경선	NNG	O
+_	_	_	O
+후보	후보	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+안희정	안희정	NNP	B-PER
+_	_	_	O
+충남	충남	NNP	B-LOC
+지사	지사	NNG	O
+_	_	_	O
+지지	지지	NNG	O
+_	_	_	O
+선언	선언	NNG	O
+을	을	JKO	O
+_	_	_	O
+위한	위하+ㄴ	VV+ETM	O
+_	_	_	O
+제주	제주	NNP	B-LOC
+지역	지역	NNG	O
+_	_	_	O
+청년	청년	NNG	O
+명단	명단	NNG	O
+이	이	JKS	O
+_	_	_	O
+조작	조작되	VV	O
+됐	었	EP	O
+다는	다는	ETM	O
+_	_	_	O
+의혹	의혹	NNG	O
+과	과	JKB	O
+_	_	_	O
+관련해	관련하+여	VV+EC	O
+_	_	_	O
+경찰	경찰	NNG	O
+과	과	JC	O
+_	_	_	O
+제주도	제주도	NNP	B-ORG
+선거	선거	NNG	I-ORG
+관리	관리	NNG	I-ORG
+위원회	위원회	NNG	I-ORG
+가	가	JKS	O
+_	_	_	O
+진위	진위	NNG	O
+_	_	_	O
+파악	파악	NNG	O
+에	에	JKB	O
+_	_	_	O
+나선	나서+ㄴ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+확인	확인되	VV	O
+됐	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## 순환선인 2호선은 주요 대학을 경유하고 다른 노선으로 환승할 수 있는 역이 22개나 있어 항상 붐빈다.
+## 순환선인 <2호선:NOH>은 주요 대학을 경유하고 다른 노선으로 환승할 수 있는 역이 <22개:NOH>나 있어 항상 붐빈다.
+순환선	순환선	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+2	2	SN	B-NOH
+호	호	NNB	I-NOH
+선	선	XSN	I-NOH
+은	은	JX	O
+_	_	_	O
+주요	주요	NNG	O
+_	_	_	O
+대학	대학	NNG	O
+을	을	JKO	O
+_	_	_	O
+경유	경유	NNG	O
+하	하	XSV	O
+고	고	EC	O
+_	_	_	O
+다른	다른	MM	O
+_	_	_	O
+노선	노선	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+환승할	환승하+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+는	는	ETM	O
+_	_	_	O
+역	역	NNG	O
+이	이	JKS	O
+_	_	_	O
+22	22	SN	B-NOH
+개	개	NNB	I-NOH
+나	나	JX	O
+_	_	_	O
+있	있	VA	O
+어	어	EC	O
+_	_	_	O
+항상	항상	MAG	O
+_	_	_	O
+붐빈다	붐비+ㄴ다	VV+EF	O
+.	.	SF	O
+

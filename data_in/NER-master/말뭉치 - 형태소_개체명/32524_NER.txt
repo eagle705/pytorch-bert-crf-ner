@@ -1,0 +1,424 @@
+## 1
+## ‘아빠를 부탁해 강다은’‘아빠를 부탁해’ 강다은이 시우민에 대한 애정을 드러냈다.
+## ‘<아빠를 부탁해:POH> <강다은:PER>’‘<아빠를 부탁해:POH>’ <강다은:PER>이 <시우민:PER>에 대한 애정을 드러냈다.
+‘	‘	SS	O
+아빠	아빠	NNG	B-POH
+를	를	JKO	I-POH
+_	_	_	I-POH
+부탁해	부탁하+여	VV+EC	I-POH
+_	_	_	O
+강다	강다	NNP	B-PER
+은	은	JX	I-PER
+’	’	SS	O
+‘	‘	SS	O
+아빠	아빠	NNG	B-POH
+를	를	JKO	I-POH
+_	_	_	I-POH
+부탁해	부탁하+여	VV+EF	I-POH
+’	’	SS	O
+_	_	_	O
+강	강	NNG	B-PER
+다은이	다은이	NNP	O
+_	_	_	O
+시우	시우	NNG	B-PER
+민	민	XSN	I-PER
+에	에	JKB	O
+_	_	_	O
+대한	대하+ㄴ	VV+ETM	O
+_	_	_	O
+애정	애정	NNG	O
+을	을	JKO	O
+_	_	_	O
+드러냈	드러내+었	VV+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 지난 5일 방송된 SBS ‘아빠를 부탁해’에서는 제주도 여행을 떠난 네 부녀의 모습이 그려졌다.
+## 지난 <5일:DAT> 방송된 <SBS:ORG> ‘<아빠를 부탁해:POH>’에서는 <제주도:LOC> 여행을 떠난 <네 부녀:NOH>의 모습이 그려졌다.
+지난	지나+ㄴ	VV+ETM	O
+_	_	_	O
+5	5	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+방송된	방송되+ㄴ	VV+ETM	O
+_	_	_	O
+SBS	SBS	SL	B-ORG
+_	_	_	O
+‘	‘	SS	O
+아빠	아빠	NNG	B-POH
+를	를	JKO	I-POH
+_	_	_	I-POH
+부탁해	부탁하+여	VV+EF	I-POH
+’	’	SS	O
+에서	에서	JKB	O
+는	는	JX	O
+_	_	_	O
+제주도	제주도	NNP	B-LOC
+_	_	_	O
+여행	여행	NNG	O
+을	을	JKO	O
+_	_	_	O
+떠난	떠나+ㄴ	VV+ETM	O
+_	_	_	O
+네	너+의	NP+JKG	B-NOH
+_	_	_	I-NOH
+부녀	부녀	NNG	I-NOH
+의	의	JKG	O
+_	_	_	O
+모습	모습	NNG	O
+이	이	JKS	O
+_	_	_	O
+그려	그리+어+지	VV+EC+VX	O
+졌	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 그래서 두 세대가 충돌하는 걸 볼 때는 아픔을 느낀다”고 말했다.
+## 그래서 <두 세대:NOH>가 충돌하는 걸 볼 때는 아픔을 느낀다”고 말했다.
+그래서	그래서	MAJ	O
+_	_	_	O
+두	두	MM	B-NOH
+_	_	_	I-NOH
+세대	세대	NNG	I-NOH
+가	가	JKS	O
+_	_	_	O
+충돌하	충돌하	VV	O
+는	는	ETM	O
+_	_	_	O
+걸	것+ㄹ	NNB+JKO	O
+_	_	_	O
+볼	보+ㄹ	VV+ETM	O
+_	_	_	O
+때	때	NNG	O
+는	는	JX	O
+_	_	_	O
+아픔	아픔	NNG	O
+을	을	JKO	O
+_	_	_	O
+느낀다	느끼+ㄴ다	VV+EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+말	말하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 당시 보충역 복무 기간은 1년이었다.
+## 당시 보충역 복무 기간은 <1년:DUR>이었다.
+당시	당시	NNG	O
+_	_	_	O
+보충역	보충역	NNG	O
+_	_	_	O
+복무	복무	NNG	O
+_	_	_	O
+기간	기간	NNG	O
+은	은	JX	O
+_	_	_	O
+1	1	SN	B-DUR
+년	년	NNB	I-DUR
+이	이	VCP	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 마테시츠는 오스트리아 빈 경제경영대학에서 마케팅을 전공했다.
+## <마테시츠:PER>는 <오스트리아 빈 경제경영대학:LOC>에서 마케팅을 전공했다.
+마테	마테	NNP	B-PER
+시츠	시츠	NNP	I-PER
+는	는	JX	O
+_	_	_	O
+오스트리아	오스트리아	NNP	B-LOC
+_	_	_	I-LOC
+빈	빈	NNP	I-LOC
+_	_	_	I-LOC
+경제	경제	NNG	I-LOC
+경영	경영	NNG	I-LOC
+대학	대학	NNG	I-LOC
+에서	에서	JKB	O
+_	_	_	O
+마케팅	마케팅	NNG	O
+을	을	JKO	O
+_	_	_	O
+전공	전공하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 박봄 “친한 연예인 없어, 우리 멤버들 하나에 미쳐 있는 괴짜들이라…” 눈물 ‘왈칵’그룹 투애니원(2NE1)의 멤버 박봄이 화제인 가운데, 그의 과거 발언이 재조명 됐다.
+## <박봄:PER> “친한 연예인 없어, 우리 멤버들 <하나:NOH>에 미쳐 있는 괴짜들이라…” 눈물 ‘왈칵’그룹 <투애니원:ORG>(<2NE1:ORG>)의 멤버 <박봄:PER>이 화제인 가운데, 그의 과거 발언이 재조명 됐다.
+박봄	박봄	NNP	B-PER
+_	_	_	O
+“	“	SS	O
+친한	친하+ㄴ	VA+ETM	O
+_	_	_	O
+연예인	연예인	NNG	O
+_	_	_	O
+없	없	VA	O
+어	어	EC	O
+,	,	SP	O
+_	_	_	O
+우리	우리	NP	O
+_	_	_	O
+멤버	멤버	NNG	O
+들	들	XSN	O
+_	_	_	O
+하나	하나	NR	B-NOH
+에	에	JKB	O
+_	_	_	O
+미쳐	미치+어	VV+EC	O
+_	_	_	O
+있	있	VX	O
+는	는	ETM	O
+_	_	_	O
+괴짜	괴짜	NNG	O
+들	들	XSN	O
+이	이	VCP	O
+라	라	EC	O
+…	…	SE	O
+”	”	SS	O
+_	_	_	O
+눈물	눈물	NNG	O
+_	_	_	O
+‘	‘	SS	O
+왈칵	왈칵	MAG	O
+’	’	SS	O
+그룹	그룹	NNG	O
+_	_	_	O
+투	투	NNB	B-ORG
+애니원	애니원	NNP	I-ORG
+(	(	SS	O
+2	2	SN	B-ORG
+NE	NE	SL	I-ORG
+1	1	SN	I-ORG
+)	)	SS	O
+의	의	JKG	O
+_	_	_	O
+멤버	멤버	NNG	O
+_	_	_	O
+박봄	박봄	NNP	B-PER
+이	이	JKS	O
+_	_	_	O
+화제	화제	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+가운데	가운데	NNG	O
+,	,	SP	O
+_	_	_	O
+그	그	NP	O
+의	의	JKG	O
+_	_	_	O
+과거	과거	NNG	O
+_	_	_	O
+발언	발언	NNG	O
+이	이	JKS	O
+_	_	_	O
+재조명	재조명	NNG	O
+_	_	_	O
+됐	+었	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 박봄은 과거 SBS ‘일요일이 좋다-룸메이트’에서 “친한 연예인이 있느냐”는 질문을 받았다.
+## <박봄:PER>은 과거 <SBS:ORG> ‘<일요일이 좋다-룸메이트:POH>’에서 “친한 연예인이 있느냐”는 질문을 받았다.
+박봄	박봄	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+과거	과거	NNG	O
+_	_	_	O
+SBS	SBS	SL	B-ORG
+_	_	_	O
+‘	‘	SS	O
+일요일	일요일	NNG	B-POH
+이	이	JKS	I-POH
+_	_	_	I-POH
+좋	좋	VA	I-POH
+다	다	EC	I-POH
+-	-	SO	I-POH
+룸메이트	룸메이트	NNG	I-POH
+’	’	SS	O
+에서	에서	JKB	O
+_	_	_	O
+“	“	SS	O
+친한	친하+ㄴ	VA+ETM	O
+_	_	_	O
+연예인	연예인	NNG	O
+이	이	JKS	O
+_	_	_	O
+있	있	VA	O
+느냐	느냐	EF	O
+”	”	SS	O
+는	는	JX	O
+_	_	_	O
+질문	질문	NNG	O
+을	을	JKO	O
+_	_	_	O
+받	받	VV	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 박봄은 “정말 없다.
+## <박봄:PER>은 “정말 없다.
+박봄	박봄	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+“	“	SS	O
+정말	정말	MAG	O
+_	_	_	O
+없	없	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 시청자들을 추리 삼매경에 푹 빠지게 만들 권상우와 최강희의 유쾌하면서도 치명적인 이중매력을 기대해달라”고 당부했다.
+## 시청자들을 추리 삼매경에 푹 빠지게 만들 <권상우:PER>와 <최강희:PER>의 유쾌하면서도 치명적인 이중매력을 기대해달라”고 당부했다.
+시청자	시청자	NNG	O
+들	들	XSN	O
+을	을	JKO	O
+_	_	_	O
+추리	추리	NNG	O
+_	_	_	O
+삼매경	삼매경	NNG	O
+에	에	JKB	O
+_	_	_	O
+푹	푹	MAG	O
+_	_	_	O
+빠지	빠지	VV	O
+게	게	EC	O
+_	_	_	O
+만들	만들+ㄹ	VV+ETM	O
+_	_	_	O
+권상우	권상우	NNP	B-PER
+와	와	JC	O
+_	_	_	O
+최강희	최강희	NNP	B-PER
+의	의	JKG	O
+_	_	_	O
+유쾌하	유쾌하	VA	O
+면서	면서	EC	O
+도	도	JX	O
+_	_	_	O
+치명적	치명적	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+이중	이중	NNG	O
+매력	매력	NNG	O
+을	을	JKO	O
+_	_	_	O
+기대해	기대하+여	VV+EC	O
+달	달	VX	O
+라	라	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+당부	당부하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 한편 ‘추리의 여왕’은 ‘김과장’ 후속으로 오는 4월 5일 밤 10시 첫 방송된다.
+## 한편 ‘<추리의 여왕:POH>’은 ‘<김과장:POH>’ 후속으로 오는 <4월 5일:DAT> <밤 10시:TIM> 첫 방송된다.
+한편	한편	MAG	O
+_	_	_	O
+‘	‘	SS	O
+추리	추리	NNG	B-POH
+의	의	JKG	I-POH
+_	_	_	I-POH
+여왕	여왕	NNG	I-POH
+’	’	SS	O
+은	은	JX	O
+_	_	_	O
+‘	‘	SS	O
+김	김	NNP	B-POH
+과장	과장	NNG	I-POH
+’	’	SS	O
+_	_	_	O
+후속	후속	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+오	오	VV	O
+는	는	ETM	O
+_	_	_	O
+4	4	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	I-DAT
+5	5	SN	I-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+밤	밤	NNG	B-TIM
+_	_	_	I-TIM
+10	10	SN	I-TIM
+시	시	NNB	I-TIM
+_	_	_	O
+첫	첫	MM	O
+_	_	_	O
+방송된다	방송되+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 11
+## 최씨는 “미르재단에는 차씨 사람만 있고 제 사람은 하나도 없는데 어떻게 돈을 빼돌리려 했다는 것인지 억울하다”고 말했다.
+## <최:PER>씨는 “<미르재단:ORG>에는 <차:PER>씨 사람만 있고 제 사람은 하나도 없는데 어떻게 돈을 빼돌리려 했다는 것인지 억울하다”고 말했다.
+최	최	NNP	B-PER
+씨	씨	NNB	O
+는	는	JX	O
+_	_	_	O
+“	“	SS	O
+미르	미르	NNP	B-ORG
+재단	재단	NNG	I-ORG
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+차	차	NNG	B-PER
+씨	씨	NNG	O
+_	_	_	O
+사람	사람	NNG	O
+만	만	JX	O
+_	_	_	O
+있	있	VA	O
+고	고	EC	O
+_	_	_	O
+제	저+의	NP+JKG	O
+_	_	_	O
+사람	사람	NNG	O
+은	은	JX	O
+_	_	_	O
+하나	하나	NNG	O
+도	도	JX	O
+_	_	_	O
+없	없	VA	O
+는데	는데	EC	O
+_	_	_	O
+어떻	어떻	VA	O
+게	게	EC	O
+_	_	_	O
+돈	돈	NNG	O
+을	을	JKO	O
+_	_	_	O
+빼돌리	빼돌리	VV	O
+려	려	EC	O
+_	_	_	O
+했	+였	+EP	O
+다는	다는	ETM	O
+_	_	_	O
+것	것	NNB	O
+인지	이+ㄴ지	VCP+EC	O
+_	_	_	O
+억울하	억울하	VA	O
+다	다	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+말	말하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+

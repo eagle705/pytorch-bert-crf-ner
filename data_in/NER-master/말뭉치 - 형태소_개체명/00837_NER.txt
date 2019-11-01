@@ -1,0 +1,412 @@
+## 1
+## 배우 신주아가 악플에 대해 언급했다.
+## 배우 <신주아:PER>가 악플에 대해 언급했다.
+배우	배우	NNG	O
+_	_	_	O
+신	신	NNG	B-PER
+주아	주아	NNG	I-PER
+가	가	JKS	O
+_	_	_	O
+악	악	NNG	O
+플	플	NNG	O
+에	에	JKB	O
+_	_	_	O
+대해	대하+여	VV+EC	O
+_	_	_	O
+언급	언급하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 한발씩 앞으로 나아가며 작은 기적들을 만들어냈고, 그 결과 3년 만에 PGA 투어 무대를 밟으며 새롭게 출발할 수 있었다.
+## <한발:NOH>씩 앞으로 나아가며 작은 기적들을 만들어냈고, 그 결과 <3년:DUR> 만에 <PGA 투어:ORG> 무대를 밟으며 새롭게 출발할 수 있었다.
+한	한	MM	B-NOH
+발	발	NNG	I-NOH
+씩	씩	XSN	O
+_	_	_	O
+앞	앞	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+나아가	나아가	VV	O
+며	며	EC	O
+_	_	_	O
+작	작	VA	O
+은	은	ETM	O
+_	_	_	O
+기적	기적	NNG	O
+들	들	XSN	O
+을	을	JKO	O
+_	_	_	O
+만들	만들	VV	O
+어	어	EC	O
+냈	내+었	VX+EP	O
+고	고	EC	O
+,	,	SP	O
+_	_	_	O
+그	그	MM	O
+_	_	_	O
+결과	결과	NNG	O
+_	_	_	O
+3	3	SN	B-DUR
+년	년	NNB	I-DUR
+_	_	_	O
+만	만	NNB	O
+에	에	JKB	O
+_	_	_	O
+PGA	PGA	SL	B-ORG
+_	_	_	I-ORG
+투어	투어	NNG	I-ORG
+_	_	_	O
+무대	무대	NNG	O
+를	를	JKO	O
+_	_	_	O
+밟	밟	VV	O
+으며	으며	EC	O
+_	_	_	O
+새롭	새롭	VA	O
+게	게	EC	O
+_	_	_	O
+출발할	출발하+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 최향남(44)은 오스트리아리그에서 뛰고 있다.
+## <최향남:PER>(<44:NOH>)은 <오스트리아리그:ORG>에서 뛰고 있다.
+최향남	최향남	NNP	B-PER
+(	(	SS	O
+44	44	SN	B-NOH
+)	)	SS	O
+은	은	JX	O
+_	_	_	O
+오스트리아	오스트리아	NNP	B-ORG
+리그	리그	NNG	I-ORG
+에서	에서	JKB	O
+_	_	_	O
+뛰	뛰	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 스프링캠프 역시 미국 동부의 플로리다로 가는 SK부터, 애리조나와 LA 등 미국 서부로 가는 NC, kt 등이 줄을 잇고 있다.
+## 스프링캠프 역시 <미국 동부:LOC>의 <플로리다:LOC>로 가는 <SK:ORG>부터, <애리조나:LOC>와 <LA:LOC> 등 <미국 서부:LOC>로 가는 <NC:ORG>, <kt:ORG> 등이 줄을 잇고 있다.
+스프링	스프링	NNG	O
+캠프	캠프	NNG	O
+_	_	_	O
+역시	역시	MAG	O
+_	_	_	O
+미국	미국	NNP	B-LOC
+_	_	_	I-LOC
+동부	동부	NNG	I-LOC
+의	의	JKG	O
+_	_	_	O
+플로리다	플로리다	NNP	B-LOC
+로	로	JKB	O
+_	_	_	O
+가	가	VV	O
+는	는	ETM	O
+_	_	_	O
+SK	SK	SL	B-ORG
+부터	부터	JX	O
+,	,	SP	O
+_	_	_	O
+애리조나	애리조나	NNP	B-LOC
+와	와	JC	O
+_	_	_	O
+LA	LA	SL	B-LOC
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+미국	미국	NNP	B-LOC
+_	_	_	I-LOC
+서부	서부	NNG	I-LOC
+로	로	JKB	O
+_	_	_	O
+가	가	VV	O
+는	는	ETM	O
+_	_	_	O
+NC	NC	SL	B-ORG
+,	,	SP	O
+_	_	_	O
+kt	kt	SL	B-ORG
+_	_	_	O
+등	등	NNB	O
+이	이	JKS	O
+_	_	_	O
+줄	줄	NNG	O
+을	을	JKO	O
+_	_	_	O
+잇	잇	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 무기수출 빗장 푼 일본, 첫 수조원대 수출 추진
+## 무기수출 빗장 푼 <일본:ORG>, 첫 <수조원:MNY>대 수출 추진
+무기	무기	NNG	O
+수출	수출	NNG	O
+_	_	_	O
+빗장	빗장	NNG	O
+_	_	_	O
+푼	푼	NNB	O
+_	_	_	O
+일본	일본	NNP	B-ORG
+,	,	SP	O
+_	_	_	O
+첫	첫	MM	O
+_	_	_	O
+수조	수조	NR	B-MNY
+원	원	NNB	I-MNY
+대	대	XSN	O
+_	_	_	O
+수출	수출	NNG	O
+_	_	_	O
+추진	추진	NNG	O
+
+## 6
+## 우리나라의 외환보유액이 넉 달만에 감소세로 돌아섰다.
+## 우리나라의 외환보유액이 <넉 달:NOH>만에 감소세로 돌아섰다.
+우리나라	우리나라	NNG	O
+의	의	JKG	O
+_	_	_	O
+외환	외환	NNG	O
+보유	보유	NNG	O
+액	액	XSN	O
+이	이	JKS	O
+_	_	_	O
+넉	넉	MM	B-NOH
+_	_	_	I-NOH
+달	달	NNB	I-NOH
+만	만	NNB	O
+에	에	JKB	O
+_	_	_	O
+감소세	감소세	NNG	O
+로	로	JKB	O
+_	_	_	O
+돌아섰	돌아서+었	VV+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 이번 녹색 돌풍의 근원 역시 호남이라는 지역적 기반과 함께 ‘제3의 정치’를 희망하는 일부 새누리당 지지층과 무당층이었다.
+## 이번 녹색 돌풍의 근원 역시 <호남:LOC>이라는 지역적 기반과 함께 ‘<제3의:NOH> 정치’를 희망하는 일부 <새누리당:ORG> 지지층과 무당층이었다.
+이번	이번	NNG	O
+_	_	_	O
+녹색	녹색	NNG	O
+_	_	_	O
+돌풍	돌풍	NNG	O
+의	의	JKG	O
+_	_	_	O
+근원	근원	NNG	O
+_	_	_	O
+역시	역시	MAG	O
+_	_	_	O
+호남	호남	NNP	B-LOC
+이	이	VCP	O
+라는	라는	ETM	O
+_	_	_	O
+지역적	지역적	NNG	O
+_	_	_	O
+기반	기반	NNG	O
+과	과	JKB	O
+_	_	_	O
+함께	함께	MAG	O
+_	_	_	O
+‘	‘	SS	O
+제	제	XPN	B-NOH
+3	3	SN	I-NOH
+의	의	JKG	I-NOH
+_	_	_	O
+정치	정치	NNG	O
+’	’	SS	O
+를	를	JKO	O
+_	_	_	O
+희망하	희망하	VV	O
+는	는	ETM	O
+_	_	_	O
+일부	일부	NNG	O
+_	_	_	O
+새누리당	새누리당	NNP	B-ORG
+_	_	_	O
+지지	지지	NNG	O
+층	층	XSN	O
+과	과	JC	O
+_	_	_	O
+무당	무당	NNG	O
+층	층	XSN	O
+이	이	VCP	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 그때 대통령으로부터 전투기의 ‘전’자도 들은 바 없다고.” -MB는 자서전에도 썼다.
+## 그때 대통령으로부터 전투기의 ‘전’자도 들은 바 없다고.” -<MB:PER>는 자서전에도 썼다.
+그때	그때	NNG	O
+_	_	_	O
+대통령	대통령	NNG	O
+으로부터	으로부터	JKB	O
+_	_	_	O
+전투기	전투기	NNG	O
+의	의	JKG	O
+_	_	_	O
+‘	‘	SS	O
+전	전	NNP	O
+’	’	SS	O
+자	자	NNG	O
+도	도	JX	O
+_	_	_	O
+들	듣	VV	O
+은	은	ETM	O
+_	_	_	O
+바	바	NNB	O
+_	_	_	O
+없	없	VA	O
+다고	다고	EF	O
+.	.	SF	O
+”	”	SS	O
+_	_	_	O
+-	-	SO	O
+MB	MB	SL	B-PER
+는	는	JX	O
+_	_	_	O
+자서전	자서전	NNG	O
+에	에	JKB	O
+도	도	JX	O
+_	_	_	O
+썼	+었	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## [경제계 인사]녹십자홀딩스 대표 허용준 씨, 녹십자랩셀 대표 박대우 씨
+## [경제계 인사]<녹십자홀딩스:ORG> 대표 <허용준:PER> 씨, <녹십자랩셀:ORG> 대표 <박대우:PER> 씨
+[	[	SS	O
+경제계	경제계	NNG	O
+_	_	_	O
+인사	인사	NNG	O
+]	]	SS	O
+녹십자	녹십자	NNP	B-ORG
+홀딩스	홀딩스	NNP	I-ORG
+_	_	_	O
+대표	대표	NNG	O
+_	_	_	O
+허용준	허용준	NNP	B-PER
+_	_	_	O
+씨	씨	NNB	O
+,	,	SP	O
+_	_	_	O
+녹십자	녹십자	NNP	B-ORG
+랩	랩	NNG	I-ORG
+셀	셀	NNG	I-ORG
+_	_	_	O
+대표	대표	NNG	O
+_	_	_	O
+박대우	박대우	NNP	B-PER
+_	_	_	O
+씨	씨	NNB	O
+
+## 10
+## 당장 한국도 표준 전쟁 한복판에 놓여있다.
+## 당장 <한국:ORG>도 표준 전쟁 한복판에 놓여있다.
+당장	당장	NNG	O
+_	_	_	O
+한국	한국	NNP	B-ORG
+도	도	JX	O
+_	_	_	O
+표준	표준	NNG	O
+_	_	_	O
+전쟁	전쟁	NNG	O
+_	_	_	O
+한복판	한복판	NNG	O
+에	에	JKB	O
+_	_	_	O
+놓	놓이	VV	O
+여	어	EC	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 서울의 경우 1920년대에는 11월 21일 무렵이 김장 적정 시기였으나 2000년대 들어서는 12월 3일이 적정한 것으로 나타나 80년 사이에 12일 정도가 늦춰진 것으로 나타났다.
+## <서울:LOC>의 경우 <1920년:DAT>대에는 <11월 21일:DAT> 무렵이 김장 적정 시기였으나 <2000년:DAT>대 들어서는 <12월 3일:DAT>이 적정한 것으로 나타나 <80년:NOH> 사이에 <12일:DAT> 정도가 늦춰진 것으로 나타났다.
+서울	서울	NNP	B-LOC
+의	의	JKG	O
+_	_	_	O
+경우	경우	NNG	O
+_	_	_	O
+1920	1920	SN	B-DAT
+년대	년대	NNB	O
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+11	11	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	I-DAT
+21	21	SN	I-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+무렵	무렵	NNB	O
+이	이	JKC	O
+_	_	_	O
+김장	김장	NNG	O
+_	_	_	O
+적정	적정	NNG	O
+_	_	_	O
+시기	시기+이	NNG+VCP	O
+였	었	EP	O
+으나	으나	EC	O
+_	_	_	O
+2000	2000	SN	B-DAT
+년대	년대	NNB	O
+_	_	_	O
+들어서	들어서+어	VV+EC	O
+는	는	JX	O
+_	_	_	O
+12	12	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	I-DAT
+3	3	SN	I-DAT
+일	일	NNB	I-DAT
+이	이	JKS	O
+_	_	_	O
+적정한	적정하+ㄴ	VA+ETM	O
+_	_	_	O
+것	것	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+나타나	나타나+아	VV+EC	O
+_	_	_	O
+80	80	SN	B-NOH
+년	년	NNB	I-NOH
+_	_	_	O
+사이	사이	NNG	O
+에	에	JKB	O
+_	_	_	O
+12	12	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+정도	정도	NNG	O
+가	가	JKS	O
+_	_	_	O
+늦춰진	늦춰지+ㄴ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+나타났	나타나+았	VV+EP	O
+다	다	EF	O
+.	.	SF	O
+

@@ -1,0 +1,625 @@
+## 1
+## 이날 행사에는 칭화(淸華)과기원, 칭화퉁팡(同方)주식회사, 팡정(方正)그룹, 화톈(華田)투자 등 중국을 대표하는 벤처투자업체를 포함한 40여개사 100여명이 참석해 성황을 이뤘다.
+## 이날 행사에는 <칭화:LOC>(淸華)과기원, <칭화퉁팡:ORG>(<同方:ORG>)주식회사, <팡정:ORG>(<方正:ORG>)그룹, <화톈:ORG>(<華田:ORG>)투자 등 <중국:ORG>을 대표하는 벤처투자업체를 포함한 <40여개:NOH>사 <100여명:NOH>이 참석해 성황을 이뤘다.
+이날	이날	NNG	O
+_	_	_	O
+행사	행사	NNG	O
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+칭화	칭화	NNP	B-LOC
+(	(	SS	O
+淸華	淸華	SH	O
+)	)	SS	O
+과기원	과기원	NNP	O
+,	,	SP	O
+_	_	_	O
+칭화퉁팡	칭화퉁팡	NNG	B-ORG
+(	(	SS	O
+同方	同方	SH	B-ORG
+)	)	SS	O
+주식회사	주식회사	NNG	O
+,	,	SP	O
+_	_	_	O
+팡	팡	NNG	B-ORG
+정	정	NNB	I-ORG
+(	(	SS	O
+方正	方正	SH	B-ORG
+)	)	SS	O
+그룹	그룹	NNG	O
+,	,	SP	O
+_	_	_	O
+화톈	화톈	NNG	B-ORG
+(	(	SS	O
+華田	華田	SH	B-ORG
+)	)	SS	O
+투자	투자	NNG	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+중국	중국	NNP	B-ORG
+을	을	JKO	O
+_	_	_	O
+대표하	대표하	VV	O
+는	는	ETM	O
+_	_	_	O
+벤처	벤처	NNG	O
+투자	투자	NNG	O
+업체	업체	NNG	O
+를	를	JKO	O
+_	_	_	O
+포함한	포함하+ㄴ	VV+ETM	O
+_	_	_	O
+40	40	SN	B-NOH
+여	여	XSN	I-NOH
+개	개	NNB	I-NOH
+사	사	NNG	O
+_	_	_	O
+100	100	SN	B-NOH
+여	여	XSN	I-NOH
+명	명	NNB	I-NOH
+이	이	JKS	O
+_	_	_	O
+참석해	참석하+여	VV+EC	O
+_	_	_	O
+성황	성황	NNG	O
+을	을	JKO	O
+_	_	_	O
+이	이루	VV	O
+뤘	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 14개 업체 대표들은 반려견에 부착하는 스마트 인식표찰 등 생활용품에서부터 업무용 전력제어시스템에 이르기까지 다양한 분야에서 창의적인 아이디어가 담긴 상품을 선보였다.
+## <14개:NOH> 업체 대표들은 반려견에 부착하는 스마트 인식표찰 등 생활용품에서부터 업무용 전력제어시스템에 이르기까지 다양한 분야에서 창의적인 아이디어가 담긴 상품을 선보였다.
+14	14	SN	B-NOH
+개	개	NNB	I-NOH
+_	_	_	O
+업체	업체	NNG	O
+_	_	_	O
+대표	대표	NNG	O
+들	들	XSN	O
+은	은	JX	O
+_	_	_	O
+반려	반려	NNG	O
+견	견	NNG	O
+에	에	JKB	O
+_	_	_	O
+부착하	부착하	VV	O
+는	는	ETM	O
+_	_	_	O
+스마트	스마트	NNG	O
+_	_	_	O
+인식	인식	NNG	O
+표찰	표찰	NNG	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+생활	생활	NNG	O
+용품	용품	NNG	O
+에서	에서	JKB	O
+부터	부터	JX	O
+_	_	_	O
+업무	업무	NNG	O
+용	용	XSN	O
+_	_	_	O
+전력	전력	NNG	O
+제어	제어	NNG	O
+시스템	시스템	NNG	O
+에	에	JKB	O
+_	_	_	O
+이르	이르	VV	O
+기	기	ETN	O
+까지	까지	JX	O
+_	_	_	O
+다양한	다양하+ㄴ	VA+ETM	O
+_	_	_	O
+분야	분야	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+창의적	창의적	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+아이디어	아이디어	NNG	O
+가	가	JKS	O
+_	_	_	O
+담긴	담기+ㄴ	VV+ETM	O
+_	_	_	O
+상품	상품	NNG	O
+을	을	JKO	O
+_	_	_	O
+선보	선보이	VV	O
+였	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## △호흡기 환자 분리 진료 △폐렴 의심환자는 혼자 입원 △메르스 음성 환자만 중환자실 입원 △의료진 방호 철저 △불필요한 면회 제한 △모든 환자를 대상으로 메르스 감염자와의 접촉 가능성 조회 △병원 내 감염관리 강화 등이다.
+## △호흡기 환자 분리 진료 △폐렴 의심환자는 혼자 입원 △<메르스:POH> 음성 환자만 중환자실 입원 △의료진 방호 철저 △불필요한 면회 제한 △모든 환자를 대상으로 <메르스:POH> 감염자와의 접촉 가능성 조회 △병원 내 감염관리 강화 등이다.
+△	△	SW	O
+호흡기	호흡기	NNG	O
+_	_	_	O
+환자	환자	NNG	O
+_	_	_	O
+분리	분리	NNG	O
+_	_	_	O
+진료	진료	NNG	O
+_	_	_	O
+△	△	SW	O
+폐렴	폐렴	NNG	O
+_	_	_	O
+의심	의심	NNG	O
+환자	환자	NNG	O
+는	는	JX	O
+_	_	_	O
+혼자	혼자	NNG	O
+_	_	_	O
+입원	입원	NNG	O
+_	_	_	O
+△	△	SW	O
+메르스	메르스	NNG	B-POH
+_	_	_	O
+음성	음성	NNG	O
+_	_	_	O
+환자	환자	NNG	O
+만	만	JX	O
+_	_	_	O
+중환자실	중환자실	NNG	O
+_	_	_	O
+입원	입원	NNG	O
+_	_	_	O
+△	△	SW	O
+의료진	의료진	NNG	O
+_	_	_	O
+방호	방호	NNG	O
+_	_	_	O
+철저	철저	NNG	O
+_	_	_	O
+△	△	SW	O
+불필요한	불필요하+ㄴ	VA+ETM	O
+_	_	_	O
+면회	면회	NNG	O
+_	_	_	O
+제한	제한	NNG	O
+_	_	_	O
+△	△	SW	O
+모든	모든	MM	O
+_	_	_	O
+환자	환자	NNG	O
+를	를	JKO	O
+_	_	_	O
+대상	대상	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+메르스	메르스	NNG	B-POH
+_	_	_	O
+감염자	감염자	NNG	O
+와	와	JKB	O
+의	의	JKG	O
+_	_	_	O
+접촉	접촉	NNG	O
+_	_	_	O
+가능성	가능성	NNG	O
+_	_	_	O
+조회	조회	NNG	O
+_	_	_	O
+△	△	SW	O
+병원	병원	NNG	O
+_	_	_	O
+내	내	NNB	O
+_	_	_	O
+감염	감염	NNG	O
+관리	관리	NNG	O
+_	_	_	O
+강화	강화	NNG	O
+_	_	_	O
+등	등	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 대신 서울에서 일정을 소화했다.
+## 대신 <서울:LOC>에서 일정을 소화했다.
+대신	대신	NNG	O
+_	_	_	O
+서울	서울	NNP	B-LOC
+에서	에서	JKB	O
+_	_	_	O
+일정	일정	NNG	O
+을	을	JKO	O
+_	_	_	O
+소화	소화하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 서울 독거노인 증가, “자녀와 함께 살고 싶지 않다”
+## <서울:LOC> 독거노인 증가, “자녀와 함께 살고 싶지 않다”
+서울	서울	NNP	B-LOC
+_	_	_	O
+독거노인	독거노인	NNG	O
+_	_	_	O
+증가	증가	NNG	O
+,	,	SP	O
+_	_	_	O
+“	“	SS	O
+자녀	자녀	NNG	O
+와	와	JKB	O
+_	_	_	O
+함께	함께	MAG	O
+_	_	_	O
+살	살	VV	O
+고	고	EC	O
+_	_	_	O
+싶	싶	VX	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+다	다	EF	O
+”	”	SS	O
+
+## 6
+## 2018년까지 110억 원 투자
+## <2018년:DAT>까지 <110억 원:MNY> 투자
+2018	2018	SN	B-DAT
+년	년	NNB	I-DAT
+까지	까지	JX	O
+_	_	_	O
+110	110	SN	B-MNY
+억	억	NR	I-MNY
+_	_	_	I-MNY
+원	원	NNB	I-MNY
+_	_	_	O
+투자	투자	NNG	O
+
+## 7
+## 10일 오후 2시30분께 경기 용인시 처인구 원삼면의 한 야산에서 불이 나 신원 미상의 남성이 숨졌다.
+## <10일:DAT> <오후 2시30분:TIM>께 <경기 용인시:LOC> <처인구 원삼면:LOC>의 한 야산에서 불이 나 신원 미상의 남성이 숨졌다.
+10	10	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+오후	오후	NNG	B-TIM
+_	_	_	I-TIM
+2	2	SN	I-TIM
+시	시	NNB	I-TIM
+30	30	SN	I-TIM
+분	분	NNB	I-TIM
+께	께	XSN	O
+_	_	_	O
+경기	경기	NNP	B-LOC
+_	_	_	I-LOC
+용인시	용인시	NNP	I-LOC
+_	_	_	O
+처인구	처인구	NNP	B-LOC
+_	_	_	I-LOC
+원삼면	원삼면	NNP	I-LOC
+의	의	JKG	O
+_	_	_	O
+한	하+ㄴ	VV+ETM	O
+_	_	_	O
+야산	야산	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+불	불	NNG	O
+이	이	JKS	O
+_	_	_	O
+나	나+아	VV+EC	O
+_	_	_	O
+신원	신원	NNG	O
+_	_	_	O
+미상	미상	NNG	O
+의	의	JKG	O
+_	_	_	O
+남성	남성	NNG	O
+이	이	JKS	O
+_	_	_	O
+숨	숨지	VV	O
+졌	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 불은 임야 3000㎡를 태우고 오후 4시15분께 진화됐지만 화재 현장서 신원 미상의 남성이 숨진채 발견됐다고 소방당국은 전했다.
+## 불은 임야 <3000㎡:NOH>를 태우고 <오후 4시15분:TIM>께 진화됐지만 화재 현장서 신원 미상의 남성이 숨진채 발견됐다고 소방당국은 전했다.
+불	불	NNG	O
+은	은	JX	O
+_	_	_	O
+임야	임야	NNG	O
+_	_	_	O
+3000	3000	SN	B-NOH
+㎡	㎡	SW	I-NOH
+를	를	JKO	O
+_	_	_	O
+태우	태우	VV	O
+고	고	EC	O
+_	_	_	O
+오후	오후	NNG	B-TIM
+_	_	_	I-TIM
+4	4	SN	I-TIM
+시	시	NNB	I-TIM
+15	15	SN	I-TIM
+분	분	NNB	I-TIM
+께	께	XSN	O
+_	_	_	O
+진화	진화되	VV	O
+됐	었	EP	O
+지만	지만	EC	O
+_	_	_	O
+화재	화재	NNG	O
+_	_	_	O
+현장	현장	NNG	O
+서	서	JKB	O
+_	_	_	O
+신원	신원	NNG	O
+_	_	_	O
+미상	미상	NNG	O
+의	의	JKG	O
+_	_	_	O
+남성	남성	NNG	O
+이	이	JKS	O
+_	_	_	O
+숨진	숨지+ㄴ	VV+ETM	O
+채	채	NNB	O
+_	_	_	O
+발견	발견되	VV	O
+됐	었	EP	O
+다고	다고	EC	O
+_	_	_	O
+소방	소방	NNG	O
+당국	당국	NNG	O
+은	은	JX	O
+_	_	_	O
+전	전하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## (용인=뉴스1)
+## (<용인:LOC>=뉴스1)
+(	(	SS	O
+용인	용인	NNP	B-LOC
+=	=	SW	O
+뉴스	뉴스	NNG	O
+1	1	SN	O
+)	)	SS	O
+
+## 10
+## 안타 1개를 치기가 힘들었다.
+## 안타 <1개:NOH>를 치기가 힘들었다.
+안타	안타	NNG	O
+_	_	_	O
+1	1	SN	B-NOH
+개	개	NNB	I-NOH
+를	를	JKO	O
+_	_	_	O
+치	치	VV	O
+기	기	ETN	O
+가	가	JKS	O
+_	_	_	O
+힘들	힘들	VA	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 최대 관심사였던 주인공이자 거대 동물인 옥자의 모습 일부가 이에 포함됐기 때문이다.
+## 최대 관심사였던 주인공이자 거대 동물인 <옥자:PER>의 모습 일부가 이에 포함됐기 때문이다.
+최대	최대	NNG	O
+_	_	_	O
+관심사	관심사+이	NNG+VCP	O
+였	었	EP	O
+던	던	ETM	O
+_	_	_	O
+주인공	주인공	NNG	O
+이	이	VCP	O
+자	자	EC	O
+_	_	_	O
+거대	거대	NNG	O
+_	_	_	O
+동물	동물	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+옥자	옥자	NNP	B-PER
+의	의	JKG	O
+_	_	_	O
+모습	모습	NNG	O
+_	_	_	O
+일부	일부	NNG	O
+가	가	JKS	O
+_	_	_	O
+이	이	NP	O
+에	에	JKB	O
+_	_	_	O
+포함	포함되	VV	O
+됐	었	EP	O
+기	기	ETN	O
+_	_	_	O
+때문	때문	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 문재인 대표 부인, 10분 넘게 통곡 … 참담한 구기동의 아침
+## <문재인:PER> 대표 부인, <10분:NOH> 넘게 통곡 … 참담한 구기동의 아침
+문재인	문재인	NNP	B-PER
+_	_	_	O
+대표	대표	NNG	O
+_	_	_	O
+부인	부인	NNG	O
+,	,	SP	O
+_	_	_	O
+10	10	SN	B-NOH
+분	분	NNB	I-NOH
+_	_	_	O
+넘	넘	VV	O
+게	게	EC	O
+_	_	_	O
+통곡	통곡	NNG	O
+_	_	_	O
+…	…	SE	O
+_	_	_	O
+참담한	참담하+ㄴ	VA+ETM	O
+_	_	_	O
+구기동	구기동	NNP	O
+의	의	JKG	O
+_	_	_	O
+아침	아침	NNG	O
+
+## 13
+## 북두는 힘센 장수가 많다는 북쪽지방 우두머리라는 뜻에서 곽씨가 직접 붙인 이름이다.
+## <북두:LOC>는 힘센 장수가 많다는 북쪽지방 우두머리라는 뜻에서 <곽:PER>씨가 직접 붙인 이름이다.
+북두	북두	NNG	B-LOC
+는	는	JX	O
+_	_	_	O
+힘센	힘세+ㄴ	VA+ETM	O
+_	_	_	O
+장수	장수	NNG	O
+가	가	JKS	O
+_	_	_	O
+많	많	VA	O
+다는	다는	ETM	O
+_	_	_	O
+북쪽	북쪽	NNG	O
+지방	지방	NNG	O
+_	_	_	O
+우두머리	우두머리+이	NNG+VCP	O
+라는	라는	ETM	O
+_	_	_	O
+뜻	뜻	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+곽	곽	NNP	B-PER
+씨	씨	NNB	O
+가	가	JKS	O
+_	_	_	O
+직접	직접	MAG	O
+_	_	_	O
+붙인	붙이+ㄴ	VV+ETM	O
+_	_	_	O
+이름	이름	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 14
+## 최강전에서 체중 700~800㎏인 을종은 겁없는 싸움소로 유명한 '벌이'가, 600~700㎏인 병종에선 민첩한 몸놀림이 특기인 '악돌이'가 최고의 싸움소에 이름을 올렸다.
+## 최강전에서 체중 <700:NOH>~<800㎏:NOH>인 을종은 겁없는 싸움소로 유명한 '벌이'가, <600:NOH>~<700㎏:NOH>인 병종에선 민첩한 몸놀림이 특기인 '악돌이'가 최고의 싸움소에 이름을 올렸다.
+최강	최강	NNG	O
+전	전	XSN	O
+에서	에서	JKB	O
+_	_	_	O
+체중	체중	NNG	O
+_	_	_	O
+700	700	SN	B-NOH
+~	~	SO	O
+800	800	SN	B-NOH
+㎏	㎏	SW	I-NOH
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+을종	을종	NNG	O
+은	은	JX	O
+_	_	_	O
+겁	겁	NNG	O
+없	없	VA	O
+는	는	ETM	O
+_	_	_	O
+싸움소	싸움소	NNG	O
+로	로	JKB	O
+_	_	_	O
+유명한	유명하+ㄴ	VA+ETM	O
+_	_	_	O
+'	'	SS	O
+벌	벌	NNG	O
+이	이	JKS	O
+'	'	SS	O
+가	가	JKS	O
+,	,	SP	O
+_	_	_	O
+600	600	SN	B-NOH
+~	~	SO	O
+700	700	SN	B-NOH
+㎏	㎏	SW	I-NOH
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+병종	병종	NNG	O
+에선	에서+ㄴ	JKB+JX	O
+_	_	_	O
+민첩한	민첩하+ㄴ	VA+ETM	O
+_	_	_	O
+몸놀림	몸놀림	NNG	O
+이	이	JKS	O
+_	_	_	O
+특기	특기	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+'	'	SS	O
+악돌이	악돌이	NNP	O
+'	'	SS	O
+가	가	JKS	O
+_	_	_	O
+최고	최고	NNG	O
+의	의	JKG	O
+_	_	_	O
+싸움소	싸움소	NNG	O
+에	에	JKB	O
+_	_	_	O
+이름	이름	NNG	O
+을	을	JKO	O
+_	_	_	O
+올	올리	VV	O
+렸	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 15
+## 1인당 연간 53.7㎏을 섭취한다.
+## <1인:NOH>당 연간 <53.7㎏:NOH>을 섭취한다.
+1	1	SN	B-NOH
+인	인	NNG	I-NOH
+당	당	XSN	O
+_	_	_	O
+연간	연간	NNG	O
+_	_	_	O
+53.7	53.7	SN	B-NOH
+㎏	㎏	SW	I-NOH
+을	을	JKO	O
+_	_	_	O
+섭취한다	섭취하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 16
+## 유해진과 이서진 등 ‘삼시세끼’ 정상들의 만남이 큰 웃음을 선물했다.
+## <유해진:PER>과 <이서진:PER> 등 ‘<삼시세끼:POH>’ 정상들의 만남이 큰 웃음을 선물했다.
+유해진	유해진	NNP	B-PER
+과	과	JC	O
+_	_	_	O
+이서진	이서진	NNP	B-PER
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+‘	‘	SS	O
+삼시세끼	삼시세끼	NNP	B-POH
+’	’	SS	O
+_	_	_	O
+정상	정상	NNG	O
+들	들	XSN	O
+의	의	JKG	O
+_	_	_	O
+만남	만남	NNG	O
+이	이	JKS	O
+_	_	_	O
+큰	크+ㄴ	VA+ETM	O
+_	_	_	O
+웃음	웃음	NNG	O
+을	을	JKO	O
+_	_	_	O
+선물	선물하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+

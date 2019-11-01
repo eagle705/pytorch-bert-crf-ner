@@ -1,0 +1,407 @@
+## 1
+## [비즈스토리] 고객 맞춤 분석해 상품 추천 … 재미 살린 큐레이션 콘텐트 인기
+## [<비즈스토리:POH>] 고객 맞춤 분석해 상품 추천 … 재미 살린 큐레이션 콘텐트 인기
+[	[	SS	O
+비즈	비즈	NNG	B-POH
+스토리	스토리	NNG	I-POH
+]	]	SS	O
+_	_	_	O
+고객	고객	NNG	O
+_	_	_	O
+맞춤	맞춤	NNG	O
+_	_	_	O
+분석해	분석하+여	VV+EC	O
+_	_	_	O
+상품	상품	NNG	O
+_	_	_	O
+추천	추천	NNG	O
+_	_	_	O
+…	…	SE	O
+_	_	_	O
+재미	재미	NNG	O
+_	_	_	O
+살린	살리+ㄴ	VV+ETM	O
+_	_	_	O
+큐	큐	NNG	O
+레이션	레이션	NNG	O
+_	_	_	O
+콘텐트	콘텐트	NNG	O
+_	_	_	O
+인기	인기	NNG	O
+
+## 2
+## 김한기 대림산업 대표이사 사장(55)이 한국주택협회 신임 회장에 내정됐다.
+## <김한기:PER> <대림산업:ORG> 대표이사 사장(<55:NOH>)이 <한국주택협회:ORG> 신임 회장에 내정됐다.
+김한기	김한기	NNP	B-PER
+_	_	_	O
+대림	대림	NNP	B-ORG
+산업	산업	NNG	I-ORG
+_	_	_	O
+대표	대표	NNG	O
+이사	이사	NNG	O
+_	_	_	O
+사장	사장	NNG	O
+(	(	SS	O
+55	55	SN	B-NOH
+)	)	SS	O
+이	이	JKS	O
+_	_	_	O
+한국	한국	NNP	B-ORG
+주택	주택	NNG	I-ORG
+협회	협회	NNG	I-ORG
+_	_	_	O
+신임	신임	NNG	O
+_	_	_	O
+회장	회장	NNG	O
+에	에	JKB	O
+_	_	_	O
+내정	내정되	VV	O
+됐	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 둘 다 외세의 침략에 대한 대응에서 비롯됐다는 점이다.
+## <둘:NOH> 다 외세의 침략에 대한 대응에서 비롯됐다는 점이다.
+둘	둘	NR	B-NOH
+_	_	_	O
+다	다	MAG	O
+_	_	_	O
+외세	외세	NNG	O
+의	의	JKG	O
+_	_	_	O
+침략	침략	NNG	O
+에	에	JKB	O
+_	_	_	O
+대한	대하+ㄴ	VV+ETM	O
+_	_	_	O
+대응	대응	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+비롯	비롯되	VV	O
+됐	었	EP	O
+다는	다는	ETM	O
+_	_	_	O
+점	점	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## ○공연윤리위 발뺌
+## ○<공연윤리위:ORG> 발뺌
+○	○	SW	O
+공연	공연	NNG	B-ORG
+윤리	윤리	NNG	I-ORG
+위	위	NNG	I-ORG
+_	_	_	O
+발뺌	발뺌	NNG	O
+
+## 5
+## 트랜스미션 측은 웹사이트에서 해당 버전을 삭제했고, 지난 6일 랜섬웨어를 제거해주는 새로운 2.92버전을 올렸다.
+## <트랜스미션:ORG> 측은 웹사이트에서 해당 버전을 삭제했고, 지난 <6일:DAT> 랜섬웨어를 제거해주는 새로운 <2.92버전:NOH>을 올렸다.
+트랜스미션	트랜스미션	NNG	B-ORG
+_	_	_	O
+측	측	NNB	O
+은	은	JX	O
+_	_	_	O
+웹사이트	웹사이트	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+해당	해당	NNG	O
+_	_	_	O
+버전	버전	NNG	O
+을	을	JKO	O
+_	_	_	O
+삭제	삭제하	VV	O
+했	였	EP	O
+고	고	EC	O
+,	,	SP	O
+_	_	_	O
+지난	지나+ㄴ	VV+ETM	O
+_	_	_	O
+6	6	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+랜섬	랜섬	NNP	O
+웨어	웨어	NNG	O
+를	를	JKO	O
+_	_	_	O
+제거해	제거하+여	VV+EC	O
+주	주	VX	O
+는	는	ETM	O
+_	_	_	O
+새로	새롭	VA	O
+운	ㄴ	ETM	O
+_	_	_	O
+2.92	2.92	SN	B-NOH
+버전	버전	NNG	I-NOH
+을	을	JKO	O
+_	_	_	O
+올	올리	VV	O
+렸	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 팔로 알토 네트워크는 KeRanger가 감염 PC에서 3일간 잠복한 뒤 이용자의 데이터를 암호화하도록 설계됐다고 블로그를 통해 알렸다.
+## <팔로 알토 네트워크:ORG>는 <KeRanger:POH>가 감염 PC에서 <3일간:DUR> 잠복한 뒤 이용자의 데이터를 암호화하도록 설계됐다고 블로그를 통해 알렸다.
+팔	팔	NNG	B-ORG
+로	로	JKB	I-ORG
+_	_	_	I-ORG
+알토	알토	NNG	I-ORG
+_	_	_	I-ORG
+네트워크	네트워크	NNG	I-ORG
+는	는	JX	O
+_	_	_	O
+KeRanger	KeRanger	SL	B-POH
+가	가	JKS	O
+_	_	_	O
+감염	감염	NNG	O
+_	_	_	O
+PC	PC	SL	O
+에서	에서	JKB	O
+_	_	_	O
+3	3	SN	B-DUR
+일	일	NNB	I-DUR
+간	간	XSN	I-DUR
+_	_	_	O
+잠복한	잠복하+ㄴ	VV+ETM	O
+_	_	_	O
+뒤	뒤	NNG	O
+_	_	_	O
+이용자	이용자	NNG	O
+의	의	JKG	O
+_	_	_	O
+데이터	데이터	NNG	O
+를	를	JKO	O
+_	_	_	O
+암호화하	암호화하	VV	O
+도록	도록	EC	O
+_	_	_	O
+설계	설계되	VV	O
+됐	었	EP	O
+다고	다고	EC	O
+_	_	_	O
+블로그	블로그	NNG	O
+를	를	JKO	O
+_	_	_	O
+통해	통하+여	VV+EC	O
+_	_	_	O
+알	알리	VV	O
+렸	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 거리에서 춤을 추다 보니 흘러 흘러 이주노 형을 만나게 됐어요.
+## 거리에서 춤을 추다 보니 흘러 흘러 <이주노:PER> 형을 만나게 됐어요.
+거리	거리	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+춤	춤	NNG	O
+을	을	JKO	O
+_	_	_	O
+추	추	VV	O
+다	다	EC	O
+_	_	_	O
+보	보	VX	O
+니	니	EC	O
+_	_	_	O
+흘	흐르	VV	O
+러	어	EC	O
+_	_	_	O
+흘	흐르	VV	O
+러	어	EC	O
+_	_	_	O
+이주노	이주노	NNP	B-PER
+_	_	_	O
+형	형	NNG	O
+을	을	JKO	O
+_	_	_	O
+만나	만나	VV	O
+게	게	EC	O
+_	_	_	O
+됐	+었	+EP	O
+어요	어요	EF	O
+.	.	SF	O
+
+## 8
+## 이에 레이먼 킴은 자신이 존경하는 요리사라며 연남동의 한 중국집 쉐프인 이연복 씨를 언급했다.
+## 이에 <레이먼 킴:PER>은 자신이 존경하는 요리사라며 <연남동:LOC>의 <한:NOH> 중국집 쉐프인 <이연복:PER> 씨를 언급했다.
+이	이	NP	O
+에	에	JKB	O
+_	_	_	O
+레이먼	레이먼	NNP	B-PER
+_	_	_	I-PER
+킴	킴	NNP	I-PER
+은	은	JX	O
+_	_	_	O
+자신	자신	NNG	O
+이	이	JKS	O
+_	_	_	O
+존경하	존경하	VV	O
+는	는	ETM	O
+_	_	_	O
+요리사	요리사+이	NNG+VCP	O
+라며	라며	EC	O
+_	_	_	O
+연남동	연남동	NNP	B-LOC
+의	의	JKG	O
+_	_	_	O
+한	한	MM	B-NOH
+_	_	_	O
+중국집	중국집	NNG	O
+_	_	_	O
+쉐프	쉐프	NNP	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+이연복	이연복	NNP	B-PER
+_	_	_	O
+씨	씨	NNG	O
+를	를	JKO	O
+_	_	_	O
+언급	언급하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## ‘한은도 비싸게 산 금을 내가 싸게 사면 얼마나 이익인가’ 하는 심리가 고개를 들고 있다.
+## ‘<한은:ORG>도 비싸게 산 금을 내가 싸게 사면 얼마나 이익인가’ 하는 심리가 고개를 들고 있다.
+‘	‘	SS	O
+한은	한은	NNP	B-ORG
+도	도	JX	O
+_	_	_	O
+비싸	비싸	VA	O
+게	게	EC	O
+_	_	_	O
+산	사+ㄴ	VV+ETM	O
+_	_	_	O
+금	금	NNG	O
+을	을	JKO	O
+_	_	_	O
+내	내	NP	O
+가	가	JKS	O
+_	_	_	O
+싸	싸	VA	O
+게	게	EC	O
+_	_	_	O
+사	사	VV	O
+면	면	EC	O
+_	_	_	O
+얼마나	얼마나	MAG	O
+_	_	_	O
+이익	이익	NNG	O
+인가	이+ㄴ가	VCP+EF	O
+’	’	SS	O
+_	_	_	O
+하	하	VV	O
+는	는	ETM	O
+_	_	_	O
+심리	심리	NNG	O
+가	가	JKS	O
+_	_	_	O
+고개	고개	NNG	O
+를	를	JKO	O
+_	_	_	O
+들	들	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 이후 박 교수는 실제 병원에서 실시하는 치매 검사 방법을 소개한다.
+## 이후 <박:PER> 교수는 실제 병원에서 실시하는 치매 검사 방법을 소개한다.
+이후	이후	NNG	O
+_	_	_	O
+박	박	NNP	B-PER
+_	_	_	O
+교수	교수	NNG	O
+는	는	JX	O
+_	_	_	O
+실제	실제	NNG	O
+_	_	_	O
+병원	병원	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+실시하	실시하	VV	O
+는	는	ETM	O
+_	_	_	O
+치매	치매	NNG	O
+_	_	_	O
+검사	검사	NNG	O
+_	_	_	O
+방법	방법	NNG	O
+을	을	JKO	O
+_	_	_	O
+소개한다	소개하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 11
+## 3월 12일 개봉한 영화 ‘소셜포비아’는 혈기왕성한 20대 청년들의 현피 이야기다.
+## <3월 12일:DAT> 개봉한 영화 ‘<소셜포비아:POH>’는 혈기왕성한 <20대:NOH> 청년들의 현피 이야기다.
+3	3	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	I-DAT
+12	12	SN	I-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+개봉한	개봉하+ㄴ	VV+ETM	O
+_	_	_	O
+영화	영화	NNG	O
+_	_	_	O
+‘	‘	SS	O
+소셜	소셜	NNG	B-POH
+포비아	포비아	NNG	I-POH
+’	’	SS	O
+는	는	JX	O
+_	_	_	O
+혈기	혈기	NNG	O
+왕성한	왕성하+ㄴ	VA+ETM	O
+_	_	_	O
+20	20	SN	B-NOH
+대	대	NNB	I-NOH
+_	_	_	O
+청년	청년	NNG	O
+들	들	XSN	O
+의	의	JKG	O
+_	_	_	O
+현	현	MM	O
+피	피	NNG	O
+_	_	_	O
+이야기	이야기+이	NNG+VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 하태경 “파면 박근혜, 관저 못 비우겠단 건 우회적인 불복 표현”
+## <하태경:PER> “파면 <박근혜:PER>, 관저 못 비우겠단 건 우회적인 불복 표현”
+하태경	하태경	NNP	B-PER
+_	_	_	O
+“	“	SS	O
+파면	파면	NNG	O
+_	_	_	O
+박근혜	박근혜	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+관저	관저	NNG	O
+_	_	_	O
+못	못	MAG	O
+_	_	_	O
+비우	비우	VV	O
+겠	겠	EP	O
+단	단	ETM	O
+_	_	_	O
+건	것+ㄴ	NNB+JX	O
+_	_	_	O
+우회적	우회적	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+불복	불복	NNG	O
+_	_	_	O
+표현	표현	NNG	O
+”	”	SS	O
+

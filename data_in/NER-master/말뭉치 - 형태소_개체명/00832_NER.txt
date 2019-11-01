@@ -1,0 +1,439 @@
+## 1
+## 북쪽에 산다고 폭염에 안전하지 않아 통계청에 따르면 2003년부터 10년간 열사병으로 사망한 국내 인구는 293명으로 나타났다.
+## 북쪽에 산다고 폭염에 안전하지 않아 <통계청:ORG>에 따르면 <2003년:DAT>부터 <10년간:DUR> 열사병으로 사망한 국내 인구는 <293명:NOH>으로 나타났다.
+북쪽	북쪽	NNG	O
+에	에	JKB	O
+_	_	_	O
+산다고	살+ㄴ다고	VV+EC	O
+_	_	_	O
+폭염	폭염	NNG	O
+에	에	JKB	O
+_	_	_	O
+안전하	안전하	VA	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+아	아	EC	O
+_	_	_	O
+통계청	통계청	NNG	B-ORG
+에	에	JKB	O
+_	_	_	O
+따르	따르	VV	O
+면	면	EC	O
+_	_	_	O
+2003	2003	SN	B-DAT
+년	년	NNB	I-DAT
+부터	부터	JX	O
+_	_	_	O
+10	10	SN	B-DUR
+년	년	NNB	I-DUR
+간	간	XSN	I-DUR
+_	_	_	O
+열사병	열사병	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+사망한	사망하+ㄴ	VV+ETM	O
+_	_	_	O
+국내	국내	NNG	O
+_	_	_	O
+인구	인구	NNG	O
+는	는	JX	O
+_	_	_	O
+293	293	SN	B-NOH
+명	명	NNB	I-NOH
+으로	으로	JKB	O
+_	_	_	O
+나타났	나타나+았	VV+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 이에 맞선 소련의 수비군은 병력과 장비면에서 상대적으로 초라하기 비할 바 없었다.
+## 이에 맞선 <소련:ORG>의 수비군은 병력과 장비면에서 상대적으로 초라하기 비할 바 없었다.
+이	이	NP	O
+에	에	JKB	O
+_	_	_	O
+맞선	맞서+ㄴ	VV+ETM	O
+_	_	_	O
+소련	소련	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+수비군	수비군	NNG	O
+은	은	JX	O
+_	_	_	O
+병력	병력	NNG	O
+과	과	JC	O
+_	_	_	O
+장비	장비	NNG	O
+면	면	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+상대적	상대적	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+초라하	초라하	VA	O
+기	기	ETN	O
+_	_	_	O
+비할	비하+ㄹ	VV+ETM	O
+_	_	_	O
+바	바	NNB	O
+_	_	_	O
+없	없	VA	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 그런데 최근 며칠간 신규 가입자가 하루 평균 1000명에 육박한다.
+## 그런데 최근 며칠간 신규 가입자가 <하루:NOH> 평균 <1000명:NOH>에 육박한다.
+그런데	그런데	MAJ	O
+_	_	_	O
+최근	최근	NNG	O
+_	_	_	O
+며칠	며칠	NNG	O
+간	간	XSN	O
+_	_	_	O
+신규	신규	NNG	O
+_	_	_	O
+가입자	가입자	NNG	O
+가	가	JKS	O
+_	_	_	O
+하루	하루	NNG	B-NOH
+_	_	_	O
+평균	평균	NNG	O
+_	_	_	O
+1000	1000	SN	B-NOH
+명	명	NNB	I-NOH
+에	에	JKB	O
+_	_	_	O
+육박한다	육박하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 4
+## 백종원은 “씻은 묵은지를 넣고 쌀뜨물을 넣으면 된다.
+## <백종원:PER>은 “씻은 묵은지를 넣고 쌀뜨물을 넣으면 된다.
+백종원	백종원	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+“	“	SS	O
+씻	씻	VV	O
+은	은	ETM	O
+_	_	_	O
+묵	묵	VV	O
+은지	은지	EC	O
+를	를	JKO	O
+_	_	_	O
+넣	넣	VV	O
+고	고	EC	O
+_	_	_	O
+쌀뜨물	쌀뜨물	NNG	O
+을	을	JKO	O
+_	_	_	O
+넣	넣	VV	O
+으면	으면	EC	O
+_	_	_	O
+된다	되+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 5
+## 2년 동안 열린 한국여자오픈에서 언더파를 기록한 선수는 김효주와 배선우 단 2명뿐이다.
+## <2년:DUR> 동안 열린 <한국여자오픈:POH>에서 언더파를 기록한 선수는 <김효주:PER>와 <배선우:PER> 단 <2명:NOH>뿐이다.
+2	2	SN	B-DUR
+년	년	NNB	I-DUR
+_	_	_	O
+동안	동안	NNG	O
+_	_	_	O
+열린	열리+ㄴ	VV+ETM	O
+_	_	_	O
+한국	한국	NNP	B-POH
+여자	여자	NNG	I-POH
+오픈	오픈	NNG	I-POH
+에서	에서	JKB	O
+_	_	_	O
+언더	언더	NNG	O
+파	파	NNG	O
+를	를	JKO	O
+_	_	_	O
+기록한	기록하+ㄴ	VV+ETM	O
+_	_	_	O
+선수	선수	NNG	O
+는	는	JX	O
+_	_	_	O
+김효주	김효주	NNP	B-PER
+와	와	JC	O
+_	_	_	O
+배선우	배선우	NNP	B-PER
+_	_	_	O
+단	단	MM	O
+_	_	_	O
+2	2	SN	B-NOH
+명	명	NNB	I-NOH
+뿐	뿐	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 이것을 맹자는 ‘공평함(平)’이라고 했다.
+## 이것을 <맹자:POH>는 ‘공평함(平)’이라고 했다.
+이것	이것	NP	O
+을	을	JKO	O
+_	_	_	O
+맹자	맹자	NNP	B-POH
+는	는	JX	O
+_	_	_	O
+‘	‘	SS	O
+공평함	공평하+ㅁ	VA+ETN	O
+(	(	SS	O
+平	平	SH	O
+)	)	SS	O
+’	’	SS	O
+이라고	이라고	JKQ	O
+_	_	_	O
+했	+였	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## “어어어…어이쿠” 24일 오전 경기 용인시청 3층 강당에선 연신 탄식이 흘러나왔다.
+## “어어어…어이쿠” <24일:DAT> 오전 <경기:LOC> <용인시청:LOC> <3층:NOH> 강당에선 연신 탄식이 흘러나왔다.
+“	“	SS	O
+어어어	어어어	IC	O
+…	…	SE	O
+어이쿠	어이쿠	IC	O
+”	”	SS	O
+_	_	_	O
+24	24	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+오전	오전	NNG	O
+_	_	_	O
+경기	경기	NNP	B-LOC
+_	_	_	O
+용인	용인	NNP	B-LOC
+시청	시청	NNG	I-LOC
+_	_	_	O
+3	3	SN	B-NOH
+층	층	NNG	I-NOH
+_	_	_	O
+강당	강당	NNG	O
+에선	에서+ㄴ	JKB+JX	O
+_	_	_	O
+연신	연신	MAG	O
+_	_	_	O
+탄식	탄식	NNG	O
+이	이	JKS	O
+_	_	_	O
+흘러나	흘러나오	VV	O
+왔	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 지금은 국민으로 대한민국 정치를 바라보고 지지하겠다”고 밝혔다.
+## 지금은 국민으로 <대한민국:ORG> 정치를 바라보고 지지하겠다”고 밝혔다.
+지금	지금	NNG	O
+은	은	JX	O
+_	_	_	O
+국민	국민	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+대한민국	대한민국	NNP	B-ORG
+_	_	_	O
+정치	정치	NNG	O
+를	를	JKO	O
+_	_	_	O
+바라보	바라보	VV	O
+고	고	EC	O
+_	_	_	O
+지지하	지지하	VV	O
+겠	겠	EP	O
+다	다	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+밝	밝히	VV	O
+혔	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 지난해 10월 분양된 서초구 반포동 아크로리버파크(옛 신반포 1차) 59㎡형도 4개월 새 웃돈이 6600만원 붙었다.
+## 지난해 <10월:DAT> 분양된 <서초구:LOC> <반포동:LOC> <아크로리버파크:LOC>(옛 <신반포 1차:LOC>) <59㎡:NOH>형도 <4개월:NOH> 새 웃돈이 <6600만원:DUR> 붙었다.
+지난해	지난해	NNG	O
+_	_	_	O
+10	10	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+분양된	분양되+ㄴ	VV+ETM	O
+_	_	_	O
+서초구	서초구	NNP	B-LOC
+_	_	_	O
+반포동	반포동	NNP	B-LOC
+_	_	_	O
+아크로리버파크	아크로리버파크	NNP	B-LOC
+(	(	SS	O
+옛	옛	MM	O
+_	_	_	O
+신반포	신반포	NNP	B-LOC
+_	_	_	I-LOC
+1	1	SN	I-LOC
+차	차	NNB	I-LOC
+)	)	SS	O
+_	_	_	O
+59	59	SN	B-NOH
+㎡	㎡	SW	I-NOH
+형	형	NNG	O
+도	도	JX	O
+_	_	_	O
+4	4	SN	B-NOH
+개월	개월	NNB	I-NOH
+_	_	_	O
+새	새	MM	O
+_	_	_	O
+웃돈	웃돈	NNG	O
+이	이	JKS	O
+_	_	_	O
+6600	6600	SN	B-DUR
+만	만	NR	I-DUR
+원	원	NNB	I-DUR
+_	_	_	O
+붙	붙	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 금년 3천여명이 총 9백2점을 출품하여 작년보다 3% 증가했다.
+## 금년 <3천여명:NOH>이 총 <9백2점:NOH>을 출품하여 작년보다 <3%:PNT> 증가했다.
+금년	금년	NNG	O
+_	_	_	O
+3	3	SN	B-NOH
+천	천	NR	I-NOH
+여	여	XSN	I-NOH
+명	명	NNB	I-NOH
+이	이	JKS	O
+_	_	_	O
+총	총	NNG	O
+_	_	_	O
+9	9	SN	B-NOH
+백	백	NR	I-NOH
+2	2	SN	I-NOH
+점	점	NNB	I-NOH
+을	을	JKO	O
+_	_	_	O
+출품하	출품하	VV	O
+여	여	EC	O
+_	_	_	O
+작년	작년	NNG	O
+보다	보다	JKB	O
+_	_	_	O
+3	3	SN	B-PNT
+%	%	SW	I-PNT
+_	_	_	O
+증가	증가하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 이날 오전 박 전 대통령의 삼성동 자택에는 윤 의원과 박지만 씨 부부 외에도 최경환, 유기준, 조원진, 윤상현, 이우현, 김태흠, 박대출, 이완영 등 의원 7명이 방문했다.
+## 이날 오전 <박:PER> 전 대통령의 <삼성동:LOC> 자택에는 <윤:PER> 의원과 <박지만:PER> 씨 부부 외에도 <최경환:PER>, <유기준:PER>, <조원진:PER>, <윤상현:PER>, <이우현:PER>, <김태흠:PER>, <박대출:PER>, <이완영:PER> 등 의원 <7명:NOH>이 방문했다.
+이날	이날	NNG	O
+_	_	_	O
+오전	오전	NNG	O
+_	_	_	O
+박	박	NNP	B-PER
+_	_	_	O
+전	전	MM	O
+_	_	_	O
+대통령	대통령	NNG	O
+의	의	JKG	O
+_	_	_	O
+삼성동	삼성동	NNP	B-LOC
+_	_	_	O
+자택	자택	NNG	O
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+윤	윤	NNP	B-PER
+_	_	_	O
+의원	의원	NNG	O
+과	과	JC	O
+_	_	_	O
+박지만	박지만	NNP	B-PER
+_	_	_	O
+씨	씨	NNB	O
+_	_	_	O
+부부	부부	NNG	O
+_	_	_	O
+외	외	NNB	O
+에	에	JKB	O
+도	도	JX	O
+_	_	_	O
+최경환	최경환	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+유기준	유기준	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+조원진	조원진	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+윤상현	윤상현	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+이우현	이우현	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+김태흠	김태흠	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+박대출	박대출	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+이완영	이완영	NNP	B-PER
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+의원	의원	NNG	O
+_	_	_	O
+7	7	SN	B-NOH
+명	명	NNB	I-NOH
+이	이	JKS	O
+_	_	_	O
+방문	방문하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 래퍼 스윙스 의가사 제대, "치료에만 전념하고 영리활동 안할 것…"
+## 래퍼 <스윙스:PER> 의가사 제대, "치료에만 전념하고 영리활동 안할 것…"
+래퍼	래퍼	NNG	O
+_	_	_	O
+스윙스	스윙스	NNP	B-PER
+_	_	_	O
+의가사	의가사	NNG	O
+_	_	_	O
+제대	제대	NNG	O
+,	,	SP	O
+_	_	_	O
+"	"	SS	O
+치료	치료	NNG	O
+에	에	JKB	O
+만	만	JX	O
+_	_	_	O
+전념하	전념하	VV	O
+고	고	EC	O
+_	_	_	O
+영리	영리	NNG	O
+활동	활동	NNG	O
+_	_	_	O
+안	안	MAG	O
+할	하+ㄹ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+…	…	SE	O
+"	"	SS	O
+

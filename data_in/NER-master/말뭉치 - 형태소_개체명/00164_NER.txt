@@ -1,0 +1,406 @@
+## 1
+## 보조금 사업 집행점검단을 만들어 100억 원 이상 대형 사업의 타당성을 검증하는 방안도 추진한다.
+## <보조금 사업 집행점검단:ORG>을 만들어 <100억 원:MNY> 이상 대형 사업의 타당성을 검증하는 방안도 추진한다.
+보조금	보조금	NNG	B-ORG
+_	_	_	I-ORG
+사업	사업	NNG	I-ORG
+_	_	_	I-ORG
+집행	집행	NNG	I-ORG
+점검	점검	NNG	I-ORG
+단	단	XSN	I-ORG
+을	을	JKO	O
+_	_	_	O
+만들	만들	VV	O
+어	어	EC	O
+_	_	_	O
+100	100	SN	B-MNY
+억	억	NR	I-MNY
+_	_	_	I-MNY
+원	원	NNB	I-MNY
+_	_	_	O
+이상	이상	NNG	O
+_	_	_	O
+대형	대형	NNG	O
+_	_	_	O
+사업	사업	NNG	O
+의	의	JKG	O
+_	_	_	O
+타당성	타당성	NNG	O
+을	을	JKO	O
+_	_	_	O
+검증하	검증하	VV	O
+는	는	ETM	O
+_	_	_	O
+방안	방안	NNG	O
+도	도	JX	O
+_	_	_	O
+추진한다	추진하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 2
+## 서울대입구역 2번 출구 앞의 작은 골목을 가리키는‘샤로수길’은 서울대 로고와 비슷한 ‘샤’란 글자에 가로수길을 합성했다.
+## <서울대입구역:LOC> <2번:NOH> 출구 앞의 작은 골목을 가리키는‘<샤로수길:LOC>’은 <서울대:ORG> 로고와 비슷한 ‘샤’란 글자에 <가로수길:LOC>을 합성했다.
+서울대입구역	서울대입구역	NNP	B-LOC
+_	_	_	O
+2	2	SN	B-NOH
+번	번	NNB	I-NOH
+_	_	_	O
+출구	출구	NNG	O
+_	_	_	O
+앞	앞	NNG	O
+의	의	JKG	O
+_	_	_	O
+작	작	VA	O
+은	은	ETM	O
+_	_	_	O
+골목	골목	NNG	O
+을	을	JKO	O
+_	_	_	O
+가리키	가리키	VV	O
+는	는	ETM	O
+‘	‘	SS	O
+샤	샤	NNP	B-LOC
+로	로	XSN	I-LOC
+수길	수길	NNP	I-LOC
+’	’	SS	O
+은	은	JX	O
+_	_	_	O
+서울대	서울대	NNP	B-ORG
+_	_	_	O
+로고	로고	NNG	O
+와	와	JKB	O
+_	_	_	O
+비슷한	비슷하+ㄴ	VA+ETM	O
+_	_	_	O
+‘	‘	SS	O
+샤	샤	NNG	O
+’	’+이	SS+VCP	O
+란	란	ETM	O
+_	_	_	O
+글자	글자	NNG	O
+에	에	JKB	O
+_	_	_	O
+가로수	가로수	NNG	B-LOC
+길	길	NNG	I-LOC
+을	을	JKO	O
+_	_	_	O
+합성	합성하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 생방송 중 가슴이 노출 된 루마니아의 한 여성 기상캐스터가 ‘실수를 가장한 고의적 노출’이라는 비난을 받고 있다.
+## 생방송 중 가슴이 노출 된 <루마니아:ORG>의 한 여성 기상캐스터가 ‘실수를 가장한 고의적 노출’이라는 비난을 받고 있다.
+생방송	생방송	NNG	O
+_	_	_	O
+중	중	NNP	O
+_	_	_	O
+가슴	가슴	NNG	O
+이	이	JKS	O
+_	_	_	O
+노출	노출	NNG	O
+_	_	_	O
+된	되+ㄴ	VV+ETM	O
+_	_	_	O
+루마니아	루마니아	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+한	한	MM	O
+_	_	_	O
+여성	여성	NNG	O
+_	_	_	O
+기상	기상	NNG	O
+캐스터	캐스터	NNG	O
+가	가	JKS	O
+_	_	_	O
+‘	‘	SS	O
+실수	실수	NNG	O
+를	를	JKO	O
+_	_	_	O
+가장한	가장하+ㄴ	VV+ETM	O
+_	_	_	O
+고의적	고의적	NNG	O
+_	_	_	O
+노출	노출	NNG	O
+’	’	SS	O
+이	이	VCP	O
+라는	라는	ETM	O
+_	_	_	O
+비난	비난	NNG	O
+을	을	JKO	O
+_	_	_	O
+받	받	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 이 젤 장벽을 녹이는 ‘복구 약’을 투약하면 되는데 가격은 피임약과 비슷한 10~12달러 수준이다.
+## 이 젤 장벽을 녹이는 ‘복구 약’을 투약하면 되는데 가격은 피임약과 비슷한 <10:MNY>~<12달러:MNY> 수준이다.
+이	이	MM	O
+_	_	_	O
+젤	젤	NNG	O
+_	_	_	O
+장벽	장벽	NNG	O
+을	을	JKO	O
+_	_	_	O
+녹이	녹이	VV	O
+는	는	ETM	O
+_	_	_	O
+‘	‘	SS	O
+복구	복구	NNG	O
+_	_	_	O
+약	약	MM	O
+’	’	SS	O
+을	을	JKO	O
+_	_	_	O
+투약하	투약하	VV	O
+면	면	EC	O
+_	_	_	O
+되	되	VV	O
+는데	는데	EC	O
+_	_	_	O
+가격	가격	NNG	O
+은	은	JX	O
+_	_	_	O
+피임약	피임약	NNG	O
+과	과	JC	O
+_	_	_	O
+비슷한	비슷하+ㄴ	VA+ETM	O
+_	_	_	O
+10	10	SN	B-MNY
+~	~	SO	O
+12	12	SN	B-MNY
+달러	달러	NNB	I-MNY
+_	_	_	O
+수준	수준	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 7년 만에 최저 수준이다.
+## <7년:DUR> 만에 최저 수준이다.
+7	7	SN	B-DUR
+년	년	NNB	I-DUR
+_	_	_	O
+만	만	NNB	O
+에	에	JKB	O
+_	_	_	O
+최저	최저	NNG	O
+_	_	_	O
+수준	수준	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 미국 노동부는 지난 6월 실업률이 5.3%로 하락했고, 같은 달의 비농업부문 신규고용 증가량은 22만 3천 개였다고 2일 발표했다.
+## <미국 노동부:ORG>는 지난 <6월:DAT> 실업률이 <5.3%:PNT>로 하락했고, 같은 달의 비농업부문 신규고용 증가량은 <22만 3천 개:NOH>였다고 <2일:DAT> 발표했다.
+미국	미국	NNP	B-ORG
+_	_	_	I-ORG
+노동부	노동부	NNG	I-ORG
+는	는	JX	O
+_	_	_	O
+지난	지나+ㄴ	VV+ETM	O
+_	_	_	O
+6	6	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+실업률	실업률	NNG	O
+이	이	JKS	O
+_	_	_	O
+5.3	5.3	SN	B-PNT
+%	%	SW	I-PNT
+로	로	JKB	O
+_	_	_	O
+하락	하락하	VV	O
+했	였	EP	O
+고	고	EC	O
+,	,	SP	O
+_	_	_	O
+같	같	VA	O
+은	은	ETM	O
+_	_	_	O
+달	달	NNG	O
+의	의	JKG	O
+_	_	_	O
+비	비	XPN	O
+농업	농업	NNG	O
+부문	부문	NNG	O
+_	_	_	O
+신규	신규	NNG	O
+고용	고용	NNG	O
+_	_	_	O
+증가량	증가량	NNG	O
+은	은	JX	O
+_	_	_	O
+22	22	SN	B-NOH
+만	만	NR	I-NOH
+_	_	_	I-NOH
+3	3	SN	I-NOH
+천	천	NR	I-NOH
+_	_	_	I-NOH
+개	개+이	NNB+VCP	I-NOH
+였	었	EP	O
+다고	다고	EC	O
+_	_	_	O
+2	2	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+발표	발표하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 지난달의 실업률은 2008년 4월 이후 가장 낮은 수준이다.
+## 지난달의 실업률은 <2008년 4월 이후:DAT> 가장 낮은 수준이다.
+지난달	지난달	NNG	O
+의	의	JKG	O
+_	_	_	O
+실업률	실업률	NNG	O
+은	은	JX	O
+_	_	_	O
+2008	2008	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	I-DAT
+4	4	SN	I-DAT
+월	월	NNB	I-DAT
+_	_	_	I-DAT
+이후	이후	NNG	I-DAT
+_	_	_	O
+가장	가장	MAG	O
+_	_	_	O
+낮	낮	VA	O
+은	은	ETM	O
+_	_	_	O
+수준	수준	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## [와!글]백승찬 PD는 유호진 PD, 아이돌 가수 신디는 수지 ‘그럴듯’
+## [와!글]<백승찬:PER> PD는 <유호진:PER> PD, 아이돌 가수 <신디:PER>는 <수지:PER> ‘그럴듯’
+[	[	SS	O
+와	와	JKB	O
+!	!	SF	O
+글	글	NNG	O
+]	]	SS	O
+백승찬	백승찬	NNP	B-PER
+_	_	_	O
+PD	PD	SL	O
+는	는	JX	O
+_	_	_	O
+유호진	유호진	NNP	B-PER
+_	_	_	O
+PD	PD	SL	O
+,	,	SP	O
+_	_	_	O
+아이돌	아이돌	NNG	O
+_	_	_	O
+가수	가수	NNG	O
+_	_	_	O
+신디	신디	NNP	B-PER
+는	는	JX	O
+_	_	_	O
+수지	수지	NNG	B-PER
+_	_	_	O
+‘	‘	SS	O
+그럴	그렇+ㄹ	VA+ETM	O
+듯	듯	NNB	O
+’	’	SS	O
+
+## 9
+## 고씨는 9일 헌재 탄핵심판 변론기일에 증인으로 채택돼 있다.
+## <고:PER>씨는 <9일:DAT> 헌재 탄핵심판 변론기일에 증인으로 채택돼 있다.
+고	고	NNP	B-PER
+씨	씨	NNB	O
+는	는	JX	O
+_	_	_	O
+9	9	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+헌재	헌재	NNG	O
+_	_	_	O
+탄핵	탄핵	NNG	O
+심판	심판	NNG	O
+_	_	_	O
+변론	변론	NNG	O
+기일	기일	NNG	O
+에	에	JKB	O
+_	_	_	O
+증인	증인	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+채택돼	채택되+어	VV+EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 연금저축 가입자들이 지난해 받은 월평균 연금액은 26만 원으로 집계됐다.
+## 연금저축 가입자들이 지난해 받은 월평균 연금액은 <26만 원:MNY>으로 집계됐다.
+연금	연금	NNG	O
+저축	저축	NNG	O
+_	_	_	O
+가입자	가입자	NNG	O
+들	들	XSN	O
+이	이	JKS	O
+_	_	_	O
+지난해	지난해	NNG	O
+_	_	_	O
+받	받	VV	O
+은	은	ETM	O
+_	_	_	O
+월평균	월평균	NNG	O
+_	_	_	O
+연금	연금	NNG	O
+액	액	XSN	O
+은	은	JX	O
+_	_	_	O
+26	26	SN	B-MNY
+만	만	NR	I-MNY
+_	_	_	I-MNY
+원	원	NNB	I-MNY
+으로	으로	JKB	O
+_	_	_	O
+집계	집계되	VV	O
+됐	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## “지금 새정치연합은 평생 야당만 하기로 작정한 정당”이라고도 했다.
+## “지금 <새정치연합:ORG>은 평생 야당만 하기로 작정한 정당”이라고도 했다.
+“	“	SS	O
+지금	지금	MAG	O
+_	_	_	O
+새정치연합	새정치연합	NNP	B-ORG
+은	은	JX	O
+_	_	_	O
+평생	평생	NNG	O
+_	_	_	O
+야당	야당	NNG	O
+만	만	JX	O
+_	_	_	O
+하	하	VV	O
+기	기	ETN	O
+로	로	JKB	O
+_	_	_	O
+작정한	작정하+ㄴ	VV+ETM	O
+_	_	_	O
+정당	정당	NNG	O
+”	”	SS	O
+이라고	이라고	JKQ	O
+도	도	JX	O
+_	_	_	O
+했	+였	+EP	O
+다	다	EF	O
+.	.	SF	O
+

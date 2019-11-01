@@ -1,0 +1,359 @@
+## 1
+## 또한 요르단군은 시리아에 있는 IS 교육 센터와 무기 저장고 폭격했으며 이번 공습으로 IS 대원 55명이 사망한것으로 전해진다.
+## 또한 <요르단:ORG>군은 <시리아:LOC>에 있는 <IS:ORG> 교육 센터와 무기 저장고 폭격했으며 이번 공습으로 <IS:ORG> 대원 <55명:NOH>이 사망한것으로 전해진다.
+또한	또한	MAG	O
+_	_	_	O
+요르단	요르단	NNP	B-ORG
+군	군	NNG	O
+은	은	JX	O
+_	_	_	O
+시리아	시리아	NNP	B-LOC
+에	에	JKB	O
+_	_	_	O
+있	있	VA	O
+는	는	ETM	O
+_	_	_	O
+IS	IS	SL	B-ORG
+_	_	_	O
+교육	교육	NNG	O
+_	_	_	O
+센터	센터	NNG	O
+와	와	JC	O
+_	_	_	O
+무기	무기	NNG	O
+_	_	_	O
+저장고	저장고	NNG	O
+_	_	_	O
+폭격	폭격하	VV	O
+했	였	EP	O
+으며	으며	EC	O
+_	_	_	O
+이번	이번	NNG	O
+_	_	_	O
+공습	공습	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+IS	IS	SL	B-ORG
+_	_	_	O
+대원	대원	NNG	O
+_	_	_	O
+55	55	SN	B-NOH
+명	명	NNB	I-NOH
+이	이	JKS	O
+_	_	_	O
+사망한	사망하+ㄴ	VV+ETM	O
+것	것	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+전해	전하+여	VV+EC	O
+진다	지+ㄴ다	VX+EF	O
+.	.	SF	O
+
+## 2
+## 퓰리처상 최종 후보작에 오른 장편 ‘비둘기 재앙’은 2008년 뉴욕타임스 베스트셀러에 올랐다.
+## <퓰리처상:POH> 최종 후보작에 오른 장편 ‘<비둘기 재앙:POH>’은 <2008년:DAT> <뉴욕타임스:ORG> 베스트셀러에 올랐다.
+퓰리처	퓰리처	NNP	B-POH
+상	상	NNG	I-POH
+_	_	_	O
+최종	최종	NNG	O
+_	_	_	O
+후보작	후보작	NNG	O
+에	에	JKB	O
+_	_	_	O
+오른	오르+ㄴ	VV+ETM	O
+_	_	_	O
+장편	장편	NNG	O
+_	_	_	O
+‘	‘	SS	O
+비둘기	비둘기	NNG	B-POH
+_	_	_	I-POH
+재앙	재앙	NNG	I-POH
+’	’	SS	O
+은	은	JX	O
+_	_	_	O
+2008	2008	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+뉴욕타임스	뉴욕타임스	NNP	B-ORG
+_	_	_	O
+베스트셀러	베스트셀러	NNG	O
+에	에	JKB	O
+_	_	_	O
+올	오르	VV	O
+랐	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 더 쇼 갓세븐, 컴백하자 마자 1위…무슨 일?
+## <더 쇼:POH> <갓세븐:ORG>, 컴백하자 마자 <1위:NOH>…무슨 일?
+더	더	MAG	B-POH
+_	_	_	I-POH
+쇼	쇼	NNG	I-POH
+_	_	_	O
+갓세븐	갓세븐	NNP	B-ORG
+,	,	SP	O
+_	_	_	O
+컴백하	컴백하	VV	O
+자	자	EC	O
+_	_	_	O
+마	말	VX	O
+자	자	EC	O
+_	_	_	O
+1	1	SN	B-NOH
+위	위	NNB	I-NOH
+…	…	SE	O
+무슨	무슨	MM	O
+_	_	_	O
+일	일	NNP	O
+?	?	SF	O
+
+## 4
+## 정치권에서의 사면 논란에 대해서는 “아직 재판을 시작하기도 전이고 무슨 죄를 어떻게 지었는지도 밝혀지지 않았다”며 “대선을 앞두고 안철수 국민의당 후보 등이 표를 계산하는 것”이라고 지적했다.
+## 정치권에서의 사면 논란에 대해서는 “아직 재판을 시작하기도 전이고 무슨 죄를 어떻게 지었는지도 밝혀지지 않았다”며 “대선을 앞두고 <안철수:PER> <국민의당:ORG> 후보 등이 표를 계산하는 것”이라고 지적했다.
+정치권	정치권	NNG	O
+에서	에서	JKB	O
+의	의	JKG	O
+_	_	_	O
+사면	사면	NNG	O
+_	_	_	O
+논란	논란	NNG	O
+에	에	JKB	O
+_	_	_	O
+대해서	대하+여서	VV+EC	O
+는	는	JX	O
+_	_	_	O
+“	“	SS	O
+아직	아직	MAG	O
+_	_	_	O
+재판	재판	NNG	O
+을	을	JKO	O
+_	_	_	O
+시작하	시작하	VV	O
+기	기	ETN	O
+도	도	JX	O
+_	_	_	O
+전	전	NNG	O
+이	이	VCP	O
+고	고	EC	O
+_	_	_	O
+무슨	무슨	MM	O
+_	_	_	O
+죄	죄	NNG	O
+를	를	JKO	O
+_	_	_	O
+어떻	어떻	VA	O
+게	게	EC	O
+_	_	_	O
+지	짓	VV	O
+었	었	EP	O
+는지	는지	EC	O
+도	도	JX	O
+_	_	_	O
+밝혀지	밝혀지	VV	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+았	았	EP	O
+다	다	EF	O
+”	”	SS	O
+며	며	EC	O
+_	_	_	O
+“	“	SS	O
+대선	대선	NNG	O
+을	을	JKO	O
+_	_	_	O
+앞두	앞두	VV	O
+고	고	EC	O
+_	_	_	O
+안철수	안철수	NNP	B-PER
+_	_	_	O
+국민	국민	NNG	B-ORG
+의당	의당	MAG	I-ORG
+_	_	_	O
+후보	후보	NNG	O
+_	_	_	O
+등	등	NNB	O
+이	이	JKS	O
+_	_	_	O
+표	표	NNG	O
+를	를	JKO	O
+_	_	_	O
+계산하	계산하	VV	O
+는	는	ETM	O
+_	_	_	O
+것	것	NNB	O
+”	”	SS	O
+이라고	이라고	JKQ	O
+_	_	_	O
+지적	지적하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## [포토] 레이싱모델 유진, 탄탄 가슴라인 아찔
+## [포토] 레이싱모델 <유진:PER>, 탄탄 가슴라인 아찔
+[	[	SS	O
+포토	포토	NNG	O
+]	]	SS	O
+_	_	_	O
+레이싱	레이싱	NNG	O
+모델	모델	NNG	O
+_	_	_	O
+유진	유진	NNP	B-PER
+,	,	SP	O
+_	_	_	O
+탄탄	탄탄	NNG	O
+_	_	_	O
+가슴	가슴	NNG	O
+라인	라인	NNG	O
+_	_	_	O
+아찔	아찔	NNG	O
+
+## 6
+## 춥고 바람이 많은 날은 10일 정도면 충분하다.
+## 춥고 바람이 많은 날은 <10일:DAT> 정도면 충분하다.
+춥	춥	VA	O
+고	고	EC	O
+_	_	_	O
+바람	바람	NNG	O
+이	이	JKS	O
+_	_	_	O
+많	많	VA	O
+은	은	ETM	O
+_	_	_	O
+날	날	NNG	O
+은	은	JX	O
+_	_	_	O
+10	10	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+정도	정도+이	NNG+VCP	O
+면	면	EC	O
+_	_	_	O
+충분하	충분하	VA	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 과메기 생산업체는 대략 400여곳이다.
+## 과메기 생산업체는 대략 <400여곳:NOH>이다.
+과메기	과메기	NNG	O
+_	_	_	O
+생산	생산	NNG	O
+업체	업체	NNG	O
+는	는	JX	O
+_	_	_	O
+대략	대략	MAG	O
+_	_	_	O
+400	400	SN	B-NOH
+여	여	XSN	I-NOH
+곳	곳	NNG	I-NOH
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 폐암세포가 증식하도록 명령하는 수용체(EGFR)에 붙어 신호전달을 막는다.
+## 폐암세포가 증식하도록 명령하는 수용체(<EGFR:ORG>)에 붙어 신호전달을 막는다.
+폐암	폐암	NNG	O
+세포	세포	NNG	O
+가	가	JKS	O
+_	_	_	O
+증식하	증식하	VV	O
+도록	도록	EC	O
+_	_	_	O
+명령하	명령하	VV	O
+는	는	ETM	O
+_	_	_	O
+수용체	수용체	NNG	O
+(	(	SS	O
+EGFR	EGFR	SL	B-ORG
+)	)	SS	O
+에	에	JKB	O
+_	_	_	O
+붙	붙	VV	O
+어	어	EC	O
+_	_	_	O
+신호	신호	NNG	O
+전달	전달	NNG	O
+을	을	JKO	O
+_	_	_	O
+막	막	VV	O
+는다	는다	EF	O
+.	.	SF	O
+
+## 9
+## 또 이 황사는 오늘 밤에 점차 약화되겠으나, 일부 지역은 2일 낮까지 이어질 수도 있다고 덧붙였다.
+## 또 <이:PER> 황사는 오늘 밤에 점차 약화되겠으나, 일부 지역은 <2일:DAT> 낮까지 이어질 수도 있다고 덧붙였다.
+또	또	MAG	O
+_	_	_	O
+이	이	MM	B-PER
+_	_	_	O
+황사	황사	NNG	O
+는	는	JX	O
+_	_	_	O
+오늘	오늘	NNG	O
+_	_	_	O
+밤	밤	NNG	O
+에	에	JKB	O
+_	_	_	O
+점차	점차	MAG	O
+_	_	_	O
+약화되	약화되	VV	O
+겠	겠	EP	O
+으나	으나	EC	O
+,	,	SP	O
+_	_	_	O
+일부	일부	NNG	O
+_	_	_	O
+지역	지역	NNG	O
+은	은	JX	O
+_	_	_	O
+2	2	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+낮	낮	NNG	O
+까지	까지	JX	O
+_	_	_	O
+이어질	이어지+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+도	도	JX	O
+_	_	_	O
+있	있	VA	O
+다고	다고	EC	O
+_	_	_	O
+덧붙	덧붙이	VV	O
+였	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 1분기 가구당 도서구입비, 8.0%↓…온라인 쇼핑 거래액은?
+## <1분기:NOH> 가구당 도서구입비, <8.0%:PNT>↓…온라인 쇼핑 거래액은?
+1	1	SN	B-NOH
+분기	분기	NNG	I-NOH
+_	_	_	O
+가구	가구	NNG	O
+당	당	XSN	O
+_	_	_	O
+도서	도서	NNG	O
+구입	구입	NNG	O
+비	비	XSN	O
+,	,	SP	O
+_	_	_	O
+8.0	8.0	SN	B-PNT
+%	%	SW	I-PNT
+↓	↓	SW	O
+…	…	SE	O
+온라인	온라인	NNG	O
+_	_	_	O
+쇼핑	쇼핑	NNG	O
+_	_	_	O
+거래	거래	NNG	O
+액	액	XSN	O
+은	은	JX	O
+?	?	SF	O
+

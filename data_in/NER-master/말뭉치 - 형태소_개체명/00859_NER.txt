@@ -1,0 +1,276 @@
+## 1
+## 중앙박물관에는 도자기·회화 등 38만여 점의 유물이 보관돼 있다.
+## <중앙박물관:LOC>에는 도자기·회화 등 <38만여 점:NOH>의 유물이 보관돼 있다.
+중앙박물관	중앙박물관	NNP	B-LOC
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+도자기	도자기	NNG	O
+·	·	SP	O
+회화	회화	NNG	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+38	38	SN	B-NOH
+만	만	NR	I-NOH
+여	여	XSN	I-NOH
+_	_	_	I-NOH
+점	점	NNB	I-NOH
+의	의	JKG	O
+_	_	_	O
+유물	유물	NNG	O
+이	이	JKS	O
+_	_	_	O
+보관돼	보관되+어	VV+EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 이 관장은 전형적인 ‘박물관맨’이다.
+## <이:PER> 관장은 전형적인 ‘박물관맨’이다.
+이	이	MM	B-PER
+_	_	_	O
+관장	관장	NNG	O
+은	은	JX	O
+_	_	_	O
+전형적	전형적	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+‘	‘	SS	O
+박물관	박물관	NNG	O
+맨	맨	MM	O
+’	’	SS	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 미국인의 설탕 소비량은 1970년부터 1985년 사이에 40% 가까이 줄었다.
+## 미국인의 설탕 소비량은 <1970년:DAT>부터 <1985년:DAT> 사이에 <40%:PNT> 가까이 줄었다.
+미국인	미국인	NNG	O
+의	의	JKG	O
+_	_	_	O
+설탕	설탕	NNG	O
+_	_	_	O
+소비량	소비량	NNG	O
+은	은	JX	O
+_	_	_	O
+1970	1970	SN	B-DAT
+년	년	NNB	I-DAT
+부터	부터	JX	O
+_	_	_	O
+1985	1985	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+사이	사이	NNG	O
+에	에	JKB	O
+_	_	_	O
+40	40	SN	B-PNT
+%	%	SW	I-PNT
+_	_	_	O
+가까이	가까이	MAG	O
+_	_	_	O
+줄	줄	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 이어 윤 위원장은 “금융당국에 우리은행의 가치를 해치지 않는 선에서 배당확대를 요청했다”고 덧붙였다.
+## 이어 <윤:PER> 위원장은 “금융당국에 <우리은행:ORG>의 가치를 해치지 않는 선에서 배당확대를 요청했다”고 덧붙였다.
+이어	이어	MAG	O
+_	_	_	O
+윤	윤	NNP	B-PER
+_	_	_	O
+위원장	위원장	NNG	O
+은	은	JX	O
+_	_	_	O
+“	“	SS	O
+금융	금융	NNG	O
+당국	당국	NNG	O
+에	에	JKB	O
+_	_	_	O
+우리은행	우리은행	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+가치	가치	NNG	O
+를	를	JKO	O
+_	_	_	O
+해치	해치	VV	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+는	는	ETM	O
+_	_	_	O
+선	선	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+배당	배당	NNG	O
+확대	확대	NNG	O
+를	를	JKO	O
+_	_	_	O
+요청	요청하	VV	O
+했	였	EP	O
+다	다	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+덧붙	덧붙이	VV	O
+였	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 지난 2014년 5월 자신들이 작사, 작곡한 디지털 싱글 ‘배드 뉴스(BAD NEWS)’를 발표하며 실력을 인정받은 힙합 듀오다.
+## 지난 <2014년 5월:DAT> 자신들이 작사, 작곡한 디지털 <싱글:NOH> ‘<배드 뉴스:POH>(<BAD NEWS:POH>)’를 발표하며 실력을 인정받은 힙합 듀오다.
+지난	지나+ㄴ	VV+ETM	O
+_	_	_	O
+2014	2014	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	I-DAT
+5	5	SN	I-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+자신	자신	NNG	O
+들	들	XSN	O
+이	이	JKS	O
+_	_	_	O
+작사	작사	NNG	O
+,	,	SP	O
+_	_	_	O
+작곡한	작곡하+ㄴ	VV+ETM	O
+_	_	_	O
+디지털	디지털	NNG	O
+_	_	_	O
+싱글	싱글	NNG	B-NOH
+_	_	_	O
+‘	‘	SS	O
+배드	배드	NNG	B-POH
+_	_	_	I-POH
+뉴스	뉴스	NNG	I-POH
+(	(	SS	O
+BAD	BAD	SL	B-POH
+_	_	_	I-POH
+NEWS	NEWS	SL	I-POH
+)	)	SS	O
+’	’	SS	O
+를	를	JKO	O
+_	_	_	O
+발표하	발표하	VV	O
+며	며	EC	O
+_	_	_	O
+실력	실력	NNG	O
+을	을	JKO	O
+_	_	_	O
+인정받	인정받	VV	O
+은	은	ETM	O
+_	_	_	O
+힙합	힙합	NNG	O
+_	_	_	O
+듀오	듀오	NNG	O
+다	다	NNG	O
+.	.	SF	O
+
+## 6
+## 이날 최무겸은 연장까지 가는 접전 끝에 2대1 판정으로 서두원을 꺾었다.
+## 이날 <최무겸:PER>은 연장까지 가는 접전 끝에 <2대1:NOH> 판정으로 <서두원:PER>을 꺾었다.
+이날	이날	NNG	O
+_	_	_	O
+최	최	XPN	B-PER
+무겸	무겸	NNG	I-PER
+은	은	JX	O
+_	_	_	O
+연장	연장	NNG	O
+까지	까지	JX	O
+_	_	_	O
+가	가	VV	O
+는	는	ETM	O
+_	_	_	O
+접전	접전	NNG	O
+_	_	_	O
+끝	끝	NNG	O
+에	에	JKB	O
+_	_	_	O
+2	2	SN	B-NOH
+대	대	NNB	I-NOH
+1	1	SN	I-NOH
+_	_	_	O
+판정	판정	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+서두원	서두원	NNP	B-PER
+을	을	JKO	O
+_	_	_	O
+꺾	꺾	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 은행연합회 공시에 따르면 기준금리가 인하된 다음날인 13일 외환은행의 1년 만기 ‘외환 나이스샷 골프 적금’의 금리는 종전보다 0.2%포인트 낮은 1.9%로 떨어졌다.
+## <은행연합회:ORG> 공시에 따르면 기준금리가 인하된 다음날인 <13일:DAT> <외환은행:ORG>의 <1년:NOH> 만기 ‘<외환 나이스샷 골프 적금:POH>’의 금리는 종전보다 <0.2%포인트:PNT> 낮은 <1.9%:PNT>로 떨어졌다.
+은행	은행	NNG	B-ORG
+연합회	연합회	NNG	I-ORG
+_	_	_	O
+공시	공시	NNG	O
+에	에	JKB	O
+_	_	_	O
+따르	따르	VV	O
+면	면	EC	O
+_	_	_	O
+기준	기준	NNG	O
+금리	금리	NNG	O
+가	가	JKS	O
+_	_	_	O
+인하된	인하되+ㄴ	VV+ETM	O
+_	_	_	O
+다음날	다음날	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+13	13	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+외환은행	외환은행	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+1	1	SN	B-NOH
+년	년	NNB	I-NOH
+_	_	_	O
+만기	만기	NNG	O
+_	_	_	O
+‘	‘	SS	O
+외환	외환	NNG	B-POH
+_	_	_	I-POH
+나이스	나이스	NNG	I-POH
+샷	샷	NNG	I-POH
+_	_	_	I-POH
+골프	골프	NNG	I-POH
+_	_	_	I-POH
+적금	적금	NNG	I-POH
+’	’	SS	O
+의	의	JKG	O
+_	_	_	O
+금리	금리	NNG	O
+는	는	JX	O
+_	_	_	O
+종전	종전	NNG	O
+보다	보다	JKB	O
+_	_	_	O
+0.2	0.2	SN	B-PNT
+%	%	SW	I-PNT
+포인트	포인트	NNG	I-PNT
+_	_	_	O
+낮	낮	VA	O
+은	은	ETM	O
+_	_	_	O
+1.9	1.9	SN	B-PNT
+%	%	SW	I-PNT
+로	로	JKB	O
+_	_	_	O
+떨어	떨어지	VV	O
+졌	었	EP	O
+다	다	EF	O
+.	.	SF	O
+

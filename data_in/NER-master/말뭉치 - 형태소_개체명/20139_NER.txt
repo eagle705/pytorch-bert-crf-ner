@@ -1,0 +1,567 @@
+## 1
+## 신분당선 연장선 상현역과 광교중앙역이 멀지 않아 대중교통 여건도 양호한 편이다.
+## <신분당선:POH> 연장선 <상현역:LOC>과 <광교중앙역:LOC>이 멀지 않아 대중교통 여건도 양호한 편이다.
+신분당선	신분당선	NNP	B-POH
+_	_	_	O
+연장선	연장선	NNG	O
+_	_	_	O
+상	상	XSN	B-LOC
+현역	현역	NNG	I-LOC
+과	과	JC	O
+_	_	_	O
+광교	광교	NNP	B-LOC
+중앙역	중앙역	NNP	I-LOC
+이	이	JKS	O
+_	_	_	O
+멀	멀	VA	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+아	아	EC	O
+_	_	_	O
+대중	대중	NNG	O
+교통	교통	NNG	O
+_	_	_	O
+여건	여건	NNG	O
+도	도	JX	O
+_	_	_	O
+양호한	양호하+ㄴ	VA+ETM	O
+_	_	_	O
+편	편	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 서울시 21일부터 내달 15일까지
+## <서울시:LOC> <21일:DAT>부터 내달 <15일:DAT>까지
+서울시	서울시	NNP	B-LOC
+_	_	_	O
+21	21	SN	B-DAT
+일	일	NNB	I-DAT
+부터	부터	JX	O
+_	_	_	O
+내달	내달	NNG	O
+_	_	_	O
+15	15	SN	B-DAT
+일	일	NNB	I-DAT
+까지	까지	JX	O
+
+## 3
+## 아베크롬비가 있던 건물 임대료는 보증금 60억원에 월 2억3500만원이다.
+## <아베크롬비:ORG>가 있던 건물 임대료는 보증금 <60억원:MNY>에 월 <2억3500만원:MNY>이다.
+아베	아베	NNP	B-ORG
+크롬비	크롬비	NNP	I-ORG
+가	가	JKS	O
+_	_	_	O
+있	있	VA	O
+던	던	ETM	O
+_	_	_	O
+건물	건물	NNG	O
+_	_	_	O
+임대료	임대료	NNG	O
+는	는	JX	O
+_	_	_	O
+보증금	보증금	NNG	O
+_	_	_	O
+60	60	SN	B-MNY
+억	억	NR	I-MNY
+원	원	NNB	I-MNY
+에	에	JKB	O
+_	_	_	O
+월	월	NNG	O
+_	_	_	O
+2	2	SN	B-MNY
+억	억	NR	I-MNY
+3500	3500	SN	I-MNY
+만	만	NR	I-MNY
+원	원	NNB	I-MNY
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 설 명절 걱정거리 1위는 ‘잔소리’…스트레스 만땅에 ‘한숨이 절로’
+## 설 명절 걱정거리 <1위:NOH>는 ‘잔소리’…스트레스 만땅에 ‘한숨이 절로’
+설	설	NNG	O
+_	_	_	O
+명절	명절	NNG	O
+_	_	_	O
+걱정거리	걱정거리	NNG	O
+_	_	_	O
+1	1	SN	B-NOH
+위	위	NNB	I-NOH
+는	는	JX	O
+_	_	_	O
+‘	‘	SS	O
+잔소리	잔소리	NNG	O
+’	’	SS	O
+…	…	SE	O
+스트레스	스트레스	NNG	O
+_	_	_	O
+만땅	만땅	NNG	O
+에	에	JKB	O
+_	_	_	O
+‘	‘	SS	O
+한숨	한숨	NNG	O
+이	이	JKS	O
+_	_	_	O
+절로	절로	MAG	O
+’	’	SS	O
+
+## 5
+## [오늘의 채널A]세조 등극 후 잇단 ‘곡성’
+## [<오늘의 채널A:POH>]<세조:PER> 등극 후 잇단 ‘곡성’
+[	[	SS	O
+오늘	오늘	NNG	B-POH
+의	의	JKG	I-POH
+_	_	_	I-POH
+채널	채널	NNG	I-POH
+A	A	SL	I-POH
+]	]	SS	O
+세조	세조	NNP	B-PER
+_	_	_	O
+등극	등극	NNG	O
+_	_	_	O
+후	후	NNG	O
+_	_	_	O
+잇단	잇달+ㄴ	VV+ETM	O
+_	_	_	O
+‘	‘	SS	O
+곡성	곡성	NNP	O
+’	’	SS	O
+
+## 6
+## 어나니머스 “전세계 회원들 IS에 대대적인 공격 조만간 실시”, 선전포고국제 해커 조직 어나니머스가 IS에 공격을 선전포고했다.
+## <어나니머스:ORG> “전세계 회원들 <IS:ORG>에 대대적인 공격 조만간 실시”, 선전포고국제 해커 조직 <어나니머스:ORG>가 <IS:ORG>에 공격을 선전포고했다.
+어나니머스	어나니머스	NNP	B-ORG
+_	_	_	O
+“	“	SS	O
+전	전	MM	O
+세계	세계	NNG	O
+_	_	_	O
+회원	회원	NNG	O
+들	들	XSN	O
+_	_	_	O
+IS	IS	SL	B-ORG
+에	에	JKB	O
+_	_	_	O
+대대적	대대적	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+공격	공격	NNG	O
+_	_	_	O
+조만간	조만간	MAG	O
+_	_	_	O
+실시	실시	NNG	O
+”	”	SS	O
+,	,	SP	O
+_	_	_	O
+선전포고	선전포고	NNG	O
+국제	국제	NNG	O
+_	_	_	O
+해커	해커	NNG	O
+_	_	_	O
+조직	조직	NNG	O
+_	_	_	O
+어나니머스	어나니머스	NNP	B-ORG
+가	가	JKS	O
+_	_	_	O
+IS	IS	SL	B-ORG
+에	에	JKB	O
+_	_	_	O
+공격	공격	NNG	O
+을	을	JKO	O
+_	_	_	O
+선전포고	선전포고하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 어나니머스는 프랑스 파리에서 테러를 자행한 IS를 응징하기 위해 대규모의 사이버 공격을 할 예정이라고 밝혔다.
+## <어나니머스:ORG>는 <프랑스:LOC> <파리:LOC>에서 테러를 자행한 <IS:ORG>를 응징하기 위해 대규모의 사이버 공격을 할 예정이라고 밝혔다.
+어나니머스	어나니머스	NNP	B-ORG
+는	는	JX	O
+_	_	_	O
+프랑스	프랑스	NNP	B-LOC
+_	_	_	O
+파리	파리	NNP	B-LOC
+에서	에서	JKB	O
+_	_	_	O
+테러	테러	NNG	O
+를	를	JKO	O
+_	_	_	O
+자행한	자행하+ㄴ	VV+ETM	O
+_	_	_	O
+IS	IS	SL	B-ORG
+를	를	JKO	O
+_	_	_	O
+응징하	응징하	VV	O
+기	기	ETN	O
+_	_	_	O
+위해	위하+여	VV+EC	O
+_	_	_	O
+대규모	대규모	NNG	O
+의	의	JKG	O
+_	_	_	O
+사이버	사이버	NNG	O
+_	_	_	O
+공격	공격	NNG	O
+을	을	JKO	O
+_	_	_	O
+할	하+ㄹ	VV+ETM	O
+_	_	_	O
+예정	예정	NNG	O
+이	이	VCP	O
+라고	라고	EC	O
+_	_	_	O
+밝	밝히	VV	O
+혔	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 어나니머스는 “프랑스 국민은 강하다”면서 “전세계 어나니머스 회원들이 IS에 대대적인 공격을 조만간 실시할 것”이라고 말했다.
+## <어나니머스:ORG>는 “<프랑스:LOC> 국민은 강하다”면서 “전세계 <어나니머스:ORG> 회원들이 <IS:ORG>에 대대적인 공격을 조만간 실시할 것”이라고 말했다.
+어나니머스	어나니머스	NNP	B-ORG
+는	는	JX	O
+_	_	_	O
+“	“	SS	O
+프랑스	프랑스	NNP	B-LOC
+_	_	_	O
+국민	국민	NNG	O
+은	은	JX	O
+_	_	_	O
+강하	강하	VA	O
+다	다	EF	O
+”	”	SS	O
+면서	면서	EC	O
+_	_	_	O
+“	“	SS	O
+전	전	MM	O
+세계	세계	NNG	O
+_	_	_	O
+어나니머스	어나니머스	NNP	B-ORG
+_	_	_	O
+회원	회원	NNG	O
+들	들	XSN	O
+이	이	JKS	O
+_	_	_	O
+IS	IS	SL	B-ORG
+에	에	JKB	O
+_	_	_	O
+대대적	대대적	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+공격	공격	NNG	O
+을	을	JKO	O
+_	_	_	O
+조만간	조만간	MAG	O
+_	_	_	O
+실시할	실시하+ㄹ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+”	”	SS	O
+이라고	이라고	JKQ	O
+_	_	_	O
+말	말하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 이어 어나니머스는 “IS의 본거지를 찾아내 더 이상의 테러를 하지 못하도록 막겠다”고 덧붙였다.
+## 이어 <어나니머스:ORG>는 “<IS:ORG>의 본거지를 찾아내 더 이상의 테러를 하지 못하도록 막겠다”고 덧붙였다.
+이어	이어	MAG	O
+_	_	_	O
+어나니머스	어나니머스	NNP	B-ORG
+는	는	JX	O
+_	_	_	O
+“	“	SS	O
+IS	IS	SL	B-ORG
+의	의	JKG	O
+_	_	_	O
+본거지	본거지	NNG	O
+를	를	JKO	O
+_	_	_	O
+찾아내	찾아내+어	VV+EC	O
+_	_	_	O
+더	더	MAG	O
+_	_	_	O
+이상	이상	NNG	O
+의	의	JKG	O
+_	_	_	O
+테러	테러	NNG	O
+를	를	JKO	O
+_	_	_	O
+하	하	VV	O
+지	지	EC	O
+_	_	_	O
+못하	못하	VX	O
+도록	도록	EC	O
+_	_	_	O
+막	막	VV	O
+겠	겠	EP	O
+다	다	EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+덧붙	덧붙이	VV	O
+였	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 앞서 프랑스에선 13일 밤과 14일 새벽 파리 6곳에서 잇달아 IS의 동시다발 총기·폭탄 테러가 발생했다.
+## 앞서 <프랑스:LOC>에선 <13일:DAT> 밤과 <14일:DAT> 새벽 <파리:LOC> <6곳:NOH>에서 잇달아 <IS:ORG>의 동시다발 총기·폭탄 테러가 발생했다.
+앞서	앞서+어	VV+EC	O
+_	_	_	O
+프랑스	프랑스	NNP	B-LOC
+에선	에서+ㄴ	JKB+JX	O
+_	_	_	O
+13	13	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+밤	밤	NNG	O
+과	과	JC	O
+_	_	_	O
+14	14	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+새벽	새벽	NNG	O
+_	_	_	O
+파리	파리	NNP	B-LOC
+_	_	_	O
+6	6	SN	B-NOH
+곳	곳	NNG	I-NOH
+에서	에서	JKB	O
+_	_	_	O
+잇달	잇달	VV	O
+아	아	EC	O
+_	_	_	O
+IS	IS	SL	B-ORG
+의	의	JKG	O
+_	_	_	O
+동시	동시	NNG	O
+다발	다발	NNG	O
+_	_	_	O
+총기	총기	NNG	O
+·	·	SP	O
+폭탄	폭탄	NNG	O
+_	_	_	O
+테러	테러	NNG	O
+가	가	JKS	O
+_	_	_	O
+발생	발생하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 그동안 공개되지 않았던 도쿄전력 내부 자료가 재판 과정에서 증거로 제출될 것으로 보인다.
+## 그동안 공개되지 않았던 <도쿄전력:ORG> 내부 자료가 재판 과정에서 증거로 제출될 것으로 보인다.
+그동안	그동안	NNG	O
+_	_	_	O
+공개되	공개되	VV	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+았	았	EP	O
+던	던	ETM	O
+_	_	_	O
+도쿄	도쿄	NNP	B-ORG
+전력	전력	NNG	I-ORG
+_	_	_	O
+내부	내부	NNG	O
+_	_	_	O
+자료	자료	NNG	O
+가	가	JKS	O
+_	_	_	O
+재판	재판	NNG	O
+_	_	_	O
+과정	과정	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+증거	증거	NNG	O
+로	로	JKB	O
+_	_	_	O
+제출될	제출되+ㄹ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+보인다	보이+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 12
+## 그러나 전기차의 경우 이미 2009년 ‘2020년까지 100만 대 목표’를 설정했지만 현재까지 불과 6000대가 보급됐을 뿐이다.
+## 그러나 전기차의 경우 이미 <2009년:DAT> ‘<2020년:DAT>까지 <100만 대:NOH> 목표’를 설정했지만 현재까지 불과 <6000대:NOH>가 보급됐을 뿐이다.
+그러나	그러나	MAJ	O
+_	_	_	O
+전기	전기	NNG	O
+차	차	NNG	O
+의	의	JKG	O
+_	_	_	O
+경우	경우	NNG	O
+_	_	_	O
+이미	이미	MAG	O
+_	_	_	O
+2009	2009	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+‘	‘	SS	O
+2020	2020	SN	B-DAT
+년	년	NNB	I-DAT
+까지	까지	JX	O
+_	_	_	O
+100	100	SN	B-NOH
+만	만	NR	I-NOH
+_	_	_	I-NOH
+대	대	NNG	I-NOH
+_	_	_	O
+목표	목표	NNG	O
+’	’	SS	O
+를	를	JKO	O
+_	_	_	O
+설정	설정하	VV	O
+했	였	EP	O
+지만	지만	EC	O
+_	_	_	O
+현재	현재	NNG	O
+까지	까지	JX	O
+_	_	_	O
+불과	불과	MAG	O
+_	_	_	O
+6000	6000	SN	B-NOH
+대	대	NNB	I-NOH
+가	가	JKS	O
+_	_	_	O
+보급	보급되	VV	O
+됐	었	EP	O
+을	을	ETM	O
+_	_	_	O
+뿐	뿐	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## 극에서 이종석은 올림픽 사격 권총 금메달리스트면서 JM글로벌 공동대표 겸 방송국 ‘채널 W’의 오너로 활약하는, 인기 웹툰 〈W〉의 주인공 강철로 등장한다.
+## 극에서 <이종석:PER>은 올림픽 사격 권총 금메달리스트면서 <JM글로벌:ORG> 공동대표 겸 방송국 ‘<채널 W:ORG>’의 오너로 활약하는, 인기 웹툰 〈<W:ORG>〉의 주인공 <강철:PER>로 등장한다.
+극	극	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+이종석	이종석	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+올림픽	올림픽	NNG	O
+_	_	_	O
+사격	사격	NNG	O
+_	_	_	O
+권총	권총	NNG	O
+_	_	_	O
+금메달리스트	금메달리스트+이	NNG+VCP	O
+면서	면서	EC	O
+_	_	_	O
+JM	JM	SL	B-ORG
+글로벌	글로벌	NNG	I-ORG
+_	_	_	O
+공동	공동	NNG	O
+대표	대표	NNG	O
+_	_	_	O
+겸	겸	NNB	O
+_	_	_	O
+방송	방송	NNG	O
+국	국	XSN	O
+_	_	_	O
+‘	‘	SS	O
+채널	채널	NNG	B-ORG
+_	_	_	I-ORG
+W	W	SL	I-ORG
+’	’	SS	O
+의	의	JKG	O
+_	_	_	O
+오너	오너	NNG	O
+로	로	JKB	O
+_	_	_	O
+활약하	활약하	VV	O
+는	는	ETM	O
+,	,	SP	O
+_	_	_	O
+인기	인기	NNG	O
+_	_	_	O
+웹	웹	NNG	O
+툰	툰	NNP	O
+_	_	_	O
+〈	〈	SS	O
+W	W	SL	B-ORG
+〉	〉	SS	O
+의	의	JKG	O
+_	_	_	O
+주인공	주인공	NNG	O
+_	_	_	O
+강철	강철	NNG	B-PER
+로	로	JKB	O
+_	_	_	O
+등장한다	등장하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 14
+## 작년 10월 증시에 상장한 한국가스공사도 상장에 맞춰 내부적으로 스톡옵션 도입을 검토했다.
+## 작년 <10월:DAT> 증시에 상장한 <한국가스공사:ORG>도 상장에 맞춰 내부적으로 스톡옵션 도입을 검토했다.
+작년	작년	NNG	O
+_	_	_	O
+10	10	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+증시	증시	NNG	O
+에	에	JKB	O
+_	_	_	O
+상장한	상장하+ㄴ	VV+ETM	O
+_	_	_	O
+한국	한국	NNP	B-ORG
+가스	가스	NNG	I-ORG
+공사	공사	NNG	I-ORG
+도	도	JX	O
+_	_	_	O
+상장	상장	NNG	O
+에	에	JKB	O
+_	_	_	O
+맞춰	맞추+어	VV+EC	O
+_	_	_	O
+내부적	내부적	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+스톡	스톡	NNG	O
+옵션	옵션	NNG	O
+_	_	_	O
+도입	도입	NNG	O
+을	을	JKO	O
+_	_	_	O
+검토	검토하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 15
+## 1백∼2백장쯤 되는 것 같았다.
+## <1백:NOH>∼<2백장:NOH>쯤 되는 것 같았다.
+1	1	SN	B-NOH
+백	백	NR	I-NOH
+∼	∼	SO	O
+2	2	SN	B-NOH
+백	백	NR	I-NOH
+장	장	NNB	I-NOH
+쯤	쯤	XSN	O
+_	_	_	O
+되	되	VV	O
+는	는	ETM	O
+_	_	_	O
+것	것	NNB	O
+_	_	_	O
+같	같	VA	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+

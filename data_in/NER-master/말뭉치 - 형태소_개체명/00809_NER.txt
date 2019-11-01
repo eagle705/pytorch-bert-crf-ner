@@ -1,0 +1,562 @@
+## 1
+## 새누리당 현역 여성 의원으로서 최다 기록이다.
+## <새누리당:ORG> 현역 여성 의원으로서 최다 기록이다.
+새누리당	새누리당	NNP	B-ORG
+_	_	_	O
+현역	현역	NNG	O
+_	_	_	O
+여성	여성	NNG	O
+_	_	_	O
+의원	의원	NNG	O
+으로서	으로서	JKB	O
+_	_	_	O
+최다	최다	NNG	O
+_	_	_	O
+기록	기록	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 식량원조 접근했지만…시진핑·이수용 만남은 20분뿐
+## 식량원조 접근했지만…<시진핑:PER>·<이수용:PER> 만남은 <20분:DUR>뿐
+식량	식량	NNG	O
+원조	원조	NNG	O
+_	_	_	O
+접근	접근하	VV	O
+했	였	EP	O
+지만	지만	EC	O
+…	…	SE	O
+시진핑	시진핑	NNP	B-PER
+·	·	SP	O
+이수용	이수용	NNP	B-PER
+_	_	_	O
+만남	만남	NNG	O
+은	은	JX	O
+_	_	_	O
+20	20	SN	B-DUR
+분	분	NNB	I-DUR
+뿐	뿐	NNB	O
+
+## 3
+## 오늘 홍대 한복판에 세월호가 있었다.
+## 오늘 <홍대:LOC> 한복판에 <세월호:POH>가 있었다.
+오늘	오늘	NNG	O
+_	_	_	O
+홍대	홍대	NNP	B-LOC
+_	_	_	O
+한복판	한복판	NNG	O
+에	에	JKB	O
+_	_	_	O
+세월호	세월호	NNP	B-POH
+가	가	JKS	O
+_	_	_	O
+있	있	VA	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 치사율이 40%에 이르지만 감염 정도는 상대적으로 낮아 중동 이외의 지역 환자는 전체의 2.5%뿐이다.
+## 치사율이 <40%:PNT>에 이르지만 감염 정도는 상대적으로 낮아 <중동:LOC> 이외의 지역 환자는 전체의 <2.5%:PNT>뿐이다.
+치사율	치사율	NNG	O
+이	이	JKS	O
+_	_	_	O
+40	40	SN	B-PNT
+%	%	SW	I-PNT
+에	에	JKB	O
+_	_	_	O
+이르	이르	VV	O
+지만	지만	EC	O
+_	_	_	O
+감염	감염	NNG	O
+_	_	_	O
+정도	정도	NNG	O
+는	는	JX	O
+_	_	_	O
+상대적	상대적	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+낮	낮	VA	O
+아	아	EC	O
+_	_	_	O
+중동	중동	NNP	B-LOC
+_	_	_	O
+이외	이외	NNG	O
+의	의	JKG	O
+_	_	_	O
+지역	지역	NNG	O
+_	_	_	O
+환자	환자	NNG	O
+는	는	JX	O
+_	_	_	O
+전체	전체	NNG	O
+의	의	JKG	O
+_	_	_	O
+2.5	2.5	SN	B-PNT
+%	%	SW	I-PNT
+뿐	뿐	NNB	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 지난 8월 성남GC의 조망권을 확보한 ‘위례 지웰 푸르지오 오피스텔’은 평균 13.8대 1로 청약을 마감했다.
+## 지난 <8월:DAT> <성남GC:LOC>의 조망권을 확보한 ‘<위례 지웰 푸르지오 오피스텔:POH>’은 평균 <13.8대 1:NOH>로 청약을 마감했다.
+지난	지나+ㄴ	VV+ETM	O
+_	_	_	O
+8	8	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+성남	성남	NNP	B-LOC
+GC	GC	SL	I-LOC
+의	의	JKG	O
+_	_	_	O
+조망권	조망권	NNG	O
+을	을	JKO	O
+_	_	_	O
+확보한	확보하+ㄴ	VV+ETM	O
+_	_	_	O
+‘	‘	SS	O
+위례	위례	NNP	B-POH
+_	_	_	I-POH
+지	지	NNB	I-POH
+웰	웰	NNG	I-POH
+_	_	_	I-POH
+푸르지오	푸르지오	NNP	I-POH
+_	_	_	I-POH
+오피스텔	오피스텔	NNG	I-POH
+’	’	SS	O
+은	은	JX	O
+_	_	_	O
+평균	평균	NNG	O
+_	_	_	O
+13.8	13.8	SN	B-NOH
+대	대	NNB	I-NOH
+_	_	_	I-NOH
+1	1	SN	I-NOH
+로	로	JKB	O
+_	_	_	O
+청약	청약	NNG	O
+을	을	JKO	O
+_	_	_	O
+마감	마감하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 이에 누스타가 수집한 새로운 X선 데이터를 허블 망원경의 가시광선 영역의 데이터와 합성함으로써 오른쪽 은하의 블랙홀이 가스를 게걸스럽게 집어삼키는 ‘괴물’임이 명확히 드러났다.
+## 이에 <누스타:POH>가 수집한 새로운 X선 데이터를 <허블 망원경:POH>의 가시광선 영역의 데이터와 합성함으로써 오른쪽 은하의 블랙홀이 가스를 게걸스럽게 집어삼키는 ‘괴물’임이 명확히 드러났다.
+이	이	NP	O
+에	에	JKB	O
+_	_	_	O
+누스타	누스타	NNP	B-POH
+가	가	JKS	O
+_	_	_	O
+수집한	수집하+ㄴ	VV+ETM	O
+_	_	_	O
+새로	새롭	VA	O
+운	ㄴ	ETM	O
+_	_	_	O
+X	X	SL	O
+선	선	NNG	O
+_	_	_	O
+데이터	데이터	NNG	O
+를	를	JKO	O
+_	_	_	O
+허블	허블	NNP	B-POH
+_	_	_	I-POH
+망원경	망원경	NNG	I-POH
+의	의	JKG	O
+_	_	_	O
+가시광선	가시광선	NNG	O
+_	_	_	O
+영역	영역	NNG	O
+의	의	JKG	O
+_	_	_	O
+데이터	데이터	NNG	O
+와	와	JC	O
+_	_	_	O
+합성함	합성하+ㅁ	VV+ETN	O
+으로써	으로써	JKB	O
+_	_	_	O
+오른쪽	오른쪽	NNG	O
+_	_	_	O
+은하	은하	NNG	O
+의	의	JKG	O
+_	_	_	O
+블랙홀	블랙홀	NNG	O
+이	이	JKS	O
+_	_	_	O
+가스	가스	NNG	O
+를	를	JKO	O
+_	_	_	O
+게걸스럽	게걸스럽	VA	O
+게	게	EC	O
+_	_	_	O
+집어삼키	집어삼키	VV	O
+는	는	ETM	O
+_	_	_	O
+‘	‘	SS	O
+괴물	괴물	NNG	O
+’	’	SS	O
+임	이+ㅁ	VCP+ETN	O
+이	이	JKS	O
+_	_	_	O
+명확히	명확히	MAG	O
+_	_	_	O
+드러났	드러나+았	VV+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 메르세데스-벤츠의 공임은 6만원에서 최고 7만6000원에 달한다.
+## <메르세데스-벤츠:ORG>의 공임은 <6만원:MNY>에서 최고 <7만6000원:MNY>에 달한다.
+메르세데스	메르세데스	NNP	B-ORG
+-	-	SO	I-ORG
+벤츠	벤츠	NNP	I-ORG
+의	의	JKG	O
+_	_	_	O
+공임	공임	NNG	O
+은	은	JX	O
+_	_	_	O
+6	6	SN	B-MNY
+만	만	NR	I-MNY
+원	원	NNB	I-MNY
+에서	에서	JKB	O
+_	_	_	O
+최고	최고	NNG	O
+_	_	_	O
+7	7	SN	B-MNY
+만	만	NR	I-MNY
+6000	6000	SN	I-MNY
+원	원	NNB	I-MNY
+에	에	JKB	O
+_	_	_	O
+달한다	달하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 8
+## 상위 20개 CVC 중에 12곳이 미국 기업의 CVC였고 기술·헬스케어 산업에 주로 투자하는 곳이 많았습니다.
+## 상위 <20개:NOH> CVC 중에 <12곳:NOH>이 <미국:ORG> 기업의 CVC였고 기술·헬스케어 산업에 주로 투자하는 곳이 많았습니다.
+상위	상위	NNG	O
+_	_	_	O
+20	20	SN	B-NOH
+개	개	NNB	I-NOH
+_	_	_	O
+CVC	CVC	SL	O
+_	_	_	O
+중	중	NNB	O
+에	에	JKB	O
+_	_	_	O
+12	12	SN	B-NOH
+곳	곳	NNG	I-NOH
+이	이	JKS	O
+_	_	_	O
+미국	미국	NNP	B-ORG
+_	_	_	O
+기업	기업	NNG	O
+의	의	JKG	O
+_	_	_	O
+CVC	CVC+이	SL+VCP	O
+였	었	EP	O
+고	고	EC	O
+_	_	_	O
+기술	기술	NNG	O
+·	·	SP	O
+헬스	헬스	NNG	O
+케어	케어	NNG	O
+_	_	_	O
+산업	산업	NNG	O
+에	에	JKB	O
+_	_	_	O
+주로	주로	MAG	O
+_	_	_	O
+투자하	투자하	VV	O
+는	는	ETM	O
+_	_	_	O
+곳	곳	NNG	O
+이	이	JKS	O
+_	_	_	O
+많	많	VA	O
+았	았	EP	O
+습니다	습니다	EF	O
+.	.	SF	O
+
+## 9
+## 그런데 최근 5년 사이 CVC가 급증하고 있다고 합니다.
+## 그런데 최근 <5년:DUR> 사이 CVC가 급증하고 있다고 합니다.
+그런데	그런데	MAJ	O
+_	_	_	O
+최근	최근	NNG	O
+_	_	_	O
+5	5	SN	B-DUR
+년	년	NNB	I-DUR
+_	_	_	O
+사이	사이	NNG	O
+_	_	_	O
+CVC	CVC	SL	O
+가	가	JKS	O
+_	_	_	O
+급증하	급증하	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다고	다고	EC	O
+_	_	_	O
+합니다	하+ㅂ니다	VV+EF	O
+.	.	SF	O
+
+## 10
+## 강 재판관은 지난 10일에도 귀국하자마자 곧바로 헌재로 출근해 관련 기록을 검토했다.
+## <강:PER> 재판관은 지난 <10일:DAT>에도 귀국하자마자 곧바로 <헌재:ORG>로 출근해 관련 기록을 검토했다.
+강	강	NNP	B-PER
+_	_	_	O
+재판관	재판관	NNG	O
+은	은	JX	O
+_	_	_	O
+지난	지나+ㄴ	VV+ETM	O
+_	_	_	O
+10	10	SN	B-DAT
+일	일	NNB	I-DAT
+에	에	JKB	O
+도	도	JX	O
+_	_	_	O
+귀국하	귀국하	VV	O
+자마자	자마자	EC	O
+_	_	_	O
+곧바로	곧바로	MAG	O
+_	_	_	O
+헌재	헌재	NNG	B-ORG
+로	로	JKB	O
+_	_	_	O
+출근해	출근하+여	VV+EC	O
+_	_	_	O
+관련	관련	NNG	O
+_	_	_	O
+기록	기록	NNG	O
+을	을	JKO	O
+_	_	_	O
+검토	검토하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 강 재판관은 이날 출근길에 기자들과 만나 “아직 기록을 제대로 보지 못해 기록도 마저 검토하고 자료도 정리할 계획”이라고 밝혔다.
+## <강:PER> 재판관은 이날 출근길에 기자들과 만나 “아직 기록을 제대로 보지 못해 기록도 마저 검토하고 자료도 정리할 계획”이라고 밝혔다.
+강	강	NNP	B-PER
+_	_	_	O
+재판관	재판관	NNG	O
+은	은	JX	O
+_	_	_	O
+이날	이날	NNG	O
+_	_	_	O
+출근길	출근길	NNG	O
+에	에	JKB	O
+_	_	_	O
+기자	기자	NNG	O
+들	들	XSN	O
+과	과	JKB	O
+_	_	_	O
+만나	만나+아	VV+EC	O
+_	_	_	O
+“	“	SS	O
+아직	아직	MAG	O
+_	_	_	O
+기록	기록	NNG	O
+을	을	JKO	O
+_	_	_	O
+제대로	제대로	MAG	O
+_	_	_	O
+보	보	VV	O
+지	지	EC	O
+_	_	_	O
+못해	못하+여	VX+EC	O
+_	_	_	O
+기록	기록	NNG	O
+도	도	JX	O
+_	_	_	O
+마저	마저	MAG	O
+_	_	_	O
+검토하	검토하	VV	O
+고	고	EC	O
+_	_	_	O
+자료	자료	NNG	O
+도	도	JX	O
+_	_	_	O
+정리할	정리하+ㄹ	VV+ETM	O
+_	_	_	O
+계획	계획	NNG	O
+”	”	SS	O
+이라고	이라고	JKQ	O
+_	_	_	O
+밝	밝히	VV	O
+혔	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 강 재판관은 이어 “기자들도 궁금해하는 사안들이 많을 텐데 저 또한 궁금한 점이 많다”며 “가능하면 오늘 최대한 자료를 들여다볼 계획”이라고 말했다.
+## <강:PER> 재판관은 이어 “기자들도 궁금해하는 사안들이 많을 텐데 저 또한 궁금한 점이 많다”며 “가능하면 오늘 최대한 자료를 들여다볼 계획”이라고 말했다.
+강	강	NNP	B-PER
+_	_	_	O
+재판관	재판관	NNG	O
+은	은	JX	O
+_	_	_	O
+이어	이어	MAG	O
+_	_	_	O
+“	“	SS	O
+기자	기자	NNG	O
+들	들	XSN	O
+도	도	JX	O
+_	_	_	O
+궁금해	궁금하+여	VA+EC	O
+하	하	VV	O
+는	는	ETM	O
+_	_	_	O
+사안	사안	NNG	O
+들	들	XSN	O
+이	이	JKS	O
+_	_	_	O
+많	많	VA	O
+을	을	ETM	O
+_	_	_	O
+텐데	터+이+ㄴ데	NNB+VCP+EC	O
+_	_	_	O
+저	저	NP	O
+_	_	_	O
+또한	또한	MAG	O
+_	_	_	O
+궁금한	궁금하+ㄴ	VA+ETM	O
+_	_	_	O
+점	점	NNG	O
+이	이	JKS	O
+_	_	_	O
+많	많	VA	O
+다	다	EF	O
+”	”	SS	O
+며	며	EC	O
+_	_	_	O
+“	“	SS	O
+가능하	가능하	VA	O
+면	면	EC	O
+_	_	_	O
+오늘	오늘	NNG	O
+_	_	_	O
+최대한	최대한	NNG	O
+_	_	_	O
+자료	자료	NNG	O
+를	를	JKO	O
+_	_	_	O
+들여다볼	들여다보+ㄹ	VV+ETM	O
+_	_	_	O
+계획	계획	NNG	O
+”	”	SS	O
+이라고	이라고	JKQ	O
+_	_	_	O
+말	말하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## 앞서 이날 오전 10시45분쯤에는 박한철 헌재소장도 헌재로 출근했다.
+## 앞서 이날 <오전 10시45분:TIM>쯤에는 <박한철:PER> 헌재소장도 <헌재:ORG>로 출근했다.
+앞서	앞서+어	VV+EC	O
+_	_	_	O
+이날	이날	NNG	O
+_	_	_	O
+오전	오전	NNG	B-TIM
+_	_	_	I-TIM
+10	10	SN	I-TIM
+시	시	NNB	I-TIM
+45	45	SN	I-TIM
+분	분	NNB	I-TIM
+쯤	쯤	XSN	O
+에	에	JKB	O
+는	는	JX	O
+_	_	_	O
+박한철	박한철	NNP	B-PER
+_	_	_	O
+헌재	헌재	NNG	O
+소장	소장	NNG	O
+도	도	JX	O
+_	_	_	O
+헌재	헌재	NNG	B-ORG
+로	로	JKB	O
+_	_	_	O
+출근	출근하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 14
+## 폴란드의 EU대표 대변인인 아르투어 하반트도 “이는 미래의 지렛대를 찾기 위한 길”이라고 봤다.
+## <폴란드:ORG>의 EU대표 대변인인 <아르투어 하반트:PER>도 “이는 미래의 지렛대를 찾기 위한 길”이라고 봤다.
+폴란드	폴란드	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+EU	EU	SL	O
+대표	대표	NNG	O
+_	_	_	O
+대변인	대변인	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+아르투어	아르투어	NNP	B-PER
+_	_	_	I-PER
+하	하	XSN	I-PER
+반트	반트	NNG	I-PER
+도	도	JX	O
+_	_	_	O
+“	“	SS	O
+이	이	NP	O
+는	는	JX	O
+_	_	_	O
+미래	미래	NNG	O
+의	의	JKG	O
+_	_	_	O
+지렛대	지렛대	NNG	O
+를	를	JKO	O
+_	_	_	O
+찾	찾	VV	O
+기	기	ETN	O
+_	_	_	O
+위한	위하+ㄴ	VV+ETM	O
+_	_	_	O
+길	길	NNG	O
+”	”	SS	O
+이라고	이라고	JKQ	O
+_	_	_	O
+봤	+았	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 15
+## 학생들은 주 5일, 하루 8시간씩 영어 수업에 참가한다.
+## 학생들은 주 <5일:DAT>, 하루 <8시간:NOH>씩 영어 수업에 참가한다.
+학생	학생	NNG	O
+들	들	XSN	O
+은	은	JX	O
+_	_	_	O
+주	주	NNP	O
+_	_	_	O
+5	5	SN	B-DAT
+일	일	NNB	I-DAT
+,	,	SP	O
+_	_	_	O
+하루	하루	NNG	O
+_	_	_	O
+8	8	SN	B-NOH
+시간	시간	NNB	I-NOH
+씩	씩	XSN	O
+_	_	_	O
+영어	영어	NNP	O
+_	_	_	O
+수업	수업	NNG	O
+에	에	JKB	O
+_	_	_	O
+참가한다	참가하+ㄴ다	VV+EF	O
+.	.	SF	O
+

@@ -1,0 +1,471 @@
+## 1
+## 렉서스 브랜드 출범 초기인 2002년부터 실시된 ‘고객 서비스 기술 경진대회’는 렉서스 서비스 경쟁력의 근간이 되고있다.
+## <렉서스:ORG> 브랜드 출범 초기인 <2002년:DAT>부터 실시된 ‘고객 서비스 기술 경진대회’는 <렉서스:ORG> 서비스 경쟁력의 근간이 되고있다.
+렉서스	렉서스	NNP	B-ORG
+_	_	_	O
+브랜드	브랜드	NNG	O
+_	_	_	O
+출범	출범	NNG	O
+_	_	_	O
+초기	초기	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+2002	2002	SN	B-DAT
+년	년	NNB	I-DAT
+부터	부터	JX	O
+_	_	_	O
+실시된	실시되+ㄴ	VV+ETM	O
+_	_	_	O
+‘	‘	SS	O
+고객	고객	NNG	O
+_	_	_	O
+서비스	서비스	NNG	O
+_	_	_	O
+기술	기술	NNG	O
+_	_	_	O
+경진	경진	NNG	O
+대회	대회	NNG	O
+’	’	SS	O
+는	는	JX	O
+_	_	_	O
+렉서스	렉서스	NNP	B-ORG
+_	_	_	O
+서비스	서비스	NNG	O
+_	_	_	O
+경쟁력	경쟁력	NNG	O
+의	의	JKG	O
+_	_	_	O
+근간	근간	NNG	O
+이	이	JKC	O
+_	_	_	O
+되	되	VV	O
+고	고	EC	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## ‘박서준 백진희’배우 박서준과 백진희의 열애설이 또다시 불거져 누리꾼들 이목을 집중시키고 있다.
+## ‘<박서준:PER> <백진희:PER>’배우 <박서준:PER>과 <백진희:PER>의 열애설이 또다시 불거져 누리꾼들 이목을 집중시키고 있다.
+‘	‘	SS	O
+박서준	박서준	NNP	B-PER
+_	_	_	O
+백진희	백진희	NNP	B-PER
+’	’	SS	O
+배우	배우	NNG	O
+_	_	_	O
+박서준	박서준	NNP	B-PER
+과	과	JC	O
+_	_	_	O
+백진희	백진희	NNP	B-PER
+의	의	JKG	O
+_	_	_	O
+열애	열애	NNG	O
+설	설	XSN	O
+이	이	JKS	O
+_	_	_	O
+또다시	또다시	MAG	O
+_	_	_	O
+불거져	불거지+어	VV+EC	O
+_	_	_	O
+누리	누리	NNG	O
+꾼	꾼	XSN	O
+들	들	XSN	O
+_	_	_	O
+이목	이목	NNG	O
+을	을	JKO	O
+_	_	_	O
+집중	집중	NNG	O
+시키	시키	XSV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## P씨는 작가의 풍부한 상상력에 감탄했다.
+## <P:PER>씨는 작가의 풍부한 상상력에 감탄했다.
+P	P	SL	B-PER
+씨	씨	NNB	O
+는	는	JX	O
+_	_	_	O
+작가	작가	NNG	O
+의	의	JKG	O
+_	_	_	O
+풍부한	풍부하+ㄴ	VA+ETM	O
+_	_	_	O
+상상력	상상력	NNG	O
+에	에	JKB	O
+_	_	_	O
+감탄	감탄하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 신혼부부나 다자녀가구의 경우 수도권 대출한도가 현재 1억2000만 원에서 1억4000만 원으로 올라간다.
+## 신혼부부나 다자녀가구의 경우 <수도권:LOC> 대출한도가 현재 <1억2000만 원:MNY>에서 <1억4000만 원:MNY>으로 올라간다.
+신혼부부	신혼부부	NNG	O
+나	나	JC	O
+_	_	_	O
+다자녀	다자녀	NNG	O
+가구	가구	NNG	O
+의	의	JKG	O
+_	_	_	O
+경우	경우	NNG	O
+_	_	_	O
+수도권	수도권	NNG	B-LOC
+_	_	_	O
+대출	대출	NNG	O
+한도	한도	NNG	O
+가	가	JKS	O
+_	_	_	O
+현재	현재	MAG	O
+_	_	_	O
+1	1	SN	B-MNY
+억	억	NR	I-MNY
+2000	2000	SN	I-MNY
+만	만	NR	I-MNY
+_	_	_	I-MNY
+원	원	NNB	I-MNY
+에서	에서	JKB	O
+_	_	_	O
+1	1	SN	B-MNY
+억	억	NR	I-MNY
+4000	4000	SN	I-MNY
+만	만	NR	I-MNY
+_	_	_	I-MNY
+원	원	NNB	I-MNY
+으로	으로	JKB	O
+_	_	_	O
+올라간다	올라가+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 5
+## 예를 들어 숫자 1을 가져왔다면, 규칙에 따라 1을 6의 왼쪽에 놓아야 한다.
+## 예를 들어 숫자 <1:NOH>을 가져왔다면, 규칙에 따라 <1:NOH>을 <6:NOH>의 왼쪽에 놓아야 한다.
+예	예	NNG	O
+를	를	JKO	O
+_	_	_	O
+들	들	VV	O
+어	어	EC	O
+_	_	_	O
+숫자	숫자	NNG	O
+_	_	_	O
+1	1	SN	B-NOH
+을	을	JKO	O
+_	_	_	O
+가져	가져오	VV	O
+왔	았	EP	O
+다면	다면	EC	O
+,	,	SP	O
+_	_	_	O
+규칙	규칙	NNG	O
+에	에	JKB	O
+_	_	_	O
+따	따르	VV	O
+라	아	EC	O
+_	_	_	O
+1	1	SN	B-NOH
+을	을	JKO	O
+_	_	_	O
+6	6	SN	B-NOH
+의	의	JKG	O
+_	_	_	O
+왼쪽	왼쪽	NNG	O
+에	에	JKB	O
+_	_	_	O
+놓	놓	VV	O
+아야	아야	EC	O
+_	_	_	O
+한다	하+ㄴ다	VX+EF	O
+.	.	SF	O
+
+## 6
+## 이제 상대방의 타일 1개의 숫자를 맞힌다.
+## 이제 상대방의 타일 <1개:NOH>의 숫자를 맞힌다.
+이제	이제	MAG	O
+_	_	_	O
+상대방	상대방	NNG	O
+의	의	JKG	O
+_	_	_	O
+타일	타일	NNG	O
+_	_	_	O
+1	1	SN	B-NOH
+개	개	NNB	I-NOH
+의	의	JKG	O
+_	_	_	O
+숫자	숫자	NNG	O
+를	를	JKO	O
+_	_	_	O
+맞힌다	맞히+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 7
+## 트레이너는 ‘식약청 허가가 난 게 아니니 먹지 말라’고 권유했다.
+## 트레이너는 ‘<식약청:ORG> 허가가 난 게 아니니 먹지 말라’고 권유했다.
+트레이너	트레이너	NNG	O
+는	는	JX	O
+_	_	_	O
+‘	‘	SS	O
+식약청	식약청	NNG	B-ORG
+_	_	_	O
+허가	허가	NNG	O
+가	가	JKS	O
+_	_	_	O
+난	나+ㄴ	VV+ETM	O
+_	_	_	O
+게	것+이	NNB+JKC	O
+_	_	_	O
+아니	아니	VCN	O
+니	니	EC	O
+_	_	_	O
+먹	먹	VV	O
+지	지	EC	O
+_	_	_	O
+말	말	VX	O
+라	라	EF	O
+’	’	SS	O
+고	고	JKQ	O
+_	_	_	O
+권유	권유하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## ‘아키에 스캔들’에…아베 총리 염원 헌법 개정 스케쥴도 ‘흔들’
+## ‘<아키에:PER> 스캔들’에…<아베:PER> 총리 염원 헌법 개정 스케쥴도 ‘흔들’
+‘	‘	SS	O
+아키에	아키에	NNP	B-PER
+_	_	_	O
+스캔들	스캔들	NNG	O
+’	’	SS	O
+에	에	JKB	O
+…	…	SE	O
+아베	아베	NNP	B-PER
+_	_	_	O
+총리	총리	NNG	O
+_	_	_	O
+염원	염원	NNG	O
+_	_	_	O
+헌법	헌법	NNG	O
+_	_	_	O
+개정	개정	NNG	O
+_	_	_	O
+스케쥴	스케쥴	NNG	O
+도	도	JX	O
+_	_	_	O
+‘	‘	SS	O
+흔들	흔들	MAG	O
+’	’	SS	O
+
+## 9
+## 감투상은 KIA 황대인(19)이 받았다.
+## 감투상은 <KIA:ORG> <황대인:PER>(<19:NOH>)이 받았다.
+감투	감투	NNG	O
+상	상	NNG	O
+은	은	JX	O
+_	_	_	O
+KIA	KIA	SL	B-ORG
+_	_	_	O
+황대인	황대인	NNP	B-PER
+(	(	SS	O
+19	19	SN	B-NOH
+)	)	SS	O
+이	이	JKS	O
+_	_	_	O
+받	받	VV	O
+았	았	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## 존 도이치 미국방 부장관은 이날 자메이카 킹스턴에서 열린 카리브공동체(카리콤) 각료회담에 참석, 『다국적군이 푸에르토리코의 루스벨트 로즈에 있는 미군기지에서 즉각 훈련을 시작할 것』이라고 말했다.
+## 존 도이치 미국방 부장관은 이날 자메이카 킹스턴에서 열린 카리브공동체(<카리콤:ORG>) 각료회담에 참석, 『다국적군이 푸에르토리코의 루스벨트 로즈에 있는 미군기지에서 즉각 훈련을 시작할 것』이라고 말했다.
+존	존	NNP	O
+_	_	_	O
+도이치	도이치	NNP	O
+_	_	_	O
+미	미	NNP	O
+국방	국방	NNG	O
+_	_	_	O
+부	부	NNG	O
+장관	장관	NNG	O
+은	은	JX	O
+_	_	_	O
+이날	이날	NNG	O
+_	_	_	O
+자메이카	자메이카	NNP	O
+_	_	_	O
+킹스턴	킹스턴	NNP	O
+에서	에서	JKB	O
+_	_	_	O
+열린	열리+ㄴ	VV+ETM	O
+_	_	_	O
+카리브	카리브	NNP	O
+공동체	공동체	NNG	O
+(	(	SS	O
+카리콤	카리콤	NNG	B-ORG
+)	)	SS	O
+_	_	_	O
+각료	각료	NNG	O
+회담	회담	NNG	O
+에	에	JKB	O
+_	_	_	O
+참석	참석	NNG	O
+,	,	SP	O
+_	_	_	O
+『	『	SS	O
+다국적군	다국적군	NNG	O
+이	이	JKS	O
+_	_	_	O
+푸에르토리코	푸에르토리코	NNP	O
+의	의	JKG	O
+_	_	_	O
+루스벨트	루스벨트	NNP	O
+_	_	_	O
+로즈	로즈	NNG	O
+에	에	JKB	O
+_	_	_	O
+있	있	VA	O
+는	는	ETM	O
+_	_	_	O
+미군	미군	NNG	O
+기지	기지	NNG	O
+에서	에서	JKB	O
+_	_	_	O
+즉각	즉각	MAG	O
+_	_	_	O
+훈련	훈련	NNG	O
+을	을	JKO	O
+_	_	_	O
+시작할	시작하+ㄹ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+』	』	SS	O
+이라고	이라고	JKQ	O
+_	_	_	O
+말	말하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 이번 특별회원권은 실버 66.40㎡, 골드 94.30㎡, 로얄 111.80㎡ 등 세 가지 타입으로 분양한다.
+## 이번 특별회원권은 실버 <66.40㎡:NOH>, 골드 <94.30㎡:NOH>, 로얄 <111.80㎡:NOH> 등 <세:NOH> 가지 타입으로 분양한다.
+이번	이번	NNG	O
+_	_	_	O
+특별	특별	NNG	O
+회원권	회원권	NNG	O
+은	은	JX	O
+_	_	_	O
+실버	실버	NNG	O
+_	_	_	O
+66.40	66.40	SN	B-NOH
+㎡	㎡	SW	I-NOH
+,	,	SP	O
+_	_	_	O
+골드	골드	NNG	O
+_	_	_	O
+94.30	94.30	SN	B-NOH
+㎡	㎡	SW	I-NOH
+,	,	SP	O
+_	_	_	O
+로얄	로얄	NNG	O
+_	_	_	O
+111.80	111.80	SN	B-NOH
+㎡	㎡	SW	I-NOH
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+세	세	MM	B-NOH
+_	_	_	O
+가지	가지	NNB	O
+_	_	_	O
+타입	타입	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+분양한다	분양하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 12
+## 반 총장은 "국가가 너무 분열돼 있다.
+## <반:PER> 총장은 "국가가 너무 분열돼 있다.
+반	반	NNG	B-PER
+_	_	_	O
+총장	총장	NNG	O
+은	은	JX	O
+_	_	_	O
+"	"	SS	O
+국가	국가	NNG	O
+가	가	JKS	O
+_	_	_	O
+너무	너무	MAG	O
+_	_	_	O
+분열돼	분열되+어	VV+EC	O
+_	_	_	O
+있	있	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## 김 교수가 “애덤 스미스가 펄쩍 뛸 일”이라고 거듭 말하는 이유다.
+## <김:PER> 교수가 “<애덤 스미스:PER>가 펄쩍 뛸 일”이라고 거듭 말하는 이유다.
+김	김	NNP	B-PER
+_	_	_	O
+교수	교수	NNG	O
+가	가	JKS	O
+_	_	_	O
+“	“	SS	O
+애덤	애덤	NNP	B-PER
+_	_	_	I-PER
+스미스	스미스	NNP	I-PER
+가	가	JKS	O
+_	_	_	O
+펄쩍	펄쩍	MAG	O
+_	_	_	O
+뛸	뛰+ㄹ	VV+ETM	O
+_	_	_	O
+일	일	NNG	O
+”	”	SS	O
+이라고	이라고	JKQ	O
+_	_	_	O
+거듭	거듭	MAG	O
+_	_	_	O
+말하	말하	VV	O
+는	는	ETM	O
+_	_	_	O
+이유	이유+이	NNG+VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 14
+## 우리은행의 장기인 존프레스 수비를 깨기가 쉽지 않아 보였다.
+## <우리은행:ORG>의 장기인 <존프레스:PER> 수비를 깨기가 쉽지 않아 보였다.
+우리은행	우리은행	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+장기인	장기인	NNP	O
+_	_	_	O
+존	존	NNG	B-PER
+프레스	프레스	NNG	I-PER
+_	_	_	O
+수비	수비	NNG	O
+를	를	JKO	O
+_	_	_	O
+깨기	깨기	NNG	O
+가	가	JKS	O
+_	_	_	O
+쉽	쉽	VA	O
+지	지	EC	O
+_	_	_	O
+않	않	VX	O
+아	아	EC	O
+_	_	_	O
+보	보이	VV	O
+였	었	EP	O
+다	다	EF	O
+.	.	SF	O
+

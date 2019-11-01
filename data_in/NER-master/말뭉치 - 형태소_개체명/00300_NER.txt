@@ -1,0 +1,523 @@
+## 1
+## 이어 "신혼여행은 늘 마음에 품고 있던 파리로 간다"며 "2세에 대해서라면 둘 이상을 낳고 싶다.
+## 이어 "신혼여행은 늘 마음에 품고 있던 <파리:LOC>로 간다"며 "<2세:NOH>에 대해서라면 둘 이상을 낳고 싶다.
+이어	이어	MAG	O
+_	_	_	O
+"	"	SS	O
+신혼여행	신혼여행	NNG	O
+은	은	JX	O
+_	_	_	O
+늘	늘	MAG	O
+_	_	_	O
+마음	마음	NNG	O
+에	에	JKB	O
+_	_	_	O
+품	품	VV	O
+고	고	EC	O
+_	_	_	O
+있	있	VX	O
+던	던	ETM	O
+_	_	_	O
+파리	파리	NNP	B-LOC
+로	로	JKB	O
+_	_	_	O
+간다	가+ㄴ다	VV+EF	O
+"	"	SS	O
+며	며	EC	O
+_	_	_	O
+"	"	SS	O
+2	2	SN	B-NOH
+세	세	NNB	I-NOH
+에	에	JKB	O
+_	_	_	O
+대해서	대하+여서+이	VV+EC+VCP	O
+라면	라면	EC	O
+_	_	_	O
+둘	둘	NR	O
+_	_	_	O
+이상	이상	NNG	O
+을	을	JKO	O
+_	_	_	O
+낳	낳	VV	O
+고	고	EC	O
+_	_	_	O
+싶	싶	VX	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 유닉스에서 파일갈무리
+## <유닉스:ORG>에서 파일갈무리
+유닉스	유닉스	NNG	B-ORG
+에서	에서	JKB	O
+_	_	_	O
+파일	파일	NNG	O
+갈무리	갈무리	NNG	O
+
+## 3
+## ”6일 금융감독원이 자살보험금(재해사망보험금) 관련 제재 수위를 오는 16일 제재심의위원회에서 재심의한 후 결정하겠다고 밝히면서 든 사유다.
+## ”<6일:DAT> <금융감독원:ORG>이 자살보험금(재해사망보험금) 관련 제재 수위를 오는 <16일:DAT> <제재심의위원회:ORG>에서 재심의한 후 결정하겠다고 밝히면서 든 사유다.
+”	”	SS	O
+6	6	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+금융감독원	금융감독원	NNG	B-ORG
+이	이	JKS	O
+_	_	_	O
+자살	자살	NNG	O
+보험금	보험금	NNG	O
+(	(	SS	O
+재해	재해	NNG	O
+사망	사망	NNG	O
+보험금	보험금	NNG	O
+)	)	SS	O
+_	_	_	O
+관련	관련	NNG	O
+_	_	_	O
+제재	제재	NNG	O
+_	_	_	O
+수위	수위	NNG	O
+를	를	JKO	O
+_	_	_	O
+오	오	VV	O
+는	는	ETM	O
+_	_	_	O
+16	16	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+제재	제재	NNG	B-ORG
+심의	심의	NNG	I-ORG
+위원회	위원회	NNG	I-ORG
+에서	에서	JKB	O
+_	_	_	O
+재	재	XPN	O
+심의한	심의하+ㄴ	VV+ETM	O
+_	_	_	O
+후	후	NNG	O
+_	_	_	O
+결정하	결정하	VV	O
+겠	겠	EP	O
+다고	다고	EC	O
+_	_	_	O
+밝히	밝히	VV	O
+면서	면서	EC	O
+_	_	_	O
+든	들+ㄴ	VV+ETM	O
+_	_	_	O
+사유	사유+이	NNG+VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 지연이 결별했다.
+## <지연:PER>이 결별했다.
+지연	지연	NNG	B-PER
+이	이	JKS	O
+_	_	_	O
+결별	결별하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## FNC 측 관계자는 2일 뉴스1스타에 "이동건과 지연이 지난해 결별해 선후배로 돌아갔다"고 밝혔다.
+## <FNC:ORG> 측 관계자는 <2일:DAT> <뉴스1스타:POH>에 "<이동건:PER>과 <지연:PER>이 지난해 결별해 선후배로 돌아갔다"고 밝혔다.
+FNC	FNC	SL	B-ORG
+_	_	_	O
+측	측	NNB	O
+_	_	_	O
+관계자	관계자	NNG	O
+는	는	JX	O
+_	_	_	O
+2	2	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+뉴스	뉴스	NNG	B-POH
+1	1	SN	I-POH
+스타	스타	NNG	I-POH
+에	에	JKB	O
+_	_	_	O
+"	"	SS	O
+이동건	이동건	NNP	B-PER
+과	과	JC	O
+_	_	_	O
+지연	지연	NNG	B-PER
+이	이	JKS	O
+_	_	_	O
+지난해	지난해	NNG	O
+_	_	_	O
+결별해	결별하+여	VV+EC	O
+_	_	_	O
+선후배	선후배	NNG	O
+로	로	JKB	O
+_	_	_	O
+돌아갔	돌아가+았	VV+EP	O
+다	다	EF	O
+"	"	SS	O
+고	고	JKQ	O
+_	_	_	O
+밝	밝히	VV	O
+혔	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 초임지였던 청주지검에서 그는 홍판표(判杓)에서 법 준(準)자를 써서 홍준표로 개명했다.
+## 초임지였던 <청주지검:ORG>에서 그는 <홍판표:PER>(判杓)에서 법 준(準)자를 써서 <홍준표:PER>로 개명했다.
+초임	초임	NNG	O
+지	지+이	XSN+VCP	O
+였	었	EP	O
+던	던	ETM	O
+_	_	_	O
+청주	청주	NNP	B-ORG
+지검	지검	NNG	I-ORG
+에서	에서	JKB	O
+_	_	_	O
+그	그	NP	O
+는	는	JX	O
+_	_	_	O
+홍판표	홍판표	NNP	B-PER
+(	(	SS	O
+判杓	判杓	SH	O
+)	)	SS	O
+에서	에서	JKB	O
+_	_	_	O
+법	법	NNG	O
+_	_	_	O
+준	준	XPN	O
+(	(	SS	O
+準	準	SH	O
+)	)	SS	O
+자	자	NNG	O
+를	를	JKO	O
+_	_	_	O
+써서	+어서	+EC	O
+_	_	_	O
+홍준표	홍준표	NNP	B-PER
+로	로	JKB	O
+_	_	_	O
+개명	개명하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 이를 위해 극동대는 IELP(Intensive English Learning Program)와 GLDP(Global Leadership Development Program) 같은 외국어 몰입교육 프로그램을 만들었다.
+## 이를 위해 <극동대:ORG>는 IELP(Intensive English Learning Program)와 GLDP(Global Leadership Development Program) 같은 외국어 몰입교육 프로그램을 만들었다.
+이	이	NP	O
+를	를	JKO	O
+_	_	_	O
+위해	위하+여	VV+EC	O
+_	_	_	O
+극동대	극동대	NNP	B-ORG
+는	는	JX	O
+_	_	_	O
+IELP	IELP	SL	O
+(	(	SS	O
+Intensive	Intensive	SL	O
+_	_	_	O
+English	English	SL	O
+_	_	_	O
+Learning	Learning	SL	O
+_	_	_	O
+Program	Program	SL	O
+)	)	SS	O
+와	와	JKB	O
+_	_	_	O
+GLDP	GLDP	SL	O
+(	(	SS	O
+Global	Global	SL	O
+_	_	_	O
+Leadership	Leadership	SL	O
+_	_	_	O
+Development	Development	SL	O
+_	_	_	O
+Program	Program	SL	O
+)	)	SS	O
+_	_	_	O
+같	같	VA	O
+은	은	ETM	O
+_	_	_	O
+외국어	외국어	NNG	O
+_	_	_	O
+몰입	몰입	NNG	O
+교육	교육	NNG	O
+_	_	_	O
+프로그램	프로그램	NNG	O
+을	을	JKO	O
+_	_	_	O
+만들	만들	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## "신디에게 미운 정이 들었다.
+## "<신디:PER>에게 미운 정이 들었다.
+"	"	SS	O
+신디	신디	NNP	B-PER
+에게	에게	JKB	O
+_	_	_	O
+미	밉	VA	O
+운	ㄴ	ETM	O
+_	_	_	O
+정	정	NNG	O
+이	이	JKS	O
+_	_	_	O
+들	들	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 박 대표가 농촌 일을 한 것은 농사펀드가 처음은 아니다.
+## <박:PER> 대표가 농촌 일을 한 것은 농사펀드가 처음은 아니다.
+박	박	NNP	B-PER
+_	_	_	O
+대표	대표	NNG	O
+가	가	JKS	O
+_	_	_	O
+농촌	농촌	NNG	O
+_	_	_	O
+일	일	NNG	O
+을	을	JKO	O
+_	_	_	O
+한	하+ㄴ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+은	은	JX	O
+_	_	_	O
+농사	농사	NNG	O
+펀드	펀드	NNG	O
+가	가	JKS	O
+_	_	_	O
+처음	처음	NNG	O
+은	은	JX	O
+_	_	_	O
+아니	아니	VCN	O
+다	다	EF	O
+.	.	SF	O
+
+## 10
+## ‘계성종합건설’이 시공하는 ‘해이든 평창 레지던스 700’ 오피스텔은 지하 1층∼지상 20층의 건물에 주력 타입 26.20m²(436실)를 비롯해 52.40m², 78.60m² 등 세가지 평형, 총 442실로 구성되었다.
+## ‘<계성종합건설:ORG>’이 시공하는 ‘<해이든 평창 레지던스 700:POH>’ 오피스텔은 <지하 1층:NOH>∼<지상 20층:NOH>의 건물에 주력 타입 <26.20m²:NOH>(<436실:NOH>)를 비롯해 <52.40m²:NOH>, <78.60m²:NOH> 등 <세가지:NOH> 평형, 총 <442실:NOH>로 구성되었다.
+‘	‘	SS	O
+계성	계성	NNP	B-ORG
+종합	종합	NNG	I-ORG
+건설	건설	NNG	I-ORG
+’	’	SS	O
+이	이	JKS	O
+_	_	_	O
+시공하	시공하	VV	O
+는	는	ETM	O
+_	_	_	O
+‘	‘	SS	O
+해	해	NNG	B-POH
+이	이	VCP	I-POH
+든	든	EC	I-POH
+_	_	_	I-POH
+평창	평창	NNP	I-POH
+_	_	_	I-POH
+레지던스	레지던스	NNG	I-POH
+_	_	_	I-POH
+700	700	SN	I-POH
+’	’	SS	O
+_	_	_	O
+오피스텔	오피스텔	NNG	O
+은	은	JX	O
+_	_	_	O
+지하	지하	NNG	B-NOH
+_	_	_	I-NOH
+1	1	SN	I-NOH
+층	층	NNG	I-NOH
+∼	∼	SO	O
+지상	지상	NNG	B-NOH
+_	_	_	I-NOH
+20	20	SN	I-NOH
+층	층	NNG	I-NOH
+의	의	JKG	O
+_	_	_	O
+건물	건물	NNG	O
+에	에	JKB	O
+_	_	_	O
+주력	주력	NNG	O
+_	_	_	O
+타입	타입	NNG	O
+_	_	_	O
+26.20	26.20	SN	B-NOH
+m	m	SL	I-NOH
+²	²	SW	I-NOH
+(	(	SS	O
+436	436	SN	B-NOH
+실	실	NNB	I-NOH
+)	)	SS	O
+를	를	JKO	O
+_	_	_	O
+비롯해	비롯하+여	VV+EC	O
+_	_	_	O
+52.40	52.40	SN	B-NOH
+m	m	SL	I-NOH
+²	²	SW	I-NOH
+,	,	SP	O
+_	_	_	O
+78.60	78.60	SN	B-NOH
+m	m	SL	I-NOH
+²	²	SW	I-NOH
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+세	세	MM	B-NOH
+가지	가지	NNB	I-NOH
+_	_	_	O
+평형	평형	NNG	O
+,	,	SP	O
+_	_	_	O
+총	총	MM	O
+_	_	_	O
+442	442	SN	B-NOH
+실	실	NNB	I-NOH
+로	로	JKB	O
+_	_	_	O
+구성되	구성되	VV	O
+었	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 정웅인은 정세윤에게 “안 떨어져 살아도 돼”라며 “시집가도 가까운 곳에 살면 된다”고 말하며 눈물을 훔쳤다.
+## <정웅인:PER>은 <정세윤:PER>에게 “안 떨어져 살아도 돼”라며 “시집가도 가까운 곳에 살면 된다”고 말하며 눈물을 훔쳤다.
+정웅인	정웅인	NNP	B-PER
+은	은	JX	O
+_	_	_	O
+정세윤	정세윤	NNP	B-PER
+에게	에게	JKB	O
+_	_	_	O
+“	“	SS	O
+안	안	MAG	O
+_	_	_	O
+떨어져	떨어지+어	VV+EC	O
+_	_	_	O
+살	살	VV	O
+아도	아도	EC	O
+_	_	_	O
+돼	되+어	VV+EF	O
+”	”+이	SS+VCP	O
+라며	라며	EC	O
+_	_	_	O
+“	“	SS	O
+시집가도	시집가+아도	VV+EC	O
+_	_	_	O
+가까	가깝	VA	O
+운	ㄴ	ETM	O
+_	_	_	O
+곳	곳	NNG	O
+에	에	JKB	O
+_	_	_	O
+살	살	VV	O
+면	면	EC	O
+_	_	_	O
+된다	되+ㄴ다	VV+EF	O
+”	”	SS	O
+고	고	JKQ	O
+_	_	_	O
+말하	말하	VV	O
+며	며	EC	O
+_	_	_	O
+눈물	눈물	NNG	O
+을	을	JKO	O
+_	_	_	O
+훔	훔치	VV	O
+쳤	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 알고 보니 김씨는 A씨에게 가로챈 돈으로 값비싼 음식을 사먹거나 고급 차를 빌리는 등 호화생활을 하며 모두 탕진했다.
+## 알고 보니 <김:PER>씨는 <A:PER>씨에게 가로챈 돈으로 값비싼 음식을 사먹거나 고급 차를 빌리는 등 호화생활을 하며 모두 탕진했다.
+알	알	VV	O
+고	고	EC	O
+_	_	_	O
+보	보	VX	O
+니	니	EC	O
+_	_	_	O
+김	김	NNP	B-PER
+씨	씨	NNB	O
+는	는	JX	O
+_	_	_	O
+A	A	SL	B-PER
+씨	씨	NNB	O
+에게	에게	JKB	O
+_	_	_	O
+가로챈	가로채+ㄴ	VV+ETM	O
+_	_	_	O
+돈	돈	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+값비싼	값비싸+ㄴ	VA+ETM	O
+_	_	_	O
+음식	음식	NNG	O
+을	을	JKO	O
+_	_	_	O
+사	사+아	VV+EC	O
+먹	먹	VV	O
+거나	거나	EC	O
+_	_	_	O
+고급	고급	NNG	O
+_	_	_	O
+차	차	NNG	O
+를	를	JKO	O
+_	_	_	O
+빌리	빌리	VV	O
+는	는	ETM	O
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+호화	호화	NNG	O
+생활	생활	NNG	O
+을	을	JKO	O
+_	_	_	O
+하	하	VV	O
+며	며	EC	O
+_	_	_	O
+모두	모두	MAG	O
+_	_	_	O
+탕진	탕진하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 13
+## -SRX가 북한을 지나니 북한은 좋은 패를 손에 쥐었다고 판단하는 듯합니다.
+## -<SRX:POH>가 <북한:ORG>을 지나니 <북한:ORG>은 좋은 패를 손에 쥐었다고 판단하는 듯합니다.
+-	-	SO	O
+SRX	SRX	SL	B-POH
+가	가	JKS	O
+_	_	_	O
+북한	북한	NNP	B-ORG
+을	을	JKO	O
+_	_	_	O
+지나	지나	VV	O
+니	니	EC	O
+_	_	_	O
+북한	북한	NNP	B-ORG
+은	은	JX	O
+_	_	_	O
+좋	좋	VA	O
+은	은	ETM	O
+_	_	_	O
+패	패	NNG	O
+를	를	JKO	O
+_	_	_	O
+손	손	NNG	O
+에	에	JKB	O
+_	_	_	O
+쥐	쥐	VV	O
+었	었	EP	O
+다고	다고	EC	O
+_	_	_	O
+판단하	판단하	VV	O
+는	는	ETM	O
+_	_	_	O
+듯합니다	듯하+ㅂ니다	VX+EF	O
+.	.	SF	O
+

@@ -1,0 +1,461 @@
+## 1
+## 아두치는 김문호 타석 때 곧바로 2루를 훔쳤다.
+## <아두치:PER>는 <김문호:PER> 타석 때 곧바로 <2루:NOH>를 훔쳤다.
+아두치	아두치	NNP	B-PER
+는	는	JX	O
+_	_	_	O
+김문호	김문호	NNP	B-PER
+_	_	_	O
+타석	타석	NNG	O
+_	_	_	O
+때	때	NNG	O
+_	_	_	O
+곧바로	곧바로	MAG	O
+_	_	_	O
+2	2	SN	B-NOH
+루	루	NNG	I-NOH
+를	를	JKO	O
+_	_	_	O
+훔	훔치	VV	O
+쳤	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 2
+## 한 달 간 시범 가동을 거쳐 24시간 가동 체계로 전환했고, 지난 2월 말 기준 140만t 생산과 124만t 이상의 슬래브 판매를 기록하며 1년도 채 되기전 하루 7500t을 생산할 수 있는 기반을 다졌다.
+## <한 달:NOH> 간 시범 가동을 거쳐 <24시간:DUR> 가동 체계로 전환했고, 지난 <2월:DAT> 말 기준 <140만t:NOH> 생산과 <124만t:NOH> 이상의 슬래브 판매를 기록하며 <1년:NOH>도 채 되기전 하루 <7500t:NOH>을 생산할 수 있는 기반을 다졌다.
+한	한	MM	B-NOH
+_	_	_	I-NOH
+달	달	NNB	I-NOH
+_	_	_	O
+간	간	NNB	O
+_	_	_	O
+시범	시범	NNG	O
+_	_	_	O
+가동	가동	NNG	O
+을	을	JKO	O
+_	_	_	O
+거쳐	거치+어	VV+EC	O
+_	_	_	O
+24	24	SN	B-DUR
+시간	시간	NNB	I-DUR
+_	_	_	O
+가동	가동	NNG	O
+_	_	_	O
+체계	체계	NNG	O
+로	로	JKB	O
+_	_	_	O
+전환	전환하	VV	O
+했	였	EP	O
+고	고	EC	O
+,	,	SP	O
+_	_	_	O
+지난	지나+ㄴ	VV+ETM	O
+_	_	_	O
+2	2	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+말	말	NNB	O
+_	_	_	O
+기준	기준	NNG	O
+_	_	_	O
+140	140	SN	B-NOH
+만	만	NR	I-NOH
+t	t	SL	I-NOH
+_	_	_	O
+생산	생산	NNG	O
+과	과	JC	O
+_	_	_	O
+124	124	SN	B-NOH
+만	만	NR	I-NOH
+t	t	SL	I-NOH
+_	_	_	O
+이상	이상	NNG	O
+의	의	JKG	O
+_	_	_	O
+슬래브	슬래브	NNG	O
+_	_	_	O
+판매	판매	NNG	O
+를	를	JKO	O
+_	_	_	O
+기록하	기록하	VV	O
+며	며	EC	O
+_	_	_	O
+1	1	SN	B-NOH
+년	년	NNB	I-NOH
+도	도	JX	O
+_	_	_	O
+채	채	MAG	O
+_	_	_	O
+되	되	VV	O
+기	기	ETN	O
+전	전	NNG	O
+_	_	_	O
+하루	하루	NNG	O
+_	_	_	O
+7500	7500	SN	B-NOH
+t	t	SL	I-NOH
+을	을	JKO	O
+_	_	_	O
+생산할	생산하+ㄹ	VV+ETM	O
+_	_	_	O
+수	수	NNB	O
+_	_	_	O
+있	있	VA	O
+는	는	ETM	O
+_	_	_	O
+기반	기반	NNG	O
+을	을	JKO	O
+_	_	_	O
+다	다지	VV	O
+졌	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 3
+## 그래서 상당수 사유지가 국유지로 돌변해 조선총독부 소유가 됐다.
+## 그래서 상당수 사유지가 국유지로 돌변해 <조선총독부:ORG> 소유가 됐다.
+그래서	그래서	MAJ	O
+_	_	_	O
+상당수	상당수	NNG	O
+_	_	_	O
+사유지	사유지	NNG	O
+가	가	JKS	O
+_	_	_	O
+국유지	국유지	NNG	O
+로	로	JKB	O
+_	_	_	O
+돌변해	돌변하+여	VV+EC	O
+_	_	_	O
+조선	조선	NNP	B-ORG
+총독부	총독부	NNG	I-ORG
+_	_	_	O
+소유	소유	NNG	O
+가	가	JKC	O
+_	_	_	O
+됐	+었	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 양 감독은 정의윤에 대해 “아쉽고, 안타까운 선수”라고 표현했지만, 잠실구장을 쓰는 팀 특성상 수비 폭이 넓고 발이 빠른 선수가 더 이득이라는 판단을 내렸다.
+## <양:PER> 감독은 <정의윤:PER>에 대해 “아쉽고, 안타까운 선수”라고 표현했지만, <잠실구장:LOC>을 쓰는 팀 특성상 수비 폭이 넓고 발이 빠른 선수가 더 이득이라는 판단을 내렸다.
+양	양	MM	B-PER
+_	_	_	O
+감독	감독	NNG	O
+은	은	JX	O
+_	_	_	O
+정의윤	정의윤	NNP	B-PER
+에	에	JKB	O
+_	_	_	O
+대해	대하+여	VV+EC	O
+_	_	_	O
+“	“	SS	O
+아쉽	아쉽	VA	O
+고	고	EC	O
+,	,	SP	O
+_	_	_	O
+안타까	안타깝	VA	O
+운	ㄴ	ETM	O
+_	_	_	O
+선수	선수	NNG	O
+”	”	SS	O
+라고	라고	JKQ	O
+_	_	_	O
+표현	표현하	VV	O
+했	였	EP	O
+지만	지만	EC	O
+,	,	SP	O
+_	_	_	O
+잠실구장	잠실구장	NNP	B-LOC
+을	을	JKO	O
+_	_	_	O
+쓰	쓰	VV	O
+는	는	ETM	O
+_	_	_	O
+팀	팀	NNG	O
+_	_	_	O
+특성	특성	NNG	O
+상	상	XSN	O
+_	_	_	O
+수비	수비	NNG	O
+_	_	_	O
+폭	폭	NNG	O
+이	이	JKS	O
+_	_	_	O
+넓	넓	VA	O
+고	고	EC	O
+_	_	_	O
+발	발	NNG	O
+이	이	JKS	O
+_	_	_	O
+빠른	빠르+ㄴ	VA+ETM	O
+_	_	_	O
+선수	선수	NNG	O
+가	가	JKS	O
+_	_	_	O
+더	더	MAG	O
+_	_	_	O
+이득	이득	NNG	O
+이	이	VCP	O
+라는	라는	ETM	O
+_	_	_	O
+판단	판단	NNG	O
+을	을	JKO	O
+_	_	_	O
+내	내리	VV	O
+렸	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 한국국학진흥원 연구원인 저자 이정철 박사는 『대동법, 조선 최고의 개혁』(2010)을 펴낸 직후부터 이 책을 구상했다고 한다.
+## <한국국학진흥원:ORG> 연구원인 저자 <이정철:PER> 박사는 『<대동법, 조선 최고의 개혁:POH>』(<2010:DAT>)을 펴낸 직후부터 이 책을 구상했다고 한다.
+한국	한국	NNP	B-ORG
+국학	국학	NNG	I-ORG
+진흥	진흥	NNG	I-ORG
+원	원	XSN	I-ORG
+_	_	_	O
+연구원	연구원	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+저자	저자	NNG	O
+_	_	_	O
+이정철	이정철	NNP	B-PER
+_	_	_	O
+박사	박사	NNG	O
+는	는	JX	O
+_	_	_	O
+『	『	SS	O
+대동법	대동법	NNG	B-POH
+,	,	SP	I-POH
+_	_	_	I-POH
+조선	조선	NNP	I-POH
+_	_	_	I-POH
+최고	최고	NNG	I-POH
+의	의	JKG	I-POH
+_	_	_	I-POH
+개혁	개혁	NNG	I-POH
+』	』	SS	O
+(	(	SS	O
+2010	2010	SN	B-DAT
+)	)	SS	O
+을	을	JKO	O
+_	_	_	O
+펴낸	펴내+ㄴ	VV+ETM	O
+_	_	_	O
+직후	직후	NNG	O
+부터	부터	JX	O
+_	_	_	O
+이	이	MM	O
+_	_	_	O
+책	책	NNG	O
+을	을	JKO	O
+_	_	_	O
+구상	구상하	VV	O
+했	였	EP	O
+다고	다고	EC	O
+_	_	_	O
+한다	하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 6
+## 가석방은 형기의 3분의 1을 채운 수형자가 대상이다.
+## 가석방은 형기의 <3분의 1:PNT>을 채운 수형자가 대상이다.
+가석방	가석방	NNG	O
+은	은	JX	O
+_	_	_	O
+형기	형기	NNG	O
+의	의	JKG	O
+_	_	_	O
+3	3	SN	B-PNT
+분	분	XSN	I-PNT
+의	의	JKG	I-PNT
+_	_	_	I-PNT
+1	1	SN	I-PNT
+을	을	JKO	O
+_	_	_	O
+채운	채우+ㄴ	VV+ETM	O
+_	_	_	O
+수형자	수형자	NNG	O
+가	가	JKS	O
+_	_	_	O
+대상	대상	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
+## 7
+## 명문대에 진학한 구내 대학생 선배 78명도 후배들을 돕는 멘토로 나섰다.
+## 명문대에 진학한 구내 대학생 선배 <78명:NOH>도 후배들을 돕는 멘토로 나섰다.
+명문	명문	NNG	O
+대	대	NNG	O
+에	에	JKB	O
+_	_	_	O
+진학한	진학하+ㄴ	VV+ETM	O
+_	_	_	O
+구내	구내	NNG	O
+_	_	_	O
+대학생	대학생	NNG	O
+_	_	_	O
+선배	선배	NNG	O
+_	_	_	O
+78	78	SN	B-NOH
+명	명	NNB	I-NOH
+도	도	JX	O
+_	_	_	O
+후배	후배	NNG	O
+들	들	XSN	O
+을	을	JKO	O
+_	_	_	O
+돕	돕	VV	O
+는	는	ETM	O
+_	_	_	O
+멘토	멘토	NNG	O
+로	로	JKB	O
+_	_	_	O
+나섰	나서+었	VV+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 남은 현금 4100여만원은 회수됐다.
+## 남은 현금 <4100여만원:MNY>은 회수됐다.
+남	남	VV	O
+은	은	ETM	O
+_	_	_	O
+현금	현금	NNG	O
+_	_	_	O
+4100	4100	SN	B-MNY
+여	여	XSN	I-MNY
+만	만	NR	I-MNY
+원	원	NNB	I-MNY
+은	은	JX	O
+_	_	_	O
+회수	회수되	VV	O
+됐	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## 글ㆍ영상 김수지 kim.sooji@joongang.co.kr,[영상=광주북부경찰서]
+## 글ㆍ영상 <김수지:PER> <kim.sooji@joongang.co.kr:POH>,[영상=<광주북부경찰서:ORG>]
+글	글	NNG	O
+ㆍ	ㆍ	SP	O
+영상	영상	NNG	O
+_	_	_	O
+김수지	김수지	NNP	B-PER
+_	_	_	O
+kim	kim	SL	B-POH
+.	.	SF	I-POH
+sooji	sooji	SL	I-POH
+@	@	SW	I-POH
+joongang	joongang	SL	I-POH
+.	.	SF	I-POH
+co	co	SL	I-POH
+.	.	SF	I-POH
+kr	kr	SL	I-POH
+,	,	SP	O
+[	[	SS	O
+영상	영상	NNG	O
+=	=	SW	O
+광주	광주	NNP	B-ORG
+북부	북부	NNG	I-ORG
+경찰서	경찰서	NNG	I-ORG
+]	]	SS	O
+
+## 10
+## 이재력 교육부 사립대제도과장은 “재정 능력과 대학 발전 계획의 구체성 등을 평가해 이르면 5월 중 절차를 마무리짓게 될 것”이라고 말했다.
+## <이재력:PER> <교육부:ORG> 사립대제도과장은 “재정 능력과 대학 발전 계획의 구체성 등을 평가해 이르면 <5월:DAT> 중 절차를 마무리짓게 될 것”이라고 말했다.
+이재력	이재력	NNP	B-PER
+_	_	_	O
+교육부	교육부	NNG	B-ORG
+_	_	_	O
+사립대	사립대	NNG	O
+제도	제도	NNG	O
+과장	과장	NNG	O
+은	은	JX	O
+_	_	_	O
+“	“	SS	O
+재정	재정	NNG	O
+_	_	_	O
+능력	능력	NNG	O
+과	과	JC	O
+_	_	_	O
+대학	대학	NNG	O
+_	_	_	O
+발전	발전	NNG	O
+_	_	_	O
+계획	계획	NNG	O
+의	의	JKG	O
+_	_	_	O
+구체성	구체성	NNG	O
+_	_	_	O
+등	등	NNB	O
+을	을	JKO	O
+_	_	_	O
+평가해	평가하+여	VV+EC	O
+_	_	_	O
+이르	이르	VV	O
+면	면	EC	O
+_	_	_	O
+5	5	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+중	중	NNB	O
+_	_	_	O
+절차	절차	NNG	O
+를	를	JKO	O
+_	_	_	O
+마무리	마무리	NNG	O
+짓	짓	VV	O
+게	게	EC	O
+_	_	_	O
+될	되+ㄹ	VV+ETM	O
+_	_	_	O
+것	것	NNB	O
+”	”	SS	O
+이라고	이라고	JKQ	O
+_	_	_	O
+말	말하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 10월 수도권 문화행사 풍성
+## <10월:DAT> <수도권:LOC> 문화행사 풍성
+10	10	SN	B-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+수도권	수도권	NNG	B-LOC
+_	_	_	O
+문화	문화	NNG	O
+행사	행사	NNG	O
+_	_	_	O
+풍성	풍성	NNG	O
+
+## 12
+## 넷마블의 '나이츠크로니클', 日 모바일 시장 흥행 조짐 보인다
+## <넷마블:ORG>의 '<나이츠크로니클:POH>', <日:LOC> 모바일 시장 흥행 조짐 보인다
+넷마블	넷마블	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+'	'	SS	O
+나이츠	나이츠	NNP	B-POH
+크로니클	크로니클	NNG	I-POH
+'	'	SS	O
+,	,	SP	O
+_	_	_	O
+日	日	SH	B-LOC
+_	_	_	O
+모바일	모바일	NNG	O
+_	_	_	O
+시장	시장	NNG	O
+_	_	_	O
+흥행	흥행	NNG	O
+_	_	_	O
+조짐	조짐	NNB	O
+_	_	_	O
+보인다	보이+ㄴ다	VV+EF	O
+

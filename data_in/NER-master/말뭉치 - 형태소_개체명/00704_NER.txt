@@ -1,0 +1,475 @@
+## 1
+## 이 중 스마트워치의 등장으로 판매에 타격을 입을 것으로 예상되는 3000스위스프랑(3076달러) 미만의 시계는 전체의 94%를 차지한다.
+## 이 중 스마트워치의 등장으로 판매에 타격을 입을 것으로 예상되는 <3000스위스프랑:MNY>(<3076달러:MNY>) 미만의 시계는 전체의 <94%:PNT>를 차지한다.
+이	이	MM	O
+_	_	_	O
+중	중	NNB	O
+_	_	_	O
+스마트	스마트	NNG	O
+워치	워치	NNG	O
+의	의	JKG	O
+_	_	_	O
+등장	등장	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+판매	판매	NNG	O
+에	에	JKB	O
+_	_	_	O
+타격	타격	NNG	O
+을	을	JKO	O
+_	_	_	O
+입	입	VV	O
+을	을	ETM	O
+_	_	_	O
+것	것	NNB	O
+으로	으로	JKB	O
+_	_	_	O
+예상되	예상되	VV	O
+는	는	ETM	O
+_	_	_	O
+3000	3000	SN	B-MNY
+스위스	스위스	NNP	I-MNY
+프랑	프랑	NNB	I-MNY
+(	(	SS	O
+3076	3076	SN	B-MNY
+달러	달러	NNB	I-MNY
+)	)	SS	O
+_	_	_	O
+미만	미만	NNG	O
+의	의	JKG	O
+_	_	_	O
+시계	시계	NNG	O
+는	는	JX	O
+_	_	_	O
+전체	전체	NNG	O
+의	의	JKG	O
+_	_	_	O
+94	94	SN	B-PNT
+%	%	SW	I-PNT
+를	를	JKO	O
+_	_	_	O
+차지한다	차지하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 2
+## 북한의 이러한 도발에도 불구하고 우리는 어떻게든 북한을 변화시켜서 한반도에 평화를 정착하고 상생의 남북관계를 구축하기 위해 지속적인 노력을 기울여왔습니다.
+## <북한:ORG>의 이러한 도발에도 불구하고 우리는 어떻게든 <북한:ORG>을 변화시켜서 <한반도:LOC>에 평화를 정착하고 상생의 <남:ORG><북:ORG>관계를 구축하기 위해 지속적인 노력을 기울여왔습니다.
+북한	북한	NNP	B-ORG
+의	의	JKG	O
+_	_	_	O
+이러한	이러하+ㄴ	VA+ETM	O
+_	_	_	O
+도발	도발	NNG	O
+에	에	JKB	O
+도	도	JX	O
+_	_	_	O
+불구하	불구하	VV	O
+고	고	EC	O
+_	_	_	O
+우리	우리	NP	O
+는	는	JX	O
+_	_	_	O
+어떻	어떻	VA	O
+게	게	EC	O
+든	든	JX	O
+_	_	_	O
+북한	북한	NNP	B-ORG
+을	을	JKO	O
+_	_	_	O
+변화	변화	NNG	O
+시켜서	시키+어서	XSV+EC	O
+_	_	_	O
+한반도	한반도	NNP	B-LOC
+에	에	JKB	O
+_	_	_	O
+평화	평화	NNG	O
+를	를	JKO	O
+_	_	_	O
+정착하	정착하	VV	O
+고	고	EC	O
+_	_	_	O
+상생	상생	NNG	O
+의	의	JKG	O
+_	_	_	O
+남북	남북	NNP	B-ORG
+관계	관계	NNG	O
+를	를	JKO	O
+_	_	_	O
+구축하	구축하	VV	O
+기	기	ETN	O
+_	_	_	O
+위해	위하+여	VV+EC	O
+_	_	_	O
+지속적	지속적	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+노력	노력	NNG	O
+을	을	JKO	O
+_	_	_	O
+기울	기울이+어	VV+EC	O
+여	오	VX	O
+왔	았	EP	O
+습니다	습니다	EF	O
+.	.	SF	O
+
+## 3
+## 1960년 영화 ‘과부’로 데뷔했다.
+## <1960년:DAT> 영화 ‘<과부:POH>’로 데뷔했다.
+1960	1960	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+영화	영화	NNG	O
+_	_	_	O
+‘	‘	SS	O
+과부	과부	NNG	B-POH
+’	’	SS	O
+로	로	JKB	O
+_	_	_	O
+데뷔	데뷔하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 4
+## 특히 루이 라쉬날, 모리스 에르조그와 같은 전설적인 산악인들의 자문은 고산 등반용 배낭 제작에 결정적 역할을 했다.
+## 특히 <루이 라쉬날:PER>, <모리스 에르조그:PER>와 같은 전설적인 산악인들의 자문은 고산 등반용 배낭 제작에 결정적 역할을 했다.
+특히	특히	MAG	O
+_	_	_	O
+루이	루이	NNP	B-PER
+_	_	_	I-PER
+라쉬	라쉬	NNP	I-PER
+날	날	NNG	I-PER
+,	,	SP	O
+_	_	_	O
+모리스	모리스	NNP	B-PER
+_	_	_	I-PER
+에르조그	에르조그	NNP	I-PER
+와	와	JC	O
+_	_	_	O
+같	같	VA	O
+은	은	ETM	O
+_	_	_	O
+전설적	전설적	NNG	O
+인	이+ㄴ	VCP+ETM	O
+_	_	_	O
+산악인	산악인	NNG	O
+들	들	XSN	O
+의	의	JKG	O
+_	_	_	O
+자문	자문	NNG	O
+은	은	JX	O
+_	_	_	O
+고산	고산	NNG	O
+_	_	_	O
+등반	등반	NNG	O
+용	용	XSN	O
+_	_	_	O
+배낭	배낭	NNG	O
+_	_	_	O
+제작	제작	NNG	O
+에	에	JKB	O
+_	_	_	O
+결정적	결정적	NNG	O
+_	_	_	O
+역할	역할	NNG	O
+을	을	JKO	O
+_	_	_	O
+했	+였	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 5
+## 하지만 일벌백계(一罰百戒)로 환부를 도려내기는커녕 은근슬쩍 면죄부를 주려는 교육부 덕택에 적어도 어느 한쪽은 이대로는 안 된다는 확신을 갖게 됐다.
+## 하지만 일벌백계(一罰百戒)로 환부를 도려내기는커녕 은근슬쩍 면죄부를 주려는 <교육부:ORG> 덕택에 적어도 어느 <한쪽:NOH>은 이대로는 안 된다는 확신을 갖게 됐다.
+하지만	하지만	MAJ	O
+_	_	_	O
+일벌백계	일벌백계	NNG	O
+(	(	SS	O
+一罰百戒	一罰百戒	SH	O
+)	)	SS	O
+로	로	JKB	O
+_	_	_	O
+환부	환부	NNG	O
+를	를	JKO	O
+_	_	_	O
+도려내	도려내	VV	O
+기	기	ETN	O
+는커녕	는커녕	JX	O
+_	_	_	O
+은근슬쩍	은근슬쩍	MAG	O
+_	_	_	O
+면죄부	면죄부	NNG	O
+를	를	JKO	O
+_	_	_	O
+주	주	VV	O
+려는	려는	ETM	O
+_	_	_	O
+교육부	교육부	NNG	B-ORG
+_	_	_	O
+덕택	덕택	NNG	O
+에	에	JKB	O
+_	_	_	O
+적어도	적어도	MAG	O
+_	_	_	O
+어느	어느	MM	O
+_	_	_	O
+한쪽	한쪽	NNG	B-NOH
+은	은	JX	O
+_	_	_	O
+이대로	이대로	MAG	O
+는	는	JX	O
+_	_	_	O
+안	안	MAG	O
+_	_	_	O
+된다는	되+ㄴ다는	VV+ETM	O
+_	_	_	O
+확신	확신	NNG	O
+을	을	JKO	O
+_	_	_	O
+갖	갖	VV	O
+게	게	EC	O
+_	_	_	O
+됐	+었	+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 6
+## 인천시설관리공단은 인천대공원 내 사계절 물썰매장과 물놀이장을 9일 개장한다.
+## <인천시설관리공단:ORG>은 <인천대공원:LOC> 내 사계절 물썰매장과 물놀이장을 <9일:DAT> 개장한다.
+인천	인천	NNP	B-ORG
+시설	시설	NNG	I-ORG
+관리	관리	NNG	I-ORG
+공단	공단	NNG	I-ORG
+은	은	JX	O
+_	_	_	O
+인천	인천	NNP	B-LOC
+대공원	대공원	NNG	I-LOC
+_	_	_	O
+내	내	NNB	O
+_	_	_	O
+사계절	사계절	NNG	O
+_	_	_	O
+물	물	NNG	O
+썰매	썰매	NNG	O
+장	장	XSN	O
+과	과	JC	O
+_	_	_	O
+물놀이장	물놀이장	NNG	O
+을	을	JKO	O
+_	_	_	O
+9	9	SN	B-DAT
+일	일	NNB	I-DAT
+_	_	_	O
+개장한다	개장하+ㄴ다	VV+EF	O
+.	.	SF	O
+
+## 7
+## 다만 "대기불안정으로 서울, 경기북부는 오후에 소나기가 오는 곳이 있겠다"고 덧붙였다.
+## 다만 "대기불안정으로 <서울:LOC>, <경기북부:LOC>는 오후에 소나기가 오는 곳이 있겠다"고 덧붙였다.
+다만	다만	MAG	O
+_	_	_	O
+"	"	SS	O
+대기	대기	NNG	O
+불안정	불안정	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+서울	서울	NNP	B-LOC
+,	,	SP	O
+_	_	_	O
+경기	경기	NNP	B-LOC
+북부	북부	NNG	I-LOC
+는	는	JX	O
+_	_	_	O
+오후	오후	NNG	O
+에	에	JKB	O
+_	_	_	O
+소나기	소나기	NNG	O
+가	가	JKS	O
+_	_	_	O
+오	오	VV	O
+는	는	ETM	O
+_	_	_	O
+곳	곳	NNG	O
+이	이	JKS	O
+_	_	_	O
+있	있	VA	O
+겠	겠	EP	O
+다	다	EF	O
+"	"	SS	O
+고	고	JKQ	O
+_	_	_	O
+덧붙	덧붙이	VV	O
+였	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 8
+## 한 달여 뒤 숨을 거뒀다.
+## <한 달:DUR>여 뒤 숨을 거뒀다.
+한	한	MM	B-DUR
+_	_	_	I-DUR
+달	달	NNB	I-DUR
+여	여	XSN	O
+_	_	_	O
+뒤	뒤	NNG	O
+_	_	_	O
+숨	숨	NNG	O
+을	을	JKO	O
+_	_	_	O
+거	거두	VV	O
+뒀	었	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 9
+## [화제의 분양현장]광교에 오는 더킨포크, 프리미엄 기대감 솔솔
+## [화제의 분양현장]<광교:LOC>에 오는 <더킨포크:ORG>, 프리미엄 기대감 솔솔
+[	[	SS	O
+화제	화제	NNG	O
+의	의	JKG	O
+_	_	_	O
+분양	분양	NNG	O
+현장	현장	NNG	O
+]	]	SS	O
+광교	광교	NNP	B-LOC
+에	에	JKB	O
+_	_	_	O
+오	오	VV	O
+는	는	ETM	O
+_	_	_	O
+더킨포크	더킨포크	NNP	B-ORG
+,	,	SP	O
+_	_	_	O
+프리미엄	프리미엄	NNG	O
+_	_	_	O
+기대감	기대감	NNG	O
+_	_	_	O
+솔솔	솔솔	MAG	O
+
+## 10
+## 안팎으로 위기에 처했던 JDC는 김한욱 이사장이 2013년 6월 취임하면서 변화의 바람이 불기 시작했다.
+## 안팎으로 위기에 처했던 <JDC:ORG>는 <김한욱:PER> 이사장이 <2013년 6월:DAT> 취임하면서 변화의 바람이 불기 시작했다.
+안팎	안팎	NNG	O
+으로	으로	JKB	O
+_	_	_	O
+위기	위기	NNG	O
+에	에	JKB	O
+_	_	_	O
+처	처하	VV	O
+했	였	EP	O
+던	던	ETM	O
+_	_	_	O
+JDC	JDC	SL	B-ORG
+는	는	JX	O
+_	_	_	O
+김한욱	김한욱	NNP	B-PER
+_	_	_	O
+이사장	이사장	NNG	O
+이	이	JKS	O
+_	_	_	O
+2013	2013	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	I-DAT
+6	6	SN	I-DAT
+월	월	NNB	I-DAT
+_	_	_	O
+취임하	취임하	VV	O
+면서	면서	EC	O
+_	_	_	O
+변화	변화	NNG	O
+의	의	JKG	O
+_	_	_	O
+바람	바람	NNG	O
+이	이	JKS	O
+_	_	_	O
+불	불	VV	O
+기	기	ETN	O
+_	_	_	O
+시작	시작하	VV	O
+했	였	EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 11
+## 남편 오인세 씨(84)는 단란한 신혼을 즐기던 1950년 북한 인민군에 끌려갔다.
+## 남편 <오인세:PER> 씨(<84:DAT>)는 단란한 신혼을 즐기던 <1950년:DAT> <북한:ORG> 인민군에 끌려갔다.
+남편	남편	NNG	O
+_	_	_	O
+오인세	오인세	NNP	B-PER
+_	_	_	O
+씨	씨	NNB	O
+(	(	SS	O
+84	84	SN	B-DAT
+)	)	SS	O
+는	는	JX	O
+_	_	_	O
+단란한	단란하+ㄴ	VA+ETM	O
+_	_	_	O
+신혼	신혼	NNG	O
+을	을	JKO	O
+_	_	_	O
+즐기	즐기	VV	O
+던	던	ETM	O
+_	_	_	O
+1950	1950	SN	B-DAT
+년	년	NNB	I-DAT
+_	_	_	O
+북한	북한	NNP	B-ORG
+_	_	_	O
+인민군	인민군	NNG	O
+에	에	JKB	O
+_	_	_	O
+끌려갔	끌려가+았	VV+EP	O
+다	다	EF	O
+.	.	SF	O
+
+## 12
+## 새누리당은 전날 의견접근을 이룬 선거구 획정안도 서비스발전기본법 및 노동개혁 4법안 등 쟁점법안들과 연계해 일괄처리한다는 입장이다.
+## <새누리당:ORG>은 전날 의견접근을 이룬 선거구 획정안도 서비스발전기본법 및 노동개혁 <4법안:NOH> 등 쟁점법안들과 연계해 일괄처리한다는 입장이다.
+새누리당	새누리당	NNP	B-ORG
+은	은	JX	O
+_	_	_	O
+전날	전날	NNG	O
+_	_	_	O
+의견	의견	NNG	O
+접근	접근	NNG	O
+을	을	JKO	O
+_	_	_	O
+이룬	이루+ㄴ	VV+ETM	O
+_	_	_	O
+선거구	선거구	NNG	O
+_	_	_	O
+획정	획정	NNG	O
+안	안	NNG	O
+도	도	JX	O
+_	_	_	O
+서비스	서비스	NNG	O
+발전	발전	NNG	O
+기본법	기본법	NNG	O
+_	_	_	O
+및	및	MAG	O
+_	_	_	O
+노동	노동	NNG	O
+개혁	개혁	NNG	O
+_	_	_	O
+4	4	SN	B-NOH
+법안	법안	NNG	I-NOH
+_	_	_	O
+등	등	NNB	O
+_	_	_	O
+쟁점	쟁점	NNG	O
+법안	법안	NNG	O
+들	들	XSN	O
+과	과	JKB	O
+_	_	_	O
+연계해	연계하+여	VV+EC	O
+_	_	_	O
+일괄	일괄	NNG	O
+처리	처리	NNG	O
+한다는	하+ㄴ다는	XSV+ETM	O
+_	_	_	O
+입장	입장	NNG	O
+이	이	VCP	O
+다	다	EF	O
+.	.	SF	O
+
