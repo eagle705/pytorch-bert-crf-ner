@@ -67,8 +67,6 @@ class NamedEntityRecognitionDataset(Dataset):
             ner_to_index['B-'+ner_tag] = len(ner_to_index)
             ner_to_index['I-'+ner_tag] = len(ner_to_index)
 
-        import json
-
         # save ner dict in data_in directory
         with open(self.model_dir / 'ner_to_index.json', 'w', encoding='utf-8') as io:
             json.dump(ner_to_index, io, ensure_ascii=False, indent=4)
@@ -161,7 +159,16 @@ class NamedEntityRecognitionFormatter():
 
 
     def transform_target_fn(self, label_text, tokens, prefix_sum_of_token_start_index):
-        regex_ner = re.compile('<(.+?):[A-Z]{3}>')
+        """
+        인풋 토큰에 대응되는 index가 토큰화된 엔티티의 index 범위 내에 있는지 체크해서 list_of_ner_ids를 생성함
+        이를 위해서 B 태그가 시작되었는지 아닌지도 체크해야함
+        매칭하면 entity index를 증가시켜서 다음 엔티티에 대해서도 검사함
+        :param label_text:
+        :param tokens:
+        :param prefix_sum_of_token_start_index:
+        :return:
+        """
+        regex_ner = re.compile('<(.+?):[A-Z]{3}>') # NER Tag가 2자리 문자면 {3} -> {2}로 변경 (e.g. LOC -> LC) 인경우
         regex_filter_res = regex_ner.finditer(label_text)
 
         list_of_ner_tag = []
@@ -195,8 +202,7 @@ class NamedEntityRecognitionFormatter():
 
                 if end < index:  # 엔티티 범위보다 현재 seq pos가 더 크면 다음 엔티티를 꺼내서 체크
                     is_entity_still_B = True
-                    entity_index = entity_index + 1 if entity_index + 1 < len(
-                        list_of_tuple_ner_start_end) else entity_index
+                    entity_index = entity_index + 1 if entity_index + 1 < len(list_of_tuple_ner_start_end) else entity_index
                     start, end = list_of_tuple_ner_start_end[entity_index]
 
                 if start <= index and index < end:  # <13일:DAT>까지 -> ('▁13', 10, 'B-DAT') ('일까지', 12, 'I-DAT') 이런 경우가 포함됨, 포함 안시키려면 토큰의 length도 계산해서 제어해야함

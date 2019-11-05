@@ -52,6 +52,8 @@ decoding_ner_sentence: [CLS] ‘모든 단점은 장점이 될수 있다' (<Lion
 - BERT가 LM기반이라 그런지 오타에도 어느정도 강건한 편인듯함
 - 문장 길이에 따라 NER 결과가 달라짐
 - 영어 데이터에 대해서는 학습이 안되서 잘 안됨
+- 사전에 나오는 '▁' 토큰과 우리가 흔히 사용하는 underscore '_'는 다르므로 주의할 것
+- If you want to apply it to other languages, you don't have to change the model architecture. Instead, you just change vocab, pretrained BERT(from huggingface), and training dataset.
 
 ### Dataset
 - [NER Dataset from 한국해양대학교 자연언어처리 연구실](https://github.com/kmounlp/NER)
@@ -99,11 +101,13 @@ python inference.py
 
 ### Future work
 - Validation pipeline
-- NER tag probability 추가
-- RestfulAPI 추가
+- NER tag probability
+- RestfulAPI
+- Knowledge Distillation
 - Refactoring, Refactoring, Refactoring
 
 ### Reference Repo
 - [NLP implementation by aisolab](https://github.com/aisolab/nlp_implementation)
 - [pytorch-crf](https://github.com/kmkurn/pytorch-crf/blob/8f3203a1f1d7984c87718bfe31853242670258db/docs/index.rst)
 - [SKTBrain KoBERT](https://github.com/SKTBrain/KoBERT)
+- [finetuning configuration_from_huggingface](https://github.com/huggingface/pytorch-transformers/blob/master/examples/run_multiple_choice.py)
