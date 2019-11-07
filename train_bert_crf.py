@@ -18,7 +18,7 @@ from data_utils.utils import CheckpointManager, SummaryManager
 from model.net import KobertCRF
 from model.utils import Config
 
-from data_utils.chatbot_dataset import NamedEntityRecognitionDataset, NamedEntityRecognitionFormatter
+from data_utils.ner_dataset import NamedEntityRecognitionDataset, NamedEntityRecognitionFormatter
 from data_utils.vocab_tokenizer import Vocabulary, Tokenizer
 from data_utils.pad_sequence import keras_pad_fn
 from gluonnlp.data import SentencepieceTokenizer
