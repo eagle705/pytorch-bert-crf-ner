@@ -53,6 +53,15 @@ decoding_ner_sentence: [CLS] ‘모든 단점은 장점이 될수 있다' (<Lion
 - 문장 길이에 따라 NER 결과가 달라짐
 - 영어 데이터에 대해서는 학습이 안되서 잘 안됨
 - 사전에 나오는 '▁' 토큰과 우리가 흔히 사용하는 underscore '_'는 다르므로 주의할 것
+- B 태그의 NER과 I 태그의 NER이 다를 경우를 방지하기 위해 BERT+Bi(LSTM or GRU)+CRF 구조로도 테스트 해봄
+  - 장점 
+    - 엔티티 토큰의 길이가 긴 경우는 잘 잡아냄
+    - B 태그의 NER과 I 태그의 NER이 다른 경우가 확실히 줄어듬
+  - 단점
+    - 모델 사이즈가 커진다는 것
+    - B 태그의 위치를 잘 못잡는 경우가 발생함  <12일:DAT>로 잡아야되는걸 앞문장의 구두점을 포함해서 <. 12일:DAT>로 잡거나, <1.83%:PNT>으로 잡아야 되는걸 1.8<3%:PNT> 잡기도함
+  - 느낀점
+    - B 태그 위치를 잘못잡는것 때문에 쓰기가 약간 애매하다는 생각이 듬 (보완이 필요함)
 - If you want to apply it to other languages, you don't have to change the model architecture. Instead, you just change vocab, pretrained BERT(from huggingface), and training dataset.
 
 ### Dataset
@@ -86,8 +95,8 @@ pip install git+https://github.com/kmkurn/pytorch-crf#egg=pytorch_crf
 ```
 
 ### Model File Link
-- [bert crf model file](https://drive.google.com/open?id=1FDLe3SUOVG7Xkh5mzstCWWTYZPtlOIK8)
-- [bert_crf, bert_alone sharing folder](https://drive.google.com/drive/folders/1C6EKVpN5q1nENX2teqKuj_HHDfJoN47x?usp=sharing)
+- [BERT CRF model file](https://drive.google.com/open?id=1FDLe3SUOVG7Xkh5mzstCWWTYZPtlOIK8)
+- [BERT CRF, BERT_alone sharing folder (including BiLSTM, BiGRU)](https://drive.google.com/drive/folders/1C6EKVpN5q1nENX2teqKuj_HHDfJoN47x?usp=sharing)
 
 ### train
 ```bash
@@ -110,4 +119,4 @@ python inference.py
 - [NLP implementation by aisolab](https://github.com/aisolab/nlp_implementation)
 - [pytorch-crf](https://github.com/kmkurn/pytorch-crf/blob/8f3203a1f1d7984c87718bfe31853242670258db/docs/index.rst)
 - [SKTBrain KoBERT](https://github.com/SKTBrain/KoBERT)
-- [finetuning configuration_from_huggingface](https://github.com/huggingface/pytorch-transformers/blob/master/examples/run_multiple_choice.py)
+- [Finetuning configuration from huggingface](https://github.com/huggingface/pytorch-transformers/blob/master/examples/run_multiple_choice.py)

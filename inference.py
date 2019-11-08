@@ -5,7 +5,7 @@ import argparse
 import torch
 from kobert.pytorch_kobert import get_pytorch_kobert_model
 from kobert.utils import get_tokenizer
-from model.net import KobertSequenceFeatureExtractor, KobertCRF
+from model.net import KobertSequenceFeatureExtractor, KobertCRF, KobertBiLSTMCRF, KobertBiGRUCRF
 from gluonnlp.data import SentencepieceTokenizer
 from data_utils.utils import Config
 from data_utils.vocab_tokenizer import Tokenizer
@@ -37,11 +37,16 @@ def main(parser):
     # Model
     # model = KobertSequenceFeatureExtractor(config=model_config, num_classes=len(ner_to_index))
     model = KobertCRF(config=model_config, num_classes=len(ner_to_index), vocab=vocab)
+    # model = KobertBiLSTMCRF(config=model_config, num_classes=len(ner_to_index), vocab=vocab)
+    # model = KobertBiGRUCRF(config=model_config, num_classes=len(ner_to_index), vocab=vocab)
 
     # load
     model_dict = model.state_dict()
     # checkpoint = torch.load("./experiments/base_model/best-epoch-9-step-600-acc-0.845.bin", map_location=torch.device('cpu'))
     checkpoint = torch.load("./experiments/base_model_with_crf/best-epoch-16-step-1500-acc-0.993.bin", map_location=torch.device('cpu'))
+    # checkpoint = torch.load("./experiments/base_model_with_bilstm_crf/best-epoch-15-step-2750-acc-0.992.bin", map_location=torch.device('cpu'))
+    # checkpoint = torch.load("./experiments/base_model_with_bigru_crf/model-epoch-18-step-3250-acc-0.997.bin", map_location=torch.device('cpu'))
+
     convert_keys = {}
     for k, v in checkpoint['model_state_dict'].items():
         new_key_name = k.replace("module.", '')
@@ -70,7 +75,11 @@ def main(parser):
         # y_pred = model(x_input)
         # list_of_pred_ids = y_pred.max(dim=-1)[1].tolist()
 
+        ## for bert crf
         list_of_pred_ids = model(x_input)
+
+        ## for bert bilstm crf & bert bigru crf
+        # list_of_pred_ids = model(x_input, using_pack_sequence=False)
 
         list_of_ner_word, decoding_ner_sentence = decoder_from_res(list_of_input_ids=list_of_input_ids, list_of_pred_ids=list_of_pred_ids)
         print("list_of_ner_word:", list_of_ner_word)
@@ -155,5 +164,7 @@ if __name__ == '__main__':
     parser.add_argument('--data_dir', default='./data_in', help="Directory containing config.json of data")
     # parser.add_argument('--model_dir', default='./experiments/base_model', help="Directory containing config.json of model")
     parser.add_argument('--model_dir', default='./experiments/base_model_with_crf', help="Directory containing config.json of model")
+    # parser.add_argument('--model_dir', default='./experiments/base_model_with_bilstm_crf', help="Directory containing config.json of model")
+    # parser.add_argument('--model_dir', default='./experiments/base_model_with_bigru_crf', help="Directory containing config.json of model")
 
     main(parser)
