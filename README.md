@@ -62,6 +62,7 @@ decoding_ner_sentence: [CLS] ‘모든 단점은 장점이 될수 있다' (<Lion
     - B 태그의 위치를 잘 못잡는 경우가 발생함  <12일:DAT>로 잡아야되는걸 앞문장의 구두점을 포함해서 <. 12일:DAT>로 잡거나, <1.83%:PNT>으로 잡아야 되는걸 1.8<3%:PNT> 잡기도함
   - 느낀점
     - B 태그 위치를 잘못잡는것 때문에 쓰기가 약간 애매하다는 생각이 듬 (보완이 필요함)
+    - 학습은 GRU가 LSTM 보다 1 epoch정도 더 빠르게 성능이 올라감
 - If you want to apply it to other languages, you don't have to change the model architecture. Instead, you just change vocab, pretrained BERT(from huggingface), and training dataset.
 
 ### Dataset
@@ -92,6 +93,7 @@ pip install mxnet>=1.5.0
 pip install gluonnlp>=0.6.0
 pip install sentencepiece>=0.1.6
 pip install git+https://github.com/kmkurn/pytorch-crf#egg=pytorch_crf
+pip install transformers
 ```
 
 ### Model File Link
@@ -108,6 +110,11 @@ python train_bert_crf.py
 python inference.py 
 ```
 
+### Visualization
+![BERT_NER_viz](./assets/bert_viz_small.gif)
+
+
+
 ### Future work
 - Validation pipeline
 - NER tag probability
@@ -120,3 +127,4 @@ python inference.py
 - [pytorch-crf](https://github.com/kmkurn/pytorch-crf/blob/8f3203a1f1d7984c87718bfe31853242670258db/docs/index.rst)
 - [SKTBrain KoBERT](https://github.com/SKTBrain/KoBERT)
 - [Finetuning configuration from huggingface](https://github.com/huggingface/pytorch-transformers/blob/master/examples/run_multiple_choice.py)
+- [BERT Attention Visualization](https://github.com/jessevig/bertviz)
