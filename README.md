@@ -85,6 +85,27 @@ decoding_ner_sentence: [CLS] ‘모든 단점은 장점이 될수 있다' (<Lion
     - 시간표현: 날짜(DAT), 시간(TIM), 기간 (DUR)
     - 수량표현: 통화(MNY), 비율(PNT), 기타 수량표현(NOH)
 
+### Results
+- Epoch: 12 (without early stopping)
+- num of train: 23032, num of val: 931
+- Training set: ```00002_NER.txt```, ..., ```EXOBRAIN_NE_CORPUS_007.txt``` (1,425 files)
+- Validation set: ```EXOBRAIN_NE_CORPUS_009.txt```, ```EXOBRAIN_NE_CORPUS_010.txt``` (2 files)
+
+- Classification Report
+  - 대체적으로 DAT, PER, NOH, ORG, PNT 순으로 높음
+  - POH, LOC등은 좀 낮은 편
+  - validation set 기준, macro avg F1: 87.56
+<img src="./assets/classifcation_report_12_epoch.png" width="50%">
+
+- Confusion Matrix
+  - POH를 ORG로 예측하는 경우가 있음 (기타를 기관으로 분류하는 거니 어느정도 그럴 수 있다고 생각)
+  - ORG를 PER로 예측하는 경우도 좀 있음 (수정해야되는 케이스)
+<img src="./assets/best-epoch-12-step-1000-acc-0.960-cm.png" width="80%">
+
+- Training & Evaluation Accurcay & Loss Graph
+<img src="./assets/ner_training_acc_loss.gif" width="80%">
+
+
 ### Requirements
 ```bash
 pip install torch torchvision
@@ -94,10 +115,13 @@ pip install gluonnlp>=0.6.0
 pip install sentencepiece>=0.1.6
 pip install git+https://github.com/kmkurn/pytorch-crf#egg=pytorch_crf
 pip install transformers
+pip install tb-nightly
+pip install future
 ```
 
 ### Model File Link
-- [BERT CRF model file](https://drive.google.com/open?id=1FDLe3SUOVG7Xkh5mzstCWWTYZPtlOIK8)
+- [BERT CRF model file with validation](https://drive.google.com/file/d/1ZkWeR0gXPrUrOHe-xt4Im_Z9AXWFXmk7/view?usp=sharing)
+- [BERT CRF model file with training all dataset](https://drive.google.com/open?id=1FDLe3SUOVG7Xkh5mzstCWWTYZPtlOIK8)
 - [BERT CRF, BERT_alone sharing folder (including BiLSTM, BiGRU)](https://drive.google.com/drive/folders/1C6EKVpN5q1nENX2teqKuj_HHDfJoN47x?usp=sharing)
 
 ### train
@@ -113,13 +137,12 @@ python inference.py
 ### Visualization
 ![BERT_NER_viz](./assets/bert_viz_small.gif)
 
-
-
 ### Future work
-- Validation pipeline
+- ~~Validation pipeline~~
 - NER tag probability
 - RestfulAPI
 - Knowledge Distillation
+- Apex fp16 half-precision
 - Refactoring, Refactoring, Refactoring
 
 ### Reference Repo

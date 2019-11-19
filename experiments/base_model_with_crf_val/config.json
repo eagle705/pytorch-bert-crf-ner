@@ -1,7 +1,7 @@
 {
   "hidden_size": 768,
   "maxlen" : 30,
-  "epochs": 10,
+  "epochs": 15,
   "batch_size": 256,
   "dropout": 0.1,
   "learning_rate": 5e-5,
@@ -14,5 +14,5 @@
   "logging_steps": 50,
   "evaluate_during_training": true,
   "save_steps": 250,
-  "output_dir": "./experiments/base_model_with_crf/checkpoints"
+  "output_dir": "./experiments/base_model_with_crf_val/checkpoints"
 }

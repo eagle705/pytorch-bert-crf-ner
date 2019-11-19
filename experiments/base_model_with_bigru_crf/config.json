@@ -12,7 +12,7 @@
   "warmup_steps": 0,
   "max_grad_norm": 1,
   "logging_steps": 50,
-  "evaluate_during_training": false,
+  "evaluate_during_training": true,
   "save_steps": 250,
   "output_dir": "./experiments/base_model_with_bigru_crf/checkpoints"
 }
