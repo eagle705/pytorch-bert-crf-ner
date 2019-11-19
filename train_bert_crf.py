@@ -114,16 +114,12 @@ def main(parser):
     tb_writer = SummaryWriter('{}/runs'.format(model_dir))
     checkpoint_manager = CheckpointManager(model_dir)
     summary_manager = SummaryManager(model_dir)
-    best_val_loss = 1e+10
-    best_train_acc = 0
 
     # Train!
     logger.info("***** Running training *****")
     logger.info("  Num examples = %d", len(tr_ds))
     logger.info("  Num Epochs = %d", model_config.epochs)
     logger.info("  Instantaneous batch size per GPU = %d", model_config.batch_size)
-    # logger.info("  Total train batch size (w. parallel, distributed & accumulation) = %d",
-    #                args.train_batch_size * args.gradient_accumulation_steps * (torch.distributed.get_world_size() if args.local_rank != -1 else 1))
     logger.info("  Gradient Accumulation steps = %d", model_config.gradient_accumulation_steps)
     logger.info("  Total optimization steps = %d", t_total)
 
@@ -171,9 +167,7 @@ def main(parser):
                 tr_summary = {'loss': tr_loss_avg, 'acc': tr_acc}
 
                 # if step % 50 == 0:
-                print('epoch : {}, global_step : {}, tr_loss: {:.3f}, tr_acc: {:.2%}'.format(epoch + 1, global_step,
-                                                                                             tr_summary['loss'],
-                                                                                             tr_summary['acc']))
+                print('epoch : {}, global_step : {}, tr_loss: {:.3f}, tr_acc: {:.2%}'.format(epoch + 1, global_step, tr_summary['loss'], tr_summary['acc']))
 
                 # training & evaluation log
                 if model_config.logging_steps > 0 and global_step % model_config.logging_steps == 0:
@@ -215,37 +209,19 @@ def main(parser):
                         #     tb_writer.add_scalar('test_{}'.format(key), value, global_step)
                         # logger.info("test acc: %s, loss: %s, global steps: %s", str(eval_summary['eval_acc']), str(eval_summary['eval_loss']), str(global_step))
 
-                        checkpoint_manager.save_checkpoint(state,
-                                                           'best-epoch-{}-step-{}-acc-{:.3f}.bin'.format(epoch + 1,
-                                                                                                         global_step,
-                                                                                                         best_dev_acc))
-
-                        print("Saving model checkpoint as best-epoch-{}-step-{}-acc-{:.3f}.bin".format(epoch + 1,
-                                                                                                       global_step,
-                                                                                                       best_dev_acc))
+                        checkpoint_manager.save_checkpoint(state, 'best-epoch-{}-step-{}-acc-{:.3f}.bin'.format(epoch + 1, global_step, best_dev_acc))
+                        print("Saving model checkpoint as best-epoch-{}-step-{}-acc-{:.3f}.bin".format(epoch + 1, global_step, best_dev_acc))
 
                         # print classification report and save confusion matrix
-                        cr_save_path = model_dir / 'best-epoch-{}-step-{}-acc-{:.3f}-cr.csv'.format(epoch + 1,
-                                                                                                    global_step,
-                                                                                                    best_dev_acc)
-                        cm_save_path = model_dir / 'best-epoch-{}-step-{}-acc-{:.3f}-cm.png'.format(epoch + 1,
-                                                                                                    global_step,
-                                                                                                    best_dev_acc)
-                        save_cr_and_cm(val_dl, list_of_y_real, list_of_pred_tags, cr_save_path=cr_save_path,
-                                       cm_save_path=cm_save_path)
+                        cr_save_path = model_dir / 'best-epoch-{}-step-{}-acc-{:.3f}-cr.csv'.format(epoch + 1, global_step, best_dev_acc)
+                        cm_save_path = model_dir / 'best-epoch-{}-step-{}-acc-{:.3f}-cm.png'.format(epoch + 1, global_step, best_dev_acc)
+                        save_cr_and_cm(val_dl, list_of_y_real, list_of_pred_tags, cr_save_path=cr_save_path, cm_save_path=cm_save_path)
                     else:
-                        torch.save(state, os.path.join(output_dir,
-                                                       'model-epoch-{}-step-{}-acc-{:.3f}.bin'.format(epoch + 1,
-                                                                                                      global_step,
-                                                                                                      eval_summary[
-                                                                                                          "eval_acc"])))
-                        print("Saving model checkpoint as model-epoch-{}-step-{}-acc-{:.3f}.bin".format(epoch + 1,
-                                                                                                        global_step,
-                                                                                                        eval_summary[
-                                                                                                            "eval_acc"]))
+                        torch.save(state, os.path.join(output_dir, 'model-epoch-{}-step-{}-acc-{:.3f}.bin'.format(epoch + 1, global_step, eval_summary["eval_acc"])))
+                        print("Saving model checkpoint as model-epoch-{}-step-{}-acc-{:.3f}.bin".format(epoch + 1, global_step, eval_summary["eval_acc"]))
 
     tb_writer.close()
-    logger.info(" global_step = %s, average loss = %s", global_step, tr_loss / global_step)
+    print("global_step = {}, average loss = {}".format(global_step, tr_loss / global_step))
 
     return global_step, tr_loss / global_step, best_steps
 
@@ -298,14 +274,11 @@ def evaluate(model, val_dl, prefix="NER"):
 
 import operator
 import pandas as pd
-
-
 def save_cr_and_cm(val_dl, list_of_y_real, list_of_pred_tags, cr_save_path="classification_report.csv", cm_save_path="confusion_matrix.png"):
     """ print classification report and confusion matrix """
 
-    target_names = val_dl.dataset.ner_to_index.keys()
+    # target_names = val_dl.dataset.ner_to_index.keys()
     sorted_ner_to_index = sorted(val_dl.dataset.ner_to_index.items(), key=operator.itemgetter(1))
-
     target_names = []
     for ner_tag, index in sorted_ner_to_index:
         if ner_tag in ['[CLS]', '[SEP]', '[PAD]', '[MASK]', 'O']:
@@ -313,172 +286,19 @@ def save_cr_and_cm(val_dl, list_of_y_real, list_of_pred_tags, cr_save_path="clas
         else:
             target_names.append(ner_tag)
 
-    label_index_to_print = list(
-        range(5, 25))  # ner label indice except '[CLS]', '[SEP]', '[PAD]', '[MASK]' and 'O' tag
-    print(classification_report(y_true=list_of_y_real, y_pred=list_of_pred_tags, target_names=target_names,
-                                labels=label_index_to_print, digits=4))
-
-    cr_dict = classification_report(y_true=list_of_y_real, y_pred=list_of_pred_tags, target_names=target_names,
-                                    labels=label_index_to_print, digits=4, output_dict=True)
+    label_index_to_print = list(range(5, 25))  # ner label indice except '[CLS]', '[SEP]', '[PAD]', '[MASK]' and 'O' tag
+    print(classification_report(y_true=list_of_y_real, y_pred=list_of_pred_tags, target_names=target_names, labels=label_index_to_print, digits=4))
+    cr_dict = classification_report(y_true=list_of_y_real, y_pred=list_of_pred_tags, target_names=target_names, labels=label_index_to_print, digits=4, output_dict=True)
     df = pd.DataFrame(cr_dict).transpose()
     df.to_csv(cr_save_path)
-
     np.set_printoptions(precision=2)
-    plot_confusion_matrix(y_true=list_of_y_real, y_pred=list_of_pred_tags, classes=target_names,
-                          labels=label_index_to_print, normalize=False, title='Confusion matrix, without normalization')
+    plot_confusion_matrix(y_true=list_of_y_real, y_pred=list_of_pred_tags, classes=target_names, labels=label_index_to_print, normalize=False, title='Confusion matrix, without normalization')
     plt.savefig(cm_save_path)
     # plt.show()
 
-
 import matplotlib.pyplot as plt
 from sklearn.metrics import confusion_matrix
 from sklearn.utils.multiclass import unique_labels
-
-
-def plot_confusion_matrix(y_true, y_pred, classes, labels,
-                          normalize=False,
-                          title=None,
-                          cmap=plt.cm.Blues):
-    """
-    This function prints and plots the confusion matrix.
-    Normalization can be applied by setting `normalize=True`.
-    """
-    if not title:
-        if normalize:
-            title = 'Normalized confusion matrix'
-        else:
-            title = 'Confusion matrix, without normalization'
-
-    # Compute confusion matrix
-    cm = confusion_matrix(y_true=y_true, y_pred=y_pred, labels=labels)
-    # Only use the labels that appear in the data
-
-    if normalize:
-        cm = cm.astype('float') / cm.sum(axis=1)[:, np.newaxis]
-        print("Normalized confusion matrix")
-    else:
-        print('Confusion matrix, without normalization')
-
-    # --- plot 크기 조절 --- #
-    plt.rcParams['savefig.dpi'] = 200
-    plt.rcParams['figure.dpi'] = 200
-    plt.rcParams['figure.figsize'] = [20, 20]  # plot 크기
-    plt.rcParams.update({'font.size': 10})
-    # --- plot 크기 조절 --- #
-
-    fig, ax = plt.subplots()
-    im = ax.imshow(cm, interpolation='nearest', cmap=cmap)
-
-    # --- bar 크기 조절 --- #
-    from mpl_toolkits.axes_grid1 import make_axes_locatable
-    divider = make_axes_locatable(ax)
-    cax = divider.append_axes("right", size="5%", pad=0.05)
-    plt.colorbar(im, cax=cax)
-    # --- bar 크기 조절 --- #
-    # ax.figure.colorbar(im, ax=ax)
-
-    # We want to show all ticks...
-    ax.set(xticks=np.arange(cm.shape[1]),
-           yticks=np.arange(cm.shape[0]),
-           # ... and label them with the respective list entries
-           xticklabels=classes, yticklabels=classes,
-           title=title,
-           ylabel='True label',
-           xlabel='Predicted label')
-
-    # Rotate the tick labels and set their alignment.
-    plt.setp(ax.get_xticklabels(), rotation=45, ha="right",
-             rotation_mode="anchor")
-
-    # Loop over data dimensions and create text annotations.
-    fmt = '.2f' if normalize else 'd'
-    thresh = cm.max() / 2.
-    for i in range(cm.shape[0]):
-        for j in range(cm.shape[1]):
-            ax.text(j, i, format(cm[i, j], fmt),
-                    ha="center", va="center",
-                    color="white" if cm[i, j] > thresh else "black")
-    fig.tight_layout()
-    return ax
-
-
-def evaluate(model, val_dl, eval_outputs_dirs, prefix="NER"):
-    results = {}
-
-    # multi-gpu evaluate
-    # if args.n_gpu > 1:
-    #     model = torch.nn.DataParallel(model)
-    device = torch.device('cuda') if torch.cuda.is_available() else torch.device('cpu')
-
-    # Eval!
-    logger.info("***** Running evaluation {} *****".format(prefix))
-    # logger.info("  Num examples = %d", len(eval_dataset))
-    # logger.info("  Batch size = %d", args.eval_batch_size)
-    eval_loss = 0.0
-    nb_eval_steps = 0
-
-    list_of_y_real = []
-    list_of_pred_tags = []
-    count_correct = 0
-    total_count = 0
-
-    for batch in tqdm(val_dl, desc="Evaluating"):
-        model.train()
-        x_input, token_type_ids, y_real = map(lambda elm: elm.to(device), batch)
-        with torch.no_grad():
-            inputs = {'input_ids': x_input,
-                      'token_type_ids': token_type_ids,
-                      'tags': y_real}
-            log_likelihood, sequence_of_tags = model(**inputs)
-
-            eval_loss += -1 * log_likelihood.float().item()
-        nb_eval_steps += 1
-
-        y_real = y_real.to('cpu')
-        sequence_of_tags = torch.tensor(sequence_of_tags).to('cpu')
-        count_correct += (sequence_of_tags == y_real).float()[
-            y_real != 2].sum()  # 0,1,2,3 -> [CLS], [SEP], [PAD], [MASK] index
-        total_count += len(y_real[y_real != 2])
-
-        for seq_elm in y_real.tolist():
-            list_of_y_real += seq_elm
-
-        for seq_elm in sequence_of_tags.tolist():
-            list_of_pred_tags += seq_elm
-
-    eval_loss = eval_loss / nb_eval_steps
-    acc = (count_correct / total_count).item()  # tensor -> float
-    result = {"eval_acc": acc, "eval_loss": eval_loss}
-    results.update(result)
-    target_names = val_dl.dataset.ner_to_index.keys()
-
-    import operator
-    sorted_ner_to_index = sorted(val_dl.dataset.ner_to_index.items(), key=operator.itemgetter(1))
-
-    target_names = []
-    for ner_tag, index in sorted_ner_to_index:
-        if ner_tag in ['[CLS]', '[SEP]', '[PAD]', '[MASK]', 'O']:
-            continue
-        else:
-            target_names.append(ner_tag)
-
-    label_index_to_print = list(range(5, 25))
-    print(classification_report(y_true=list_of_y_real, y_pred=list_of_pred_tags, target_names=target_names,
-                                labels=label_index_to_print))
-
-    np.set_printoptions(precision=2)
-    plot_confusion_matrix(y_true=list_of_y_real, y_pred=list_of_pred_tags, classes=target_names,
-                          labels=label_index_to_print, normalize=False, title='Confusion matrix, without normalization')
-    plt.show()
-    plt.savefig(eval_outputs_dirs / 'matplotlib_read.png')
-    return results
-
-
-import matplotlib.pyplot as plt
-from sklearn.metrics import confusion_matrix
-from sklearn.utils.multiclass import unique_labels
-
-
 def plot_confusion_matrix(y_true, y_pred, classes, labels,
                           normalize=False,
                           title=None,
