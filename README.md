@@ -1,6 +1,6 @@
 # Pytorch-BERT-CRF-NER
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url={https://github.com/eagle705/pytorch-bert-crf-ner})
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/eagle705/pytorch-bert-crf-ner)](https://github.com/eagle705/pytorch-bert-crf-ner)
 
 A PyTorch implementation of Korean NER Tagger based on BERT + CRF (PyTorch v1.2 / Python 3.x)  
 
