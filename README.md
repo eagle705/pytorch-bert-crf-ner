@@ -8,7 +8,7 @@ A PyTorch implementation of Korean NER Tagger based on BERT + CRF (PyTorch v1.2 
 
 ### Examples
 
-![ner_jupyter_notebook](./assets/ner_jupyter_notebook_2.png)
+![ner_jupyter_notebook](./assets/ner_jupyter_notebook_3.png)
 
 ### Logs
 ```
@@ -22,10 +22,10 @@ len: 66, input_token:['[CLS]', '▁문재인', '▁대통령은', '▁28', '일'
 len: 66, pred_ner_tag:['[CLS]', 'B-PER', 'O', 'B-DAT', 'I-DAT', 'B-LOC', 'I-LOC', 'I-LOC', 'O', 'O', 'O', 'B-POH', 'I-POH', 'I-POH', 'I-POH', 'I-POH', 'I-POH', 'I-POH', 'I-POH', 'I-POH', 'I-POH', 'I-POH', 'I-POH', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-POH', 'I-POH', 'O', 'B-POH', 'I-POH', 'I-POH', 'I-POH', 'I-POH', 'I-POH', 'I-POH', 'I-POH', 'I-POH', 'I-POH', 'I-POH', 'I-POH', 'I-POH', 'I-POH', 'I-POH', 'O', '[SEP]']
 decoding_ner_sentence: [CLS] <문재인:PER> 대통령은 <28일:DAT> <서울 코엑스:LOC>에서 열린 ‘<데뷰 (Deview) 2019:POH>’ 행사에 참석해 젊은 개발자들을 격려하면서 우리 정부의 인공지능 기본구상을 내놓았다. 출처 : <미디어오늘:POH> (<http://www.mediatoday.co.kr:POH>)[SEP]
    
-문장을 입력하세요:  SKTBrain에서 KoBERT 모델을 공개해준 덕분에 BERT-CRF 기반 객체명인식기를 쉽게 개발할 수 있었다.
-len: 40, input_token:['[CLS]', '▁SK', 'T', 'B', 'ra', 'in', '에서', '▁K', 'o', 'B', 'ER', 'T', '▁모델', '을', '▁공개', '해', '준', '▁덕분에', '▁B', 'ER', 'T', '-', 'C', 'R', 'F', '▁기반', '▁', '객', '체', '명', '인', '식', '기를', '▁쉽게', '▁개발', '할', '▁수', '▁있었다', '.', '[SEP]']
-len: 40, pred_ner_tag:['[CLS]', 'B-ORG', 'I-ORG', 'I-ORG', 'I-ORG', 'I-ORG', 'O', 'B-POH', 'I-POH', 'I-POH', 'I-POH', 'I-POH', 'O', 'O', 'O', 'O', 'O', 'O', 'B-POH', 'I-POH', 'I-POH', 'I-POH', 'I-POH', 'I-POH', 'I-POH', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', '[SEP]']
-decoding_ner_sentence: [CLS] <SKTBrain:ORG>에서 <KoBERT:POH> 모델을 공개해준 덕분에 <BERT-CRF:POH> 기반 객체명인식기를 쉽게 개발할 수 있었다.[SEP]
+문장을 입력하세요: SKTBrain에서 KoBERT 모델을 공개해준 덕분에 BERT-CRF 기반 개체명인식기를 쉽게 개발할 수 있었다.
+len: 39, input_token:['[CLS]', '▁SK', 'T', 'B', 'ra', 'in', '에서', '▁K', 'o', 'B', 'ER', 'T', '▁모델', '을', '▁공개', '해', '준', '▁덕분에', '▁B', 'ER', 'T', '-', 'C', 'R', 'F', '▁기반', '▁개', '체', '명', '인', '식', '기를', '▁쉽게', '▁개발', '할', '▁수', '▁있었다', '.', '[SEP]']
+len: 39, pred_ner_tag:['[CLS]', 'B-ORG', 'I-ORG', 'I-ORG', 'I-ORG', 'I-ORG', 'O', 'B-POH', 'I-POH', 'I-POH', 'I-POH', 'I-POH', 'O', 'O', 'O', 'O', 'O', 'O', 'B-POH', 'I-POH', 'I-POH', 'I-POH', 'I-POH', 'I-POH', 'I-POH', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', '[SEP]']
+decoding_ner_sentence: [CLS] <SKTBrain:ORG>에서 <KoBERT:POH> 모델을 공개해준 덕분에 <BERT-CRF:POH> 기반 개체명인식기를 쉽게 개발할 수 있었다.[SEP]
    
 문장을 입력하세요: 터미네이터: 다크 페이트 (Terminator: Dark Fate)는 2019년 개봉한 미국의 SF, 액션영화이다. 1991년 영화 터미네이터 2: 심판의 날 이후 28년 만에 제임스 카메론이 제작자로서 시리즈에 복귀한 작품이다. 린다 해밀턴이 사라 코너 역으로 돌아오면서 아널드 슈워제네거와 함께 주연을 맡았다.
 len: 102, input_token:['[CLS]', '▁터', '미', '네', '이', '터', ':', '▁다', '크', '▁페', '이', '트', '▁(', 'T', 'er', 'm', 'in', 'at', 'or', ':', '▁D', 'ar', 'k', '▁F', 'at', 'e', ')', '는', '▁20', '19', '년', '▁개봉', '한', '▁미국의', '▁S', 'F', ',', '▁액션', '영화', '이다', '.', '▁19', '91', '년', '▁영화', '▁터', '미', '네', '이', '터', '▁2', ':', '▁심판', '의', '▁날', '▁이후', '▁28', '년', '▁만에', '▁제임스', '▁카', '메', '론', '이', '▁제작', '자', '로서', '▁시리즈', '에', '▁복귀', '한', '▁작품', '이다', '.', '▁', '린다', '▁해', '밀', '턴', '이', '▁사', '라', '▁코너', '▁역', '으로', '▁돌아오', '면서', '▁아', '널', '드', '▁슈', '워', '제', '네', '거', '와', '▁함께', '▁주연', '을', '▁맡았다', '.', '[SEP]']
@@ -137,7 +137,7 @@ python inference.py
 ```
 
 ### Visualization
-![BERT_NER_viz](./assets/bert_viz_small.gif)
+![BERT_NER_viz](./assets/kobert_ner_11_layer_viz.gif)
 
 ### Future work
 - ~~Validation pipeline~~
