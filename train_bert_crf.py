@@ -173,11 +173,11 @@ def main(parser):
                 if model_config.logging_steps > 0 and global_step % model_config.logging_steps == 0:
                     if model_config.evaluate_during_training:  # Only evaluate when single GPU otherwise metrics may not average well
                         eval_summary, list_of_y_real, list_of_pred_tags = evaluate(model, val_dl)
-                    tb_writer.add_scalar('lr', scheduler.get_lr()[0], global_step)
-                    tb_writer.add_scalars('loss', {'train': (tr_loss - logging_loss) / model_config.logging_steps, 'val': eval_summary["eval_loss"]}, global_step)
-                    tb_writer.add_scalars('acc', {'train': tr_acc, 'val': eval_summary["eval_acc"]}, global_step)
+                        tb_writer.add_scalar('lr', scheduler.get_lr()[0], global_step)
+                        tb_writer.add_scalars('loss', {'train': (tr_loss - logging_loss) / model_config.logging_steps, 'val': eval_summary["eval_loss"]}, global_step)
+                        tb_writer.add_scalars('acc', {'train': tr_acc, 'val': eval_summary["eval_acc"]}, global_step)
+                        print("eval acc: {}, loss: {}, global steps: {}".format(eval_summary['eval_acc'], eval_summary['eval_loss'], global_step))
                     print("Average loss: {} at global step: {}".format((tr_loss - logging_loss) / model_config.logging_steps, global_step))
-                    print("eval acc: {}, loss: {}, global steps: {}".format(eval_summary['eval_acc'], eval_summary['eval_loss'], global_step))
                     logging_loss = tr_loss
 
                 # save model
