@@ -107,6 +107,15 @@ decoding_ner_sentence: [CLS] ‘모든 단점은 장점이 될수 있다' (<Lion
 - Training & Evaluation Accurcay & Loss Graph
 <img src="./assets/ner_training_acc_loss.gif" width="80%">
 
+- Benchmark (Devset F1 scroe )
+
+|Model|MacroAvg F1 score|Epoch|Date|
+|:------:|:------:|:---:|:---:|
+|KoBERT|0.8554|12|191129|
+|**KoBERT+CRF**|**0.8756**|12|191129|
+|KoBERT+BiLSTM+CRF|0.8659|12|191129|
+
+
 
 ### Requirements
 ```bash
