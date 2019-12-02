@@ -5,6 +5,7 @@ from torch.nn.utils.rnn import pack_padded_sequence, pad_packed_sequence
 import gluonnlp as nlp
 from kobert.pytorch_kobert import get_pytorch_kobert_model
 from pytorch_pretrained_bert import BertModel, BertConfig
+from torchcrf import CRF
 
 bert_config = {'attention_probs_dropout_prob': 0.1,
                  'hidden_act': 'gelu',
@@ -18,15 +19,14 @@ bert_config = {'attention_probs_dropout_prob': 0.1,
                  'type_vocab_size': 2,
                  'vocab_size': 8002}
 
-from torchcrf import CRF
 class KobertCRF(nn.Module):
-    """ koBERT with CRF """
+    """ KoBERT with CRF """
     def __init__(self, config, num_classes, vocab=None) -> None:
         super(KobertCRF, self).__init__()
 
-        if vocab is None: # pretraining model 사용
+        if vocab is None:
             self.bert, self.vocab = get_pytorch_kobert_model()
-        else: # finetuning model 사용
+        else:
             self.bert = BertModel(config=BertConfig.from_dict(bert_config))
             self.vocab = vocab
 
@@ -36,15 +36,17 @@ class KobertCRF(nn.Module):
 
     def forward(self, input_ids, token_type_ids=None, tags=None):
         attention_mask = input_ids.ne(self.vocab.token_to_idx[self.vocab.padding_token]).float()
-        all_encoder_layers, pooled_output = self.bert(input_ids=input_ids, token_type_ids=token_type_ids, attention_mask=attention_mask)
+        all_encoder_layers, pooled_output = self.bert(input_ids=input_ids,
+                                                      token_type_ids=token_type_ids,
+                                                      attention_mask=attention_mask)
         last_encoder_layer = all_encoder_layers[-1]
         last_encoder_layer = self.dropout(last_encoder_layer)
         emissions = self.position_wise_ff(last_encoder_layer)
 
-        if tags is not None: # crf training
+        if tags is not None:
             log_likelihood, sequence_of_tags = self.crf(emissions, tags), self.crf.decode(emissions)
             return log_likelihood, sequence_of_tags
-        else: # tag inference
+        else:
             sequence_of_tags = self.crf.decode(emissions)
             return sequence_of_tags
 
