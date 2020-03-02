@@ -26,6 +26,10 @@ from kobert.pytorch_kobert import get_pytorch_kobert_model
 from kobert.utils import get_tokenizer
 from sklearn.metrics import classification_report
 
+os.environ["CUDA_DEVICE_ORDER"] = "PCI_BUS_ID"
+os.environ["CUDA_VISIBLE_DEVICES"] = "3"
+index = 3
+device = torch.device('cuda') if torch.cuda.is_available() else torch.device('cpu')
 logger = logging.getLogger(__name__)
 
 def set_seed(seed=100):
@@ -85,6 +89,7 @@ def main(parser):
 
     # Model
     model = KobertCRF(config=model_config, num_classes=len(tr_ds.ner_to_index))
+    model.to(device)
     model.train()
 
     # optim
@@ -103,12 +108,9 @@ def main(parser):
     optimizer = AdamW(optimizer_grouped_parameters, lr=model_config.learning_rate, eps=model_config.adam_epsilon)
     scheduler = WarmupLinearSchedule(optimizer, warmup_steps=model_config.warmup_steps, t_total=t_total)
 
-    device = torch.device('cuda') if torch.cuda.is_available() else torch.device('cpu')
-
     n_gpu = torch.cuda.device_count()
     # if n_gpu > 1:
     #     model = torch.nn.DataParallel(model)
-    model.to(device)
 
     # save
     tb_writer = SummaryWriter('{}/runs'.format(model_dir))
