@@ -45,7 +45,7 @@ def get_mxnet_kobert_model(use_pooler=True,
                            use_decoder=True,
                            use_classifier=True,
                            ctx=mx.cpu(0),
-                           cachedir='~/kobert/'):
+                           cachedir='./ptr_lm_model'):
     # download model
     model_info = kobert_models['mxnet_kobert']
     model_path = _download(model_info['url'],

@@ -1,6 +1,6 @@
-from flask import Flask, render_template, request
-from .visualization_bert_ner import DecoderFromNamedEntitySequence
 from __future__ import absolute_import, division, print_function, unicode_literals
+from flask import Flask, render_template, request
+from inference import DecoderFromNamedEntitySequence
 import json
 import pickle
 import torch
@@ -27,7 +27,7 @@ def post():
     model_dir = Path('./experiments/base_model_with_crf')
     model_config = Config(json_path=model_dir / 'config.json')
     # load vocab & tokenizer
-    tok_path = "./tokenizer_78b3253a26.model"
+    tok_path = "ptr_lm_model/tokenizer_78b3253a26.model"
     ptr_tokenizer = SentencepieceTokenizer(tok_path)
 
     with open(model_dir / "vocab.pkl", 'rb') as f:
@@ -68,4 +68,5 @@ def post():
     return {'word': list_of_ner_word, 'decoding': decoding_ner_sentence}
 
 if __name__ == '__main__':
-    app.run()
+    # app.debug = True
+    app.run(host='0.0.0.0')

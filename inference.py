@@ -20,7 +20,7 @@ def main(parser):
 
     # Vocab & Tokenizer
     # tok_path = get_tokenizer() # ./tokenizer_78b3253a26.model
-    tok_path = "./tokenizer_78b3253a26.model"
+    tok_path = "./ptr_lm_model/tokenizer_78b3253a26.model"
     ptr_tokenizer = SentencepieceTokenizer(tok_path)
 
     # load vocab & tokenizer

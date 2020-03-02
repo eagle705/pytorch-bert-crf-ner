@@ -20,7 +20,8 @@ import hashlib
 
 import torch
 
-from pytorch_pretrained_bert import BertModel, BertConfig
+from transformers import BertModel, BertConfig
+# from pytorch_pretrained_bert import BertModel, BertConfig
 import gluonnlp as nlp
 
 from .utils import download as _download
@@ -56,7 +57,7 @@ bert_config = {'attention_probs_dropout_prob': 0.1,
 
 
 def get_pytorch_kobert_model(ctx='cpu',
-                           cachedir='./'):
+                           cachedir='./ptr_lm_model'):
     # download model
     model_info = kobert_models['pytorch_kobert']
     model_path = _download(model_info['url'],

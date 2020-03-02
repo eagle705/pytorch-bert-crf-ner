@@ -34,7 +34,7 @@ kobert_models = {
 }
 
 
-def download(url, filename, chksum, cachedir='./'):
+def download(url, filename, chksum, cachedir='./ptr_lm_model'):
     f_cachedir = os.path.expanduser(cachedir)
     os.makedirs(f_cachedir, exist_ok=True)
     file_path = os.path.join(f_cachedir, filename)
@@ -66,7 +66,7 @@ def download(url, filename, chksum, cachedir='./'):
     return file_path
 
 
-def get_onnx(cachedir='./'):
+def get_onnx(cachedir='./ptr_lm_model'):
     """Get KoBERT ONNX file path after downloading
     """
     model_info = kobert_models['onnx_kobert']
@@ -75,7 +75,7 @@ def get_onnx(cachedir='./'):
                     model_info['chksum'],
                     cachedir=cachedir)
 
-def get_tokenizer(cachedir='./'):
+def get_tokenizer(cachedir='./ptr_lm_model'):
     """Get KoBERT Tokenizer file path after downloading
     """
     model_info = kobert_models['tokenizer']

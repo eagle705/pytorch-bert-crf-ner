@@ -2,9 +2,9 @@ from __future__ import absolute_import, division, print_function, unicode_litera
 import torch
 from torch import nn
 from torch.nn.utils.rnn import pack_padded_sequence, pad_packed_sequence
-import gluonnlp as nlp
 from kobert.pytorch_kobert import get_pytorch_kobert_model
-from pytorch_pretrained_bert import BertModel, BertConfig
+from transformers import BertModel, BertConfig
+# from pytorch_pretrained_bert import BertModel, BertConfig
 from torchcrf import CRF
 
 bert_config = {'attention_probs_dropout_prob': 0.1,
@@ -36,10 +36,12 @@ class KobertCRF(nn.Module):
 
     def forward(self, input_ids, token_type_ids=None, tags=None):
         attention_mask = input_ids.ne(self.vocab.token_to_idx[self.vocab.padding_token]).float()
-        all_encoder_layers, pooled_output = self.bert(input_ids=input_ids,
-                                                      token_type_ids=token_type_ids,
-                                                      attention_mask=attention_mask)
-        last_encoder_layer = all_encoder_layers[-1]
+
+        # outputs: (last_encoder_layer, pooled_output, attention_weight)
+        outputs = self.bert(input_ids=input_ids,
+                            token_type_ids=token_type_ids,
+                            attention_mask=attention_mask)
+        last_encoder_layer = outputs[0]
         last_encoder_layer = self.dropout(last_encoder_layer)
         emissions = self.position_wise_ff(last_encoder_layer)
 
@@ -103,8 +105,8 @@ class KobertBiLSTMCRF(nn.Module):
 
         seq_length = input_ids.ne(self._pad_id).sum(dim=1)
         attention_mask = input_ids.ne(self._pad_id).float()
-        all_encoder_layers, pooled_output = self.bert(input_ids=input_ids, token_type_ids=token_type_ids, attention_mask=attention_mask)
-        last_encoder_layer = all_encoder_layers[-1]
+        outputs = self.bert(input_ids=input_ids, token_type_ids=token_type_ids, attention_mask=attention_mask)
+        last_encoder_layer = outputs[0]
         last_encoder_layer = self.dropout(last_encoder_layer)
         if using_pack_sequence is True:
             pack_padded_last_encoder_layer = pack_padded_sequence(last_encoder_layer, seq_length, batch_first=True, enforce_sorted=False)
@@ -142,8 +144,8 @@ class KobertBiGRUCRF(nn.Module):
 
         seq_length = input_ids.ne(self._pad_id).sum(dim=1)
         attention_mask = input_ids.ne(self._pad_id).float()
-        all_encoder_layers, pooled_output = self.bert(input_ids=input_ids, token_type_ids=token_type_ids, attention_mask=attention_mask)
-        last_encoder_layer = all_encoder_layers[-1]
+        outputs = self.bert(input_ids=input_ids, token_type_ids=token_type_ids, attention_mask=attention_mask)
+        last_encoder_layer = outputs[0]
         last_encoder_layer = self.dropout(last_encoder_layer)
         if using_pack_sequence is True:
             pack_padded_last_encoder_layer = pack_padded_sequence(last_encoder_layer, seq_length, batch_first=True, enforce_sorted=False)
@@ -170,8 +172,8 @@ class KobertSequenceFeatureExtractor(nn.Module):
 
     def forward(self, input_ids, token_type_ids=None):
         attention_mask = input_ids.ne(self.vocab.token_to_idx[self.vocab.padding_token]).float()
-        all_encoder_layers, pooled_output = self.bert(input_ids=input_ids, token_type_ids=token_type_ids, attention_mask=attention_mask)
-        last_encoder_layer = all_encoder_layers[-1]
+        outputs = self.bert(input_ids=input_ids, token_type_ids=token_type_ids, attention_mask=attention_mask)
+        last_encoder_layer = outputs[0]
         last_encoder_layer = self.dropout(last_encoder_layer)
         logits = self.position_wise_ff(last_encoder_layer)
         return logits

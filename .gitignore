@@ -8,7 +8,7 @@ experiments/base_model_with_crf/best-epoch-16-step-1500-acc-0.993.bin
 experiments/base_model_with_crf_val/best-epoch-12-step-1000-acc-0.960.bin
 experiments/base_model_with_bilstm_crf/best-epoch-15-step-2750-acc-0.992.bin
 experiments/base_model_with_bigru_crf/model-epoch-18-step-3250-acc-0.997.bin
-pytorch_kobert_2439f391a6.params
+ptr_lm_model/pytorch_kobert_2439f391a6.params
 assets/bert_viz_large.gif
 
 ### macOS ###

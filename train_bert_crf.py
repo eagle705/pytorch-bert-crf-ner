@@ -26,9 +26,9 @@ from kobert.pytorch_kobert import get_pytorch_kobert_model
 from kobert.utils import get_tokenizer
 from sklearn.metrics import classification_report
 
-os.environ["CUDA_DEVICE_ORDER"] = "PCI_BUS_ID"
-os.environ["CUDA_VISIBLE_DEVICES"] = "3"
-index = 3
+# os.environ["CUDA_DEVICE_ORDER"] = "PCI_BUS_ID"
+# os.environ["CUDA_VISIBLE_DEVICES"] = "0" # use gpu 0, gpu 1, gpu 2, ... (gpu index)
+
 device = torch.device('cuda') if torch.cuda.is_available() else torch.device('cpu')
 logger = logging.getLogger(__name__)
 
