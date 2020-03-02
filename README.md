@@ -1,12 +1,14 @@
 # Pytorch-BERT-CRF-NER
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/eagle705/pytorch-bert-crf-ner)](https://github.com/eagle705/pytorch-bert-crf-ner)
+
 A PyTorch implementation of Korean NER Tagger based on BERT + CRF (PyTorch v1.2 / Python 3.x)  
 
 ![kobert_crf_fig](./assets/kobert_crf_fig.png)
 
 ### Examples
 
-![ner_jupyter_notebook](./assets/ner_jupyter_notebook_2.png)
+![ner_jupyter_notebook](./assets/ner_jupyter_notebook_3.png)
 
 ### Logs
 ```
@@ -20,10 +22,10 @@ len: 66, input_token:['[CLS]', '▁문재인', '▁대통령은', '▁28', '일'
 len: 66, pred_ner_tag:['[CLS]', 'B-PER', 'O', 'B-DAT', 'I-DAT', 'B-LOC', 'I-LOC', 'I-LOC', 'O', 'O', 'O', 'B-POH', 'I-POH', 'I-POH', 'I-POH', 'I-POH', 'I-POH', 'I-POH', 'I-POH', 'I-POH', 'I-POH', 'I-POH', 'I-POH', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-POH', 'I-POH', 'O', 'B-POH', 'I-POH', 'I-POH', 'I-POH', 'I-POH', 'I-POH', 'I-POH', 'I-POH', 'I-POH', 'I-POH', 'I-POH', 'I-POH', 'I-POH', 'I-POH', 'I-POH', 'O', '[SEP]']
 decoding_ner_sentence: [CLS] <문재인:PER> 대통령은 <28일:DAT> <서울 코엑스:LOC>에서 열린 ‘<데뷰 (Deview) 2019:POH>’ 행사에 참석해 젊은 개발자들을 격려하면서 우리 정부의 인공지능 기본구상을 내놓았다. 출처 : <미디어오늘:POH> (<http://www.mediatoday.co.kr:POH>)[SEP]
    
-문장을 입력하세요:  SKTBrain에서 KoBERT 모델을 공개해준 덕분에 BERT-CRF 기반 객체명인식기를 쉽게 개발할 수 있었다.
-len: 40, input_token:['[CLS]', '▁SK', 'T', 'B', 'ra', 'in', '에서', '▁K', 'o', 'B', 'ER', 'T', '▁모델', '을', '▁공개', '해', '준', '▁덕분에', '▁B', 'ER', 'T', '-', 'C', 'R', 'F', '▁기반', '▁', '객', '체', '명', '인', '식', '기를', '▁쉽게', '▁개발', '할', '▁수', '▁있었다', '.', '[SEP]']
-len: 40, pred_ner_tag:['[CLS]', 'B-ORG', 'I-ORG', 'I-ORG', 'I-ORG', 'I-ORG', 'O', 'B-POH', 'I-POH', 'I-POH', 'I-POH', 'I-POH', 'O', 'O', 'O', 'O', 'O', 'O', 'B-POH', 'I-POH', 'I-POH', 'I-POH', 'I-POH', 'I-POH', 'I-POH', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', '[SEP]']
-decoding_ner_sentence: [CLS] <SKTBrain:ORG>에서 <KoBERT:POH> 모델을 공개해준 덕분에 <BERT-CRF:POH> 기반 객체명인식기를 쉽게 개발할 수 있었다.[SEP]
+문장을 입력하세요: SKTBrain에서 KoBERT 모델을 공개해준 덕분에 BERT-CRF 기반 개체명인식기를 쉽게 개발할 수 있었다.
+len: 39, input_token:['[CLS]', '▁SK', 'T', 'B', 'ra', 'in', '에서', '▁K', 'o', 'B', 'ER', 'T', '▁모델', '을', '▁공개', '해', '준', '▁덕분에', '▁B', 'ER', 'T', '-', 'C', 'R', 'F', '▁기반', '▁개', '체', '명', '인', '식', '기를', '▁쉽게', '▁개발', '할', '▁수', '▁있었다', '.', '[SEP]']
+len: 39, pred_ner_tag:['[CLS]', 'B-ORG', 'I-ORG', 'I-ORG', 'I-ORG', 'I-ORG', 'O', 'B-POH', 'I-POH', 'I-POH', 'I-POH', 'I-POH', 'O', 'O', 'O', 'O', 'O', 'O', 'B-POH', 'I-POH', 'I-POH', 'I-POH', 'I-POH', 'I-POH', 'I-POH', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', '[SEP]']
+decoding_ner_sentence: [CLS] <SKTBrain:ORG>에서 <KoBERT:POH> 모델을 공개해준 덕분에 <BERT-CRF:POH> 기반 개체명인식기를 쉽게 개발할 수 있었다.[SEP]
    
 문장을 입력하세요: 터미네이터: 다크 페이트 (Terminator: Dark Fate)는 2019년 개봉한 미국의 SF, 액션영화이다. 1991년 영화 터미네이터 2: 심판의 날 이후 28년 만에 제임스 카메론이 제작자로서 시리즈에 복귀한 작품이다. 린다 해밀턴이 사라 코너 역으로 돌아오면서 아널드 슈워제네거와 함께 주연을 맡았다.
 len: 102, input_token:['[CLS]', '▁터', '미', '네', '이', '터', ':', '▁다', '크', '▁페', '이', '트', '▁(', 'T', 'er', 'm', 'in', 'at', 'or', ':', '▁D', 'ar', 'k', '▁F', 'at', 'e', ')', '는', '▁20', '19', '년', '▁개봉', '한', '▁미국의', '▁S', 'F', ',', '▁액션', '영화', '이다', '.', '▁19', '91', '년', '▁영화', '▁터', '미', '네', '이', '터', '▁2', ':', '▁심판', '의', '▁날', '▁이후', '▁28', '년', '▁만에', '▁제임스', '▁카', '메', '론', '이', '▁제작', '자', '로서', '▁시리즈', '에', '▁복귀', '한', '▁작품', '이다', '.', '▁', '린다', '▁해', '밀', '턴', '이', '▁사', '라', '▁코너', '▁역', '으로', '▁돌아오', '면서', '▁아', '널', '드', '▁슈', '워', '제', '네', '거', '와', '▁함께', '▁주연', '을', '▁맡았다', '.', '[SEP]']
@@ -85,6 +87,36 @@ decoding_ner_sentence: [CLS] ‘모든 단점은 장점이 될수 있다' (<Lion
     - 시간표현: 날짜(DAT), 시간(TIM), 기간 (DUR)
     - 수량표현: 통화(MNY), 비율(PNT), 기타 수량표현(NOH)
 
+### Results
+- Epoch: 12 (without early stopping)
+- num of train: 23032, num of val: 931
+- Training set: ```00002_NER.txt```, ..., ```EXOBRAIN_NE_CORPUS_007.txt``` (1,425 files)
+- Validation set: ```EXOBRAIN_NE_CORPUS_009.txt```, ```EXOBRAIN_NE_CORPUS_010.txt``` (2 files)
+
+- Classification Report
+  - 대체적으로 DAT, PER, NOH, ORG, PNT 순으로 높음
+  - POH, LOC등은 좀 낮은 편
+  - validation set 기준, macro avg F1: 87.56
+<img src="./assets/classifcation_report_12_epoch.png" width="50%">
+
+- Confusion Matrix
+  - POH를 ORG로 예측하는 경우가 있음 (기타를 기관으로 분류하는 거니 어느정도 그럴 수 있다고 생각)
+  - ORG를 PER로 예측하는 경우도 좀 있음 (수정해야되는 케이스)
+<img src="./assets/best-epoch-12-step-1000-acc-0.960-cm.png" width="80%">
+
+- Training & Evaluation Accurcay & Loss Graph
+<img src="./assets/ner_training_acc_loss.gif" width="80%">
+
+- Benchmark (Devset F1 scroe )
+
+|Model|MacroAvg F1 score|Epoch|Date|
+|:------:|:------:|:---:|:---:|
+|KoBERT|0.8554|12|191129|
+|**KoBERT+CRF**|**0.8756**|12|191129|
+|KoBERT+BiLSTM+CRF|0.8659|12|191129|
+
+
+
 ### Requirements
 ```bash
 pip install torch torchvision
@@ -94,10 +126,13 @@ pip install gluonnlp>=0.6.0
 pip install sentencepiece>=0.1.6
 pip install git+https://github.com/kmkurn/pytorch-crf#egg=pytorch_crf
 pip install transformers
+pip install tb-nightly
+pip install future
 ```
 
 ### Model File Link
-- [BERT CRF model file](https://drive.google.com/open?id=1FDLe3SUOVG7Xkh5mzstCWWTYZPtlOIK8)
+- [BERT CRF model file with validation](https://drive.google.com/file/d/1ZkWeR0gXPrUrOHe-xt4Im_Z9AXWFXmk7/view?usp=sharing)
+- [BERT CRF model file with training all dataset](https://drive.google.com/open?id=1FDLe3SUOVG7Xkh5mzstCWWTYZPtlOIK8)
 - [BERT CRF, BERT_alone sharing folder (including BiLSTM, BiGRU)](https://drive.google.com/drive/folders/1C6EKVpN5q1nENX2teqKuj_HHDfJoN47x?usp=sharing)
 
 ### train
@@ -111,15 +146,14 @@ python inference.py
 ```
 
 ### Visualization
-![BERT_NER_viz](./assets/bert_viz_small.gif)
-
-
+![BERT_NER_viz](./assets/kobert_ner_11_layer_viz.gif)
 
 ### Future work
-- Validation pipeline
+- ~~Validation pipeline~~
 - NER tag probability
 - RestfulAPI
 - Knowledge Distillation
+- Apex fp16 half-precision
 - Refactoring, Refactoring, Refactoring
 
 ### Reference Repo

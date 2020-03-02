@@ -53,26 +53,33 @@ class NamedEntityRecognitionDataset(Dataset):
         return x_input[0], token_type_ids, label
 
     def create_ner_dict(self, list_of_total_target_str):
-        regex_ner = re.compile('<(.+?):[A-Z]{3}>')
-        list_of_ner_tag = []
-        for label_text in list_of_total_target_str:
-            regex_filter_res = regex_ner.finditer(label_text)
-            for match_item in regex_filter_res:
-                ner_tag = match_item[0][-4:-1]
-                if ner_tag not in list_of_ner_tag:
-                    list_of_ner_tag.append(ner_tag)
+        """ if you want to build new json file, you should delete old version. """
 
-        ner_to_index = {"[CLS]":0, "[SEP]":1, "[PAD]":2, "[MASK]":3, "O": 4}
-        for ner_tag in list_of_ner_tag:
-            ner_to_index['B-'+ner_tag] = len(ner_to_index)
-            ner_to_index['I-'+ner_tag] = len(ner_to_index)
+        if not os.path.exists(self.model_dir / "ner_to_index.json"):
+            regex_ner = re.compile('<(.+?):[A-Z]{3}>')
+            list_of_ner_tag = []
+            for label_text in list_of_total_target_str:
+                regex_filter_res = regex_ner.finditer(label_text)
+                for match_item in regex_filter_res:
+                    ner_tag = match_item[0][-4:-1]
+                    if ner_tag not in list_of_ner_tag:
+                        list_of_ner_tag.append(ner_tag)
 
-        # save ner dict in data_in directory
-        with open(self.model_dir / 'ner_to_index.json', 'w', encoding='utf-8') as io:
-            json.dump(ner_to_index, io, ensure_ascii=False, indent=4)
+            ner_to_index = {"[CLS]":0, "[SEP]":1, "[PAD]":2, "[MASK]":3, "O": 4}
+            for ner_tag in list_of_ner_tag:
+                ner_to_index['B-'+ner_tag] = len(ner_to_index)
+                ner_to_index['I-'+ner_tag] = len(ner_to_index)
 
-        self.ner_to_index = ner_to_index
+            # save ner dict in data_in directory
+            with open(self.model_dir / 'ner_to_index.json', 'w', encoding='utf-8') as io:
+                json.dump(ner_to_index, io, ensure_ascii=False, indent=4)
+            self.ner_to_index = ner_to_index
+        else:
+            self.set_ner_dict()
 
+    def set_ner_dict(self):
+        with open(self.model_dir / "ner_to_index.json", 'rb') as f:
+            self.ner_to_index = json.load(f)
 
     def load_data(self, train_data_dir):
         list_of_file_name = [file_name for file_name in os.listdir(train_data_dir) if '.txt' in file_name]
