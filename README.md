@@ -119,15 +119,7 @@ decoding_ner_sentence: [CLS] ‘모든 단점은 장점이 될수 있다' (<Lion
 
 ### Requirements
 ```bash
-pip install torch torchvision
-pip install pytorch_pretrained_bert>=0.4.0
-pip install mxnet>=1.5.0
-pip install gluonnlp>=0.6.0
-pip install sentencepiece>=0.1.6
-pip install git+https://github.com/kmkurn/pytorch-crf#egg=pytorch_crf
-pip install transformers
-pip install tb-nightly
-pip install future
+pip install -r requirements.txt
 ```
 
 ### Model File Link
