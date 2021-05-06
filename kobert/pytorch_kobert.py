@@ -76,7 +76,7 @@ def get_pytorch_kobert_model(ctx='cpu',
 
 def get_kobert_model(model_file, vocab_file, ctx="cpu"):
     bertmodel = BertModel(config=BertConfig.from_dict(bert_config))
-    bertmodel.load_state_dict(torch.load(model_file))
+    bertmodel.load_state_dict(torch.load(model_file), strict=False)
     device = torch.device(ctx)
     bertmodel.to(device)
     bertmodel.eval()
