@@ -28,11 +28,11 @@ JPype1==1.2.1
 Keras-Preprocessing==1.1.2
 kiwisolver==1.3.1
 konlpy==0.5.2
-lxml==4.6.5
+lxml==4.9.1
 Markdown==3.3.4
 matplotlib==3.4.1
 mxnet==1.8.0.post0
-numpy==1.19.2
+numpy==1.22.0
 oauthlib==3.1.0
 opt-einsum==3.3.0
 packaging==20.9
@@ -61,8 +61,8 @@ tb-nightly==2.6.0a20210427
 tensorboard==2.5.0
 tensorboard-data-server==0.6.0
 tensorboard-plugin-wit==1.8.0
-tensorflow==2.5.3
-tensorflow-estimator==2.5.0
+tensorflow==2.7.2
+tensorflow-estimator==2.4.0
 termcolor==1.1.0
 threadpoolctl==2.1.0
 tokenizers==0.10.2
