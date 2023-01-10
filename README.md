@@ -123,9 +123,9 @@ pip install -r requirements.txt
 ```
 
 ### Model File Link
-- [BERT CRF model file with validation](https://drive.google.com/file/d/1ZkWeR0gXPrUrOHe-xt4Im_Z9AXWFXmk7/view?usp=sharing)
-- [BERT CRF model file with training all dataset](https://drive.google.com/open?id=1FDLe3SUOVG7Xkh5mzstCWWTYZPtlOIK8)
-- [BERT CRF, BERT_alone sharing folder (including BiLSTM, BiGRU)](https://drive.google.com/drive/folders/1C6EKVpN5q1nENX2teqKuj_HHDfJoN47x?usp=sharing)
+- [BERT CRF model file with validation](https://works.do/FhKyyNr)
+- [BERT CRF model file with training all dataset](https://works.do/xuweeF8)
+- [BERT CRF, BERT_alone sharing folder (including BiLSTM, BiGRU)](https://works.do/xkVee9n)
 
 ### train
 ```bash
