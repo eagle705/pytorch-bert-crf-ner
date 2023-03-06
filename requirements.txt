@@ -12,7 +12,7 @@ cycler==0.10.0
 Cython==0.29.23
 filelock==3.0.12
 flatbuffers==1.12
-future==0.18.2
+future==0.18.3
 gast==0.4.0
 gluonnlp==0.10.0
 google-auth==1.30.0
