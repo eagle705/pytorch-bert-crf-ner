@@ -73,5 +73,5 @@ transformers==4.5.1
 tweepy==3.10.0
 typing-extensions==3.7.4.3
 urllib3==1.26.18
-Werkzeug==2.2.3
+Werkzeug==2.3.8
 wrapt==1.12.1
