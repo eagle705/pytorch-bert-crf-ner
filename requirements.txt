@@ -19,7 +19,7 @@ google-auth==1.30.0
 google-auth-oauthlib==0.4.4
 google-pasta==0.2.0
 graphviz==0.8.4
-grpcio==1.53.0
+grpcio==1.53.2
 h5py==3.1.0
 idna==2.10
 jmespath==0.10.0
